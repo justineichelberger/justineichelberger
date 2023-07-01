@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:21 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:24 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Maunk Chunk (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>BRIGHT LIGHT SHINED ON US  IN OUR BOAT GONE IN SECONDS OVER MOUNTAINMYSELF AND MY FISHING BUDDY WHERE ON THE LAKE MAUNK CHUNK NOT FAR FROM HAWK MOUNTAIN THE OBJECT STOPPED ABOVE OUR BOAT SHINED LIGHT ON US FOR 20 SECONDS AND HEADED OVER THE MOUNTAIN LIKE A FLASH IN THE DIRECTION OF HAWK MOUNTAIN. THE TIME WE SAW IT WAS AROUND MIDNIGHT LITTLE BEFORE LITLLE AFTER NO NOISE WAS GONE IN SECONDS. IF ANYONE ELSE SAW IT E-MAIL ME AT ((e-address deleted)) ALL UNDERSCORE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42156.html](http://www.nuforc.org/webreports/reports/042/S42156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Malden (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>blue-white star, larger than any other in sky-- making regular 90' turns- for over 30 min.'sa group of my friends and i were in our "clubhouse", my garage. it was a summer night, summer vacation. some of us were in the garage, with our girl-friends, some--(approx. 3), were outside. ((deleted name #1)) called to us( inside, to " come see this". he yelled this and ((deleted name #2)) and ((deleted name #3)). also called to us. the girls and guy's inside, who were making-out: came running out. our friends tone of voice made us think../ DANGER... this being the 60's in boston. where there was alot of gang activity.we all grouped up in my front yard; and looked where ((deleted #1)), ((deleted 2)) and ((deleted 3)) were pointing into the sky. we saw a large blue-white, starlike object,directly overhead. it was tavelling, N. to S.; it was about 2-3 x's the size of a large star. much bigger than any other star in the sky, which was just becoming night. the remarkable thing, was that it moving N. to S., making 90 degree turns, in a regular pattern. it made a pattern like the top of a castle tower. sth. then east then sth. then wst. then sth. etc. We watched it 'til it passed beyond the rooftops. we were quite excited, we didn't have ANY idea what it was: but we knew it was'nt an American craft and we doubted it was Russian. we were smart enough to know 90' turns were impossible with aircraft even with all the "cold-war" scares of the time. we then ran (south) a mile or so to the highschool stadium, climbed the fence and climbed the stadium til we got to the press-box. here we watched " gorgeous george", until it came to the Sth. horizon approx. 30 min.'s later.   this has "stuck" in my mind and many of my old-friends' minds for 40+ years. i have tried to report this several times in the past, but have seen nor heard any verification of my reports.  this was a year or 2 before anybody heard of betty + barnie hill. we were just getting into the Beatles. we were about a doz. kids between 15 and 17 years of age. most of us were/are of normal or above I.Q. and are not prone to fantastic flights of fancy. in reality we were very observant and alert, we were "gang members"! , who we re apt to be set upon by our rivals, at anytime. this tends to breed very good observational abilities,(ie.), survival skills. i haven't seen anything since that day, but i will NEVER forget that summer evening.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22882.html](http://www.nuforc.org/webreports/reports/022/S22882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
