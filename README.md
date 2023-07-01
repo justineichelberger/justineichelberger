@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:27 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:25 on 1 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>In the summer of 2000 me and my brother where between the ages of and 7. We had just got done playing outside when we started back to our house when we looked up and saw a brown metallic craft. I can remember it had blue, white, red, and purple lights coming of it. It had very low pitch hum; all of a sudden the craft stretched itself and within seconds it few of in a bright flash, ( leaving what seemed like a trail behind it).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162704.html](http://www.nuforc.org/webreports/reports/162/S162704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Plantsville (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large bright blue light in the skyA friend and I were playing in an open field at the base of Mount Southington.  It was summer and just about dusk when we noticed a bright blue light in the sky, just hovering above us.  There was no sound and it didn't appear to be moving.  We just stood there looking at it wondering what it was and then all of a sudden it just disappeared.  I was so scared that I just ran home and left my friend standing there in the field alone.  When I got home my mother told me that the lights had gone out for an instant and there was no reception on the T.V.  To this day my friend reminds me of how I left her standing alone in the field.  There were reports that it had landed on the mountain and the government had roped off the area.  There were all kinds of military trucks coming in and out of that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14069.html](http://www.nuforc.org/webreports/reports/014/S14069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [850](http://www.nuforc.org/webreports/reports/163/S163884.html)
-- [849](http://www.nuforc.org/webreports/reports/163/S163882.html)
-- [848](http://www.nuforc.org/webreports/reports/164/S164073.html)
-- [847](http://www.nuforc.org/webreports/reports/163/S163866.html)
-- [846](http://www.nuforc.org/webreports/reports/164/S164590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
