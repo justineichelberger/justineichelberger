@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Friendswood (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A solid red light that flashed green was stationary for 4 minutes and moved in one direction quickly then swayed left to right.I looked in the sky and noticed a light, it was solid red for 3 seconds and then flashed green. It was very high up and not moving at all. It was staying in one spot for 4 minutes and then it suddenly started moving very fast.  It didn't dart off it was just going very fast then started to sway left to right and finally started moving so fast we couldn't see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128184.html](http://www.nuforc.org/webreports/reports/128/S128184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Redlands (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange orbs  in sky Redlands ca6 orange orbs seen coming from southwest sky which came into view and dissapeared. Followed by 3 more orbs which made a v formation before disappearing one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110873.html](http://www.nuforc.org/webreports/reports/110/S110873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
