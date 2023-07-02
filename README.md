@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:40 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:26 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lawrenceburg (TN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Tear drop shaped silent craft with dull lights realized it had been seen and cloaked to avoid further view.At 20:00 on 2 july 2012 I was inn my parents back yard shooting fireworks.  I looked up in the sky and saw a movement, so I focused my view on the movement and saw a teardrop craft with dull lights around the perimeter.It was about a 1500 to 2500 ft above me and silent.  It moved from west to east in a straight line.  It lasted for approximately 2-3 seconds then suddenly just disappeared; like a ship from star treck cloaking. I had the impression that it knew I had seen it so it cloaked to prevent me from seeing it. It was about the size of 3 golf balls.  That was my first viewing of a UFO.  I was sober and in sound mind and I attest this report to be the full truth.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90359.html](http://www.nuforc.org/webreports/reports/090/S90359.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morrisonville (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver ufo spotted for second time.  1st in Chazy now in MorrisonvilleCraft shimmered very reflective metal.  Could be seen from very far because of this.  Object moved in and out of o e particular cloud and hovered in place at times.  Then slowly continued on to far for human eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147284.html](http://www.nuforc.org/webreports/reports/147/S147284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
