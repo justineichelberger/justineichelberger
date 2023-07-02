@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:20 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morrisonville (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver ufo spotted for second time.  1st in Chazy now in MorrisonvilleCraft shimmered very reflective metal.  Could be seen from very far because of this.  Object moved in and out of o e particular cloud and hovered in place at times.  Then slowly continued on to far for human eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147284.html](http://www.nuforc.org/webreports/reports/147/S147284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i seen a flying saucer of some kind grey average medium size grey and it went near the corner of the first left bedroom window of our house and hung out there right on the side and then once we saw it it swooshed away real fast into the sky 3 blocks over we dont know exactly if it were aliens in that little flying saucer but sometimes we here noises ans this was one that swooshed away real fast i only saw a glimpse of a white light but my grandmother brother and mother saw more!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99632.html](http://www.nuforc.org/webreports/reports/099/S99632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
