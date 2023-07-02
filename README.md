@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:23 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oskaloosa (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>While sitting in the backyard with a friend. What appeared to be a star, slowly started decending toward the Southeast horizon.It slowly changed from a small bright light, to a bigger redish orange. It would fall real slow and then pause for a few seconds, then continue to fall looking like a magnetic fiery ball, with distorted wavy trails beneath it , instead of behind it. We watched, until it finally disapeared into the horizon, which was a tall row of trees.We also noticed four more lights, 2 were stationary one to our left and to our right. They were moving up and down, and side to side, when looking into binuculars, i could see bright blue lights going clockwise, and bright red lights going counter clockwise. The lights were moving so fast,causing it to pulse.The other lights we seen, were small solid white lights that were very fast. One came from the west and went straight north. The other came from the east heading west. This all unfolded in about 90 mins, ive never seen anything like it!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44715.html](http://www.nuforc.org/webreports/reports/044/S44715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cylindrical object with bright orange light.While relaxing on my patio at about 2115 hours I saw a cylindrical object in the sky.  It was about 9’ tall and 5’ wide.  It had a bright orange light that changed colors at the bottom and made no noise.  It traveled from east to west near the Lincoln municipal airport.  It traveled very slowly in a steady non changing course.  It was dusk and there were fireworks in the vicinity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70808.html](http://www.nuforc.org/webreports/reports/070/S70808.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
