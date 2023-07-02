@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:24 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Boonville (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A craft was spotted in the summer night sky.  I was inside a house, and a bright light was seen with my peripheral vision though the window.  I looked out the window to see the object better, and then went outside for an even closer look.  I saw a bright white light in the shape of a sphere.  The object was just below a thin layer of clouds with a full moon above.  The object would move around a small area with high speed and maneuverability.  Several times the craft would shoot straight up into the atmosphere until it was out of sight and then return to the same location below the clouds.  This occurred several times.  If an airplane came into view the light would disappear until the plane was out of sight.  The craft was visible for at least 30 minutes.  I went inside the house to get a 35mm camera.  However, I was not able to get the camera to focus on the object so that a picture to be taken.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63343.html](http://www.nuforc.org/webreports/reports/063/S63343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On a walk through the neighborhood I glanced up at the sky and noticed a small circle heading west.  It went behind some trees and disappeared.  Further along the walk I thought I saw it heading east but it turned out to be a plane.  Though, once the plane gave  shape to its formation three circles very close to the plane appeared.  They were smaller than the plane and stacked on top of each other with some given space.  They floated in the air moving back and forth. West and East. Y ou could only see them when the sun reflected on their surface.  They’re either white or silver.  Hard to distinguish.  I could only see them while wearing sunglasses.  The sky was too bright.  After about three minutes they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157375.html](http://www.nuforc.org/webreports/reports/157/S157375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
