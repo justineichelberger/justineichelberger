@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:21 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Extraordinary sighting of cigar shape craft over Bakersfield.Past three years have seen many things in the skies.  Yet nothing I feel confident enough to say is a ufo.  Until the morning of July 2, 2014, approximately at 3:14 am.What I saw is something I have never seen before.  It was so amazing it sent chills down my spine.  As real and dramatic as my experience was to me.  I was hesitant to make a report.  I changed my mind because when I arrived at home and turned on the news like every other day.  One of the first segments was a segment on ufo sightings.  Followed by a segment about the rocket luanch the night before.  I felt that the local news was trying to discredit what was clearly a dramatic sighting.  That meant I was not the only one to see it.  I wanted to go ahead and report my sighting and hopefully find out if there are more reports in my area.At 3:14 a.m., I noticed a bright red Orange ball of light coming in to visibility.  Much like an approaching plane that is going to soon land.  Then it came to complete stop.  This was extremely bright orange red light about the height that police helicopters fly in a city.  Then it made what look like a right turn yet when it did this, it went from being a ball of light.  To what seemed to me to be a long cigar shape with three lights in the middle...orange, red, orange.  Then it slowly moved in what I can only described as a snake slithering.  Then it slowly faded to a flashing light.  That stayed stationary for about another 45 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110871.html](http://www.nuforc.org/webreports/reports/110/S110871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Abu Gosh (Israel) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A white landing light and a red light traversing the sky in Abu Gosh Israel.We were visiting relatives in Abu Gosh, Israel, about 5 miles west of Jerusalem.  My wife and daughter saw a white light that traveled from west to east.  The object stopped and then descended into a grove of trees.  About ten minutes later I had just started my radio show when my son in-law called me out to the patio. The patio faced north.  We saw an object, red in color (no other colors), a solid red that traveled about a third of the distance of the east/west plane then it blinked out for about two seconds and then resumed its brightness.  It continued until it had traversed about half of the east/west plane and it disappeared (blinked out).  My son in-law informed me that these sightings are quite common in Abu Gosh.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102142.html](http://www.nuforc.org/webreports/reports/102/S102142.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
