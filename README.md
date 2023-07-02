@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Abu Gosh (Israel) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A white landing light and a red light traversing the sky in Abu Gosh Israel.We were visiting relatives in Abu Gosh, Israel, about 5 miles west of Jerusalem.  My wife and daughter saw a white light that traveled from west to east.  The object stopped and then descended into a grove of trees.  About ten minutes later I had just started my radio show when my son in-law called me out to the patio. The patio faced north.  We saw an object, red in color (no other colors), a solid red that traveled about a third of the distance of the east/west plane then it blinked out for about two seconds and then resumed its brightness.  It continued until it had traversed about half of the east/west plane and it disappeared (blinked out).  My son in-law informed me that these sightings are quite common in Abu Gosh.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102142.html](http://www.nuforc.org/webreports/reports/102/S102142.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jefferson City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>A obelisk shaped flying object illuminated with many colors of light, flew across the sky at a moderate speed.An unidentified flying object, which was flying approximately in the middle of the troposphere. The object had many bright colors of lights and flew until out of sight. The object was obelisk shaped and flew too far out of range for anyone to have been controlling it as a toy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76070.html](http://www.nuforc.org/webreports/reports/076/S76070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
