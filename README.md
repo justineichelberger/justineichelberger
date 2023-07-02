@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jefferson City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>A obelisk shaped flying object illuminated with many colors of light, flew across the sky at a moderate speed.An unidentified flying object, which was flying approximately in the middle of the troposphere. The object had many bright colors of lights and flew until out of sight. The object was obelisk shaped and flew too far out of range for anyone to have been controlling it as a toy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76070.html](http://www.nuforc.org/webreports/reports/076/S76070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Parachute (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sphere shaped half moon object gliding across the sky.My childhood friend and I were sittting on my front porch lookin at the stars when we saw a redbut mostly white sphere shaped object approx.  The size of a half moon glide across the sky in a diagonal motion it was too slow to be a plane but not fast enough to be a shooting star.  We ran down the street to follow it but as we ran it faded away and disappeared. We sat on the front porch for an hour looking for more but had not seen anything else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99557.html](http://www.nuforc.org/webreports/reports/099/S99557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
