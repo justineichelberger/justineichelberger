@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:20 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>i seen a flying saucer of some kind grey average medium size grey and it went near the corner of the first left bedroom window of our house and hung out there right on the side and then once we saw it it swooshed away real fast into the sky 3 blocks over we dont know exactly if it were aliens in that little flying saucer but sometimes we here noises ans this was one that swooshed away real fast i only saw a glimpse of a white light but my grandmother brother and mother saw more!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99632.html](http://www.nuforc.org/webreports/reports/099/S99632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Oroville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>One light heading north but disappeared right above me the second light was just moments after heading east same thing it disappeared right above me. I have a video of one going from really bright like a start to disappearing right about me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163891.html](http://www.nuforc.org/webreports/reports/163/S163891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
