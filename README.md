@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:12 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Dunmore (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange firey lights, unexplainableAbout an hour ago we were outside and 2 large orange lights appeared close together in the sky, no sound, yet they were traveling up.  Looked like the spinner fireworks you set on the ground and they ignite and spin, best way to describe it, like they were on fire. They traveled UP and at a decent speed, then one fizzled out and continued to rise up with a dimmer light, the other did the same moments later, then from the same direction ANOTHER one came and the same thing, seemed that after the "firey" light dimmed, they got faster and traveled upwards til they disappeared,  MAN was THIS STRANGE!!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82069.html](http://www.nuforc.org/webreports/reports/082/S82069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Drums (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast, real fast.Very high altitude moving at an extreemly high rate of speed.  Traveling in a south southwest direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37906.html](http://www.nuforc.org/webreports/reports/037/S37906.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
