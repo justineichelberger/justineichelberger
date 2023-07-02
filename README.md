@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:46 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:40 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Meadville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Moving light,decending,turned on large flood light,silent,light faded out and object pulled back and proceeded upwards very high at a steep angle.  We were enjoying a backyard campfire at the time.I own a carpet cleaning business in meadville, Pa.  My son who was visiting with his family for the holiday has a degree in marketing and works in that field.  I first observed the light moving across and downward.  It was the magnitude of a large star.  The light was constant and consistent as it moved.  I brought it to the attention of my son.  At that moment the object appeared to turn downward and grew very bright .  I could only describe it as a super flood light. It hovered there for a few seconds and the light dimmed down and almost out as if it were turned down by a rheostat switch.  The object pulled back out and upward at a sharp angle.  Ot had a dim light and went out. We disussed the possibilities and concluded that what we saw was intelligently maneuvered and the light was artificial.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08441.html](http://www.nuforc.org/webreports/reports/008/S08441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lawrenceburg (TN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Tear drop shaped silent craft with dull lights realized it had been seen and cloaked to avoid further view.At 20:00 on 2 july 2012 I was inn my parents back yard shooting fireworks.  I looked up in the sky and saw a movement, so I focused my view on the movement and saw a teardrop craft with dull lights around the perimeter.It was about a 1500 to 2500 ft above me and silent.  It moved from west to east in a straight line.  It lasted for approximately 2-3 seconds then suddenly just disappeared; like a ship from star treck cloaking. I had the impression that it knew I had seen it so it cloaked to prevent me from seeing it. It was about the size of 3 golf balls.  That was my first viewing of a UFO.  I was sober and in sound mind and I attest this report to be the full truth.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90359.html](http://www.nuforc.org/webreports/reports/090/S90359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
