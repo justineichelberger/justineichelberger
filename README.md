@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:12 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:46 on 2 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Drums (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fast, real fast.Very high altitude moving at an extreemly high rate of speed.  Traveling in a south southwest direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37906.html](http://www.nuforc.org/webreports/reports/037/S37906.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Meadville (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Moving light,decending,turned on large flood light,silent,light faded out and object pulled back and proceeded upwards very high at a steep angle.  We were enjoying a backyard campfire at the time.I own a carpet cleaning business in meadville, Pa.  My son who was visiting with his family for the holiday has a degree in marketing and works in that field.  I first observed the light moving across and downward.  It was the magnitude of a large star.  The light was constant and consistent as it moved.  I brought it to the attention of my son.  At that moment the object appeared to turn downward and grew very bright .  I could only describe it as a super flood light. It hovered there for a few seconds and the light dimmed down and almost out as if it were turned down by a rheostat switch.  The object pulled back out and upward at a sharp angle.  Ot had a dim light and went out. We disussed the possibilities and concluded that what we saw was intelligently maneuvered and the light was artificial.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08441.html](http://www.nuforc.org/webreports/reports/008/S08441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164394.html)
-- [350](http://www.nuforc.org/webreports/reports/163/S163891.html)
-- [349](http://www.nuforc.org/webreports/reports/163/S163893.html)
-- [348](http://www.nuforc.org/webreports/reports/163/S163886.html)
-- [347](http://www.nuforc.org/webreports/reports/163/S163892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
