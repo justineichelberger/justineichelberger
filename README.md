@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:27 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in College Park (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>ORB SPLITS IN 2 , red lazors and airport spaceI did write a testimony about this experience years ago, but  i dont think i did it on this forum. July 3, 2013 myself and my boyfriend were bbq’n when i noticed an bright orb came slowly over the trees.Allow me to explain the lay out, i lived so close to the airport that when planes landing gear came out i could hear it, the shadows of the plane covers my house. All planes flew in on a certain path, i had never seen a plane come from this direction before.The 1st thing, strange but weird, the 1st thing thought that popped in my mind was UFO, but just as quickly the thought of “ firework”  over took that initial opinion.i stood there watching it slowly creep over the house in a straight line, until it stopped about two houses down from me. when it stopped i noticed there was no beacon light, I knew FAA required all aircraft to have beacon lights. I also noticed no noise.After a few minutes of staring at this orb….    it split into 2 orbs. So the original orb stayed in place and an exact same new orb split from it and zoomed off with insane unimaginable speed towards the atlanta airport.i was amazed to say the least.after maybe a minute the 2nd orb returned back to the original mother orb…. and when i say returned.  It came in fast like they were going to collide! But stopped just far enough…. now the orbs are side by side. And here is the strangest part of this experience…. the one that just flew back, the one that came back from the airport, that orb started shooting red lazers back and forth!! in my mind , i know we can send information without red visual lazors…. so i assumed this was POWER! Because after the exchange of what looked like tracer rounds…. it again sped off towards the airport!! i was like “ ummm…. why is there no fighter jets coming to blow this out the sky?” then i realized the orbs were low enough to not get picked up on radar!! And the 2nd orb was going way to fast to be picked up by any device!!! BEST SHOW AND REVELATION OF MY LIFE, I WILL NEVER FORGET THAT DAY!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163308.html](http://www.nuforc.org/webreports/reports/163/S163308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Appeared in photo - Appeared in photo minutes.</sub><blockquote><sub>Two orbs or crafts noted in picture of unusual clouds.A dark and strange cloud appeared to be rolling in fast. No rainbow lightning in this cloud.  Very odd.  I joked and told my Fiancé that it looked like a horror film.      He took several pictures and posted one to Facebook after looking at the picture I noticed two white orb shapes in the picture.  They are on the same plane and circular.  They are not rain drops. I posted the picture to my Facebook and immediately people started responding that there is something there.  It is not a reflection or marks on camera as other pics do not show.  The picture is available for review it was taken with an iPhone 5</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99597.html](http://www.nuforc.org/webreports/reports/099/S99597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
