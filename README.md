@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:39 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights in shape of horseshoe moving across skyObject appeared suddenly in the eastern sky.  At first, I thought it might be some kind of a fireworks rocket that was ready to explode as it was the 4th of July weekend.  However, it started moving in a north westerly direction.  I followed it until it was no longer in my range of sight.  It appeared to have red lights that did not blink in the shape of a horseshoe and from I could gather there were seven lights.  I was high in the sky and I did not hear any type of engine noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76170.html](http://www.nuforc.org/webreports/reports/076/S76170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Leelanau (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I saw more than a dozen of these craft.Witness Summary July 3, 2012 North Lake Leelanau 2245 I am a 47-year-old Navy veteran and private pilot.  On 03 July 2012, at approximately 2245 hours, I was my boat preparing to watch the firework display on north Lake Leelanau.  I was at N45 01.210’, W085 44.060’.  I was approximately 250 feet from Porter’s landing at a depth of 48 feet.  The winds were calm, light and variable.  I observed an orangish-red glow moving from left to right from my position along the 45th parallel, travelling south to north.  The object appeared below the clouds that were present; and it moved silently.  I estimate that it was approximately 5, 000 feet AGL.  Nevertheless, it was in between the ground and the clouds present.  The orangish-red orb was followed by 14 other objects that followed the exact same flight path as the previous one.  This all occurred just prior to the start of the firework show; and I observed two of the objects go black and I could see their outline in the sky.  I could remember thinking that they looked like about the shape of a quarter.  I had no success obtaining accurate weather information from the FSS, NWS, NCDC and others.  I have seen many craft from both ships at sea, on vantages at land and from aircraft that I myself have piloted.  These looked like nothing that I have seen.  No strobes, nav lights or noise were present.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be exceptionally capable, as an observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90393.html](http://www.nuforc.org/webreports/reports/090/S90393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
