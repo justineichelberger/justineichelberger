@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogunquit (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While sitting on the beach just south of the Ogunquit River outlet to the Atlantic Ocean, on July 3, 2016, at approximately 2:00 - 2:30 pm, I observed what appeared to be a sphere crossing the sky, from south to north.  It appeared to be relatively small, not shiny, you could say it was "dark", and it traveled at a very constant velocity (fast, but not real fast). There were some clouds in the sky, and I watched as this object traveled under some of the clouds, then traveled through others.  I have no idea what height the clouds were, or the altitude the object, but am positive it passed below some, and through others.  Its path was absolutely straight, and unvarying in any way.  It made absolutely no noise, created no vapor trail, was completely stealthy, with the exception of it being visible.  It was NOT a bird, or small airplane, I am ABSOLUTELY positive of this.  I regret that I have no video of this incident, all I can say is I was transfixed.  I can assure you that I was not under the influence of anything, and that no one on the beach, including my family, took notice of the object.I've mentioned the episode to my wife, and no one else.Do you have any other reports of this?  I'm not crazy, I know what I saw.Do you have any reasonable explanation for what I observed?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128566.html](http://www.nuforc.org/webreports/reports/128/S128566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Four bright orange orbs drifted in the Eastern sky over Cranston, RI, at 10:15 pm on July 3rd.Over the course of 15 minutes, 4 bright orange orbs drifted S to N in the Eastern sky starting at 10:15 pm.  Each disappeared to the North before the next one became visible in South.   They were silent and moving about half the speed of a small plane.  I took pictures, but having seen 9 on June 11th (see report) I was a bit disappointed because there was only 4.  (ah, how quickly we get spoiled)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128359.html](http://www.nuforc.org/webreports/reports/128/S128359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
