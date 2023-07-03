@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cottage Grove (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>SKY SEEMED TO OPEN AND RETANGULAR CRAFT APPPEAREDTHE SKY SEEMED TO OPEN UP AND A BLACK RECTANGULAR CRAFT HOVERED HIGH IN THE SKY AND THEN THE SKY SEEMED TO CLOSE UP AND IT DISSAPEARED. ALL THREE WITNESSES DREW THE SAME SHAPED CRAFT AFTER THE INCIDENT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13373.html](http://www.nuforc.org/webreports/reports/013/S13373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Schererville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>POSSIBLE UFO SIGHTING DURING FIRE WORK SHOWME AND MY FRIENDS WERE WATCHING FIRE WORKS AT RORMAN PARK ON JULY 3RD ME AND TWO OF MY FRIENDS  WERE COMING BACK FROM THE BATH ROOM  WHEN I SAW A ORANGE LIGHT IN THE SKY  I COULD TELL IT WAS NOT A AIR PLANE BECAUSE IT WAS COMPLETELY  ORANGE  AND A CIRCLE AND IT WAS MOVING VEY SLOW   I ALSO THOUGHT IT WAS SOMETHING BECAUSE MY FRIEND SAID HE SAW SOMETHING SIMILAR AROUND THE SAME AREA. WE RAN TO THE CAR WHERE THE REST OF MY FRIENDS WERE MY FRIEND QUICKLY GRABBED HIS PHONE AND TOOK A PICTURE OF IT.IT THEN JUST VANISHED. ABOUT TEN MINUTES LATER IT RETURNED . IT WAS IN THE SKY FOR ABOUT ANOTHER FIVE  MINUTES AND VANISHED . AND THAT WAS THE LAST WE SAW OF IT. WHAT EVER IT WAS IT WILL HAUNT ME AND MY FRIENDS FOR THE REST OF MY LIFE.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64289.html](http://www.nuforc.org/webreports/reports/064/S64289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
