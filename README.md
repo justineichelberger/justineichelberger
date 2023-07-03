@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangular shape and fireball in ArkansasMy husband and I were staring up at the night sky looking for fireworks displays, but as we were scanning the sky we happened to look up even farther than the displays of fireworks and into the stars.   We happened to notice something unusual at the same time.  Traveling towards the southwest was what appeared to be a trianglular pattern of lights headed much more speedily than any airplane in our atmosphere.  It had white lights on each panel but red lights illuminating between each panel, but not blinking.  It was unlike anything we had ever witnessed before.  But astoundingly we also saw it shoot a fireball from behind it as it trailed off towards the southwest.  I have never been so excited to see something in my life.((NUFORC Note:  We suspect the witnesses may have observed the triplet of satellites, thought to be part of the U. S. Navy's "NOSS" satellite program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29529.html](http://www.nuforc.org/webreports/reports/029/S29529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogunquit (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While sitting on the beach just south of the Ogunquit River outlet to the Atlantic Ocean, on July 3, 2016, at approximately 2:00 - 2:30 pm, I observed what appeared to be a sphere crossing the sky, from south to north.  It appeared to be relatively small, not shiny, you could say it was "dark", and it traveled at a very constant velocity (fast, but not real fast). There were some clouds in the sky, and I watched as this object traveled under some of the clouds, then traveled through others.  I have no idea what height the clouds were, or the altitude the object, but am positive it passed below some, and through others.  Its path was absolutely straight, and unvarying in any way.  It made absolutely no noise, created no vapor trail, was completely stealthy, with the exception of it being visible.  It was NOT a bird, or small airplane, I am ABSOLUTELY positive of this.  I regret that I have no video of this incident, all I can say is I was transfixed.  I can assure you that I was not under the influence of anything, and that no one on the beach, including my family, took notice of the object.I've mentioned the episode to my wife, and no one else.Do you have any other reports of this?  I'm not crazy, I know what I saw.Do you have any reasonable explanation for what I observed?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128566.html](http://www.nuforc.org/webreports/reports/128/S128566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
