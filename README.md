@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:17 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in East Longmeadow (MA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Craft Watching 3th of July Fireworks from Above.My husband and I had just finished watching the grand finale of the 2017 fireworks display in East Longmeadow, MA, on July 3, 2017.  The last sparkles were fading and it became apparent that there was a rectangular (like a domino piece), stationary, green-lighted object parked above where the fireworks had been exploding so it was concealed by the display.  The color was like grass or leaf green--very saturated, bright and pure.  From our distance, it was about the size of an M & M candy.  My husband said he saw a dark dividing “line” separating the green light on either side.  We looked at it, expecting it to move like an aircraft or helicopter but the light blinked while staying stationary for about 3 seconds.  I expected to see red running lights and/or white landing lights indicating the craft was on approach to Bradley International Airport to the West, but there were no other lights.  The object then moved a little Southward while blinking erratically, then abru! ptly turned at a 90 degree angle and went a bit toward the East, stopped, then took off, accelerating, in a Northeasterly direction for what looked like 2 or 3 inches and then disappeared.  No noise other than the fireworks was heard.  Not sure if anyone else noticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135001.html](http://www.nuforc.org/webreports/reports/135/S135001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Whirling group of lights NW of Santa Fe, NM. moving fast in a huge circleSaw a group of whirling ghostly lights NW of Santa Fe. The lights were moving very fast in a huge circle inside of the low cloud cover. Some bigger some smaller. Counter clockwise if viewed from below.   Hard to say how big they were or how far away. The circle they were moving in was huge.  One of the lights shot away streaking toward the west. Don't know anything about all this but three of us all saw it together. Curious…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99624.html](http://www.nuforc.org/webreports/reports/099/S99624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
