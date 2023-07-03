@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ft. Gibson (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Gold/orange light disappears over Hwy 62.Small ball of gold light, no characteristics of known aircraft, too slow to be "space junk" or meteor.  Traveled toward us along highway 62.  As it left the field of view in our windshield, we immediately pulled over and it should have been directly overhead.  With a full view of the sky, the craft was no longer in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99589.html](http://www.nuforc.org/webreports/reports/099/S99589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cincinnati (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8-10 orange oval-like silent low flying objects fly over Eastern Greene Co., IN, on July 3, 2010, 11:50pm - East to WestTIME/DATE:  approx 11:50pm on July 3, 2010.LOCATION: Outside in back yard DIRECTION LOOKING: North ELEVATION: approx. 400-600 feet HOW MANY:  8-10 Objects were in motion moving slowly from East to West and appeared to follow the same line with equal spacing between them (approx 200 yards) except 2 in the last 1/2 of the group were side by side (approx 100 yards apart from each other) both still 400-600 feet high.  One of the 2 then began to move toward the other at a slightly faster pace and flew next to it for a few seconds then at a different angle flew somewhat lower and away from the other and disappeared before the horizon to the North - at this point there was just a contiuous line flying to the West each one disappearing way before the horizon of trees. They made no sound which made them more suspicious.SIZE: approx the size of a helicopters blades when in motion at 400-600 ft WITNESSES: 2 others were present</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76552.html](http://www.nuforc.org/webreports/reports/076/S76552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
