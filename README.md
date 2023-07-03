@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:17 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:39 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Whirling group of lights NW of Santa Fe, NM. moving fast in a huge circleSaw a group of whirling ghostly lights NW of Santa Fe. The lights were moving very fast in a huge circle inside of the low cloud cover. Some bigger some smaller. Counter clockwise if viewed from below.   Hard to say how big they were or how far away. The circle they were moving in was huge.  One of the lights shot away streaking toward the west. Don't know anything about all this but three of us all saw it together. Curious…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99624.html](http://www.nuforc.org/webreports/reports/099/S99624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pevely/Arnold (between) (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 fireball/orbs over Jefferson County Missouri.I saw 2 red orbs or "fireballs" moving slowly across Jefferson County on the evening of July 3rd around 10 pm?   I saw them driving north on highway 55 between Pevely and Barnhart, one was right above me on the highway and the other was east probably about a football field east of me.  They where moving west at the same speed.. pretty low.  When I got to Arnold and turned onto route 141 westbound and looked south and saw what was probably the "trailing" orb (the one east of me from when I first saw them).  It looked like it was over the highway in the Barnhart/Imperial area.At the time I wrote these off as burning firework shells or Chinese lanterns but it still bugs me. Any info would be great.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101565.html](http://www.nuforc.org/webreports/reports/101/S101565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
