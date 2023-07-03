@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:39 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>Large stationary saucer shaped object over Springfield, IllinoisI was outside in our backyard around 6:45pm CST getting the hose to fill our bird fountain. While filling it I stood facing north so that I was not looking directly into the very bright sun to my left (West). I started looking up into the northern sky when I noticed an object that was stationary and gleaming in the very bright sun and was at the altitude of normal airliners. After I completed my honeydew chores and rolling up the hose, which took about 15 minutes in total I again looked for the object and I found it was still in the very same spot including that it was still stationary and apparently had not moved. I called for my wife thru our patio door and asked her to come and look at some object and tell me what she thought. I pointed to it and she said, “I don’t know what that is, but it is not moving at all and maybe it is a big balloon”. My wife then went and got me our binoculars so we could take a better look. WoW, came out of my mouth while looking at it, as it was visibly quite large, circular with a weird combination of red-green-silver haze around it. I then gave the binoculars to my wife and said, “You got to take a look at this”. Well, to say we were both astonished is an understatement. The object remained stationary for another 25-30 minutes and then started moving directly north at a very slow pace and in fact so slow that I initially thought it had stopped moving again. As the object moved northerly the red-silver glow was more apparent and the greenish hue totally disappeared. I watched the object for a good 40 minutes and I still do not understand what I was looking at, but I can definitely tell you it was NOT a balloon or any type of man made aircraft including a helicopter at that height.  I am still stunned thinking about it and wanted to report it accordingly. My wife and I have never seen anything like this and we both thought it should be reported, discreetly. I again want to state that this object was extremely large and far bigger than any airliner I have ever observed at that height.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57460.html](http://www.nuforc.org/webreports/reports/057/S57460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Austintown (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights in shape of horseshoe moving across skyObject appeared suddenly in the eastern sky.  At first, I thought it might be some kind of a fireworks rocket that was ready to explode as it was the 4th of July weekend.  However, it started moving in a north westerly direction.  I followed it until it was no longer in my range of sight.  It appeared to have red lights that did not blink in the shape of a horseshoe and from I could gather there were seven lights.  I was high in the sky and I did not hear any type of engine noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76170.html](http://www.nuforc.org/webreports/reports/076/S76170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
