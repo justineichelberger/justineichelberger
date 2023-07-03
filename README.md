@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:28 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cincinnati (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8-10 orange oval-like silent low flying objects fly over Eastern Greene Co., IN, on July 3, 2010, 11:50pm - East to WestTIME/DATE:  approx 11:50pm on July 3, 2010.LOCATION: Outside in back yard DIRECTION LOOKING: North ELEVATION: approx. 400-600 feet HOW MANY:  8-10 Objects were in motion moving slowly from East to West and appeared to follow the same line with equal spacing between them (approx 200 yards) except 2 in the last 1/2 of the group were side by side (approx 100 yards apart from each other) both still 400-600 feet high.  One of the 2 then began to move toward the other at a slightly faster pace and flew next to it for a few seconds then at a different angle flew somewhat lower and away from the other and disappeared before the horizon to the North - at this point there was just a contiuous line flying to the West each one disappearing way before the horizon of trees. They made no sound which made them more suspicious.SIZE: approx the size of a helicopters blades when in motion at 400-600 ft WITNESSES: 2 others were present</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76552.html](http://www.nuforc.org/webreports/reports/076/S76552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Roosevelt (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw three bright red-orange lights moving slowly in the sky above Lake Roosevelt.My niece, her husband and I were using a high powered telescope to view different constellations around 11:00pm.   We were on a bluff overlooking Lake Roosevelt.  We were taking turns looking at Saturn and I heard my niece gasp, "What are those?"   She was looking over my shoulder in the opposite direction from Saturn.Turning around we saw three very bright red-orange balls (lights?)  in the sky.  They were some distance apart, did not look connected, and appeared to be moving slowly.  They did not look like they were very high in the sky.  They seemed to be directly above where the Spokane River empties into Lake Roosevelt.   We watched them move towards us for about 30 seconds, and then my niece’s husband began to turn the telescope towards them.Before he could get  them in the telescope’s sights, they winked out.  One at a time.Thinking they must be some type of aircraft (military?) that if continuing on their course would pass overhead, we watched the sky.  Nothing passed between us and the bright stars.    We decided to forget about it (after some teasing by the rest of the family), until I looked at your website and saw similar sightings in Washington State around the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82811.html](http://www.nuforc.org/webreports/reports/082/S82811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
