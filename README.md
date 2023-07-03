@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:27 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Appeared in photo - Appeared in photo minutes.</sub><blockquote><sub>Two orbs or crafts noted in picture of unusual clouds.A dark and strange cloud appeared to be rolling in fast. No rainbow lightning in this cloud.  Very odd.  I joked and told my Fiancé that it looked like a horror film.      He took several pictures and posted one to Facebook after looking at the picture I noticed two white orb shapes in the picture.  They are on the same plane and circular.  They are not rain drops. I posted the picture to my Facebook and immediately people started responding that there is something there.  It is not a reflection or marks on camera as other pics do not show.  The picture is available for review it was taken with an iPhone 5</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99597.html](http://www.nuforc.org/webreports/reports/099/S99597.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ft. Gibson (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Gold/orange light disappears over Hwy 62.Small ball of gold light, no characteristics of known aircraft, too slow to be "space junk" or meteor.  Traveled toward us along highway 62.  As it left the field of view in our windshield, we immediately pulled over and it should have been directly overhead.  With a full view of the sky, the craft was no longer in sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99589.html](http://www.nuforc.org/webreports/reports/099/S99589.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
