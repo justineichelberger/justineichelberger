@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tacoma area (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>was wondering if anyone reported a craft in the sky about this time -- i was talking on the phone with with my sister who lives near Tacoma and she told me she was watching a strange phenomena hovering in the sky -- i live in tillamook oregon. no sound from the craft((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44734.html](http://www.nuforc.org/webreports/reports/044/S44734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Butte (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Sphere/fireball seen during fireworksWhere watching firework show(s) from the football field of West Elementary School in Butte, Montana. At about 10:20 pm I walked home to get some fireworks I have forgotten,  as I was walking down the alley to my house, I noticed I very bright red/orange sphere/ball of light almost due-south of me, at first I thought it was some-type of flare, (the color was much like a road-flare) but after a few seconds I noticed it wasn’t dropping,  I lost sight of it behind some trees and the roof-line of the houses.  At the same time as this was happening, my wife, took 2 pictures that show something strange moving across the frame.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82399.html](http://www.nuforc.org/webreports/reports/082/S82399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
