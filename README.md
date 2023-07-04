@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:06 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Waterbury (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four yellow/orange lights over Waterbury, CT on 7/04/2011 about 11:00pmAfter watching the Fireworks at Municipal Stadium in Waterbury, CT on July 4, 2011, which ended about 10:00pm,  I had gone inside our home and my husband had stayed outside to listen to the neighbors fireworks and make sure nothing came at our home.  At about 11:00pm - he came inside and said you have to see what is in the sky.  I went with him outside and we watched 4 things in the sky above.  They were moving very slowly in a formation.  One in front, two on the outside and one in back.  They were yellow/orange color.  I went inside to get our camera and my husband hollered - three disappeared just like that and as I got outside the last one was almost gone.  Wish we had a cell phone w/camera but we don't.  My husband is retired/disabled and I work full time. We have never seen anything like this before. I've been checking online if anyone else seen them - but don't find anything except to post to this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82269.html](http://www.nuforc.org/webreports/reports/082/S82269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wading River? Franklin Sq (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red orange orb flying straight acrooss the skyI saw a red/orange light on the 4th in Wading River, NY.   We saw two of them at differnet times.  Then I went to my folks in Franklin Sq, NY (about 60 miles West) and they said they saw the same thing.  It was not fireworks, because it moved staight across the sky untli it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76264.html](http://www.nuforc.org/webreports/reports/076/S76264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
