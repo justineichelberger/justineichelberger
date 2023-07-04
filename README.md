@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright, flashing green object moving quickly across the skyOn July 4th, a group of us were out on a boat on Lake Ontario watching fireworks along the shore. Suddenly, we all noticed a green flashing circle.  It seemed to hover for a moment, and then began moving quickly.  None of us are sure if it appeared or we just did not notice it coming.It had a very bright green glow and seemed to flicker.  It was above 70 degrees above us and was the size of about 10 stars.  We were facing south when we saw it, and it traveled east.  To make sure it was not just a stray firework, we watched it travel and saw it go extremely far off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90412.html](http://www.nuforc.org/webreports/reports/090/S90412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Multiple UFO sightings in Kearney NebraskaOn July 4th, 2010, at 10:30 Pm me and my husband were outside watching fireworks when I noticed  12 Red orbs to the north of our house.  We watched as the orbs seem to be moving to the North, Northwest very slowly.  This was a different direction then the embers from the fireworks were going.  They were about a half a mile in the air and made no sound at all.  The UFO’s stayed the same distance apart, and really had no formation that I could recognize. This cluster of Red orbs moved out of sight in 5 to 6 minutes.  Then as I watched the sky I saw one single red orb come from the east, moving to the west the same path as the cluster moved. It seemed to move at the same speed and the same height as the others had.  The light faded and just disappeared within five minutes.  In the next 15 minutes we had seen two more orbs do the same thing as the previous ones.I really have no idea what these UFOs were but I am glad to see others had seen the same thing.   It makes me feel like I am not losing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76310.html](http://www.nuforc.org/webreports/reports/076/S76310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
