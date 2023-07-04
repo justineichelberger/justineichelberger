@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:07 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>While walking in Woodland Park in Seattle, Washington, on July 4, 1947, I looked up and saw a bright white oval object come down .On July 4, 1947, at about 5:30 PM or early twilight, I was walking in Woodland Park in Seattle, Washington, near the University of Washington.  I was a 22 year old student at the time.  The park overlooked Puget Sound and the Olympic Mountain Range to the west.  I happened to look up and saw a bright, oval-shaped object coming down from the upper atmosphere. There was no sound of motors.  The object had no wings.  The object made a very sharp almost 90-degree turn to the horizontal and then sped south along Puget Sound at high speed and towards Mt. St. Helens.  I was very surprised.  At about the same time on July 4, 1947, a Seattle bus driver and U.S.Navy member saw similar objects over Seattle.   On June 24, 1947, a light plane pilot and a prospector saw nine silvery flying saucers flying in line at high speed from north to south  over nearby Mount Rainier and Mount Adams, Washington. On July 4, 1947, two airline pilots and a stewardess saw similar nine flying saucers flying from southeast to northwest from Boise, Idaho, towards Mount Rainier and Seattle.((NUFORC Note:  We have corresponded with the source of the report, and consider him to be an exceptional witness.  He is an investigator, and archivist, for the MUTUAL UFO NETWORK, and an artist.  He has offered to share the illustration of the object he saw, and NUFORC will post it, as soon as we receive it.  We express our gratitude to the source of the information!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78993.html](http://www.nuforc.org/webreports/reports/078/S78993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange sphere observed flying south to northAfter fireworks started watched glowing sphere travel south to north glowing orange no sounds no aircraft in area and was not drone at the speed it moved and size was to big for drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147414.html](http://www.nuforc.org/webreports/reports/147/S147414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
