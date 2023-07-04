@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:11:41 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:27 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Clarkson (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle UFO over Clarkson NY  Me and my family were driving back from a party on Rt. 104 west of Rt. 19. My mother who was driving said something about lights, so, I looked out my window and saw a gigantic triangular "ship" (don't know what else to call it) spinning around in a circle and very slowly moving to the west. It moved from the large field to Drake Rd. As we turned onto Drake Rd. It went over us and the car junk yard we parked next to so we could watch it. I got out of the car as the "ship" turned onto it's side. It was pointing with one side aiming towards the ground. I got out my mothers picture phone and it went dead, at that same time the car went dead. *Suddenly I was in the car. Everyone was seemingly asleep. I looked ahead of the car to see the scariest thing I have ever seen, three small creatures in what seems to be black uniforms. After they left the ship rotated so the point on the ground now pointed to the sky, the lights on the bottom brightened (three red lights on the points and one blue in the middle) and shot off to the south west in a flash.* I am the only one who saw this last part. After it was gone several black helicopters flew over us, going in the direction of the "ship".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61128.html](http://www.nuforc.org/webreports/reports/061/S61128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Provincetown (MA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light streaked at high rate of speed.  Stopped and blinked green, and then back to white.  It sped directly away out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147313.html](http://www.nuforc.org/webreports/reports/147/S147313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
