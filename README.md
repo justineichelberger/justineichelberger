@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kearney (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Multiple UFO sightings in Kearney NebraskaOn July 4th, 2010, at 10:30 Pm me and my husband were outside watching fireworks when I noticed  12 Red orbs to the north of our house.  We watched as the orbs seem to be moving to the North, Northwest very slowly.  This was a different direction then the embers from the fireworks were going.  They were about a half a mile in the air and made no sound at all.  The UFO’s stayed the same distance apart, and really had no formation that I could recognize. This cluster of Red orbs moved out of sight in 5 to 6 minutes.  Then as I watched the sky I saw one single red orb come from the east, moving to the west the same path as the cluster moved. It seemed to move at the same speed and the same height as the others had.  The light faded and just disappeared within five minutes.  In the next 15 minutes we had seen two more orbs do the same thing as the previous ones.I really have no idea what these UFOs were but I am glad to see others had seen the same thing.   It makes me feel like I am not losing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76310.html](http://www.nuforc.org/webreports/reports/076/S76310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lamesa (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>4th of July in TexasObject seen moving quickly across sky.  Object stopped and seemed to hover in one spot for 45-60 minutes.  Red light revolved and object seemed to circle in small area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76163.html](http://www.nuforc.org/webreports/reports/076/S76163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
