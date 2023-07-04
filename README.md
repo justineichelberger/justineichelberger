@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 3 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lake Roosevelt (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw three bright red-orange lights moving slowly in the sky above Lake Roosevelt.My niece, her husband and I were using a high powered telescope to view different constellations around 11:00pm.   We were on a bluff overlooking Lake Roosevelt.  We were taking turns looking at Saturn and I heard my niece gasp, "What are those?"   She was looking over my shoulder in the opposite direction from Saturn.Turning around we saw three very bright red-orange balls (lights?)  in the sky.  They were some distance apart, did not look connected, and appeared to be moving slowly.  They did not look like they were very high in the sky.  They seemed to be directly above where the Spokane River empties into Lake Roosevelt.   We watched them move towards us for about 30 seconds, and then my niece’s husband began to turn the telescope towards them.Before he could get  them in the telescope’s sights, they winked out.  One at a time.Thinking they must be some type of aircraft (military?) that if continuing on their course would pass overhead, we watched the sky.  Nothing passed between us and the bright stars.    We decided to forget about it (after some teasing by the rest of the family), until I looked at your website and saw similar sightings in Washington State around the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82811.html](http://www.nuforc.org/webreports/reports/082/S82811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Waterbury (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four yellow/orange lights over Waterbury, CT on 7/04/2011 about 11:00pmAfter watching the Fireworks at Municipal Stadium in Waterbury, CT on July 4, 2011, which ended about 10:00pm,  I had gone inside our home and my husband had stayed outside to listen to the neighbors fireworks and make sure nothing came at our home.  At about 11:00pm - he came inside and said you have to see what is in the sky.  I went with him outside and we watched 4 things in the sky above.  They were moving very slowly in a formation.  One in front, two on the outside and one in back.  They were yellow/orange color.  I went inside to get our camera and my husband hollered - three disappeared just like that and as I got outside the last one was almost gone.  Wish we had a cell phone w/camera but we don't.  My husband is retired/disabled and I work full time. We have never seen anything like this before. I've been checking online if anyone else seen them - but don't find anything except to post to this website.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82269.html](http://www.nuforc.org/webreports/reports/082/S82269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [580](http://www.nuforc.org/webreports/reports/163/S163910.html)
-- [579](http://www.nuforc.org/webreports/reports/163/S163916.html)
-- [578](http://www.nuforc.org/webreports/reports/163/S163906.html)
-- [577](http://www.nuforc.org/webreports/reports/164/S164063.html)
-- [576](http://www.nuforc.org/webreports/reports/164/S164033.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
