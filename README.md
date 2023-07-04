@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Battle Creek (MI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>multiple Orange/Red pulsating lights seen over Battle Creek  During fireworks July 4, 2010We were at the airport for 4th of July firework when we saw strange orange lights on the eastern horizon we watched it for about 5 to 10min fly over the tree line then stop flash red three times before fading away in front of our eyes.Then 15 to 20 min later we saw it again this time it was on the southern sky flying towards us at a slow rate of speed it was about the size of a military fighter it had no faa lights it flew over us about 500 to 1000 feet with no sound it had a orange pulsating light on the bottom of it that covered the entire bottom of it when it pulsated you could just make out a teardrop shape to it.Then it did a 90 deg turn towards the eastern horizon stopped pulsed red three or four time and faded away.Then during the fireworks it reappeared in the western sky and this time it hovered in one place during the entire fireworks show which is 25 to 30min long then it pulsed red three to four times and faded away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76341.html](http://www.nuforc.org/webreports/reports/076/S76341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in McAlpin (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>came out of the sky at a angle and seemed to crashWe saw a rectangle object coming across the sky at an angle and dissapearing behind a tree line,seem to have crashed, on the front of the object it was a very bright silver colored and then there was a blue and red fire coming from the rear end thought it may have been a airplane but it was to big and to fast.It was a lot bigger than a plane and was so far away yet it was huge. The sky lite up when it went behind the trees like maybe it crashed into the earth. But was not a plane just was to big never saw anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51269.html](http://www.nuforc.org/webreports/reports/051/S51269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
