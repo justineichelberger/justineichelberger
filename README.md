@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:06 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:12 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Wading River? Franklin Sq (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red orange orb flying straight acrooss the skyI saw a red/orange light on the 4th in Wading River, NY.   We saw two of them at differnet times.  Then I went to my folks in Franklin Sq, NY (about 60 miles West) and they said they saw the same thing.  It was not fireworks, because it moved staight across the sky untli it faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76264.html](http://www.nuforc.org/webreports/reports/076/S76264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bethany Beach (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red orbs float over ocean.At first appeared to be drones, emerging from one location north of our vantage point on the beach.  About 15 departed from said site, and followed similar courses about a mile over the ocean until they plummeted into the water.  Each craft had a red glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111107.html](http://www.nuforc.org/webreports/reports/111/S111107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
