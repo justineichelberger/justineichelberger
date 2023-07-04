@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tahoe City (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>'Satellite' that seemed to behave in ways no man made machine could move.After the fireworks on the 4th, we were at our residence watching for shooting stars.  At 6500' and a crystal clear sky, the view was breathtaking.  We watched a couple of satellites go over head, the first one faint and normal speed and the second one much brighter and faster (I'm not sure if it was the ISS but it was very bright for a satellite).  Both moved in straight lines directly over head. At this point, we noticed another 'satellite' following in the same flight path as the first two.  All of the sudden, it took a hard turn to the left (not 90 degrees but a fairly fast turn) went for a short distance, curved back to the right and continued  curving right and then left for several more turns a bit irradically (going straight for 1-4 seconds between turns).  The speed of the object didn't seem to change at all during the sighting as the turns were all fairly smooth.  By the time it went out of sight, it had veered off 45 degrees from it's original flight path. I'm certain that it wasn't either a low flying or high altitude air craft and at the elevation that satellites fly at, the G forces within this object must have been massive. I have another witness who watched the same thing I did. Sorry there isn't much more to the sighting than that but it freaked the both of us out as we couldn't think of any known explanation.  Is there any similar reports to this sighting and does it have a rational explanation?  thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38172.html](http://www.nuforc.org/webreports/reports/038/S38172.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Morganton (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Sphere accelerates at high rate.I was coming home from morning work along on I-40 headed east.  At the Jamestown exit I looked up and there it floated.  Mirrored Sphere at around 1,000 ft elevation above ground.  It floated towards east for a few seconds then accelerated at a tremendous rate to the east and parallel to the ground.  Sky was very clear and cloudless. This object dwindled into the distance and faded to a speck and was gone in 3-4 sec.  Acceleration was multiple high G.  No sonic boom heard although it passed Mach easily.  I was driving at slow rate and had my windows open.  This was an incredible phenomena. I am a professional engineer now but was 18 at the time.  This object behaved as if it had very exotic propulsion system.  I speculate gravity control or magneto-hydrodynamic drive?!   Very amazing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67128.html](http://www.nuforc.org/webreports/reports/067/S67128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
