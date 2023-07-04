@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 4 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>we were outside lighting fireworks when way up in the sky we saw a triangular shaped "thing" that had lights.  It was going very very slow almost hovering.We were out side lighting fireworks when way up in the sky we saw what looked like a triangular shaped ship.  It had bright blue and red lights and it was moving very slowly.  So slowly that it seemed to be hovering.  My daughter and I saw it.  It was like nothing I had ever seen but my husband thinks it was an airplane.  It was also completely quiet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03371.html](http://www.nuforc.org/webreports/reports/003/S03371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Puyallup (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 orange v shaped objects with orange lightsOn July 4th about 10:30 pm, I was watching the neighborhood backyard fireworks, and noticed two UFOs in the sky.  They were boomerang shaped, and had orange lights along the bottom, with a bigger orange light at the “v” . The lights rotated up and down the bottom of the craft.  They moved around slowly and with no sound at all.  They would blink on and travel, then blink off for a few seconds and then blink back on in a different spot. They were AWESOME!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99902.html](http://www.nuforc.org/webreports/reports/099/S99902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [2106](http://www.nuforc.org/webreports/reports/163/S163902.html)
-- [2105](http://www.nuforc.org/webreports/reports/165/S165727.html)
-- [2104](http://www.nuforc.org/webreports/reports/164/S164061.html)
-- [2103](http://www.nuforc.org/webreports/reports/163/S163929.html)
-- [2102](http://www.nuforc.org/webreports/reports/164/S164389.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
