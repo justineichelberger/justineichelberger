@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:28 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Crete (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Summary : A bright light seen in the sky, when observed through binoculars seen as a bright light surrounded by three to five others, hovering and then moving to another spotMy friend and I were observing stars andsatellites after lighting our fireworks.After tracking a satellite for severalminutes, we observed a growing light in thesky.  It seemed far away, and looked likethe landing lights of a plane.  Werealized, however, that that was impossiblewhen we realized that it was not moving, andcouldn't be a helo that was hovering as itbeen there several minutes and was soundless.I am a pilot and would have been able toidentify whether or not it was a plane whenI looked at it through my binoculars.  Itappeared as a bright, central white lightsurrounded by smaller lights, not like thewingtip lights of a plane but completelyaround the central light, being of blue,green, and red color.  I noticed throughthe binoculars that the object would moveslowly, stop, then move again.  I sawsomething like this earlier (around July 2nd)and read in the paper about observers inLincoln on a lake and how the UFO they sawput out their campfires before taking offin the realtive direction of my town.  I ama very scientific, rational person, and justwant to know what it is I have been seeing.I would appreciate any and all the help youcan offer.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02339.html](http://www.nuforc.org/webreports/reports/002/S02339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mission (Canada) (BC) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two small explosions in night sky with what appear to be a satillite coming from area then makes a u-turn in the skyA friend and myself were star gazing in my back yard at approx 11 pm  and watching satillites crossing over head throughout the night, when we noticed what appeared to be a star explode, within a few seconds later there was another explosion in the same area on the southern horizon and from that what looked like just another satilitte heading from south to north which, while travelling in a straight line, suddenly began to make a tight arching u-turn, then slowly disappeared from our vision.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sincere and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134979.html](http://www.nuforc.org/webreports/reports/134/S134979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
