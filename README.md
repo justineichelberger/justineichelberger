@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Williamstown (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright orange fire ballMy six yr old though she was seeing a falling star and when we turned to look we saw a bright orange colored ball and it went faster and just disappeared.  Five of us saw this and all agreed it was not a star or plane but something unknown. .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111226.html](http://www.nuforc.org/webreports/reports/111/S111226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cane Hill (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue flash turning green and lights up entire skyMy son and nephew saw a blue flash of light that turned green and then faded.  This lit up the entire sky.  This was not fireworks. This occured in a very rural area. When recounting the story my husband related that he saw the same thing in southwestern Missouri in 1987 at a little after midnight.  The flash he saw was reported in newspapers and was apparently seen in 4 counties in southwest Missouri.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56138.html](http://www.nuforc.org/webreports/reports/056/S56138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
