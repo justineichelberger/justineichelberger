@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:24 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burton (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireball flies in the skyAt about 10:45pm on Saturday July 5th at the corner of Atherton and Center roads we saw a ball of fire with a glow around it about 100 to 200 yards above us not moving. It then slowly drifted east then shifted quickly southwest. It stopped for a minute then quickly rose up into the atmosphere until it looked like a bright star. It then started moving North until it disappeared as it approached the Big Dipper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64341.html](http://www.nuforc.org/webreports/reports/064/S64341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harford County (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>There were triangle flying things, and a round thing blocking the top tip of the half moon.I was watching fourth of July fireworks, when I looked up at the moon and saw something blocking the top point of it.  (it was kind of a half moon)  It sort of looked like the bottom of a water bottle. it stayed in the same place the whole fireworks show which was about one hour.  It took half an hour to get home and i still saw it there, in the same position, from my house.When the firework show was still going on I saw a few airplanes flying around.  Then i saw two or three triangle shaped gray crafts flying, with airplanes close behind it.  I do not know if they were chasing the triangle figure, though.I heard loud sounds, which i do not think were the echos of the fireworks, but i may be wrong.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111118.html](http://www.nuforc.org/webreports/reports/111/S111118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
