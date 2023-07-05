@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:05 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sheffield (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This was not a star.  If it was it was the first ever stationary star that i have ever seen moveI was driving home and kept seeing a bright light in the sky in my peripheral vision.  I drove a couple more blocks still seeing the light in my peripherals, till my curiosity took over and I had to look and see what this bright light was.Once I looked and focused on the object, it looked like a stationary star but it was much brighter.  All of a sudden this object moved leaving a tail behind it.  This object seem to know that I saw it.  It didn't move till I looked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112491.html](http://www.nuforc.org/webreports/reports/112/S112491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Dell Rapids (SD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Round silver dinner plates seen in Dell Rapids area on July 5, 1947 (NFI) (Item courtesy of the book "SDUFO: A Case History" by Greg Nedved)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45119.html](http://www.nuforc.org/webreports/reports/045/S45119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
