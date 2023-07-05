@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:32 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Aventura (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Several flying objects, were not anything that you would typically seeI was on Country Club Drive by Turnberry Golf Course stopped at a traffic light, when I looked up at the sky above a condo building.  About 2 miles up I saw what caught my eye as some kind of what I thought were balloons that were drifting away, they seemed to sparkle with colors.  I quickly realized that they were in some sort of very random flight pattern - very much like vultures which are very common in Florida where I live.  But, as kept trying to make out the forms they did not resemble birds or drones, so then my instinct was to think they were people in wing suits, not ultralights.  I followed them again and got caught at another traffic light, but could not film them due to the light changing.  I went to a parking lot and tried to film them again, but by then they were mere tiny black specs and were headed from East to West.When I got home I pulled up the main video and watched it on Edit mode and slowed it down so I could take a closer look at each object and I see that the shapes change and some even have a silver aura and light to them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157349.html](http://www.nuforc.org/webreports/reports/157/S157349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a glowing orange light that was ascending and accelerating very slowly.  When it was pretty close it just blasted into the clouds at very high speed.  It covered alot of ground,  very, very quickly!((NUFORC Note:  Date may be flawed.  We have attempted to contact the witness.  PD))((ADDENDUM FROM WITNESS))Sorry I missed your call, I was still stuck on july 4th, the event actually took place this morning  07/05/15 at 12:30am.  Also this was definitely not a Chinese lantern, or anything like that, I've witnessed those being launched before and they're really slow, the object I saw was very, very high in the sky and then it just took off soo dang fast ive never seen anything like it ever before!((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120089.html](http://www.nuforc.org/webreports/reports/120/S120089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
