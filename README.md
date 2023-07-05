@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:05 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:40 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in Dell Rapids (SD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Round silver dinner plates seen in Dell Rapids area on July 5, 1947 (NFI) (Item courtesy of the book "SDUFO: A Case History" by Greg Nedved)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45119.html](http://www.nuforc.org/webreports/reports/045/S45119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Helicopter Orbits Bright Red Light(s)We were driving back from Blockbuster heading south on Campbell near 6th Street.  I saw a helicopter in the sky (nothing new around here) but it was orbiting around a bright red light that wasn't moving in the sky. The helicopter was about 1 block away from the object an it had its nose pointed to it the whole time - along with the spotlight on it. There was nothing to see other than the bright red light. As we headed south down the road towards 8th Street (and getting a little closer) I noticed that it could have been 3 bright red lights close to each other. From our position, it was located SE, not too far away, and probably around 100 feet in the air. The helicopter continued to orbit the object with the spotlight on it. My eyes dashed to the road and back up and it was gone. My wife had continued watching and said that it just turned off. The helicopter hung around for about 10 seconds more before heading south. By the time we stopped the car at our house and got to the sidewalk, the helicopter was long gone and there was still nothing in the sky where the helicopter had been orbiting the object. The whole event lasted maybe 2-3 minutes before the light had turned off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51239.html](http://www.nuforc.org/webreports/reports/051/S51239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
