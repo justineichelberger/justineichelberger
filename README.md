@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>1 object seen from car. Bright fire orange in color..  When first seen it seemed to be lower towards the ground mabey 100 ft.  I pulled over to watch and record with my phone and it slowly moved higher and began to move north/west.  Not in a straight direction either. Moved off in the distance and continued to seemingly burn bright orange.  Simply faded. Not because of distance away but the light slowly dimmed and disappeared.  Just gone. It was substantial in size when first observed.Crazy..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111164.html](http://www.nuforc.org/webreports/reports/111/S111164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light stationary in sky.   Became bright then faded.  Approximately 20 seconds; later vanished completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128306.html](http://www.nuforc.org/webreports/reports/128/S128306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
