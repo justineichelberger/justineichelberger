@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mission (Canada) (BC) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two small explosions in night sky with what appear to be a satillite coming from area then makes a u-turn in the skyA friend and myself were star gazing in my back yard at approx 11 pm  and watching satillites crossing over head throughout the night, when we noticed what appeared to be a star explode, within a few seconds later there was another explosion in the same area on the southern horizon and from that what looked like just another satilitte heading from south to north which, while travelling in a straight line, suddenly began to make a tight arching u-turn, then slowly disappeared from our vision.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite sincere and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134979.html](http://www.nuforc.org/webreports/reports/134/S134979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>1 object seen from car. Bright fire orange in color..  When first seen it seemed to be lower towards the ground mabey 100 ft.  I pulled over to watch and record with my phone and it slowly moved higher and began to move north/west.  Not in a straight direction either. Moved off in the distance and continued to seemingly burn bright orange.  Simply faded. Not because of distance away but the light slowly dimmed and disappeared.  Just gone. It was substantial in size when first observed.Crazy..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111164.html](http://www.nuforc.org/webreports/reports/111/S111164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
