@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a glowing orange light that was ascending and accelerating very slowly.  When it was pretty close it just blasted into the clouds at very high speed.  It covered alot of ground,  very, very quickly!((NUFORC Note:  Date may be flawed.  We have attempted to contact the witness.  PD))((ADDENDUM FROM WITNESS))Sorry I missed your call, I was still stuck on july 4th, the event actually took place this morning  07/05/15 at 12:30am.  Also this was definitely not a Chinese lantern, or anything like that, I've witnessed those being launched before and they're really slow, the object I saw was very, very high in the sky and then it just took off soo dang fast ive never seen anything like it ever before!((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120089.html](http://www.nuforc.org/webreports/reports/120/S120089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Williamstown (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright orange fire ballMy six yr old though she was seeing a falling star and when we turned to look we saw a bright orange colored ball and it went faster and just disappeared.  Five of us saw this and all agreed it was not a star or plane but something unknown. .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111226.html](http://www.nuforc.org/webreports/reports/111/S111226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
