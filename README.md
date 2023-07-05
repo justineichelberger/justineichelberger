@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:30 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Suwanee (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was in the car and saw a bright blue and white light following the road at a low altitude. Thought it was a plane but it quickly changed its flight pattern and crossed over the road and over the tree line.  There where red and green lights on the bottom that were flashing and it resembled a sand dollar with the holes being the lights. It was changing colors and flying too quickly to be a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111124.html](http://www.nuforc.org/webreports/reports/111/S111124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Floristen (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light flighing from south east out of reno toward truckee and Sierraville direction.  At 9:25pmDriving west bound outside of reno at approx.9:10 the object came from the south east of reno over highway 80 and went toward the west.  the Object was so bright I was waiting for it to burn out.  It stayed strong with its pattern and the speed was much faster then a air craft.  what caught my eye is that this object never brock direction and never blinked to show other air travelers of flight path.  Also,i could tell the other drivers on free way were seeing cause the truck in front of me almost didn't turn with Freeway and went into guardrail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142093.html](http://www.nuforc.org/webreports/reports/142/S142093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
