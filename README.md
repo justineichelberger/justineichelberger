@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:23 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Athens (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw a silent orange/red pulsing light move across the sky slowly, hover, change color twice, and disgorge a smaller pulsing light.I was working the Saturday night shift at the bar when a friend from the restaurant next door ran in and said that there was a ufo outside. He said he had seen the ufo for the last 4 nights. I was skeptical, but followed him out to the parking lot. In the sky to the southwest was a hazy ember-colored light moving slowly to the east. The light pulsed evey two seconds and was about the size of a pea held at arm's length. Two other restaurant workers joined us. We remained mostly silent in order to try to hear the object- at no point did we hear any sound. I tried to sight it on my camera phone but could not pick it up. After about a minute, the object turned white for about two seconds and then resumed its initial color. The light did not illuminate any structure such as wings or a gondola and never blinked. There was a fairly uniform overcast at about 2-3000 feet and at no point was the light obscured by the clouds. After moving east for a few minutes the object decelerated and hovered. At this point I called my wife and told her to look south. The light moved slightly to the north and then turned white again. A soon as it had turned white, a smaller orange/red evenly pulsing light dropped from the white light and descended at an even rate until it disappeared from view behind the treeline. About half a second after the small light disengaged from the larger one, the larger one vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64575.html](http://www.nuforc.org/webreports/reports/064/S64575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saugus (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 small orange glowing craft making no noisewe out we were walking our dog at 10 p.m.when we both noticed a oranges mall craft overhead the craft made no noise crossed from the east to the west on the side streetthen continuedover a set of treesa moment latera second orange small craft came from the same direction headed following the other craft over the trees and other site the craft did not seem very big they did that make any noise and moved fast for a moment and then back to a regular speed after arriving at our destination my daughter was in a pool with her friends and also had seen the same craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111122.html](http://www.nuforc.org/webreports/reports/111/S111122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
