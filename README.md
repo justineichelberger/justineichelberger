@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:23 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saugus (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 small orange glowing craft making no noisewe out we were walking our dog at 10 p.m.when we both noticed a oranges mall craft overhead the craft made no noise crossed from the east to the west on the side streetthen continuedover a set of treesa moment latera second orange small craft came from the same direction headed following the other craft over the trees and other site the craft did not seem very big they did that make any noise and moved fast for a moment and then back to a regular speed after arriving at our destination my daughter was in a pool with her friends and also had seen the same craft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111122.html](http://www.nuforc.org/webreports/reports/111/S111122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Suwanee (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Was in the car and saw a bright blue and white light following the road at a low altitude. Thought it was a plane but it quickly changed its flight pattern and crossed over the road and over the tree line.  There where red and green lights on the bottom that were flashing and it resembled a sand dollar with the holes being the lights. It was changing colors and flying too quickly to be a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111124.html](http://www.nuforc.org/webreports/reports/111/S111124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
