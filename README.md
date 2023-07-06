@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:40 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:23 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I believe it was July 6 of 2011.  I had just gotten off of work.  I was driving down W Burnside Rd, in the west hills, facing NE, going around what I believe is Washington park.  As I was going around a curve, there was a very tall tree in front of me, on the hill that the curve goes around, I saw a very large object going behind the tree.  It was directly in front of me.  I believe the reason it cough my eye was because it was so so so shiny it looked to me as if a piece of tin foul with the most bright light shining off of it.  The shine was most bright in the middle of the object and faded as it got closer to the sides of the object where you could see medal it looked like tin foil.  This object was about 6 or 7 times the size of when you look at the sun.  It was only maybe 500 or so feet directly in front of me. It took up about 2 or 3 of the limbs on the tree.  There was not a cloud in the sky.  I do not remember the shape but I know it was a solid shape like a circ! le or octagon or some kind of shape like that.  There was nothing hanging off the object like wings of propellers.  This whole time I was on the phone with a friend (she is planning on making a report of what happened on her side of the line.)  But I thought I had only seen it for a glimpse of a second.  But my friend told me I stopped talking for over a minute.  When I came to the other side of the curve there was a few trees, but the object was no longer there.  I think the weirdest part is that there was NO noise at all.  I do remember as soon as I saw the object I was so infatuated with it.  It happened so fast but just remember being amazed not even thinking about if it was a plane or not but just wanting to see it.  I don’t remember any of the time from seeing the object, until my friend had been yelling in my ear, "Hello?"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82950.html](http://www.nuforc.org/webreports/reports/082/S82950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Low Country Region (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sliver sphere - quick rolling movements - light sequenceJuly 6 , 2003 my husband noticed a gleem way over head , it looked odd so I went and got my camcorder w/ 500 digital zoom . Couldn't see what it was until I zoomed in . I recorded the most aweasome 3 minutes of what was defintely an unidentified object . I was in the Navy , have been on carriers / sub-tenders , I have seen aircraft ... stealth , bomber ... etc. But I have never seen anything like this !  And the footage shows ( I was filming by a tree ) you can see the object moving as the leaves in the same frame remain still . Also taped the moon to show I did not mistake the object for ' swamp gas reflecting off a weather balloon causing steam to rise in a dioxide mist '((NUFORC Note:  The still photo shows a blurry, white object against a blue sky.  We do not know what the object is, but will seek the photographer's permission to post the photo here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29859.html](http://www.nuforc.org/webreports/reports/029/S29859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
