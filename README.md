@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bates (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately Past mightnight - Past mightnight minutes.</sub><blockquote><sub>Star like objects hovering then moving very fast.Ufo Sighting on 07/06/07  Objects appeared first time 07/05/07.  Three smaller bright star like objects and one larger light.  Military jets came after a while and objects left.  Total of 7 military jets were counted during this.  Objects appeared to be 300 feet apart.  The largest object was at least that long by eyewitness accounts.Object came back again on 07/06/07 and was continuing on during this report after midnight.  The larger object was accompanied by smaller red light type object.Weather information during sightings were Hot, Humid and Clear skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57490.html](http://www.nuforc.org/webreports/reports/057/S57490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jasper (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Witnessed 3 to 4 rapidly blinking objects very high in the sky that at first looked like fireflies.  Each one darted across the sky at a very high rate of speed then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128337.html](http://www.nuforc.org/webreports/reports/128/S128337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
