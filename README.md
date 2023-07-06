@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Abilene (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Largest "Falling Star" I've ever seenMyself and another police officer were standing outside our vehicles talking and we saw what looked like the largest falling star I have ever seen. But, in the tail/ trail of the UFO, there were sparkles before it disappeared. My first thought was it was probably a firework, however there was no sound. No pop or whistle. It was probably a large piece of space junk reentering the Earth's atmosphere, But I thought it was worth reporting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57476.html](http://www.nuforc.org/webreports/reports/057/S57476.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Forest Park (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very close encounterI was only around 5 years old when this happened.  My older brother and I were playing in the backyard.  It was dark outside and it must have been close to time for us to go in.  I remember seeing this this flying just over the trees, maybe 30 ft from the ground and directly over our heads.  I didnt see the top of it, cause it was right over my head, but I did see that it was circular from the bottm, so I assume it was a disk.  On the bottom of this craft, was 4 large domes.  The domes were glowing a milky white color.  The craft was about 25 ft. in diameter and the only saound this thing made, was a humming noise, like bass on a stereo.  My brother was screaming"go away,go away"!!!  I felt differently about it, I remember feeling playful and was a yelling" come down, come down"!!!  The craft continued moving very slowly over the house and out of view.  It's been a very long time since this happened, but it will stay in my mind for the rest of my life.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74370.html](http://www.nuforc.org/webreports/reports/074/S74370.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
