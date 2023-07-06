@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:22 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 red/orange orbs seen in Tucson6 orange/red objects departed from the Tucson Mountains from West to East in groups of three.  No sound.  Disappeared immediately when the objects reached mid-sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99964.html](http://www.nuforc.org/webreports/reports/099/S99964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Milford (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange glowing object appeared to be on fire hovering over Milford, Ohio.I was driving south on interstate 275 with my convertible top down when I noticed an orange colored light in the sky to the west out of the corner of my eye.  I originally thought the object was an airplane but when I actually looked at the object it was clear that it wasn't an airplane.  From my vantage point the object appeared to be on fire and glowing orange.  It was flying at about the same altitude and speed that a helicopter would fly.  The object was very quiet.  I continued to drive while watching the object in my rearview mirror cross overhead of the interstate behind me.  It then appeared to slightly increase in altitude flying away and behind me before it exited my field of view.  I observed it for a total of about 30 seconds.  I turned around at the next exit a couple miles down the road and went back to see if the object was still in the area and try to get a video with my phone but I did not see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111223.html](http://www.nuforc.org/webreports/reports/111/S111223.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
