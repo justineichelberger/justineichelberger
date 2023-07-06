@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:18 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Red/orange fireball object streaking across sky twice in straight lines at high rate of speedRed/orange fireball object streaking across sky at high rate of speed in straight line.  Spotted briefly headed west, again spotted for 40 seconds heading east approx 15 minutes later at 10 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99867.html](http://www.nuforc.org/webreports/reports/099/S99867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orange lights over Kansas CityAs I left my apartment this evening for my weekly trip to the laundry room, I was struck by the sight of two bright orange lights in the sky.  It was hard to judge their distance, but they must've been at least a mile from my position.  They were curiously bright- not blinding, but well defined and certainly not planes or helicopters.  I stopped briefly to observe them, and two of my neighbors, who had just pulled in, joined me.  We speculated about what they might be, and as it's July 6th, I posited that they might've been a sort of firework.  My neighbors rejected this immediately, and admittedly I'm not familiar with with any fireworks that behave as these lights did.  As I said though, the lights were already in the sky when I noticed them, so I can't speak to their ascent, but once in the sky they did move upwards, downwards, left, and right (slowly) despite it being a still night.  After observing the lights for a minute or two, I continued into the la! undry room, and when I returned they were gone.I did have my phone on me at the time, but I'm sure the lights weren't significant enough to register on the phone's shoddy camera. Describing them plainly as two orange balls of light is perfectly accurate.A bit of background on myself...  I was, and still am, skeptical about the existence of sentient alien life.  I think these lights could reasonably be dismissed as fireworks, although I can't explain their duration or behavior.  It looked like something straight out of a bad UFO TV special, and could've easily been some sort of light attached to a balloon, but it's testament to the sighting that they were impressive enough for me to bother googling this website and submitting a report.I'm not, however, interested in following up on this sighting or volunteering any personal information.  Thank you.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82294.html](http://www.nuforc.org/webreports/reports/082/S82294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
