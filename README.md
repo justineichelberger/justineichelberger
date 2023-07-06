@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>small orange light suddenly changed shape and disappeared!on thursday july 6th i observed a small orange point of light.it was not real bright at first,but then moved north a short distance then,suddenly,brightened and elongated and disappeared.the time was around 8:15 and the sun was setting,and not overcast as i could see the moon clearly.the elongation was about 15 times as long as the object was originally.only lasted for couple of seconds.i've never seen anything like this before!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13340.html](http://www.nuforc.org/webreports/reports/013/S13340.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Albany (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Fire in the sky over Indiana11:00pm July 6th 2008 in New Albany Indiana me and my kids along with my nephew and GF saw the similar thing. It all started in the same kind of fashion.  I as well was being entertained with the neighbors fireworks, when all of the sudden what appeared to be a plane on fire was in the sky in front of me.  the reason I say on fire was because of the unusual orange lights.  Since I've never seen anything like it I immediately thought of fire. It appeared that the front right engine was on fire because of the concentration of light on that area. The lights were very bright but thats when things got strange. One why would lights on a plane if not fire be pointing upword more than down.  Two at that point it was moving so slowly just a straight path no funny movements but I'm still thinking plane on fire . Then I realized NO NOISE which would mean the plane should be coming down (no sound = no engine). But in fact it stayed at the same highth the whole time. I told my nephew to go get everybody else they had to see this.  The "plane" was directly above us at this time. still no noise. But maintained an altitude of what I assumed even using a single engine plane for reference of about 10-15,000ft. My GF was amaized at what she saw, normally being the skeptical one, so much so that she didn't want it to scare the children so she took them inside. once the "plane" was past it just all of the sudden disappeared...Now I know it was nothing that I have or will ever see again knowing that it wasn't identifiable by me.  After it disappeared I actually hopped on my Motorcycle and went to the Clark County Airport expecting to see some type of search plane which is normally done in a single engine plane crash but they acted like they saw nothing.  At this point my mind even though I'm open to anything still didn't or couldn't wrap around seeing a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64494.html](http://www.nuforc.org/webreports/reports/064/S64494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
