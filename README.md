@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Forest Park (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very close encounterI was only around 5 years old when this happened.  My older brother and I were playing in the backyard.  It was dark outside and it must have been close to time for us to go in.  I remember seeing this this flying just over the trees, maybe 30 ft from the ground and directly over our heads.  I didnt see the top of it, cause it was right over my head, but I did see that it was circular from the bottm, so I assume it was a disk.  On the bottom of this craft, was 4 large domes.  The domes were glowing a milky white color.  The craft was about 25 ft. in diameter and the only saound this thing made, was a humming noise, like bass on a stereo.  My brother was screaming"go away,go away"!!!  I felt differently about it, I remember feeling playful and was a yelling" come down, come down"!!!  The craft continued moving very slowly over the house and out of view.  It's been a very long time since this happened, but it will stay in my mind for the rest of my life.((NUFORC Note:  Witness indicates that date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74370.html](http://www.nuforc.org/webreports/reports/074/S74370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newark (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Newark, NY, solid dark sphere with orange/red light on front.We watched a dark ball shaped craft with a single steady orange/red light on front approach us while boating on the Erie Canal in Newark, NY.  I shined a bright flashlight at it and it turned back the way it came.  No noise, no wings, no anti collision lights.  It flew about 1000 feet in the air.  It maintained the same speed and height for the duration we could see it.  It flew as close as a quarter mile from us before turning back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147454.html](http://www.nuforc.org/webreports/reports/147/S147454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
