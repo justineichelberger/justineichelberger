@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 5 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:31 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Harford County (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>There were triangle flying things, and a round thing blocking the top tip of the half moon.I was watching fourth of July fireworks, when I looked up at the moon and saw something blocking the top point of it.  (it was kind of a half moon)  It sort of looked like the bottom of a water bottle. it stayed in the same place the whole fireworks show which was about one hour.  It took half an hour to get home and i still saw it there, in the same position, from my house.When the firework show was still going on I saw a few airplanes flying around.  Then i saw two or three triangle shaped gray crafts flying, with airplanes close behind it.  I do not know if they were chasing the triangle figure, though.I heard loud sounds, which i do not think were the echos of the fireworks, but i may be wrong.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111118.html](http://www.nuforc.org/webreports/reports/111/S111118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lewisburg (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>5 yellow-orange objects triangular in shape moving independant of each other in Lewiburg, WV for over 15 minutes.Was sitting outside from late afternoon until well after dark.  Saw several satellite’s and meteors.  Turned around to the SE toward Lewisburg, WV and saw 3, then 5 yellow-orange objects  rise on the horizon an hover.   At first thought 3 planets were rising in the night sky close together until all moved independent of each other, but still gravitated toward a one in particular.  Two on left moved off and dimmed.   One then reappeared and moved at vertical angles until above center object.  Triangular  in shape with three visible points of light.  Each of same size.  One on top and top on bottom.  Called for my wife who came out and also clearly observed.  When objects dimmed it seemed at first they were lowering the level of light from each and turning off.  Then it donned on us they were actually moving off initially at very slow speed and then such speed as to disappear.  Others would hover and slowly float around in the same general spot or barely move.  ! Then speed up and turn at sharp 45* angles with no visible arc.  No sound detectable.  No pulsing.  All disappeared.  We got into our truck and started to drive to next door hayfield.  Two reappeared in same location.  One left and the other stayed visible for several more minutes.  Seemed to be the one others had gravitated towards.  Then it move slowly in a linear manner, made a 45* angle to the left and poof was gone…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90605.html](http://www.nuforc.org/webreports/reports/090/S90605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [551](http://www.nuforc.org/webreports/reports/163/S163920.html)
-- [550](http://www.nuforc.org/webreports/reports/165/S165585.html)
-- [549](http://www.nuforc.org/webreports/reports/163/S163926.html)
-- [548](http://www.nuforc.org/webreports/reports/164/S164021.html)
-- [547](http://www.nuforc.org/webreports/reports/163/S163921.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
