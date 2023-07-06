@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:18 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Maumee (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately about an hour - about an hour minutes.</sub><blockquote><sub>there was a flashing ball of light moving in strange patterns and that hid from a plane.i was laying out in my front yard on a blanket, looking up at the stars. it was dark and there was little to no wind.  i happened to look over towards my backyard and i saw a blinking light.  i dismissed it as being clouds passing a star or fireworks or something since i never believed in anything "out of this world".  i went on looking around then glanced back over and it had moved up a bit more. at this point i figured it was just a plane or a helicopter since we live near a hospital. i kept looking at it and noticed it moving in a strange pattern.  it moved down quickly, slowly drifted sideways, shot back up and just kept changing its movement.  i looked closer and it seemed to be a white light that was blinking blue and pink and green and would turn yellow once in a while.  i found this odd so i went inside and got my mother. she doesn't believe in anything paranormal what so ever, so i figured she may be able to give me a more rational explination.  she looked! at it and at first didn't see it moving since it was very small and far away.  after watching for a few moments, she said she had no clue what it could be. even my mother thought it was strange.  she tried to get her husband to go see it, but he refused. i began trying to call friends around maumee to see if they could see it as well. i wasn't sucessful. i posted about it multiple times on facebook  while i was watching it. suddenly, a plane was flying overhead.  the object drifted sideways, getting brighter, then shot down and disappeared, reappearing out of thin air once the plane was gone.  i was still doubtful until this happened. i continued to watch for a while and being freaked out but tired, i decided to go inside.  i went to see if it was still there an hour or two later and i was not able to locate it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82867.html](http://www.nuforc.org/webreports/reports/082/S82867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Red/orange fireball object streaking across sky twice in straight lines at high rate of speedRed/orange fireball object streaking across sky at high rate of speed in straight line.  Spotted briefly headed west, again spotted for 40 seconds heading east approx 15 minutes later at 10 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99867.html](http://www.nuforc.org/webreports/reports/099/S99867.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
