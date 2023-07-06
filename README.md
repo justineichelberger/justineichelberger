@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grove City (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white lights in a formationThere were four lights side by side they hung in the air then one would drop down and disappear then reappear back in the line.  All at once they all disappeared.  A lot of people seen the same thing and there was videos posted online.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99825.html](http://www.nuforc.org/webreports/reports/099/S99825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Harper Woods (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 objects seen by 2 Harper Woods, Mi. Police Officers.I am a Police Officer for the city of Harper Woods.  At approximately 6:00am, myself and a fellow officer were standing in a parking lot of a church talking before the end of our shift.  I was looking towards the southwest at the moon when I glanced towards the southeast.  I saw 3 objects in the southeast sky and pointed towards them.  My co-worker noticed them at that point and attempted to take a picture with his cell phone.  He was unable to see the objects with his phone camera, but I was with mine, and took a picture of two of the objects.  The objects appeared to remain stationary for approximately 3 minutes, the appeared to drift towards the east, maintaining the equal distance.  As we watched the objects, they appeared to "blink out" of our vision. *Note* the night/morning was cloudless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157377.html](http://www.nuforc.org/webreports/reports/157/S157377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
