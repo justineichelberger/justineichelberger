@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:27 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newark (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Newark, NY, solid dark sphere with orange/red light on front.We watched a dark ball shaped craft with a single steady orange/red light on front approach us while boating on the Erie Canal in Newark, NY.  I shined a bright flashlight at it and it turned back the way it came.  No noise, no wings, no anti collision lights.  It flew about 1000 feet in the air.  It maintained the same speed and height for the duration we could see it.  It flew as close as a quarter mile from us before turning back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147454.html](http://www.nuforc.org/webreports/reports/147/S147454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Groveport (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 cicle well lite objects in the sky seen by 1000's in the Groveport, Ohio Area.There were two circle well lite objects side by side, there was 1 circle object like the other two flying lower.  The light appeared to fade on the lower one and then disappeared.  Two other appeared next to the first two and hovered with them for 3-4 mins then they all disappeared abruptly.The people with me: 3 year old boy 14 year old boy and myself.   We all saw it and the 3 year old even said wow look at that!  This sighting was seen by 1000's and video posted all over facebook.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99828.html](http://www.nuforc.org/webreports/reports/099/S99828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
