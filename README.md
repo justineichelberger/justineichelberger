@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jasper (MO) reported seeing craft that fit the description of some 'Flash' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Witnessed 3 to 4 rapidly blinking objects very high in the sky that at first looked like fireflies.  Each one darted across the sky at a very high rate of speed then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128337.html](http://www.nuforc.org/webreports/reports/128/S128337.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Majors Place (south of) (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Three non-moving, reddish-orange lights in White Pine County, NV.At approximately 9pm on Thursday, July 6th, I saw three red lights while driving south on US 93 about half way between Major's Place and Pioche, Nevada.  The lights simultaneously appeared, stayed on for about five seconds then disappeared.  About five seconds after disappearing, the three red lights reappeared only disappear after about five seconds.  About ten minutes later, the identical lights, location, and duration happened again.  The lights were reddish orange in color. For their size, they were about the size of a BB.  Two of the lights were close together, not far above the horizon.  The third, was to the left higher in the sky.  They did not appear to be moving.I have driven on US 93 in this area many times and have never seen anything like this.  There are no radio towers or cell towers in the area that could have been responsible for the lights.  I have been an aircraft mechanic since 1994.  The solid reddish orange light is unlike standard aircraft lighting configuration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135010.html](http://www.nuforc.org/webreports/reports/135/S135010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
