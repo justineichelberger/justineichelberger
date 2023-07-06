@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:23 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Low Country Region (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Sliver sphere - quick rolling movements - light sequenceJuly 6 , 2003 my husband noticed a gleem way over head , it looked odd so I went and got my camcorder w/ 500 digital zoom . Couldn't see what it was until I zoomed in . I recorded the most aweasome 3 minutes of what was defintely an unidentified object . I was in the Navy , have been on carriers / sub-tenders , I have seen aircraft ... stealth , bomber ... etc. But I have never seen anything like this !  And the footage shows ( I was filming by a tree ) you can see the object moving as the leaves in the same frame remain still . Also taped the moon to show I did not mistake the object for ' swamp gas reflecting off a weather balloon causing steam to rise in a dioxide mist '((NUFORC Note:  The still photo shows a blurry, white object against a blue sky.  We do not know what the object is, but will seek the photographer's permission to post the photo here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29859.html](http://www.nuforc.org/webreports/reports/029/S29859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grove City (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white lights in a formationThere were four lights side by side they hung in the air then one would drop down and disappear then reappear back in the line.  All at once they all disappeared.  A lot of people seen the same thing and there was videos posted online.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99825.html](http://www.nuforc.org/webreports/reports/099/S99825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
