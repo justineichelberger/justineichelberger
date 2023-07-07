@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:05 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright slow light in the sky moving from NW to SW like a satellite but very much brighter July 7th 2010My 14 year old son and I were outside cleaning up @ 10:47 PM.  When we saw a bright light moving slowly across the sky from NW to SE.  The bright light did not have any blinking navigation lights so I knew it was not an airplane. There were airplanes in the area though and they all had blinking nav. Lights on.  This bright light was going about the same speed as a satellite maybe a little bit faster but much slower than a meteor.   It flew across the entire sky and then was gone.  The light just vanished. This was a very intense light like something from spot light from far away.  I wonder if it was the international space station.  I don’t know. I have never seen this before.((NUFORC Note:  ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76298.html](http://www.nuforc.org/webreports/reports/076/S76298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately hour - hour minutes.</sub><blockquote><sub>multi-colored swirling illuminating lights (looked like a tornado in the sky)  The incident that happened to me was in 1969, Dade county Florida.  I was four years old. I don’t know why I remember this but I do. It was at night and my family and I was doing what families do watch television. Suddenly, the lights went out and I guess there was a noise or something outside because we all headed out of the house. There was something in the sky swirling around with illuminated lights which were multi-colored lights. It (the object) had no form. After looking at it for, what I can’t remember, a while the air around me felt thick, as if I were under water because I felt like I was moving in slow motion. I also remember my uncle standing in front of me but not moving or speaking. It seemed as though he was frozen in time; I kept pulling at his shirt trying to get his attention but he didn’t move. The next thing I remember is touching some kind of machine with lights all around it and it was very cold. From what I can gather now thinking back it seemed to me to be a probe of some kind. Now, the funny thing about this whole thing is I thought that I was dreaming, except for this one thing, I wasn’t. I say that because years later when speaking to a few of my family members we all had the same experience. They remembered exactly what I did and perhaps a little more. So, I wanted to report this incident in case someone else has seen the illuminated swirling unidentified object.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63277.html](http://www.nuforc.org/webreports/reports/063/S63277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
