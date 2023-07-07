@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:31 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:22 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Walnut Creek (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I have not reported this before. I feel it should be recorderd somewhere. My friend and I used to take time-lapse photos of the stars and he was a member of the Civil Air Patrol. We were in the backyard and watching for meteors when we saw a "star" traveling  from the north horizon to the zenith. It was approximatly the same brightness as Vega.It was very high and traveling very fast. It was at a very high altitude or very small.There was no sound. The most important part of the sighting was that when it reached straight up from us, (almost perpendicular), it made a 90 degree turn.It did not slow down, it did not describe an arc, it made a pinpoint turn like you would draw with a triangle on paper. Given what we knew at the time about aircraft and the "g" force that would be experienced inside an aircraft, it scared us back into the house. I have never been able to forget what we saw and I have yet to see any human technology that could do what we saw. I swear this is true and hope it might be of some interest to you. I can't write this in one sentence, sorry.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  Please see other report from St. Louis, MO, for the same month.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39524.html](http://www.nuforc.org/webreports/reports/039/S39524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anahiem (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving teardrop like red light in sky and dropping shooting-star like material.I do not have a word processor.Looked up at sky viewed a teardrop shape bright red object that was slow moving and very close.This object was dropping what looked like shooting star material from its bottom.It came close dropped 4 times material, then it started heading east ascending higher and quickly vanished from sight.I'm still wondering exactly what it could be, to slow moving to be a falling star or meteor the movement itself was not that of a fireball plane helicopter or drone.  One things for sure it was beautiful.  I can only hope others also viewed it and NASA can describe exactly what it is or was.Thank you (location Ball road between Knott ave and Western)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134994.html](http://www.nuforc.org/webreports/reports/134/S134994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
