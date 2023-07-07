@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anahiem (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Slow moving teardrop like red light in sky and dropping shooting-star like material.I do not have a word processor.Looked up at sky viewed a teardrop shape bright red object that was slow moving and very close.This object was dropping what looked like shooting star material from its bottom.It came close dropped 4 times material, then it started heading east ascending higher and quickly vanished from sight.I'm still wondering exactly what it could be, to slow moving to be a falling star or meteor the movement itself was not that of a fireball plane helicopter or drone.  One things for sure it was beautiful.  I can only hope others also viewed it and NASA can describe exactly what it is or was.Thank you (location Ball road between Knott ave and Western)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134994.html](http://www.nuforc.org/webreports/reports/134/S134994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright slow light in the sky moving from NW to SW like a satellite but very much brighter July 7th 2010My 14 year old son and I were outside cleaning up @ 10:47 PM.  When we saw a bright light moving slowly across the sky from NW to SE.  The bright light did not have any blinking navigation lights so I knew it was not an airplane. There were airplanes in the area though and they all had blinking nav. Lights on.  This bright light was going about the same speed as a satellite maybe a little bit faster but much slower than a meteor.   It flew across the entire sky and then was gone.  The light just vanished. This was a very intense light like something from spot light from far away.  I wonder if it was the international space station.  I don’t know. I have never seen this before.((NUFORC Note:  ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76298.html](http://www.nuforc.org/webreports/reports/076/S76298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
