@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:07 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lone Pine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10-15 - 10-15 minutes.</sub><blockquote><sub>15 quick moving white orbs in perfect/tight formation over Sierra Nevadas.Woke up at 11:00 to check out of hotel and go get hiking permits. I went outside of the Lone Pine Hotel to pack backpacks. despite the fires going on to the right, near big pine, and the huge advaning smoke plume, it was crystal clear and bright. I was looking up at Mt.Whitney and decided to put on my glasses(amber lens)because it was so bright. I  immediately saw a group of 15 or more white colored round objects moving quickly above the Whitney range. At first I thought them to be birds but I noticed they all moved together, in perfect formation, up and down. They disappeared when they turned either towards or away from me. I couldn't tell how large they were or how fast they were moving. I guess they were pretty far away and high, They appeared to be moving quickly to the north, right into the smoke (they may have been higher than the smoke but not likely). I didn't think birds fly into smoke! Anyway, they were remarkably similar to those ufos spotted down in mexico. My girlfriend saw them as well.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60858.html](http://www.nuforc.org/webreports/reports/060/S60858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  Missile launch out of Vandenberg AFB.  PD))A bright lit flying object, with trailing blue/green streak, bright light instant vaporized, leaving blue/green streak for 20 minutes.I looked up at the bright flying vessel (I thought it was some kind of aircraft), and I kept staring at it because the emissions coming off of it were unlike anything I had ever seen.  The white steam or discharge was trailing it with a giant blue/green streak trailing straight behind it.  The white discharge was shaped like an arrow in front of the blue/green streak.  Then the bright light vaporized, leaving behind a pronounced blue/green streak that lasted for 20 minutes. I was with a friend who saw the whole thing with me.  Any ideas about how I might find out if anyone else saw it? I am 43 years old, business owner with two children, 18 years and 21 years old.  I have never seen a UFO before.  This is my first!   Very exciting!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13308.html](http://www.nuforc.org/webreports/reports/013/S13308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
