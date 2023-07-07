@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:28 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a series of bright lights following trajectory of a falling star(close range), and a erratically  moving light(long range )First observed a falling star, followed by a series of lights travelling on what appeared to be an identical trajectory as the falling star.  It was difficult to discern a shape for the lights, but each was visible for about 3 seconds, then disappeared, afterwhich another one appeared, travelled along the falling star trajectory, then disappeared.   I went to search for my camera and when I finally found it, these shapes we're no longer appearing.  I focused the camera in the general vicinity where we saw the observation and noticed a bright light that was far up in the sky...possibly near the stars.  It was moving erratically and rapidly...travelling across the field of view of several stars in only seconds and changing direction rapidly. I captured this observation on videotape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44912.html](http://www.nuforc.org/webreports/reports/044/S44912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lemont (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Approx. 50 craft flying in various formations observed across the evening sky.While swimming outside my Equestrian Estates' home on 7/7/07 at approx. 9:30 pm, 6 people observed approx. 50 craft flying in various formations from southwest to northeast.  The craft flew in a variety of formations; 3-4 flew in a straight line, others in square or triangular patterns. The crafts were round shaped with an orange haze of light.  There was no sound produced by the crafts.  At one point, 2 objects appeared to move together and separate apart very quickly.  After each craft reached a certain point, they moved in different directions and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58104.html](http://www.nuforc.org/webreports/reports/058/S58104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
