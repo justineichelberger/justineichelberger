@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Antelope (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Tonight i seen a circle orange light hovering in the sky completely still about 6 storys high and about half a mile away near walmarttonight i seen a orange cirlcle thing hovering in the sky about 6 storys high and half a mile away perfectly still for about 20 min then all of a sudden it disapears then about 3-4min later it reappears again only higher and about 1000ft to the left hovered for 20min again then disapears and repeats about 4 Times getting higher and more to the middle of the sky. and this is the same orange circle thing i seen on the 4th of july in the same starting place but i didint pay attention to it the first time but today i did and i want to know what is it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142120.html](http://www.nuforc.org/webreports/reports/142/S142120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charleston (WV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright lights seen flying over Charleston, WvThe UFO was as high as an airplane.  I thought it was a plane until I realized there weren't any flashing lights.  I couldn't make out the shape because it was dark.  It had 2 big, bright lights & moved slow.  The whole experience lasted maybe 1-2 minutes before I lost sight of it.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103041.html](http://www.nuforc.org/webreports/reports/103/S103041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
