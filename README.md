@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:33 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:10:28 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Eagle Butte (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Red and blue lights, turning real bright.We were in a rural community, which I would rather not disclose due to the cultural grounds close to the sighting.  But my brother, his wife, her little brother, and myself were all sitting in a broken down car while every one else was in an inipi (sweat ceremony).  My brother, his wife, and myself were smoking a cigarrette, and her little brother was staring at the horizon in a northwest direction.  And he spotted 1 dim light off in the distance that seemed real low.  It begin to move and disappear behind hills as if it were traveling over the prairie close to the ground.  As it came closer I say still around 3 miles away it split into 2 dim lights, and they both seemed as if they were slowly zigzaging back and forth. We got out of the car by then and stood at the top of the dirt road leading to the sweat ceremony.  The lights got 1/4 miles away and came down into the valley we were in, and approached the island which is accross the creek from where we were.!  The island itself is about 1/2 mile in diameter.  Both lights then turned into 2 separate colors-one Red, one blue.  The blue light came to the closer end of the island by us.  By then that would be about 300 yards away.  They both intensified the color by getting VERY bright, so bright it lit up the valley as if it were day. I remember focusing on the blue light, but it was so bright, and we all became scared and turned and ran...  We never went back to see what it had done.  But thats the story. Also there was no sound…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74927.html](http://www.nuforc.org/webreports/reports/074/S74927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a series of bright lights following trajectory of a falling star(close range), and a erratically  moving light(long range )First observed a falling star, followed by a series of lights travelling on what appeared to be an identical trajectory as the falling star.  It was difficult to discern a shape for the lights, but each was visible for about 3 seconds, then disappeared, afterwhich another one appeared, travelled along the falling star trajectory, then disappeared.   I went to search for my camera and when I finally found it, these shapes we're no longer appearing.  I focused the camera in the general vicinity where we saw the observation and noticed a bright light that was far up in the sky...possibly near the stars.  It was moving erratically and rapidly...travelling across the field of view of several stars in only seconds and changing direction rapidly. I captured this observation on videotape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44912.html](http://www.nuforc.org/webreports/reports/044/S44912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
