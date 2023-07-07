@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:31 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:27 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>15-18 lights seen over SeattleA friend and I were standing in my driveway in the Crown Hill area of Seattle (near Holman rd) when we noticed some lights that were becoming visible from behind a sparse tree looking north around 11 PM.  They were solid lights much brighter than any stars in the sky, and looked like a moving constellation.  There were approximately 15-18 lights that all traveled from north to south in the sky, maintaining perfect orientation to each other.  They moved from one horizon to the other in about 2 minutes.No Sound at all.  I regularly see planes coming from the east toward Seattle and then turning south, but there was absolutely no air traffic visible during the siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91567.html](http://www.nuforc.org/webreports/reports/091/S91567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Evergreen (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>abducted, and a lifetime of ufo experiencesi was eight years old and saw a craft on the ground in the woods. i remember standing under it.i don't remember how i got inside of it,but i wasn't scared as long as the small person with the large eyes was near me.  i saw panel boards in an area.  i also saw a baby about one year old on a table with an amber clear circled object in front of it. it was scared for a moment until it stopped in front of it. i saw another area with taller beings that i called the elders.  i also saw a hunanoid type man, that i will never forget.  i saw a girl on a table with a clear thing over her head where she was laying. i saw a room with tables and a ceiling with pulseing lights in it.  in 1985 i went to a hyptnotist because all my life the incidents came back in my dreams and thoughts.  until i was crying a lot. after seeing the hyptnoyist i realized it had happened to me.  and i had seen more since my incident. once they got into my head and told me to to go to a place called giant rock airport in the desert, where i had never been before.  but somehow i never got lost and i had three otherpeople with me.  we all saw the ship that night.  there is just one thing that i don't understand.  when i see the ships they don't look strange to me.  it is as if i know them. somehow i feel apart of them,like i have been there before. i don,t understand it, but the ships i have seen in my lifetime don't seem alien  it is like there is something i have to remember so that i can remember it all.  honest, i'm not crazy, this has been happening to me all my life. now i am worried because one came over my home in gonzales, la when i wasn't home and all 5 of my children saw it. and my babysitter was so scared that she did not come back to visit me for a year. i know we are not alone in gods vast universe, i just wish i could understand what is happening. i know they are real, and now so do my children, that scares me.  why my children too?((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35239.html](http://www.nuforc.org/webreports/reports/035/S35239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
