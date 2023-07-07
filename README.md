@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:27 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Earlville (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My five friends and I were on a camping trip in Earlville, IL which is primarily a farming community. Late at night around 11 PM, I was gazing up at the sky and an odd vertical, dark orange/red light was in the sky. It looked like 3-5 small vertical circles stacked on top of each other. It was very high up in the sky, so I assumed it was a comet or something of that sort. I pointed it out and told my five friends to look at it. As they looked up at it, the single vertical line split into 2 vertical lines and started descending down to the earth. It still appeared very high in the sky at this point. About 15-25 seconds after the single line diverged into 2 lines, it had diverged again into 4 vertical lines. At this point it was very close to ground level. I'm guessing it was 2-3 miles away from where we were looking at it. It was very dark so it is hard to judge the distance it actually was but it was not far away at all. When it had finally appeared at ground level, there were 2 horizontal rows of lights with 4 lights in each row. The light wasn't nearly as intense now as it was when I had first mistaken it for a comet in the sky, but the light formation clearly made the shape of a saucer and at this point we had no doubt it was a UFO. About 10 seconds after it had fully descended and the 2 rows of lights had appeared, the outermost two vertical rows of lights faded away and immediately following after the center two vertical row of lights faded away. We were silent the whole time we watched this thing descend down onto the earth but after the lights had completely faded, we all confirmed that it was a UFO we had all just witnessed. The grandson of the owner of the property soon told us that his grandparents had witnessed UFOs before on the property (I think he said they saw one about 50 years ago) and that his grandfather had actually coined the city of Earlville's motto as "The Center of the Universe".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57526.html](http://www.nuforc.org/webreports/reports/057/S57526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Camdenton (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately All Summer - All Summer minutes.</sub><blockquote><sub>Red Star Movement in Sky Awesome All Summer.Summer of 1998 UFO Visable East Southeast Sky Most Everynight.I would go Outside Front Deck Have Smoke.Noticed a Red Star, Living in Country No City Light Intrfearance.While Watching Star Would Move In Sky Feet From My Perspective.Angle of Right and Diagnal also Straight Like and Backward Abrubt Stopping.I Told My Wife She Viewed 1 Time No Longer Would Come Outside Too See.  Denial, Fear.My Stepson and Friend Visiting From Boston Viewed and Got Excited with What They Saw.Took Photo with Phone Camera in 1998 Not Good Enough Cameras.Became a way of Life, some nights look other nights not even Think About.In 2000 Started Listening To Art Bell and Learning More About Subject.Now 2017 Often Think About.  Other UFO's Seen Unidenified Flying Objects No Idea.Moved Bought a Farm, Plasma Balls Darting Around Wood Visual 2 Times Lived Here 4 Years.Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133127.html](http://www.nuforc.org/webreports/reports/133/S133127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
