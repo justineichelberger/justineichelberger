@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 6 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dorchester (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Drifting, wobbly light moving quickly across the night sky and disappearingWife and I were sitting on the porch swing and noticed a very bright, drifting star - brighter than Venus by several magnitude - moving quickly from northwest to southwest.  Too fast for a plane, too quiet as well, not high enough for a satellite.  It wobbled slightly as it moved, but moved smoothly. After passing over our home, it dimmed and disappeared completely.  We stayed outside to see if it would come again - say on a second rotation if it were a satellite.  However, never saw it again.  Wife mentioned she saw it earlier in the evening hovering on the horizon.  Thought it was an extremely bright star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect that both sightings from Dorchester, Massachusetts, submitted by the same person, are of the International Space Station.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76392.html](http://www.nuforc.org/webreports/reports/076/S76392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lone Pine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10-15 - 10-15 minutes.</sub><blockquote><sub>15 quick moving white orbs in perfect/tight formation over Sierra Nevadas.Woke up at 11:00 to check out of hotel and go get hiking permits. I went outside of the Lone Pine Hotel to pack backpacks. despite the fires going on to the right, near big pine, and the huge advaning smoke plume, it was crystal clear and bright. I was looking up at Mt.Whitney and decided to put on my glasses(amber lens)because it was so bright. I  immediately saw a group of 15 or more white colored round objects moving quickly above the Whitney range. At first I thought them to be birds but I noticed they all moved together, in perfect formation, up and down. They disappeared when they turned either towards or away from me. I couldn't tell how large they were or how fast they were moving. I guess they were pretty far away and high, They appeared to be moving quickly to the north, right into the smoke (they may have been higher than the smoke but not likely). I didn't think birds fly into smoke! Anyway, they were remarkably similar to those ufos spotted down in mexico. My girlfriend saw them as well.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60858.html](http://www.nuforc.org/webreports/reports/060/S60858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [409](http://www.nuforc.org/webreports/reports/163/S163930.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164129.html)
-- [407](http://www.nuforc.org/webreports/reports/163/S163927.html)
-- [406](http://www.nuforc.org/webreports/reports/157/S157661.html)
-- [405](http://www.nuforc.org/webreports/reports/157/S157436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
