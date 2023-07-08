@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:27 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:29 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Aloha (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange hazy, fire-like light above Aloha, footage capturedAround 3:30am a friend of mine and I were grabbing a bag from her car, and turned back towards our home.  We noticed what we thought was an oddly bright star, then thought it might be a plane, then realized it was flickering like fire and sort of, hazy and floating. 2 neighbors' dogs were barking at sky in its direction.  Filmed on cell phone and called a roommate out to see, could be seen by roommate and cellphone also.  It gave off a sort of irridescent light, almost colorful occasionally. It drifted closer and closer to homes, dipped to treeline, then moved further back and got really bright and winked out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142145.html](http://www.nuforc.org/webreports/reports/142/S142145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kuttawa (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fast moving solid bright light, redish color, in KYsolid redish very bright light moving fast without blinking or any noise. seemed to be making a wide turn going northeast. at least 5x brighter than anything else in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64656.html](http://www.nuforc.org/webreports/reports/064/S64656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
