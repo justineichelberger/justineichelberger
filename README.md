@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:20 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:54 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Middletown (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>The object was still in the sky and not making a sound.   It just sat over a military facility in Middletown CT on Smith Street and took off when a helicopter approached.  The helicopter appeared to be in silent mode and circled the area for up to 30 minutes.   I recently found out that others saw a silver disc like object and tried to put it on Facebook but it was taken down</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157839.html](http://www.nuforc.org/webreports/reports/157/S157839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I awoke twice to bright blue light; once with no object, once with a suspended disc.I'm visiting my mom for a few days and slept above her garage last night (7/7/2013 into 7/8/2013).  I started awake at 4:45am to strangely blue light filling the windows.  When I checked it out, I didn't see anything but the sky returning to dull, grey and overcast.  Figuring I had woken up because I was cold, I threw on some underwear and went back to sleep (how I'm confident I was not sleepwalking/dreaming).I woke up again that morning (still before 5:00am) and checked the window to find a 40-foot disc suspended 15 feet above the neighbours' house (a stone's throw away).  I noticed 3 lights on the top-side of it and a blue cylinder of light coming from the bottom onto the roof of the house below.  This image is vivid for me, but everything after is vague. The disc departed and I threw on a shirt and went back to sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99928.html](http://www.nuforc.org/webreports/reports/099/S99928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
