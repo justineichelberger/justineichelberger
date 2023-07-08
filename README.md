@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:22 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hudson Falls (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>me and my friends decided to go camping because we did not do any thing on the fourth so we went into the woods where we had built a cabin. At first we brought all our supplies and then my friend was saying something about the ufo landing in this area and was so anooying about it that we went and looked at the landing site and every thing was still burnt! we went back to the cabin and then my friend stoped short and i just kept walking after i walked about 5 or 6 yards i saw why he stopped. in a clearing about 100 yards wide was this metalic cigar shaped object. in shock i backed up and triped on a tree stump. i was on the ground looking up and was even more shocked in the sky not 400 to 500 feet above me and my friend where 4 more of these things i just was so shocked i did not hear my friend yelling to our other friends. they came out of the other side of the clearing and stoped short. i had got out of shock and looked at the one on the ground and saw this extraterrestrial that looked nothing like the ones that have been seen befor. it looked like a cross between a squid and a lizzard and thats all i remember up until 5 hours later. my friends said it was the same for them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71054.html](http://www.nuforc.org/webreports/reports/071/S71054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Lake Pleasant night time UFO sightingA friend and I were camping out by Lake Pleasant. We were in our sleeping bags looking into the sky in the bed of his truck, we noticed a set of stars in a triangular shape; discussing the unusual shape of the stars we then noticed a bright flash covering the diameter of one of the corners. A white light then emerged from the star and began to streak across the sky making a zig zag like pattern. We followed the object by pointing at it and after aproximately 30 seconds the object turned back towards the corner of the triangular stars and faded.We were pretty shaken up by this and our hair was standing on end, we could barely sleep after that, very exciting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74484.html](http://www.nuforc.org/webreports/reports/074/S74484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
