@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:24 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:29 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Santa Rosa/Forestville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast moving greenish object going from east-to-west somewhere southeast of Santa Rosa, CA at about 22:00 on 07-08-00We were headed due east toward Santa Rosa, CA on Guerneville Road, a mile east of State Highway 116. At about 2200 hours, I was the passenger and spotted a greenish object streaking across the sky at about 2 o'clock position. I have to guess the view angle at about 15 degrees from my position. It was viewable to about 20-25 degrees to the southeast. I checked a map and that is the approximate direction to Modesto from our position as we were heading east. The object was going from west to east at a high velocity as it was viewable for only one second. My initial thought that it was a meteor but it was quite large, about a quarter of a fingernail held at arm's length. The driver of the truck also noted it and we both wondered what the hell it was. It was hard to determine the shape as it was somewhat blurred, either there was haze in the sky or it was very far away. (This may be the same object reported in Ceres, CA)The location of Forestville, CA in Coordinates, is 122W53.5 38N28.4 Our position was about 3 miles south/southeast of that point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13393.html](http://www.nuforc.org/webreports/reports/013/S13393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Crash site photo albumCirca late 1970s, a neighbor and I began talking about UFOs.  He mentioned that his father-in-law was one of the officers who cordoned off the area around a UFO crash site (Roswell?).  His wife told him that her father had shown her a photo album of the crash site, including alien bodies, and that they looked “very real.”  He didn’t mention what became of the album.  I knew this person only briefly and don’t know his current whereabouts, but I remember his name and where he lived.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103157.html](http://www.nuforc.org/webreports/reports/103/S103157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
