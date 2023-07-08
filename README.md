@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Saw a UFOI was driving and I saw a circle looking thing lit with a green light.  It was moving parallel to the ground and at a speed way to fast to be a helicopter of plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142175.html](http://www.nuforc.org/webreports/reports/142/S142175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fargo (ND) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow-moving cigar/egg shaped object seen above FargoI remember the date of this siting because it was the week of the Fargo Air Show.  I had decided to take my morning break from work and have a walk around the neighborhood, specifically so that I could watch the Blue Angels practicing their maneuvers.  There is a park near the bank where I work that has a large, open field.  I decided to linger a bit longer than normal in the beautiful, clear, warm day and watch the planes work their magic.So, I was standing in the middle of this field facing North.  The Blue Angels were flying all around the sky, so I was just standing in one position and trying to catch as much of it as possible.  It was a very clear day.  All of a sudden, I noticed an object almost directly above me very, very far up in the atmosphere.  It was something between a cigar and an egg shape and had almost a khaki color to it.  It was moving extremely slowly from west to east.  I have never seen a flying object move this slowly before.  I was astonished at seeing this mainly because the Blue Angels did not seem to notice it at all.  (Granted, its position was much higher than their own.)The object just continued on its trajectory at the same speed the entire time.  It seemed to be pushed by the wind more than move on its own power; however, that said, it was a very regular speed and constant direction.  There were no windows on the object, but it did seem to have the same shape and indentations as the object sited in St Louis this past summer.  There were some very high cirrus clouds in the area, and the object seemed to disappear and reappear through those clouds, so that might give an indication as to its altitude.  I watched the object for probably 10 minutes (which gives you an idea of how really slowly it was moving), and then suddenly felt very disturbed by it and walked back to work.  No one else seemed to notice the object, though there were several other people walking through the park and commenting on the Blue Angels.The reason I decided to post this report was that the object looks almost identical to the report from St Louis posted on your main page today.  The only difference is that this object I saw was not metallic.  It had a khaki color and no irridescent or reflective qualities at all.I thought it might be a weather balloon, but never having seen one, I'm not sure if that's what it was.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48328.html](http://www.nuforc.org/webreports/reports/048/S48328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
