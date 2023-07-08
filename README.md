@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:56 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Steubenville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGULAR OBJECT MOVING AT A STEADY RATE OF SPEED WITH NO LIGHTS, NOISE & COMPLETELY INVISIBLEIT WAS A VERY CALM, CLEAR EVENING. I HAD WALKED OUTSIDE FOR AIR AND I SAW TRIANGULAR SHAPED VAPOR COMING TOWARDS ME AT A SLOW STEADY SPEED. I WATCHED FOR A FEW MINUTES BECAUSE I THOUGHT IT WAS THE STEALTH BOMBER BUT WHEN IT GOT DIRECTLY OVERHEAD I REALIZED I COULD SEE THE STARS RIGHT THRU IT! I RAN INTO THE HOUSE & YELLED FOR MY BOYFRIEND WHO CAME OUTSIDE & WATCHED WITH ME. THIS OBJECT CONTINUED TRAVELING IN A WESTWARD DIRECTION WITH THE ONLY VISIBLE THING BEING A VAPOR COMING FROM THE REAR. NO SOUND - NO LIGHTS. THIS MADE A BELIEVER OUT OF MY BOYFRIEND!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36072.html](http://www.nuforc.org/webreports/reports/036/S36072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tokyo (Japan) () reported seeing craft that fit the description of some 'Circle' over a period of approximately The photo. - The photo. minutes.</sub><blockquote><sub>You guys are going to love this!A good friend of mine took this photo in Tokyo a few days ago.  Take a close look at the top right of the photo,  No cloud can do this! If you look closely, you can see more of it above the main ring!   Quote from the person that took the photo:  "On July 8th 2014, a large typhoon was coming near the greater Tokyo area.  I looked at the sky through the window of hotel room where I was staying.  It was very beautiful.  I wondered if the typhoon would really come while I was taking these photos.By the way, at the upper right side of the photos, there is a strange cloud, which looks like a UFO".I am sending 3 photos to:  ufocntr@nwlink.com (Subject, 07082014 UFO sighting / ((name deleted)).  These were forward to me from the person that took them.  I have known this person for more that 20 years, they are NOT a hoax!((NUFORC Note:  Possible reflection of recessed ceiling light?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111695.html](http://www.nuforc.org/webreports/reports/111/S111695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
