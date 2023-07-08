@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:25 on 7 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cudahy (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I have lived here for 55  years and never saw what I believe were UFOs.We were going East on Layton Ave toward the Lake.  We saw four orange lights in the distance that were in a row.  As we got closer to the lake they formed a straight line. We ran to the lake front and watched two disappear but two remained together.  They got extremely close and my son said he saw flashing from one and a flashing response from the other.  One then just disappeared backward and one went up and down the lake front then started to go backward and flashed as it disappeared.  I did take my I-phone out and took some footage.  Our neighbors were on their porches and took off in the car; I believe to take better pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99861.html](http://www.nuforc.org/webreports/reports/099/S99861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Went on a drive specifically to look for Ufo's; I parked on the side of the road, and the stars started multiplying throughout the area, then shifted, and flying objects came through in multiple locations through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147483.html](http://www.nuforc.org/webreports/reports/147/S147483.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [485](http://www.nuforc.org/webreports/reports/163/S163936.html)
-- [484](http://www.nuforc.org/webreports/reports/163/S163939.html)
-- [483](http://www.nuforc.org/webreports/reports/163/S163932.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164124.html)
-- [481](http://www.nuforc.org/webreports/reports/163/S163720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
