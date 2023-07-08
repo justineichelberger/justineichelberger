@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:24 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portland (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball,very low and then went higher into the sky and dissappeared7/8/2007 saw a glowing ball of fire acroos the street over my neighbors house,we thought it was a plane om fire,however no noise and this was definetly a cicle shape like a ball.looked like it came from across the connecticut river from middletown then to portland.veered west torward high street,kind of slow.went faster and further up in the air until we couldn't see it anymoreno tail,.no other lights,zig zagged a little bit and nothing changed color.just a ball of fire.a minute or 2 later we saw what looked like a smaller plane in the EXACT same direction !!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57548.html](http://www.nuforc.org/webreports/reports/057/S57548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Santa Rosa/Forestville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Fast moving greenish object going from east-to-west somewhere southeast of Santa Rosa, CA at about 22:00 on 07-08-00We were headed due east toward Santa Rosa, CA on Guerneville Road, a mile east of State Highway 116. At about 2200 hours, I was the passenger and spotted a greenish object streaking across the sky at about 2 o'clock position. I have to guess the view angle at about 15 degrees from my position. It was viewable to about 20-25 degrees to the southeast. I checked a map and that is the approximate direction to Modesto from our position as we were heading east. The object was going from west to east at a high velocity as it was viewable for only one second. My initial thought that it was a meteor but it was quite large, about a quarter of a fingernail held at arm's length. The driver of the truck also noted it and we both wondered what the hell it was. It was hard to determine the shape as it was somewhat blurred, either there was haze in the sky or it was very far away. (This may be the same object reported in Ceres, CA)The location of Forestville, CA in Coordinates, is 122W53.5 38N28.4 Our position was about 3 miles south/southeast of that point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13393.html](http://www.nuforc.org/webreports/reports/013/S13393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
