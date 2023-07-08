@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:54 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:38 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I awoke twice to bright blue light; once with no object, once with a suspended disc.I'm visiting my mom for a few days and slept above her garage last night (7/7/2013 into 7/8/2013).  I started awake at 4:45am to strangely blue light filling the windows.  When I checked it out, I didn't see anything but the sky returning to dull, grey and overcast.  Figuring I had woken up because I was cold, I threw on some underwear and went back to sleep (how I'm confident I was not sleepwalking/dreaming).I woke up again that morning (still before 5:00am) and checked the window to find a 40-foot disc suspended 15 feet above the neighbours' house (a stone's throw away).  I noticed 3 lights on the top-side of it and a blue cylinder of light coming from the bottom onto the roof of the house below.  This image is vivid for me, but everything after is vague. The disc departed and I threw on a shirt and went back to sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99928.html](http://www.nuforc.org/webreports/reports/099/S99928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Longview (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Daylight observation of a fast moving bright circular object below a 10,000 ft cloud level.Driving home from work southbound.  Lots of cumulus clouds.  Cloud bases about 10,000ft.  Visibility unlimited.  About 35 degrees above the southwest horizon a flash caught my eye.  Size: 1/4" circle at arms length.  Shape: Circle. Color: A very bright silver.  At first I thought it was a high flying airliner reflection until it moved / flipped under the dark base of a cumulus cloud.  It got brighter and a little larger then disappeared.  This was a distinct circular object. Not a reflection, not a balloon, not a bird, not a conventional aircraft.  I know aircraft, I was an Air Traffic Controller for 11 years.  The outstanding characteristics of the object was that it was a perfect circle and the color was a very bright liquid silver.((NUFORC Note:  We presume the witness means a time of 16:41 hrs..  We have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29676.html](http://www.nuforc.org/webreports/reports/029/S29676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
