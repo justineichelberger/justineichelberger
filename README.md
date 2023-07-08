@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:24 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:21 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rock Island (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Light green neon light flashed across the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142167.html](http://www.nuforc.org/webreports/reports/142/S142167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 triangular lights on 4 sets of objects, 2 sets of 3 then 2 set of 2 and 1 final one, soundless.Leaving my front door, there were bright lights in the air above me.  There were 3 lights in a triangular and 2 sets of 3, then 1 set of 2, finally 1 set alone.  Totally silent, moved at the same slow speed.  As they left my left field of vision, they just disappeared.  The silence was as unusual as the lights.  I used the car alarm, the horn screamed and yelled, but no one heard me.  I had nothing to photograph them.  I did call the police and a TV station, just to report if someone else, somewhere else, saw them.((NUFORC Note:  The witness provided the time and date of the sighting during a follow-up telephone conversation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143041.html](http://www.nuforc.org/webreports/reports/143/S143041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
