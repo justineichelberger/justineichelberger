@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1947, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Crash site photo albumCirca late 1970s, a neighbor and I began talking about UFOs.  He mentioned that his father-in-law was one of the officers who cordoned off the area around a UFO crash site (Roswell?).  His wife told him that her father had shown her a photo album of the crash site, including alien bodies, and that they looked “very real.”  He didn’t mention what became of the album.  I knew this person only briefly and don’t know his current whereabouts, but I remember his name and where he lived.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103157.html](http://www.nuforc.org/webreports/reports/103/S103157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jasper (AR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Red/orange lights seen over NW ArkansasThis sighting took place in NW Arkansas, in the Ozark Mountains.  My wife and I were staying at our mountain retreat.  At approximately 1 a.m., I went out on our back porch, which faces north and overlooks the valley.  Our place is located on the very top of Sloan Mountain, which is very rural.  The only ambient light was from a few lights in the valley, one cell phone tower to my left and a distant glow from Harrison, Arkansas, located about 25 miles away.  Even though the sighting took place during the Fourth of July week, there were absolutely NO fireworks were being used at this time.I was on the porch, facing northward when I noticed a roundish red/orange light, distance is difficult to estimate, but I had the impression it was about 5 miles away.  The light was just smaller than dime size.  It looked unusual in this environment, so I did a mental assessment of the other lights I was used to seeing.  This light I was seeing was above the horizon, noticeably higher than the distant mountains top.The initial light was at my eleven o’clock position and had some slight movement, both vertically and horizontally.  Two smaller objects came out of the original light; they expanded to the same relative size of the original one.I noticed other similar lights appear randomly.  In total, there were nine of them.  They were not in a precise formation, but were generally aligned, but were on different planes.  There was some movement, but like the original, no drastic movements.  They randomly blinked on and off, sometimes disappearing for two or three minutes, reappearing in slightly different positions.  The only constant light was the original.I observed these lights for over thirty minutes.  They randomly disappeared, with the exception of the second and third light, which merged back to the original light.My field of view of these objects/lights was from my 10 o’clock to 3 o’clock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111491.html](http://www.nuforc.org/webreports/reports/111/S111491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
