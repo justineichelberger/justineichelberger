@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:27 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bylas (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Several fireball lights seen by husband and wife in ArizonaMy husband and I were driving through the desert on our way home from Flagstaff and I looked up and saw probably six fireball-type lights in the sky and I pointed at them and asked my husband if he could see those, too.  He said they were definitely there, I wasn’t just imagining things.  They were circular, in a mostly straight line, but a couple of them were a little higher than the other ones.  Once one disappeared, another would appear on the other side.  We saw it for a few seconds, and it disappeared.  One light went out, then the next, and so on until it was all out, but that happened within like a second.  It went out as soon as I told my husband to grab his phone and take a video, as if it could hear us, or see us.  So, since it disappeared, we forgot about the phone for a moment and talked about what we just saw and it came up again, doing the same thing, only a shorter amount of time that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147466.html](http://www.nuforc.org/webreports/reports/147/S147466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Daytime UFO sighting over Washougal, WA, with PhotosFirst pictures are from where the cloud is overhead.  I noticed weird clouds and took these pictures from the home of a friend with her camera.  after this we proceeded to drive to the local walmart a few mile away.  On the way back I noticed the same clouds, but now with dual weird rainbows, real dark with a fireball like plum coming accompanying it.  I had my friend pull over to a suitable place to snap some more photos at a local marina some 5 miles from the clouds that are still situated above her house, this being after an hour shopping.  I start snapping pictures and within 2 seconds the whole cloud cloak, falls off the UFO, and reveals  a  3 sided pyramid, laying on side, with fireball plum coming off rear and intense rainbow at nose.  There is a second rainbow similar but not as intense.  I have no clue why it did not come out in the pictures.  the hypotenuse sides of the UFO were sharp and straight in completeness.  But on the facades you could see ! relief with louvers, portals, appendages etc. visible.  The other witness is viewing the same thing with complete amazement like myself.  It never moved, and being at 5pm I am facing due east so the sun was at my back.  We got back in car and by the time I looked up again it was cloaked and the rainbows were gone.  While looking at the peripheral of the situation I felt as if there were other craft in close proximity but cloaked by dark clouds. On a side  note, I have a couple of friends who independently at the same time saw from below these clouds dual concentric rainbows overhead.  Another reliability/credibility adder is that we are both professionals with degrees, my education is from The US Air Force Academy and Univ of Washington, and hers is from the Univ. of California.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132697.html](http://www.nuforc.org/webreports/reports/132/S132697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
