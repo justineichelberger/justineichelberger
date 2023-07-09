@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:27 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Selden (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange object moved across almost the entire night sky, looked like a star, but wasn'tFriday, @ 10:12pm on 7/9/10, I was sitting outside my home and looked up into the night sky.  I saw something that looked just like any regular star in the sky move across almost the entire night skyline until it dimmed and disappeared.  It was too far away and small with no other lights to be a plane.  It had no trail streak behind it, nor did it move fast enough to be a shooting star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  ISS?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76357.html](http://www.nuforc.org/webreports/reports/076/S76357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bylas (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Several fireball lights seen by husband and wife in ArizonaMy husband and I were driving through the desert on our way home from Flagstaff and I looked up and saw probably six fireball-type lights in the sky and I pointed at them and asked my husband if he could see those, too.  He said they were definitely there, I wasn’t just imagining things.  They were circular, in a mostly straight line, but a couple of them were a little higher than the other ones.  Once one disappeared, another would appear on the other side.  We saw it for a few seconds, and it disappeared.  One light went out, then the next, and so on until it was all out, but that happened within like a second.  It went out as soon as I told my husband to grab his phone and take a video, as if it could hear us, or see us.  So, since it disappeared, we forgot about the phone for a moment and talked about what we just saw and it came up again, doing the same thing, only a shorter amount of time that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147466.html](http://www.nuforc.org/webreports/reports/147/S147466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
