@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:18 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:30:23 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Imperial (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Reddish orange fireball in sky in Imperial, MOAround 9:30 pm on both July 4th and July 9th, my husband and I saw what appeared to be a fireball that was moving from south to north in a straight horizontal line.  The object went horizontal for a period of maybe 6-7 seconds toward our location then went vertical into the sky until it disappeared.  It seemed to be as high in altitude as a jet would be.When the object was going horizontal, it made a 90 degree turn going vertical at what seemed to be a high rate of speed into the atmosphere to the point that we could not see the object any longer. There was no sound.  The color of the object was a reddish orange single orb.The events on both nights were exactly the same in time, location, appearance and movement.  The event took a matter of maybe 15 seconds each time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82364.html](http://www.nuforc.org/webreports/reports/082/S82364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hurt (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular lighted object moving quickly from sw to ne at 1/8 size of moon.Looked like a star moving from heading 202 sw on july 9th between 9:45-9:50 PM eastern time.  Lit up for roughly 2 seconds shaped like a triangle.  Size was approximately 1/8 the size of the moon on this clear night.  Still looked roughly like a star heading 24 degrees northeast.  Used cell phone compass for degrees.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite serious-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128402.html](http://www.nuforc.org/webreports/reports/128/S128402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
