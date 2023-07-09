@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:28 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 lights in sky over gulf of mexico blinked strange colors moved slowThree lights seen in sky above ocean.  All three lights moved.   The lights changed and blinked different colors.  Colors seen include:  Purple, Green, Blue, Red.  Moved very slow, sort of hovered. Formed triangle, erratic movements.  The lights lasted for more that 30 mins but had to stop watching them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82357.html](http://www.nuforc.org/webreports/reports/082/S82357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30/40 - 30/40 minutes.</sub><blockquote><sub>3 light spheres  They came one next (behind) the other  as if liking in different directions I felt that the light stop for a second so I could film it ... was very unusual ..  but I have Seen weird ufo in that same area before (one was shaped as a American football &#127944;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157507.html](http://www.nuforc.org/webreports/reports/157/S157507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
