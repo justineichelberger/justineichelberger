@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:24 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:22 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange ball of light over Carson, CA.An orange ball of light sighted as I was loading my vechicle with merchandise for a flea market the next day. I glanced up into the night sky and saw a orange light. I went into the house to get my binoculars and checked the time as 11:11 PM. I went back outside and observed the object for 6 minutes until it disapeared. The ground wind was slight to the west as I observed my neighbors flag flying. The object stayed at approx. the same altitude, but drifed very slowly to the east, until it disapeared. It was halfway from the horizon and had the basic relative size as the average bright star or planet that night. It was brighter than anything else, and orange colored.  I had a similar sighting approx. 2 months ago at 3:45 AM, on the second Saturday of the month. I was also loading my car at the time.  I also have observed these objects over approx. the same location before.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44870.html](http://www.nuforc.org/webreports/reports/044/S44870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Easton (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 objects seen flying in a straight line.  1 minute apart from each other they would disappear into thin air.  They were red and orange blinking.  At first I thought it was a plane, but if a plane disappeared into thin air, it would be on the news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111506.html](http://www.nuforc.org/webreports/reports/111/S111506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
