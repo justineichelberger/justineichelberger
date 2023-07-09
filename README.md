@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Between Wabash and Marion onq5 (IN) reported seeing craft that fit the description of some '' over a period of approximately Blink of an eye - Blink of an eye minutes.</sub><blockquote><sub>An almost blinding pure white flash in the upper Eastern part of the sky.  I was watching the sky through our moon roof.  I seen 2 satellites or the space station and something caught my eye.  I looked and there was in incredibly bright and fast.  It went form a spot to a flash and disappeared.  It looks like the stars are not visible in the spot where it happened still tonight. Weird, huh?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128424.html](http://www.nuforc.org/webreports/reports/128/S128424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>07/09/2010, Antioch, Ca. , oblong, 3 min., luminous red orange, 3 x's larger than a small plane, pulsing soft noise,strait low flight.My Loc: N37 59.xxx',  W121 49.xxx', Elev.: 110 ft.I viewed an Unusual Flying Object at 1:59 A.M. traveling eastbound from the city of Pittsburg, traveling eastbound towards the Antioch bridge/City of Oakley.  It was red-orange and looked like a small planet or fireball at first.  When it flew over head, it appeared to be oblong, larger than a small airplane and flying about the same altitude of a small airplane cruising low to land.  The glow of the object made it impossible to identify, almost like an entire plane was engulfed in fire, but holding a consistent altitude.  It’s sound was low, unlike an airplane and resembled a  pulse.   After it was out of view, I ran back into the house and called 911 to see if there were any other reports.  The operator checked with the sheriff’s office and said there was no boat distress flares reported.  I guess, when I described it flying, the operator decided it was a flare since I didn’t describe the size or just thought I was out of my mind  and  didn’t want to be part of an U.F.O. report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76344.html](http://www.nuforc.org/webreports/reports/076/S76344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
