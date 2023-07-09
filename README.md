@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:13:15 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:30 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>THREE BRIGHT FLASHES  HIGH  ABOVE GILROY CALIFORNIAI WAS IN MY BACK YARD WATERING THE LAWN ENJOYING THE COOL NIGHT AIR.  I WAS FACEING WEST LOOKING ALMOST STREIGHT UP JUST LOOKING AT THE STARS AND SAW THREE BRIGHT FLASHES OF PURE WHITE LIGHT.  THE FLASHES LOOKED TO BE ABOUT AS HIGH AS SATELLITES TRAVEL AND OCCURED ABOUT 3 SECONDS APART WITH THE LAST FLASH BEING DIMMER THAN THE FIRST TWO.  THE FIRST TWO FLASHES WERE IN THE SAME SPOT IN THE SKY AND THE THIRD DIMMER FLASH IN A SLIGHTLY DIFFERENT SPOT.  THE THIRD FLASH SEEMED TO BE MORE OF A YELLOWISH COLOR AND NOT AS PINPOINT OF A LIGHT KINDA FUZZY.  I CONTINUED TO LOOK AT THE SKY FOR ANOTHER TEN MINUTES AND DID NOT SEE ANYTHING BUT A FAINT SHOOTING STAR ALMOST IN THE SAME AREA.  THE SKY WAS VERY CLEAR NO WIND NO CLOUDS.  I HAVE BEEN INTO ASTRONOMY FOR YEARS AND FREQUENTLY USE A TELESCOPE.  I HAVE KNOWLEDGE OF SATELLITES AND OTHER SPACE OBJECTS.  THIS WAS NOT AN IRIDIUM FLARE OR ANY SATELLITE FLASH.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76365.html](http://www.nuforc.org/webreports/reports/076/S76365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Selden (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange object moved across almost the entire night sky, looked like a star, but wasn'tFriday, @ 10:12pm on 7/9/10, I was sitting outside my home and looked up into the night sky.  I saw something that looked just like any regular star in the sky move across almost the entire night skyline until it dimmed and disappeared.  It was too far away and small with no other lights to be a plane.  It had no trail streak behind it, nor did it move fast enough to be a shooting star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  ISS?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76357.html](http://www.nuforc.org/webreports/reports/076/S76357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
