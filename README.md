@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:28 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30/40 - 30/40 minutes.</sub><blockquote><sub>3 light spheres  They came one next (behind) the other  as if liking in different directions I felt that the light stop for a second so I could film it ... was very unusual ..  but I have Seen weird ufo in that same area before (one was shaped as a American football &#127944;</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157507.html](http://www.nuforc.org/webreports/reports/157/S157507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New Britain (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Looked out the window around 10:00pm after hearing a loud boom and saw a bright triangular light hovering also saw multiple pulsating lights circling the triangular light.  The pulsating lights were red and blue almost looked like drones checking out the strange triangular light showed.  Showed my girlfriend we have no clue what it is but it's still up there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147461.html](http://www.nuforc.org/webreports/reports/147/S147461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
