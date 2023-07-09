@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:25 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Cigar shaped craft hovering over Norman, OklahomaI was driving home from work from Oklahoma City, from I-35, whenever I happened fo look up and see a cigar shaped, aluminum/reflective colored aircraft (no wings, lights, or other normal qualities) going northwest.  It was not very high off the ground... easily below an altitude of 1000 feet. I was able to stare at it for about 10 seconds before it finally disapeared from sight, behind a line of trees that i was driving by. Sadly, I wasn't able to pull my phone's recorder up in time to capture any video of it... Despite it being in the middle of the day!  Would have been great.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99980.html](http://www.nuforc.org/webreports/reports/099/S99980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Seymour (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Round object seen in the forest Object hovered and quickly left.  Caught on film.It was approximately 9:00 P.M. Monday, July 9th, 2007.  I was in the forest west of Seymour, Indiana.  I looked up and saw an unusual object stationary in the sky well above the tree line, yet below the clouds (it was a cloudy night-no stars were visible).  The object was round and metallic in form with three round lights on the underside.  I quickly grabbed the disposable camera I had with me and snapped a picture-which did turn out.  The episode was brief in nature-lasting only about a total of no more than two minutes.  The object hovered in one spot for a brief time and then quickly left-ascending into the clouds, leaving a green trail as it left.  It was unlike any other flying object I have ever known or witnessed.  There was some sound associated with this object, one which is difficult to describe.  It sounded like a low pitched hum, which intensified when it left.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65875.html](http://www.nuforc.org/webreports/reports/065/S65875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
