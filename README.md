@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:24 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:24 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Middlesex (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Saw very fast moving object  high in the sky heading from South to North which was round and yellowish red in color.The object was circular and looked yellow/reddish in color.  My hobby is astronomy and I have watched the space station (ISS) travel across the sky in west to east fashion a number of times with my family but this object was moving from south to north and was not as bright as compared to the space station.  I had a clear view the entire time of about 20 seconds and it was moving about 3 times faster then the ISS.  Living out in the country, there are no street lights or city lights to mess with ones night vision and there was no moonlight or clouds out on this particular evening.  I could tell it was very high up and I did not notice any flashing lights or sounds from the object other than to say it was circular and a yellowish red in color.  It's elevation above the horizon was about 85 deg because I was almost looking straight up to see it. I was talking to a co-worker of mine the next day and told him what I saw. I had just started the conversation when he asked me if it was about 10:45 to 11 pm and if was traveling south to north. I told him he was correct and he finished telling me that he and his wife were outside on their patio and saw the same object.  He lives about 12 miles from me and I was glad that I was actually not seeing things.  I was guessing that maybe it was a meteor skimming the atmosphere because it just seemed to disappear all at once.  I did not really notice though any streaks behind it such as a tail or fire coming from it so it is anyone's guess as to what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90760.html](http://www.nuforc.org/webreports/reports/090/S90760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange ball of light over Carson, CA.An orange ball of light sighted as I was loading my vechicle with merchandise for a flea market the next day. I glanced up into the night sky and saw a orange light. I went into the house to get my binoculars and checked the time as 11:11 PM. I went back outside and observed the object for 6 minutes until it disapeared. The ground wind was slight to the west as I observed my neighbors flag flying. The object stayed at approx. the same altitude, but drifed very slowly to the east, until it disapeared. It was halfway from the horizon and had the basic relative size as the average bright star or planet that night. It was brighter than anything else, and orange colored.  I had a similar sighting approx. 2 months ago at 3:45 AM, on the second Saturday of the month. I was also loading my car at the time.  I also have observed these objects over approx. the same location before.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44870.html](http://www.nuforc.org/webreports/reports/044/S44870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164978.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164036.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164128.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163931.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
