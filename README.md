@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 8 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 9 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Lake Pleasant night time UFO sightingA friend and I were camping out by Lake Pleasant. We were in our sleeping bags looking into the sky in the bed of his truck, we noticed a set of stars in a triangular shape; discussing the unusual shape of the stars we then noticed a bright flash covering the diameter of one of the corners. A white light then emerged from the star and began to streak across the sky making a zig zag like pattern. We followed the object by pointing at it and after aproximately 30 seconds the object turned back towards the corner of the triangular stars and faded.We were pretty shaken up by this and our hair was standing on end, we could barely sleep after that, very exciting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74484.html](http://www.nuforc.org/webreports/reports/074/S74484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Marietta area (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 11:00-11:20 - 11:00-11:20 minutes.</sub><blockquote><sub>3 unidentified aircraft spotted on highwayI had just gotten done playing at a wedding gig and me along with my quartet was talking with each other while I was just looking out of the window of the car.  I was in the back seat of the car on the right side. I love looking a star formations and consolations but I noticed an extremely bright star.  then i thought maybe it was a planet.  I told my friends to look at how bright this str was.  it was stationary I believe. we all kept looking to debate on whether it was a star or a planet.  I bet that it was a planet, anmd the driver of the vehicle thought it was an airplane tower, we all were looking to see a pole and as we drove closer( by the way it was on a highway 285 in Marietta, south I believe) we noticed it had 3 lights i think 2 white ones on either side and on e red in the middle. I was amazed becuase I knew no US aircraft could remain stationary like that. it moved sowly and later as we were passing it we noticed a second next to it. the two were flying slowing near each other. The Aircraft weren't close enough to really see a shape but I believe it must've been a saucer considering the position of the lights.  we kept driving and then I saw another one a few up the highway.  that was too akward for 3 planes to be that close to each other. I kept staring at the objects and later disregarded them, but still thinking about why I would even mistake an aircraft for a star. I've never done that and seems highly unlikely. I didn't believe it to be a military aircraft, because that would be too blunt for the military to fly 3 aircraft in the same location for everyone to see. but I really am not sure, I just hope someone else saw this besides my quartet and I to verify it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44864.html](http://www.nuforc.org/webreports/reports/044/S44864.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/164/S164020.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164065.html)
-- [354](http://www.nuforc.org/webreports/reports/163/S163935.html)
-- [353](http://www.nuforc.org/webreports/reports/163/S163933.html)
-- [352](http://www.nuforc.org/webreports/reports/164/S164133.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
