@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A fireball type ufo is seen outside my house frequently and the light dies after a few minutes.I started noticing an unblinking orange fireball-like object off in the distance showing no similarities to an airplane.  After a few minutes it would simply disappear.  I know that no pilot would just turn off all external lights this close to night time.  I began checking everynight to try and find it again and i did.  And everytime id look away for a second and it would be gone.  I've only seen this happen twice. After about the third or fourth occurrence, I looked at the southeast part of the sky and something completely different.  It was an unmoving white light, brighter than the moon. It was disk to oval shaped, kind of oblong.  The moon was out on this occasion and it was full so im not sure what i actually saw there, but it wasnt swamp gas or venus.  And once again after a few minutes the light simply went out.  More recently, it was a lot closer than usual and had a kind of hazy spotlight projecting in front of it.  The spotlight was the same color as the ufo itself, bright orange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89549.html](http://www.nuforc.org/webreports/reports/089/S89549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pompano Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small light similar to a star flashed twice and appeared to move in an erratic pattern.I was standing on the beach with my partner eating ice cream that we had just purchased from a shop 1/2 block from the sand.  I first noticed a dot of light in the eastern sky about 45 degress above the ocean.  It looked like a star but began to slowly move further east, I then thought it was an airplane and pointed out to my witness.  We both agreed that it was to high and distant to be a plane, no sooner dio=d we boith focus on the light and it flashed.  The flash was triple the original lights size and lasted just a milli second.  We continued to watch the light and it seemed to dance around and flashed again one more time.  At a much lower altitude about 20 degress in the same eastern sky we observed airplanes on their approach to the Miami and Ft. Lauderdale airports.  Comparing the two, it was evident that the first light we saw just a few minutes prior was not a plane.  We continued to watch the small dot of light and observed anotherlight, similar to a star moving from the north towards the first light, my first assumption was it was an airplane.  I was wrong because the light moved behind an area of clouds and never re-emerged.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38073.html](http://www.nuforc.org/webreports/reports/038/S38073.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
