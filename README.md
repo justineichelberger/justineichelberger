@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Collingwood (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was 13 years old spending my summer vacation from school at my Parents cottage in a remote area south of Collingwood, Ontario Canada.  This is at the highest old mountain range in Ontario called the Blue Mountains.  At that time, I had no other friends to play with and I used to wander off into the woods with my 22 Rifle playing Daniel Boon.  The exact date, I cannot remember anymore, but it was one of those hot still bright summer nights that I was out and I was sitting down just looking at the stars.  I was looking North, North West.  At this time, in a cloud less perfect star viewing night, with millions of stars above me, I noticed a bright blue Object that I believe was a satellite, traveling in a South East direction directly overhead of me.  Satellites were known at this time and I often had seen them before.  This time however, the Satellite was being followed directly behind at a distance of, looking up, one quarter of an inch.  The following object was also blue in colour but about one quarter in size and was dimmer.  I watched these two objects until they passed out site still heading south east.  In my opinion, these objects were in near space, and were not aircraft.  I am now 52 years old, an outdoorsman, and a stargazer.  I have seen many satellites since, but never one being followed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36318.html](http://www.nuforc.org/webreports/reports/036/S36318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Arcadia (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange light moves way too fast to be of this earthmy girlfriend and i were camping on top of a bluff an were star gazing when we seen a light high in the sky.  looked like a bright star. it moved very fast then stopped. moved again, then made a 90 degree turn shot off then came back an went the opposite direction. we watched it for about 30 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101677.html](http://www.nuforc.org/webreports/reports/101/S101677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
