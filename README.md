@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:26 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Boynton Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange light in Palm Beach CountyI was sitting on my patio having a cigarette when I noticed the brightest star I had ever seen.  The star was a bit strange because it didn’t seem to be moving, but every time I would look up it would be within a different proximity of a star which was to it’s left.  My co-worker was spending the night, so I called her out because I couldn’t believe what I was seeing and I needed witness.  I also called my grandmother.  They both looked at it and told me that it was a typical star, just bright.  My co-worker and I drove across the street to rent a movie.  We were only gone for about 5 to 10 min max.  I went back on the porch and the bright light was now much lower to the ground, but it was still in the west.  I immediately called my grandmother because this was the craziest thing that I’ve ever seen.  My grandmother went outside and said that it was unusual how low that star had gone.  She agreed that it couldn’t be a star or a plane because it had been stationary for extended periods of time.  My co- worker agreed that this was strange. A few minutes after I called my grandmother to tell her that the light had moved, she called me to tell me that the light had completely disappeared.  I am wondering if there are any other reports on this same event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76380.html](http://www.nuforc.org/webreports/reports/076/S76380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Olyphant (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a  fire ball looking object came across the sky, changed directiong and then disappeared.At approximately 10pm on July 10, 2010.  A red/ orangey glowing ball of fire looking object was seen flying across the sky heading west.  At first we thought it was a plane that may have been on fire or a planet/ shooting star.  Then after observing the flight pattern we came to the conclusion that a plane cannot change directions that quickly.  The object  then cut back and flew  south east.  After that it flew straight and disappeared into the sky as it seemed to stutter.  There were no cloud in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76462.html](http://www.nuforc.org/webreports/reports/076/S76462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
