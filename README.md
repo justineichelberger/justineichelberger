@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:27 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A glowing balloon-like object with a slight orange glow moving across the sky.As my family and I were sitting outside this evening and talking, I was looking up at the sky at the stars. All of a sudden I saw this balloon-like object in the sky. I yelled to my family to look at it as I was asking, "What is that?" It was going about as fast as a plane, but it looked like a glowing balloon, it was off-white in color with an orange-like glow around part of it. We watched it until it was out of our site. It just moved along the sky until we couldn't see it anymore.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38030.html](http://www.nuforc.org/webreports/reports/038/S38030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Sproul (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On or about 7/10/1955 I observed a circular gray object on a cloudy day in the sky for a few seconds as the object moved between clouds where there was a brake in the clouds.  I could see the blue sky above the object.  The object had a dome with what appeared to be windows around the dome.  I was with a friend but never told him because I figured he would not believe me.  I offer this because your files may have similar incidents around the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158376.html](http://www.nuforc.org/webreports/reports/158/S158376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
