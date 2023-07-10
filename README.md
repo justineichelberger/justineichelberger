@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:55 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Blairstown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Round neon light blue ball passing east to west across the sky.I awoke at approx. 3am as a horse I was preparing to show the next day was very worked up about something out in our yard.  This was fairly unusual behavior for this particular horse so I went out to try and calm her.  I was able to catch her and calm her some and proceeded to sit nearby talking to her to sooth her while watching a round neon light blue ball moving very slowly towards our general direction.  It was impossible to tell the size of the object or the distance from my location as it was a cloudless night in a flat area. I remember not being frightened and having the impression it was quite far away. The  light slowly proceeded in a slight arc from east to west (still appearing to be getting closer but quite distant) for about 30 minutes as I watched.  Finally it disappeared behind a single tree.  I waited for quite some time for it to reappear on the other side, but it did not.  I am now an aircraft specialist stationed at a military base with substantial air activity and would guess that the light was at approximately 3000' agl.  It was not an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16212.html](http://www.nuforc.org/webreports/reports/016/S16212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Willow Grove (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright orange lights that blinked out of existenceI had walked my sister to her friends house and was waiting for her and her friend to come back out. While waiting I started to take in my surroundings. It was a clear summer day, wasn't windy, sky was extremely blue, but there were 3 lights in the sky. They were very bright because I was able to clearly see them in broad daylight. I didn't think anything of it at first until the one to my right started to flash but not move then disappeared. I tried to take my phone out to take pictures but the other 2 followed it suite and blinked out of the sky. I was facing South when this occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165842.html](http://www.nuforc.org/webreports/reports/165/S165842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
