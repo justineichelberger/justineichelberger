@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:04 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sylmar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 pulsing lights with fast moving red light going round it.Triangle in shape with very bright pulsing lights at each corner, with smaller red orange light moving front to back very fast in a sharp triangle patten while the UFO stood still then vanishd.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76468.html](http://www.nuforc.org/webreports/reports/076/S76468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wednesday July 6 around 7:30pm there was a large sphere object at a really high altitude and floating without any movement what so ever, it was first witness by my nephew riding in my passenger seat as we were driving out of my drive way and he pointed out and said look! i stopped the car got out and started to see if i can zoom into with my phone camera (iphone 6s plus) right off the bat i knew it was not a weather ballon or a blimp.  it just had no movement at all.  it was close to the mountain range but not exactly over them.  i would to try to guess the size of it but it being my first object i see its just hard to try to compare its size to other things.  Its was a sorta like dark grey metal object. i dont know how it disappeared, it just did.  nor do i know how long it was up there for.  since through out the day there was suspicious jets and 1 black military helicopter that flew around the city and headed back to VAFB.  i do live approximately like 40 mins away from the base.  I was unable to find anyone else to se if they witness what i had saw floating up there, but there seems to be no one else that saw this or recorded it but me! i have my video and my photos((NUFORC Note:  We have attempted to contact the witness, in order to correct the time and date, but have not heard back from him yet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147501.html](http://www.nuforc.org/webreports/reports/147/S147501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
