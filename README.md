@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:53 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Olyphant (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a  fire ball looking object came across the sky, changed directiong and then disappeared.At approximately 10pm on July 10, 2010.  A red/ orangey glowing ball of fire looking object was seen flying across the sky heading west.  At first we thought it was a plane that may have been on fire or a planet/ shooting star.  Then after observing the flight pattern we came to the conclusion that a plane cannot change directions that quickly.  The object  then cut back and flew  south east.  After that it flew straight and disappeared into the sky as it seemed to stutter.  There were no cloud in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76462.html](http://www.nuforc.org/webreports/reports/076/S76462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Airway Heights (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Orange sphere of light hovering several hundred feet above Fairchild Airforce Base.If the year is correct, the report should still be contained in the Spokane County Sheriff's Office data base. My wife and I were at home in Spokane, listening to our Police scanner when we suddenly heard frantic reports of a large orange colored light hovering over fairchild Airforce Base. Many Deputy Sheriffs on patrol observed the "sphere of light" and were discussing it on the police radio. From where we live, we could hear jets being put in the air with the unmistakable sound of after burners propelling them. Not long after the radio traffic concerning this light began, a deputy reported that the craft was moving off in a south easterly direction and soon afterwards, the shift supervisor for dispatch ordered talk of this incident silenced and they must have switched over to a tac frequency as we heard nothing more about it on the scanner.We fully expected this incident to be on the local news or in the local paper, but found no report had been made public,at least to our knowledge! I am not certain of the year, it may have been earlier or later by a year or two. I would love to find out what went on with this thing! By the way, when I was a kid living in Harrington, my older brother and some friends attempted to explore the old missle base, but too much water in the tunnel leading down stopped us at the corner where the strategic air command symbol was displayed on the wall!((NUFORC Note:  Witness indicates that date is approximate.  We have contacted the witness, hoping to receive a more accurate date for the incident. The witness describes my missile site well, including both the emblem, and the water.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74286.html](http://www.nuforc.org/webreports/reports/074/S74286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
