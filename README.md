@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:04 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:52 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Wednesday July 6 around 7:30pm there was a large sphere object at a really high altitude and floating without any movement what so ever, it was first witness by my nephew riding in my passenger seat as we were driving out of my drive way and he pointed out and said look! i stopped the car got out and started to see if i can zoom into with my phone camera (iphone 6s plus) right off the bat i knew it was not a weather ballon or a blimp.  it just had no movement at all.  it was close to the mountain range but not exactly over them.  i would to try to guess the size of it but it being my first object i see its just hard to try to compare its size to other things.  Its was a sorta like dark grey metal object. i dont know how it disappeared, it just did.  nor do i know how long it was up there for.  since through out the day there was suspicious jets and 1 black military helicopter that flew around the city and headed back to VAFB.  i do live approximately like 40 mins away from the base.  I was unable to find anyone else to se if they witness what i had saw floating up there, but there seems to be no one else that saw this or recorded it but me! i have my video and my photos((NUFORC Note:  We have attempted to contact the witness, in order to correct the time and date, but have not heard back from him yet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147501.html](http://www.nuforc.org/webreports/reports/147/S147501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Metalic ball over orange county summer 2006On the date of the shuttle landing in Summer of this year 2006 while my girlfriend and I were swimming around 1pm (pst), I noticed a ball in the sky almost directly overhead and in the western sky. I watched the object first assuming it was a balloon. After sometime I noted that it was stationary in altitude and traveling in an arc from south-west heading northerly and arcing toward the west. Its speed was very slow where it took aproxamatly 1 hour to travel about the length of my hand (from fingertip to wrist). It apeared about the size of a pea at its distance and with passing aircraft leaving and aproaching the Fullerton airport, I was able to guess it to be about the same altitude. It apeared silver or metalic in color and had a dull hue to it, almost gun metal grey. I pointed it out to my girlfriend who watched it for some time. It eventually moved out of sight behind our apartments.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52979.html](http://www.nuforc.org/webreports/reports/052/S52979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
