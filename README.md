@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:26 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pompano Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Small light similar to a star flashed twice and appeared to move in an erratic pattern.I was standing on the beach with my partner eating ice cream that we had just purchased from a shop 1/2 block from the sand.  I first noticed a dot of light in the eastern sky about 45 degress above the ocean.  It looked like a star but began to slowly move further east, I then thought it was an airplane and pointed out to my witness.  We both agreed that it was to high and distant to be a plane, no sooner dio=d we boith focus on the light and it flashed.  The flash was triple the original lights size and lasted just a milli second.  We continued to watch the light and it seemed to dance around and flashed again one more time.  At a much lower altitude about 20 degress in the same eastern sky we observed airplanes on their approach to the Miami and Ft. Lauderdale airports.  Comparing the two, it was evident that the first light we saw just a few minutes prior was not a plane.  We continued to watch the small dot of light and observed anotherlight, similar to a star moving from the north towards the first light, my first assumption was it was an airplane.  I was wrong because the light moved behind an area of clouds and never re-emerged.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38073.html](http://www.nuforc.org/webreports/reports/038/S38073.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rothesay (Canada) (NB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright orange firey balls flying overhead as family star gazes on deck; one disappears and becomes see through.The first object was of a giant fireball-like object moving across the sky at a speed similar to the speed of the space station.  It was not a meteorite because it was way too large, didn't have a tail and didn't burn out.  It was not a plane because it didn't not have blinking lights and there was a plane flying overhead shortly afterwards.  It made a sound like a low thrum.  It made the dogs nervous and they started growling.The second one came, heading in a different direction, less than a minute after the first one disappeared over the horizon.  It flew overhead and then disappeared, but we could still see the shape blocking out the light of the stars overhead as it moved across the sky.  It was not quite shimmery, but kind of like it looked reflective or see through.  It made the same sound until it went "see through".  Then it was silent.Very strange!  We tried to film it.  It should have shown on the video as it was so large, but we have no video footage, even though our voices were heard.  The sound did get picked up, however.  We would like to know if any satellite or space debris has been reported breaking up in the atmosphere.  We've never seen anything like it and we love to star gaze on clear nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111418.html](http://www.nuforc.org/webreports/reports/111/S111418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
