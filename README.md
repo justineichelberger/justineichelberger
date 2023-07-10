@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:26 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:27 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rothesay (Canada) (NB) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright orange firey balls flying overhead as family star gazes on deck; one disappears and becomes see through.The first object was of a giant fireball-like object moving across the sky at a speed similar to the speed of the space station.  It was not a meteorite because it was way too large, didn't have a tail and didn't burn out.  It was not a plane because it didn't not have blinking lights and there was a plane flying overhead shortly afterwards.  It made a sound like a low thrum.  It made the dogs nervous and they started growling.The second one came, heading in a different direction, less than a minute after the first one disappeared over the horizon.  It flew overhead and then disappeared, but we could still see the shape blocking out the light of the stars overhead as it moved across the sky.  It was not quite shimmery, but kind of like it looked reflective or see through.  It made the same sound until it went "see through".  Then it was silent.Very strange!  We tried to film it.  It should have shown on the video as it was so large, but we have no video footage, even though our voices were heard.  The sound did get picked up, however.  We would like to know if any satellite or space debris has been reported breaking up in the atmosphere.  We've never seen anything like it and we love to star gaze on clear nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111418.html](http://www.nuforc.org/webreports/reports/111/S111418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A glowing balloon-like object with a slight orange glow moving across the sky.As my family and I were sitting outside this evening and talking, I was looking up at the sky at the stars. All of a sudden I saw this balloon-like object in the sky. I yelled to my family to look at it as I was asking, "What is that?" It was going about as fast as a plane, but it looked like a glowing balloon, it was off-white in color with an orange-like glow around part of it. We watched it until it was out of our site. It just moved along the sky until we couldn't see it anymore.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38030.html](http://www.nuforc.org/webreports/reports/038/S38030.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
