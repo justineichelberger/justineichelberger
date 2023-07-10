@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:52 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:27 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Metalic ball over orange county summer 2006On the date of the shuttle landing in Summer of this year 2006 while my girlfriend and I were swimming around 1pm (pst), I noticed a ball in the sky almost directly overhead and in the western sky. I watched the object first assuming it was a balloon. After sometime I noted that it was stationary in altitude and traveling in an arc from south-west heading northerly and arcing toward the west. Its speed was very slow where it took aproxamatly 1 hour to travel about the length of my hand (from fingertip to wrist). It apeared about the size of a pea at its distance and with passing aircraft leaving and aproaching the Fullerton airport, I was able to guess it to be about the same altitude. It apeared silver or metalic in color and had a dull hue to it, almost gun metal grey. I pointed it out to my girlfriend who watched it for some time. It eventually moved out of sight behind our apartments.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52979.html](http://www.nuforc.org/webreports/reports/052/S52979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Kaministiquia (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 bright lights over kaministiquiaMy 14 year old son texted Me to tell me to look outside to the south.  He said there was 3 very bright white lights.  He didn’t state what formation they were in, but he said they were close together and not moving.  He also stated that he was really scared.  When I looked south I couldn’t see anything but when I looked in the direction he is at, behind the tree and barely visible was a bright light.  He tried to take a picture but while he was getting his phone aimed to take the pic, they disappeared and was no longer able to see them.  The light coming from behind the trees that I had seen also disappeared.   is clear tonight and stars are extremely visible and he was able to tell that they weren’t just stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157493.html](http://www.nuforc.org/webreports/reports/157/S157493.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
