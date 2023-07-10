@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ocean Beach (Fire Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 orange lights low in the sky observed from Fire Island, NY.Viewing location was from an ocean view deck on Superior Walk, looking west to Ocean Beach.  Light northwind, clear skies.  Moon was out and approximately half full, waxing.3 orange colored lights appeared low in the sky in a semi triangle pattern.  The objects appeared to be moving at a comparable rate to small aircraft, roughly 60-100 knots.  A fourth object of the same color and size appeared behind the first 3.  Initially these objects were thought to be small aircraft, but their proximity to each other seemed too close, and like nothing any of the witnesses had ever seen before.  The orange light was constant and no flashing beacon lights or strobes, as would be seen on an aircraft were observed.Approximately 20 seconds after the first objects appeared, the initial 3 turned southwest and rapidly moved out of sight.  The fourth object made a turn in the same direction, southwest, and was observed for another 20 seconds, until the object was completely out of sight.Witnesses are avid outdoors people and spend a considerable amount of time observing night skies.  None of the witnesses had observed such lights in the past.  One witness is a lifelong aviation buff, and former air traffic controller.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82368.html](http://www.nuforc.org/webreports/reports/082/S82368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Blairstown (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Round neon light blue ball passing east to west across the sky.I awoke at approx. 3am as a horse I was preparing to show the next day was very worked up about something out in our yard.  This was fairly unusual behavior for this particular horse so I went out to try and calm her.  I was able to catch her and calm her some and proceeded to sit nearby talking to her to sooth her while watching a round neon light blue ball moving very slowly towards our general direction.  It was impossible to tell the size of the object or the distance from my location as it was a cloudless night in a flat area. I remember not being frightened and having the impression it was quite far away. The  light slowly proceeded in a slight arc from east to west (still appearing to be getting closer but quite distant) for about 30 minutes as I watched.  Finally it disappeared behind a single tree.  I waited for quite some time for it to reappear on the other side, but it did not.  I am now an aircraft specialist stationed at a military base with substantial air activity and would guess that the light was at approximately 3000' agl.  It was not an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16212.html](http://www.nuforc.org/webreports/reports/016/S16212.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
