@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Manchester (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white light motionlessIncredibly bright white light seen just above treeline.  Did not move at all only got dimmer as time went on until it eventually disappeared. so bright it hurt to look directly at it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111389.html](http://www.nuforc.org/webreports/reports/111/S111389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ocean Beach (Fire Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 orange lights low in the sky observed from Fire Island, NY.Viewing location was from an ocean view deck on Superior Walk, looking west to Ocean Beach.  Light northwind, clear skies.  Moon was out and approximately half full, waxing.3 orange colored lights appeared low in the sky in a semi triangle pattern.  The objects appeared to be moving at a comparable rate to small aircraft, roughly 60-100 knots.  A fourth object of the same color and size appeared behind the first 3.  Initially these objects were thought to be small aircraft, but their proximity to each other seemed too close, and like nothing any of the witnesses had ever seen before.  The orange light was constant and no flashing beacon lights or strobes, as would be seen on an aircraft were observed.Approximately 20 seconds after the first objects appeared, the initial 3 turned southwest and rapidly moved out of sight.  The fourth object made a turn in the same direction, southwest, and was observed for another 20 seconds, until the object was completely out of sight.Witnesses are avid outdoors people and spend a considerable amount of time observing night skies.  None of the witnesses had observed such lights in the past.  One witness is a lifelong aviation buff, and former air traffic controller.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82368.html](http://www.nuforc.org/webreports/reports/082/S82368.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
