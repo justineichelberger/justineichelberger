@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Arcadia (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange light moves way too fast to be of this earthmy girlfriend and i were camping on top of a bluff an were star gazing when we seen a light high in the sky.  looked like a bright star. it moved very fast then stopped. moved again, then made a 90 degree turn shot off then came back an went the opposite direction. we watched it for about 30 min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101677.html](http://www.nuforc.org/webreports/reports/101/S101677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A fireball type ufo is seen outside my house frequently and the light dies after a few minutes.I started noticing an unblinking orange fireball-like object off in the distance showing no similarities to an airplane.  After a few minutes it would simply disappear.  I know that no pilot would just turn off all external lights this close to night time.  I began checking everynight to try and find it again and i did.  And everytime id look away for a second and it would be gone.  I've only seen this happen twice. After about the third or fourth occurrence, I looked at the southeast part of the sky and something completely different.  It was an unmoving white light, brighter than the moon. It was disk to oval shaped, kind of oblong.  The moon was out on this occasion and it was full so im not sure what i actually saw there, but it wasnt swamp gas or venus.  And once again after a few minutes the light simply went out.  More recently, it was a lot closer than usual and had a kind of hazy spotlight projecting in front of it.  The spotlight was the same color as the ufo itself, bright orange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/089/S89549.html](http://www.nuforc.org/webreports/reports/089/S89549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
