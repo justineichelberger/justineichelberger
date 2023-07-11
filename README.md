@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:45 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:42 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carlton (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 Bright orange lights that disappeared out of nowhere in Carlton/Cloquet MNI was driving to work, when I saw what appeared to be 4 bright orange lights appear out of no where.  Being curious, I drove to a nearby side road and recorded on video 3 bright orange lights.  Though my camera sucked at the video and doesn't show them nearly as bright as they were in person, you clearly see 3 bright orange lights, two of them disappear out of no where, and then a 4th and 5th light come from a set of trees.  As the video rolls on, you can really only see 4 as the 5th one was kind of far from the camera and can't really see it.  When I stopped recording because only one light was left, I took off in my car and drove to a nearby soccer field.  I got out and looked every where for even a glimpse of an aircraft and saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111432.html](http://www.nuforc.org/webreports/reports/111/S111432.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red/white blinking object observed over Sloan Canyon area/West HendersonMy wife was driving south on I-15 near the St Rose Parkway interchange.  She observed a circular craft what appeared to be a single triangular wing flying overhead.  The object flashed a bright red light from the 'wing', and when this was off two dimmer white lights blinked from the 'disk' section.She called me and I went to the backyard (we live to the east of the M Resort) and I observed an object in the same area, with the distinctive bright red - white - white blinking pattern flying in the Sloan Canyon area, heading away from me to the southwest.After several minutes, the lights suddenly stopped blinking while the object was in mid-air, and we could not observe the object any further.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128462.html](http://www.nuforc.org/webreports/reports/128/S128462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
