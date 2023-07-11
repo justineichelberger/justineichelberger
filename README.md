@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:28 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in San Andreas (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Lost time very strange.Sense of everything was O.K.My girl friend at the time and I was driving in the foothills of San Andreas fault area above San Mateo Calif. We were driving everything was O.K. the next thing I know I am staring at the road driving and look at my Girl Friend and we just look at each other. I said where are we and where are we going,,, what happened. My gilr friend looks at me and says I don't know. I looked at the clock and approx 2hrs had gone buy. We said lets go home. It was very strange we did not talk much about it. I will never forget that feeling I had. I just heard a story and reminded me of this event.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37349.html](http://www.nuforc.org/webreports/reports/037/S37349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately star or Ufo - star or Ufo minutes.</sub><blockquote><sub>on the sky between Moon and Orion is a violet blue Objekt that slow moving.I not a airplane that ligth i brigth and blue and violet and the shape is trinagel like a diamont is chaning the color to red and blue not flashing ((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53301.html](http://www.nuforc.org/webreports/reports/053/S53301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
