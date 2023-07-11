@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:48 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Moundsville (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>22:15pm Moundsville,WV Circle of light 5minutes duration Brite light over Moundsville 7 / 11 / 2009This evening 7 / 11 / 2009 my wife and I  were sitting out the back side of house, When she brought to my attention of a light coming from the direction of Pittsburgh, Pennsylvania so, we watched and the ball of light or circle as I previously  mention in the report. It was moving fast at 4,000 ft to 5,000 ft.Partly cloudy conditions something unusual about this craft it was quite strong bright light he moved in a second 15 degrees and then went straight up in the air till his light went out. No form as we could see just a light.By the way he shut off the light.This report is to the best of my knowledge.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71033.html](http://www.nuforc.org/webreports/reports/071/S71033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Forestill (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large object with smaller objects in vicinity and close to ground.My cousin and I were swimming in his pool when we saw a big star-like thing in the sky. We didn't think much about it until we saw lots of little flashing things through the trees and a small plane-like thing  flying beneath the big star. It had two orbs on it. Beneath the  big  star  were three tiny ones.UFO-BEHAVIOR: the big one was static. The smaller ones hovered and moved straight up and down.UFO-SIZE: one very big one with little tiny ones moving around, but it was too far away to see clearly.UFO-SHINE: the big one shone like a light bulb-the smaller ones flashed. (This report was sent to MIG by UFO Mami. MIG was not able to reach witness.B. Becker, ufomig@yahoo.com. Missouri Investigators Group; http;//ufomig.bravehost.com)((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45887.html](http://www.nuforc.org/webreports/reports/045/S45887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
