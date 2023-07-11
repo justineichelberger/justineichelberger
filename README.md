@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:25 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:32 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Liverpool (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>blinking red green and led white light hovering moving slow and extremely fast when leaving and large.My friends and I were coming home from a camping trip.  As we were driving, I happened to notice an interesting air craft.  It was blinking red and greenish lights, it had appeared to disappear quite quickly.  For fear of my friends thinking I was crazy I kept it to myself.  As we were pulling into the parking lot of our complexes, it had returned to my sight this time it was close and slow moving.  My friends in the car happened to see it at that point it was quite large bit at this point was shining an led square shaped like light and hovered in one spot for a good min or so. Later that night, I went to Wegmans with a friend.  As we were driving, I told her about what had just happened, and coincidentaly there it was.  We followed it not about a half an hour we noticed that it was circling around Liverpool.  It would make these sharp right turns that are physically impossible for a human made craft such as a plane. This experience is extremely life changing and to me it's a blessing to have seen something of this intelegance!  I hope to see this craft again so I can possibly get a picture to share with you! Stay safe out there!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111442.html](http://www.nuforc.org/webreports/reports/111/S111442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sebastopol (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 98.0 - 98.0 minutes.</sub><blockquote><sub>8 lights in a straight line with 2 flashing red lights hovering over my neighbors house and it slowly moved away and teleported away.It was 12:11 and I saw a reflection of light on my blinds.  I very slowly lifted my blinds and I saw 8 light in a straight line and 2 red lights under it and they were flashing.  Occasionally there was a very small dim light shooting under it towards the ground.  It took it a hour to start moving and when it did it moved slowly but then it appeared a few miles away. I was watching youtube so I jumped on to that and  20 minutes later it was gone.  I have yet to see it again.  I fear that it was over my house because it was only 2 or 4 houses away from mine.((NUFORC Note:  We suspect that the report may be a hoax.   Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120332.html](http://www.nuforc.org/webreports/reports/120/S120332.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
