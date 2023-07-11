@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:27 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO flying away from Boeing Field directionMyself and two people were in my vehicle I turned to get on the ramp to drive onto Interstate I-5 South bound but just as I was driving there where circular objects over the freeway and more circular objects coming from the right direction to the left over the freeway. The right of where we were is over Boeing Field. I didn't drive onto the freeway because these objects were directly over the freeway. The persons in the vehicle with me were telling me to call 911 but what do I say? Officer theres ufo's over the freeway. Just then I sat on the side of the freeway watching these objects for a total of about 13 to 14 minutes. Then once all 13 objects hovered together it looked as though they were making signes in the sky.I called a friend to tell him what I and the other two people were watching. One of the people in my car said another vehicle pulled over behind us and was watching.Once I saw all 13 objects shoot straight into the sky I waited a few minutes to drive because I didn't want to drive under those objects. Once a few minutes went by and I felt ok to drive I got on the freeway Interstate I-5 South as the direction my car was facing, I told the people in the vehicle with me to please keep looking up. Within less then a minute they yelled at the TOP OF THERE LUNGS!!! These 2 object one directly over my car and the other to the left of my car. I yelled at the people in my car to shut up!!!  But they wouldn't stop yelling SO I YELLED SHUT UP AGAIN!!! As I looked up this object was about 20 feet from the top of my car... I was looking at a UFO through my moonroof. Once I got to the next exit there was a SHERIFF driving onto the freeway Interstate I-5 North so I quess there must have been alot of calles to the police station because I heard alot of sirons going off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78396.html](http://www.nuforc.org/webreports/reports/078/S78396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in San Andreas (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Lost time very strange.Sense of everything was O.K.My girl friend at the time and I was driving in the foothills of San Andreas fault area above San Mateo Calif. We were driving everything was O.K. the next thing I know I am staring at the road driving and look at my Girl Friend and we just look at each other. I said where are we and where are we going,,, what happened. My gilr friend looks at me and says I don't know. I looked at the clock and approx 2hrs had gone buy. We said lets go home. It was very strange we did not talk much about it. I will never forget that feeling I had. I just heard a story and reminded me of this event.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37349.html](http://www.nuforc.org/webreports/reports/037/S37349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
