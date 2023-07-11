@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:24 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Midland (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two bright circles staying consistantly the same distance from each other were spotted above my location. They rose into the sky moving left to right, back and forth. They first looked like two ballons, but through the telescope, they were illuminated. They kept going up until they could no longer be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64469.html](http://www.nuforc.org/webreports/reports/064/S64469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oregonia (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My wife, myself and my granddaughter witnessed a large orange orb hovering low in the sky.  It changed to 3 orbs disappeared.  Then back as one orb, then changed to 6 orbs and disappeared again.  My wife and I have seen this last winter, and I have seen these orange orbs several other times over the past 4 years.  Being an avid aircraft enthusiast, ((I know that)) these were no aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120339.html](http://www.nuforc.org/webreports/reports/120/S120339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
