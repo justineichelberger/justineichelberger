@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:45 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Valley View (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red pulsating light moving south....Waiting in the valley view Cinema parking lot to pick up my son and his friend, I was smoking a cigarette and staring at the sky.  Clear night and no clouds in site. I noticed a red light heading south from north east sky.  At first I thought a helicopter but not a plane.  The light was pulsating though. Not blinking.  Strange, I thought. I continued watching it head south (towards me) and the pulsating red light was bigger than before as it was getting closer.  After about a minute, it stopped and continued to pulsate and then changed direction slightly and started heading south west.  Now it was on my left side as I was watching it.  It's speed seemed consistent like it was in cruise control.  Towards the end of my siting, a sort of red pointy tail of light appeared on the main pulsating red light... it suddenly came again to a dead stop, pulsating and just blinked out.  Vanished.  All I could see were stars and dark sky.  It was strange and fascinating, indeed!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90818.html](http://www.nuforc.org/webreports/reports/090/S90818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carlton (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 Bright orange lights that disappeared out of nowhere in Carlton/Cloquet MNI was driving to work, when I saw what appeared to be 4 bright orange lights appear out of no where.  Being curious, I drove to a nearby side road and recorded on video 3 bright orange lights.  Though my camera sucked at the video and doesn't show them nearly as bright as they were in person, you clearly see 3 bright orange lights, two of them disappear out of no where, and then a 4th and 5th light come from a set of trees.  As the video rolls on, you can really only see 4 as the 5th one was kind of far from the camera and can't really see it.  When I stopped recording because only one light was left, I took off in my car and drove to a nearby soccer field.  I got out and looked every where for even a glimpse of an aircraft and saw nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111432.html](http://www.nuforc.org/webreports/reports/111/S111432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
