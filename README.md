@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:31 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:23 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Clara (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A light was situated just east of Santa Clara, NM.  I first noticed it from Vaughn, NM, I noticed a light high in the sky in the direction of Santa Clara, the light seemed stationary but would turn around in circles like a spotlight searching the area.  The light continued from that location for as long as it took to drive to Santa Clara.  It was just breaking daylight and I could tell as I neared Santa Clara that the light emitting UFO was just above and to the east of Santa Clara.  When the sky became visible blue color I could see the object was still there shining its light.  It was many thousands of feet in the air but appeared to be circular shapes, it was still in the sky when I left the area.  Too small to capture on my camera.((NUFORC Note:  We suspect a sighting of Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111450.html](http://www.nuforc.org/webreports/reports/111/S111450.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manchester (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was walking my dog one late night and i got on top of this hill and i looked up and seen a very bright amber object and it was very close then i turned around and there was another one on the opposite side.  then they started to circle around me and they always kept the same distance away then about ten minuets in they went forward and met each other then all of the sudden took off so fast and i never seen them agin i tried to call but the guy that answered called me a liar and wouldnt listen to me((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82408.html](http://www.nuforc.org/webreports/reports/082/S82408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
