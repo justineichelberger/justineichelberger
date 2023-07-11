@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Spring Hill (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Whitish-silvery, oval shaped object appeared in the sky NW of Spring Hill, TN at 19:12pmI was lying in the bed of my truck observing the skies overhead with a pair of binoculars,as I have done for several days. I have become very interested in seeing if I could possibly see any of these "UFO's" for myself that so many people report seeing. This evening was my preverbial paydirt for my diligent efforts in looking to to the sky above. I was looking in a North Westerly direction close to were the Sun was getting ready to set and saw the object. The object must have been fairly good size one because I could see it very clearly. But, I also know that this object was some distance away from me. The object was Elliptical or Oval shaped with a whitish silvery appearance. I really could see a very defined white-silver oval shaped object. The object appeared to be stationary for a few moments and then all of a sudden it shot straight up and to the left then it stopped for a brief second or two and then shot down to the right at a very high rate of speed and again it stopped.The object then flew off very fast toward the horizon. I lost track of it and assumed that it accelerated so fast that it just vanished. I still can't believe that I really saw this object but I truly did! It shook me up a little, kind of felt tingly feeling all over after seeing it. I am a Manager at a Logistics Center here in Spring Hill and I am of sound mind. I definately know what I saw and it wasn't an airplane, hot air balloon, swamp gas, chem-trails or anything else. I however, do not know if this was possibly a military craft because I did see 2 blackhawk helicopters and a Stealth Fighter flying around not to long after seeing this object.It may be worthy to note that they were flying in the direction of where I saw the object. My only regret after seeing this object was that I didn't have my camera with me. I will keep looking overhead and see if I can spot this thing again, but this time I think I'll have my camera handy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29689.html](http://www.nuforc.org/webreports/reports/029/S29689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Taumarunui (New Zealand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Very scaryme and my two friends were looking at the stars and my friend looked at one star and asked if it were moving and tuned out it was. and then in a joking way i said " yes come and obduct me" and then not that long after we saw a big light thing swoop down wich looked like it had gone behind inbetween trees.  and then after when we were going to look in the field i saw another big light and it looked closer than it was the last time and i nearly cryed and my friend did cry. oh and when this happened the lights seemed to dimen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123853.html](http://www.nuforc.org/webreports/reports/123/S123853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
