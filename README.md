@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:25 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sag Harbor (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange light in the skyI was standing on my deck shortly after dusk and looking to the east and saw a bright round light travelling towards the southeast towards the ocean on eastern Long Island.  I have seen thousands of planes, satellites and shooting stars over the decades but this was different.It was a bright white light, with no running lights such as red/green etc.  It was brighter than a plane lights, but what was unusual was it was a light that was whiter than white bordering a chrome color.  It was only going a hundred MPH or so, and only a few thousand feet up.My opinion was the object was a glowing light, not an intense light attached to the object.  The object was not coming towards me so I can rule out landing lights, which are never this white anyway.  Watched for two minutes until object dissappeared behind some trees.  No sound, fading or unusual movements observed.Editor Note: The object was observed on Sunday, July 11, 2010, Not July 10th.  I am resending this report to you with corrected date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76473.html](http://www.nuforc.org/webreports/reports/076/S76473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Paris (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My 15 yr old daughter and my 11 year old niece were walking in the Evergreen cemetery around 9:15 pm with a friend of theirs.  They seen a red light approaching from above some pine trees.  My daughter turned around and it turned bright red and hovered over a dirt pile right i front of her.  She started screaming at my neice to turn around and when she did the object spun in circles and got brighter.  They told their friend to look and when he raised his phone to take a picture it was gone.  They all started running towards the drive in the cemetery to go home when they seen my neices dad coming to pick them up.  They were crying and really scared and he asked what was wrong.  When the kids told him, he said he seen the red light in the sky too and wandered what the hell it was...my daughter told me that when she seen it that her arm went numb and she started to run...my niece said her leg went numb and she started to run also.  My neices mom lives in a rural area! about 10 miles from st paris.  And when my neice told her about what she seen...her mom said she seen a red object circling around her home too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157469.html](http://www.nuforc.org/webreports/reports/157/S157469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
