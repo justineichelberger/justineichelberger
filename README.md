@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:32 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:30 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sebastopol (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 98.0 - 98.0 minutes.</sub><blockquote><sub>8 lights in a straight line with 2 flashing red lights hovering over my neighbors house and it slowly moved away and teleported away.It was 12:11 and I saw a reflection of light on my blinds.  I very slowly lifted my blinds and I saw 8 light in a straight line and 2 red lights under it and they were flashing.  Occasionally there was a very small dim light shooting under it towards the ground.  It took it a hour to start moving and when it did it moved slowly but then it appeared a few miles away. I was watching youtube so I jumped on to that and  20 minutes later it was gone.  I have yet to see it again.  I fear that it was over my house because it was only 2 or 4 houses away from mine.((NUFORC Note:  We suspect that the report may be a hoax.   Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120332.html](http://www.nuforc.org/webreports/reports/120/S120332.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hancock (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Moving light responded to a flashlightWe (my wife, my son, and myself) were talking to some friends (an adult married couple) that were visiting, and we were talking about lights in the sky because mutual friends told them we introduced these mutual friends to stargazing and satellite watching.  We all started scanning the sky to see if we could see any and pointed out a few satellites to our friends.  We saw a bright one come from the west to the east and disappear just east of directly overhead. As our friends were getting into their car to leave we saw another light come from the south west headed north. We asked them to hurry up and look because this one was lower in the sky than the others we showed them were.  When the light was west of us for the heck of it I flashed my light at it twice.  I got an immediate response of a flash from this light. It went from a normal star sized light to almost a headlight sized light but very bright.  My wife immediately asked me to try it again and immediately it flashed again.  The time from the first flash to the second was no more than 20 seconds.  It stayed still in that same place for another 5 minutes and then it just vanished.  It was a little lower and west of The Big Dipper.  I never thought I'd get a response from the light.  I just did it for the heck of it.  It flipped everyone out when it responded, not once but twice.  I'd sure like to know what the heck it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76401.html](http://www.nuforc.org/webreports/reports/076/S76401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
