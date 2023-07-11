@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:28 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately star or Ufo - star or Ufo minutes.</sub><blockquote><sub>on the sky between Moon and Orion is a violet blue Objekt that slow moving.I not a airplane that ligth i brigth and blue and violet and the shape is trinagel like a diamont is chaning the color to red and blue not flashing ((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53301.html](http://www.nuforc.org/webreports/reports/053/S53301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three vertically attached bright white stars wobbling left to rightSitting on the second story deck about 10 PM.  Dark cloudy night but the clouds started drifting apart.  A few stars appeared then a VERY bright one which looked like three stars stacked right on top of each other.  Thought it might be a plane but it did not move, then it began to wobble left and right while not leaving it's position.  Then clouds came in and obscured it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157475.html](http://www.nuforc.org/webreports/reports/157/S157475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
