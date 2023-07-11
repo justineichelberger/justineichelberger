@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 10 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Olyphant (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>a  fire ball looking object came across the sky, changed directiong and then disappeared.At approximately 10pm on July 10, 2010.  A red/ orangey glowing ball of fire looking object was seen flying across the sky heading west.  At first we thought it was a plane that may have been on fire or a planet/ shooting star.  Then after observing the flight pattern we came to the conclusion that a plane cannot change directions that quickly.  The object  then cut back and flew  south east.  After that it flew straight and disappeared into the sky as it seemed to stutter.  There were no cloud in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76462.html](http://www.nuforc.org/webreports/reports/076/S76462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Valley View (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red pulsating light moving south....Waiting in the valley view Cinema parking lot to pick up my son and his friend, I was smoking a cigarette and staring at the sky.  Clear night and no clouds in site. I noticed a red light heading south from north east sky.  At first I thought a helicopter but not a plane.  The light was pulsating though. Not blinking.  Strange, I thought. I continued watching it head south (towards me) and the pulsating red light was bigger than before as it was getting closer.  After about a minute, it stopped and continued to pulsate and then changed direction slightly and started heading south west.  Now it was on my left side as I was watching it.  It's speed seemed consistent like it was in cruise control.  Towards the end of my siting, a sort of red pointy tail of light appeared on the main pulsating red light... it suddenly came again to a dead stop, pulsating and just blinked out.  Vanished.  All I could see were stars and dark sky.  It was strange and fascinating, indeed!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90818.html](http://www.nuforc.org/webreports/reports/090/S90818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165073.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164041.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164406.html)
-- [490](http://www.nuforc.org/webreports/reports/164/S164050.html)
-- [489](http://www.nuforc.org/webreports/reports/164/S164027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
