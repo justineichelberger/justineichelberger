@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:48 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Taumarunui (New Zealand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Very scaryme and my two friends were looking at the stars and my friend looked at one star and asked if it were moving and tuned out it was. and then in a joking way i said " yes come and obduct me" and then not that long after we saw a big light thing swoop down wich looked like it had gone behind inbetween trees.  and then after when we were going to look in the field i saw another big light and it looked closer than it was the last time and i nearly cryed and my friend did cry. oh and when this happened the lights seemed to dimen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123853.html](http://www.nuforc.org/webreports/reports/123/S123853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Moundsville (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>22:15pm Moundsville,WV Circle of light 5minutes duration Brite light over Moundsville 7 / 11 / 2009This evening 7 / 11 / 2009 my wife and I  were sitting out the back side of house, When she brought to my attention of a light coming from the direction of Pittsburgh, Pennsylvania so, we watched and the ball of light or circle as I previously  mention in the report. It was moving fast at 4,000 ft to 5,000 ft.Partly cloudy conditions something unusual about this craft it was quite strong bright light he moved in a second 15 degrees and then went straight up in the air till his light went out. No form as we could see just a light.By the way he shut off the light.This report is to the best of my knowledge.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71033.html](http://www.nuforc.org/webreports/reports/071/S71033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
