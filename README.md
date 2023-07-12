@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saranac (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three lights slowly and silently passed over my houseout on my upper deck outside of my house, we saw 3 lights aligned in the shape of a perfect triangle. it flew low enough that we could see there was a circular base to the craft. it moved very slowly for about a mile, then picked up speed drastically, and soon was gone in the stars. the 5 minutes it passed over my house into the woods,  we never once heard a sound. we've seen it three times now over the course of a month.  it doesnt seem threatning, but i think they're watching someone, but who?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82406.html](http://www.nuforc.org/webreports/reports/082/S82406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lewes (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Triangle shape craft with lights at points and center made low turn over tree line and disappeared into trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164043.html](http://www.nuforc.org/webreports/reports/164/S164043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
