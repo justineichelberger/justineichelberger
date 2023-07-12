@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:24 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:30 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo sighting over lake conroe texas, july 12,2014UFO sighting Lake Conroe, Texas, on the night of July 12, 2014, at approx. 22:00 hours , my wife and I where fishing about 2 or 3 hundred yards in front of the scott's ridge boat ramp on lake conroe in montgomery county texas, when we saw 2 bright lights approaching us at a pretty good speed and they flew directly over us at a estimated height of 20 or 30 feet..they where about 6 to 8 inches apart, with one about 6 to 8 inches ahead of the other one... i estimated they was flying about 50 or 60 miles a hour.. my wife saw them as the size of soft balls... i saw them as being the size of tennis ball... they both had tails of fire and we watched them approach us, and leave us and they flew straight and level... both balls where bright and the moon was a full moon and a few clouds this thing made no noise that we could hear... we was close to it and it was a bright night and we saw no form of anything other than the lights..  i have never seen anything like that before in my life...we are both senior citizens and have no non-sense .. we are Christians and truthful..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111827.html](http://www.nuforc.org/webreports/reports/111/S111827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Kensington (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Alien driving car, headlights shined in window as he pulled away, face to face with a grey alien, life-changing scaryAlien driving car, face to face encounter.As I was driving to get snacks I stopped at the stop sign and proceed to let the car to the right of me go.  As it pasted me I thought it was a bald man.  As the grey car (sorry not a car person I do not  know make or model) gets halfway through the intersection I noticed this "man's" skin was very grey.  My headlights were shinning directly in car. I proceed to move my gaze down the forehead and into the eyes.  Where I saw two extremely black eyes looking back at me.  My heart stopped when my brain understood that I was face to face with a grey alien who was driving a car.  As he was pulling out he looked back at the road and drove away.  I wish I thought to take a picture in those five seconds but I was in pure shock and terror.  I've always believed they were out there but face to face with one is a shock that I was not ready for.  I do not believe it was a mask in any form, the head moved to easily with no wrinkles in the neck area and the eye shape was not makeup the whole entire eye was oval.  I know they can do magic with make-up but I am in the world of film and have amazing 20/10 vision . The chills that I feel when my gaze met "his" is enough for me to know, I came face to face with a grey alien today.  They are here, with us, even driving our cars around.  This is a lot to take in, we are not alone.  The universe is huge its impossible that we are, but real confirmation with my own eyes, has me shook and it will for a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157573.html](http://www.nuforc.org/webreports/reports/157/S157573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
