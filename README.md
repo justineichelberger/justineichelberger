@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:29 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand Forks (ND) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large rounded V shaped craft moved silently from South to North.A friend and myself were sitting on my deck watching for the meteor shower. While we watched, I saw a large V shaped object appear and start moving from S to N. The corners were all rounded. It moved straight with the rounded point of the V in the front. It had no individual lights. It was grey/metallic and seemed to either be reflecting the city lights or the entire craft was dimly glowing. It made no noise and moved slower than an aircraft. As it went over my house, I stood up so I could continue watching and at the same time my friend yelled “I saw that!” We tried to explain it away but could not. The skies were crystal clear, there were no events happening with big lights or anything. We have an airbase nearby but it didn’t look like anything I’ve ever seen. It was a boomerang/rounded V shape. No tail, nothing inside of the V. I would say at the very least as large as a 747, but was much lower in the sky than they fly. Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158472.html](http://www.nuforc.org/webreports/reports/158/S158472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Den Helder (Netherlands) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue diamonds behind a bright white streakI am an english man from south east midlands, i travel to Holland every year as it is a favourite holiday destination for me and my wife. We normaly stay in a hotel in Amsterdam, traveling to places like Haarlem and Beverwijk. This year we decided for a change seeing as we had gone to Amsterdam for the last 3 summers. We went to a place called Den Helder on the Northern tip of Holland. The place was beatiful, we enjoyed the first 2 days of the Holiday greatly. On the 3rd night at about 8:30 we settled down to a lovely specialised Dutch dinner at the wonderful De Yperhof Restaraunt. We spent the night eating and reflecting on the past few days. At around 9:30pm we got ready to leave, we left the building out the front entrance. As soon as we left the restaraunt there was a bright white streak of what looked like flour fill the sky. It was amazing, at first we thought it must be some type of odd dutch firework, but after a minute it started to fade like rising fog. Behind             this 'powder' we could see a few little blue diamond/kite shaped crafts wizzing round and round. I didn't get too good a look through the white streak which went off onto the horizon. I could make out a white light on the tip of the diamond but when i reached for my glasses to get a closer look they had vanished. It was a thrilling experience and one i am likely never to forget. It really shookme and will change my view on alien inteligence for ever. I'm not sure who saw it apart from me and my wife, if you did see something like this that night then be assured your werent seeing things.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46457.html](http://www.nuforc.org/webreports/reports/046/S46457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
