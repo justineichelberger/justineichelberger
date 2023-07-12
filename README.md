@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:27 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lock Haven/Renova (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>a brilliant object appeared and moved in a sporatic manner along horizon changing color often and location colors of red blue and white visibleat approximately 0200 on 7/12/98 a bright red/blue/white object appeared on horizon.  Being that this area has an airport we thought it was a plane heading for landing.  this is not a big airport so a long stand by for landing was not probable.  the object appeared to move closer and farther away, and changes in color happened quite frequently.  it moved up/down and left/right in a smooth and quick manner and did not appear to follow any pattern normally seen in a satellite, plane, or falling star.  the object was watched by 3-4 people for upto 1 hour until it moved to a point out of vision range behing a mountain on the horizon.  intensity of the light changed frequently and dimming of the light on the object was followed by bright flashes of light along the horizon for quite a distance.  during the time object was visible periodic flashes of light around the object were noticed in different colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04235.html](http://www.nuforc.org/webreports/reports/004/S04235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cigar shapped craft,moving very fast and very high;with no contrail!we witnessed,a silver cigar shapped craft.moving north east at a very fast rate of speed.this craft was also very high.at first i thought it was a jet.however there was no stream of smoke behind it,none at all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29735.html](http://www.nuforc.org/webreports/reports/029/S29735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
