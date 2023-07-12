@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object faded in out of nowhere, flashed blue and yellow lights and faded in to nothing in a matter of seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111487.html](http://www.nuforc.org/webreports/reports/111/S111487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grand Forks (ND) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large rounded V shaped craft moved silently from South to North.A friend and myself were sitting on my deck watching for the meteor shower. While we watched, I saw a large V shaped object appear and start moving from S to N. The corners were all rounded. It moved straight with the rounded point of the V in the front. It had no individual lights. It was grey/metallic and seemed to either be reflecting the city lights or the entire craft was dimly glowing. It made no noise and moved slower than an aircraft. As it went over my house, I stood up so I could continue watching and at the same time my friend yelled “I saw that!” We tried to explain it away but could not. The skies were crystal clear, there were no events happening with big lights or anything. We have an airbase nearby but it didn’t look like anything I’ve ever seen. It was a boomerang/rounded V shape. No tail, nothing inside of the V. I would say at the very least as large as a 747, but was much lower in the sky than they fly. Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158472.html](http://www.nuforc.org/webreports/reports/158/S158472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
