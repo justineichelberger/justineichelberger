@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:10 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:27:39 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Spring Glen (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Observed a typical type saucer traveling from Northwest to Southeast at approximately 2,000 to 2,500 feet above ground.  The Saucer was traveling in the direction of Pine Bush, NY which is only approximately 6-7 miles as the crow flies.  No sound was heard and due to leafed trees was only observed for three to five seconds.  The sun was shining on it and I just happened to look up at the sky while working on my auto.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13462.html](http://www.nuforc.org/webreports/reports/013/S13462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple soundless fireballs moving in pairs across Eastern MA2 sets of 2 fireballs spotted coming out of the Southwest (approximately 210 degrees).1 set moved from the southwest toward the northeast.  They were visible for about 1 minute before they became blocked by the tree line.1 set moved from the southwest toward the northwest.  This set was only visible for about 15 seconds before being blocked by the tree line.All 4 moved at the same speed and were visible for the entire time.  They did not make a sound and were visible at orange / red spheres the entire time.There was no visible trail behind any of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111502.html](http://www.nuforc.org/webreports/reports/111/S111502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
