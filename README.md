@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:30 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:27 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Kensington (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Alien driving car, headlights shined in window as he pulled away, face to face with a grey alien, life-changing scaryAlien driving car, face to face encounter.As I was driving to get snacks I stopped at the stop sign and proceed to let the car to the right of me go.  As it pasted me I thought it was a bald man.  As the grey car (sorry not a car person I do not  know make or model) gets halfway through the intersection I noticed this "man's" skin was very grey.  My headlights were shinning directly in car. I proceed to move my gaze down the forehead and into the eyes.  Where I saw two extremely black eyes looking back at me.  My heart stopped when my brain understood that I was face to face with a grey alien who was driving a car.  As he was pulling out he looked back at the road and drove away.  I wish I thought to take a picture in those five seconds but I was in pure shock and terror.  I've always believed they were out there but face to face with one is a shock that I was not ready for.  I do not believe it was a mask in any form, the head moved to easily with no wrinkles in the neck area and the eye shape was not makeup the whole entire eye was oval.  I know they can do magic with make-up but I am in the world of film and have amazing 20/10 vision . The chills that I feel when my gaze met "his" is enough for me to know, I came face to face with a grey alien today.  They are here, with us, even driving our cars around.  This is a lot to take in, we are not alone.  The universe is huge its impossible that we are, but real confirmation with my own eyes, has me shook and it will for a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157573.html](http://www.nuforc.org/webreports/reports/157/S157573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lock Haven/Renova (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>a brilliant object appeared and moved in a sporatic manner along horizon changing color often and location colors of red blue and white visibleat approximately 0200 on 7/12/98 a bright red/blue/white object appeared on horizon.  Being that this area has an airport we thought it was a plane heading for landing.  this is not a big airport so a long stand by for landing was not probable.  the object appeared to move closer and farther away, and changes in color happened quite frequently.  it moved up/down and left/right in a smooth and quick manner and did not appear to follow any pattern normally seen in a satellite, plane, or falling star.  the object was watched by 3-4 people for upto 1 hour until it moved to a point out of vision range behing a mountain on the horizon.  intensity of the light changed frequently and dimming of the light on the object was followed by bright flashes of light along the horizon for quite a distance.  during the time object was visible periodic flashes of light around the object were noticed in different colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04235.html](http://www.nuforc.org/webreports/reports/004/S04235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
