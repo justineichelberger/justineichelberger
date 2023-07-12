@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:28 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cameron (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ufo?I was outside talking on the phone, when at the time 21:00 hrs I seen this blue fireball looking craft with white tail stream.  It did not have any sound it looked as if it were flying straight over the river to Monkey Island.  At that point the craft zoomed away and faded out of sight over Monkey Island.  This craft was traveling very fast and was below the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111473.html](http://www.nuforc.org/webreports/reports/111/S111473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Two Super fast moving white lights in early evening sky south Austin, TX.Two white lights fast moving, looked like a plane coming in hot, the lights separated and disappeared in to the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111467.html](http://www.nuforc.org/webreports/reports/111/S111467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
