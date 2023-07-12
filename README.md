@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:27:39 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:08:45 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Franklin (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple soundless fireballs moving in pairs across Eastern MA2 sets of 2 fireballs spotted coming out of the Southwest (approximately 210 degrees).1 set moved from the southwest toward the northeast.  They were visible for about 1 minute before they became blocked by the tree line.1 set moved from the southwest toward the northwest.  This set was only visible for about 15 seconds before being blocked by the tree line.All 4 moved at the same speed and were visible for the entire time.  They did not make a sound and were visible at orange / red spheres the entire time.There was no visible trail behind any of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111502.html](http://www.nuforc.org/webreports/reports/111/S111502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>wierd objectred fire ball was seen from comunity Swimming pool. it was around 8pm and we where eather leaving or going to the pool when my mother and a neighbor both saw a bright red light! it was for a very short period of time a minute if, that long! we thought nothing of it unbtill today when i read on this site about something similar in a nearby city! i asked my mom to look at the pic of the fireball and she said that looked like what she saw!((NUFORC Note:  We believe the report may address either of the two sightings that occurred on July 12 or July 27.  We will attempt to resolve which date the witness is alluding to.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17578.html](http://www.nuforc.org/webreports/reports/017/S17578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
