@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a bright light that seemed to be sucked into another dimension when I looked at it, and there was a loud "booming" sound as it diI was standing outside, smoking a cigarette and the sun was not quite coming up yet.  I looked up and saw a very bright light.  I stared at the light and it seemed to know I was watching it.  As I was staring at the light, I suddenly realized that I was lying on the porch that I was recently smoking on.  I jumped to my feet, and the light was still there as it was before.  As I looked at the light like I was mesmerized, it began to get smaller and smaller until it seemed to be sucked into another dimension or something.  As it disappeared for my vision, there was a loud "boom" sound that was loud enough to wake my wife up.  She heard the boom, but she did not see the light.  A lot of strange things happened after this incidence, but I will not go into that because it really creeped me and my wife out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71546.html](http://www.nuforc.org/webreports/reports/071/S71546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright flashing followed by red glowing pairsAt around 11:00 pm, I noticed some bright, white flashing lights coming from inside the forest behind my grandparent's home.  After looking harder, I observed 3 glowing pairs of red lights just beyond the tree line.  The flashing was not lightning, as it was dead silent, with almost no clouds in the sky.  When I tried to capture the event on camera, nothing would show up and the screen would go black.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111532.html](http://www.nuforc.org/webreports/reports/111/S111532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
