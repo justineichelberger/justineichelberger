@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:29 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:24 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A BRIGHT OBJECT CAME OUT OF THE WEST SLOWLY AND LOW, THEN ROSE TO THE HIEGHT OF THE STARS.AT 20:10 07/12/2000 I SPOTTED A BRIGHT RED ROUND CRAFT FLYING SLOWLY OUT OF THE WEST AT ABOUT 15000 FT. I ESTIMATED THE HIEGHT BY THE INCOMING PLANES IN THE AREA. IT STOPPED AND CHANGED FROM BRIGHT RED TO A LESS BRIGHT RED ALTERNATING BACK AND FORTH. THE OBJECT THEN MOVED UP TO ABOUT 30,000FT. AND STOPPED FOR ABOUT 5 MIN. IT THEN ROSE TO A HIEGHT EQUAL TO A BRIGHT STAR, AND SEEMED TO TURN THE SAME COLOR AS THE STARS. MY FAMILY VIEWED THIS FROM THE FIRST PART.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13403.html](http://www.nuforc.org/webreports/reports/013/S13403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Conroe (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ufo sighting over lake conroe texas, july 12,2014UFO sighting Lake Conroe, Texas, on the night of July 12, 2014, at approx. 22:00 hours , my wife and I where fishing about 2 or 3 hundred yards in front of the scott's ridge boat ramp on lake conroe in montgomery county texas, when we saw 2 bright lights approaching us at a pretty good speed and they flew directly over us at a estimated height of 20 or 30 feet..they where about 6 to 8 inches apart, with one about 6 to 8 inches ahead of the other one... i estimated they was flying about 50 or 60 miles a hour.. my wife saw them as the size of soft balls... i saw them as being the size of tennis ball... they both had tails of fire and we watched them approach us, and leave us and they flew straight and level... both balls where bright and the moon was a full moon and a few clouds this thing made no noise that we could hear... we was close to it and it was a bright night and we saw no form of anything other than the lights..  i have never seen anything like that before in my life...we are both senior citizens and have no non-sense .. we are Christians and truthful..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111827.html](http://www.nuforc.org/webreports/reports/111/S111827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
