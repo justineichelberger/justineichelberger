@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 11 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Bright blue and red object flying forward and backward, side to side and making huge circles.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111513.html](http://www.nuforc.org/webreports/reports/111/S111513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A faint point of light was gradually moving along high up in the night sky; the light was moving from south to north, nearly overhead of my position; the sky was clear.  After it passed over me, it faded from view.  Then, a few seconds later, after I shifted my stance to get a better view over the roof of my house, I saw a much brighter light somewhat to the side of where the aforementioned one faded; the brighter light was about as bright as Jupiter and gradually moving north.  There were no sounds or navigations lights emanating from any of the aforementioned lights. Such observation is among the latest of several I’ve encountered since October 2006.  The report regarding the October 2006 observation is posted on NUFORC’s online report database (http://www.nuforc.org/webreports/055/S55687.html).  Incidentally, I was a weather observer in the Air National Guard several years ago and thus trained to identify meteorological phenomenon as well as other sky activities.  Though I can’t conclude what exactly the lights are or what they represent, they nevertheless unusual.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Flare of Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57660.html](http://www.nuforc.org/webreports/reports/057/S57660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164022.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164031.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164023.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157583.html)
-- [412](http://www.nuforc.org/webreports/reports/157/S157541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
