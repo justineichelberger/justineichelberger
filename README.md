@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:14 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:34 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>Daylight sighting of a long cigar shaped object that  slowly disappearsThe object was long and thin, cigar shaped whitish/silver color although more white.  This is a rough guess but I would say it's height was somewhere between 2000 and 5000 feet.  I first thought it must be a plane as we are in the flight path of a major airport.  Started looking for wings, couldn't see any but that's not really unusual because sometimes the angle of the plane makes it impossible to see the wings.  Then I realized that the "plane" or "object" was in the wrong place for the flight pattern - too high for just taking off or landing, and too low for passing through. No contrail at all.  As I watched the object, which was flying east to west at about 65 degrees above the horizon, it appeared to just simply fade out. I was looking right at it (still looking for the wings on the thing don't ya know) as it slowly dissappeared! The effect was like a plane going behind clouds that are thin at the edges but get thicker towards the middle - I'd say about 8 to 10 seconds from the time it started to fade, to completely gone. But there were no clouds in the sky. I don't know if my eyes were playing tricks, but at the last place I saw the object - the spot where it completely vanished - there appeared a faint dark smudge - like smoke - in an otherwise clear blue sky. It dissapated in a few seconds, making me wonder if I had actually seen the smudge. I continued scanning the sky but saw nothing more.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71064.html](http://www.nuforc.org/webreports/reports/071/S71064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marietta (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft with bright glowing lights fading from yellow to red in digital pattern.Craft moving at a speed of a normal airplane, but seemed to move in circular formation and lights which illuminated from yellow to red in a digital like pattern around the craft.((NUFORC Note:  We have amended the date above, and left a message for the witness, asking for confirmation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135121.html](http://www.nuforc.org/webreports/reports/135/S135121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
