@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:31 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>We were outside at around 11:20 - 11:30 pm and I happen to look up and see a light in the sky that as you look you could tell that it was really high up.  It was heading in a straight direction when all of the sudden a bright flash of light appeared from where it light was moving in the sky.  All of the sudden it took off in another direction and as you watch it it became dimmer and dimmer as if it was flying higher until you could not see any longer.  My wife witnessed it as well and suprised by it as well.  I checked all of the online schedules for many of the different space agencies and did not see anything that was scheduled for taking off that night.  I also did the research to see if it was an iridium satellite flare as you suggested peter.  It definitely did not look like that at all.  This was definitely different than anything I have seen happen in the night sky.  I see objects in the sky that appear to be most likely satellites and the space station that move in a constant speed in the sky on the same path.  Never have seen something like this going one direction then moving in another after the flash.  Very strange.  My wife was speaking with her boss and she and her husband just so happen to see the same thing.  I have never reported anything before and this is my first time.  I definitely will continue looking up!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64558.html](http://www.nuforc.org/webreports/reports/064/S64558.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>7 dots in the sky moving in unfamiliar fashionI was in the pool with my dad and my uncle when I saw a dot far away in the sky. I thought it seemed kind of strange. As we got out of the pool we saw 4 dots that stayed in the same position. By that time all 7 of us began to look and saw 7 dots. We also saw 2 dots revolving around each other and flashing brightly. At that time, as we were looking at the dots, two commercial airliner almost collided! It was very bizzare and all 7 of us agreed that this sighting was something from a different planet. What made it even more bizzare was the amount of military aircraft that followed. I've never seen so many jets in my life! There was something in the air tonight and I really do believe that it was a UFO, we all do.((NUFORC Note:  We will request that some of the other witnesses submit reports, as well, in order to corroborate this student's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29721.html](http://www.nuforc.org/webreports/reports/029/S29721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
