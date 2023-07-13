@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Orlando (State Rt. 474, W. of) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknown object tracks two witnesses at close range in Green Swamp.sunset@sunet.net! July 13, 2001, 9:30 p.m.,  Green Swamp, west of Orlando Reported to Tampa Bay MUFON Hot line While driving home on State Road 474 west of Orlando, Witness #1 and his son (13 year old) saw a pin ball like object, 30-40 inch diameter seen in rear window of his automobile.  It was reflecting back the details of the rear lights of the car.  It was shimmering as they drove and they both had the feeling that they were being watched.  He drove faster thinking that "Something was coming on us."   As he looked at the rear view mirror the reflection was as a convex chromium surfaced object (pin ball) and he said he had difficulty focusing on it.  He thought the object to be 3-4 feet behind his car.   He said that there was something blocking the night sky as he looked up.   When they reached the end of the road they noted that there was an increase of light without any visible  shadows.  Both witnesses were frightened.  When they examined the car upon arriving at home (10 or 15 minute drive), there was nothing on the car or back window, no oily residue. Lorraine Gerber, MUFON Assistant State Director www.mufonhq.com, local hotline (727) 595-7964((NUFORC Note:  Our gratitude to Lorraine Gerber, and Florida MUFON, for this report.  Other witnesses are encouraged to contact her, or other members of MUFON, to submit additional reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18623.html](http://www.nuforc.org/webreports/reports/018/S18623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in West Milwaukee (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>white orb/sphere moving across blue sky at a high rate of speed then changes directionWhile lying out in my backyard watching the clouds and planes overhead, I noticed a white orb/sphere moving in a west/northwest direction.  What really caught my attention was that this particular object had no vapor trails, every other plane I had seen that afternoon had a vapor trail and I could tell that they were planes, no matter the altitude. The object was also moving considerably faster than the planes I had observed before.  So, I continued to watch it cross the sky when all of the sudden it just took off going north, I could not believe my eyes, what I saw is totally unexplainable.  I have been watching the skies for the past two days in hopes to maybe come up with an explanation, but haven’t been able to… (The weather the past three days has been beautiful, clear blue skies, very few clouds.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57679.html](http://www.nuforc.org/webreports/reports/057/S57679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
