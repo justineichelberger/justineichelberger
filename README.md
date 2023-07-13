@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:27 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:24 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light come over horizon, turn and disappear.Friday, July 13, 2012 Noticed the neighbor’s horse started making noise while my husband & I were having dinner on our deck.  Caught out of the corner of my eye a bright object coming over the horizon (I was facing south).  It was bright orange with a red spot behind it.  Very large and bright, moving slow, rising at a 30 degree angle or so.  Seemed to stop and then turn toward us, which is toward the left (eastwardly) then started heading back toward the horizon.  Once it started turning the light started dimming quickly, and completely went out before reaching the horizon.  The lights were solid, no flashing and the red disappeared light disappeared at the turning point.   This lasted for about 1 minute.  Once lights disappeared the neighbor’s horse went silent.  The sky was clear and hadn’t noticed any stars yet.  Probably about 9:30pm.  The horizon is not far from us, about two miles.We sit out quite often and watch the sky.  Watched many planes at night, but none like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90847.html](http://www.nuforc.org/webreports/reports/090/S90847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>yellow sphere observed by two people sitting still and then moving around before leavingWhile driving home from dinner at my parents house, my wife and I noticed a round oval looking craft in the sky that was mostly a yellow color (similar to a street light yellow) with little bright white lights around what looked like the center of the craft.  I thought that it was moving very slowly to be a plane and was way to high to be a helicopter.  I told my wife to pull the car over so I could see if the object was moving or not.  When she stopped the object was in fact not moving at all, it then started to move backwards and forwards for a few seconds and then stopped again.  After maybe a minute the craft started moving to what I believe would be its port side, assuming that the craft was facing towards our position, and moved just a little and then it seemed to jump forwards in the same direction it was heading and then stopped for a second and then took off.  It looked like something you would see in a sci-fi movie where it went into warp speed or something.  We watched for a few more minutes and did not see anything else in the sky other than the starts that were there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103273.html](http://www.nuforc.org/webreports/reports/103/S103273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
