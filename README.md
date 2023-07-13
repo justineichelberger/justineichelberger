@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:21 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chesterfield (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About a dozen bright orange lights spotted in the sky in Chesterfield, MI at 10:00 PM 7/13/2007At approximately 9:55 PM on Friday, July 13, 2007 as we were sitting out on the patio enjoying a nice evening with family and friends, about a dozen bright orange lights appeared in the sky North East of Selfridge Air Base. They moved toward the West, then dissappeared. The lights did not blink but moved at a steady pace. Then, about 5 minutes later, I spotted a single orange light moving in the same direction as the previous lights. As it moved West, it disappeared. Very strange and startled all of us who witnessed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57639.html](http://www.nuforc.org/webreports/reports/057/S57639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Seattle (downtown; Shoreline) (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>High, stationary, triangular-shaped object in skyThe sky was relatively clear with some high cirrus clouds.  Spotted the object as we were driving on I-5 in the sky next to a commercial airplane.  Airplane separated itself from the object and the object stayed stagnant.  The object was higher than commercial airplane by far.  Object was too high in the sky to be a helicopter or hot air balloon.  The object appeared to reflect light at different angles so I assume it was oscillating or pivoting.  As we continued driving with our rolled down windows the object was still stationary in the general area.  We then were too far North to see the object.((NUFORC Note:  One of two quite credible reports from several observers in the same vehicle.  All of the witnesses are young professionals, and at least one is an engineer in the aerospace industry.  Please see illustration on the NUFORC homepage.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44948.html](http://www.nuforc.org/webreports/reports/044/S44948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
