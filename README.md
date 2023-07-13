@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>multiple craft flying around in sporadic and synced path following chem trailApprox Around 13:45 to 14:09 mountain time, I was washing my son in bath, I had stood up to get bath soap from the window and just happened to look out the window.  I noticed a chem trail being sprayed by plane and noticed below the trail shiny things in the air.So the plane had traveled and they were slowly following the path of the chem trail, but they would almost stop and fly around and around then move towards the plane or almost trying to catch up to it but taking their time.I know they were NOT birds because when they would change direction and altitude the different angles would hit the sun, causing them to reflect light or what light you'd expect from the sun, like a mirror.  So they seemed to be metal..actual material unknown.I had gotten excited so I ran downstairs and pointed it to my wife, 4 confirmed if she can or did see them and she said yes, I do see them.  There were about 9-16 or so, definitely more then ten (10), they all would fly around in circles following the east/southward path.They were hard to follow when going from upstairs to downstairs and back up again since that far away they'd blend in with the sky.I don't know exact altitude I'd guess 2 or 3 k feet up…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111518.html](http://www.nuforc.org/webreports/reports/111/S111518.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Orlando (State Rt. 474, W. of) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknown object tracks two witnesses at close range in Green Swamp.sunset@sunet.net! July 13, 2001, 9:30 p.m.,  Green Swamp, west of Orlando Reported to Tampa Bay MUFON Hot line While driving home on State Road 474 west of Orlando, Witness #1 and his son (13 year old) saw a pin ball like object, 30-40 inch diameter seen in rear window of his automobile.  It was reflecting back the details of the rear lights of the car.  It was shimmering as they drove and they both had the feeling that they were being watched.  He drove faster thinking that "Something was coming on us."   As he looked at the rear view mirror the reflection was as a convex chromium surfaced object (pin ball) and he said he had difficulty focusing on it.  He thought the object to be 3-4 feet behind his car.   He said that there was something blocking the night sky as he looked up.   When they reached the end of the road they noted that there was an increase of light without any visible  shadows.  Both witnesses were frightened.  When they examined the car upon arriving at home (10 or 15 minute drive), there was nothing on the car or back window, no oily residue. Lorraine Gerber, MUFON Assistant State Director www.mufonhq.com, local hotline (727) 595-7964((NUFORC Note:  Our gratitude to Lorraine Gerber, and Florida MUFON, for this report.  Other witnesses are encouraged to contact her, or other members of MUFON, to submit additional reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18623.html](http://www.nuforc.org/webreports/reports/018/S18623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
