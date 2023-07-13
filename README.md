@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Coarsegold (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO Sighting on the way up to the mountains on a road trip with familyThis photo is not a fake or altered....I took this photo on a road trip to the mountains...with ((husband's name deleted)) & the kids....we were with 3 kids in the back seat...as I was taking photos...I saw one silver grey disk hoovering in the clouds......so I took a photo of it with my cell phone. At that moment...I turned around to check on the kids, who were fussing...and when I turned around to take another photo of the disk...IT WAS GONE!...just that fast. I don't know how to do any altering of photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82519.html](http://www.nuforc.org/webreports/reports/082/S82519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright light come over horizon, turn and disappear.Friday, July 13, 2012 Noticed the neighbor’s horse started making noise while my husband & I were having dinner on our deck.  Caught out of the corner of my eye a bright object coming over the horizon (I was facing south).  It was bright orange with a red spot behind it.  Very large and bright, moving slow, rising at a 30 degree angle or so.  Seemed to stop and then turn toward us, which is toward the left (eastwardly) then started heading back toward the horizon.  Once it started turning the light started dimming quickly, and completely went out before reaching the horizon.  The lights were solid, no flashing and the red disappeared light disappeared at the turning point.   This lasted for about 1 minute.  Once lights disappeared the neighbor’s horse went silent.  The sky was clear and hadn’t noticed any stars yet.  Probably about 9:30pm.  The horizon is not far from us, about two miles.We sit out quite often and watch the sky.  Watched many planes at night, but none like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90847.html](http://www.nuforc.org/webreports/reports/090/S90847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
