@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 12 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was standing in the backyard (house is double - built facing west) when i obseved pigeons on the roof.  I made jestures in an attempt to scare them off when a light/for silver/white object caught my eye as it passed the roofline moving across the clear blue sky at an usually high rate of speed with no vapor trail and not any sound being emitted. At first I thought it might be a high flying bird like a seagull using the thermals, but when i saw the straight line and the distance it covered i just watched it go straight west to east until out of sight from a tree. I have never seen an object traveling at that speed and cover the distance in my life and i have no idea what it was, but if I had not been looking at the roofline of the house i would never have dectected it otherwise on such a clear and bright day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23731.html](http://www.nuforc.org/webreports/reports/023/S23731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Loveland (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>After shopping at Branch hill Guinea Pike Kroger's, we left store to see three large sphere shaped objects with  pulsing red light.  They slowly hovered going away from each other.  One floated down to tree line behind Walgreens across the street and hovered in top of tree.  Noticed it was pretty large.  Easily man sized.  It was no longer blinking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147550.html](http://www.nuforc.org/webreports/reports/147/S147550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164045.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164043.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164048.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164058.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
