@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clarklake (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright pulsing light stops, shoots off at an amazing speedAt approximately 11:45pm I noticed a rather bright, orangish light to the north of my home periodically peaking through the treetops.  The night was clear and commercial aircraft could occasionally be seen flying from east to west.   This orange light was at an altitude of approximately 35-40 degrees above the northern horizon and appeared to be moving from north to south...towards my location.  It flew slowly.   The light itself, however, seemed to pulse arhythmically.   The deviation in the intensity of the light wasn't extreme but was enough to catch my attention.   I noticed no navigation lights, no beacons, nothing one would expect to see with FAA-compliant aircraft.   The color of the moving light was an orangish-golden-amber.  About ten seconds after I began to closely observe the light, it disappeared at about 45-50 degrees elevation.   I looked closely for the aforementioned FAA-mandated lighting but could see nothing.   I also noticed no clouds in that particular portion of the sky which would've obscured my view.   Approximately three seconds after it's disappearance, the light suddenly flared again to twice it's previous intensity, about 50 degrees elevation and still to my north.   The light seemed to be sitting in the sky, still pulsating arhythmically.   It sat for approximately five seconds before it began to move again southward, over my position.   Approximately 5 seconds after it's reappearance, it immediately shot to the west at an amazing speed and disappeared from sight.   The pulsations seemed to quicken and brighten just before it shot off to the west.   I did not see anything else out of the ordinary in the skies the following hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51418.html](http://www.nuforc.org/webreports/reports/051/S51418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Coarsegold (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO Sighting on the way up to the mountains on a road trip with familyThis photo is not a fake or altered....I took this photo on a road trip to the mountains...with ((husband's name deleted)) & the kids....we were with 3 kids in the back seat...as I was taking photos...I saw one silver grey disk hoovering in the clouds......so I took a photo of it with my cell phone. At that moment...I turned around to check on the kids, who were fussing...and when I turned around to take another photo of the disk...IT WAS GONE!...just that fast. I don't know how to do any altering of photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82519.html](http://www.nuforc.org/webreports/reports/082/S82519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
