@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:28:34 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:11:32 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marietta (SC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Craft with bright glowing lights fading from yellow to red in digital pattern.Craft moving at a speed of a normal airplane, but seemed to move in circular formation and lights which illuminated from yellow to red in a digital like pattern around the craft.((NUFORC Note:  We have amended the date above, and left a message for the witness, asking for confirmation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135121.html](http://www.nuforc.org/webreports/reports/135/S135121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Strange orange lights reported over Springfield, Illinois.I did not personally see these craft. I am a dispatcher for Sangamon County 911 and tonight we received 2 separate calls regarding orange lights flying in different formations westbound in the sky.  This is the 3rd call I have taken reference similar craft in the last two weeks.  An officer responded and nothing was found.  I talked to the airport and they had nothing in the area at that time.  I also contacted the National Weather Service and they were not reporting any strange weather. Callers advised the lights as 4-6 orange balls changing formation and headed in a  southwestern direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100099.html](http://www.nuforc.org/webreports/reports/100/S100099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
