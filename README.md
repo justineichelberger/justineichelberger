@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:24 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>yellow sphere observed by two people sitting still and then moving around before leavingWhile driving home from dinner at my parents house, my wife and I noticed a round oval looking craft in the sky that was mostly a yellow color (similar to a street light yellow) with little bright white lights around what looked like the center of the craft.  I thought that it was moving very slowly to be a plane and was way to high to be a helicopter.  I told my wife to pull the car over so I could see if the object was moving or not.  When she stopped the object was in fact not moving at all, it then started to move backwards and forwards for a few seconds and then stopped again.  After maybe a minute the craft started moving to what I believe would be its port side, assuming that the craft was facing towards our position, and moved just a little and then it seemed to jump forwards in the same direction it was heading and then stopped for a second and then took off.  It looked like something you would see in a sci-fi movie where it went into warp speed or something.  We watched for a few more minutes and did not see anything else in the sky other than the starts that were there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103273.html](http://www.nuforc.org/webreports/reports/103/S103273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stedman (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver Cigar Shaped Object SeenThe sky was clear, the moon was out and it was still daylight in the early evening.  I saw a craft at a high altitude moving in the area of the moon at a very fast rate of speed. I was facing south. It had no vapor trail and did not make any noticeable noise.  The object appeared to be at an altitude of 30-40 thousand feet.  My friend was outside with me and I pointed it out to him.  I ran inside and got my binoculars, which are 8X50.  My friend looked first and he described an object which appeared to have no fixed wings, and he said it was an all silver cigar shaped object.  I looked next, and what I saw was a silver bottom and sided saucer with a small top in the center of it, the top side appeared to be white.  The craft appeared to be banking at an angle when I looked at it. There were no wings, no tailfin, and no exhaust that I could see. I ran back inside to get my camcorder, which took me about 20 seconds and when I returned, it was gone.  The craft moved across the entire horizon in less than one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64505.html](http://www.nuforc.org/webreports/reports/064/S64505.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
