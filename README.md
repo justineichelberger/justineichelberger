@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:26 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Industry (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We viewed a firey orange globe come into sight, stagger, then disasseapear at the pace of an airliner.We were standing outside to look at our friends Corvette, when I noticed and pointed out an object in the sky.  It appeared from behind the tree line, like an orange glowing sphere.  It continued to come closer and appeared to stager but was continuing on a path of some sort.  It then seemed to get farther away and higher up at a steady pace until it flew out of sight behind the tree line.  It appeared to travel across the night sky about the speed and pace of an airliner taking about 2 minutes.  Three of us attempted to photograph this with our phones, but the photos came out black.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90838.html](http://www.nuforc.org/webreports/reports/090/S90838.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wrentham (MA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO tube shape over WrenthamAt about 6:45 PM on July 13, 2020, in Wrentham, MA, we noticed an object in the sky passing a commercial airliner in close proximity.  The commercial airliner was headed south and the unidentified flying object was headed north.  It passed right by the airliner moving at a very fast pace and as it passed over our home, it turned around quickly and headed back south.  The object was a tube cigar shape, shiny and moving very fast in a horizontal direction.  We viewed the object through binoculars and could visibly see the shape and it was shining on the side.  The sky was considerably clear, there was no sound coming from it and no trail behind it.  It just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157585.html](http://www.nuforc.org/webreports/reports/157/S157585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
