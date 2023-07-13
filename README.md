@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stedman (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silver Cigar Shaped Object SeenThe sky was clear, the moon was out and it was still daylight in the early evening.  I saw a craft at a high altitude moving in the area of the moon at a very fast rate of speed. I was facing south. It had no vapor trail and did not make any noticeable noise.  The object appeared to be at an altitude of 30-40 thousand feet.  My friend was outside with me and I pointed it out to him.  I ran inside and got my binoculars, which are 8X50.  My friend looked first and he described an object which appeared to have no fixed wings, and he said it was an all silver cigar shaped object.  I looked next, and what I saw was a silver bottom and sided saucer with a small top in the center of it, the top side appeared to be white.  The craft appeared to be banking at an angle when I looked at it. There were no wings, no tailfin, and no exhaust that I could see. I ran back inside to get my camcorder, which took me about 20 seconds and when I returned, it was gone.  The craft moved across the entire horizon in less than one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64505.html](http://www.nuforc.org/webreports/reports/064/S64505.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chesterfield (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>About a dozen bright orange lights spotted in the sky in Chesterfield, MI at 10:00 PM 7/13/2007At approximately 9:55 PM on Friday, July 13, 2007 as we were sitting out on the patio enjoying a nice evening with family and friends, about a dozen bright orange lights appeared in the sky North East of Selfridge Air Base. They moved toward the West, then dissappeared. The lights did not blink but moved at a steady pace. Then, about 5 minutes later, I spotted a single orange light moving in the same direction as the previous lights. As it moved West, it disappeared. Very strange and startled all of us who witnessed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57639.html](http://www.nuforc.org/webreports/reports/057/S57639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
