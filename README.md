@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:31 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:31 on 13 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>7 dots in the sky moving in unfamiliar fashionI was in the pool with my dad and my uncle when I saw a dot far away in the sky. I thought it seemed kind of strange. As we got out of the pool we saw 4 dots that stayed in the same position. By that time all 7 of us began to look and saw 7 dots. We also saw 2 dots revolving around each other and flashing brightly. At that time, as we were looking at the dots, two commercial airliner almost collided! It was very bizzare and all 7 of us agreed that this sighting was something from a different planet. What made it even more bizzare was the amount of military aircraft that followed. I've never seen so many jets in my life! There was something in the air tonight and I really do believe that it was a UFO, we all do.((NUFORC Note:  We will request that some of the other witnesses submit reports, as well, in order to corroborate this student's report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29721.html](http://www.nuforc.org/webreports/reports/029/S29721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Andover (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>While on the deck last night with my wife, she called me outside to look a this object she had notice coming from the south out of hackettstown nj.  We had a clear line of sight for miles.  As we where watching a triangular shape began to take shape (lights only), but moving together. They past us right over head..no sound!  Then all of a sudden one by one the amber colored bright lights began to fade away.  We thought that was it! Nope....9 more came, one by one they followed the large light pattern that we first had noticed...all i can say is having knowledge of aircraft and in the industry for years.... no this isnt ours. the lights also began to change color...hard to discribe, (muti colored) never saw this type of light on any of our aircraft......NEVER!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90856.html](http://www.nuforc.org/webreports/reports/090/S90856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164066.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164072.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165892.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164401.html)
-- [432](http://www.nuforc.org/webreports/reports/157/S157590.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
