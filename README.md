@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:27 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>big blue flash and a blue zigzaging lightOn a warm summer night just outside Portland Oregon me and two friends where smoking outside. it was late at night, when we all witness one bright blue flash it reminded me of a lightning flash (a week before we had thunder storms) but cleary blue not whiteish or yellow like in thunder storms. This was a very clear night and when we looked up to see what was happening we all saw a neon blue explosion in the sky that quickly disappeared. Then about a week later as I was walking outside just as I opened the door to my house that faces east looking at mt.hood I saw a long blue zigzaging light across the entire sky from herizon to herizon in a matter of about 10 sec. then I started to research the subject, and witness first hand the ridicule this subject matter gets but I belive more then ever after looking into this that this is real period. Other life exist out there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79239.html](http://www.nuforc.org/webreports/reports/079/S79239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Baseball sized pink object over head.As reported to Oregon UFO Research...This witness reports getting off his computer and going outside for a moment. Standing out in the summer evening he looked strait up and noticed a slightly glowing pink object about the size of a baseball but could see no form to it. He then stepped out back to see if his dogs were fed and when he returned he looked up again. The object had now began to move from a hover exactly straight overhead to more of a southern position. He reports that the object moved in a "fluttery manner without sound". He then ran in and grabbed his son to view the object as it moved slowly to the south out of view.The witness writes..."Another object way higher and about the size of a pee went over head in exactly the same direction...this one had a white look to it and a small red light. It wasn't an airplane. I have seen too many airplanes now to know this wasn't it. It flew in the same odd manner as the first object".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23854.html](http://www.nuforc.org/webreports/reports/023/S23854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
