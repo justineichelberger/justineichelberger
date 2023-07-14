@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:23 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mesquite (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>metalic or white no lightsThere were 5 circle and 1 boomerang , not all together maybe a minute apart.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90887.html](http://www.nuforc.org/webreports/reports/090/S90887.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Washougal (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>a light flashing really bright, reappearing then flashing again and not moving in normal aviation flight form.My husband and I were standing outside tonight 7/14/2013 around 10:57 pm.  I was looking into the sky due north and I saw a big flash like a light bulb lasted only a second then it was gone then a few seconds later a little to the right there was  a smaller flash that lasted a second then disappeared. I said to my husband, "Did you see that,"  and before I could finish my question, he was asking me if I saw it. He explained it as what looked like a bright porch-light lit up super bright then disappeared, than lit up again, went off into the distance then disappeared for good. We stood there for a few moments but nothing reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100194.html](http://www.nuforc.org/webreports/reports/100/S100194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
