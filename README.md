@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:05 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Potters Bar (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright orange oval ojects sighted in the sky travelling EastTwo extremely bright orange ojects flew across my vision of the sky.  A third followed behind.  They were oval in shape and definately not planes, helicopters or anything I have ever seen before.  I called my husband, who is extremely cynical, and we could not believe what we were seeing.  I race upstairs for my camera and tried to take a picture.  The crafts had not stopped so were further away and the pictures are really poor.  I also got my binoculars and we viewed one of the ojects which was incredibly bright orange, like a ball of fire, in the centre with a halo around it.  We watched until the objects were no longer in sight.  We contacted the BBC, Sky News, The Sun and the local Police who informed me there had been other reported sighting of the same which were seen in the local vicinity at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64548.html](http://www.nuforc.org/webreports/reports/064/S64548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Live Oak (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The Triangle over Live OakThis happened a long time ago. I was about 14 years old and it was a warm summer day and I was sitting on the front porch about 1:00pm. I noticed that it seemed to get very quiet that not even the birds could be heard. I stood up and looked out and noticed a dark triangular something flying over the house. It had white flashing lights on each point and a bright, smaller red on dead center of the craft. But there did not seem to be any other openings or any other lights on the craft. It was made of a black plastic looking material. Nothing like had seen before or have seen scene, and I was a Security Police Specialist in the US Air Force.It was back before cable and we still had an antenna and the thing was about 2 or 2 feet above it but there was not even the slightest sound. It seemed to be going so slow I thought that it was going to fall on top of our house. It was about 40 yards long and took forever to pass overhead.When it was gone I ran inside and ask my Mother if she seen what just went over but she said she did not. Then later that day the boy from across the street came over and he asked if we had seen it. He was behind his house watching it pass over.It seemed that no one but us two had seen anything. We ask everyone in town and then in school the next couple of days and now one had seen it or no one had claimed to have seen it.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59447.html](http://www.nuforc.org/webreports/reports/059/S59447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
