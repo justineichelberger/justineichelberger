@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:23 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lake Mx Kenzie (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was on Lake McKenzie looking at the stars when I felt something and turned to look and saw a form moving in cloud that was bright like light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150919.html](http://www.nuforc.org/webreports/reports/150/S150919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>big blue flash and a blue zigzaging lightOn a warm summer night just outside Portland Oregon me and two friends where smoking outside. it was late at night, when we all witness one bright blue flash it reminded me of a lightning flash (a week before we had thunder storms) but cleary blue not whiteish or yellow like in thunder storms. This was a very clear night and when we looked up to see what was happening we all saw a neon blue explosion in the sky that quickly disappeared. Then about a week later as I was walking outside just as I opened the door to my house that faces east looking at mt.hood I saw a long blue zigzaging light across the entire sky from herizon to herizon in a matter of about 10 sec. then I started to research the subject, and witness first hand the ridicule this subject matter gets but I belive more then ever after looking into this that this is real period. Other life exist out there.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79239.html](http://www.nuforc.org/webreports/reports/079/S79239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
