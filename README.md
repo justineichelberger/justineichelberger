@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in El Monte/Monterey Park (between) (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Gray oval teardrop shaped craft flying over LA County.I was riding on the Metrolink from San Bernardino to the Cal State LA station, seated on the side of the train looking south.  Listening to music and watching the scenery pass by I looked up to the sky at about a 35 to 45 degree angle and saw what at first I took to be a airliner that was traveling east to west.  I quickly realized that the shape was not right and that it was not a more whitish color.  It had more of a gray metallic look, and there seemed to be no wings. This happened rather fast and when I wanted to try to study it more the train passed a few buildings that blocked my view, and when the train passed the buildings, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76575.html](http://www.nuforc.org/webreports/reports/076/S76575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bamberg (Germany/Bavaria) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The round object was glowing red with bright light at the bottom edge; it made no sound and moved steadily.My husband and I were sitting on the balcony when suddenly a red round object appeared on the horizon, came flying towards us, making no sound whatsoever, flying below the clouds in a steady speed. With the help of binoculars we could identify a red glowing object with a bright circle at the edge and the light pouring straight towards the earth. After about three minutes or so it disappeared in the distance. From a call at the police station we learned that no one else had reported a similar observation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18477.html](http://www.nuforc.org/webreports/reports/018/S18477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
