@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:27 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:29 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Endicott (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Strange light anomoly in the southern sky over Endicott, NY.Looking almost directly south I observed what I thought to be two stars lined up with each other, but noticed flashing lights. I live on the approach way to the Binghamton airport and thought it was perhaps a plane.  However, this light anomaly didn't move; it remained stationary.  I managed to count at least 12 flashes of light in an oval like formation around the two lights that looked like stars.  I observed this for a little over a half an hour and then around 12:15 am it just totally vanished.  We have a clear, starry sky so there were no clouds to block it from view.  It was there and then it just (as I said) vanished.    I tried to photograph it with my digital camera but the pictures did not turn out.  I did however draw a diagram of the star formation it was near to in order to give an idea of where this appeared in the sky.  I have photo copied the outline drawing and am emailing it to the link below.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100181.html](http://www.nuforc.org/webreports/reports/100/S100181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wickliffe (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>I was night swimming with my daughters and we talked about ufos.  I remember seeing a guy pray on youtube and ufos appeared and as iv had sveral sighting out here i figured i would try it.  Nothing happened.  My kids went in and as i was drying off i noticed a security light at the neighbors that i hadnt seen before.  Then to my surprise it lifted off.  I was about 2 yards or so from it.  I started yelling trying to get my wife to come out but she refused so i got my camera and started to shoot but my camera froze uo.  I think i have 1 fuzzy pic, but i watched it take off the the se after a short time it turned east  it was very large and appeard to have either a trail craft or a tail.. so crazy.  It was lit up and you could clearly see lights all around the middle if the craft. I was amazed. Im a disabled combat vet  served in iraq  inwas in the 101st airborne for 4 years. I was a 50 cal gunner in iraq i was a trained observer .   This was not natural. Iv had whit! e and orange orbs fly over my head before amd iv been under a black triangle. This thing was the oddest.  Please feel free tonuse this report amd call me.  Id really like to know if anyone else witnessed this amazing craft    .. it sat there looking like a security light for 45 min... it was watching us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128506.html](http://www.nuforc.org/webreports/reports/128/S128506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
