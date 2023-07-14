@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:19 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:27 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Potters Bar (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright orange oval ojects sighted in the sky travelling EastTwo extremely bright orange ojects flew across my vision of the sky.  A third followed behind.  They were oval in shape and definately not planes, helicopters or anything I have ever seen before.  I called my husband, who is extremely cynical, and we could not believe what we were seeing.  I race upstairs for my camera and tried to take a picture.  The crafts had not stopped so were further away and the pictures are really poor.  I also got my binoculars and we viewed one of the ojects which was incredibly bright orange, like a ball of fire, in the centre with a halo around it.  We watched until the objects were no longer in sight.  We contacted the BBC, Sky News, The Sun and the local Police who informed me there had been other reported sighting of the same which were seen in the local vicinity at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64548.html](http://www.nuforc.org/webreports/reports/064/S64548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Endicott (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Strange light anomoly in the southern sky over Endicott, NY.Looking almost directly south I observed what I thought to be two stars lined up with each other, but noticed flashing lights. I live on the approach way to the Binghamton airport and thought it was perhaps a plane.  However, this light anomaly didn't move; it remained stationary.  I managed to count at least 12 flashes of light in an oval like formation around the two lights that looked like stars.  I observed this for a little over a half an hour and then around 12:15 am it just totally vanished.  We have a clear, starry sky so there were no clouds to block it from view.  It was there and then it just (as I said) vanished.    I tried to photograph it with my digital camera but the pictures did not turn out.  I did however draw a diagram of the star formation it was near to in order to give an idea of where this appeared in the sky.  I have photo copied the outline drawing and am emailing it to the link below.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100181.html](http://www.nuforc.org/webreports/reports/100/S100181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
