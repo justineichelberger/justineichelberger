@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:29:01 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:28:17 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lt Kingshill Highwycombe (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green Light seen to pass east to west looking south , no sound heard.I had just gone outside to shut my garage door ,when I noticed what appeared to be a green flare in the  western sky. The cloud cover was sparse and the sky was darkening after sunset. I live under a flight path from London Heathrow and do not normally take any notice of aircraft ,but as this made no noise and was exeptionaly bright it caught my eye. the sighting lasted only a few moments but the object seemed to be quite low (1-5000 ft)and traveling at speed.when I returned inside I asked my wife if she had seen a light outside in the sky and she answered that she had seen a bright geen aircraft light travelling E-W.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08356.html](http://www.nuforc.org/webreports/reports/008/S08356.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Meadville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Shiny high velocity object following airliners performng extreme manuvers.Seen shiny sphere following multiple commercial aircraft.  Craft flew a horizontal line, stopped motionless the flew erratic loops the made dramatic 90 degree turns at extreme velocity the disappeared.  This happened 3 times at 10 -15 minute intervals.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147590.html](http://www.nuforc.org/webreports/reports/147/S147590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
