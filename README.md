@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:22 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bremerton (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The object  changed  colour and flashed.I went outside to use my telescope. Then I looked at the sky, and a white line was in the sky. It was flashing and changing colour it went all around the sky.  Then it took of in the horizon.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38140.html](http://www.nuforc.org/webreports/reports/038/S38140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Potters Bar (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright orange oval ojects sighted in the sky travelling EastTwo extremely bright orange ojects flew across my vision of the sky.  A third followed behind.  They were oval in shape and definately not planes, helicopters or anything I have ever seen before.  I called my husband, who is extremely cynical, and we could not believe what we were seeing.  I race upstairs for my camera and tried to take a picture.  The crafts had not stopped so were further away and the pictures are really poor.  I also got my binoculars and we viewed one of the ojects which was incredibly bright orange, like a ball of fire, in the centre with a halo around it.  We watched until the objects were no longer in sight.  We contacted the BBC, Sky News, The Sun and the local Police who informed me there had been other reported sighting of the same which were seen in the local vicinity at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64548.html](http://www.nuforc.org/webreports/reports/064/S64548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
