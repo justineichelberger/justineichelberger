@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:21 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garden City (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>lights appeared in the sky for short periods 3 to the cell 3 to the north eventually they came together at 6 followed by individual lashes for periods of 15 seconds at most the light would come on and suddenly go out the light sweet, 14 short periods no standard time for it to reappear.  also witnessed what would be high altitude aircraft a very high speeds which could have been tracking aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111570.html](http://www.nuforc.org/webreports/reports/111/S111570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Hovering neon green, circular light, seemed to be unmoving and lower to the ground than normal aircraft.Hovering neon green light, appeared to stay in one place. witness was in a moving vehicle and stated that the light appeared to be in one stop the entire ride, or moving very slowly. shape of light was ovular, disk like, or circular. light seemed to be lower to the ground, lower than an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135274.html](http://www.nuforc.org/webreports/reports/135/S135274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
