@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kingston (Canada) (ON) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black S shaped spinning balloon hovers at noon, then takes off at a 45 degree angle back up into space within seconds afterOn July 14, 2017, at 12:15pm, I was walking west on South Bartlett St. in Kingston, Ontario, when I notice a black S shaped balloon, spinning aerodynamically a mile up in the sky, and a mile south east of me as though it was flat on the ground..I happen to be beside three guys work near a moving van and asked them to look up at the strange black thing in the sky.  They all stared with me for 30 seconds and I asked what they thought it was.  One guy said, "It's probably a drone..  Or probably not "with a puzzled look.  The other two said they thought it was strange.  I said its maybe a kite and continued walking to the corner, but kept watching the object.As I came to the corner, a tree blocked my view, but as I was able to see it again past the tree, I was shocked to see that it had projected itself in the trajectory of my eyesight and itself approximately 50-100 miles away and on a 45 degree angle that went straight towards space.I tried to grab my camera but didn't want to take my eye off it, and within 5 seconds, it was so tiny that it disappeared into the sky at a steady, but rapid speed.  I went back to the truck and asked the three guys if they had continued watching it after I left and they said no.I speculated it was like the object sensed it was noticed by me and took off when the guys stopped looking and when my vision was blocked by the tree I had passed.I am a average working man and haven't seen anything my whole life except for now two sightings ( including this one) in the last two years and I just turned 40.  Strange thing is I had just left my friends house after telling him a theory about how we as humans are the top predators and think zombies are scary, but if we had a new predator, an alien one, that we would find whatever shape the alien was to be horrifying and our instincts would change to fear the sight of them and that we would become uncivilized and not be able to be in groups, as we would be easily targeted by this new predator that we don't even know exsists yet.  For some reason I think such a horrible race of "monsters" exsists in space just waiting forsure numbers to get to a certain point like they have for generations.  Waiting till the earth is full of humans than coming down and harvesting us all spare a few to re- colonize.  Just a theory, but a mortifying one one is reluctant to ponder on.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be sincere and sober-minded.  We have encouraged him to have at least one of the other four alleged witnesses to submit a supplementary report, for confirmation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135145.html](http://www.nuforc.org/webreports/reports/135/S135145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mesquite (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>metalic or white no lightsThere were 5 circle and 1 boomerang , not all together maybe a minute apart.((NUFORC Note:  Witness elects to provide no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90887.html](http://www.nuforc.org/webreports/reports/090/S90887.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
