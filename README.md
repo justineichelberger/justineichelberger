@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:10:44 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2-red objects seen above Georgetown, KY.Wife & I were sitting on our back deck last night, when I spotted a large, bright red object coming from the NE & proceeding to the SW.   No noise noted.  Object was very large and no other lights were observed.  After 2-3 minutes, it left our sight and after another 2-3 minutes, it was followed by another identical object traveling along the same route and heading.   Elevation was estimated to be around a 1000 feet and object thought to be from 3/4 to 1-mile away at its closest point.  Speed was much faster than a helicopter, but somewhat slower than a fighter jet.  At one point I though I detected a reflection of its light on some surface at the object's rear, but I could be 100% positive about that.  Most air traffic in our area is from N to S and the only E-W traffic we see is usually at very high altitudes.  Frequently, we see choppers from the KY Nat. Guard, but these were definitely not choppers.  Any ideas?  Objects were almost beautiful, but unnerving at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100165.html](http://www.nuforc.org/webreports/reports/100/S100165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange-red flickering ball floating over lake Erie west of the Cuyahoga river.  Floated then took of upward and west until disappeared.Flickering orange-red ball over lake Erie just west of the Cuyahoga rRver.  The object was just kind of floating and almost did a slow figure eight pattern.  Then it took off directly up and west until it disappeared.  I got a really crappy picture that basically just shows an orange-red ball.  I saw a similar object floating over my apartment building about a year ago. The apartment sits in downtown Cleveland on lake Erie.  There was one other witness to that sighting and we both went outside to get a better look and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82476.html](http://www.nuforc.org/webreports/reports/082/S82476.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
