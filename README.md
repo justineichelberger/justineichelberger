@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:27 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:29 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Baseball sized pink object over head.As reported to Oregon UFO Research...This witness reports getting off his computer and going outside for a moment. Standing out in the summer evening he looked strait up and noticed a slightly glowing pink object about the size of a baseball but could see no form to it. He then stepped out back to see if his dogs were fed and when he returned he looked up again. The object had now began to move from a hover exactly straight overhead to more of a southern position. He reports that the object moved in a "fluttery manner without sound". He then ran in and grabbed his son to view the object as it moved slowly to the south out of view.The witness writes..."Another object way higher and about the size of a pee went over head in exactly the same direction...this one had a white look to it and a small red light. It wasn't an airplane. I have seen too many airplanes now to know this wasn't it. It flew in the same odd manner as the first object".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23854.html](http://www.nuforc.org/webreports/reports/023/S23854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in El Monte/Monterey Park (between) (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Gray oval teardrop shaped craft flying over LA County.I was riding on the Metrolink from San Bernardino to the Cal State LA station, seated on the side of the train looking south.  Listening to music and watching the scenery pass by I looked up to the sky at about a 35 to 45 degree angle and saw what at first I took to be a airliner that was traveling east to west.  I quickly realized that the shape was not right and that it was not a more whitish color.  It had more of a gray metallic look, and there seemed to be no wings. This happened rather fast and when I wanted to try to study it more the train passed a few buildings that blocked my view, and when the train passed the buildings, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76575.html](http://www.nuforc.org/webreports/reports/076/S76575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
