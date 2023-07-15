@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:24 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bath (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>i saw it moveing from east to west it looked like a very slow fireball it had a pulsating light then it just turned offat approx 22.20 i saw 1 object about the size of venus moveing from east to west this object at first looked like an aircraft on fire but was moveing very slow the light was pulsating i observed for about 6 mins the object appeared to be lower than the cloud base as it was twilight it did not go behind clouds and then sudenly went out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13467.html](http://www.nuforc.org/webreports/reports/013/S13467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Winfield (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>extremely bright light moving at Moc 12 North to South from Wichita Ka to the So. Horizon in less than 8sec.We were travelling so. towards Winfield Ka. after midnight riding in the back seat of my wife's fathers car.  I was sitting on the left,east,side of the vehicle.  A extreemly bright light caught my eye from the rear window of the vehicle it descended from the North side of Witchita Ka. above 20,000ft. leveled off about 1-2K feet above the ground headed directly towards Welington Ka. AS it flashed by the car on the west side my wife saw it also.  It continued in a straight line with the exception of one very little jump up and back down, maybe 500ft, untill it approach my visual horizon then it shot straight up out of sight.  This entire display laster less than 8 sec. The outline of the craft was hidden behind the brilliant light,  it did not light up the area as it travelled above the ground, as a bright conventional light would do.  No sound was hear, conventional aircraft moving at that speed and altitude would have a signature boom.  The speed would have been in the Moc 12.00 range. The object did not change color as it went verticle, It did not repeat.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13708.html](http://www.nuforc.org/webreports/reports/013/S13708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
