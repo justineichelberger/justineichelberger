@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>check your home movies of apollo 11filming apollo 11 launch from the beach at garfield st,as with other launches.with hand held 8mm camera w/o telephoto lens.filmed till lv was out or sight,centering on the apollo craft.when film was developed it clearly reveals an object coming out or the ne and approaching apollo 11,hovering for a look,and then speeding away at aspeed which makes apollo 11 appear to be stationary.i was unable to get any info,other than some who wanted me to give up custody of the film.i was employed at nasa hq bldgas an in-house contractor at the time and knew that all their filming is with telephoto at longer range.iwas filming skyward approx 15 miles away.this object appears in the same frames as a known object at aknown height and speed .others filming in that vicinity should have recorded the same object,but i didnt know it was there until the film was developed.((NUFORC Note:  We have requested copies of the film.  We are uncertain of the date of launch, but we presume it occurred approximately 5 days before the first landing on the Moon.  We will attempt to comfirm the date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15051.html](http://www.nuforc.org/webreports/reports/015/S15051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New Mexico (north; while fishing) (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>We didn't here anything, or see anything for that matter until later.My brother in-law and I were fishing in northern New Mexico last July. He took my picture and we saw the object on the digital image of the camera later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54672.html](http://www.nuforc.org/webreports/reports/054/S54672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
