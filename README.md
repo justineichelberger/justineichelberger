@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:21 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in New Mexico (north; while fishing) (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately ? - ? minutes.</sub><blockquote><sub>We didn't here anything, or see anything for that matter until later.My brother in-law and I were fishing in northern New Mexico last July. He took my picture and we saw the object on the digital image of the camera later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54672.html](http://www.nuforc.org/webreports/reports/054/S54672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Highland (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>triangle shape one solid coller yellowish two of them came so close to each other one made a complete digital circal around the other one they both took off seprate ways it was unbelievable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83161.html](http://www.nuforc.org/webreports/reports/083/S83161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
