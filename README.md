@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:19 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright orange fireball Vero Beach, FL 4-15-17 1:45 AMAt approximately 1:45 AM Eastern Time, I was walking my dog, and as usual, stargazing.  As I walked down 40th Ave., towards 12th Street in Vero Beach, Florida, I saw a large fireball appearing light falling to earth, at approximately 45 Degree angle, but curving, not coming straight down.  The ball of light lit the clouds orange, as it went behind the cloud and below the tree line, and out of sight.  There was no sound at all and I watched the area of the sky for another 10 minutes, but I saw nothing more.  It looked like the video of the Russian Chelyabinsk Meteor that came down in 2013, before the explosion and nowhere near as bright but the trajectory as this orange ball of fire was on a very similar angle.  I did not see a tail or trail behind it, and it appeared to move at a uniform speed, but slower than one would expect a meteor to fly.  This was amazing to watch, I hope I can find out more out about it.  I noticed my dog that is a wolf hybrid, seemed mesmerized, and watched it, as I did, until lost from our sight.  My dog just stood there and continued to stare in the direction we had seen the fireball fall behind the tree line for several minutes.  Direction when I first saw the fireball it was at about 94 degrees East and at about 45 degrees up with the flat horizon being 0 degrees (I do not know the proper term here), and I lost sight of it at about 104 degrees NE at a height of about 25 degrees.  It traveled that space in between 15 and 25 maybe 35 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135164.html](http://www.nuforc.org/webreports/reports/135/S135164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Bath (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>i saw it moveing from east to west it looked like a very slow fireball it had a pulsating light then it just turned offat approx 22.20 i saw 1 object about the size of venus moveing from east to west this object at first looked like an aircraft on fire but was moveing very slow the light was pulsating i observed for about 6 mins the object appeared to be lower than the cloud base as it was twilight it did not go behind clouds and then sudenly went out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13467.html](http://www.nuforc.org/webreports/reports/013/S13467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
