@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sayreville (near) (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cylinder with round top and blue lights, in the sky above route 9 south jughandleIt was early morning, not sure of the exact date, but I believe it was summer and sometime between 1999 And 2001.  I was on the phone with the my boyfriend ( at the time, now my husband) and was traveling south on 287.  I approached my exit for route 9 south and had just passed under the riverside dr bridge to get onto the jughandle.  Just as I passed under the bridge I noticed bright lights above me.  I was still driving so I was trying to keep my eyes on the road also.  The object looked like a can but with a round top and the bottom had light blue lights in a circular shape underneath it.  As I had said I was on the phone with my boyfriend and telling him this as it was happening (he thought I was nuts!).  Anyway by the time I had made my way around the jughandle to the top of the bridge, it was gone.  I have looked at sites about sightings and I haven't found anyone who has ever seen the same thing…((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127292.html](http://www.nuforc.org/webreports/reports/127/S127292.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Aspen Cove (Canada) (NF) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Rocket shaped ufo and ball of light across skyI was only a kid, about 13, and was playing at the local playground.  Across the water, towards Fogo Island, a bright ball shot across the sky with kind of an eletrical trail behind it, at the same time, west of me, there was a rocket-shaped thing, shooting straight up into the sky until it disappeared out of of atmosphere I guess.  It was hazy while I seen it, but I could distinctly see that it looked just like a rocket from NASA, it looked huge.  And it was flying upward very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87481.html](http://www.nuforc.org/webreports/reports/087/S87481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
