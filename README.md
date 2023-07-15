@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:19 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Highland (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>triangle shape one solid coller yellowish two of them came so close to each other one made a complete digital circal around the other one they both took off seprate ways it was unbelievable</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83161.html](http://www.nuforc.org/webreports/reports/083/S83161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1988, an anonymous witness in Connell (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>glowing oval-shaped aircraft were seen flying at fast speeds and shifting direction and stoping without slowing down periodically troughout the night.My brother and I were sleeping outside in the summer.  I was about 11 years old and my brother 8 or 9 years old.  We watched objects about the size of the moon move in ziz zag paths, stopping without slowing down, and dissapearing throughout the night.  This happened aproximately 8 times.  We were too frightened to move.  It was a clear night with no clouds. This was no aircraft that I have ever seen.  the object was oval in shape, with a solid, yellowish radiance.  My brother and I aare both sane and can still recall the incident as if it was yesterday.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03599.html](http://www.nuforc.org/webreports/reports/003/S03599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
