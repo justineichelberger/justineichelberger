@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:27 on 14 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Seaside (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We we're walking back to our house as we we're coming back from Stargazing.  Then up off in the distance we saw, what appeared be, 3 balls of soft light at each corner forming a triangle and moving in unison.  It hovered in the sky for a second, moved up, zig-zagged quickly, then shot forward with tremendous speed.  Sky's were clear.((NUFORC Note:  Original date is flawed, and we have corrected it, in order to reflect a sighting on Saturday night, July 14th, 2018.  We will contact the source to confirm.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142248.html](http://www.nuforc.org/webreports/reports/142/S142248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Paso Robles (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Submarine saucer in the skies- daylight!I picked Cigar shape, but it was more like a submarine sandwich shape.I was driving home my in-laws after a visit in the countryside of town. I glanced over at the hills and saw this HUGE thing hovering over the hill. Looked like a saucer but mor oblong in shape, like a sub sandwich. I had to pull my car over to look at it again (in case another car came by) I just sat there flabbergasted and looked around to see if anyone else was around to share in this experience, but there were no cars, and this was in the middle of the afternoon. I did not have a camera with me, and this was before cell phones. It was massive, and I do not remember a lot of  the details except that I didn’t see any lights on it, but what MAY be a few black windows? I am not sure. However, it didn’t last long and it disappeared straight up into the sky and vanished.Nobody believed me when I got home sadly, and my husband said not to tell anyone else because “they will think you are crazy” is what he said. I often think about that day, and I have shared with a few people since then. Seeing this site, I see there have been many! I am trying to go through all the stories and locate the exact date to see if anyone else may have seen the same one I did. But I’m not exact on the date. I only remember it was late 80’s early 90’s because it was after my son was born. On Lake Nacimiento Road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164074.html](http://www.nuforc.org/webreports/reports/164/S164074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164055.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164146.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164468.html)
-- [414](http://www.nuforc.org/webreports/reports/157/S157634.html)
-- [413](http://www.nuforc.org/webreports/reports/157/S157663.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
