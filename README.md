@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:29 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:25 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lake Fork (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light illuminates area and then turns and moves away without any sound	Fishing at night, the air was calm and I could hear the crickets on the shore. Suddenly, I was blinded by a bright light from directly overhead. My first impression was that an airplane was coming directly down at me with it's landing light on . I thought it would crach into the lake at any second. I looked around me and could see that the immediate area around my boat was illuminated by a white, bluish light. I could tell that the object overhead was turning as I could see the light on the water moving away from my boat. I looked back into the sky and could tell that the object was rotating and was not coming at me any more. I thought the "plane" was now safe and would not crash, but the "plane" continued to move directly away from me into the atmosphere and did not fly sideways (parallel to the horizon) as I had expected it to. The object finally disappeared into the night sky. I thought how quiet it was and that I did not hear any noise from the object, but I could still hear the crickets on the shore. The light was steady and did not blink and the object made no sound. Being blinded by the light at first, I could not really tell how high the object was, but it was fairly close and the light was very intense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04791.html](http://www.nuforc.org/webreports/reports/004/S04791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>slow yellow sphere bright yellow light blinking out after 4 seconds in outer space...watching clear sky at 23:00 hrs with friend. In what seemed to be very high in the sky (outer space) we saw a yellow sphere moving very slowly among the stars, then after 4 seconds the sphere blinked out.No noise, not a satellite not a shooting star or meteor. Appeared to travel very slowly and blinking out after 5 seconds of sight. my friend saw it three times, I saw the object once for 4 seconds then blinked out. very similar to report in woodlands california reported on this site... thnks. Canadians...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38502.html](http://www.nuforc.org/webreports/reports/038/S38502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
