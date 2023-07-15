@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:09 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:29 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1958, an anonymous witness in Novato (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>saw saucer in large grass field it took off straight over vehicle went into sky and dissappearedMy father and I were returning from a hunting trip in Ukiha CA.  It was on a Sunday 5:30 p.m. on 101 hwy south.  We saw this shiny greyish object about 30 to 40 feet in diameter next to the edge of SanFrancisco Bay.  The reason why we noticed it was the field had caught a fire.  Then the object took off almost in a 45 degree angle straight toward us which was west and it was moving at such a great speed that after a few moments it just got smaller and smaller until it dissapeared.  The saucer was totaly quiet.  It had no lights that we could see and it left the grass field totaly burning.  My Father was an opperating engineer all his life.  He always wanted me not to talk about it because people would think that we were crazy or something.  And for myself I am 56 years old and don't care what they say.  My Dad is passed away so there is no one else that could back me up except if anybody like fire departments, the farmers, or anyone else that had seen the fire, or the saucer itselt.  I would like to know if there was a report around that area and time, that would make me feel a little better.  I am very mechanicaly inclined and know that this was not something that the US had developed for a few years later I saw the nasa research flying saucer in the old hanger at Mofet field in Mountain View CA and it was nothing in comparison to what my father and I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03246.html](http://www.nuforc.org/webreports/reports/003/S03246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lake Fork (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light illuminates area and then turns and moves away without any sound	Fishing at night, the air was calm and I could hear the crickets on the shore. Suddenly, I was blinded by a bright light from directly overhead. My first impression was that an airplane was coming directly down at me with it's landing light on . I thought it would crach into the lake at any second. I looked around me and could see that the immediate area around my boat was illuminated by a white, bluish light. I could tell that the object overhead was turning as I could see the light on the water moving away from my boat. I looked back into the sky and could tell that the object was rotating and was not coming at me any more. I thought the "plane" was now safe and would not crash, but the "plane" continued to move directly away from me into the atmosphere and did not fly sideways (parallel to the horizon) as I had expected it to. The object finally disappeared into the night sky. I thought how quiet it was and that I did not hear any noise from the object, but I could still hear the crickets on the shore. The light was steady and did not blink and the object made no sound. Being blinded by the light at first, I could not really tell how high the object was, but it was fairly close and the light was very intense.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04791.html](http://www.nuforc.org/webreports/reports/004/S04791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
