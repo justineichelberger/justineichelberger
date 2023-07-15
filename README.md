@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:28 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:23 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Wommelgem (near Antwerp) (Belgium) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three moving, turning lightnings going to one direction who than suddenly dissapearedI'm 18 years old now, when I had the experience, I was 11 years old. I live at the border of the city Antwerp, Belgium. I was in the garden in front of our house. It was allmost midnight and was giving water to the flowers at the front-door. I had my face to the door, as my brains suddenly "noticed" that there was something to see at my left side, because there was light shining in my left-eye. So I directly looked at the left, and I still don't know what I saw... There were three lights, in the formation of a triangle, they did NOT chance their colours, and there was NO light in the middle of those three other lights. When I looked at those lights, it was like th u.f.o. "noticed" that, because the three lights were turning like a circle and was moving slow to the right. After let's say 2-3 seconds they slowly dissapeared, I don't know the Enlgish word for that: they were just suddenly gone, like a candle that goes out... It was really weird, because it seemed like the lights just strted to move as I looked, and even mor weird is, suppose that that is the fact, the lights were approximately 30 - 40 houses further... I remember that I slept with a knife in bed for several weeks... I was really scared at the beginning, but now not anymore, if it really was extraterrestial life that's intelligent, then they wanted that they were spot... That's what I think... I know it's a long time ago for me, but I know what I saw, I'm not the person that reads a lot of u.f.o. books and stuff and I've got a normal life... Your site is the first one who I told this story to...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28860.html](http://www.nuforc.org/webreports/reports/028/S28860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flying Object in Space that sped away quickly.We saw a fast moving bright object very high in the sky and the object was too far away to be a plane. The object was not blinking either and seemed to be speeding up as we were watching it. We witnessed it for about 20-30 seconds until it sped off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164123.html](http://www.nuforc.org/webreports/reports/164/S164123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
