@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:08 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:13:18 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cheshire (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was outside in my yard when I saw the bright orange objects  in a triangle patteren as they move across the sky.The crafts apeared to to flying in a triangular pattern flew very very slowly  for a minute or so then one of the craft then appeared to fly below or above the other and dissapeard then there appeared to only be two crafts the color of all of them at the time was a bright orange color the the other crat that dissapeared for  about 30 seconds reappeared and was a bright silver or white color before it turned back to the same color as the other two craft they continued to move accross the sky at the same speed for another 30 seconds or so then all of a sudden they all took off at the same speed and shot across the sky very quickly out of sight  flying from the North to the south southwest.never braking the pattern of a triangle shape the sky was perfectly clear and no clouds. My dog whom was also outside with me barked at the object the whole time they were visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13517.html](http://www.nuforc.org/webreports/reports/013/S13517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Sudbury (south of; on Hwy 69) (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object paced a line of trucks for approx 1/2 hour.Object appeared to be oval for most of the event, changing to cigar shaped, tapering to rear when it left.  Neon orange, with shifting reds.  I am ex-navy, object appeared to be the size of the USS Ranger.  I do not want to believe this thing was a craft.  I would love to entertain any other explanation.  I can't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08436.html](http://www.nuforc.org/webreports/reports/008/S08436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
