@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tehran (Iran) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>two yellow light subjects with stable speed but changing their place with each other crossed the sky in a straight way in plain heightsWe were 4 on the roof and we saw 2 subjects like stars but a little yellow.  hey had no sounds.  they were crossing the sky in a straight line but they change their place with each other frequently in 180 degrees and then they return to their previous situation.  with this harmony they croosed the sky with a stable speed.  their light were mat and turbid.  they went further and further till they disappeard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128502.html](http://www.nuforc.org/webreports/reports/128/S128502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1982, an anonymous witness in Baker Lake (rural WA) (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>UFO makes 90 degree turn while maintaining velocity.I'm a design draftsman, ex-Navy, and 38 y/o at the time.  Two families of us, with kids, were spending a weekend at a VERY rustic resort in the Cascade Mountains, many miles N.E. of Burlington/Mt. Vernon.  The resort shuts off its power at 10 p.m., so most everyone went to bed.  My stepson (he was 12)and I went to sit on the beach above the lake and were just talking and watching the sky for "shooting stars".  Now and then we'd see a satellite pass.  I might note that the sky was clear, stars very bright, as the lake runs for miles in a north-south direction with mountains jutting high on the sides ... no lights other than Nature's.Anyway, one of us points out what we thought was another satellite, but moving a bit slower and with a slight coloration to it .. I want to say a mottled orange.  It came from the east, and as we watched, it would have passed directly east/west, when it suddenly changed direction 90 degrees and passed over us going due north.  What was a mind blower at the time is that it never changed speed, but made the turn while maintaining velocy.  It disappeared over the horizon to the north.We joked about the aliens being all jammed into one corner of their ship from some neophyte driver's hard right turn, as he wanted to go visit Santa Claus.((NUFORC Note:  Virtually no man-made satellites travel from east to west.  If, in fact, that was the direction the object was traveling, and the witness seems certain of that fact, then the object almost certainly could not have been an artificial, I.e. man-made, satellite.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36118.html](http://www.nuforc.org/webreports/reports/036/S36118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
