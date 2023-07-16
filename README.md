@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Edge water (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Curved UFO with four lightsI saw four lights that consistently lighted in the sky. Bacisaly, it's  a little curved circle with four lights on that, while two lights are on the each curved side. These four lights attracted me, coz they are constantly in little vibration, which is very impossible for a air-craft or a bug. And the light vibration with those four light fly in a curved shape from left to right. Thsi happen when i was ridign a car wiht my friend to a motel along water street.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38173.html](http://www.nuforc.org/webreports/reports/038/S38173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I stepped out to check something on my car, and immediately saw a large orange ball in the black of the sky, which was very slowly moving toward my house.  No sound.  I ran inside to get my daughter. When we came back out, the ball had stopped moving and was now suspended in the air, alarmingly close above the neighbor's roof. (Perhaps 200 feet?)  We stood fixated, watching the object, guessing what it may be.  As we were talking, we observed three tiny orange lights blink in consecutively, below the ball.  The small lights were below the object "pearled together" at an angular slope of about 45 degrees.  Once they blinked in, they began rapidly pulsating, one after the other, consecutively.  Then, the big ball began shrinking slowly, and while it shrank, the little lights blinked out a few seconds later, again, consecutively.  Then, the big ball faded out of sight, as well, right on the spot where it had been.  Because the object was not moving, and hovering low, at t! he time it faded out, we thought it had cloaked itself.  After that I made a report to MUFON.  I am now reporting it here, as well.  (We did not panic, were not afraid, had no unusual physical sensations, but we were stunned.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82802.html](http://www.nuforc.org/webreports/reports/082/S82802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
