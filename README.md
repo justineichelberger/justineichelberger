@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:23 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>brilliant green shooting star</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18488.html](http://www.nuforc.org/webreports/reports/018/S18488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Benbrook (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Sml glowing object appeared out of nowhere, remained motionless, moved rapidly in straight line, stopped again, then vanishedI was driving on 377 from Benbrook to Fort Worth, Texas at around 11:30 at night. Close to the crossover of 20 and 377 I saw a small glowing light appear from nowhere and shoot up maybe 50 feet into the sky (not very high). It grew as it shot up into the sky. When it was shooting up and growing, it moved in a natural curve motion. It left a glowing trail that followed it. Then it suddenly stopped. It stayed suspended in air motionless. Then it suddenly moved to the left and down increadibly fast and perfectly straight. During this, it remained the same size. It suddenly stopped again and stayed motionless. Then it just dissapeared into thin air. This object seemed small...maybe 2-4 feet. It was a bright white-yellow light. I heard no noise nor did my radio or car stop working. The wierd thing was that it happend so close to two highways. Other people must have seen it also! At my job, I look at goverment aircraft all day...including unmanned aircraft. I have seen some wierd aircraft that never made it to full production. I am telling you that this was something I have never seen before. It came out of nowhere and vanished into thin air.The night was clear, no storms or rain...although it may have rained earlier in the day. I was alone in my car returning from a horse show. I was totally and completely sober.I did tear up and get emotional and my heart was beating really fast. I did not feel threatened by the oject, but I did have an emotional responce.  I could not sleep that night.I would like to know if anyone else witnessed it.A friend said four military helicopters flew REALLY low over his country house early the next morning...his widows were shaking, dogs barking, objects falling. He said it looked like they were on a mission and he had never seen them fly so low before. This may not have anything to do with what I witnessed. I will try to send you maps and sketches</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45138.html](http://www.nuforc.org/webreports/reports/045/S45138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
