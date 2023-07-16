@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parlin (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>UFO CHASED MY MILITARY AIRPLANE.CIRCULAR OBJECT, WITH RED SPOT IN THE CENTER, WAS CHASED BY MILITARY AIRCRAFT F22 FOR AROUND 3 HOURS CHANGING ITS POSITION INSTANTLY, MILITARY AIRCRAFT WAS REFILING AT LEAST TWICE IN THE AIR SEEMS LIKE REGULAR AIR TRAFFIC WAS STOPPED IN THE AREA.((NUFORC Note:  We are uncertain as to whether this is a serious report, or not.  We have sent an e-mail to the source, requesting more information about his description above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135196.html](http://www.nuforc.org/webreports/reports/135/S135196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Hill (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo over Western Washington July 16th, 2010My daughter and I were outside and this object went above us heading straight due north.  It was a light silver colored disc with a bottom that was about half the size of the craft. The half round bottom looked as though it may have been translucent (it's color was grayish and slightly opalescent.  When the craft passed over what was probably SeaTac airport, it became very, very bright and looked like a star.  But only roughly 6-7 seconds later, it dimmed again and we could still see it's disc/orb outline. We watched it as far as our eyes would allow for.  My daughter mentioned the uncanny lack of air traffic as this object moved over the airport area.   About two minutes after we could no longer see it, we saw a plane come from the airport area.  We did not observe the object come from the South; it seemed to just appear in the sky out of nowhere.  It was east of us when looking north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76614.html](http://www.nuforc.org/webreports/reports/076/S76614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
