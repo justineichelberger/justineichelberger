@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:28 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:29 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sister Lakes (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>V shaped object, no lights, quickly flew across clear sky.Clear sky in the south, 2 witnesses saw a V shaped aircraft in the sky on July 16, 2010.  The aircraft appeared to have a wavey marage like look surounding it.  The object had no lights lit, and moved quickly.((NUFORC Note:  Date shown is flawed.  We have amended the report to reflect the date indicated in the text above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76579.html](http://www.nuforc.org/webreports/reports/076/S76579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lower Allen (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>similar to new jersey sightings ,lead to gatheringI think this might be related to new jersey sightings. While driving north toward lower allen   I saw a light  moving east it moved near a cloud and seemed to stop. As I continued driving  the light sort of moved away and faded out. You might say it zipped off rapidly. Just wondering if any of these sightings were seen on any radar?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18519.html](http://www.nuforc.org/webreports/reports/018/S18519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
