@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:26 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:26 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Mont-Tremblant (Canada) (PQ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Light in the sky, Missing time, Orange Giant Saucer, 3 witnessesOrange Light changing to white and blue in the Sky coming from behind Moon silently moving s-w-n-e around trees. Giant Saucer shape with size of at least 2 football fields observed with binoculars when object appeared hovering over house. Missing time, rude awakening in bed early in the morning after one family member is screaming of terror after having a vision of a big white dog looking over the bedroom window. no trace of any dog outside.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32319.html](http://www.nuforc.org/webreports/reports/032/S32319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Was watching two bats fly around the sky over my house.  In the backdrop of a fading pink sky I noticed what I thought was a jet leaving airport.  Since it is just to the south of me that was my first thought.  That point I realized that there wasn't a sound being produced and it was headed towards the ground faster than a jet could travel or any man made craft for that matter.  Best way to describe it was a green fireball with greenish-whiteish tail/trail behind it.  Only lasted for a few seconds at the most.  I even waited for a crash or explosion sound to rule out any crash that could've happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142296.html](http://www.nuforc.org/webreports/reports/142/S142296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
