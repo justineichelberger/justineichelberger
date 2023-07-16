@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:25 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Stockport (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large black spherical shape just above tree height. Changed shape firstly into 2 black semi circles then into large semi circ1e with cigar shaped base. Become like the  classic cartoon style space ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38143.html](http://www.nuforc.org/webreports/reports/038/S38143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>July 17, 2010,  around 11:35 pm in san pedro ca a bright red light  coming straight fom the top of the buildingMy mom was outside of our apartment building when she screams myself (24) and my younger brother run outside as we see a bright red and wine color light coming straight from on top of our building my mom looks straight in to the light and its so bright it hurts to look at the floor and the whole building capture the reflection of the light giving us red floor and red open space lasted about 25 seconds as we run back inside scared the light fades away as we look out the window we see what can only be described as a ufo it was a flying craft thaat looked as if it was spining giving red and orange and i believe green lights disapearing into the clear dark sky didnt sleep the whole night if my mom and brother would'nt have seen the same thing i did i would have thought i was going crazy i guess u dont believe till it actually happens to you no i wont be sleeping for some time one thing i havent yet figured out is at that time our cell phones dropped signal all 3 of us have different carriers((NUFORC Note:  We suspect that the correct date is July 16.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76610.html](http://www.nuforc.org/webreports/reports/076/S76610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
