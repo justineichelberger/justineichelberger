@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:14:55 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:24 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Saw multiple white lights moving at high speeds and disappearing and reappearing and also flashing on and off in formation at one pointAt approx 8:45 I went outside to see if I could see the comet, which I could not, and a white orb - no blinking at all -  caught my eyes to the NE.  It came down very fast and I've seen 2 lights similar to it in recent months so I turned on my camera on Iphone and recorded video.  It descended very fast and then hit what seemed to be a specific altitude and headed north at a slower pace and out of my view.  I stayed outside and then witness a very similar light to my north again that travelled west for approx 2 secs before disappearing.  It sort of faded into black within 1 second.  I waited for another 30 mins before witnessing what appeared to be 3 of the same lights in a triangle formation flashing on and off.  I waited for 20 more mins and did not see them again.  I will submit the video and a blown up image of the first frame. If you scroll through the video frame by frame you can see the distinct shape of the object.  Appeared disc shaped at times with! a dome.  I know how that sounds, but you can see the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157687.html](http://www.nuforc.org/webreports/reports/157/S157687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Edge water (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Curved UFO with four lightsI saw four lights that consistently lighted in the sky. Bacisaly, it's  a little curved circle with four lights on that, while two lights are on the each curved side. These four lights attracted me, coz they are constantly in little vibration, which is very impossible for a air-craft or a bug. And the light vibration with those four light fly in a curved shape from left to right. Thsi happen when i was ridign a car wiht my friend to a motel along water street.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38173.html](http://www.nuforc.org/webreports/reports/038/S38173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
