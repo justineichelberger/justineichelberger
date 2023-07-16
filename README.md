@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:26 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Was watching two bats fly around the sky over my house.  In the backdrop of a fading pink sky I noticed what I thought was a jet leaving airport.  Since it is just to the south of me that was my first thought.  That point I realized that there wasn't a sound being produced and it was headed towards the ground faster than a jet could travel or any man made craft for that matter.  Best way to describe it was a green fireball with greenish-whiteish tail/trail behind it.  Only lasted for a few seconds at the most.  I even waited for a crash or explosion sound to rule out any crash that could've happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142296.html](http://www.nuforc.org/webreports/reports/142/S142296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>This is just to bring your attention to a report I made 7/16/06 of a Circular object sighting close to Ohare Airport(5 miles), and another on 8/15/06 by someone else of a silvery spherical object.  Mine was on 7/16/06.  Perfectly circular object, slivery with kind of glowing quality.  I though I was looking at the bottom of a disk.  Bright sunny day with this thing sitting next to a cloud.  This would have been in the normal flight path from Lake Michigan to OHare Airport.The 8/15/06  sighting is in a neighborhood closer to Ohare. He or she describes a silvery sphere.  I keep wondering what this I saw. It has kind of changed my life.  Seeing is believing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53423.html](http://www.nuforc.org/webreports/reports/053/S53423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
