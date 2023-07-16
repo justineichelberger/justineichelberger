@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:25 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Oval whitish-yellow light levitating in sky, kept disappearing and reappearing before our eyes.On the night of July 16th, a quarter before 10 PM, my friends and I were sitting on the roof of our car on an isolated hill to look at the city lights when we spotted a strange light in the skyline. It was a small, ovular shape emitting a whitish-yellow glow right above a set of hills in the distance. We all watched in silence for a couple minutes and noted that it couldn’t possibly be a plane as we saw many passing above in the sky. However, as we were watching the light, it disappeared right before our eyes, almost as if a giant, dark blanket was thrown over it.While we thought it was strange, we weren’t convinced it was an alien craft. But, about ten minutes after the light disappeared, we decided to head out and drive to a new overlook location higher up. As we were driving to the new location, towards the hills where we saw the light, it reappeared in the sky, this time much closer to us. This time we saw that whatever it was wasn’t attached to a radio tower, building, or anything else; the ovular craft was simply levitating. And this time, much quicker, the light disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158442.html](http://www.nuforc.org/webreports/reports/158/S158442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rogersville (AL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Me and my friend were sitting on lawn chairs looking at stars when we seen a "ufo" type object fly over.  It had 4 lights. Me and my friend were sitting on lawn chairs looking at stars when we seen a "ufo" type object fly over.  It had 4 lights.  It was in a rectangular shape.  It flew over my house in Rogersville.  It took approximately 10-15 seconds to get out of site.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126401.html](http://www.nuforc.org/webreports/reports/126/S126401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
