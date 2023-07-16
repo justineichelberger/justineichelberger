@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:23 on 15 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Duluth (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>luminous orange half-disk winks on then offWhile this report is unlikely to distinguish itself due to it's reatively mundane specifics, it was nevertheless my personal observation of an unknown aireal phenomenon. I should note here, before I discuss the details of the sighting, that there are several important contextual factors that should not go unmentioned. First of all, I am an amateur astonomer. Several thousand hours spent watching the sky have yieled but a single event, an anomoly if you will. The implications of this are open to debate; however, I think these particular noctunal habits strongly suggest the presence of a logical way of observing natural and unnatural (artificial) phenomena. Secondly, I have had cognitive testing performed by a praticing psychologist, and the test results indicated a very high perceptual score. Apparently this psychologist has not seen such a score over the years, save for a "few" other examples. With these factors in mind, hopefully my report will be given serious consideration. As indicated above, this event took place sometime around 1992 or '93. The month was probably July, but it may have been late June or early August as well. I recall it was a clear, moonless (new moon, moon set early, or late rising) night, well after midnight, but not yet near twilight. A light breeze could  be heard in the pine and spruce trees. I was alone but with one other person, and we were sitting so that we faced, by chance, westward. My gaze, at one crucial moment, happened to be fixed on the cloudless sky some twenty degrees above the horizion. Very abruptly, as if someone had flipped on a switch, a luminous orange half-disk appeared directly in my line of sight. The half-disk moved parrallel to the horizion, from my right to my left, silent (as far as I could discern) all the while. After but a few seconds, it faded out, and I was to never see it again. I can recall other specifics related to this "object": it was of a luminous, dull orange color (my impression then ,as now, is that it was self-luminous); it displayed sharp borders all around and seemed quite solid in its makeup ; the flat section was actually slightly concave, thus it wasn't quite a half-disk; it appeared to travel with the aformentioned side in front; it left no trail or train that I could observe; it's apparent size was about 150% of the moon near first-quarter. It is interesting to note that orange half-moons as well as disks are not unknown in UFO literature, however the precise characteristics seem to vary from sighting to sighting.((NUFORC Note:  Date and time are approximate.  Witness indicates date in both 1980's and 1990's, and we have requested clarification from the party as to in which decade the event occurred.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34369.html](http://www.nuforc.org/webreports/reports/034/S34369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Stockport (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large black spherical shape just above tree height. Changed shape firstly into 2 black semi circles then into large semi circ1e with cigar shaped base. Become like the  classic cartoon style space ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38143.html](http://www.nuforc.org/webreports/reports/038/S38143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1172](http://www.nuforc.org/webreports/reports/164/S164123.html)
-- [1171](http://www.nuforc.org/webreports/reports/164/S164079.html)
-- [1170](http://www.nuforc.org/webreports/reports/164/S164662.html)
-- [1169](http://www.nuforc.org/webreports/reports/164/S164054.html)
-- [1168](http://www.nuforc.org/webreports/reports/164/S164095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
