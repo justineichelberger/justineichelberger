@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hatton (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On this date I was driving,(I am a Trucker) north on U.S. 395 between Pasco and Ritzville Wa at about 10:30 pm when I saw an orange ball I thought at first was a meteor but it traveled to slow to be one, but I remember me and my son watching one a few years back in Idaho where I live and everyone said it was a meteor, so I thought nothing of it until last night I heard the Indian man talking about the Orange sphere over in Washington state and if im not wrong it was about the same time I saw that thing in our skies, any way thats what I saw. It was probably about 20 feet across but I couldnt be sure it was going from east to west and it had a long blue\orange streak behind it. and it went behind the hills to the northwest of my position that would be about 26 miles south of I-90 on U S 395.A huge Orangish Ball, Drifting across the sky from east to west Landing behind some hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08446.html](http://www.nuforc.org/webreports/reports/008/S08446.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in North Bowers Beach (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A bright light the shot up in the sky and dissipeared for 3-5 min then came down about 20-30 miles away and made a cloud on the way up and back down.A bright light shot up into the sky and made something like a bolt of lightining going up into the sky, the light was only seen for about 5 seconds then dissipeared.  The object left a cloud in a stright line.  After the object dissipeared the cloud that was stright started to form a figure in the sky.  The figure looked like one of the aliens out of the movie "Mars Attack" with the big head small eyes and the only execption was this figure had a big nose.  Then after that started to dissipear the object came back down far away (about 20-30 miles) in a stright line.  The cloud it left behind was stright and looked like a dotted line.  As the object got closer to the ground it started to get brighter and brighter, as it was getting brighter the cloud that looked like a dotted line started to form the exact figure as when it went up into the sky.  After the object got so bright it stoped moving and started to form a mushroom cloud like when the atomic bomb went off.  That stayed bright and in the figure of a mushroom cloud for about 5-10 min then it was over.  This was not the first time its happened about 3 weeks ago the exact same thing happened and it was in the general direction as this time.  I was the only one not there for the first one.  Another thing was there was no moon in the sky at eather occasion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08391.html](http://www.nuforc.org/webreports/reports/008/S08391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
