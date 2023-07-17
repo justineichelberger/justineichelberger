@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:23 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Adelaide (Australia) (SA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was walking to school with my best friend, we both looked up at the same time and seen a large rectangular shaped silver object in the sky which was about the size of a large family wagon, sitting perfectly still about 30 ft above us.  It took off directly upwards at such a speed that it is really incomprehensible.  It's embarrassing to talk about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144205.html](http://www.nuforc.org/webreports/reports/144/S144205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lemon Cove (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My husband and I were driving by Lake Kaweah close to the main marina when I looked out the truck window and observed a disk shaped object stationary above a hill in a southern direction on the other side of the lake, I mentioned it to my husband, I continued to watch it, the sun was reflecting off this object which made it easy to see, it started to move in a northen direction away from the lake. We pulled off into the parking lot of the marina looked up and it vanished. We looked in all directions for several minutes and saw nothing. It was silver and from my eye fairly large and disk shaped, wobbley in movement, very reflective.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08461.html](http://www.nuforc.org/webreports/reports/008/S08461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
