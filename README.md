@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:29:35 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:12:51 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Scottsbluff (NE) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>When attempting to photograph "stars" next to the moon, we captured something entirely different with almost perfect geometric shapes.Driving SB from Scottsbluff, NE towards Kimball, noticed what looked like one very orange star next to the moon, after observation, appeared to be anywhere from one to five orange stars clustered to the moon, curious, we photographed the moon.  When picture was downloaded on computer, orange stars weren't visible, HOWEVER down below the moon is a perfectly round white circle and off to the right are also strange circular shapes which weren't seen by us at all when we were observing the moon.  Whats strange is when you zoom in on the lower circle you can see an almost perfect looking triangle in the middle, zoom back out and the circular shaes to the right almost appear to be trails (?) of the lower, smaller circle.  Someone said it was probably a star but I tried to take photos of stars later and they do not look like these circular shapes.  Later we recalled dashboard lights had blinked off three seperate times on the new veicle we were driving.((NUFORC Note:  Probably Mars.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29789.html](http://www.nuforc.org/webreports/reports/029/S29789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Haven (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights hovering across night skythree orange lights shaped as triangles hovering across the night sky..  they were moving at a constant speed about 3 or 4 mph.  I saw about 9 of them all coming from the same direction((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87720.html](http://www.nuforc.org/webreports/reports/087/S87720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
