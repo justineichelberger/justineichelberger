@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:26 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:23 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>large spherical bright lights moving in tandem perfectly horizontally across the sky,7 totatover 1o minutes,hovering stationarry and fawhile walking my dog at approx 1030 pm 7/17/2012,i observed two lights in the sky that were identicle traveling horizontally across the sky.first i thought it was planes,then realized they were too close together and were traveling too slowly. also there was no noise.the lights were pulsating,getting brighter then weaker.they appeared two be large spherical lights,im grossly estimating they were several thousand feet above the ground,and probably several miles away.as they slowly moved horizontally to the left across the sky,they remained an equal distance appart.then they appeared to hover stationarry for several minutes, then the farthest left light slowly faded out,and the one to the right moved further to the left to that some spot and hovered for a few minutes ,then faded out,and as one moved from right to left a new light appeared from the right(from behind a hillside),the lights were all exactly equal in size shape and color and activity.no noise whatso! ever,they always moved perfectly horrizontally across the sky and when they reached the far left point,hovered for several minutes,in exact position,did not sway left or right or up or down,and slowly faded out.and all the while were pulsating equally.a total of 7 lights were seen that traveled from right to left across the sky then faded out.all were exactly the same.and moved the same way,and always maintained equal distance apart.the whole thing lasted approximately 10 minutes.the lights were unusual in that they were large spherical,pulsating,some color change of white to red,equal,and very very slow moving.and that they remained stationary for periods of time.the possibilty exists that these lights were around a large rotating object because of the equal spacing,but only the lights were clearly visible.after 10 minutes the last light faded out and no further lights appeared.no noise at all ever.it was extremely hot this day approx 97 degrees in morgantown,and at this t! ime at night still about 90 degrees and clear skiy.very unusua! lly hot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90982.html](http://www.nuforc.org/webreports/reports/090/S90982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wyoming (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One light, morphed into two bright balls of light.Sitting outside and across lake saw a bright light, orangish color. Thought it was plane but looked too big and too bright for how far away it was. It appeared and then it turned into 2 lights, then the second light faded out and then the first one faded out as well. Then the light appeared again about a minute after and then faded out again. The lights stayed in one spot, disappeared and when it came back it appeared in same spot just sitting there. My husband took out phone and recorded it but it was hard to see on video, because he couldn’t zoom in very well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164175.html](http://www.nuforc.org/webreports/reports/164/S164175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
