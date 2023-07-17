@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:31 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Four large round orange lights, low in the sky for at least a minute and then disappeared.My husband and I were driving when off to our left we saw four round orange lights low in the sky. They were in a zig zag formation.  The lights were steady but we couldn't tell how low they were.  One light moved off a bit. I pulled over to look at them but they were gone. They were nowhere to be seen. I am a retired govenment worker and he is the owner of a machine shop.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111638.html](http://www.nuforc.org/webreports/reports/111/S111638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Trail (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Two low flying objects passed over top the Trail, B.C. Smelter.In the early hours of the morning two witnesses watched as two low flying objects passed over top the Trail Smelter. The men reported that the objects slowed at one point, (or looked like they had) then sped back up heading in a southerly direction. The described the objects as being very bright orange in color, with a halo, or haze around each of them. The objects made no sound as they flew by. Both men believed the objects were approx: the size of a compact car. This sighting lasted for approx: 4 seconds. Thank you to the witnesses for their report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm((NUFORC Note:  We express our gratitude to Brian Vike for submitting the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29843.html](http://www.nuforc.org/webreports/reports/029/S29843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
