@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:24 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving ball of light.While looking up during a building inspection, I saw a ball or circle, similar in appearance and size to a space shuttle reentry I saw several years ago in Vancouver BC. I saw it for about 20 to 30 seconds in which time it traversed the diameter of about 4 full moons. I was looking nearly straight up, and it went behind the building I was looking at. It was traveling from west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45078.html](http://www.nuforc.org/webreports/reports/045/S45078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>Clearly visible, stationary sphere, "takes off" after an hour or so of observationOn Thursday 7-17-03, myself and three co-workers (all engineers) were golfing at a local coarse when Chris, (one of the group) told us to look in the air at something he happened to see. His words were something like  take a look at that! That aint no @#$# plane. We looked up into a clear blue sky to see a stationary object at about a 55° angle, south southwest from our location. The object appeared to give off a "silvery" reflective light. The object looked like it was undulating or rotating in an irregular fashion because of the variations in light emissions. My first thought was that it was a typical small helium balloon that had been let go and was rotating and reflecting light as it climbed. But as we watched this thing it became apparent to us that it was not. This thing appeared to be very high. Its really difficult to say without any references, but I would take a guess at 50,00 ft. A lot of planes are coming and going at PDX and they all appeared to be way below this thing and it didn’t seem to be moving. It was breezy on the ground and I suppose it would be windy up there also, but this thing seem to stay in place with no apparent movement from wind, (as with a balloon) or slow movement by rotation (as with a planet or star) We finally had to move on, as we had golfers behind us. I watched the object in between golf shots as we played for a little while. About an hour and fifteen minutes later as we neared the last hole, Chris again brought the object to our attention, It appeared to be in the same area of the sky, but was even smaller (or higher) than before. I took my eyes off of it for a second, when Chris said it just saw it move to the right about eight inches (at arms length) and is now quickly climbing away. He tried to point to its location in the sky as it climbed, but it was too small for me to pick up. I would have loved to have some binoculars right then. This thing was very puzzling. Could it have been a weather balloon or an atmospherically distorted viewing of a! planet? Many other people had to observe this object as it was CLEARLY visible for at least an hour and fifteen minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29857.html](http://www.nuforc.org/webreports/reports/029/S29857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
