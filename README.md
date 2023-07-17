@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:20 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red triangle UFO's cause power outage and lightning.Bright pulsating red light in the sky  a second one appeared moving toward it they pulsated bright causing lightning and some near by objects to loose power  then a third object appeared causing more lightning two disappeared the third one one flashed bright bright red then vanish there was no clouds to cause the lightning</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135224.html](http://www.nuforc.org/webreports/reports/135/S135224.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hatton (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On this date I was driving,(I am a Trucker) north on U.S. 395 between Pasco and Ritzville Wa at about 10:30 pm when I saw an orange ball I thought at first was a meteor but it traveled to slow to be one, but I remember me and my son watching one a few years back in Idaho where I live and everyone said it was a meteor, so I thought nothing of it until last night I heard the Indian man talking about the Orange sphere over in Washington state and if im not wrong it was about the same time I saw that thing in our skies, any way thats what I saw. It was probably about 20 feet across but I couldnt be sure it was going from east to west and it had a long blue\orange streak behind it. and it went behind the hills to the northwest of my position that would be about 26 miles south of I-90 on U S 395.A huge Orangish Ball, Drifting across the sky from east to west Landing behind some hills.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08446.html](http://www.nuforc.org/webreports/reports/008/S08446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
