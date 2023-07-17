@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:11 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sighting of a matt black spherical UFO in the skies of Leeds ,UK after a plane journey to Paris,France .I had returned home (see address below)from a flight to Paris with my family on 17/07/97. When I arrived home ; I peered out of my sitting room window that faces east and saw a matt black spherical object moving from west to east over the roofs of the houses in the southern part of the sky . It was still day/evening time ie sky was blue . The object moved slowly ; although my father didn't see it ...who was standing next to me . Eventually it changed direction and moved away from me ...towards the moon . It travelled towards the moon in a position that seemed as if it were under the moon . I had experienced paralysing fear when at Needler Halls ; Hull University Halls of residence about a year after .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26355.html](http://www.nuforc.org/webreports/reports/026/S26355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular craft with lights around it,followed by long straight craft, multiple ships over 7 hours.First spotted one at 10:30 pm, circular,lights around,top lights big,looking like glowing eyes, with a longer strait ship following behind.  It sat mid air,no sound for 25 min before slowly moving foward. It spun on it's axis occasionally.  At 4 am I went out to smoke, seen 3 craft, put on shoes and walked 6 blocks to 711, counted over 30 at various points in sky.  Some close,some way up,it was a clear night,also some smaller oval shaped craft, I could look right up and see, clarity in sky was perfect.  Next day,bout 7 pm, I seen one behind some cloud cover.  That evening,circular craft, but counted like 12 to 15. Last night seen about 5 ,but they were further off, only one closer to the point could be seen clearly.  The 4am walk,I called pd, airport PD,news, border patrol,.  I showed a Westland PD officer, he and several others said it was a plane,but it never moved and finally turned showing circular shape. No one knew what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157749.html](http://www.nuforc.org/webreports/reports/157/S157749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
