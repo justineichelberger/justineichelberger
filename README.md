@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:20 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sunderland (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I witnessed a small orange light around an aeroplanes chem. trail.Last night (July 17th 2006) I witnessed a very occurrence, I was outside sky watching at 10.06pm when I suddenly noticed an aeroplane with a Chem. trail behind it to the north western sky I usually monitor and record Chem. trail activity so I began to record with my camera. And then suddenly out of nowhere this strange light appeared to come down from the trail and appear just below it. The light then appeared to get brighter and I could make out the object I was seeing was orange in colour and then the strange light went upwards and it could no longer be seen but I am sure it was still there. I kept on seeing little flashes across the sky and at some points I could see objects flying around and at one point I even noticed the object was in the actual trail of the plane. I am positive it was not a Plane, Helicopter, Satellite or Flare I have seen all four of these and this object looked nothing like any of them for one Planes and Helicopters cannot move in those amazing ways neither can flares or satellites. Luckily enough I got video of this event. To see the video please visit Alienationsam.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51414.html](http://www.nuforc.org/webreports/reports/051/S51414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 red triangle UFO's cause power outage and lightning.Bright pulsating red light in the sky  a second one appeared moving toward it they pulsated bright causing lightning and some near by objects to loose power  then a third object appeared causing more lightning two disappeared the third one one flashed bright bright red then vanish there was no clouds to cause the lightning</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135224.html](http://www.nuforc.org/webreports/reports/135/S135224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
