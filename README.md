@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:23 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Wyoming (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>One light, morphed into two bright balls of light.Sitting outside and across lake saw a bright light, orangish color. Thought it was plane but looked too big and too bright for how far away it was. It appeared and then it turned into 2 lights, then the second light faded out and then the first one faded out as well. Then the light appeared again about a minute after and then faded out again. The lights stayed in one spot, disappeared and when it came back it appeared in same spot just sitting there. My husband took out phone and recorded it but it was hard to see on video, because he couldn’t zoom in very well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164175.html](http://www.nuforc.org/webreports/reports/164/S164175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a round sphere pop out of a low lying cloud then slightly adjust direction and go back into the cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147661.html](http://www.nuforc.org/webreports/reports/147/S147661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
