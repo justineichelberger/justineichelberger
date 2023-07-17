@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:28 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:23 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Woodville (MS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Circular florescent pulsating light.My wife and I were traveling to visit relatives in Mississippi on July 17th .  At approximately 11:00 PM we observer a strobe like light  ahead of us .  We drove approximately 4 or 5 miles with the light in sight.  At this point we could see the pulsating light to our left over a field adjacent to the highway.  My wife was able to look out the side window of the auto and see a circular object that was emitting a florescent like light (white).  There was no sound associated with this sighting.We were able to observe the object through the rear view mirrors after we passed the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71178.html](http://www.nuforc.org/webreports/reports/071/S71178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Adelaide (Australia) (SA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was walking to school with my best friend, we both looked up at the same time and seen a large rectangular shaped silver object in the sky which was about the size of a large family wagon, sitting perfectly still about 30 ft above us.  It took off directly upwards at such a speed that it is really incomprehensible.  It's embarrassing to talk about.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144205.html](http://www.nuforc.org/webreports/reports/144/S144205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
