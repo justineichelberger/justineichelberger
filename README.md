@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:12:51 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:25 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in West Haven (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange lights hovering across night skythree orange lights shaped as triangles hovering across the night sky..  they were moving at a constant speed about 3 or 4 mph.  I saw about 9 of them all coming from the same direction((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87720.html](http://www.nuforc.org/webreports/reports/087/S87720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Port Washington (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Four  illuminated saucer like objects in the sky at 2:15 am.I was outside and noticed lights flashing in the sky, I looked up and saw a band of lights flashing  from a distance. The object seemed to be saucer like. I told my girlfriend to come outside to see if I was imagining it. She saw it right away and then noticed two more below it and to the right. The lights on the saucers would randomly flash, the saucers don’t move much they just hover. We then went inside and looked outside our patio door and noticed one more.  The fourth saucer we noticed has more of a faint glow and the other three seem to have lights that move around the saucer.Around 2:45 the thrid saucer emitted a beam of light under it.Around the same time the lights on the first saucer started flashing multi-colored lights. I walked back to the window and two of the saucers were gone. We fell asleep at 4:00 and they were still there. Neither of us ever believed in UFO's up until tonight so this is pretty crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64604.html](http://www.nuforc.org/webreports/reports/064/S64604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
