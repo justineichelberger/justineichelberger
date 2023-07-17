@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Port Washington (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Four  illuminated saucer like objects in the sky at 2:15 am.I was outside and noticed lights flashing in the sky, I looked up and saw a band of lights flashing  from a distance. The object seemed to be saucer like. I told my girlfriend to come outside to see if I was imagining it. She saw it right away and then noticed two more below it and to the right. The lights on the saucers would randomly flash, the saucers don’t move much they just hover. We then went inside and looked outside our patio door and noticed one more.  The fourth saucer we noticed has more of a faint glow and the other three seem to have lights that move around the saucer.Around 2:45 the thrid saucer emitted a beam of light under it.Around the same time the lights on the first saucer started flashing multi-colored lights. I walked back to the window and two of the saucers were gone. We fell asleep at 4:00 and they were still there. Neither of us ever believed in UFO's up until tonight so this is pretty crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64604.html](http://www.nuforc.org/webreports/reports/064/S64604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sunderland (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>I witnessed a small orange light around an aeroplanes chem. trail.Last night (July 17th 2006) I witnessed a very occurrence, I was outside sky watching at 10.06pm when I suddenly noticed an aeroplane with a Chem. trail behind it to the north western sky I usually monitor and record Chem. trail activity so I began to record with my camera. And then suddenly out of nowhere this strange light appeared to come down from the trail and appear just below it. The light then appeared to get brighter and I could make out the object I was seeing was orange in colour and then the strange light went upwards and it could no longer be seen but I am sure it was still there. I kept on seeing little flashes across the sky and at some points I could see objects flying around and at one point I even noticed the object was in the actual trail of the plane. I am positive it was not a Plane, Helicopter, Satellite or Flare I have seen all four of these and this object looked nothing like any of them for one Planes and Helicopters cannot move in those amazing ways neither can flares or satellites. Luckily enough I got video of this event. To see the video please visit Alienationsam.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51414.html](http://www.nuforc.org/webreports/reports/051/S51414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
