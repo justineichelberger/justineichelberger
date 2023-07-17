@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 16 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Hill (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufo over Western Washington July 16th, 2010My daughter and I were outside and this object went above us heading straight due north.  It was a light silver colored disc with a bottom that was about half the size of the craft. The half round bottom looked as though it may have been translucent (it's color was grayish and slightly opalescent.  When the craft passed over what was probably SeaTac airport, it became very, very bright and looked like a star.  But only roughly 6-7 seconds later, it dimmed again and we could still see it's disc/orb outline. We watched it as far as our eyes would allow for.  My daughter mentioned the uncanny lack of air traffic as this object moved over the airport area.   About two minutes after we could no longer see it, we saw a plane come from the airport area.  We did not observe the object come from the South; it seemed to just appear in the sky out of nowhere.  It was east of us when looking north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76614.html](http://www.nuforc.org/webreports/reports/076/S76614.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Leeds (UK/England) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sighting of a matt black spherical UFO in the skies of Leeds ,UK after a plane journey to Paris,France .I had returned home (see address below)from a flight to Paris with my family on 17/07/97. When I arrived home ; I peered out of my sitting room window that faces east and saw a matt black spherical object moving from west to east over the roofs of the houses in the southern part of the sky . It was still day/evening time ie sky was blue . The object moved slowly ; although my father didn't see it ...who was standing next to me . Eventually it changed direction and moved away from me ...towards the moon . It travelled towards the moon in a position that seemed as if it were under the moon . I had experienced paralysing fear when at Needler Halls ; Hull University Halls of residence about a year after .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26355.html](http://www.nuforc.org/webreports/reports/026/S26355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164194.html)
-- [388](http://www.nuforc.org/webreports/reports/164/S164144.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164093.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164089.html)
-- [385](http://www.nuforc.org/webreports/reports/157/S157863.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
