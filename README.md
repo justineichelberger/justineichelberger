@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:28:11 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:29:35 on 17 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westland (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular craft with lights around it,followed by long straight craft, multiple ships over 7 hours.First spotted one at 10:30 pm, circular,lights around,top lights big,looking like glowing eyes, with a longer strait ship following behind.  It sat mid air,no sound for 25 min before slowly moving foward. It spun on it's axis occasionally.  At 4 am I went out to smoke, seen 3 craft, put on shoes and walked 6 blocks to 711, counted over 30 at various points in sky.  Some close,some way up,it was a clear night,also some smaller oval shaped craft, I could look right up and see, clarity in sky was perfect.  Next day,bout 7 pm, I seen one behind some cloud cover.  That evening,circular craft, but counted like 12 to 15. Last night seen about 5 ,but they were further off, only one closer to the point could be seen clearly.  The 4am walk,I called pd, airport PD,news, border patrol,.  I showed a Westland PD officer, he and several others said it was a plane,but it never moved and finally turned showing circular shape. No one knew what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157749.html](http://www.nuforc.org/webreports/reports/157/S157749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Scottsbluff (NE) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>When attempting to photograph "stars" next to the moon, we captured something entirely different with almost perfect geometric shapes.Driving SB from Scottsbluff, NE towards Kimball, noticed what looked like one very orange star next to the moon, after observation, appeared to be anywhere from one to five orange stars clustered to the moon, curious, we photographed the moon.  When picture was downloaded on computer, orange stars weren't visible, HOWEVER down below the moon is a perfectly round white circle and off to the right are also strange circular shapes which weren't seen by us at all when we were observing the moon.  Whats strange is when you zoom in on the lower circle you can see an almost perfect looking triangle in the middle, zoom back out and the circular shaes to the right almost appear to be trails (?) of the lower, smaller circle.  Someone said it was probably a star but I tried to take photos of stars later and they do not look like these circular shapes.  Later we recalled dashboard lights had blinked off three seperate times on the new veicle we were driving.((NUFORC Note:  Probably Mars.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29789.html](http://www.nuforc.org/webreports/reports/029/S29789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164083.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164175.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164084.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164223.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164148.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
