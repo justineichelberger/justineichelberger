@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:25 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:28 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright lights seen off Pawleys Island SCJuly 18 2012  Nine of us were on the beach at Pawley’s Island, SC around 2200 hrs.  We were sitting in a circle at the people facing the ocean saw several bright lights that came on suddenly, stayed on for 5-10 seconds and then faded.  Those of us with our backs to the ocean turned around and watched.  Over the next 30 minutes we saw them repeatedly. Sometimes there was just one and other times 2- 4 at a time.  One time three of them came on in a sequence moving left to right and then faded in the same pattern.  We probably saw 15-20 of them during that 30 minutes.The light was reddish yellow and came on intensely, stayed on for several seconds and then faded. There were some low clouds on the horizon and one time one lit up behind the cloud and gave the impression that it was a VERY intense light. These were located due east of the beach at about 25 degrees off the horizon. It was hard to tell how far away they were but probably 5-10 miles would be my guess.No aircraft were visible anywhere near the lights.  The nearest air bases are Shaw Air Force Base and Charleston Navel Air Station.  There was a southeasterly wind of about 15 mph. The lights did not appear to move in any direction while they were visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91057.html](http://www.nuforc.org/webreports/reports/091/S91057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Salem/Rolla (between) (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My wife, myself and my nephew were driving home to Salem MO from Rolla MO on highway 72 Friday night at about 9:45 at night.  We were about halfway to Salem (around Lake Spring) and my wife very calmly said hey look its a UFO.  At first I thought she was kidding because she does not belive in UFO's, but I looked to the left where she was motioning to and I saw a saucer shaped object just down and to the right of the Moon.  It was a big full moon that night, and at first I thought that maybe it was just a cloud that was being illuminated by the moon.  After my eyes focused clearly on it and I got a good look I could tell it was a perfect saucer shape.  It had no lights or anything it seemed to just be sitting there.  There wasn't any detail, just sort of a dark saucer shape with part of it being illuminated by the moon.  As we drove on the moon and the object became obscured from view by the treeline for a few seconds, and when it came back into view it was g! one.Witness did not contact police nor any other UFO organization. No photos were taken.Report received by MISSOURI INVESTIGATORS GROUP - http://ufomig.bravehost.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73248.html](http://www.nuforc.org/webreports/reports/073/S73248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
