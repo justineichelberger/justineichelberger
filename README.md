@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:26 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in In-flight (California) (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 objects with bright lights (2)We are on a direct Alaska Airline flight 3377 from Albuquerque to San Francisco and during the trip I like to take pictures of clouds.  My wife then tell me have you seen those lights I said no but look back and there 3 objects each one with 2 bright lights that were above ground and were all line up.I took pictures with my phone.  During the observation at one point one of the object would disappear, its lights were no longer be visible then it will reappear after no ore than 10-15 seconds.  This happened twice during the observation, the second time it was a different object than the first time.  The objects seems to remain in the same position not moving from one other.  I have recorded a 4 minutes clip until I couldn't see any longer the objects from the plane window.  We didn't advertised our observation to any flight personnel to avoid creating chaos on the plane.  No one on our side of the plane seemed to have their window shade up to look outside (couldn't see all the way to the back of the airplane).  We were sitting in seat A and B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142833.html](http://www.nuforc.org/webreports/reports/142/S142833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Maryville (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large orange sphere materialized over cornfield, sped off traveling S to N, disappeared in mid airLet my dog out one last time before bed at 1:20 AM.  Saw a singular large, bright orange sphere materialize over the cornfield behind my house and then speed off across the field where it seemed to disappear in mid air.  It traveled south to north, I heard no noise coming from the object, saw no tail, and saw no other lights.  My dog did not seem to react to this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128649.html](http://www.nuforc.org/webreports/reports/128/S128649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
