@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:46 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lower Haines City (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately steady route North - steady route North minutes.</sub><blockquote><sub>The object I saw was as small as the stars out tonight, the size of a pin head, moving in a very straight line, which seemed too small to be a jet, because it looked round.  I have 20/20 vision.  The moon was to its left as the dot flew North, right over Watkins Rd, where the back of my home is.  We are due east of Winter Haven and Dundee, along route 17 N.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128578.html](http://www.nuforc.org/webreports/reports/128/S128578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Turlock (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Four lights moving in the Ca Valley SkyJust before 9:30pm my wife and I took our puppy out to the back yard for his night time bathroom break. We live in the country so sky watching is just something we like to do.  While waiting I noticed a silvery light moving fast across the east horizon line.  The speed of it caught my attention.  I pointed it out to my wife  and then we notice 3 more as we began to look around.  They were almost directly above us.  The 3 were moving towards each other when we noticed them.  One was moving some what straight from a Southernly direction to a Northern direction.  One that looked like it was coming from the northern direction was moving erratically (like jumping from spot to spot.  It was also more bright than the others) but mostly head Southernly towards the one coming from the South.  The third just kind of appeared out out no where and seemed to be coming from the West. All 3 looked like they were going to collide.  My wife got excited because she thought they were g! oing to crash!  But it looked more like they passed right through each other.After crossing paths or whatever they did, the one headed more Northernly seem to pick up speed very fast and quickly disappeared into the North direction.  The brighter one from the North was still headed southernly but slowed and stopped for about 1 min.  The one that came in from the West instantly turned 90 degrees Northernly (but was more N/W in direction) at the point of meeting for the three.  It kept the same speed the entire time. It wasn't fast, but it wasn't slow!  We watched it till it faded off into the sky.  The brighter one that stopped, just disappeared where it was.  It looked bigger too compared to the other ones and most of the stars that are in the sky.  The other two seemed to be about the same size and brightness.  I would size them comparable with the majority of the small stars in the sky.  Big enough to see, but too small to see any detail.  Not like you would see if it were an airpl! ane, you can see its flashing lights. Can only say they looked like w hite lights just like most stars look like, other than they were moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82570.html](http://www.nuforc.org/webreports/reports/082/S82570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
