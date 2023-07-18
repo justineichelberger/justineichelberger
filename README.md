@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Daughter called me on phone and told me to look up strait into the sky.Wife and I observed cigar shaped craft iminating a hazy orange and purplish haze. Took picture on cellphone and enlarged and noticed a smaller sqaure shaped object ashort distance from Object. Similar to what I have seen when Castle Airforce base was in operation. A strategic air command. If I can a picture to you I will.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157777.html](http://www.nuforc.org/webreports/reports/157/S157777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lower Haines City (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately steady route North - steady route North minutes.</sub><blockquote><sub>The object I saw was as small as the stars out tonight, the size of a pin head, moving in a very straight line, which seemed too small to be a jet, because it looked round.  I have 20/20 vision.  The moon was to its left as the dot flew North, right over Watkins Rd, where the back of my home is.  We are due east of Winter Haven and Dundee, along route 17 N.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128578.html](http://www.nuforc.org/webreports/reports/128/S128578.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
