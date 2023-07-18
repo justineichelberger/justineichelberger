@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:30 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object seen pacing small aircraft over Oklahoma City,OKAt 22:30 on 07/18/01 in the 4100 block of S Agnew in Oklahoma City, OK, myself and one other person saw and heard a small jet, possibly a Lear Jet or Gulf Stream.  The jet seemed to be on an aproach to Will Rogers Airport.  It was heading due south directly over our location.  The jet was flying low, perhaps 2000 to 2500 feet above the ground.  I was the first to notice an other object just off the plane's left side.  The object was about 75 to 100 feet from the left side and keeping pace with the plane.  At first I thought I was seeing a reflection in my glasses. I asked the other person with me if they saw it too.  They did. We watched for about 45 seconds, untill the jet and object disappeared behind some trees to our south.  The object had no lights of it's own and was only lighted by the street lights below.  The object looked to be cigar shaped, 25 feet long and 10 feet wide.  The object was gray in color and made no sound that we could hear over that of the jet.  The object made to change in direction other  than to pace the plane.  The weather was clear with a few stars showing, wind was from the south at 5 MPH.  Temp was in the 90's  Myself nor the other person had been drinking or taking any drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18490.html](http://www.nuforc.org/webreports/reports/018/S18490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Merced (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Daughter called me on phone and told me to look up strait into the sky.Wife and I observed cigar shaped craft iminating a hazy orange and purplish haze. Took picture on cellphone and enlarged and noticed a smaller sqaure shaped object ashort distance from Object. Similar to what I have seen when Castle Airforce base was in operation. A strategic air command. If I can a picture to you I will.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157777.html](http://www.nuforc.org/webreports/reports/157/S157777.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
