@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fire in the sky.From  my apartment you could see a round shape object that kept disappearing and reappearing.It was heading west going passed Green River Road and Washington Avenue.  There was no sound and I have taken several pictures of this very strange craft.  I know that it wasn't any air craft we have.  It was doing things that our air craft cannot do.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111682.html](http://www.nuforc.org/webreports/reports/111/S111682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kiawah Island (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Small bright pulsing lights and several more smaller less bright pulsing lights moving rapidly.Strange small very bright lights seen from Folly Island towards Kiawah Island - about 9pm.3 very bright lights pulsing for several seconds near each other.  Then lots of less bright lights pulsing all around - no specific shape or connection to each other.  Moving rapidly.Lasted several minutes, observed by about 20 people.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100307.html](http://www.nuforc.org/webreports/reports/100/S100307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
