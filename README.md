@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:22 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lusby (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>large blue /green sphere  over calvert county  maryland18/july/2011, location lusby md.  N 38 23.408   W 076 28.290, time 00:04, temp 70 f wind, calm.  No humidity,    clear night sky,    no clouds, moon not visible yet.           We, my niece and I, were watching the sky for objects in space, like satellites, or whatever, observed several, moving south to north, very high.    A sphere appears in the sky, traveling south to north; just maybe 50 feet above the trees; these are large oak trees approximately 80 feet high.  The object appeared to be 30 to 35 feet in diameter, traveling very fast, and just vanished, after approximately 2 seconds.I was in shock, and had seen my niece was the same. This is my description of the object.   A large sphere, the inside area is brilliant blue, circumference is a border of neon green, with gold rays streaming off the back, similar  to the crown of the statue of liberty. There was no noise from the object, completely silent.   My niece is 26, and works in her family’s business.  I am 63, retired aircraft mechanic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82637.html](http://www.nuforc.org/webreports/reports/082/S82637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in In-flight (California) (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 objects with bright lights (2)We are on a direct Alaska Airline flight 3377 from Albuquerque to San Francisco and during the trip I like to take pictures of clouds.  My wife then tell me have you seen those lights I said no but look back and there 3 objects each one with 2 bright lights that were above ground and were all line up.I took pictures with my phone.  During the observation at one point one of the object would disappear, its lights were no longer be visible then it will reappear after no ore than 10-15 seconds.  This happened twice during the observation, the second time it was a different object than the first time.  The objects seems to remain in the same position not moving from one other.  I have recorded a 4 minutes clip until I couldn't see any longer the objects from the plane window.  We didn't advertised our observation to any flight personnel to avoid creating chaos on the plane.  No one on our side of the plane seemed to have their window shade up to look outside (couldn't see all the way to the back of the airplane).  We were sitting in seat A and B.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142833.html](http://www.nuforc.org/webreports/reports/142/S142833.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
