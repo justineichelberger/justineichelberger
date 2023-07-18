@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rainier (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>saw a strange fast light while driving home.Driving home from work, I look up out the window at the big dipper to see a very fast moving light across the center of it, to fast for a plane or satellite.  As the light crossed the center of my field of vision my cars dashboard lights which have been dead and out for some time suddenly came on and to life for a moment then as the craft disappeared they quickly went back out.The light was heading north towards the city of Longview WA.   And was flying low in our atmosphere, again it was going way to fast to be a plane or a satellite.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82591.html](http://www.nuforc.org/webreports/reports/082/S82591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Fire in the sky.From  my apartment you could see a round shape object that kept disappearing and reappearing.It was heading west going passed Green River Road and Washington Avenue.  There was no sound and I have taken several pictures of this very strange craft.  I know that it wasn't any air craft we have.  It was doing things that our air craft cannot do.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111682.html](http://www.nuforc.org/webreports/reports/111/S111682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
