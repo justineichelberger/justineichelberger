@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:08:36 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:24 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sicklerville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>flashing lights swirling in the night.Tonight me and my girlfriend was sitting out back at my moms house   And all of a sudden a very bright light started flashing very immensely   And swirling a bit.  I waited for a second to make sure I wasn't bugging but the thing got brighter and started what look like dividing but still lighting up.  It was dark but out of quick  thinking i grabbed my phone for  some kind of proff besides my girl.  I got some flashes and lifetime memory of what the heavens was that?!((NUFORC Note:  From witness #2.  Possible sighting of Venus??  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76650.html](http://www.nuforc.org/webreports/reports/076/S76650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Round blue object over Palm Springs mountains.Blue circle moving up side of Mt. San Jacinto, maybe 1/4 mile from the tram line.  Moved up into the sky, went right.  Motionless for a while, then moved forward, then left.  Turned red briefly.  We were about 4 1/4 miles away.  The tram light was a speck, this was larger, maybe 2 cms.It went to the left and down the mountain to the left of the tram line, and disappeared behind a lower mountain ridge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120597.html](http://www.nuforc.org/webreports/reports/120/S120597.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
