@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:33 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:28:51 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A lit-up disc in sky does some chaotic zig-zagging and flies off in a matter of seconds.I saw a disc-shaped object in the sky around 2 am while looking out my apartment window in downtown Seattle.  I presume it was over Lake Washington, or in that area. It was disc shaped with a squarish dome on top. It did not have any lights on it like a plane, but it was lit up. I immediately showed the person next to me as we watched it fly off in a chaotic zig zag. It moved very fast and had extremely sharp turns to think it was a plane. I remember it to have an orange color, the other remembers it silver. I guess it was a mile away when I first saw it, but was out of sight within 15 seconds. There wasn’t any sound, but we were in my apartment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71214.html](http://www.nuforc.org/webreports/reports/071/S71214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lincoln (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Brillant white lighted object dotting across the sky then circling area, leaving then once again returnng and circling small areaWe had a group of 11 people on a camping trip.The camp grounds (Country Bumpkins sites 7&8)are located in Lincoln N.H.,Everyone but two of us had turned in for the evening on Saturday July 17,2004. At aproximately 2:47am while waiting for our camp fire to die down an object which was brilliant white light no strobes or sound could be seen or heard, Flew from a southernly direction over to our right and ahead of us to the north over some trees where it then proceeded to circle the area. The object could be seen as it passed behind the trees. It then dotted to the right along the trees Rising just above the tree line and then back to the south where it turned and then headed east and out of view. It then came back into view from the east and again ahead of us just over some trees. We could see the object kind of circling behind the trees before it dissapeared. Note: when the object was flying it looked as if it were skipping like a light being turned on then off then back on again made it look like dots being drawn in the sky. earlier in the evening it was overcast but the sky was clear at this point during the sighting. I did grab my video camera but so far I can't really see anything on it but static and our own voices.It looked saucer shaped but with a small flat section around what seemed like the back of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38228.html](http://www.nuforc.org/webreports/reports/038/S38228.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
