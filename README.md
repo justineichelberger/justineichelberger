@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:27 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lincoln City (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Unknown circular object caught on photo.  Unknown what it is.My husband and I were visiting the Yaquina Lighthouse in Lincoln City, Oregon.  When I was reviewing the pictures later I observed a circular object in the clouds.  Unknown what it could be.  No planes or air crafts in the area at the time.((NUFORC Note:  We have requested a copy of the photo.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128601.html](http://www.nuforc.org/webreports/reports/128/S128601.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>cigar shaped object flys u mountain rangemy sister was at her school when she saw this. she was facing west and saw a cigar shaped object head along the mountain range near Mt. charleston.it was reddish black in color and moved along the range with shocking speed. it then disappeared over red rock canyon. it lasted 6-7 seconds and made no noise though i doubt she could hear any as it was very far away.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29858.html](http://www.nuforc.org/webreports/reports/029/S29858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
