@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:30 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:30:03 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Hood (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light moving fast and stopping over a Military base.On 19 July 2000 around 22:35 hrs. I was driving West on Hwy 190, coming from Belton Tx. While I came down a long sloping hill. I saw a bright light came in from the South and was going to the North over Fort Hood Texas. It came in fast and at high arch. It left no trail like a Metor. It was just a bright dot of light. It looked to have stopped and went out over Fort Hood. It was moving too fast to be an aircraft. Est. distance it traveled 60 miles in 2 sec.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13618.html](http://www.nuforc.org/webreports/reports/013/S13618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>an unseen object passed overhead from in back and then to the front of me, it cpa'd my location to my right side and was approx 20 - 25 degrees from straight overhead as it passed.  The object's course was approx 105 degrees. The object was only heard for approx 3-4 seconds. The object's only sound was a "whoosh" sound that produced a classic doppler effect.At approx 0205 on 07/19/99 I was fuelling my truck at our terminal in Lincoln Neb. I was alone on the fuel island at the time. I was startled by a loud-sudden sound slightly behind and above me (approx 25-30 degrees from straight overhead). I instinctively looked over my right shoulder and realized that I was under the awning of the fuel island and the lights had ruined my night vision. I followed the sound with my eyes hoping to see something as it passed into view on the other side of the awning but I saw nothing.  The only sound from the object was the aural "whoosh" of something cutting through the air, there were no other sounds such as turbine or prop that would be associated with a conventional aircraft.  The total duration of sound from the object was 3-4 seconds and produced a very clear doppler effect as it CPA'd my position, indicating "a very high rate of speed"!!! I grabbed my compass from the truck and estimate the object was travelling a base course of 105 degrees. I am retired military. 3 years in the army as a cryptologic intelligence analyst and 17 years as a naval aircrewman aboard p3c orion anti submarine aircraft. I was an acoustic analyst and used acoustic sounds to track underwater submarines.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08405.html](http://www.nuforc.org/webreports/reports/008/S08405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
