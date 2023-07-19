@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:26 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:27 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a fireball shaped craft hovering and making zig zag patterns in the sky.  It had a smaller orb circling it like it was orbiting around the craft.  It turned completely black like it was cloaking itself.  Another black craft met with it and they sped off into the mountains.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142502.html](http://www.nuforc.org/webreports/reports/142/S142502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Langhorne (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large Bright white light traveled distance of sky in less then 30 seconds.Large steadt bright light object (the size of a close planet) travled from south to north directly over head.  The object traveled from south horizon to north horizon in less then 30 seconds.  Too low for a satellite.  Sky is clear.  No visual impairments.  Object disappeared near north horizon and did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142329.html](http://www.nuforc.org/webreports/reports/142/S142329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
