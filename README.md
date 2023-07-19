@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 18 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:30 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Platteville (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fading Light moving along the sky over Grant county Wisconsin.Went outside for a smoke, looked up and saw what i thought was a satellite, by how bright it was (very dim), heading straight north.  I blocked the street lights with my hands and the object got about as bright as the brightest star for an instant... then faded... all while moving... then faded out completely.  So I'm thinking either a satellite with the light hitting it just right or a meteor.  But the thing lit back up where it had dimmed and then continued moving north again.  The object grew brighter, not as bright as before, then faded out and STOPPED.  Did this three more times. brighten, fade then stop. did this til it faded into the city glow on the horizon. The object was far enough away to not be able to identify it or see any specific shape. It was a white light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100298.html](http://www.nuforc.org/webreports/reports/100/S100298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fort Hood (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright light moving fast and stopping over a Military base.On 19 July 2000 around 22:35 hrs. I was driving West on Hwy 190, coming from Belton Tx. While I came down a long sloping hill. I saw a bright light came in from the South and was going to the North over Fort Hood Texas. It came in fast and at high arch. It left no trail like a Metor. It was just a bright dot of light. It looked to have stopped and went out over Fort Hood. It was moving too fast to be an aircraft. Est. distance it traveled 60 miles in 2 sec.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13618.html](http://www.nuforc.org/webreports/reports/013/S13618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164137.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164086.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164081.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165835.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164130.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
