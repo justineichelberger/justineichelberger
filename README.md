@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:23 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Morris (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of three lights in a vertical triangle hovered with no sound and vanished with no sound.Got in my car and saw what I thought at first to be a helicopter hovering dangerously low. It was three lights which I figured was one on top and bottom of the passenger area and one on the tail. Didn't see any craft due to the distance in the dark--only the lights were visible. Realized my window was down and there was NO sound from the aircraft. Watched it for atleast five minutes, and it did not sway or rotate. Was interupted by the person's house I was leaving and when I looked back, it had vanished. I had not been drinking or anything else along those lines to impair my perception. I tried for the duration of the sighting to rationalize it out completely, and couldn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14492.html](http://www.nuforc.org/webreports/reports/014/S14492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Star Valley (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  53</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164283.html](http://www.nuforc.org/webreports/reports/164/S164283.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
