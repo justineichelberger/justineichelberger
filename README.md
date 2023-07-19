@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:27 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:21 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>cigar shaped object flys u mountain rangemy sister was at her school when she saw this. she was facing west and saw a cigar shaped object head along the mountain range near Mt. charleston.it was reddish black in color and moved along the range with shocking speed. it then disappeared over red rock canyon. it lasted 6-7 seconds and made no noise though i doubt she could hear any as it was very far away.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29858.html](http://www.nuforc.org/webreports/reports/029/S29858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Scituate (RI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>while at Seagrave (Amateur Astronomy) Observatory on Peeptoad Road, Scituate,Rhode Island,noticed on the western horizon a turquoise brilliant light heading east.no aircraft blinking lights noted.it passed overhead at zenith to eastern horizon.through 30 power 70 mm binoculars passed around it appeared as a glowing light turquoise oval.the several amateur astronomers including myself agreed that it was anomalous and a "bogey".we are familar with aircraft,satellites,etc.it appeared about 1 cm across in a sharply focused binocular field which at that power magnification would put it at a very high altitude.((CORRESPONDENCE WITH WITNESS))Dear Mr.((name deleted)), Thank you very much for the excellent report. Except for its appearance, the object you describe is consistent with an over flight of the International Space Station.  You can see the data for July 19 at the following URL, and I copy over flight data below.  Also, you can see the ground track of the ISS at the second URL I copy below. If you disagree with my assessment, please don't hesitate to let me know. Thank you very much for sharing the information with our Center! Cordially, Peter Davenport     http://www.heavens-above.com/passsummary.asp?lat=42.196&lng=-70.726&alt=15&loc=Scituate&TZ=EST&satid=25544&Date=37812.6666666667&Mag=18 Jul 2.2 00:07:13 17 NNE 00:07:13 17 NNE 00:08:13 10 NE  18 Jul 2.6 01:40:21 10 NW  01:42:15 15 N  01:44:10 10 NE  18 Jul 2.1 03:16:40 10 NW  03:19:11 21 NNE 03:21:42 10 ENE 19 Jul 2.4 00:41:55 11 NW  00:43:47 17 N  00:45:56 10 NNE 19 Jul 2.5 02:18:37 10 NNW 02:20:46 17 N  02:22:55 10 NE  19 Jul 0.4 03:54:19 10 NW  03:57:24 48 NNE 04:00:29 10 ESE 19 Jul -0.8 22:05:52 10 SW  22:08:58 81 SSE 22:12:07 10 ENE 19 Jul 2.0 23:42:52 10 WNW 23:45:20 21 NNW 23:47:52 10 NE  20 Jul 2.7 01:20:23 10 NW  01:22:17 15 N  01:24:11 10 NE  20 Jul 1.5 02:56:18 10 NW  02:59:06 28 NNE 03:01:55 10 E  http://www.heavens-above.com/gtrack.asp?date=37822.0895658747&lat=42.196&lng=-70.726&alt=15&loc=Scituate&TZ=EST&satid=25544((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29826.html](http://www.nuforc.org/webreports/reports/029/S29826.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
