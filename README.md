@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:28 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:23 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakridge (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flying orange glowing sphere seen by 3 adultsAt 9:44pm I was called outside by sister-in-law and my son to observe a flying orange glowing sphere. (From my perspective it looked to be 10 plus feet in diameter comparing it to the distant tree tops)  The object was moving southeast above the mountain tops approximately 1 or more miles from us.  It descended dropping altitude to the north side of the mountain moving at a steady slow speed.  We observed the object for approximately 5 minutes, it looked as if it descended into the tree line, or the light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91018.html](http://www.nuforc.org/webreports/reports/091/S91018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carmel (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Five orange lights over Carmel IndianaIt was the end of a long work day, when a co-worker and I were walking out to the parking lot, joking about how he was going to be picked up by a helicopter.  As I looked to the Eastern sky I saw a large orange light hovering about 800 feet, or so, above the ground.  I pointed at it and my co-worker, laughed, and said, "There it is now" As I watched the object for a few seconds, I saw another orange light fade into view near the original, so I start walking in their direction.  While I'm walking, I see another appear the very same way the second did, then another, then another (5 in total).  At this point, I've passed up my car and started jogging down 129th Street from Gray Road, towards Hazel Dell Road, where the lights seemed to be hovering.  Just as I moved past the tree line and into a clearing, I saw the bright orange lights very clear as they all started to move east in unison as if they were many parts of a whole.  They stayed on that course for another 10! seconds or so when they faded back into the dark night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111710.html](http://www.nuforc.org/webreports/reports/111/S111710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
