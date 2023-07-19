@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:28 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Solon (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>These lights were visible in the early night time sky and witnessed by several observers prior to an advancing storm on 07/20/08 near Solon, Iowa.  The info and attached pic was sent to me by a friend whoo stated the lights moved slowly or hovered making no sound before shooting upwards and out of sight.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64743.html](http://www.nuforc.org/webreports/reports/064/S64743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oakridge (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flying orange glowing sphere seen by 3 adultsAt 9:44pm I was called outside by sister-in-law and my son to observe a flying orange glowing sphere. (From my perspective it looked to be 10 plus feet in diameter comparing it to the distant tree tops)  The object was moving southeast above the mountain tops approximately 1 or more miles from us.  It descended dropping altitude to the north side of the mountain moving at a steady slow speed.  We observed the object for approximately 5 minutes, it looked as if it descended into the tree line, or the light went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91018.html](http://www.nuforc.org/webreports/reports/091/S91018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
