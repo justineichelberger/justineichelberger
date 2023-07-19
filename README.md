@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:29 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:22 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Galloway (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Noticed white circles in the sky of a Snapchat picture I took of the sky there alos in a video from that dayI was out with my boy muding in his Jeep and the clouds were crazy looking so I took a picture for my Snapchat story.  The next day I was looking at the picture and noticed there were 2 little white dots in the right corner of the sky close to the tree line next to a water tower.  I then noticed another little white circle in the far left corner of the picture.  When I zoomed in on that I saw 2 more little white dots far away only visible by zooming in down and to the right of the one on the far left, there is alos another one to the left of the 2 little ones I just mentioned.  The bottom one to the right of the water tower seems to have what looks like a visible shawdow on the bottom witch suggest it is really there in the sky.  I alos have 2 on video moveing in the sky in snaps o took of us driveling the Jeep.  You can clearly see one move over the water tower and one move super fast across the sky.  I didn’t see that at first in the video but was able to by going! trew it frame by frame in my camera roll but you can see it in real time once youve seen it frame by frame.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147680.html](http://www.nuforc.org/webreports/reports/147/S147680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Solon (IA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>These lights were visible in the early night time sky and witnessed by several observers prior to an advancing storm on 07/20/08 near Solon, Iowa.  The info and attached pic was sent to me by a friend whoo stated the lights moved slowly or hovered making no sound before shooting upwards and out of sight.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64743.html](http://www.nuforc.org/webreports/reports/064/S64743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
