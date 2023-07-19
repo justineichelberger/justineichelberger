@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:34:36 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:06:03 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kansas City/Emporia (countryside between) (KS) reported seeing craft that fit the description of some '' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>This is not a vehicle but a most unusual event in the sky.   It is the appearance of wide, transluscent line coming out of the western horizon and extending overhead.I'm not reporting a vehicle, but rather an "event" in the sky.  This event occured while driving on I-35 between Kansas City and Emporia Kansas at approximately 11AM.  I had earlier in the morning called attention to chemtrail activity over Kansas City Missouri to my 18 year old daughter who was a passenger in the car with me. The incident I am reporting however is a gray line that appeared to emerge from the distant horizon.  This gray, translucent line appeared to be about two inches wide when measured against my outstretched fist. I had a sense this may have been electrical in nature. The line extended from the horizon to directly overhead.  I opened the sunroof of the car so my daughter could determine how far the line ran above and behind the car. Overhead, however, we saw a high altitude plane leaving a contrail behind it and the plane was precisely following the gray line.  The gray line gradually faded and disappeared completely approximately seven minutes after we first noticed it. The plane continued ahead of us leaving its contrail. I have just recently become aware of chemtrails but in my reading about them thus far I've not heard anyone mention the gray line coming up out of the horizon.  Has this previously been reported?  Is there a known significance? Frankly this was one of the strangest things I've seen and it left both my daughter and me with a real, unsettling feeling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08856.html](http://www.nuforc.org/webreports/reports/008/S08856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mercury (NV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 craft executing otherworldly maneuversI was in my car driving along the highway when suddenly a few lights in the sky doing unusual maneuvers appeared seemingly out of nowhere.  I parked along the side of the road and got out. It turned out there were three (3) diamond shaped craft doing maneuvers that I have never seen completed in any aircraft.  After about watching for 10 minutes, the craft suddenly entered into a perfect formation and dashed away at very high speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127414.html](http://www.nuforc.org/webreports/reports/127/S127414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
