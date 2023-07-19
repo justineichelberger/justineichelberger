@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:06:03 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mercury (NV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 craft executing otherworldly maneuversI was in my car driving along the highway when suddenly a few lights in the sky doing unusual maneuvers appeared seemingly out of nowhere.  I parked along the side of the road and got out. It turned out there were three (3) diamond shaped craft doing maneuvers that I have never seen completed in any aircraft.  After about watching for 10 minutes, the craft suddenly entered into a perfect formation and dashed away at very high speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127414.html](http://www.nuforc.org/webreports/reports/127/S127414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Daytona Beach (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was driving in my car on A1A heading north in Daytona Beach, Florida, just prior to Granada blvd, at 8:15pm on 7-19-16, a little over one hour ago.  I looked up in the sky towards the west, approximately 40 degrees up and saw an extremely bright (silver) object about 1,000 ft up, just even with the first very dense layer of three small grey clouds.  The sky was very clear and my first thought is that it was an airplane reflecting the rays of the sun.  I kept my eye on the object for close to 10 seconds.  The sky was fairly clear in all directions and in the very far distance I could see airplanes flying the normal flight routes, very faint but visible airplanes.  After the ten second constant watch, the object vanished from sight.  I said to my wife, "What the hell was that?'  I explained what I saw, we pulled over to the west of A1A so I could attempt to locate what I thought was an airplane and track the aircraft with my eye.  With a very clear 180 degree view of the western sky, I could not see nor could my wife see any aircraft heading west, north, east or south.  I was stationary at this location for 10 minutes looking for any signs of a possible aircraft.  Once again, the sky was very clear and cloud coverage was minimal.  This very bright silver object vanished from sight.  Nothing came through the three small grey clouds and I never saw it again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128600.html](http://www.nuforc.org/webreports/reports/128/S128600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
