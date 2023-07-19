@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:03:26 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Ossining (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>DRIVING IN MY CAR I SAW AN UNUSUAL FLYING OBJECTMY 8 YEAR OLD SON AND I WERE DRIVING DOWN ACKER AVENUE IN OSSINING NEW YORK WHICH RUNS EAST TO WEST WHEN I SAW WHAT LOOKED LIKE AN AIRPLANE OVERHEAD BUT IT MADE NO NOISE.  IT HAD LARGE WINDOWS ON THE SIDE WHICH MADE ME WONDER WHAT IT WAS.  I WOULD HAVE FOLLOWED IT HAD THE ROAD I WAS ON RAN NORTH TO SOUTH.  LATER I HEARD REPORTS OF SIMILAR SIGHTINGS IN MILLWOOD WHICH IS THE DIRECTION THIS OBJECT WAS FLYING TO OR SLIGHTLY BELOW MILLBROOK.  I HAVE BEEN TO NEW YORK AIRPORTS AND SEEN PLANES IN THE SKY BUT NEVER ONE THAT LOOKED LIKE THIS.  IT WASN'T A STEALTH BOMBER EITHER IT LOOKED MORE LIKE A PASSENGER PLANE, A STEALTH BOMBER DOES NOT HAVE WINDOWS ON THE SIDE.  I WAS VERY CLOSE TO THIS OBJECT, IT WAS FLYING LOW.  MAYBE THE OBJECT BLOCKED PEOPLES HEARING.  THAT'S WHY REPORTS COME IN THAT PEOPLE CAN'T HEAR THE CRAFT.  I ALSO SAW THIS REPORTED ON UNSOLVED MYSTERIES.  IT WAS NIGHTTIME.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26105.html](http://www.nuforc.org/webreports/reports/026/S26105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a fireball shaped craft hovering and making zig zag patterns in the sky.  It had a smaller orb circling it like it was orbiting around the craft.  It turned completely black like it was cloaking itself.  Another black craft met with it and they sped off into the mountains.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142502.html](http://www.nuforc.org/webreports/reports/142/S142502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
