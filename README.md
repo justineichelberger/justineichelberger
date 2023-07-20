@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:21 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:24 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was about 1 or 2 in the morning I'm from Dallas but I've lived in Seattle Washington press play about 19 are 20 years well I was straighten my life up. I was in treatment up in the mountains. around Issaquah and Renton area, we could step out and smoke I stepped out and smoke a cigarette at around 1:32 in the morning, I looked up in the sky. and I seen lights, just flashing this glowing it was about 4 or5  next thing I know they took off like I don't know what.. in all kind of directions. And they were gone from that point on I became a Believer in UFOs so help me God.... I never seen nothing like it before in my life.. I'm a Believer I don't know what they are I just know what I saw man couldn't have done that I haven't told too many people my wife I want  my mother cuz she thinks im  crazy there's no way to explain what I saw I'm trying I think that the UFOs are  angels is this just my thought who made man I'm quite sure whoever made man can make a ship! .  what I saw that night I will never forget it never.  I don't know if it's God and His angels are somehow in their technology but what I saw was real...... and  they take off like lightning lightning I have since move back home what brought this to my attention are these latest sightings. what I saw was real. I don't care who think it wasn't my mind is stable I have good sense and I'm a black man not to say it matters. but before that night I was skeptic I thought you all were fools I guess it's one of those things where you have to see for yourself to believe kenny</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163295.html](http://www.nuforc.org/webreports/reports/163/S163295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Follansbee (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black triangle shape with 2 bright white lights and 4 deep red lights. Back curved inward. no markings no sound. hovered above treelineTraveling south on Rt. 2 near the Market street bridge. Just before entering Follansbee, WV, Hovering just above the tree lines. A large black craft with 2 bright lights in front and 4 deep red lights. 2 of the red lights were centered on the bottom of the white lights. The other 2 lights were each side of the triange. There were no lights in the back of the craft which was bowed inward. The overall shape was that of a triangle that looked like the corners were cut off and the back was curved inward. There was no letters or writting on it anywhere. The bottom was smooth. Like it had no landing gear. I could not see any windows, or doors. I was very close to it. It was around 4:30 a.m. At first I thought it was an airplane, but it did not move. It made no noise. We slowed to watch it with the windows down. We went up on the hill to get a good look at it. The clearing showed the entire sky. The shy was clear. It just vanished. Nowhere in sight. I was not drinking or use drugs. Very clear of mind. There was another person in the car with me and my husband. My husband was sleeping. I can't find anything on the net that looks like this. How can it just vanish like that? Awsome. Could you please let me know if you know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57799.html](http://www.nuforc.org/webreports/reports/057/S57799.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
