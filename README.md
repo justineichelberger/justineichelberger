@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:12 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:43 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Crittenden (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>silent   triangular shaped craft hovers  over me on ky I-75  in summer of 91iwas going north bound on i-75 about 2 miles from town when my pick up truck broke down...well at the time i worked at the northern kentucky greater cincinnati airport so i delt with planes everyday up close so i know pretty well what size,shape and sounds a plane consist of! after a few minutes of failed attempts to get the truck running i proceeded north on foot to the crittenden exit on the shuolder of course' well i remember walking under an overpass and when i came from under the overpass on the other side i was what appeared to be in someones spotlight it scared me because there was no traffic in any direction and i didnt hear anything..my first thought was someone was shining a light down on me from the overpass i do remember looking down at the light bluish  white light and how i was in the dead center of it and knowing the light was coming from directly above me because there was no shadow of my body in any direction well i went back under the overpass and the light just quit! but when i looked out and up from the overpass i seen a triangle shaped object just suspended about 200ft above the overpass i was able to make out the shape because the stars were out bright and if im not mistakin the moon as well the triangle craft was about to me 150ft in length from both rear points to the front point, the rear points had a distance of about 50ft between them the thing seemed real sharp and narrow it had no reflection against the stars just a much darker tone than the early morning sky there was no sound no more lights just this craft which appeared to exit by going straight up quickly.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21412.html](http://www.nuforc.org/webreports/reports/021/S21412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Tupelo (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 year old Girl and family sees Disc over high-power linesI am reporting this for a friend. When she was 12 years old, she lived NE of Tupelo with her parents. On a sunday evening, she witnessed a disc-shaped craft hovering over high-power lines near their house. It was stationary above the lines for about an hour. It had a dome on the bottom, with soft lights running around the perimeter of the craft. She thought at the time these might have been windows, but in retrospect, could have been running lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13426.html](http://www.nuforc.org/webreports/reports/013/S13426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
