@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:22 on 19 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:33 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mount Shasta (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>heading south on CA hwy 5, a V shaped lt green, glowing object with tail, fell into the top of Mt Shasta. 3/4 moon, clear night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147701.html](http://www.nuforc.org/webreports/reports/147/S147701.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Takhlakh Lake (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Three lights appeared over Mt Adams then descend to the top of the mountain.Four of us were sitting at Takhlakh Lake.  7 miles North West of Mt Adams.   We were there watching for UFO’s.  We all get together one a year for night watching.  A thought popped in to my head.  I saw the UFO coming in from the South and then descending down over the highest point on the mountain.  Five minutes later I started to get the funny feeling again I turned my head around to look for our group leader and I noticed him pacing behind me.  I said hay do you feel anxious he said yes he was.  This is typical for the two of us before something happens.  He then said I hope they show themselves before it gets totally dark so we can video them with the mountain.  We had 3 camera set ups:  Two Luna Optics LN-DM50-HRSD 5-20X44 HD Night Vision Monocular set up on tripods with 7” monitors.  Also a Canon 7D set up for long exposure shots of the sky.9:15 a light appeared over Mt Adams.  Then another smaller light down to the left of the much larger light.  Our leader said is that moving.  Then both of us started to fumble to get our cameras going.  In the meantime another light appeared to the lower right of the large light.  So now we have a triangle of three lights descending towards the top of the mountain.  I got my Luna going while our group leader was still working with his.  I caught about 13 seconds of video with two of the lights, the main light went down right over the highest point on the mountain.  The whole event lasted about 3-4 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135412.html](http://www.nuforc.org/webreports/reports/135/S135412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [342](http://www.nuforc.org/webreports/reports/164/S164097.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164092.html)
-- [340](http://www.nuforc.org/webreports/reports/164/S164094.html)
-- [339](http://www.nuforc.org/webreports/reports/164/S164096.html)
-- [338](http://www.nuforc.org/webreports/reports/164/S164283.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
