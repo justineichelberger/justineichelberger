@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:24 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:25 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The witnesses were both young adults. We were walking to a nearby park at around 1:00 a.m. when we saw a bright green fireball fly across the sky maybe 30 feet above the trees. When it flew across the sky it shot red triangle shaped things backwards at about 45 degrees of the direction it was fly. The triangles went about 5 feet from the flying object before vanishing. The triangles were shot off both sides of the flying object. It took the flying object about 5 seconds to fly out of sight. Both witnesses looked at each other in confusion and believed no one would take us seriously if we talked about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151624.html](http://www.nuforc.org/webreports/reports/151/S151624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dublin (Ireland) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was fourteen at the time. My friend came for a sleepover, and we decided to sneak out in the middle of the night to walk to the other side of the village to ding dong ditch my newly ex boyfriend's house. At some point along the way I noticed some strange movement in the sky out of the corner of my eye but shrugged it off as a helicopter as we live in a high crime area where its not unusual to have searches going on for drug dealers/rings, thieves etc.We ding dong ditched his house loud enough to wake the whole estate and ran away thinking we were great. On the way home, we walked through another nearby housing estate. I noticed in the sky that there was a white, circular object flying slowly through the air, shining bright enough to be noticed but not so bright that if I'd told my friend "look at that" she'd see it instantly. It was a clear, starry night so I doubted she'd see it in time.  I said nothing.It didn't fly steadily like a plane or helicopter.  It was ebbing and flowing ever so slightly, coming from the right to the left.  It went across the sky before disappearing in the most unusual way. Imagine a clock, with the hands both at twelve.  In the space of two or three seconds, both hands went around the circle in a clockwise motion, with each section disappearing into black.  The hands got to three, and so from twelve to three was black, and then they went to six, so from twelve to six was black.  Once the hands got back to twelve the entire circle of light that had clumsily flown through the air had vanished, almost like boiled water turning into steam.It's something I only think of occasionally, sometimes when I'm walking through that same housing estate, but I thought it was worth reporting.  I do believe I saw a UFO that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157503.html](http://www.nuforc.org/webreports/reports/157/S157503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
