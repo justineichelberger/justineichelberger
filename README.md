@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Stationary triangle shaped light seen over Ft. Lauderdale beach area. Seen east (away from the sea). Estimated altitude 3,000 feet.At about 9:15 PM (23:15 hrs.), I and other two witnesses (wife and nephew) saw a bright white-yellow triangle shaped light (brighter than any star or planet at that time in the sky (as an amateur astronomer, I am familiar with the position of major stars and planets for that date in the sky). The light maintained its position for about 15 minutes and later disappeared. No aircraft navigation lights were observed, and no sound was heard from the object ( I have a degree in aeronautics, and I am familiar with most military and commercial aircraft configurations).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57922.html](http://www.nuforc.org/webreports/reports/057/S57922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Gobles (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright  white light hovers over camp fire then takes off at high speedTwo friends and I were roasting hotdogs on a small fire, near my home in Gobles Michigan. We noticed a large, round, white light hovering low to the ground. It was about the size of a full moon and very bright. We watched it hover for around 30 seconds to a minute, then it quickly shrunk to the size of a bright star and traveled east at high speed.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54890.html](http://www.nuforc.org/webreports/reports/054/S54890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
