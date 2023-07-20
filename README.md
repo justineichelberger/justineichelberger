@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:14:43 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1963, an anonymous witness in Tupelo (MS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>12 year old Girl and family sees Disc over high-power linesI am reporting this for a friend. When she was 12 years old, she lived NE of Tupelo with her parents. On a sunday evening, she witnessed a disc-shaped craft hovering over high-power lines near their house. It was stationary above the lines for about an hour. It had a dome on the bottom, with soft lights running around the perimeter of the craft. She thought at the time these might have been windows, but in retrospect, could have been running lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13426.html](http://www.nuforc.org/webreports/reports/013/S13426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Daylight sighting: silent, black diamond flies over Portland, OrMy friends and I were standing together and talking at the local dog park when I noticed a black object in the northwest sky.  It was moving to the south (over and parallel to Freeway 5, perhaps?) close to the same speed and altitude as most local small aircraft traffic (I am just a few miles from PDX). It was not what most would call a spectacle. It was black, had a diamond shape with four rounded edges and had no lights, no visible features (tail, landing gear, windows) and it produced no audible sound. The sun was setting at the time and the sunlight on the bottom western edge of the object produced a warm orange glow on the surface despite being black. It left me with sense that the object had a matte rather than a high-metalic surface. My friends and I agreed that the object was not a plane or a helicopter. We considered the possibility it was a baboon. The wind was mild and steady and coming from the Northwest. The object was moving more directly to south, It follows, the winds aloft would have to have been moving in a somewhat different direction than the wind on the ground - and I realize this is very possible. I could just about cover the object with the tip of my index finger at arms length. And from this vantage point in could most certainly have been a diamond shaped balloon. However, I would think that such an odd shaped object would be more likely to tumble through the air rather than glide. Nobody was particularly impressed with the event. Nevertheless, I felt compelled to report it on the off chance that somebody else may have gotten a better look at the object and needs corroboration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51468.html](http://www.nuforc.org/webreports/reports/051/S51468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
