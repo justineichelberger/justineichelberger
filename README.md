@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately still going - still going minutes.</sub><blockquote><sub>we saw a star movein in all diferent direction some fast some slow left right up and downI was out side im my backyard and I just sat on my chair and l notice movement from the corner of my eye so i looked up and seen this star movein not in a sertain direction but all over it kept moving about these sertain stars in quik motions so i went to the down nieghbour to ask him to watch so im not Crazy and shure enough they both seen it moveing like that too very spratic Its DIRECTLY Sriaght up from where i was sitting((NUFORC Note:  Star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71182.html](http://www.nuforc.org/webreports/reports/071/S71182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flashing red and blue satellite-like objectMy family and I were out at approximately 10:10 pm to watch the space station fly by from the West heading East. We were also out in hopes of spotting the Neowise comet, the sky was clear and beautiful even in the middle of the city. We saw several satellites and 2 meteors.  We are aware of the Perseids meteor shower so we were keeping an eye out but not expecting to see much yet, especially with the city glow.  We saw a couple of satellites heading from south to north and were surprised at how much we had already seen while waiting.At about 10:13 a flashing bright light starting soaring across the sky. We were sure that it was the space station. It was flashing red and blue. We all followed it, passing around the 2 pairs of binoculars we had and watched it soar about as fast as a satellite. Maybe a little bit faster. Then it stopped. We thought at first that it was still heading away from us so we were seeing it go into the distance. Then one of us was looking towards the West and saw the actual Space Station. There was no arguing that the second object was the actual Space Station, it was zooming by pretty fast and the brightest thing we had seen yet. What I noticed was that it passed right by the object that was flashing red and blue staying  still in the sky still flashing, and kept going off into the distance over the horizon.We stayed out watching other satellites, tried to find the positions of the planets and get one more peek at the Comet. We were still were able to see the flashing red and blue whatever-it-was hanging out. When we went inside it was still there. I have spent a lot of time sky gazing and have never seen an object hover like that. I don’t know what it could possibly be. UFO? Was it a drone? I know nothing about drones or other possible aircraft but thought I’d pass the info along.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157769.html](http://www.nuforc.org/webreports/reports/157/S157769.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
