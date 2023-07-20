@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:26 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:30 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Litchfield Park (AZ) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A cross shaped object  illuminated with lights so low it as if you could reach out and touch itI am reporting this on behalf of my daughter.  She and a friend that was visiting were in the swimming pool they were both facing south. My daughters friend was the  first I believe to see it and her first words were "It looks like something from startrek".My daughter described the object as a big cross she said it was if you could reach out and touch it she said it was a dark color with a arrowhead point on the top of the cross it also had two lights on the underside at the bottom rear of the cross.  My daughter describes a light in the center point of the cross which she says illuminated most of the cross. the object was flying flat and there was no sound the object was coming from the south and heading northeast.  My daughter said it was moving in a very diliberate way not fast but not slow. The weather was clear skies and very warm.  With being in the pool and surrounded by houses my daughter had to get out to further observe the object moving to the northeast our friend never got out of the pool to further observe. Both could describe the object in great detail My daughter drew the object for me and she did not hesitate in any detail.  She called for me and my wife to come out but we did not hear her and she didn't want to lose sight of the object by coming in to get us. Both her and her friend continued to swim after the object moved on and they did not observe any further anomolies from that point on.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39468.html](http://www.nuforc.org/webreports/reports/039/S39468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in El Monte (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extraordinary luminous light with red/orange globes near flashing luminous light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100388.html](http://www.nuforc.org/webreports/reports/100/S100388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
