@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:30 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in El Monte (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Extraordinary luminous light with red/orange globes near flashing luminous light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100388.html](http://www.nuforc.org/webreports/reports/100/S100388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tonasket (WA) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a bright flash of light that flashed quickly. It stayed in the same spot.  every flash was about two minutes apart.  I also heard a soft quiet humming lasting about two minutes before fading away.I was sitting in the garden facing west looking at the moon while praying when I saw a flash of bright light out of the corner of my right eye.  About two minutes later there was another flash of bright light, it was like a light bulb that gets a surge of energy and blows a fuse; bright and quick. The light was about four times the size of an airplane's lights at night. Each time I saw the flash of light it had not moved. In the duration of ten miutes I saw the light flash five times, each time about two minutes apart. I do not know if it continued to flash because I went to bed, but soon after  I began to hear a two tone humming noise that was very quiet and soft. It lasted about two minutes and then faded. When I talked with my neighbor the morning of 7/20/99 she told me that she also had seen a flash of light, but only once, a glimps while in front of a window.  She did not go out side to see if it was continuing.  But she did hear the humming, saying it lasted about two minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08411.html](http://www.nuforc.org/webreports/reports/008/S08411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
