@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:31 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lockport (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Enormous, large shaped disc craft with bright yellow lights in center/slow moving but also quick moving.ON 7/20/2007 between 10:00 Pm and 10:15 PM I went out to the local Jewel store to get a pack of cigarettes. As I was driving home approx 1/4 of a mile to my house, I saw an enormous disc shaped craft in the sky to my left. If you saw seven to ten low flying airplanes side by side I would quess that to be the size of it. It appeared to be a very large dark disc shape with bright yellow lights in the center, the lights were so bright they looked like large flourecent bulbs in the center. I also saw some small blue and grey lights which appeared to be on each end of it.It made no noise as you would expect a large craft would make.  As I was driving, I remember at least one other vehicle coming from the east I began to yell and flash my lights to try and get his attention, because I did not want to be the only one seeing this. As he passed me by I saw the object moving quickly to the south west. I pulled into my home driveway as it was quickly moving to the west, I saw my fathers car who lives next door pulling in front of my garage. I jumped out of the car to try and get my wife to come and see this, as I got out of my car my father said what the hell was that! I said did you see that! as I was running to the door to get my wife. By the time she came out the craft was far to the west and moving south. My wife only caught a glimpse in the distance, and said oh maybe it was a blimp. I said I can still see it, and we grabbed our dogs and jumped in the car and  drove to the south west and it was nowhere in sight. But to recap my visual experience, this craft was hovering to my left in the sky to my west. A extremely large disc shaped craft with bright yellow lights in the center and lights on what appeared to be each end of the craft blue and gray. Making no noise, by eye it was very close to me yet it was still high enough in the sky to not make an accurate judgement of the size. Big enough to cause me to be in awe and writing this letter. Although, it appeared to be hovering moving slow it th! en moved so quickly that within  2 minutes or so it was completely out of site. The disc itself appeared to be a dark grey color, however it was night so it looked black or grey. If you saw a low flying plane in the sky, this would have been at least ten planes as I mentioned it was HUGE! I dont know what these crafts are military or something else but Im now a believer! 30 Miles south of Chicago it was here!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57768.html](http://www.nuforc.org/webreports/reports/057/S57768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Hovering orbs.During the first night of a massive power outage I was in a hotel room with my curtains open.  Looking probably north or east I saw three round yellowish lights hovering in place for a long time.  One, the largest moved up and to the left and the other two remained stationary.  I have photos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147895.html](http://www.nuforc.org/webreports/reports/147/S147895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
