@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:24 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Daylight sighting: silent, black diamond flies over Portland, OrMy friends and I were standing together and talking at the local dog park when I noticed a black object in the northwest sky.  It was moving to the south (over and parallel to Freeway 5, perhaps?) close to the same speed and altitude as most local small aircraft traffic (I am just a few miles from PDX). It was not what most would call a spectacle. It was black, had a diamond shape with four rounded edges and had no lights, no visible features (tail, landing gear, windows) and it produced no audible sound. The sun was setting at the time and the sunlight on the bottom western edge of the object produced a warm orange glow on the surface despite being black. It left me with sense that the object had a matte rather than a high-metalic surface. My friends and I agreed that the object was not a plane or a helicopter. We considered the possibility it was a baboon. The wind was mild and steady and coming from the Northwest. The object was moving more directly to south, It follows, the winds aloft would have to have been moving in a somewhat different direction than the wind on the ground - and I realize this is very possible. I could just about cover the object with the tip of my index finger at arms length. And from this vantage point in could most certainly have been a diamond shaped balloon. However, I would think that such an odd shaped object would be more likely to tumble through the air rather than glide. Nobody was particularly impressed with the event. Nevertheless, I felt compelled to report it on the off chance that somebody else may have gotten a better look at the object and needs corroboration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51468.html](http://www.nuforc.org/webreports/reports/051/S51468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>The witnesses were both young adults. We were walking to a nearby park at around 1:00 a.m. when we saw a bright green fireball fly across the sky maybe 30 feet above the trees. When it flew across the sky it shot red triangle shaped things backwards at about 45 degrees of the direction it was fly. The triangles went about 5 feet from the flying object before vanishing. The triangles were shot off both sides of the flying object. It took the flying object about 5 seconds to fly out of sight. Both witnesses looked at each other in confusion and believed no one would take us seriously if we talked about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151624.html](http://www.nuforc.org/webreports/reports/151/S151624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
