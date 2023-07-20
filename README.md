@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:24 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:25 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Orrville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Over the past month, an immensely bright object appears in the western sky by my house. This occurs regularly, nearly every night. It appears suspended/fixed for about 3-4 minutes at a time, then continues to move slowly, further west. I have been keeping an eye on it, trying to discredit this object as a mere, bright star or a planet (Venus perhaps).   Last night, 7/20/10, this object appeared brighter than ever.  It looks just like what an airplane's headlights would look like at night if it were coming directly at you, however, this object does not appear to move at all.  The curious thing about it is, it twinkles with a barely perceptible reddish hue. It will also dim to the point of being unnoticeable as if a dark cloud were obstructing the view. Interestingly though, there has been little to no cloud cover over the last few days.  I have tried to take video/stills with my phone but my camera does not fare well in low light conditions. But at the same ti! me, my camera cannot pick up any other star in the sky let alone a dot of light.  In conclusion, I can't discount the fact that planet Venus could be the culprit as I have little experience with astronomy.  But if you were to see how bright this object is, you would most likely say to yourself, "That object is much too bright to be a planet or star."  I just want someone with experience to take a look at it and prove me wrong.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76692.html](http://www.nuforc.org/webreports/reports/076/S76692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fremont (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red glowing flame that climbed up.The object appearred as a  red glow in the sky with a flame that was going up and  started brighter and got dimmer and dimmer as it climbed then as it started to come down it blacked out and you could continue to see the shadow of the  as the object appeared to burn out and appeared to fall.  The event lasted approx 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64679.html](http://www.nuforc.org/webreports/reports/064/S64679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
