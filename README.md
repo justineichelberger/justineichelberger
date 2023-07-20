@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A massive formation of bright ascending glittering silent lights over the ocean.From my top deck, I saw a phalanx of spectacular bright golden lights, sometimes as many as thirty, ascending slowly over the ocean.  They shot up silently, three or four at a time, in a wide formation and disappeared into the sky.  It was the most fantastic unbelievable thing I have ever seen in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100390.html](http://www.nuforc.org/webreports/reports/100/S100390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mossel Bay (South Africa) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>The object was seen over the area on three occasions between the middle of July 2012 until the end of July 2012. It first appeared stationary but moved away rapidly.  I was the first to notice the craft and photographed it. It is round at times but changes shape and colour.  It was low and passed beneath the moon.  I judge the distance to be between 7000 meters and 5000 meters above the earth. I made this estimation based on the distance between where I was and the Mossel Bay light house.  However I may be wrong.  There is nothing more that I can say about this craft and I don't believe that it is a UFO but some sort of man made craft.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91542.html](http://www.nuforc.org/webreports/reports/091/S91542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
