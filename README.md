@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:24 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Follansbee (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black triangle shape with 2 bright white lights and 4 deep red lights. Back curved inward. no markings no sound. hovered above treelineTraveling south on Rt. 2 near the Market street bridge. Just before entering Follansbee, WV, Hovering just above the tree lines. A large black craft with 2 bright lights in front and 4 deep red lights. 2 of the red lights were centered on the bottom of the white lights. The other 2 lights were each side of the triange. There were no lights in the back of the craft which was bowed inward. The overall shape was that of a triangle that looked like the corners were cut off and the back was curved inward. There was no letters or writting on it anywhere. The bottom was smooth. Like it had no landing gear. I could not see any windows, or doors. I was very close to it. It was around 4:30 a.m. At first I thought it was an airplane, but it did not move. It made no noise. We slowed to watch it with the windows down. We went up on the hill to get a good look at it. The clearing showed the entire sky. The shy was clear. It just vanished. Nowhere in sight. I was not drinking or use drugs. Very clear of mind. There was another person in the car with me and my husband. My husband was sleeping. I can't find anything on the net that looks like this. How can it just vanish like that? Awsome. Could you please let me know if you know what this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57799.html](http://www.nuforc.org/webreports/reports/057/S57799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Stationary triangle shaped light seen over Ft. Lauderdale beach area. Seen east (away from the sea). Estimated altitude 3,000 feet.At about 9:15 PM (23:15 hrs.), I and other two witnesses (wife and nephew) saw a bright white-yellow triangle shaped light (brighter than any star or planet at that time in the sky (as an amateur astronomer, I am familiar with the position of major stars and planets for that date in the sky). The light maintained its position for about 15 minutes and later disappeared. No aircraft navigation lights were observed, and no sound was heard from the object ( I have a degree in aeronautics, and I am familiar with most military and commercial aircraft configurations).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57922.html](http://www.nuforc.org/webreports/reports/057/S57922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
