@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 20 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Everett (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange light formation in the sky over Central Pennsylvania.At approximately 2:15 am, in the Eastern sky.  There where twelve perfectly spaced orbs.  It looked like if you would have placed lights by putting one light on each side of every rung.  They were that perfectly spaced apart.  The orb/lights appeared one at a time.  They appeared to be perfectly round and all the same size.  They lasted for approximately 20 minutes and disappeared in reverse order that they appeared.  They looked similar to the ones that were on your you tube video in Michigan.  Except for the formation.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135780.html](http://www.nuforc.org/webreports/reports/135/S135780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately still going - still going minutes.</sub><blockquote><sub>we saw a star movein in all diferent direction some fast some slow left right up and downI was out side im my backyard and I just sat on my chair and l notice movement from the corner of my eye so i looked up and seen this star movein not in a sertain direction but all over it kept moving about these sertain stars in quik motions so i went to the down nieghbour to ask him to watch so im not Crazy and shure enough they both seen it moveing like that too very spratic Its DIRECTLY Sriaght up from where i was sitting((NUFORC Note:  Star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71182.html](http://www.nuforc.org/webreports/reports/071/S71182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [515](http://www.nuforc.org/webreports/reports/164/S164105.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164115.html)
-- [513](http://www.nuforc.org/webreports/reports/159/S159852.html)
-- [512](http://www.nuforc.org/webreports/reports/158/S158195.html)
-- [511](http://www.nuforc.org/webreports/reports/158/S158404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
