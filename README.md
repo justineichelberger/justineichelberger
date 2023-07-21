@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Bright Red lights moving in opposite directions (South and North) very slowly just below the clouds. No sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71220.html](http://www.nuforc.org/webreports/reports/071/S71220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange light spotted and it couldnt be a star.Well I was returning from Las Vegas, NV on our way back to San Fernando Valley, CA.  My father was driving, we were just driving through Victorville, Ca on Palmdale Rd. As I looked into the sky, I thought about a cousin who once shared with me her UFO sighting experience. So I thought I might just get to see one. I had seen a few shooting stars but remembered how my cousin told me about what the light looked like.I was looking at the big dipper and looked at the North star and all the other bright stars. I looked again observing The Big Dipper and suddenly I saw what appeared to be a circle. It was orange with some red. The light was solid, not blinking, no color change. I had never seen a star like that…..at the same time I saw an airplane and its light blink red and blue. I tried reaching for my camera but not taking my eye off the object. I knew then that there are no orange stars, not normal. I asked my dad for the time, 10:35 pm.The orange circle then began to move slowly side to side but in a circular motion. It visually wasn’t to far from a star. It then began to move fast past the star. The circle seemed to be as far as a star but I knew it was in our atmosphere. It then began to move higher into the sky and it quickly hit a right and suddenly stopped. Right before my eyes the light just got super small and disappeared as if it bolted at lightning speed.It is Friday, July 24, 2009 and I cant believe that I had that experience. I don’t know what to think of it. I know what I saw is real. I always believed in martians. I feel weird. I now want to go out late night and observe the sky. I am not afraid, but it makes me question a lot, religiously. And how can they be so advanced? Well I would like to see more. My dad believes me.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71275.html](http://www.nuforc.org/webreports/reports/071/S71275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
