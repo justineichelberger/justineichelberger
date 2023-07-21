@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Orange red disk that turned to a orb.I was outside smoking looked up and there was a orange disk floating there.  out the corner of my mine i could see a black aircraft flying in at a high rate of speed.  the orange disk orb out shot straight up and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111748.html](http://www.nuforc.org/webreports/reports/111/S111748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Spanish Fort (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Loud and very deep noise, coming from a very dark object with three lights in the sky.I heard a very loud and deep sounding noise overhead, as I was doing some last minute lock up before bedtime.  I ran to where the noise was coming from and saw three bright lights.  They did not appear to look like any aircraft I had seen, nor did they sound like any I heard before.  The walls in my home had shook and I thought maybe a plane was crashing, but the three lights just kept moving on.  The object looked dark against the full moon, just east of it.  My husband said that it may have been military aircraft, but, the sound was not that of jets or a propeller plane.  My next door neighbor also ran outside to check on it.  It took all of three minutes and the event was over .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128627.html](http://www.nuforc.org/webreports/reports/128/S128627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
