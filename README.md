@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sheffield (near) (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A craft was above my car. It was disc shaped and threw out a hundred speckled lights. It moved away slowly.There was a craft above my parked car. There were blue flashing lights all round the car - the lights were in triangular shape when they hit the ground (i think) there was probably 100 individual lights - they were flashing. There was no sound when it arrived so i didnt realise at first what was going on. Then the whole thing moved off making a slight high pitched screach and a big bass rumble - almost like it was a tank moving. The craft was no more than 100 feet above me. It moved relatively slowly - i panicked to get out of the area in the car. It flew right across the valley (flying over the reservoir i was next to). I drove along the road at the side of the reservoir because it was the only way out - hence, i followed the craft until it flew out of sight - the whole sighting may have been 3 minutes - who knows? I was petrified. The craft was disc/saucerr shaped and had lights all round the centre of it - probably 100 lights round the edge of it. I only heard a sound from it as it movwed from my car. I want to share this and find anyone elsde who saw itt - there must be someone - even though i was in the countryside it passed houses down the valley i am sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13531.html](http://www.nuforc.org/webreports/reports/013/S13531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>http://www.examiner.com/homeland-security-in-los-angeles/strange-sighting-over-yucca-valley-puzzles-locals  Unusual circular lights hovered over the city of Yucca Valley, California, for 10 minutes on July 21, 2011, from 10:33 PM until 10:43 PM.  In a dark desert sky, the glowing orbs remained at approximately the same altitude the entire time they were visible. It appeared as though they were slightly moving to align with each other.These unidentified reddish-orange orbs conjured up images of the 1997 "Phoenix Lights" sighting, featured by the History Channel, although they appeared in a different configuration.The glowing lights with a reddish outline appeared oval in shape at one point, just before they finally lined up.  The remaining circle brightly glowed in the sky and then disappeared into the darkness of the night.The writer of this article personally observed and photographed this sighting.  The writer is not a UFO enthusiast and attempted to decipher a scientific explanation for what she witnessed.  The author’s calls to local authorities and military officials were not returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82644.html](http://www.nuforc.org/webreports/reports/082/S82644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
