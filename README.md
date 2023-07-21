@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:52 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Logansport (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving south on u.s 35 with two other people when bright blue flashing light is just above the road. Than moved fast leaving trail of light and started to appeared and dissapeared large distances from side to side of the road, no sound. Just 10 to 20 feet above ground.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147709.html](http://www.nuforc.org/webreports/reports/147/S147709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I saw what I thought were 3 stars in a straight line with Jupiter then they suddenly moved into a triangle position and faded.I was looking south at the planet Jupiter and my wife was facing me looking north. We were in front of our yard on the porch. This happened around 10pm I saw 3 lights that looked like stars in a straight line. It struck me as odd as they were really close to one another but in a straight lined with Jupiter. I told my wife to turn her head around and look but she was in a lower chair and couldn't get turned around to see at that moment. At that moment I saw them move very quickly into a Triangle pattern and hold that position for roughly 15-20 seconds. I got excited at that point, This finally convinced my wife to get out of the chair and look up. She saw the patterns but wasn't sure, She just thought they were stars until they one by one disappeared. At that point I had raised my voice in excitement that my neighbor who was out walking her dog and my younger teenage daughter who was downstairs in the living room heard my voice and came out to see what was go! ing on. It was really crazy but exciting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157815.html](http://www.nuforc.org/webreports/reports/157/S157815.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
