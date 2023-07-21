@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:46 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Glowing triangle moving across the skySeen a triangular object with 3 lights one light on each point just glowing bright, moved slowly into a cloud.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82625.html](http://www.nuforc.org/webreports/reports/082/S82625.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright glowing object exiting earth's atmosphere w/ object ejmitted from glow at very fast speedI was up working on a project for work and went outside for a cigarette. I was looking east and saw what I initially thought was an airplane with its flood lights through the branches of the tree located in my front yard, I then thought the plane is pretty low so I walked forward to see clearly what was going on. As I walked toward the light my second thought was the Rockford PD with their new police helicopter are on the hunt for someone with the search lights on, until I came to a clear view and the lights grew intense and then more intense as though a star was expanding glowing brighter and brighter for a few seconds and then from the light it looked as if it was a very large meteor entering the atmosphere catching on fire. I was convinced I was seeing the coolest meteor ever to fall to earth until it hit me, the meteor was not falling to earth it was moving away from earth up through and out of our atmosphere . As soon as I realized it was going the wrong direction for a meteor, a small object too small for great descriptive detail but if I were to give the best discription it was almost like an object with a perfect oval shape tilted on its side horizontally shot from the object that was on fire exiting our atmosphere at an imperceptible speed and seemed to disappear into the starry night sky with the fireball left trailing until disapating to blackness.  I then went and looked at the launch scheduled for NASA to see if it had been the shuttle and found that there were no launches scheduled for July.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58206.html](http://www.nuforc.org/webreports/reports/058/S58206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
