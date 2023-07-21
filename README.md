@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:27:18 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Deltona (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A ship was in the sky, visible for about 30 to 45 seconds, before disappearing it shot a green laser Dart down to land.  A helicopter flew and landed towards the location the Lazer was shot to.  This wasn't a plane and it was very large but not in space it was in our clouds in our atmosphere, at least it was large enough to see clearly couldn't have been mistaken for a star it was close.((NUFORC Note:  The source of the report contacted our Center via telephone, and he assured us that the report is a serious-minded attempt to describe what he had seen.  He sounded to us to be sincere.  He stated that he would provied more details in an addendum.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135290.html](http://www.nuforc.org/webreports/reports/135/S135290.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>four bright lights northwest of Middletown Ohio.after cooking out in the woods we where getting ready to go back to the house. I was standing beside my son while he was gitting in the go-kart i saw what looked like bright stars in the skies. Two of them where close together and moved to the left and then down below the treeline. They moved togeather at the same rate. When they went below the treeline I saw two more above them through the trees, They did not move togeather but the bottom light went out after about 5 sec. The forth light floated down untill it went below the treeline.													I did not see a parachute or a smoke trail behind these lights, and they where not the lights of airplanes. The intire incedent lasted about 30 sec. or less.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57776.html](http://www.nuforc.org/webreports/reports/057/S57776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
