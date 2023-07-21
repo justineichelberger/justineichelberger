@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:50 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:49 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I saw two black objects --a large bug shape and a sickle looking shape  parade across the sky one cloudy afternoon.As I sat out in my backyard to take a break on a cloudy afternoon I saw what looked like a giant black bug shaped object that appeared to hop across the sky and immediatly followed by what looked like a twirling black sickle looking object.  They seemed to just vanish and looked like they were putting on some sort of a demonstration.  Anyway I went back into the house and thought who would believe me even if I did report it.  Then I saw some of the photos taken by the Mars rovers and cameras and found what looked like a similar object in the background of sol 605 photo and other photos.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52480.html](http://www.nuforc.org/webreports/reports/052/S52480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oslo () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>UFO spotted over Oslo, Norway moments after presumed terrorist attack.I was watching the CNN coverage of the Oslo, Norway attack and noticed the craft at the 40 second mark of the video.  It seems to hover and disappears two seconds later.  The link to the video is below:  http://us.cnn.com/video/#/video/world/2011/07/22/lister.why.norway.cnn?hpt=hp_c2  I will also be emailing a screen capture of the craft.((NUFORC Note:  We have corrected the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82641.html](http://www.nuforc.org/webreports/reports/082/S82641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
