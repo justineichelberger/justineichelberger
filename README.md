@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yucca Valley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>http://www.examiner.com/homeland-security-in-los-angeles/strange-sighting-over-yucca-valley-puzzles-locals  Unusual circular lights hovered over the city of Yucca Valley, California, for 10 minutes on July 21, 2011, from 10:33 PM until 10:43 PM.  In a dark desert sky, the glowing orbs remained at approximately the same altitude the entire time they were visible. It appeared as though they were slightly moving to align with each other.These unidentified reddish-orange orbs conjured up images of the 1997 "Phoenix Lights" sighting, featured by the History Channel, although they appeared in a different configuration.The glowing lights with a reddish outline appeared oval in shape at one point, just before they finally lined up.  The remaining circle brightly glowed in the sky and then disappeared into the darkness of the night.The writer of this article personally observed and photographed this sighting.  The writer is not a UFO enthusiast and attempted to decipher a scientific explanation for what she witnessed.  The author’s calls to local authorities and military officials were not returned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82644.html](http://www.nuforc.org/webreports/reports/082/S82644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Deer Lodge (MT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>UFO spotted near City in MontanaI am a student of Powell County High School, I work at a local fast food restaurant and view my life as better than average. I was with my boyfriend this evening when I noticed the object. I have always had a fascination with ufos... only I didn't beleive and I am not sure I still do. I think the people who "SEE" them are quacks... but... I am definately not a quack. We were on our way up a dirt road when I noticed above a hill about 15 miiles out of town, there was a huge HUGE brilliant light source. I thought nothing of it and started to "Wish upon a star" for fun when I noticed it move very fast up then across to the right. I got the drivers attention and we pulled the car to an abrupt stop. At first we assumed it was a satellite, but it was too close to the earth... actually in the atmosphere. We watched it for a few minutes and noticed it change position constantly. Not very far, but enough to see a streak of light. It was cigar shaped in theory, but seemed to assume different positions so that it seemed almost elliptical or circular. This object seemed only a few thousand miles above or less. After a while we decided if it was still there the next evening it would have been nothing and relaxed in our seats and watched the clouds by the moon. (The position of the craft was NE of the moons position that evening.) We checked on it a few rapid times in the next minutes... paranoid as he was... but when we looked back at exactly 11:07. It was gone!!! I was unfortunate to have any camera, but i will keep mine attatched to my hip from now on. I know how important fact is to science. (I want to be a meteorologist.) Good luck in any investigation.((NUFORC Note:  We presume that the sighting occurred during the evening.  We have amended the time here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23850.html](http://www.nuforc.org/webreports/reports/023/S23850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
