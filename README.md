@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:50 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 21 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>One fireball looking object followed by another one about 20 seconds later synchronized with the first one, moving in a fast speedMyself along with 9 other witnesses viewed what looked like a bright orange fireball in the sky. It was circle shaped with a slight glow.  This object was moving at a fast speed in an ascending motion. Approximately 20 seconds later, a second object with the same exact description followed in synchronization with the first one.  These objects were visible for about two minutes or so until they disappeared into the clouds.  These objects were sighted at my home on Staten Island, New York.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91063.html](http://www.nuforc.org/webreports/reports/091/S91063.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cocoa Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Evening - Evening minutes.</sub><blockquote><sub>Laying in my backyard.  Looked up and seen a fire looking thing and then gone.  No noise.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111752.html](http://www.nuforc.org/webreports/reports/111/S111752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/164/S164100.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165745.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164157.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164138.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164103.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
