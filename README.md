@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Glen Arbor (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two lights, opposite sides of night sky.  Random paths of high speed movement. MISitting on the beach with my friend we spotted a light that appeared to be a very bright star at first.  I kept watching because it appeared to be blinking.  As my eyes adjusted to the darkness I realized that the light from the apparent star was shining faintly across the lake.  It flickered blue, white and sometimes a faint red. As my friend and I watched the light it started moving in complete random directions at a very fast speed.  It would bounce up and down, then shoot left and right with no apparent pattern.  It stayed in the same general area of the sky.  The speed and ability to stop without slowing down was not earth-like.As my eyes adjusted more I saw what appeared to be a faint smoke trail behind the light.  I could see the frantic random path of the light by the trail it was leaving.  My friend and I watched this light for about 45 minutes until we decided to go back to the car.  As we turned around to walk away from the water we saw an even brighter light in the exact opposite side of the sky.  It was approx. the same height as the other light, but this was a solid white colored light, like a bright star, and was doing the same motions as the other light.  It almost seemed like they were playing a game with each other, it was incredible.  This was the first UFO sighting I have ever had.  I always wanted to have a UFO experience and this far exceeded my hopes of what I would see.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Sighting of Venus and Jupiter?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57840.html](http://www.nuforc.org/webreports/reports/057/S57840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Borderland (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately home - home minutes.</sub><blockquote><sub>it lighted up our living room- also it can come in your house through the wall-or door and can get in your dreams-and also make you pregeant-through mind control-with no man-and steals your things-or takes survineares-stole pictures i had of it while i was a sleep-and ther are space babies-from this creature-not earthly-its trying to multiply through babies-what screares me is how it gets in our homes at night-we have seen lights at night above wher we live-of the ship its in-its no joke-it can kidnap and take you with it-it has the power to control your mind-it can get in any home it wants to-and thats screary-invading my privacy-knows every move we make in our home-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64802.html](http://www.nuforc.org/webreports/reports/064/S64802.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
