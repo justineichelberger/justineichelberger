@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:28 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Borderland (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately home - home minutes.</sub><blockquote><sub>it lighted up our living room- also it can come in your house through the wall-or door and can get in your dreams-and also make you pregeant-through mind control-with no man-and steals your things-or takes survineares-stole pictures i had of it while i was a sleep-and ther are space babies-from this creature-not earthly-its trying to multiply through babies-what screares me is how it gets in our homes at night-we have seen lights at night above wher we live-of the ship its in-its no joke-it can kidnap and take you with it-it has the power to control your mind-it can get in any home it wants to-and thats screary-invading my privacy-knows every move we make in our home-</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64802.html](http://www.nuforc.org/webreports/reports/064/S64802.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gateway (AR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Arkansas UFO encounterI observed two craft, one much brighter and closer than the other, moving in a erratic manner, then changing shape and accelerating away at incredible speed with smaller craft following at first it just looked like two balls of lights blueish in color then more white an faint sound could be heard as well as insects  really becoming loud.  This is my first craft sighting however other family have seen them I have had one encounter with a being not from here at a classified  location.My back ground is USMC Ret,  and I hold master/mate licenses, Unlimited Radar Observer certificate for any body of water or inland waterway an any tonnage world wide as for entities encounter I’ll only report that in person an identity hidden with My Regard</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147745.html](http://www.nuforc.org/webreports/reports/147/S147745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
