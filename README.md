@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Hart Mountain (near Lakeview) (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Isosceles triangle, reflecting light, moved at 45 degree angle from ground level to milky way over 3-5 minutes at about 22:15 on July 22, 1997.One isosceles triangle, reflecting light, moved from behind Hart Mountain in western sky at approximately 45 degree angle steadily and rapidly.  We watched until it disappeared into the milky way (approximately for 3 to 5 minutes).  This was observed by anthropology class of 17 Linfield College adult degree program students/professor. Students are from all levels of career and live in Oregon, Washington and Hawaii.  None have ever observed a sighting as this.  Except for stars and campfire there was no other source of light nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02634.html](http://www.nuforc.org/webreports/reports/002/S02634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Port Orford (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>A large cigar-shape heading west to east.Received: April 12, 2004  Hi Brian,  I've held there is a type of UFO that is a RPV-whether ours or theirs ,I know not. Back in 1997, my wife and I  were working out on our deck at our old place in Port Orford, Oregon. It was in July, and I can't find my old Diary to get an exact date but it was like the 12th or thereabouts. I'd noticed a little twin turbo-prop with funny markrings: Parallel  red stripes on the wings. Also _I couldn't Identify the type!!_ it was a combination of Cessna/Beechcraft/ Piper Turboprops. (I've flown or been around -all- of the  common types.) Also, there was no discernible registration number I'd estimate the altitude to be no more than 2500 ft.agl. What was very curious, was the fact that it would fly over the coastline (ocean was 1/4 mile away and US 101 . Now this little Twin Turboprop hung around for hours, it was at low altitude, hardly efficiently using fuel. It was at least 4 hours in the Air over Port Orford, flying back and forth over the area. My wife looked up at the Little plane and said "what's THAT?" Here was a white "football" with a black stripe around the middle (about 2:00 pm)  and it was moving  north to south at about the same altitude as the Twin. Abruptly the Twin turned and was gone over the Treeline south following the 'Football' the  Football appeared to be about 1/4 the size of the Twin. They  were quite close for a while about a wingspan (30-35 ft, ) apart. Then watching this ,high in the sky was a large cigar-shape heading west to east, no way to tell how high it was or how large. just well above this other show.I know it wasn't a large jet.-no wings or tail. my wife and I used our 8X50 binocs, on all of this, to no avial on detail just closer. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  Date is approximate.  We express our gratitude to Mr. Brian Vike for sharing this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36284.html](http://www.nuforc.org/webreports/reports/036/S36284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
