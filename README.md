@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Meteor w/ sparks.Decided to report this after hearing reports from 9/1-9/2/99. I am not sure of the date, but it was the next to or the last week July and I was working overnights.  I took a late coffee break and went to the roof to see the sky for a few minutes.  I was facing south when I saw a bright light out of the corner of my eye.  I turned to my right and in the NW part of the sky, I saw a meteor heading almost straight down (maybe at a 5o'clock angle).  It was VERY bright and seemed to slow down as it went out. It then quickly brightened again for just a moment only this time, throwing gold/copper sparks from its backside, before burning out. This is my second report in a short time as you may already know.  I sent a report of my "light" sighting from Jenks, OK.  You may contact me if you feel the need.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09515.html](http://www.nuforc.org/webreports/reports/009/S09515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saint Amant (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Extremely bright/reflective object very high in the evening sky, stationary.I was riding my motorcycle west on Hwy 429 around 7:00 to 7:15 in the evening of July 22, 2014, and to the southwest of my position was a round silver craft, extremely high in the sky and very far.  It was not moving to the best of my knowledge.  I watched the craft for 10 to 15 seconds as best I could while on a motorcycle, until I lost view of it because of trees. Once I cleared the trees, I could no longer find it in the sky.  I have noticed a lot of military helicopters in the area lately but did not see anything with the craft.  I ready didn't think anything of the helicopters, until I read the post from Baton Rouge,  I am really skeptical when it comes to this type of stuff.  But I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111967.html](http://www.nuforc.org/webreports/reports/111/S111967.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
