@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Flash of white ball of lightOn July 22nd, at 1:30 a.m., I woke out of a deep sleep.  I lay there thinking I left my rungs on the deck.  I thought I needed to go get them inside, in case of rain.I went to the front door to check the weather and I look up into the sky and there was a bright white burst of light.  There was no sound.  I thought to myself it must be lightning and need to get the rugs in.When I went outside I looked up to where the light came from and there was not one cloud in the sky.  That was not lightning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128642.html](http://www.nuforc.org/webreports/reports/128/S128642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in South Fork (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Orbs of light flashing in the night sky l. They were right in front of us and covering large distances between flashes.My nephew and I were setting out on the back porch of our cabin.  It was about midnight.  It was pitch dark but our eyes had adjusted to the night and we could see almost everything, including the stars and Milky Way formation.  We were setting outside watching stars and talking.  We had been outside for several hours.  We were looking over a large clearing in the valley of two large mountains when all at once we both witnessed a orb of light come over the mountains and drop into the valley about a mile away-directly in front of us.  Within a second, it flashed directly in front of us about thirty yards away.  Within another second or two it passed our position before turning back to us . It hesitated directly in front of us again about twenty yards away before zipping directly opposite our position and back over the mountain.  The event lasted about 6-8 seconds and it was over.  It reminded me of watch fire flies in the back yard.  Only these orbs were larger and coveri! ng large distances between flashes.  They were about the size of a golf ball . They would flash in one spot and then flash again within a second somewhere else Covering large areas at a time. You could see a slight tail of light behind it giving the eye a sense of direction when it flashed as it was traveling.  Other than the slight tail, it was basically a flash of light in the shape of a round ball.  The color was about the same color as the stars; a light blueish-white color.  We were both surprised and amazed at what just happened in front of our eyes. The size is somewhat confusing because it is hard to place its size to scale.  That’s because the country behind it was so big, and the distance it was coving was so large.  He is fourteen years old and I know it made a huge impact on his life..  At the time of the encounter, we  were having a conversation about the stars, life in outer space, and religion. We both believe it might have had something to do with our experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158161.html](http://www.nuforc.org/webreports/reports/158/S158161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
