@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Canterbury (CT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>In the sky, over the West facing side of my home, above the tree line.  A silver cylinder with what appeared to be rectangular apertures, traveling North to South in a straight line, at a high rate of speed...reflecting the rising sun.  A faint jet engine sound could be heard, but there was no trail, and it had no wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147734.html](http://www.nuforc.org/webreports/reports/147/S147734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Hart Mountain (near Lakeview) (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Isosceles triangle, reflecting light, moved at 45 degree angle from ground level to milky way over 3-5 minutes at about 22:15 on July 22, 1997.One isosceles triangle, reflecting light, moved from behind Hart Mountain in western sky at approximately 45 degree angle steadily and rapidly.  We watched until it disappeared into the milky way (approximately for 3 to 5 minutes).  This was observed by anthropology class of 17 Linfield College adult degree program students/professor. Students are from all levels of career and live in Oregon, Washington and Hawaii.  None have ever observed a sighting as this.  Except for stars and campfire there was no other source of light nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02634.html](http://www.nuforc.org/webreports/reports/002/S02634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
