@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:16 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Huntersville (NC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO 10-12 yards away from us! It shines it's spotlight on us!We are not alone  It begins around midnight. Friday,  July 22, 2011.  It was a clear night in the suburbs of Charlotte, NC.  More stars out than usual.  My friend & I were looking at the stars, admiring their beauty.  There is what looks like a really brightly shinning and blinking star off in the distant sky.  We watched it for a spell of about 20 minutes.  I thought at this point it must be a tower of some kind.  I looked away.  Just then, this "tower" starts moving around.  It's now a  bright series if flashing lights that appears to be moving up, down, and side to side.  I think my eyes are playing tricks on me.  I look away from the lights and rub my eyes.  I am done starring off into the sky.  I am looking to my right, talking with my friend; when a bright, white flash in the sky behind the trees & right in front of me, catches my attention. "what ((deleted)) was that?" I exclaimed!   It was then, that my friend said, "it's that." (while pointing up to the sky, where the flash came from) I saw the cluster of lights (red, orange, & white) revolving around in the sky.  It was high then low, high, low. It looked as tho it were flat.  This was NOT consiststant with an airplane.  Airplanes move in a straight line & have simultaneously blinking white & red lights.  It was moving so fast! It turned it's big spot light towards my friend & I.  I thought it looked as though it were headed straight towards us. Then we could hear it's low sounding humm.  It now had shifted shapes.  It was now a sphere. It hovered over the nearest  bunch of trees & then came down into our cul-da-sac.  Just hovering there.  It hummed along down our street and stopped right before passing us.  It shined it's bright, white, spotlight onto us both as we just stood there, starring in awe & disbelief.  The UFO was now about 12 yards away from us. It turns it's light back to it's path & humms as it hovers down our street.  The top of the craft was as high up  as the bottom of the second story windows.  It appears to be the size of a compact car.  It moves passed our house & down our street, then back up into the heavens.  We tried to take a few photos.  Unfortunately we wern't able to get anything that looked even remotely close to what we saw with our eyes.  It began to ascend into the night sky. It became flat again!   In just a few seconds it disappeared.   Back up to the heavens to be seen as a bright star again.  This whole scene takes place in about 7-10 minutes. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82720.html](http://www.nuforc.org/webreports/reports/082/S82720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>large bright light that was still but then quickly moved across the sky faster than an airplane could have and it was very big.I saw a bright light in the sky and thought it was an unusually bright and large star, until it started to move faster than an airplane across the sky.  It was very large and fast, and had lights unlike I have ever seen before on anything in the sky.  It was beautiful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76713.html](http://www.nuforc.org/webreports/reports/076/S76713.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
