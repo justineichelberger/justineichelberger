@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saint Amant (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Extremely bright/reflective object very high in the evening sky, stationary.I was riding my motorcycle west on Hwy 429 around 7:00 to 7:15 in the evening of July 22, 2014, and to the southwest of my position was a round silver craft, extremely high in the sky and very far.  It was not moving to the best of my knowledge.  I watched the craft for 10 to 15 seconds as best I could while on a motorcycle, until I lost view of it because of trees. Once I cleared the trees, I could no longer find it in the sky.  I have noticed a lot of military helicopters in the area lately but did not see anything with the craft.  I ready didn't think anything of the helicopters, until I read the post from Baton Rouge,  I am really skeptical when it comes to this type of stuff.  But I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111967.html](http://www.nuforc.org/webreports/reports/111/S111967.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw the first object on 07/21/2015, about 22:30, when I was leaving for work.  The object flew from the western sky to the southern sky then disappeared.  The duration approximately 3 minutes.Then on 7/22/2015, at 22:30, I saw a identical object take the same flight path.  When the object disappeared in the same location I went in side to retrieve my phone.  Upon returning outside there was another indentical object taking the same flight path.  Then I called to my wife to show her.  When she got outside that was when I noticed five more identical objects fly across the western horizon eventually taking the same flight path of the other two objects and disappearing in the same location one after another.  The objects were orange fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120606.html](http://www.nuforc.org/webreports/reports/120/S120606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
