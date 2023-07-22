@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:27:09 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:14:40 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Circular lighted craft emitting beam of bright white lights onto surrounding clouds for hours during cometCircle of white lights along diameter of craft . Red blue light on top at times. Moving through clouds  Sometimes Emitting white light from craft onto clouds surrounding it. Seen “ teardrop orb “ fall or come out of bottom of craft twice. Not a star . Omitted LIGHT onto surrounding clouds!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157862.html](http://www.nuforc.org/webreports/reports/157/S157862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Owings Mills (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw four bright white lights, one red in a pattern straight across not similar to any aircraft I've ever seen.The object appeared in the sky, with four birght white lights and one bright red light in the center of the four white ones.  The object hovered for approximately 8 seconds giving me the impression of a round shape, then moved away at an incredible rate of speed in a straight line.  I have never seen anything excelerate quite as fast.  It did not appear to be any type of aircraft I've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08452.html](http://www.nuforc.org/webreports/reports/008/S08452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
