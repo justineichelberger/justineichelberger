@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 22 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:30:57 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Maria (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw the first object on 07/21/2015, about 22:30, when I was leaving for work.  The object flew from the western sky to the southern sky then disappeared.  The duration approximately 3 minutes.Then on 7/22/2015, at 22:30, I saw a identical object take the same flight path.  When the object disappeared in the same location I went in side to retrieve my phone.  Upon returning outside there was another indentical object taking the same flight path.  Then I called to my wife to show her.  When she got outside that was when I noticed five more identical objects fly across the western horizon eventually taking the same flight path of the other two objects and disappearing in the same location one after another.  The objects were orange fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120606.html](http://www.nuforc.org/webreports/reports/120/S120606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kilsyth (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light seen over kilsth area on monday eveningMy friend told me to have take a look at this light that looked like a star. But it was moving slowly at first and then it darted across the sky for about 1km. There was a passenger plane in the sky aswell but that was closer to the horizon.The light was basically directly above us when we first saw it. I thought it was a satterlite or something but the second time it darted it made a 90 degree turn and then it slowly faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18639.html](http://www.nuforc.org/webreports/reports/018/S18639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [348](http://www.nuforc.org/webreports/reports/164/S164179.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164266.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164125.html)
-- [345](http://www.nuforc.org/webreports/reports/164/S164135.html)
-- [344](http://www.nuforc.org/webreports/reports/157/S157887.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
