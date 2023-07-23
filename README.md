@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:18 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Just got home and start unloading my vehicle and on my second trip facing southwest and I look up to see an object in the sky that was dark at its Center but had some lights that were nearly of a typical, common commercial aircraft.  But there's something off about them as well as the small shape of the all black vehicle.  But what was most striking is that spreading out from either side were crescent shaped white and somewhat transparent smokey cloud looking fans.  It was as if something was cutting through water at such a very fast speed Crescent wakes spread out like elongated wings.  Yet the object was moving so slow and steady nothing made sense and I question for a moment if it was a glider.  But the cloud like, smoke like Crescent fans protruding from either side changed in shape a little bit as if affected by turbulence.  Meanwhile it just so happens my neighbor was having a party with a DJ and at the same time the DJ announce to everybody there to look up quickly and they did.  Then people all gasped and shouted in awe and disbelief.  I went to join them and sure enough, we'd all seen the exact same thing.  It slowly disappeared behind a large tree not to return and we thought that would be the end of it.  But we  live near the Van Nuys airport and moments later military jets crafts took off one by one which an extremely rare occurrence at our non-commercial airport.  Having no idea where they went we all parted ways until about 10 minutes later when helicopters started hovering over the neighborhoods around us.  And they weren't normal helicopters because we could all feel the Deep "Thud, Thud, Thud" of them in our guts.All in all what struck me the most was how slow and steady it was going which is something I never expected. It was as if it was doing a Victory lap or trying to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136288.html](http://www.nuforc.org/webreports/reports/136/S136288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>20 light dots leaving a bright dot or star in the western sky and all moved evenly spaced and steadily  N.E. until disappearing.Looking up at a bright light or star in the western sky (in Friendsville, Md looking towards Morgantown, wv) we counted around 20 light dots in evenly spaced intervals coming from that bright light moving north east. Slow, steady, evenly spaced they continued seemingly higher and higher until disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153913.html](http://www.nuforc.org/webreports/reports/153/S153913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
