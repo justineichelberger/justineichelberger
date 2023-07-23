@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:57 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bay Center (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large object with bright lights near Bay Center, WA.Early on the morning of Thursday, July 23rd, 2015, I was house sitting in a rural area of Pacific County, WA, and had gone to bed.  Lying facing the window with my eyes closed, I could see light coming in the window.  Figured it was a car coming up the road, not totally unheard of, even out there.  I realized I did not hear an engine, though, and the light barely fluctuated, so I got up to look.What I saw made me grab my glasses so I could see clearly.  Returning to the window, I saw two large white lights, about the size of the full moon, perhaps a bit smaller, quite a ways apart (perhaps 100 feet or so), traveling very slowly from W/NW to E/SE, in a descending manner, behind a stand of trees.  When the white lights were behind trees, I could see red lights (much smaller than the white ones, maybe double the size of Venus), none of them flashing.  The only sound I heard was similar to a lone passenger car out on the highway, about half a mile away.  It was very quiet, and descending into an area that is nothing but marshland.  After I could no longer see it, I just sat staring at the window.  I saw no further activity, no other occurrences.  I have seen things before, but never this big, or this close.  I remained awake, unable to sleep, for at least another 3 hours.It was very dark out there, being rural, without exterior lights, and cloudy that night, so I could not see anything but the lights themselves.The following day, I let the dogs out, and they went into the gully that leads to the marsh.  When they returned, the black lab suddenly stuck by my side and would not leave me, she HAD to be touching me, though this only lasted about an hour.  I did not report it elsewhere, to police or media.  I did not go into the marsh myself.I did not get photos or videos of the object, but I did take pics of the area, and via Google Earth, to give you an idea of the area.((NUFORC Note:  The case has been shared with Mr. James E. Clarkson, MUFON State Director for Washington State, who has offered to follow up on it, and perhaps perform an investigation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120702.html](http://www.nuforc.org/webreports/reports/120/S120702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange Lights Over YumaA series of orange lights were spotted for a few moments SW of the Foothills area of Yuma, AZ at approx. 10:20 PM, July 23, 2008.  There were four to six symetrical lights arranged in a perfect line and were seen to hover briefly before completely disappearing.  I have lived in this area for two years and am very familiar with the normal air traffic traveling past, i.e. helicopters, civilian and military aircraft, yet this group of lights was completely different than anything I have seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64736.html](http://www.nuforc.org/webreports/reports/064/S64736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
