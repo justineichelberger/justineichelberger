@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:52 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Translucent object observed flying in the clear, blue afternoon sky.We were traveling north on Beltline, when we first noticed an object flying in the cloudless, blue sky from west to east.  It appeared to be translucent and made me think of how an agate would look if it was held up to the sky.  It was quite small, longer than it was tall, but it definitely had a hump top & bottom about the middle of the craft.  We could see no wings,tail, or anything extending from the craft.  The speed was not too much faster than a commercial airliner, and we were able to watch it clearly.  The strangest thing about it was that it was completely invisible to our eyes when we tried to observe it after removing our sunglasses.  When we replaced our sunglasses it was clearly visible again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128667.html](http://www.nuforc.org/webreports/reports/128/S128667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Loon Lake (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.43333333333333335 - 0.43333333333333335 minutes.</sub><blockquote><sub>There was a large lightning storm in our area. We live in a rural area.  There is a large open field behind our home.  I was filming the lightening.  I set my phone to video and slow motion.  I was on the back patio.  All the lights and the TV were off in the house.  I pointed my phone up in the sky and did a 26 second slow motion recording.  When I reviewed it, there appears to be a strange craft that I did not see when filming.  It is somewhat diamond shaped and has flashing white, blue and amber lights.  The fact that I did not see it makes no sense to me because it was pitch black out.  People think it may be a drone but it does not look like a drone to me.  Very strange.Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147956.html](http://www.nuforc.org/webreports/reports/147/S147956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
