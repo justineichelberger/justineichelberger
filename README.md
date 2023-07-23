@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:30:57 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:13 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kilsyth (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light seen over kilsth area on monday eveningMy friend told me to have take a look at this light that looked like a star. But it was moving slowly at first and then it darted across the sky for about 1km. There was a passenger plane in the sky aswell but that was closer to the horizon.The light was basically directly above us when we first saw it. I thought it was a satterlite or something but the second time it darted it made a 90 degree turn and then it slowly faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18639.html](http://www.nuforc.org/webreports/reports/018/S18639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cedar City/St. George (between) (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown object seen in sky, with lighted tail.  Changed directions and altitude,rapidly. Had appx 30 meter tail that looked like "sparks"Around 11:00pm, we were driving south bound on I15, between St. George and Cedar City, Utah.  We saw what looked like a firework shoot up into the air, we watched as it continued to climb at great speed.  It then stopped and seemed to be hovering in one place for appx 10 sec. then it shot completly horizontal to the left.  It then stopped and began moving upward again, it hesitated again,then started what looked to be a 'nose dive.'  It got so close to the ground we thought it was a plane crashing, then suddenly it shot straight up.(similar to the motion of a yo-yo) Then the tail of light disapeared.  When the tail went out, we could see one flashing blue light, and one flashing red light, and what looked to be 4 flashing yellow lights. It seemed to be airplane lights, but the thing that made us wonder was the speed at which it traveled, verticaly and horizontaly, and the way it would hover or hesitate, there didn't seem to be a possible way that a personal prop plane or jet could manuver this way, and there was no sound. This happened for about 5 minutes.  There were several people pulled off to the side of the road looking and taking pictures.  We did take 3-4 pictures, but they have not been developed yet. What we saw was an object which seemed to be the size of a small prop plane, with a appx 30 meter tail of what seemed to be sparks.  There was no sound.  It was able to move unlike any flying object that we know of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08455.html](http://www.nuforc.org/webreports/reports/008/S08455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
