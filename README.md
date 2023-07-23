@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rushford (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I'm glad I'm not the only one.  It was so strange.My gf, our son, and I went on a midnight bike ride we noticed bright flashing red ,blue, white lights to the west when it moved was really quick.  Then we saw 2 to the south and 2 to the north none to the east.  They would dart back and forth even in circles forward or backward.  We had our son with so we watched for about 35 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135353.html](http://www.nuforc.org/webreports/reports/135/S135353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Cape Mears (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright orbs over the Oregon Coast!	Today's report is in addition to my last report, sent last week.	During the time of our sighting, it was extremely dark and were in a heavy misty fog bank. The three orbs were just over the ocean about 100 meters from the 30’ bank we were standing on.  As the orbs moved out in the ocean, they were heading towards Pyramid Rock which is about 1/2 mile from the shore line.  Once near the rock, they next headed south back near the beach but towards the rocky cliffs of Cape Mears.  The lights then followed the cape out into the ocean and around the rocky cliffs out of sight.	Once the lights left our view, my wife and I couldn’t believe what we just saw.  My wife said that if she didn’t see it with her own eyes, she would have never believed me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142444.html](http://www.nuforc.org/webreports/reports/142/S142444.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
