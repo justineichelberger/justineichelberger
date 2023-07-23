@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:56 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>20 light dots leaving a bright dot or star in the western sky and all moved evenly spaced and steadily  N.E. until disappearing.Looking up at a bright light or star in the western sky (in Friendsville, Md looking towards Morgantown, wv) we counted around 20 light dots in evenly spaced intervals coming from that bright light moving north east. Slow, steady, evenly spaced they continued seemingly higher and higher until disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153913.html](http://www.nuforc.org/webreports/reports/153/S153913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in South China (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A self luminous eliptical object was seen to be descending towards the horizon.I would like to state for the record that I was not the person who witnessed the UFO, however it was brought to my attention by people who knew about my interest in such matters. The object was sighted very close to the setting sun, initially it was thought to be an aircraft off in the distance, as it wqas thought that it was reflecting the sunlight off the surface of the craft.  On later discussion we decided that this could not be the case because the sun was behind it and therefore could not be reflecting off it. The object which was oval in shape was seen to decend to below ground level, we were on top of a hill overlooking China Lake, and we later determined that it must have been many miles in the distance as the object was so small.  It didn't move at speed or stop and start it's descent, it just gradually descended to below the hight we were observing from. There were potentially 100+ obserevers, however many of these were in medatation at the time.  And I myself who is normally engaged in the persuit of scanning the skies for things which are out of place, had my head burried in a book.  I do remember however, that there was very little cloud cover over the sky and the day had been very hot (over 100 degrees).((NUFORC Note:  Witness indicates that the date of the sighting may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09447.html](http://www.nuforc.org/webreports/reports/009/S09447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
