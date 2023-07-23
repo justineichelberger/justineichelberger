@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lodge Grass (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright orange orb moving from south to north, then stopped and brightness slowly faded to dark.  About thirty seconds later, saw orb reappear slightly northeast of last location gradually gaining brightness.  It moved westward until out of sight.  It was flying under the cloud cover, no stars could be seen.  There was no sound of a motor and was about half the size of a smaller full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147750.html](http://www.nuforc.org/webreports/reports/147/S147750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Albert (Canada) (AB) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 Black squares that met in the sky, then suddenly disappeared.I was on my roof looking in the sky and I saw a small black shaped box with a red section (maybe a light) come from out from behind a cloud.  My dad was with me at the time and we thought it was just a weather balloon.  But then 3 more of the same shape and sized objects appeared.  They all gathered in a group and just hovered really close to each other.  I told my dad to go inside and get a pair of bonoculars so that I could get a closer view of the objects.  I kept them in my sight until he returned, but by the time I looked through the bonoculars the had vanished.  ***The size of the objects were about the size of a toothpick if you were looking directly down at the point end (so the circumfrance of a toothpick, which is very small).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28796.html](http://www.nuforc.org/webreports/reports/028/S28796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
