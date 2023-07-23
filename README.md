@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:03 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:59 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Mt. Laguna (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black triangluar craft seen near Mt. Laguna Air Force Station.In a remote forest on the Pacific Coast Trail, about 500 yards south of Mt. Laguna Air Force Station, a black triangular craft was seen heading west towards Escondito, CA. The craft was so black that if it turned off it's blinking strobe lights, you could not have seen it in the night sky; just its outline. The craft had three red lights at each tip of the triangle.  These red lights flashed independently of each other.  A very deep low rumbling sound was associated with the sighting. The craft was flying very, very slowly, as if searching for something. I cannot give an estimate on the size, however I would say that it was larger than a normal airplane. The sky was 100 clear with no clouds and about 2 nights into the new moon. Also seen the next day in the area were 2 black helicopters with NO insignia or markings flying to a restricted military area north of where this sighting took place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18665.html](http://www.nuforc.org/webreports/reports/018/S18665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three orange-red lights in shape of triangle with fourth light approaching during an intense lightning storm.My mom told me to look out the window to look at the lightning, as she was downstairs looking out the window.  I looked out my bedroom window which is upstairs.  I saw three orange-ish red lights in the shape of a triangle in the southern sky.  They were rotating and gyrating while staying in shape. It was approx. 40 degrees high in the sky.  My mom did not see them because a tree was blocking her view.  My brother and I ran downstairs and outside to get a better look. My parents followed us.  It was lightning and thundering in the distance and as the lightning lit up the sky I saw a black colored center with the three lights on each corner but that was the only time I saw the center.  As it moved across the sky to the west, a forth light approached from the lower left side of the triangle. It didn't appear to be connected to the other three lights, but it was the same orange-red color.  As it came closer to the triangle shape only one of those lights was still vis! ible. Then both lights faded into the clouds.  It was really intense cloud cover with an extreme amount of lighting. We didn't see it again after that.  The whole sighting was approx. 2-3 minutes.  We didn't even think to take a picture of it until it was out of sight.  My mom did try to find our binoculars but didn't in time.  My mother, father and brother all witnessed the event.  My mother made a police report with 911 and reported it to local news stations via emails.  We are curious if anyone else saw it or have pics to prove what we saw.  I had my cell phone in my pocket but was too awe struck to even think of taking a picture.  We were kind of paralyzed by the thought of what we were witnessing.  It was exactly the triangle shape like people describe.  As a family, we are changed forever by this sighting.  We will never forget this night!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82687.html](http://www.nuforc.org/webreports/reports/082/S82687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
