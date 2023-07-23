@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:50 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:48 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Orange Lights Over YumaA series of orange lights were spotted for a few moments SW of the Foothills area of Yuma, AZ at approx. 10:20 PM, July 23, 2008.  There were four to six symetrical lights arranged in a perfect line and were seen to hover briefly before completely disappearing.  I have lived in this area for two years and am very familiar with the normal air traffic traveling past, i.e. helicopters, civilian and military aircraft, yet this group of lights was completely different than anything I have seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64736.html](http://www.nuforc.org/webreports/reports/064/S64736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bishipstone (near Salisbury, Wilts) (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ALUMINEUM IN COLOR ROTATING WITH A WOBBLE,IT WAS APROXIMATELY 30 FEET IN DIAMETER IT HOVERED OVER TREES FOR THREE MINUTES BEFORE SLOWLEY MOVING ON TOWARDS THE EAST AND WAS SHORTELY FOLLOWED BY A RAF JET.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08477.html](http://www.nuforc.org/webreports/reports/008/S08477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
