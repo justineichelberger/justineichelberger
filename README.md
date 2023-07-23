@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:48 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lagro/Wabash (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Multiple amber lights.I have just recently came to terms with a encounter of unexplained lights that I witnessed last year for the first time, and now I feel it is time to come forward and explain my experience.  Like most people I have been skeptical about this subject, but after observing what I saw on July 23, 2008 at 10:10 pm, I definitely have more than an open mind on this subject.My boyfriend and I had just left from an evening of dogsitting.  As we got to the edge of Lagro, (called "old Lagro Road") heading west to Wabash, I had dozed off only to be awaken with a nudge on the shoulder and him telling me "Look at that, did you see that".  I then looked out my passenger window and saw nothing. He slowed the vehicle down, but there was nothing I could see. As we got to the edge of Wabash (a very curvy area) straight out in front of us was a amber orangish light that was only visible for about 6 seconds and faded or burnt out.  Now, upon entering Wabash on E. Hill St., we entered town.  Sitting at a stop sign at Hill St. and Wabash St (where the courthouse sits) we proceeded across and noticed, just above the treeline, about a block away this light had reappeared. Let me explain that after observing the light previously, this light then split into five lights, estimating to be at least a quater mile wide. The lights then one after the other faded out.  We then proceeded to an open area on the edge of town for an unobstructed view.Upon getting out of our vehicle, we noticed numerous aircraft in the area of the sighting, only to be followed by military jets.  As a matter of fact, we are only 25 miles from Grissom Air Reserve Base, in Bunker Hill, IN.  These jets were low, and at a high rate of speed and seemed to me they were aware of the lights.I have never experienced anything of this kind and was in shock at first. We were silent, then went home and sat in the kitchen in silence for at least an hour.  The night's events were then attempted to be discussed, but I was not ready.  That is why I am here now, because I am ready to share what I saw.  I know that these are not flares!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69266.html](http://www.nuforc.org/webreports/reports/069/S69266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Middletown (DE) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Red flashing light moving at impossible speed at night in middletown DEBright red light traveling at a very high rate speed, seen over amazon in middle traveling south down 301.  The red light was leaving trails because my eyes could not keep up with its speed,  I have never seen anything travel this fast on this earth!  It was dark out and the craft or whatever it is had no white head light for seeing, only a  bright red light that seen to be very close because it appeared to be large in size.  It lasted for a very short duration and made no sound, either this light was leaving trails behind it or it had smaller red light traveling with it I'm not sure, but I can tell you, it shook me up a bit when I seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111783.html](http://www.nuforc.org/webreports/reports/111/S111783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
