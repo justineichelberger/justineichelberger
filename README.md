@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:58 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in SMYRNA (DE) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>SEEN A WHITE TRAIL VERY FAST ,EGG IN FROUNT   , EGG WAS BLUEGOING UP   RT 13 IN SMYRNA, DEL  HEADED NORTH  LOOKED UP SEEN A WHITE TRAIL VERY FAST EGG IN FROUNT  EGG WAS BLUE TRAIL WAS WHITE, I AM A PILOT   IT WAS NO PLANE COLORER WAS A WHITE BLUISH   SORRY BEST I COULD DO WEATHER : SUNNY ABOUT 86  BLUE SKY   SOME CLOUDS I LOST IT BEHIND A CLOUD.........</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18584.html](http://www.nuforc.org/webreports/reports/018/S18584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lodge Grass (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright orange orb moving from south to north, then stopped and brightness slowly faded to dark.  About thirty seconds later, saw orb reappear slightly northeast of last location gradually gaining brightness.  It moved westward until out of sight.  It was flying under the cloud cover, no stars could be seen.  There was no sound of a motor and was about half the size of a smaller full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147750.html](http://www.nuforc.org/webreports/reports/147/S147750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
