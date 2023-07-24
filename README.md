@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:02 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:47 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball disappearingDriving home saw low flying fireball thought it was a burn in the power line, turned around and saw it heading south below the clouds.  Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120634.html](http://www.nuforc.org/webreports/reports/120/S120634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3+ - 3+ minutes.</sub><blockquote><sub>Large silver saucer with dome on top, a light that went from right to left through its middle, hovering.The flying object was a large siver saucer with a dome on top. All of its edges were roundded and gradual. It had a light through its middle that went from left to right. It moved slowly across the sky until i lost sight of it from my moving position in my car. I always thaught there could be a chance, but it was never something I thought I would see so clearly.(NUFORC Note:  We have spoken with a UFO investigator in the Phoenix area, and we believe that the report may have been caused by a sighting of a popular blimp, which advertises beer.  However, this is only a guess, and we are uncertain about our surmise in this case, since we do not know if this particular blimp flies at 11:30 p.m..  Something similar was reported from Phoenix on July 23, as well.  Please see other reports for July 23, and 24.  We believe that the correct date should be July 24, 2001, and we have changed it here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18617.html](http://www.nuforc.org/webreports/reports/018/S18617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
