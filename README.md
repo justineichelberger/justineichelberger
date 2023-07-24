@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:48 on 23 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:29:01 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bishipstone (near Salisbury, Wilts) (UK/England) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ALUMINEUM IN COLOR ROTATING WITH A WOBBLE,IT WAS APROXIMATELY 30 FEET IN DIAMETER IT HOVERED OVER TREES FOR THREE MINUTES BEFORE SLOWLEY MOVING ON TOWARDS THE EAST AND WAS SHORTELY FOLLOWED BY A RAF JET.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08477.html](http://www.nuforc.org/webreports/reports/008/S08477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a bright orange (flame like) light ascending toward the north-north east in the vicinity of Willow Run airport in Ypsilanti, MII was looking near dusk to the east over the neighbor's houses and saw what at first I thought was something like a helium balloon someone had let go with something burning hanging from it.  A really bright orange light flickering like a flame.  Still assuming it was just a balloon I moved as it went behind some trees to catch sight of it coming around the other side but realized the clouds weren't noticeably moving and there was no noticeable wind at ground level.The object continued to move north north east and the light never changed in intensity.  We are close to Willow Run airport, and the light seemed to be heading NNE toward the direction of the aiport - but flight paths in that area of the sky are generally heading 'away' from the airport unless they are on landing approach (descending rather than ascending).I tried to see if I could spot any strobes or navigation (red/green) lighting but the orange flicker was too intense.  I also strained to hear any sort of engine noises but heard none and it was generally quiet due to the time of the evening.I watched the light continue to ascend in a rather consistent north-north east direction, getting slightly smaller but still quite intense and still flickering orange like a flame until it eventually disapeered into the clouds to the northeast.It was more than likely just a plane with a whacked out light, but they generally don't take a flight path that would be that close to the airport and I could not hear any sounds of engine noises which is generally strange for anything that bright. (generally meaning it is closer proximity)  Also it would have been at least somewhat in profile when I first saw it and was obviously headed away when I finally lost sight of it - generally when you catch site of a plane coming or going from the airport, you may for example see a landing light that appears quite intense, but that is only when the plane is coming directly at you. I contacted the local police department non-emergency line and my call was the first they had heard of it.  I also attempted to contact Willow Run airport but due to the time of night I only got voice mail.  Worried that it might have been a plane on fire, I also called the airport emergency dispatch from the number listed on Willow Run's voice mail message, but similarly my call was the first they had heard of it and they had no reports of aircraft emergencies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71277.html](http://www.nuforc.org/webreports/reports/071/S71277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [380](http://www.nuforc.org/webreports/reports/164/S164145.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164170.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164168.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165756.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164281.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
