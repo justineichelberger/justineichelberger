@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:59 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Burgess Hill (UK/England) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Object sighted in sky to the east, near approach to airport, seemed triangular  or circular shape when enlarged.Clear day, near approach to airport, very patchy high cloud, I was watching aircraft from my rear porch going in to land, I then noticed object in sky to the east,this was above aircraft landing level, I managed to grab camera and take two photos (submitted) before the craft dissapeared, I have tried to enlarge the photos, it does appear to be either triangular shape or spherical, it seemed dark in colour possibly of metallic colour. I cant guess at the height but it was below any high cloud as can be seen from the photos.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58244.html](http://www.nuforc.org/webreports/reports/058/S58244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Adamsville (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>One round orange sphere 5-6' around w/ bright circular glowing bottom center cruisin thru 20 mph, 100 ' tops of treesOne round orange sphere about the size of a large beach ball with bright circular glowing bottom center-like structure.  Kept a steady but slow pace approximately 100 feet above the trees moving at approximately 20 m.p.h in a southeast direction.  Very clear night in a very rural area, planes and other flying objects were very easy to distinguish.  It made no noises or sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91180.html](http://www.nuforc.org/webreports/reports/091/S91180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
