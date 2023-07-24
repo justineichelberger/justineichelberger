@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:49 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Tilton (NH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver/white cylinder moving slowly with no sound or lights.Cylinder in shape that is silver/white in color heading East from West.  No sounds or lights moved slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147792.html](http://www.nuforc.org/webreports/reports/147/S147792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eastanollee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At approx. 11:00 pm, i was looking eastward in the night sky, when I observed a bright bluesh slver star that looked out of place.  Then, I futherr noticed it was moving in a westward direction and irregualr movements.  As i looked, I saw a shape descend seemingly out of the first shape.  It was a brilliant orange (like an ember blowing out of a fire.  It descended down about two thousand feet, then turned left in an 180 turn, rising back to the altitude of the first shape.  It further sped off at a really high rate of speed to the southeast.  The main shape continued to due west without changing altitude.((NUFORC Note:  We spoke with the witness via telephone, and we found him to be quite sincere and sober-minded.  We suspect he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142408.html](http://www.nuforc.org/webreports/reports/142/S142408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
