@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:06:47 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Pauls Valley (OK) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Diamond shaped craft seen during the day.My Daughter and I were driving North on I-35 towards Purcell I noticed what appeared to be a kite stuck in the high lines on the West side of the Highway. As I got nearer to the Highlines I noticed it was a craft of some kind just hovering in the sky. I pointed this out to my daughter and we both observed the craft as it hovered there. It was a diamond shape and was of a Silver metalic color. I rolled the window down to see if there was any sound and could hear none. After observing the craft for about 5 Minutes It sped off to the NE at a high rate of speed. The best way to describe the speed is to say it was there and then it was gone in the blink of an eye. I have been searching the net to see if anyone else has seen anything like this in our area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26595.html](http://www.nuforc.org/webreports/reports/026/S26595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>One light trailing another much slower than satellites at high altitide overhead.Ok. I am a very good observer.  My mind isn't easily fooled.   Me and my equally conscious buddy saw an aerial phenom at about 0600 UT to 0700UT July 23 or 24 that was not easily explainable.We are in western canada on MT. So it was about 11 pm or 12 midnight local.My buddy alerted me to this and this what we saw.... 2 apparently stationary lights, one about 1.5 or 2 magnitudes brighter than the other that was "in front" of the less bright one and separated by maybe 1- 2 degrees.  I realized right away they weren't stars because the position near Lyra almost overhead, wasn't  correct. ..anyway, these apparently stationary two lights "began" to move together in formation...one trailing the other SW to NE and certainly too  slow to be satellites because a real N-S polar satellite passed by...SO the crazy thing is the brighter light in front of the trailing one faded to the same brightness as the other..then they both just faded away. I estimate we saw this for a good minute..maybe 2.It wasn't an Irridium Sat because they are in polar orbits only.I checked the ISS sightings for this area too and there weren't any scheduled for Friday or Saturday.I like to think we saw a real UFO ..or rather 2 !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77002.html](http://www.nuforc.org/webreports/reports/077/S77002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
