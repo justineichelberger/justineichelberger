@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:54 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:02 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A light glowed and grew bigger and bigger til it resembled the shape of a roundish triangle and it spun.It was at 2230hrs. From where I was; right at the toll bridge (40° 36.1823 N  74° 03.3498 W) coming into Staten Island; I saw an object 30 degrees SSW.  It was glowing brighter and dimmer. Eventually it glowed so bright it resembled the shape of a roundish trangular shape.  I saw it move downward to my 25degree angle.  I saw it spin and move West and it glowed brighter as it moved.  Then it just disappeared.  And then I got home and I saw it again and this time I was out of the car and I heard an echoing of wind and the next thing I saw, the light disappeared.I knew I couldn't have mistaken it for anything else. It was extremely cloudy I couldn't even see the stars!  Aircraft don't fly that low in the sky and their lights blink but this object didn't have blinking lights.  There wasn't any visible sight of the moon due to the clouds.  And even if there was the moon, the moon is never that low in the sky.I am 110% positive that it was an UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91166.html](http://www.nuforc.org/webreports/reports/091/S91166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball disappearingDriving home saw low flying fireball thought it was a burn in the power line, turned around and saw it heading south below the clouds.  Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120634.html](http://www.nuforc.org/webreports/reports/120/S120634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
