@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Tucson (due N,  low  below an a/c) (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>we were  sitting  in  our  hot tub gazing  at  stars and  looked up and saw  this  low  intense  white  fireball  moving  north  as  an airplane crossed over it((NUFORC Note:  We suspect a satellite might have been the explanation of the white object, but that is only a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04287.html](http://www.nuforc.org/webreports/reports/004/S04287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Goshen (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Several sequencing lights appeared over a vast part of the southern sky from right outside the Goshen, Indiana areaHusband’s statement:  On the night of Wednesday, July 24, 2008, at 10:15; My wife and I witnessed a series of red-colored lights appear in the sky from our home, outside the Goshen, Indiana area. From our field of view, the lights first started to appear in the south-south-west area of the sky. I first witnessed two lights that where bigger then the stars around them. One of the lights were red, the second slightly above the first was white. They disappeared a few seconds after I saw them, then 5 degrees west, another red light appeared stationary like the first two and then faded out remaining in the same position. These first lights looked like they were several miles away and were fairly low in the southern horizon. I then told my wife, who was standing with me, that I thought there was something odd going on in the sky and motioned her to see. We then witnessed two more red lights appear, and then disappear, in a relative similar position to the first sighting . Less than a minute later ten red lights appeared in a sequence at an exact 45 degree angle.  Then two more lights appeared at a 45 degree angle away from the previous angle still in sequence with the other angle.  For 15 more minutes I had numerous red lights appear in the sky from south-south-west positions to south-west-west positions of the sky.  The lights appeared to be many miles away. Wife’s statement:  We saw an amazing, unexplainable, display of lights.   Lights were appearing and disappearing all over the sky.  We even saw weird light patterns.  All this transpired about 15 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64920.html](http://www.nuforc.org/webreports/reports/064/S64920.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
