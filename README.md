@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:10:17 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:50 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brunswick County (NC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I just heard you on C2C talking about huge number of reports of sightings at sea from the coast of Horry County SC.  Horry and Georgetown Counties make up the east facing coast of Long Bay.  I live in Brunswick County, NC, which has the south facing coast of Long Bay.  I have worked on the coast for many years and both seen and heard the many naval air exercises that go on in Long Bay. In addition, from my home, I hear the jets practicing at all hours of the day and night.  I happen to live right under the main vector that the military has used for many years to fly to Long Bay from the bases inland, so I see them or hear them all the time.  Just wanted you to be aware of the long term military presence there, for whatever that's worth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are well aware of the considerable amount of military activity in this area, but we do not believe that it is the cause of the orange lights seen over the ocean.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100431.html](http://www.nuforc.org/webreports/reports/100/S100431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in North Huntingdon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Small Sphere Observed At Close RangeI have been investigating an unusual event which occurred in the parking lot of a shopping complex at about 10 P.M., after the stores had closed. Three people were talking when one yelled out for the others to look at something. A small spherical object, "absolutely round and shiny" and about the size of a tennis ball was observed at a distance of no more than 10 feet away. The object which moved in a slow straight line down the center of the road, was only about 6 feet off the ground and appeared silent. THe object appeared to be powered as it moved down towards the end of the complex. At one point it zig-zagged to the right, then to the left, and soon went out of sight. One witness who has a military background, stated that whatever this device was, it gave him the impression that it was a probe of some type. From Researcher: Stan Gordon. PA UFO Hotline: 724-838-7768 (http://www.westol.com/~paufo((NUFORC Note:  Our gratitude to Stan Gordon, well-known UFO investigator from Greensburg, Pennsylvania, for sharing this report.  Other witnesses should contact Mr. Gordon directly.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24972.html](http://www.nuforc.org/webreports/reports/024/S24972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
