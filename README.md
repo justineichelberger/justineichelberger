@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:55 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Hagerstown (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw it too!  RE: Football sized saucer over Hagerstown, MD in summer of 1974While I was cleaning up the remains of an outside dinner I saw this craft that was HUGE, to a little kid, just hovering silently. My view of the craft was slightly obstructed by the house but I clearly remember it had different colored lights (red, blue, yellow) slowly revolving around its perimeter. I don't remember how long it stayed but I remember just staring at it for what seemed a long time and then it just sped away. I've always wondered what it was and for the longest time just assumed it was something that was associated with the county fair. Then I read the account from another couple seeing the same thing. I lived approximately 6 miles from West Franklin Street, on Day Road. Pretty amazing!((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47982.html](http://www.nuforc.org/webreports/reports/047/S47982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in El Paso (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>30 sec speeding lights over Franklin Mountain range.I was outside in my backyard sitting down talking on the phone. I was faceing West towards the Franklin Mountains. I saw 2 lights speeding accross the ridge line going North, North-West. They slowed down and then shot out towards the West at a very high speed. They were almost in a formation but one stayed behind and under the first one ahead of it. I only saw this for about 30 sec. before they left to the West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45257.html](http://www.nuforc.org/webreports/reports/045/S45257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
