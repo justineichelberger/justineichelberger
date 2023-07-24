@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:49 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:51 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eastanollee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>At approx. 11:00 pm, i was looking eastward in the night sky, when I observed a bright bluesh slver star that looked out of place.  Then, I futherr noticed it was moving in a westward direction and irregualr movements.  As i looked, I saw a shape descend seemingly out of the first shape.  It was a brilliant orange (like an ember blowing out of a fire.  It descended down about two thousand feet, then turned left in an 180 turn, rising back to the altitude of the first shape.  It further sped off at a really high rate of speed to the southeast.  The main shape continued to due west without changing altitude.((NUFORC Note:  We spoke with the witness via telephone, and we found him to be quite sincere and sober-minded.  We suspect he is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142408.html](http://www.nuforc.org/webreports/reports/142/S142408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fort Dodge (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark Triangle with 2 lights seen traveling towards thunderstormsI'm not sure of the date, I know if happened during this week, and near the middle of it.I was stopped at a stop light and something caught my eye as I turned the corner.  I slowed to stop in the middle of the road (it was 4:45, no one was out).  I looked up and saw a large dark triangle in the sky.  It was pointed north east and had a green light on one of the rear angles, and a red on the other. There was no light on the front, although there did look like there could be one (perhpas it's just because I would expect there to be).I looked at the object for what seemed to be the longest time.  I'm not really sure how long exactly.  I remember eventually looking away, after what seemed in my head to be the awhile, and seeing lights coming up behind me.  The object had been motionless when I initially saw it, but now when I looked back up the object was slowly flying north east into an area of a thunderstorm (well at least clouds with lightning) and eventually disappeared into the clouds.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47566.html](http://www.nuforc.org/webreports/reports/047/S47566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
