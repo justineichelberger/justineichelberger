@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:50 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>My husband and I were driving home when we saw a really bright LED light in the sky. At first I thought it might be an airplane but when we drove more down the road you could see the LED light was beaming down through some haze.When I looked up the UFO was in the shape of a line and it had 3 lights coming from it in total, as we drove more down the road I noticed it also had a blinking red light. We could not tell what color the UFO was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111923.html](http://www.nuforc.org/webreports/reports/111/S111923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object flys slowly over Huntsville AlabamaThe object flew over a milatary base we have here called redstone arsenal, it flew west to east and over the city going slow not fast at all. Have seen alot of war planes and helos here but this ws not one of those</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38348.html](http://www.nuforc.org/webreports/reports/038/S38348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
