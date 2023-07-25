@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:51 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>fast moving light stopped and then shot "up" into the sky.Four of us sitting in the backyard looking up at the stars. One of us was not looking up.   An extremely fast moving white light shot across the sky moving from the north to the south and seemed to stop almost right over us.  It was a very small white light almost thought to be a star, or satellite but moving way too fast.  It stopped for a moment and then it went up into the sky, meaning it vanished but in an upward direction, not left or right or any direction, it went up.I immediately said to my husband and our friend "did you guys see that or am I seeing things?" and at the same time I said that, our friend said "what the heck was that?!" because both he and my husband had seen the same thing I just witnessed.When we came into the house, the ceiling light in my son's room was on.  This is odd as we had turned it off when he fell asleep.  This has been happening lately so could be unrelated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157954.html](http://www.nuforc.org/webreports/reports/157/S157954.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 138</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147963.html](http://www.nuforc.org/webreports/reports/147/S147963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
