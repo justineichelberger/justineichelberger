@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:56 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Stettler (Canada) (AB) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 very fast flying lightsWe were sitting on our deck lloking south adn noticed these 2 very quick moving lights head in a SE direction.One was moving in a straight line and the other was zig zagging like in a chase.This event lasted only a couple of seconds but were very easy to see in the clear night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71366.html](http://www.nuforc.org/webreports/reports/071/S71366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red lights hovering toward the east of Gilbert AZ.It was about 8:15 Pm and as usually i was chasing my 21 month old daughter around after I had just ate dinner.  We ended outside with my father in law and my wife.  Hey was watering his lawn and she was out there smoking a Cig.  I walked out and looked up in the sky and off to the horizon I would say North East from the house's driveway there were to Red Laser looking light just hovering pulsing in the sky.  This was definately not a plane since it didn't have the tradional 3 light and no blinking.  It was way higher than the aircrafts since they were still passing trying to make there pass back to the airport to land.  It seemed the planes were not flying out as far as usually since the Red Dot  were out to the east and they were flying way lower than usually.  As we watched the Red DOTs they started to move from were they were stationed for about 5 minutes.  Moving slow in a south direction they seemed to keep the same distance and same speed really slow as they went a little further I would say almost directly East from where I was standing they then stopped and sat there and kept the same exact distance and the one on the right side started blinking in and out and a different rate of speed slowly and then fast and then it would be steady, it started again but there was no pattern to the lights and only the red laser color which they had been the entire time.  As we watched the one on the left hand side which had been a steady light the entire time start to move south then droped below  the other all of a sudden the left Red light started moving very fast as if directly below the other light.  All of a sudden as it kept moving south it shoot out to the right side and was gone I would say with in 3 seconds i was like Dam that was fast. All of a sudden the last light which was alway on the left had side started to fade out and up as if moving out toward space with in seconds they wer both gone.  As we looked around we oticed no Planes in the vecinity all of a sudden you see a fast jet going thru the sky as if from williams air force base.  at the rate it was going it wouldn't have a chance at catching the red light.  Then as if the coast was all clear or trying to cover something up air planes we flown in almost by the dozens.  This was an exciting but scary moment</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13603.html](http://www.nuforc.org/webreports/reports/013/S13603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
