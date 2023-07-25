@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 24 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:31:20 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tigard (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 27.0 - 27.0 minutes.</sub><blockquote><sub>This is the second report I've submitted this month since my 1st on 07/03/13 with similar lights.At 3:53 AM on July 24th, 2013, my girlfriend was outside on the porch and called me out because she saw 2 red orbs side by side to the East about 30 degrees above the horizon. I came outside and they were gone, and apon looking at the sky for 20 minutes we saw what first appeared as a satellite traveling from South to North at almost 90 degrees, but it was going invisible every other second and appeared to "zig zag" off of its path.  Another couple minutes later we saw another "satellite type" light travel from North to South, and it too was zig zagging and also appeared to slow down and speed up.  After my girlfriend's initial sighting at 3:53 AM, we saw a total of 4 of these strange flybys until around 4:30 AM.  We investigated further on NASA's skywatch website and no satellite flybys were scheduled during this period of time.  Astronomy and aviation has been a hobby of mine for over 10 years, and I've been watching the skies for over a decade, and not one satellite, ISS pass, iridium flare, or aircraft has ever flown so strangely.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100425.html](http://www.nuforc.org/webreports/reports/100/S100425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wallowa (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flying saucer type object not large and alone soft white light and incredibly fast.Driving from Lewis air base in Washington to Wallowa lake in Oregon I was thirteen sitting in the back of our motor home when off to the left I saw an almost almond shaped soft white light about 300 feet up about a half mile away it was approximately 70 feet long and 20 feet tall it moved straight down about 150 feet then left to right and back 3 times in a zigzag pattern up to about 400 feet hovered at that height for 5 seconds and then flew up and to the right faster than I've seen anything ever move including super sonic air craft and for about 600 feet and then vanished.  my dog was agitated during the event.  This is first time reporting for fear of persecution and ridicule.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127536.html](http://www.nuforc.org/webreports/reports/127/S127536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164155.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164152.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164156.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164150.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164159.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
