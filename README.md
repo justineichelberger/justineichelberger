@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Moore (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light hovers then vanishes at the speed of lightI was leaving work to get something to eat and noticed a bright light hovering in the sky, slightly bigger than a star.  My first thought was “that looks like a strange airplane!”  But soon after I saw it, it sped away faster than any aircraft I have ever seen and disappeared into the night sky.  The light didn’t fade- it simply vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157997.html](http://www.nuforc.org/webreports/reports/157/S157997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Neon green and red lights seen "Danicing" in the Eastern Bakersfield skiesAt approximately 3:35AM as I was on my way home from work I seen in the Eastern Direction a Green Neon light that seemed to be dancing as I would describe it, in the sky towards what is known as the Tehachapi Mountains. Although I do not believe it was that far. The Neon green light sometimes went to red very briefly but at some points the neon green color would be brighter than other times. Then the light would disappear for a moment. From the movement of it did not seem like a plane or a flare or anything of that sort. It just seemed to “dance” up and down swaying side to side. That is the only way I know how to describe it. I watched it for about 4 minutes after noticing it then I drove off to get home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64761.html](http://www.nuforc.org/webreports/reports/064/S64761.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
