@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:52 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Moscow Mills (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green cigar shaped with bright flashing lightThis happend about ten years ago in Missouri but I remember the UFO like yesterday.  Me and some friends of mine were walking to my house when we saw a bright flashing white light coming from behind some trees.  We thought someone was taking pictures.  We stood there confused. Then this long bright neon green object with a flashing light was coming toward us.  It was about 40 feet above us and going about 3 miles an hour.  The guys I was with were not freaking out as bad as us girls. We were crying we were so scared.  The objects light was so bright it lite up the area like it was day light.  I was to scared to watch it for to long.  My friend and I ran to my house that was 100 feet away. I told my parents I dont remember what they said.  The next day my friends mom said she saw it to. She said it took off so fast and was gone. None of us ever talked about it again.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73311.html](http://www.nuforc.org/webreports/reports/073/S73311.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A friend and I saw flashing lights in sync before violently flashing and disappearing.I used to work at Knott’s Soak City in Chula Vista and in July of 2006 when a friend of mine and I got off of work we were waiting for a pick up from my friend’s mom because were about 16 years old.  We were waiting in the pick-up zone and it’s about between 8 and 9pm.  We were looking out east towards what was then called Viejas Amphitheater and we saw two (2) blue lights off in the distance.  We can tell they were pretty far away from us and if I had to guess how far apart from each other they were I’d say three (3) miles.At first I thought they might have just been military helicopters because we are a big military city and have military aircraft in the skies all day every day.  But then they started to alternate between one flashing and then the other kind of like two (2) buoys on the water. One is dark while the other is lit.  Then suddenly both flashed rapidly and went dark and all the crickets got quiet.  A few seconds after, the clouds lit up and flashed twice like lightning behind a cloud layer in the same spot.So my buddy and I were amazed but that being said, a little spooked too so we headed down the street a little to get picked up faster but then again we saw the same thing happen this time to the north: two (2) lights far apart alternately flash before going dark then the clouds flash and that was it. We didn’t hear any thunder or sound following the flash.I didn’t know this website existed until recently while listening to AM 600 Kogo and hearing these reports, so I’m making up for lost time now.  Haha</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125830.html](http://www.nuforc.org/webreports/reports/125/S125830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
