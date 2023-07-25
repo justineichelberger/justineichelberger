@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:07 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Neon green and red lights seen "Danicing" in the Eastern Bakersfield skiesAt approximately 3:35AM as I was on my way home from work I seen in the Eastern Direction a Green Neon light that seemed to be dancing as I would describe it, in the sky towards what is known as the Tehachapi Mountains. Although I do not believe it was that far. The Neon green light sometimes went to red very briefly but at some points the neon green color would be brighter than other times. Then the light would disappear for a moment. From the movement of it did not seem like a plane or a flare or anything of that sort. It just seemed to “dance” up and down swaying side to side. That is the only way I know how to describe it. I watched it for about 4 minutes after noticing it then I drove off to get home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64761.html](http://www.nuforc.org/webreports/reports/064/S64761.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Black Diamond (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Group of several dozen bluish lights in Southern Sky (vicinity of Jupiter and Saturn) moving from east to westMy daughters and I were at a park in Black Diamond which had good horizon visibility.  We used my telescope and a new lens I had acquired to see Jupiter and Saturn.While I was looking for the NEOWISE comet (northern sky), my daughter approached me and eagerly pointed to the southern sky in the vicinity of Jupiter.  There were a group of a few dozen round, bluish lights moving slowly across the southern sky from east to west.  The brightness was a bit less than a star or planet.  Much of the SEATAC air traffic is visible from that vantage point and I’m convinced these were not commercial or small aircraft.  They were also not satellites like Starlink – I’ve seen those and know what they look like.I had 5 or 10 minutes to watch with the naked eye and through my telescope (6” Dobsonian at 48x magnification).  The objects’ light intensity remained mostly constant and when viewed through the telescope the lights appeared round in shape. The movement of the group appeared to be in a loose formation. I tracked 3 of them through the telescope for 30-60 seconds and their relative position to each other remained mostly fixed. Eventually the lights began to fade or spread out enough that not more than a few were visible at a time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160179.html](http://www.nuforc.org/webreports/reports/160/S160179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
