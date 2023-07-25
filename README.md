@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:59 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:11:58 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Waterford (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I looked and saw a sphere shaped object with many differntly colored rapidly flashing lights.It was late on a warm night in July. I was outside my father's house with my step brother, brother, and grandfather. My step-brother was down by the lake while the rest of us were casually visiting about 50 yards away on the porch.  The silence of the night was broken by my step brother running up the hill from the lake. He told us to all look up in the sky pretty much strait out.  I looked and saw a sphere shaped object with many differntly colored rapidly flashing lights.  There was absolutely no noticable pattern to the flashing lights. The craft zipped back and forth in a zig zagging pattern at an uncomprehendable rate of speed. (it could not possibly have been a plane or a helicopter, it was moving way to fast!!!) After repeating this pattern for about 6 and a half minutes it stopped and hovered in the same spot for about another 3 minutes. A red ball of light was then lowered from the bottom of the craft and the craft repeated the zig zag pattern for another 7 minutes or so. The UFO then slowly made its way over to the rear left corner of the lake and hovered there for a couple of minutes. the craft then proceeded to drop a ball of light and the ball hit the ground and lit up the entire sky with bright flash. (I swear to god on all of this!!!) Throughout the entire account the craft did produce a sound that i or any member of my party could hear it was silent. The craft then proceeded to fly off to left more and I eventually lost sight as it flew by my house. I did not care to follow to the front of the house as I was pretty shaken by the entire expereience. The date my not be exact as this happened a long time ago but every thing I have stated here is absolutely true. The UFO was somewhat distant throughout the entire experience being as it was not a close encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28198.html](http://www.nuforc.org/webreports/reports/028/S28198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auberry (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White Star Object over the Sierra MountainsSitting outside, my wife got excited and pointed my attention to what appeared to be a slow moving white light star. "What's that?" I looked and saw this object moving slow (to the east of us) over the Sierra Mountains from the north towards the south.Using our roofline as some reference, we saw it at about the center of the roof, and perhaps on an angle of 4' above the roof from my line of sight. I stood up to watch, while she ran thru the house, out front to the car, and had time to get the carmera and take a few pictures. It made no noise and wasn't close to us or the ground. Finally it passed the southern roof line and turned southeast, instantly loosing its bright star appearance. Next I saw a red dot as it disppeared into the black sky. It had no exhaust trails. I checked the time and it was 9:11 p.m. My wife had goosebumps and was very excited. I estimate it took about 3 minutes to travel 30' feet of the roofline, so it must have been at least few miles away.((NUFORC Note:  ISS sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71323.html](http://www.nuforc.org/webreports/reports/071/S71323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
