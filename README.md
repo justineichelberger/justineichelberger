@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:11:58 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Auberry (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White Star Object over the Sierra MountainsSitting outside, my wife got excited and pointed my attention to what appeared to be a slow moving white light star. "What's that?" I looked and saw this object moving slow (to the east of us) over the Sierra Mountains from the north towards the south.Using our roofline as some reference, we saw it at about the center of the roof, and perhaps on an angle of 4' above the roof from my line of sight. I stood up to watch, while she ran thru the house, out front to the car, and had time to get the carmera and take a few pictures. It made no noise and wasn't close to us or the ground. Finally it passed the southern roof line and turned southeast, instantly loosing its bright star appearance. Next I saw a red dot as it disppeared into the black sky. It had no exhaust trails. I checked the time and it was 9:11 p.m. My wife had goosebumps and was very excited. I estimate it took about 3 minutes to travel 30' feet of the roofline, so it must have been at least few miles away.((NUFORC Note:  ISS sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71323.html](http://www.nuforc.org/webreports/reports/071/S71323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Democratic Republic of the Congo () reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flying Saucer in Democratic Republic of the CongoI was traveling in the jungle by car in the Democratic Republic of the Congo alone when I was awoken by my radio, which had ceased to work and was malfunctioning, emitting static.  I heard a loud hum and looked up.  Just above the canopy of the trees was a round saucer hovering in the air.  There was a strange purple haze around the UFO.  I grabbed my phone and took a picture and video of it (which I will send by email).  Then, all of the sudden it disappeared with a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91229.html](http://www.nuforc.org/webreports/reports/091/S91229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
