@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:56 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Little Elm (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 silent, unlit, white triangles flying overhead.At approximately 5:30am, I was out on my morning walk. It was an early Saturday morning, so there was very little, if any, noise from traffic. I was heading North when in my peripheral vision I thought I saw a falling star or comet.I turned to look and noticed it was not falling at all but traveling parallel to the ground.  Then I noticed it was actually 2 objects evenly spaced apart, travelling at the exact same speed.  Their distance never changed, they were in perfect sync. They were too high to be birds and too low to be planes.I then noticed they looked like white triangles.  There were no lights on them.  They made no sound at all.I thought they might be birds, but they flew in a perfectly straight path at pretty fast speed and the distance between them never changed. The precision was perfect. It reminded me of seeing satellites way out in space. I watched them for about 30 seconds and then they just disappeared. They were nowhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157905.html](http://www.nuforc.org/webreports/reports/157/S157905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Looking up at moon. Looks liked a foot off it from my eye.This was weird... I dont have a word prossesser, but this was weird...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91183.html](http://www.nuforc.org/webreports/reports/091/S91183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
