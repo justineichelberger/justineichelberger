@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:57 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Allora (Australia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was driving along the street in my home town of Allora, Queensland, Australia.  I obserbed three flashing lights in the sky so i stopped my car and turned the engine off.  I took a better look and seen three silience objects hovering in a line.  Could not see exact shape because it was dark and i was looking at the large single light on each.  Each craft was flashing in sequences like they where communicating or something.  In the distance i heard a noise which got closer and later seen, was two maybe three jets.  I live only three houses away from where i stopped so i turned my car back on quickly and drove home jumped out of the car went into my back yard and seen the jets go over and the three objects also moving faster and seemed to be still silient into the distance away from the jets.  As the noise of the jets got closer the three objects started to move slowly away from the direction of the jets.  They moved faster as the jets got closer.  I watched and the three objects move faster away, still flashing in sequences. It was then i seen a fleckle of silver on one of the objects.  It was like the jets where proceeding them.  Both objects and jets went over Allora mountain and i could not see or hear anything else.You can e mail me on ((e-address deleted)) if you want anymore details or want to speak to me.  I was yelling for my husbane to come see but he was in the bath so i am upset to say i had no witnesses unless someone else in town seen it.  My husbane only heard the jets as they went over.  He said that he heard the jets coming in from a distance then the sound proceeded over the top of our house then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23899.html](http://www.nuforc.org/webreports/reports/023/S23899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>My husband and I were driving home when we saw a really bright LED light in the sky. At first I thought it might be an airplane but when we drove more down the road you could see the LED light was beaming down through some haze.When I looked up the UFO was in the shape of a line and it had 3 lights coming from it in total, as we drove more down the road I noticed it also had a blinking red light. We could not tell what color the UFO was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111923.html](http://www.nuforc.org/webreports/reports/111/S111923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
