@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:08:01 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Blue Circle/Flame shooting across skyOk this is the first sighting i incounterd, the second one i previously posted. First off I want to emphasize that the date of the encounter is of to my best recolection, i do not want anyone to downplay my sighting due to the fact that it is similar to the one in washington on the same date and time.As in the second sighting The first sighting occured when i was in the hot tub at my appartment complex. I was not facing directly east but more of a north east direction. Then a intense aqua blue ball came out of no where, traveling at speeds that i have never witnessed. I called into the hotline and the person there suggested that it was a meteor.... I find it impossible to belive This was not a meteor for several reasons. The first reason is that it was traveling on the horizon in a straight trajectory, also it was moving rapidly up and down, similar to a hearbeat on a computer screen only FAST!. Secondly it was a color that simply put does not exist, it was like that of a blue jet flame, only pulsating and mesmorizing,deep and rich yet light at the same time. Another reason i find it hard to belive that it was a meteor or for that matter a shooting star is that it was obviously inside the earths atmosphere, i mean it was like right there, I looked at the stars shortly after the encounter and they seemed extremly far away, compared to the object(s) which was clearly inside our atmosphere. Also one very very very important detail, both of these sightings occured in one peice of the night sky, there are two trees that block out some of the sky to the north and west and there is a strip of sky directly east that you can look out into from the hottub. Both of these objects seemed to only appear in this strech of eastearn sky, they both would ethier shoot across the strip of sky and disapear, or they where moving so fast that by the time my eyes set on the part of visible sky (to the north) the objects where gone. Sorry for reporting this so late, i was scared to death....and still am about what i saw, i was! nt suppo sed to see it, i didnt want to say anything to anyone about it for fear that it was something highly secretive, but since others have seen similar things i thought i would share my experiance.…((NUFORC Note:  Date apparently is approximate.  Several other reports of the event in the news.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24157.html](http://www.nuforc.org/webreports/reports/024/S24157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 orange colored balls, moving from south to east.  Glided low and took off and disappeared in 2 mins. There was helicopter activity 30 minutes after that, and the sky seemed to light up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120671.html](http://www.nuforc.org/webreports/reports/120/S120671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
