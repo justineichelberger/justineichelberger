@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:08 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 orange colored balls, moving from south to east.  Glided low and took off and disappeared in 2 mins. There was helicopter activity 30 minutes after that, and the sky seemed to light up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120671.html](http://www.nuforc.org/webreports/reports/120/S120671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kirkland (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>AGAIN I saw the very high sphereical object moving in circles this time, zig zag sort of.  It was very orange/red this time again.  I went outside to see if I can see it last night after work.  It seems when ever we go out to look for it, wait 15 or 20 minutes, we see it.  My wife was inside this time.  I saw it, looked through my binoculars and saw it moving around right above me.  Very high.  Still a round sphere.  I called my wife to come out and see again.  I kept my eyes on it the whole time.  You can see it with your bare eyes okay, but better with binoculars.  This is the 5th one I have seen in about a week, or the same one 5 times.  Good thing I see so many other people here seeing this.  It moves back and forth, sometimes smoothly in one direction.  This time just before my wife got out, it moved West extremely fast out of sight.  Like almost a blur.  As high as it is, it must have really gone fast.  I make it a habit now of going outside after work with binoculars and I usually see it now.  It is really making me wonder what the heck this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38353.html](http://www.nuforc.org/webreports/reports/038/S38353.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
