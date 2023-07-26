@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:51 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Socorro/Belen (between) (NM) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>object is not the average lil green thing,, more like "we are about to learn stuff" we might not want to knowsame object observed as the one reported 06-19-02 @ 1900 in socorro but a bit further away.triangle in shape to the best that we could determine, lights fussed together as one but very distintly seperate ,, no movement for entire time,lights were , like the sun but white, nearly overpowering to watch for very long, object just " blinked" out and was never seen again, (just a bit before sunrise)sky was cloudy but patchs of blue could be seen behind clouds,, to borrow from a sci-fie format  object looked like it just slipped into another demension with-out a trace of evedence to speak of,, object appeared to fly "verticle",,,have always assotiated these things to fly,,"appear" as a disk on a horizontal plane,, but what we have seen both times indicate that "our" sighting "fly's" on a verticle plane as opposed to a horizontal axis,,New Concept ? mabey,,,,  and not just the way we observed them, ,,,,same typy of objects were sighted in deming 7-22-check out web sight www.rense.com for pix that are right on to "our sightings, welcome feedback</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23988.html](http://www.nuforc.org/webreports/reports/023/S23988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>balls of lights going higher in the sky then coming back down. there were 4 to 9 of these strange shapes.  Witnessed by 2 adults.  They went around in circles ran into each other disappeared, reappeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100514.html](http://www.nuforc.org/webreports/reports/100/S100514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
