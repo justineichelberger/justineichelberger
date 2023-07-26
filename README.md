@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:02:43 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:51 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>7/26/52 7/26/02 exactly 50 years and they are back! http://www.washingtonpost.com/wp-dyn/articles/A8131-2002Jul26.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23991.html](http://www.nuforc.org/webreports/reports/023/S23991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sioux Falls (SD) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>One, spherical light orb that is slow moving then rapidly accelerating up into clouds.The craft I saw was round sphere shaped object that had a orange-yellow light to it. It was a cloudy day and the craft was moving fairly slowly in my direction.  Then it stopped probably about about a mile away from and proabably two thousand feet off the ground.  The object was probably about the size of a house.  After it was stationary for about 35 seconds, it flew straight up into the clouds.  I could see it disappearing through the clouds with the affect of a flashlight shining in smoke.  I found it very werid because airplanes always fly from east to west over my house and this was coming from the south going north.  And I don't think there is an aircraft known to have a flight pattern like I saw that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86791.html](http://www.nuforc.org/webreports/reports/086/S86791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
