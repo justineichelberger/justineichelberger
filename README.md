@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:27:59 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:02:43 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Beaumont (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Yellowish lights and a string of lights near Beaumont KansasWe were on highway 400 about 50 miles east of Wichita Kansas. To our north at about a 45 degree angle above the horizon there was a yellowish light for a few seconds, then another about 7 degrees to the right of that (my finger length at arm’s length is about 7 degrees). The first light went out and a third light appeared a few degrees below the second one. These two stayed on together for about 3 seconds then a string of 6 lights appeared below the third on and stayed on for about 5 seconds. The second light then turned off and about 2 seconds later the string of lights went out. All the lights were a bright yellowish color and moved slightly relative to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164174.html](http://www.nuforc.org/webreports/reports/164/S164174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>7/26/52 7/26/02 exactly 50 years and they are back! http://www.washingtonpost.com/wp-dyn/articles/A8131-2002Jul26.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23991.html](http://www.nuforc.org/webreports/reports/023/S23991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
