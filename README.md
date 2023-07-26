@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:56 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:57 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Corfu (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow / Orange sphere that changed to blue sphere as it passed witnessed in Western NY by 2 campersObject appeared from the east horizon line, the object first looked like a Chineese candle balloon / lantern that was bright yellow/orange in color, then as it got closer it just looked like a big illuminated ball.  It travelled laterally at a moderate pace towards the west at what looked to be 5000 to 10000 feet ( hard to guage not knowing what the object was or its actual size).  Once the object had past our centreline on the horizon (north) a large blue sphere surrounded the object dissipating the original yellow colour into a much smaller spec within the blue sphere, Once the object reached the west horizon, it appeared to gain altitude as it quickly assimilated with the stars and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100617.html](http://www.nuforc.org/webreports/reports/100/S100617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Boring (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>OR Air Nat. Guard Publ. Affairs Officer relays 2nd past sighting rept.:  Citizen repts. UFO.  (Facts not provided.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00475.html](http://www.nuforc.org/webreports/reports/000/S00475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
