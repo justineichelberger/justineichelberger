@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:54 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:02 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>5 men witness floating orange sphere while smoking cigarettes by a field.Four friends and i were out behind my house smoking ciggarettes.  we have a large field behind our house with large trees in the middle of the field.  at about midnight we saw what apeared to be a low flying aircraft.  Helicoters frequently fly over the field behind our house so we figured it was a helicopter.  After about 20 seconds from when my friend said that it was a helicopter my other friend said that it couldnt be a helicopter it wasnt making any sound.  what we where seeing was a orange/yellowish sphere floating about 100 feet from us in the field when it went behind the trees in the middle of the field and the light went out.  I personaly do not know what that light was but it changed the way i look at life.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65246.html](http://www.nuforc.org/webreports/reports/065/S65246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Renton (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Object was heading north, at 3 o'clock it flew over Seattle.Object was heading north, at 4 o'clock it flew over Seattle, sighting lasted 20 minutes before it went over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142439.html](http://www.nuforc.org/webreports/reports/142/S142439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
