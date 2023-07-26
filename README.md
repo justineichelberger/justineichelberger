@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:54 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Durham (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Hovering above the trees, then it just takes offI'm driving on route 4 away from Portsmouth at about 10:00 at night.  There's only one other car on the road and it's in front of mine.  We get right up to wagon hill farm when the guy in front of me slams on the brakes.  I'm looking around trying to figure out why and I don't see anything.  Then I look up, and see it.  It was some kind of aircraft hovering mid air right above the trees just in front of the car in front of me.  It had bright white lights coming from the bottom of it, but because of the angle and how dark it was, it was difficult to determine its shape.  I could tell it was larger than the car in front of me, and mine as well.  It stayed hovering there for about 10-15 seconds and then it took off.  It went so fast, I could barely tell which direction it went in.  It went left toward the hill and then out of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135409.html](http://www.nuforc.org/webreports/reports/135/S135409.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>5 men witness floating orange sphere while smoking cigarettes by a field.Four friends and i were out behind my house smoking ciggarettes.  we have a large field behind our house with large trees in the middle of the field.  at about midnight we saw what apeared to be a low flying aircraft.  Helicoters frequently fly over the field behind our house so we figured it was a helicopter.  After about 20 seconds from when my friend said that it was a helicopter my other friend said that it couldnt be a helicopter it wasnt making any sound.  what we where seeing was a orange/yellowish sphere floating about 100 feet from us in the field when it went behind the trees in the middle of the field and the light went out.  I personaly do not know what that light was but it changed the way i look at life.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65246.html](http://www.nuforc.org/webreports/reports/065/S65246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
