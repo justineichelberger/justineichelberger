@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 25 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:27:59 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lincoln City (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>round white had green halo around it.  was larger than satellite, different course than satellites use here, came from west traveled east slower pace than satellite,  also visible through fog clouds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135350.html](http://www.nuforc.org/webreports/reports/135/S135350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Beaumont (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Yellowish lights and a string of lights near Beaumont KansasWe were on highway 400 about 50 miles east of Wichita Kansas. To our north at about a 45 degree angle above the horizon there was a yellowish light for a few seconds, then another about 7 degrees to the right of that (my finger length at arm’s length is about 7 degrees). The first light went out and a third light appeared a few degrees below the second one. These two stayed on together for about 3 seconds then a string of 6 lights appeared below the third on and stayed on for about 5 seconds. The second light then turned off and about 2 seconds later the string of lights went out. All the lights were a bright yellowish color and moved slightly relative to each other.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164174.html](http://www.nuforc.org/webreports/reports/164/S164174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [447](http://www.nuforc.org/webreports/reports/164/S164200.html)
-- [446](http://www.nuforc.org/webreports/reports/164/S164153.html)
-- [445](http://www.nuforc.org/webreports/reports/164/S164284.html)
-- [444](http://www.nuforc.org/webreports/reports/164/S164149.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165758.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
