@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:51 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:56 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Watts (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big light in the middle of town that changed shape and colorMe and my boyfriend went outside for a smoke, sat on the back of the car and seen a bright light in the middle of town.  It was facing towards siloam springs.  The object seemed to move up a bit but at a slow pace.  Within a few minutes the object turned from a ball of light into a long orange shape.  Then it changed from one object into two.  Then back into one, changing back into it’s original color and shape.  It started to become smaller and dimmer and then eventually disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82796.html](http://www.nuforc.org/webreports/reports/082/S82796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Rocky Mount (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A  FLYING OBJECT BURNED TOP OF TREES IN ROCKY MOUNT, NC. 1969I WAS ALMOST 10 YEARS OLD. I WAS STANDING IN FRONT OF GRANDMOTHER'S HOUSE ON BERVERLY ROAD. MY BROTHER AND TWO BOYS ACROSS STREET WERE PLAYING. I SAW WHAT LOOKED LIKE A POSSIBLE FIRE ON OTHER STREET.  THERE WAS A BRIGHT RED GLOW IN SKY. I CALLED MY BROTHER AND FRIENDS OVER. I SAID LOOK A FIRE. THEY CAME OVER AND REMARKED HOW CLOSE THE FIRE SEEMED TO BE. I SAID LOOKS LIKE IT IS GETTING CLOSER. AS I WATCHED,I STARTED TO SEE SOMETHING IN SKY MOVING. IT WAS A HUGE RED BALL JUST ABOVE THE TREES. AS IT GOT CLOSER I COULD SEE THAT THE BOTTOM WAS TOUCHING THE TOP OF THE TALLEST PINE TREES. IT EVEN KNOCKED SOME OF THE UPPER LIMBS OUT OF MY GRANDMOTHER'S TREES.BEFORE THIS EVENING ALL THE TREES WERE BRIGHT GREEN EVEN IN THE TOPS ON OUR BLOCK. THE HOMES ON AVERAGE, WERE 1500 SQ.FT. RANCH STYLE HOMES.  FRONT YARD WAS ABOUT 60-70 FT. WIDE AND 50FT. FROM HOUSE TO STREET. OTHER YARDS AND HOMES WERE OF EQUAL SIZE. THE OBJECT HAD AN OVER ALL WIDTH OF 3 TO 4 HOMES AND YARDS. I SAID OUT LOUD, THIS IS SOMETHING ELSE. AND LOOKED AT MY BROTHER. I SAW HIM AND FRIENDS LYING ON GROUND OUT COLD. I COULD FEEL EXTREME HEAT COMING FROM OBJECT. IT MOVED ACROSS STREET OVER OUR HOUSE. I LIVED WITH GRAND MOTHER. AND ON OVER HOMES BEHIND OURS. I WOULD SAY IT MOVED AT ABOUT 1 TO 2 MILES AN HOUR. AFTER IT WAS GONE, I WOKE THE OTHER BOYS UP. AND ASKED THEM WHY THEY WENT TO SLEEP. THEY SAID THEY COULD NOT REMEMBER ANYTHING EXCEPT RED GLOW IN SKY. I TOLD THEM WHAT HAPPENED, THEY JUST LAUGHED. I THOUHT EVERYONE ELSE WOULD TOO, SO I DID NOT TELL ANY ONE ELSE. MY GRANDMOTHER DID ASK WHY WE HAD SUNBURNS. BECAUSE, SHE DID NOT NOTICE THEM AT DINNER.WE DID NOT ANSWER HER. THE NEXT DAY I SAW THE TOPS OF ALL THE TREES THAT WERE NEAR THE OBJECT. WERE VERY BROWN AND SCORCHED LOOKING. I EVEN FOUND LIMBS & PINE CONES IN YARD. THAT HAD BEEN BURNED BLACK AND CHARRED LOOKING. EVER SINCE THEN I HAVE BEEN VERY RESTLESS, AND HAVE HAD TROUBLE SLEEPING. I KNOW I AM NOT STUPID, BECAUSE I HAVE SERVED WITH THE CIA AND NAVAL INTELLIGENCE SINCE THEN. I ALSO SCORED 125 ON MY MILITARY ENTRANCE EXAM (ASVAB TEST). INCIDENT OCCURED 2145 07/27/69. ROCKY MOUNT,NC..((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50399.html](http://www.nuforc.org/webreports/reports/050/S50399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
