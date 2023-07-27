@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:51 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>We live in a farm.  Was outside above house and barn about ten feet above barn hovered in silence and then moved approx 3 miles an hour with a buzzing sound like a blimp almost.  Had three white lights and one red beneath them.  Flashing.  Continued to move towards New York for twenty minutes.  At same pace.  Only 69-75 feet above ground.  Very quiet very slow and eerie.  I videoed it for two minutes but my cell phone only shows black fuzz with a little sound for one second.  Very strange.  Very awesome.  Not sure what it was.  But it's a very clear starry night tonight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128773.html](http://www.nuforc.org/webreports/reports/128/S128773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Watts (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big light in the middle of town that changed shape and colorMe and my boyfriend went outside for a smoke, sat on the back of the car and seen a bright light in the middle of town.  It was facing towards siloam springs.  The object seemed to move up a bit but at a slow pace.  Within a few minutes the object turned from a ball of light into a long orange shape.  Then it changed from one object into two.  Then back into one, changing back into it’s original color and shape.  It started to become smaller and dimmer and then eventually disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82796.html](http://www.nuforc.org/webreports/reports/082/S82796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
