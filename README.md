@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:57 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:56 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Long observation of a spectacular orange fireball with massively long trail, medium speed, split apart.Bright orange fireball with very, very long orange/yellow fire trail.  Low altitude, descending slowly from South to North direction.  Too fast for a small plane.  Too slow for a meteorite. Not big enough for an airliner.  Split into 2 pieces before it disappeared in the trees/horizon, and then heard a soft distance.  Boom ...  Boom (1 sec apart).((NUFORC Note:  Space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128818.html](http://www.nuforc.org/webreports/reports/128/S128818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Millbrook (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>UFO moving West on Cobbs Ford Road  toward Prattville, AL - Oval shape and glowing.July 27th 2007 : Millbrook, Alabama  Location: Millbrook, Alabama USA  Date: Friday, 07/27/07 6:00am EST  Approach Direction: West  Departure Direction: East  Witness Direction: West  Description: Friday, July 27,2007 - while driving west down Cobbs Ford Road toward Prattville, Alabama I saw what appeared to be a UFO streaking across the sky.It was a long oval shape, definetly not an airplane, and was glowing. I was looking out my windshield when I witnessed this. The object was closer than an airplane height and was moving at a fast speed. It was heading in a straight line and just disappeared. There were no clouds in the sky. I think that it was moving so fast that my eyes could not keep up with it. I have never seen something just disappear. My son was in the vehicle with me and he witnessed the same thing.I have oftened looked into the night sky hoping to see a UFO. I was not prepared at all this morning for what I saw. I keep replaying the incident over and over in my mind to try and remember something else, but this is all that I seem to remember.I am definetly a believer now!  Color/Shape: Long Oval, Yellowish-White glow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66139.html](http://www.nuforc.org/webreports/reports/066/S66139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
