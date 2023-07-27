@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:49 on 26 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:26:38 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange lights in the sky.Orange circular lights moving east across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111921.html](http://www.nuforc.org/webreports/reports/111/S111921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lapu-lapu (Philippines) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I am looking at the clear skies near near the airplane path from Davao City to Cebu City. I was at my verandah in my home, when I saw two airplanes passes by at an interval of 15-minutes in preparation for landing at the airport. The passenger planes are Philippine Airlines and Cebu Pacific. Suddenly a saucer type of flying object appear in the sky and seems following the path of two airplane. I observed the flying object for 30 sec using my binacular in the direction to the north. My estimate the altitude of the obeject is the same height of the airplane before landing about 7500 ft. The color of the flying object is clear silver glowing at sunlight rays in pure silver. Below is my drawing description of the object((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30555.html](http://www.nuforc.org/webreports/reports/030/S30555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164174.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164188.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164280.html)
-- [381](http://www.nuforc.org/webreports/reports/158/S158118.html)
-- [380](http://www.nuforc.org/webreports/reports/157/S157947.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
