@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Holts Summit (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>They came back...2013 July 27  On 7-27-13 at 11:45pm, my tv did its freeze on one picture thing again, I thought, I wonder, and sure enough, going outside, that same craft using the same flight path as it had in the past, silently passes overhead.  A disk shape craft with a red light on each side, and white flashing light underneath.  Again, at great height 1000 feet I would guess but, from the shape and lights it was the same one or one which looked the same as the one I had been hearing and seeing since 11-25-10.  This makes many many times, I believe, I have seen or heard this craft, in the last 3 years.They definitely have some interest in this area, or someone, in this area.  I have repeatedly checked the various sites I have found online and done searches but, since no one else in this area, is reporting anything like this number of sightings of this craft.  I can only guess, it is me, they are visiting.  I just hope, whatever the case, it continues and perhaps someday, I have the opportunity to meet them, awake, aware, 1 on 1, as equals, I think they must have a reason for all these visits, and I intend to find out, if possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105908.html](http://www.nuforc.org/webreports/reports/105/S105908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in West Valley City (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>My husband and I were sitting on the front porch talking and I turned my head just to look up at the sky.  At that moment, a cluster of what looked like orange fireworks appeared and were shooting across at a fairly slow speed, and low in the sky.  My husband noticed me looking up and I pointed at it and we both watched it as it glided and either burned out or landed out of out view.  It looked like fiery rain as it disappeared. Shortly before this occured, the street light on out street burned out for a few minutes leaving the entire street dark and then eventually re-lit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128795.html](http://www.nuforc.org/webreports/reports/128/S128795.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
