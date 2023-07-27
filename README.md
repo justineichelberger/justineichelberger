@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:43 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:03 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lake Hughes (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>"Missile test" my ((obscenity deleted)).Comet-like in appearance, however, the object was moving much, much slower than comet. I got about 15 - 20 seconds of view time before it disappeared from sight behind a mountain (as I was driving).  The object was extremely bright and seemed at high altitude, with a bright comet-like tail that seemed to produce light of its own.  Its slow movement betrayed its large bright trail. It appeared to be separating into multiple objects (looked like 3 of them) as it disappeared from my view.  I would imagine this (ufo) will be reported far and wide (at least through southern California.) I saw the mass reported "missile test" ufo last November from the same area, except - I must say, this one being altogether different in appearance, and heading in the opposite direction (east).  If that is a missile,  WTF kind of a missile is THAT?!...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128785.html](http://www.nuforc.org/webreports/reports/128/S128785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>All three were flying across the sky downward  They were lights streaking across with what looked like sparks and lightes.  they were big.((NUFORC Note:  Reported to be re-entering Chinese rocket shell.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128790.html](http://www.nuforc.org/webreports/reports/128/S128790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
