@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:56 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Norwalk (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Blinking Bright Star/object, at  lower alltitude than normal at stand still/ moving very subtully through the night sky.The UFO appeared to be a a blinking star or a plan.  As I laid down in the bed it was descending in a weird fashion. Then the UFO just stopped and was at a still rest.  As I watched it longer it would subtly move or rise.  After trying to wake my wife up, which failed, I left her a lone and watched for a bit more.  I knew it was not a plain when it stopped all movement.  I got back in the bed and tried to stay awake to see it depart.  I dosed off for a few minutes and it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82754.html](http://www.nuforc.org/webreports/reports/082/S82754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Caught in binoculars:  two glowing triangles cruising in formation in silenceI am a skeptic and still think there is some explanation of what I saw. I was laying down on a bench in the backyard with my feet twards the west. I was looking through my binoculars approximately 15 degrees SW from the star Vega (My hobby is star gazing). Suddenly right through the center of my view though the binos, I saw what I thought was a large satellite. I followed the object to examine the details. There were 2 triangular shaped objects in formation one following the other. It crossed the sky in a steady pace. Much faster than a jet, but slower than a meteorite. What shocked me was that when it crossed a patch of clouds, it was on this side of the clouds! I could see its shape much clearer against the cloud. It had a dim orange-yellow glow twards the center and they were not more than 50 feet apart from each other. It countinued in a straight and steady course dead silent from south east twards the north west. It looked like two F-14 with the wings retracted. F-14 are loud. I waited for a sonic boom but heard nothing. After about 5 or 6 seconds I took the binoculars off of them I couldn't see it anymore. A lot of things crossed my mind as to what it May have been. From birds to fireballs. But birds don't glow and don't cruise at that speed. Plus, I know a bird when I see one. These were definite triangular shaped, no wings. Fireball or low flying meteors? But with no flash or tail, in formation, at a satellite's pace, under the clouds. The clouds were altocumulus. I looked at my watch and noted that it was 10:48pm Anybody else witness this? This was Very strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13615.html](http://www.nuforc.org/webreports/reports/013/S13615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
