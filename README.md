@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:59 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kimberly (St. Mary's Lake) (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Telephoned Report:  A husband and wife, camped with their children near St. Mary's Lake, approximately 12 miles east of Kimberly, B.C., witnessed a bright, white light appear over the mountains to the west of their position, and appear to course toward their location.  The wife estimated that the light was the apparent size of a full Moon, and "spikes" were coming off of it. The witnesses called the local airport, which took a report from them, but which reported that nothing unusual had been reported to their facility.  The couple also called a local observatory, which told them that they probably had been witness to the International Space Station. They also called the local Kimberly newspaper, which reported that their offices had received approximately five calls from citizens, reporting strange lights in the vicinity of Kimberly on the same morning. The witnesses will submit reports, when they get access to a computer.  They generated a hand-drawn image of what the object looked like.((NUFORC Note:  We are awaiting reports from the witnesses, but will post this report for now.  We observe that the International Space Station passed over Kimberly, B.C., at 00:24 hrs. on July 27, but it may not be related to the sighting described by the witnesses.   However, the witnesses may not have had a timepiece, to be able to determine an accurate time for their sighting.  Please see the following URL for details on the flight path of the ISS:http://www.heavens-above.com/gtrack.asp?date=37829.2690732987&lat=49.683&lng=-115.983&alt=1110&loc=Kimberly&TZ=MST&satid=25544PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30455.html](http://www.nuforc.org/webreports/reports/030/S30455.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Steady green light shot down from the heavens and to close proximity to the ground (seen from my car -perhaps half a mile - 2 miles  away?)- above trees. I was travelling east approaching The Junction shopping centre and the light came down around Phoenix Lake Area, not far from Lyons Bald Mountain. It was an emerald green colour, not too bright and very different from anything I have seen before. Acted in a controlled way, stopping before hitting the fround on the horizon. I was travelling to work so couldn't stop and look further. I turned off the raod and went away from the area it came down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57870.html](http://www.nuforc.org/webreports/reports/057/S57870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
