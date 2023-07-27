@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Dragon-like wavy orange and red streaks seen in OgdenMy wife and I were driving around on 40th towards Harrison Blvd trying to put our son to sleep, when we saw dragon-like wavy lights on the right in the southeast.  At first we thought we had seen fireworks  but the lights panned a very big stretch of the sky. They moved from S to SE.  It was a wavy formation with bright orange and faint red streaks. It seemed to cover a very long distance very quickly.  The wavy formation disappeared as it reached far SE corner of the sky.  While we are willing to consider this as a UFO phenomena, our rationale was that it might be fireworks or drones that the local Air Force Base maybe flying around. It just moved to quickly, silently and strangely across a very big span.  I'm hoping the others in the area saw it too.((NUFORC Note:  Chinese rocket re-entry.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128799.html](http://www.nuforc.org/webreports/reports/128/S128799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New Milford (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>We live in a farm.  Was outside above house and barn about ten feet above barn hovered in silence and then moved approx 3 miles an hour with a buzzing sound like a blimp almost.  Had three white lights and one red beneath them.  Flashing.  Continued to move towards New York for twenty minutes.  At same pace.  Only 69-75 feet above ground.  Very quiet very slow and eerie.  I videoed it for two minutes but my cell phone only shows black fuzz with a little sound for one second.  Very strange.  Very awesome.  Not sure what it was.  But it's a very clear starry night tonight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128773.html](http://www.nuforc.org/webreports/reports/128/S128773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
