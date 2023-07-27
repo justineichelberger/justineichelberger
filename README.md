@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:56 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:53 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Millbrook (AL) reported seeing craft that fit the description of some 'Oval' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>UFO moving West on Cobbs Ford Road  toward Prattville, AL - Oval shape and glowing.July 27th 2007 : Millbrook, Alabama  Location: Millbrook, Alabama USA  Date: Friday, 07/27/07 6:00am EST  Approach Direction: West  Departure Direction: East  Witness Direction: West  Description: Friday, July 27,2007 - while driving west down Cobbs Ford Road toward Prattville, Alabama I saw what appeared to be a UFO streaking across the sky.It was a long oval shape, definetly not an airplane, and was glowing. I was looking out my windshield when I witnessed this. The object was closer than an airplane height and was moving at a fast speed. It was heading in a straight line and just disappeared. There were no clouds in the sky. I think that it was moving so fast that my eyes could not keep up with it. I have never seen something just disappear. My son was in the vehicle with me and he witnessed the same thing.I have oftened looked into the night sky hoping to see a UFO. I was not prepared at all this morning for what I saw. I keep replaying the incident over and over in my mind to try and remember something else, but this is all that I seem to remember.I am definetly a believer now!  Color/Shape: Long Oval, Yellowish-White glow</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66139.html](http://www.nuforc.org/webreports/reports/066/S66139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schneider (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Object was a big ball of blue and yellow lights with very bright red lights around the center.  One very, very bright white light shinning toward the ground.The object made NO sound, as it just hung in the air over the nearby Kankakee forest across the street from our home.  We watched the object move over a corn field down the street very slowly and seemed to be spinning the way the light constantly flashed in all directions.During this time it was in the area several planes and jets went through the area moving quickly over head, and we realized that this was no plane or helicopter.  I have flown in choppers most of my life in the service and have never seen a chopper lit up like this object.  It slowly left the area at first and then just seem to gain elevation until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91217.html](http://www.nuforc.org/webreports/reports/091/S91217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
