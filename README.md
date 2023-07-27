@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:39 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:57 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Elkhart (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange spinning sphere with smaller sphere circling it that sped off into the moonAfter leaving the store my companion and I noticed a round bright orange object in the sky above us in a slightly south east position, it had a smaller round object orbiting it but they both were spinning.  We pulled into a fast-food restaurant to watch it and it zoomed away toward the moon and appeared to enter into it.  The object appeared very close at the time of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91273.html](http://www.nuforc.org/webreports/reports/091/S91273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Long observation of a spectacular orange fireball with massively long trail, medium speed, split apart.Bright orange fireball with very, very long orange/yellow fire trail.  Low altitude, descending slowly from South to North direction.  Too fast for a small plane.  Too slow for a meteorite. Not big enough for an airliner.  Split into 2 pieces before it disappeared in the trees/horizon, and then heard a soft distance.  Boom ...  Boom (1 sec apart).((NUFORC Note:  Space debris.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128818.html](http://www.nuforc.org/webreports/reports/128/S128818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
