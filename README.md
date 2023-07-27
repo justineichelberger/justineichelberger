@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:53 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:53 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Schneider (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Object was a big ball of blue and yellow lights with very bright red lights around the center.  One very, very bright white light shinning toward the ground.The object made NO sound, as it just hung in the air over the nearby Kankakee forest across the street from our home.  We watched the object move over a corn field down the street very slowly and seemed to be spinning the way the light constantly flashed in all directions.During this time it was in the area several planes and jets went through the area moving quickly over head, and we realized that this was no plane or helicopter.  I have flown in choppers most of my life in the service and have never seen a chopper lit up like this object.  It slowly left the area at first and then just seem to gain elevation until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91217.html](http://www.nuforc.org/webreports/reports/091/S91217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Dozens of patrons, at a theme park in Valencia, California saw an object resembling a crashing, burning, plane, or rocket, or meteorite with a long, fiery trail, that seemed to break in two, as it was careening, vertically, toward earth, over the Northwest mountain ranges, until it disappeared behind the dark mountain.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128842.html](http://www.nuforc.org/webreports/reports/128/S128842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
