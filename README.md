@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:53:22 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:26 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holly (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>The Holly Michigan Chupacabra re-appears to witness; creature seen hopping northward in a expressway ditch.As I was heading home on I-75 South from my friend's house between 3:40am-4:00am, a strange figure appeared in the ditch right before I approached the Holly Road exit. I couldn't see the body because the ditch was deep, but I did see a head of what appeared to be the long eared Chupacabra I saw earlier this month. The head appeared to be hopping forward (North) as I was driving south so I didn't get the best look at him. It didn't react to my vehicle. It hopped a total of three times before I passed the Chupacabra really fast at 55-60mph.The grey head appeared to have long ears, big eyes and a long face looking downward. I stopped the car and veered to the side off the road and backed up to see if the Chupacabra was still there. I didn't see the creature. All I could see was a local hospital situated far in the background. There were plenty of trees and bushes to hide in.((NUFORC Note:  We spoke with this witness, who describes herself as a graduate student.  Unfortunately, there were no other witnesses to either of her two alleged sightings.  Illustration provided to NUFORC.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65310.html](http://www.nuforc.org/webreports/reports/065/S65310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Though a former military air traffic controller, I've never seen anything like it.I watched as a silvery triangular shaped craft flew overhead.   Though unsure of its size, I estimate an altitude of 10,000 ft.  The entire craft seemed to pulse a bright white light at about one second intervals.  It tracked a course of due north at approximately Mach 2, but gave off no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135479.html](http://www.nuforc.org/webreports/reports/135/S135479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
