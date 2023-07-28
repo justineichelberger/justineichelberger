@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Helendale (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Light in SkyWhitness a circular white object high in the evening sky moving from northwest to southeast direction at a high rate of speed.  Object stopped in horizontal direction and hesitated a moment then proceeded to accelerate at a tremendous rate of speed in a vertical direction.  Loss sight of object in less than three seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38389.html](http://www.nuforc.org/webreports/reports/038/S38389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Southington (CT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An aircraft of some kind covered an extreme amount of distance, then seemed to disappear.I was leaving my house to grab my phone from my car when I looked in the sky and saw a bunch of flashing lights in the sky.  I passed behind some trees so I assumed it was just a low fling plane, but as I looked closer, it had moved an extreme amount of distance.  At this time I went to take a picture wen it began to fade.  However just as it was about to dissapear from sight it made a bright likght the vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142451.html](http://www.nuforc.org/webreports/reports/142/S142451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
