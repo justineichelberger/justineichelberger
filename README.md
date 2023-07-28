@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:26 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:52 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Though a former military air traffic controller, I've never seen anything like it.I watched as a silvery triangular shaped craft flew overhead.   Though unsure of its size, I estimate an altitude of 10,000 ft.  The entire craft seemed to pulse a bright white light at about one second intervals.  It tracked a course of due north at approximately Mach 2, but gave off no noise at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135479.html](http://www.nuforc.org/webreports/reports/135/S135479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tyler (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I observed a golden sphere in the southwestern sky at about 5:30 am moving slowly north.I observed a sphere in the southwestern morning sky while walking my two dogs.  It was still quite dark and my first glimpse was interrupted by one of the dogs.  I looked back at the object and it had moved.  I knew it wasn't a star.  I watched it for at least 5 seconds while it moved slowly north.  One second it was there then it was gone. It made no sound and there were no aircraft in the sky.  It was perfectly round.  The edges were very distinct.  It appeared to be a light, but it did not have a beam of light or any rays around it.  The color wasn't gold like glitter gold, but a muted golden color. This is the third sphere I've seen.  The first one was in the fall of 1995.  That happened on a cloudy day and the globe/sphere was below the cloud deck.  It performed the typical slipping through the atmosphere with the zig zag motion of a saucer (if there is anything typical about a saucer).   I was on a hill and was a little above this object when I observed it around 7 pm. The second time I saw a sphere/globe was January 4, 1996.  I was watching for meteors because that is supposed to be a peak day for a meteor shower.  This one was exactly as the first description, except closer.  There was no tail and no flame. It was doing that slipping through the atmosphere, well air.  It wasn't that far away and again I wasn't looking up.  I was level with it. It did that zig zag movement,also.  At the time I thought it was just a strange meteor, because I didn't know better.  Soon afterwards I got online and began my own personal investigation of UFOs.  I soon learned that it wasn't a meteor. Since the recent sighting, I thought I should report what I've seen.  It may coroborate someone else's sighting.  These separate sightings are not very important by themselves. There were no witnesses to any of these sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13743.html](http://www.nuforc.org/webreports/reports/013/S13743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
