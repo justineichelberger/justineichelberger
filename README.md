@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:01:00 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:52 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bendigo (Australia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orange arrow shape that made an impossible manoeuvre over Bendigo, Australia.I had arrived home late from a social occasion (I was completely sober though). From my back yard, looking north-west, I was taking a look at Mars which in recent months has been very bright.(I'm in the southern hemisphere remember). There was about one half of the moon showing and the night sky was virtually clear of cloud cover. As I stood watching, a light appeared out of nowhere at about the one-o'clock position, travelling east-west, and probably 80 degrees up from the horizon. It travelled to about the ten-o'clock  position and changed direction, without changing speed, and headed north. After a few seconds heading north it faded out, just the way it had faded in; like someone using a light dimmer switch. Now just a few more details: The colour of the UFO was a uniform yellow-orange glow. There were NO flashing lights as per conventional aircraft. An "arrow-head" form was discernible behind the glow. In size it appeared about 4-5 times larger than Mars appeared that night (it actually crossed close to my view of Mars so this was easy to judge). When it changed direction it did not change speed or bank into the turn, (it was like it bounced off a wall at right-angles!!!). It did not appear to change altitude during the time I observed it. Its altitude was difficult to judge but I would say at least 12-15,000 feet. Its speed was much faster than I have seen any aircraft travel yet slower than a meteor,("falling star"). It had no "tail" like a meteor. There was no sound associated with the event that I could hear. It was moving as it faded in and out; that is I could see it moving before it reached its maximum brightness and I could still see it moving as it dimmed to invisible. I have seen numerous UFOs over the years but this is the first one that impressed me so much that I felt I had to make the effort to report it to someone.(Someone who wouldn't laugh anyway). I have scientific training (analytical chemist) and I'm well read in areas of physics and astronomy. I can with confidence rule out that I saw any of the following on this occasion: a conventional aircraft, space debris, meteor, satelite, space shuttle, space station (esp MIR), balloon,(weather, hot air or other), searchlight, flare, fireworks. In short I cannot ascribe what I saw to any man made device or phenomena. Unfortunately, I cannot say what it is that I saw either, only describe it as I have. Thanks for the opportunity to tell the story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18926.html](http://www.nuforc.org/webreports/reports/018/S18926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Massive lighted kites on Florida beach front, initially mistaken for UFO'sAmazing lighted kites on the beach caused me 2-3 minutes of excitement.  They were very high and as they were brought closer to our rental unit we realized they were very large kites.  They could have easily been mistaken for a pair of UFO's.  I have video and photos.((NUFORC Note:  Apparently kites, not UFOs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129677.html](http://www.nuforc.org/webreports/reports/129/S129677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
