@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:55 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Two Guns (MM 316) (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was a blue-white fireball, with no tail or sparks.It was a fireball; saw it at the end of its trajectory.  No sparks, no tail.  Blue-white in color, between 1/8 and 1/4 inch using arm outstreched system. Trajectory was South to North.  1/3 the speed of a normal meteor.  No audible sounds at this distance.  Disappeared at the end.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13620.html](http://www.nuforc.org/webreports/reports/013/S13620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was laying outside stargazing when I saw a triangular formation of light moving as one.I was laying outside stargazing when I saw what appeared to be three stars in a triangular formation moving to the southeast. It was difficult to judge the size, speed, and the alltitude of the craft. I then quickly ran upstairs tripping at the last step shouting to my mom and sister,"A UFO!A UFO!". I then ran back outside by then my brother had waken up and went outside(my dad was away on business). I then spotted the craft moving at the same speed and in the same direction. The rest of my family was able to pick it out of the starry sky. Near the end of the siting I could actually see a small, faint outline beetween the three points of lights. We followed it until it was 3/4 of the way across the sky it then started to vanish. This was one truly AMAZING siting.((NUFORC Note:  We suspect that the witness may have observed the three satellites that often are seen to orbit in unwavering formation.  They are thought to be part of the U. S. Navy "NOSS" satellite surveillance system, first described in the civilian sector by Mr. Terrance Dickinson, astronomy editor for the Toronto Star newspaper,  during the summer of 1996, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30414.html](http://www.nuforc.org/webreports/reports/030/S30414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
