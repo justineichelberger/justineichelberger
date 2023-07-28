@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Southington (CT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An aircraft of some kind covered an extreme amount of distance, then seemed to disappear.I was leaving my house to grab my phone from my car when I looked in the sky and saw a bunch of flashing lights in the sky.  I passed behind some trees so I assumed it was just a low fling plane, but as I looked closer, it had moved an extreme amount of distance.  At this time I went to take a picture wen it began to fade.  However just as it was about to dissapear from sight it made a bright likght the vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142451.html](http://www.nuforc.org/webreports/reports/142/S142451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Allen (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>large shape in the air with bright beam light around it.  hovering in one spot would appear to move smooth but quickly side to side as if it was trying to remain in one spot.  watched for 30-40 mins before it began to fade and get harder to see before it completely vanished((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76841.html](http://www.nuforc.org/webreports/reports/076/S76841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
