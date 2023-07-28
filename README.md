@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:52 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:11 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Panama City Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Massive lighted kites on Florida beach front, initially mistaken for UFO'sAmazing lighted kites on the beach caused me 2-3 minutes of excitement.  They were very high and as they were brought closer to our rental unit we realized they were very large kites.  They could have easily been mistaken for a pair of UFO's.  I have video and photos.((NUFORC Note:  Apparently kites, not UFOs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129677.html](http://www.nuforc.org/webreports/reports/129/S129677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lola (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 bright light appearing for 1min before moving slightly to the right and vanishing completelyI had been sitting in my backyard for 30-40 minutes gazing at the stars, when I saw an extremely bright light had appeared in an area that had been clear prior til now.  It was brighter and bigger than any star in the sky and had a slight yellow tint.  It sat stationary for nearly 1 minute before moving a short distance to the right, then vanishing completely.  Just like the light from a bulb does when you flip off a light switch, it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111958.html](http://www.nuforc.org/webreports/reports/111/S111958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
