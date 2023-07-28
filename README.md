@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:03 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:08:20 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Beowawe (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7/26/16 nine lights 7/28-29 only 8 lights?Started seeing the lights on 7/26/16   Three nights in a row 3 lights on left 3 lights in a triangle formation in the center and one light on each side of the triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128891.html](http://www.nuforc.org/webreports/reports/128/S128891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Lee (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Odd Moving Red LightI was looking at the NYC skyline and saw a red light sitting in the sky.  It was a solid red light with a smaller blinking white or blue light.  I thought it was a plane until I noticed it wasn’t moving.  It sat still for awhile, then it moved to the right and then reversed to the left.  It came to a stop and the lights turned off (it disappeared).It moved like a drone but I couldn’t tell how far away it was and the lights were very visible.  It seemed to be over the Hudson River.  Does anyone know if a drone has red lights that do not blink?  Not sure what I just saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147884.html](http://www.nuforc.org/webreports/reports/147/S147884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
