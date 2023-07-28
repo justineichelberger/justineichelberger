@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:01:04 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was laying outside stargazing when I saw a triangular formation of light moving as one.I was laying outside stargazing when I saw what appeared to be three stars in a triangular formation moving to the southeast. It was difficult to judge the size, speed, and the alltitude of the craft. I then quickly ran upstairs tripping at the last step shouting to my mom and sister,"A UFO!A UFO!". I then ran back outside by then my brother had waken up and went outside(my dad was away on business). I then spotted the craft moving at the same speed and in the same direction. The rest of my family was able to pick it out of the starry sky. Near the end of the siting I could actually see a small, faint outline beetween the three points of lights. We followed it until it was 3/4 of the way across the sky it then started to vanish. This was one truly AMAZING siting.((NUFORC Note:  We suspect that the witness may have observed the three satellites that often are seen to orbit in unwavering formation.  They are thought to be part of the U. S. Navy "NOSS" satellite surveillance system, first described in the civilian sector by Mr. Terrance Dickinson, astronomy editor for the Toronto Star newspaper,  during the summer of 1996, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30414.html](http://www.nuforc.org/webreports/reports/030/S30414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Windsor (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One object traveling towards a group of 3, then fell out of sky.Maybe 2, possibly even 4 UFOs. It was about 10:20 PM and me and my girlfriend were out in the backroads of town driving towards home, when I saw 3 lights in the sky, all next to each other. They were amber in color, and appeared to be moving slowly. We then spotted another orange/red light was traveling across the sky towards it. This was traveling pretty fast, and approaching the group of 3. It got in very close proximity to the 3, and all the sudden fell straight out of the sky and turned bright white. It sent chills straight down my spine. I slammed on the gas and tried to get closer for a look at the 3, got one last glimpse of it in a break in some trees, and then did not see it again. This was not very high up, it was lower than most small airplanes fly to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30409.html](http://www.nuforc.org/webreports/reports/030/S30409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
