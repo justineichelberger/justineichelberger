@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:50 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Makaha (HI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright white disc shaped zig -zagged out of sight towards Kaena Point.While looking for meteor shower in Makaha Valley, saw bright round light flying over Makaha Beach, faster then a plane, but slower then a falling star or meteor.  It flew over the valley, then zig-zagged up and out of sight towards Kaena Point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113137.html](http://www.nuforc.org/webreports/reports/113/S113137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Dark immobile object in the afternoon skyI was sitting on my porch at 11:30 AM when I noticed a black dot in the sky.  I would not have seen it except that it was in front of a cloud that made it stand out.  I watched it for a moment and noticed that it wasn't moving.  I sat there for about 2 or 3 minutes watching it and then I decided to run out to my truck to get my binoculars.  It took me about another minute to find the object again.  It was still in the same place but the clouds had drifted away making it harder to see.  Looking through my binoculars I could tell that it had a shape similar to a stealth aircraft but it was so small that I can't be absolutely sure about that.  There was also a haze around the object, like when you look through gasoline fumes.  I went back to my porch and had a hard time finding it again.  I spotted it once but I lost it while trying to find it with my binoculars.  The entire episode lasted about 10 minutes and I never saw the object move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18686.html](http://www.nuforc.org/webreports/reports/018/S18686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
