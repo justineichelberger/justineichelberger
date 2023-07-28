@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 27 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:27:24 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle Shaped Object in Wesley ChapelTriangle shaped object very high in the Northern Sky. It hovered with three blue lights moving sideways several times, glowing brighter and at times disappearing then re-appearing. After 30 min or so it disappeared. Tried to take a picture with camera phone but no luck, was too far away to get a decent pic. Very strange..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71376.html](http://www.nuforc.org/webreports/reports/071/S71376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Johnstown (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright round object with outer ring visibleOur family was outside watching for the Delta Aquarids and the Alpha Capricornids meteor shower.  We live outside of Johnstown, Ohio and it was a very clear night.  Our daughter was taking pictures of a bright object in the sky, which we thought was likely Saturn because of the outer ring in the picture.  This picture was taken with a Samsung Galaxy S8+.  This was the brightest and largest object (other than the moon) in the night sky, glowing a bright orange/yellow – different from the other stars.  After looking at pictures of Saturn, we determined that this object looked nothing like the pictures we were seeing.  It has appeared on a few more occasions since the night of the 28th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158357.html](http://www.nuforc.org/webreports/reports/158/S158357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [486](http://www.nuforc.org/webreports/reports/164/S164186.html)
-- [485](http://www.nuforc.org/webreports/reports/165/S165812.html)
-- [484](http://www.nuforc.org/webreports/reports/164/S164182.html)
-- [483](http://www.nuforc.org/webreports/reports/165/S165809.html)
-- [482](http://www.nuforc.org/webreports/reports/164/S164191.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
