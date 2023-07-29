@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:55 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:57 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>lasting only 3 sec. a nean green glowing object heading north disapeared with out a traceit was a neon green, glowing kinda of circular object. it was a clear night and the object was moving very fast in a straight line heading north then in a flat secind it disapeared with fading, it just was gone. the sighting lasted for about 3 seconds. i was talking with friends then this apeared and my mouth dropped open. my friends said that i was talking and i stopped  saying oh my god then i freaked out. listen i know people like make up things for attention, but i know what i saw and honestly i would rather not have people thinking that i'm some kind of wack-o.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13939.html](http://www.nuforc.org/webreports/reports/013/S13939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Atlantic Ocean (Canada) (NS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>baseball size lights,one behind the other,travelling in straight lineon a fishing boat travelling to fishing grounds in area known as cabot strait,about 15 miles from land.no moon very clear,i was out on deck laying on my back watching the stars.then i seen a straight line of lights travelling south to north. very high in sky, all same size, all same distance apart sort of like a chain.lights were baseball size and about a foot apart,their were 8 lights.went in straight line and just disappered. then about 5 min later i seen another formation same as the first one,only this one had 14 lights,also going from south to north.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50940.html](http://www.nuforc.org/webreports/reports/050/S50940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
