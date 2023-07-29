@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:11 on 28 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:27:28 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lola (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 bright light appearing for 1min before moving slightly to the right and vanishing completelyI had been sitting in my backyard for 30-40 minutes gazing at the stars, when I saw an extremely bright light had appeared in an area that had been clear prior til now.  It was brighter and bigger than any star in the sky and had a slight yellow tint.  It sat stationary for nearly 1 minute before moving a short distance to the right, then vanishing completely.  Just like the light from a bulb does when you flip off a light switch, it was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111958.html](http://www.nuforc.org/webreports/reports/111/S111958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Alcochete (Portugal) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vasco da Gama SightAs i was passing in Vasco da Gama Bridge at 23.35 aprox. going to work i notested a fluorescent green triangle upsidedown (base up) with a red light in its left top corner. i was suprised and keep driving and looking.. it was a strange color that green sort of a smoth fluorescent color. I was looking to it and looking for the road , and suddently another red light lighted in the right corner. it was strange. i look back to the road to make shure i wasent going against any other car, and look back to it. as i look i had a clear view of the all image, the triangle and the 2 lights, and then suddently it went like up.. a fast zapp and disapear. from the beggining the object was moving very slow for a diagonal trajectory, from righ to left up. i thought it was a plane...but no planes have they full body colored and the lights are red in one side and green in the other. i now this may sound strange, even i dont know what it its. i know one thing...the internet is full of lies...but believe if you want.. i just needed to report this. stay well all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30425.html](http://www.nuforc.org/webreports/reports/030/S30425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [379](http://www.nuforc.org/webreports/reports/164/S164221.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164184.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164181.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164187.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164192.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
