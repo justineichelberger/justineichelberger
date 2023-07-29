@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chehalis (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A green circular shape about the size of an airplane sped off in the distance after about 4 seconds of watching it.Driving north, we noticed a green circular shape that appeared above the trees, on the east side of I-5 driving north.  Seemed to be 300-400 feet in the air, was a green light, and sped off to the north in an instant.  We only saw it for about 4 seconds, or so.  It seemed as big as an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135439.html](http://www.nuforc.org/webreports/reports/135/S135439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Batesville (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Hello,I live in Batesville, Mississippi on Farrish Gravel Road.  At about 4:00PM I was walking my dog and I glanced at some lights in the sky but didn't pay them any mind because there are street lights that can be seen behind some trees.  About 10 minutes later I looked up to see that the lights were closer than before when I left the house as well as higher in the sky.  When I started to look at the lights I noticed that there were 3 lights in a triangular shape at the bottom of base I guess you could call it, with another single light at the top..  I then noticed that there was a weird shape sort of like a pyramid and that the lights were part of an object and not separate lights.  I can't really determine the size but it was flying lower than an airplane and was still about the size of my thumb if I held it out in front of me.  There weren't any distinguishable colors of the shape other than a sort of hazy looking transparency.  The lights were orangish yellow.  But I looked at the object for maybe 10 minutes until it got too far me to see.  The direction it was going was straight up when it got out of sight.  That is all I can recall and it's pretty exact on what happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142468.html](http://www.nuforc.org/webreports/reports/142/S142468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
