@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:54 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Euless (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>space based bright light that moves, then fades awayApprox 7-8 minutes ago, I went outside, looked up to the night sky, and saw what I thought was a star, turn brighter, then disappeared.  I am in the DFW area, and the object was centered due North of my position, at approx 50-55 degree inclination, just North of the Little Dipper.  It appears as though the distance would be a spaced based object.  It was not the space station or the shuttle. I know what they look like when they pass over. I am 2 miles from an airport so I know what airplanes look like.  It definately glowed brightly for 3-4 seconds, then disappeared.  It actually moved, to what seemed like a Northern trajectory from it's original position.  I know this sounds crazy, but it just happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71399.html](http://www.nuforc.org/webreports/reports/071/S71399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bowie (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>UFO sighting with sparks at the end of the light before it dissapearedDriving toward Bowie on Rout 50 and I saw this light fall from the sky.  It was going really fast, not fast enough to be like a shooting star, but definately faster than a plane or helicopter.  Then it made a hard  Right at a 90 degree angle and started to get really fast and sparks came out of the end of it and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91303.html](http://www.nuforc.org/webreports/reports/091/S91303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
