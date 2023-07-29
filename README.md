@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:57 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:54 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Atlantic Ocean (Canada) (NS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>baseball size lights,one behind the other,travelling in straight lineon a fishing boat travelling to fishing grounds in area known as cabot strait,about 15 miles from land.no moon very clear,i was out on deck laying on my back watching the stars.then i seen a straight line of lights travelling south to north. very high in sky, all same size, all same distance apart sort of like a chain.lights were baseball size and about a foot apart,their were 8 lights.went in straight line and just disappered. then about 5 min later i seen another formation same as the first one,only this one had 14 lights,also going from south to north.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50940.html](http://www.nuforc.org/webreports/reports/050/S50940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Euless (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>space based bright light that moves, then fades awayApprox 7-8 minutes ago, I went outside, looked up to the night sky, and saw what I thought was a star, turn brighter, then disappeared.  I am in the DFW area, and the object was centered due North of my position, at approx 50-55 degree inclination, just North of the Little Dipper.  It appears as though the distance would be a spaced based object.  It was not the space station or the shuttle. I know what they look like when they pass over. I am 2 miles from an airport so I know what airplanes look like.  It definately glowed brightly for 3-4 seconds, then disappeared.  It actually moved, to what seemed like a Northern trajectory from it's original position.  I know this sounds crazy, but it just happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71399.html](http://www.nuforc.org/webreports/reports/071/S71399.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
