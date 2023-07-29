@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:18:40 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:56 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>An adult male witnesses a green disc streak across the night sky.Telephoned Report:  An adult male witnessed a green disc-shaped object streak across the nighttime sky.  He estimated that the object was approximately the apparent size of a full moon, and that it traversed approximately 90 degrees in under 10 seconds.The object was traveling approximately north to south.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100627.html](http://www.nuforc.org/webreports/reports/100/S100627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Reardan (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Large bright golden triangle moving rapidly from west to east near zenith then suddenly vanishesAbout 10:35 pm, on the night of July 29, 2016, I stepped out into my yard with the dog.  I moved around the corner of the house into darkness to look at stars.  A few seconds after I began skygazing, a bright metallic golden wedge shape appeared from the west, moving very fast.  It struck me immediately how large and well defined the shape was, and how fast it was moving, at about the apparent speed of some faster meteors.  At about the time it reached due south of me, it winked totally out as if it were reflecting the sun which had set a couple of hours prior.  It seemed to be traveling due west to east and was 10 to 15 degrees below zenith.  When it winked out, it was gone - it apparently had no lights, and made no noise and was not on fire nor falling apart.  A jet was traveling to the  northwest at high altitude in the same area of the sky, its lights blinking regularly, but I couldn't see any sun reflecting from it.  The jet moved much much more slowly th! an did the UFO, on the order of 20 times more slowly.I am at 47.9 lat x 117.7 long.What was it?((NUFORC Note:  Source of report elects to remain totally anonymous; provides no contact information.  We would like to communicate with the witness, but have no means of contacting him/her.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128913.html](http://www.nuforc.org/webreports/reports/128/S128913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
