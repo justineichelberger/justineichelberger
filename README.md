@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:45 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:08 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 orbs over ocean at Myrtle BeachWatching the night shy while chatting on our oceanfront balcony, we witnessed 4 circular orange orbs light up one after the other within about a second of each other. The first lit up, then the second and so on. Then as fast as they appeared they went out in the same fashion, with the last going out first and so on. Then about 5 minutes later only 1 lit up for about 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71498.html](http://www.nuforc.org/webreports/reports/071/S71498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  66</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164279.html](http://www.nuforc.org/webreports/reports/164/S164279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
