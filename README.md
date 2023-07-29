@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:59 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lumberton (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright white light that would change colors, disappear, & reappear over S.E. N.Carolina witnessed by 4 people over 2 hrs.I went outside to smoke and a flashing reddish, blue light that was moving across the sky against the trees caught my attention.  The light began to hover for 2-3 min.  Then began to fade.  Within 30 sec. the light just completely disappeared.  Within a 45 sec. to a min.  The light would reappear in the same spot starting with a white light that would change to a reddish, blueish, green color.  The light began to move from the north to the west very slow, then the process would start all over.  When the light would move it would look as if it was three different color lights that were very close to each other but the distance would make it look as if it was one light. As time went on the light was moving away from me and east.  At times the light would appear to suddenly drop down a short distance all of a sudden like it was going through terbulance while also moving east.  After 2 hrs. the last time it disappeared it never came back.  Three other adults other than myself witnessed the entire thing.  I live 30 min. south of Ft. Bragg, N.C.  And this was not any military aircraft.  It was cloudy tonight and the light would reappear in front of the clouds at times so the object was flying below some of the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111986.html](http://www.nuforc.org/webreports/reports/111/S111986.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chehalis (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A green circular shape about the size of an airplane sped off in the distance after about 4 seconds of watching it.Driving north, we noticed a green circular shape that appeared above the trees, on the east side of I-5 driving north.  Seemed to be 300-400 feet in the air, was a green light, and sped off to the north in an instant.  We only saw it for about 4 seconds, or so.  It seemed as big as an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135439.html](http://www.nuforc.org/webreports/reports/135/S135439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
