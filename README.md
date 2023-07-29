@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:55 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Alcochete (Portugal) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Vasco da Gama SightAs i was passing in Vasco da Gama Bridge at 23.35 aprox. going to work i notested a fluorescent green triangle upsidedown (base up) with a red light in its left top corner. i was suprised and keep driving and looking.. it was a strange color that green sort of a smoth fluorescent color. I was looking to it and looking for the road , and suddently another red light lighted in the right corner. it was strange. i look back to the road to make shure i wasent going against any other car, and look back to it. as i look i had a clear view of the all image, the triangle and the 2 lights, and then suddently it went like up.. a fast zapp and disapear. from the beggining the object was moving very slow for a diagonal trajectory, from righ to left up. i thought it was a plane...but no planes have they full body colored and the lights are red in one side and green in the other. i now this may sound strange, even i dont know what it its. i know one thing...the internet is full of lies...but believe if you want.. i just needed to report this. stay well all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30425.html](http://www.nuforc.org/webreports/reports/030/S30425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>lasting only 3 sec. a nean green glowing object heading north disapeared with out a traceit was a neon green, glowing kinda of circular object. it was a clear night and the object was moving very fast in a straight line heading north then in a flat secind it disapeared with fading, it just was gone. the sighting lasted for about 3 seconds. i was talking with friends then this apeared and my mouth dropped open. my friends said that i was talking and i stopped  saying oh my god then i freaked out. listen i know people like make up things for attention, but i know what i saw and honestly i would rather not have people thinking that i'm some kind of wack-o.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13939.html](http://www.nuforc.org/webreports/reports/013/S13939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
