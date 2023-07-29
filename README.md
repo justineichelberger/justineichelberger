@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:51 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Nashville (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a light moving across the sky from noerth east to south east  It was more yellow than white and traveling very fastOn 7-29-02 my wife and I were staying in a cabin in brown county Indiana,about 35 miles south of Indianapolis. At about 22.40 I went out side to look at the sky. It was filled with stars. I was looking in a easterly direction at a group of bright starts.I saw the lights of a airplane going in a general direction of north east to south east.Stand still and raising you ary in line with the airplane I wouls say it was about a thirty degree elevation from the horizontal. It was moving at the speed you would normaly see from a airplane. I looked back to the large group of stars when I saw what looked like a bright star moving,I thought it was just my eyes , that it was not moving. As I kept watching I could tell it was moving and very fast. It was twice as high as the airplane,moving in the same direction.Holdinf my army straight and putting my thumb under thi light it was about half of the size of my thumb nail.As I watched i could see that this light was not white like to stars, by more of a yellow.I dont know how to judge speed, but I can tell you that it must have been traveling about 6 times faster that the airplane. It only took about nine seconds to travel across the sky and move over the horizon. I watched this light move across the sky using stars to try to gage it speed I dont know the distance between the stars but it went across the path of three stars an about a second and a half.I never see anything like it before. I saw the space station go over heard one night about 4 years ago,and thought that moved very fast. What I seen was higher in the sky and moving faster,.((NUFORC Note:  The International Space Station was visible over Indiana from 21:12 to 21:17 hrs. on this date.  Please see: http://www.heavens-above.com/passsummary.asp?lat=39.207&lng=-86.251&alt=187&loc=Nashville&TZ=Indiana&satid=25544&Date=37457.7083333333&Mag=PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24035.html](http://www.nuforc.org/webreports/reports/024/S24035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in York (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Star like object movingLight in north over Wetherby North Yorkshire England about 21.00 hrs it was stationary for two minutes then it went towards the horizon very fast it also started dulling then got bright again</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100615.html](http://www.nuforc.org/webreports/reports/100/S100615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
