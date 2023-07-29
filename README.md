@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:56 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>1 big circle in sky that looked like light then 6 smaller “lights” came apartAt Surfside hotel in Orlando, Florida, for the week,  Was watching cars until boyfriend said “what is that?!”  And I looked at the sky where he was looking and we watched 1 big light during a thunderstorm then the light dispersed into 6 smaller lights and flew around then hovered in the sky for a while then slowly disappeared after 2-3 minutes but the main light was left behind for 5 minutes.  I can’t believe my eyes don’t think I’m going to sleep for a while.. there was more people in the area but unsure if they saw the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147902.html](http://www.nuforc.org/webreports/reports/147/S147902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object flew from the area of Atlantic Ave south about 1/2 miles, hoovered for about 30 seconds,  then north.  Lights looked like a Christmas tree.  Was too big to be a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142475.html](http://www.nuforc.org/webreports/reports/142/S142475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
