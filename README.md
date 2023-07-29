@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:09 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:58 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>METEOR APPEARING LIGHT HEADS STRAIGHT DOWN ACCELERATING IN SPEED AS IT CHANGED SLOWLY FROM WHITE TO NEON GREENHIGH ABOVE THE NIGHT SKY. SAW A BRIGHT WHITE AMBER LIGHT THAT FELL AS IF IT LOST CONTROL AND HEADED Downward FOR towards GROUND SURFACE. THE LIGHT CHANGED TO A NEON GREEN AND BECAME BRIGHTER AS IT WENT STRAIGHT DOWN.((NUFORC Note:  We presume that the witness means 11.42 p.m..  We have changed the time here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18720.html](http://www.nuforc.org/webreports/reports/018/S18720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston area (Canada) (BC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Houston, Quick, Telkwa & Smithers British Columbia Sighting. Nine witnesses in four different communities watch a large glowing white object shoot down the Bulkley Valley at a very low level.Military were seen in the area by dozens of witnesses after this UFO event took place on July 29, 2002.Full report can be viewed at:  <http://www.geocities.com/hbccufo/HQTS.html>((NUFORC Note:  We express our gratitude to Brian Vike, Director of the Houston, British Columbia, Canada UFO Research organization, for sharing this report.  We encourage other witnesses to the same event to contact Mr. Vike directly at the following e-address:  <hbccufo@telus.net>   His website homepage for Canadian reports, or ordering his newsletter,  is:<http://www.geocities.com/hbccufo/home.html>     All the British Columbia UFO reported sightings to HBCC UFO Research can be found at:<http://www.geocities.com/ufologia_canadiana/BC2002sightings.html>PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27872.html](http://www.nuforc.org/webreports/reports/027/S27872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
