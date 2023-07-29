@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:59 on 29 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Massillon (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, sun-like light in the sky.My husband opened his eyes from sleeping and saw a bright light coming from the sky, bright like the sun. He jumped out of bed to investigate and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57897.html](http://www.nuforc.org/webreports/reports/057/S57897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lumberton (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright white light that would change colors, disappear, & reappear over S.E. N.Carolina witnessed by 4 people over 2 hrs.I went outside to smoke and a flashing reddish, blue light that was moving across the sky against the trees caught my attention.  The light began to hover for 2-3 min.  Then began to fade.  Within 30 sec. the light just completely disappeared.  Within a 45 sec. to a min.  The light would reappear in the same spot starting with a white light that would change to a reddish, blueish, green color.  The light began to move from the north to the west very slow, then the process would start all over.  When the light would move it would look as if it was three different color lights that were very close to each other but the distance would make it look as if it was one light. As time went on the light was moving away from me and east.  At times the light would appear to suddenly drop down a short distance all of a sudden like it was going through terbulance while also moving east.  After 2 hrs. the last time it disappeared it never came back.  Three other adults other than myself witnessed the entire thing.  I live 30 min. south of Ft. Bragg, N.C.  And this was not any military aircraft.  It was cloudy tonight and the light would reappear in front of the clouds at times so the object was flying below some of the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/111/S111986.html](http://www.nuforc.org/webreports/reports/111/S111986.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [368](http://www.nuforc.org/webreports/reports/164/S164190.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164279.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164195.html)
-- [365](http://www.nuforc.org/webreports/reports/158/S158065.html)
-- [364](http://www.nuforc.org/webreports/reports/158/S158053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
