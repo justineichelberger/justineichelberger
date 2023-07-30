@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:21:12 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:44 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Chawton (village of) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single white star like object moving across sky at a very high altitudeReturned home and parked vehicle(at the back of my flat)walking back towards my home I noticed a single white light(like a star) moving across the sky overhead it was at a very,very high altitude when I first saw it and it was going at a steady speed but then appeared to slow down and at one point looked to me like it was completely stationary(not moving at all)and then change postion in a hesitant and eratic manner it caught my attention and at the same time seemed particually weird as I don't know what it could have been,  Do please get in touch with me by Email as I have had two VERY REAL sightings of UFO'S both Occured in 2002 (the first was a white light that I thought was just a normal aircraft but turned out to be a large flickering round white ball of light that suddenly changed into a pure glowing Size Changing White Disc/Saucer right in front of me (you'll see this on the footage I have of it)((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100649.html](http://www.nuforc.org/webreports/reports/100/S100649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man witnesses orange ball of light pass across the disc of the Moon.Telephoned Report:  An adult male called from Omaha, NE, to report having witnessed "an orange ball" pass across the face of the full Moon.  The object moved from his left to right (east to west), as he faced the Moon, and he estimated the (apparent) size of the object at approximately one twentieth the (perceived) diameter of the full Moon. The witness reported that the object was seen against the disc of the Moon for approximately 1-2 seconds, and it seemed to disappear as it departed the disc, and continued moving to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38401.html](http://www.nuforc.org/webreports/reports/038/S38401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
