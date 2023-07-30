@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:30:49 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:54:07 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Troy (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>If it looks like the ISS but isn't,  what is it?On July 30, 2011, we were in Troy, NH, sitting at a campfire.   At approximately 9:18pm a moving object attracted our attention.  It moved at a rate similar to the ISS.  It had a greenish tint & was heading northward.  There was no sound.When it was overhead, it suddenly flared in intensity (perhaps 100 times brighter).  The flare reminded me of a cat's eye.  Then it faded as it continued northward & disappeared.(NUFORC Note:  Possible flare from an "Iridium" satellite, although such a flare lasts for only a few seconds, and they are white, not green.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82849.html](http://www.nuforc.org/webreports/reports/082/S82849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sunderland (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A strange white object appeared in the sky on two seperate occasions.This weekend (July 29th - 30th 2006) is the "Sunderland Air Show" and i was outside trying to catch a glimpse of any airplanes that may pass during the show that was taking place around 40 minutes drive away from my home in Tyne and Wear, England. I noticed that there were many commercial aircraft being diverted from the airspace in which the show was taking place as i saw plane after plane pass i then noticed an object near the airspace in which the planes were flying. At first i thought it was just another plane but then i noticed it was stationary in the sky and there was no sound that i could hear coming from it. The object then dissapeared and reappeared again and then did the same about two times more. I tried to get a video but i could not find the object i was seeing in the viewfinder as the sun was in my eyes and also the object was so small. I instead went to get my Dad who came out but when he did the object was no longer there. I thought no more of it and continued on with the watch for planes in the skies and now i was watching for UFO's also. This sighting occured at around 1:50pm on July 30th 2006. A few hours past and then at around 4:55pm i noticed an object the same to the one i had seen at 1:50pm going across the sky to the west i aimed my camera and pressed the record button but i did not know were to aim the camera as the object was not appearing in the viewfinder the sighting lasted for seconds and i got some very poor footage but its still footage i would like to show. I have slowed the footage down 18X so you can get a better look the object appears to the top right of the screen and is quite hard to see but if you look closely and view it a couple of times you will see what i am getting at. I am positive that what i saw was not a plane of any kind. If you would like to see the video please visit - www.alienationsam.com and take a look at the "My Encounters" page i would be interested to get any feedback on the sighting. Sam,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51803.html](http://www.nuforc.org/webreports/reports/051/S51803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
