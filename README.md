@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ypsilanti (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White Orb with 2 red lights takes gift.I found a locust in my above ground pool and I saved him.  I picked him up with my net and placed him on a table to dry out.  Later on, my son and I went for a swim in our pool.  This locust flew by us as he was buzing the tower several times.  The next evening I was sitting on my back porch smoking and I noticed an flat white orb in front of my garage.  I also noticed two red lights next to it.  I didn't know if it was a spirit or an ufo.  I decided at that point that I would give it something.  I went inside and got something, but when I came back, it was gone.  I knew it would be back the next day, and it was.  The orb was not there, but the 2 red lights were.  I put the gift on the pool filter unit, and it hesitated.  So, I took it off and stood outside.  I noticed that it could not be above electrical units.  As I was stepping away, the item slowly left my pouch.  So they got it.  What's next?((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96278.html](http://www.nuforc.org/webreports/reports/096/S96278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Truckee (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>no sound and fairly closeIt was seen flying low and fast then slow about 8 thousand feet flying east twords reno then climbed to who knows how high. It was seen with binoculars by three of us. It was round but not thin. climbed streight up and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38411.html](http://www.nuforc.org/webreports/reports/038/S38411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
