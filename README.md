@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:40 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Veduawoo (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20+ - 20+ minutes.</sub><blockquote><sub>Clear, white spherical shape, reflected sunlight.  Ascended toward outer atmosphere.  Halted at certain point in outer atmosphere.  Did not have its own illuminosity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129003.html](http://www.nuforc.org/webreports/reports/129/S129003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Lights to the west over the mountainsMy wife and I were standing on the balcony enjoying the evening when I noticed a bright light in the sky to the west, I pointed this to my wife and she agreed that it looked like a star, but it was to light outside not another single star was visible, I thought we could be looking at a plane or another aircraft approaching as Loveland has a small airfield of its own and we are very close to Denver. I made this decision as there was a level of movement on the light both up and down and side to side but only slightly so we thought it may have been heading straight at us. I then noticed another object close by but appeared to be at a different altitude and was not nearly as bright, this I assumed was another plane following in. I was happy with my guess until the first object literally dropped from the sky behind an apartment building blocking the rest of the view, the secondary object seem to get dimmer and completely disappear, At first reactions from residents has been probably children with fireworks but this was no firework, It was over the mountains not actually in Loveland I don't think kids will trek into the mountains to have fun with rockets.((NUFORC Note:  Witness elects to remain totally anonymous.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45360.html](http://www.nuforc.org/webreports/reports/045/S45360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
