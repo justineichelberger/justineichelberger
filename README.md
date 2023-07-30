@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:55 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Capitola (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>formation forming (triangle) group of lights3 crafts flying off of the monterey bay from the south heading north over Capitola, 2 of the crafts were in formation and the 3rd flew up from behind and joined them in a perfect triangular formation. The speed that this was done at was incredible.The entire sighting was approximatley 15 seconds There was no blinking lights the craft were white lights. There was absolutley no sound. These were no jet aircraft.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71425.html](http://www.nuforc.org/webreports/reports/071/S71425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Gilroy (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Gilroy CaliforniaReference the forwarded photograph taken at the end of July first week of August 1996 time frame. I recently came across this photograph again and scanned it in to my computer, something I did not own when I first arrived in Gilroy; enlarging it for a better view I was intrigued by what I was looking at particularly the straight angular bar at the bottom. I believed that there was a seperation between the two objects in the photo but on showing it to a couple of friends they suggested it was connected, the blue in the middle was the sky reflecting on to what must be a very shiny side of the object.All the more intriguing, as this was not what I had taken a picture of. I had been working in my kitchen when from outside a white flash caught the corner of my eye turning to see what it was I noticed what I at first thought was a white plastic bag that the sun was giving a brightness to as it was being carried by the wind.There was no wind this is July/ August in Gilroy Calfornia, as I stood watching trying to figure out what it could be this brilliant white object hovered for a few seconds maybe as long as thirty seconds at times then it would all of a sudden be in a different place in the sky, skipping in zig-zag fashion extremely fast, impossible for anything I had previously believed could travel at such a rate. It would be in one position then literally in a flash a position distant to its original.I watched this erratic zig-zaging and hovering for maybe six minutes. The object seemed to be getting closer as it appeared to be getting a little larger each time.I ran to get my camera, returning the object was closer and larger that any time previous and just hovering. I quickly aimed my camera and hoped I had captured something the object simultaneously disappeared.As you can see there was no no expanse of brilliant white light but the object you see.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38465.html](http://www.nuforc.org/webreports/reports/038/S38465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
