@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Odin (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Jet Aircraft chase Ball of Light over Odin IllinoisOne ball of light flew around in the vicinity of Scott AFB with 2 fighter type aircraft giving chase for approx 30 minutes on the night of July 30, 2009.  Ball of light would move accross the sky the jets would give chase and ball of light would change direction in a 90 degree move and the jets would try to give chase but could not seem to turn nearly as sharp as the ball of light. sound of jets shook the ground, unknown if ball of light made any noise due to the jet aircraft.((NUFORC Note:  It is unclear to us how there can be jet fighter activity for 30 minutes, and yet we receive only one report.  This may not be a serious report, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71417.html](http://www.nuforc.org/webreports/reports/071/S71417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Goderich (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My family was having a campfire on the beach at Lake Huron, when we saw a spherical object, maybe half a mile away, moving steadily over the lake, around 200 meters above the water, heading NW.  It didn't move very fast, but made no sound that we could hear, and the entire object was a bright orange light.  So bright, it reflected off the lake.  It continued straight North, then turned a bit westward, directly away from us, until it faded from view.  Total time around 4 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71414.html](http://www.nuforc.org/webreports/reports/071/S71414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
