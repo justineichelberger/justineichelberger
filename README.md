@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:55 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>A black dot on the Arizona horizonLet me start by informing everyone that I have previously filed a report in Middletown, Ohio.  This sighting took place while driving on interstate 8, around Gila Bend, Arizona, also this sighting is not related closely to the sighting that I have recently reported...                                                                             Me and my father were on a road trip to Sherman Oaks, California.  We were driving through Arizona on Interstate 8 at about 7:14 in the afternoon (about the time of sunset).  I was concentrating on the road when my father asked me to look into the horizon around the northwest direction.  What I saw didn't amaze me at first, There was a black dot below the clouds.  I watched it a little longer before my father mentioned that he had been viewing it for about fifteen minutes, and it hadn't moved.  I pulled off at a rest area and we both got out.  We sat and watched it, throwing out ideas of what it might be.  My father suggested a helicopter, but it sat so still for so long that I wasn't convinced.  He then suggested a weather balloon, but I quickly threw that theory out because I knew that weather balloons were metallic and were moved by the wind.  As the sun set his last theory was that it was a blimp.  But by that time it was dark and at least an hour went by and it still had not moved, there were also no lights surrounding the object.  As night fell onto the land the object slowly disappeared.  Which left me to wonder what it was.... possibly a ufo, possibly a secret government project.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24121.html](http://www.nuforc.org/webreports/reports/024/S24121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mackinaw City (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Cigar shaped ufo sighted over Mackinaw City, MI, traveling at extreme speed.While driving south on US-23, I looked up and saw a cigar shaped object moving extremely fast from south to north.I looked like a dark grey cigar, and was moving so fast that if I blinked I probably would have missed it.It was at 12:00 o'clock high, altitude unknown. I'm retired USAF, so I'm accustomed to seeing airplanes flying at varying altitudes. This happened so fast that I could not gauge alt. though if I had to guess, it was at approx. 1,000 ft.((NUFORC Note:  Date may be approximate, although witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70588.html](http://www.nuforc.org/webreports/reports/070/S70588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
