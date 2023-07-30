@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:40 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Lights to the west over the mountainsMy wife and I were standing on the balcony enjoying the evening when I noticed a bright light in the sky to the west, I pointed this to my wife and she agreed that it looked like a star, but it was to light outside not another single star was visible, I thought we could be looking at a plane or another aircraft approaching as Loveland has a small airfield of its own and we are very close to Denver. I made this decision as there was a level of movement on the light both up and down and side to side but only slightly so we thought it may have been heading straight at us. I then noticed another object close by but appeared to be at a different altitude and was not nearly as bright, this I assumed was another plane following in. I was happy with my guess until the first object literally dropped from the sky behind an apartment building blocking the rest of the view, the secondary object seem to get dimmer and completely disappear, At first reactions from residents has been probably children with fireworks but this was no firework, It was over the mountains not actually in Loveland I don't think kids will trek into the mountains to have fun with rockets.((NUFORC Note:  Witness elects to remain totally anonymous.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45360.html](http://www.nuforc.org/webreports/reports/045/S45360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Odin (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Jet Aircraft chase Ball of Light over Odin IllinoisOne ball of light flew around in the vicinity of Scott AFB with 2 fighter type aircraft giving chase for approx 30 minutes on the night of July 30, 2009.  Ball of light would move accross the sky the jets would give chase and ball of light would change direction in a 90 degree move and the jets would try to give chase but could not seem to turn nearly as sharp as the ball of light. sound of jets shook the ground, unknown if ball of light made any noise due to the jet aircraft.((NUFORC Note:  It is unclear to us how there can be jet fighter activity for 30 minutes, and yet we receive only one report.  This may not be a serious report, we wonder.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71417.html](http://www.nuforc.org/webreports/reports/071/S71417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
