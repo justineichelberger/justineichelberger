@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marlinton (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw about 20 to 30 lights flashing in sky.  Moving north.  No sound.  Look like small drones.((NUFORC Note:  For some reason, witness indicates that the date is approximate.  Contact information is flawed.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128923.html](http://www.nuforc.org/webreports/reports/128/S128923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Crestview (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>White, triangular object (shaped like a long, narrow paper airplane) observed moving silently in broad daylight.This sighting took place so long ago that I’m not sure of the exact date.  However, it was the summer (approximately July or August) of 1995 or 1996 and took place in Crestview, Florida.I was in the backyard with my grandson when I looked up and saw an object in the sky.  It was solid white (at least I don’t remember any markings or lights) and triangular in shape.  It was long and narrow, looking about the shape of the long paper airplanes we made as kids.  It was moving very slowly and completely silently.I watched for a moment and then looked down to tell my grandson to look up.  When we both looked up, the object was gone.  It was broad daylight and the sky was completely clear with no clouds into which it could have disappeared.  I could not have taken my eyes off of it for more than a few seconds.  It would have had to move at a tremendous speed to disappear in that time.  I’ll never forgive myself for looking away and not seeing how it left.A few minutes later a small aircraft flew over at approximately the same height as the object (maybe a bit lower), and I could clearly hear the airplane engines.  The object had made no sound at all.I haven’t mentioned this incident to anyone but my family, and my grandson was much too young to remember it.  I was afraid to be labeled a kook because of the many “sightings” that have been reported in Gulf Breeze, Florida, over the years.  Gulf Breeze is only about 20 miles from Crestview as the crow flies.I haven’t read or seen any accounts of objects that were shaped exactly like the one I saw.  If you have had reports of anything like it, I would greatly appreciate your letting me know.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75998.html](http://www.nuforc.org/webreports/reports/075/S75998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
