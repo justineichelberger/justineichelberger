@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:02 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Man witnesses orange ball of light pass across the disc of the Moon.Telephoned Report:  An adult male called from Omaha, NE, to report having witnessed "an orange ball" pass across the face of the full Moon.  The object moved from his left to right (east to west), as he faced the Moon, and he estimated the (apparent) size of the object at approximately one twentieth the (perceived) diameter of the full Moon. The witness reported that the object was seen against the disc of the Moon for approximately 1-2 seconds, and it seemed to disappear as it departed the disc, and continued moving to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38401.html](http://www.nuforc.org/webreports/reports/038/S38401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Prospect (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>8 orange glowing circles float across the sky flying lowVisiting my brother in Prospect, CT, 4 of us sitiing on deck outside having coffee...as I looked in the sky I see 8 orange circles could not see a definite shape "quietly" gliding across the sky..no noise......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82820.html](http://www.nuforc.org/webreports/reports/082/S82820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
