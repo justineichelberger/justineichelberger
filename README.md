@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:29 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brightwaters (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>What appeared to be stationary stars in the sky were actually from a distance and through my binoculars, multi-colored strobe lightsAt 4:30 a.m.  I went downstairs to the kitchen to get a drink and as I was drinking my juice drink, I just happened to look at the window and was admiring the stars.  Up ahead, very high in the sky, from my vantage point looking over the roof of he neighbors house behind my house, I noticed among all the normal looking white/yellow bright stars was what looked like a star that was changing colors (red, green, white, blue).  I figured it was a plane but I then noticed the same (what I assumed was again a star) was up higher and to the right in the sky.  It looked smaller or further from Earth but it did the same thing.  So, I figured maybe they were both planes with colored lights but neither moved, they both were in the same spot for at least ten minutes or so before I decided to get a pair of my binoculars.  I went outside and looking through the binoculars, I saw that the typical white/yellow stars that we all see in the sky were just that...stars (yellow/! white in color and stationary). When I looked at the two multi-colored "stars" one was larger than the other...they were stationary but through my binoculars I could see a strobe light effect going on and the colors were red, blue, green and white/yellow and they just constantly changed colors.  It also seemed like there was a vague outline of an orb shape enveloping the constantly changing colored strobe effect.  I don't know for sure it was a UFO (either or both) but nothing else in the sky was stationary and changing colors constantly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91320.html](http://www.nuforc.org/webreports/reports/091/S91320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Veduawoo (WY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20+ - 20+ minutes.</sub><blockquote><sub>Clear, white spherical shape, reflected sunlight.  Ascended toward outer atmosphere.  Halted at certain point in outer atmosphere.  Did not have its own illuminosity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129003.html](http://www.nuforc.org/webreports/reports/129/S129003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
