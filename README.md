@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:02 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Prospect (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>8 orange glowing circles float across the sky flying lowVisiting my brother in Prospect, CT, 4 of us sitiing on deck outside having coffee...as I looked in the sky I see 8 orange circles could not see a definite shape "quietly" gliding across the sky..no noise......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82820.html](http://www.nuforc.org/webreports/reports/082/S82820.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Folly Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately Variable - Variable minutes.</sub><blockquote><sub>Orange orbs over the ocean at night, every 20-25 min, some grouped and some individualMy wife and I were stargazing near the water on a clear night.  There was light cloud cover and a storm very far out to sea.Our first sighting was what appeared to be 5 orange lights, all in a row parallel to the horizon, slipping from behind a cloud, moving out and around the cloud, then moving back into the cloud and fading.  This occurred in the skies south of our position.  Total visible time was about 10-12 seconds.These objects were circular, with a slight twinkle to them.  The hue was definitely a bright orange, almost yellow toward the middle when they were at their brightest.Throughout the night we saw several single flashes of orange light.  The flashes were primarily located in the south eastern sky and only lasted a moment.  They resembled jet engines, but we heard no sounds that might indicate military aircraft.Our second sighting, coming just before returning to our house, was of a long string of orbs that seemed to extend/“come from” a single orb that appeared/“turned on” first and began to move slowly.  The orbs moved in unison and were bright enough that the orange light they gave off reflected on the ocean surface.  Again, they faded into clouds and were gone.  Total visible time was again about 10-12 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148019.html](http://www.nuforc.org/webreports/reports/148/S148019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
