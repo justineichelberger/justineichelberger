@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:56 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:59 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Craft was very shiny and was mimicking a commercial jet with a tail, wings and fuselage.  Suddenly disappeared.Saw a galactic craft on my way down the mountain enroute to Lihue from Wailua Homesteads.  After you pass Opaekaa Falls, there's an expansive view of the ocean out to the horizon on your right.  It was from there I saw the ship floating along.  It was mimicking a commercial jet with a tail, wings and fuselage.  No logos, very ethereal, shiny with a large Sun glint radiating off its side flying against a pale blue sky.  As I watched, it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135470.html](http://www.nuforc.org/webreports/reports/135/S135470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The strangest light I have ever seen, and the fastest accelleration I have ever seen.I was sitting on my front step on the evening reported, and heard a jet and was watching it travleing from West to East, when a flash of white light cauget my eye in the South. I wached it strobe and travle in a Northernly direction until it was almost directly over head. It was at a tremendous altitude, as compared to the jet that passed by. When it got to the point almost directly overhead, it emmitted a very bright flash of white light, then very suddenly curver to travle in the direction of North by North East, and accellerated at a tremendous burst of speed. I witnessed it travle over the Eastern horizon within seconds after it began it's accelleration. when it began it's acceleration and changed direction it became redish in color, but was too high to make out any detail of shape or sound.I called a Denver news station, WB 2 News, and reported it to that entity, to which I was not asked any info, only that they would make some phone calls, but I was not told to whom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64953.html](http://www.nuforc.org/webreports/reports/064/S64953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
