@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:54 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:53 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Somerville (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 Objects with lights, spotted in triangular formation while driving on RT 287Some very close friends of mine were driving (leaving Somerville).  We were on RT 287, coming towards Piscataway.  My friend who was sitting in the passenger seat spotted spotted a triangular form shaping with three circular light objects and so did I.  They didn't look like planes or helicopters (as so her husband thought) but as soon as we looked the circular light at the  tip of the triangular formation was moving fast and away!  We realized, as we kept driving, we saw them again, but only two this time and they seemed to be close, and I'm sure that no helicopter or plane would look at that close!!!  I'm not sure, but they were bigger, so that means they were closer.  I know what lights look like and those weren't lights, but there was a light that covered what seemed to be fast moving objects.  It had like a glow so to speak. It scared the living crap out of me!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120799.html](http://www.nuforc.org/webreports/reports/120/S120799.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hampton (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Silent, low, super fast object .Silent, low, super fast object moving from south to west. Underside apparently illuminated by Norfolk/Hampton ground lights. Object size and distance from ground unknown, speed unknown. Looked round or oval in shape. No brights lights were seen on object. Only took about 4 seconds to travel accross clear night sky and out of sight. Was standing on Hampton shore looking at base and the object caught my eye as well as four others standing on the same strech of shoreline.((NUFORC Note:  We presume that the witness implies a nighttime sighting.  We have amended the time to 22:30 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24087.html](http://www.nuforc.org/webreports/reports/024/S24087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
