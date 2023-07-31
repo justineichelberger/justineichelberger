@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 30 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:28:39 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Gil Community (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>diamond shaped craft with lights and a slight buzzing soundThe following description is taken from a realitive who saw this craft early one morning on the way to school.  At the time she lived with her mother in the wooded areas in east texas near the La/Tx line...they both saw a diamond shaped craft move very slowly over the van. It had lights on each corner, with a forward light beam emmited from two diffent parts on the front of the craft. It produced a slight buzzing-electric sound that could be heard over the van engine. It moved westerly about 35 mph, with an approximate altitude of 100 feet, and maintained same altitude despite changing topography. The underneath side had strobe-like lights flashing at at regular intervals, lastly dark rectangular bands are seen at diffent lenghts on the bottom side of the craft with a circular light in the middle of the underside((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34872.html](http://www.nuforc.org/webreports/reports/034/S34872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eaton (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I let my dog out just after 2 a.m and saw 2 bright blueish silver fast flashing triangular objects.  One over the other a small distance.  It was very cloudy and there wasn't any visible stars or moon. They would get real bright then start flashing like a strobe light. I went and got my boyfriend and he saw them just before they faded out. This isn't the first time I have saw strange objects over us. After midnight most nights there is a lot of air crafts back and forth all night but barely any at all during the day?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164197.html](http://www.nuforc.org/webreports/reports/164/S164197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/165/S165581.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164201.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164211.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164278.html)
-- [378](http://www.nuforc.org/webreports/reports/158/S158209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
