@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:28:39 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:56:43 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Eaton (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I let my dog out just after 2 a.m and saw 2 bright blueish silver fast flashing triangular objects.  One over the other a small distance.  It was very cloudy and there wasn't any visible stars or moon. They would get real bright then start flashing like a strobe light. I went and got my boyfriend and he saw them just before they faded out. This isn't the first time I have saw strange objects over us. After midnight most nights there is a lot of air crafts back and forth all night but barely any at all during the day?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164197.html](http://www.nuforc.org/webreports/reports/164/S164197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rectangle shape with a red and green light.My parents and my siblings and our friends and his kids were outside swimming at night  i was walking back outside and all of a sudden i saw a rectangular shape fly towards our house really fast then slowed to a hover with a red light on the left and a green light on the left i told my dad and then everyone saw it and the first thing we think is aliens  it hovered and went up and down it made a humming noise i got my video Camera and when i zoomed in i saw like a flash of green on the Camera only.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We would like to look at the alleged video, but we have no way to contact the witness to the alleged sighting.  Possible hoax, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112075.html](http://www.nuforc.org/webreports/reports/112/S112075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
