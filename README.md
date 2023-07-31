@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:22 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:56 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle of lights over NYS thruway near exit 20.We were driving down the nys thruway near exit 20 and saw 3 bright lights in the sky in a perfect Triangle formation.  At first we thought it may be a plane but the lights were stationary and too far apart.  Then we thought it may have been a tower, but on closer inspection there was nothing under the lights and it was directly over the highway.  It was hovering over the highway and making no noise.  We drove right under it.  It did not move.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112083.html](http://www.nuforc.org/webreports/reports/112/S112083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Craft was very shiny and was mimicking a commercial jet with a tail, wings and fuselage.  Suddenly disappeared.Saw a galactic craft on my way down the mountain enroute to Lihue from Wailua Homesteads.  After you pass Opaekaa Falls, there's an expansive view of the ocean out to the horizon on your right.  It was from there I saw the ship floating along.  It was mimicking a commercial jet with a tail, wings and fuselage.  No logos, very ethereal, shiny with a large Sun glint radiating off its side flying against a pale blue sky.  As I watched, it suddenly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135470.html](http://www.nuforc.org/webreports/reports/135/S135470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
