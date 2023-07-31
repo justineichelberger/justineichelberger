@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:59 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:58 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Leeds (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I looked out of the bedroom window and saw a bright light in the sky which looked like a similar object I had seen several times in the same general area from july 15-august 1. The object would hover, move left to right, right to left, and up and down. The object moved slowly through the sky, diamond shaped and bright. Colors could be faintly seen with the naked eye, but when the object was viewed through a high powered telescope it looked like watching fireworks. The object had multie color lighting comming off of it and was spinning. It looked faceted like a diamond.  Object seemed to move north west. Objects seem to appear after ten at night to about two in the morning.  Objects have been seen on every night in the past two weeks.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64952.html](http://www.nuforc.org/webreports/reports/064/S64952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Saugerties (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle of lights over NYS thruway near exit 20.We were driving down the nys thruway near exit 20 and saw 3 bright lights in the sky in a perfect Triangle formation.  At first we thought it may be a plane but the lights were stationary and too far apart.  Then we thought it may have been a tower, but on closer inspection there was nothing under the lights and it was directly over the highway.  It was hovering over the highway and making no noise.  We drove right under it.  It did not move.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112083.html](http://www.nuforc.org/webreports/reports/112/S112083.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
