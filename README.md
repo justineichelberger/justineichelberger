@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:02 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:10:59 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange yellow orb seen floating over clouds, slowly moving up and down, finally dipping behind large cloud.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128943.html](http://www.nuforc.org/webreports/reports/128/S128943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light. Not plane, planet or starOn the way to work this morning with my husband I noticed a very bright light just below the moon.  The light was stationary and we were traveling east at about 30mph.  At first I thought that it was a star or planet, but it was just too large and very bright. I also thought that perhaps it was a plane, there is an airport about 5 miles from where we were, but it was too high to be in the flight pattern,on an inbound, or just after takeoff. There where no beacon lights so I honestly didn't believe it to be a plane,  I looked at it for moment and thought to look and see if the sun was coming up and possibly causing some sorta reflection.  The sun was still low in the horizon.  This took took perhaps a split second, when I looked back at the moon again the light was gone.  My husband pulled over to the side of the road to see if it had traveled over the top of the jeep we were riding in.  It was gone.  If it was  a plane, there is no way that it could of landed that quickly from such a high altitude.  I have looked around the internet to try to find an explaination to this, but the closest that I can come up with is the star Sirius, but from what I can tell, it is not near the moon at this time.  I have never seen a ufo (not saying this was one)and am not a person that sits around looking for them.  I just thought that this was just a very strange occurance. Any thoughts?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24077.html](http://www.nuforc.org/webreports/reports/024/S24077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
