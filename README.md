@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:50 on 31 July 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>First object West 70° from horizon- white light becoming brighter initial thought was meteor, brightness then remained steady for approximately 2 seconds then started dimming and getting smaller as if going back into sky.  Total Duration:  approximately 5 seconds.  This is when whiteness 2 pointed to second object,  3 lights in a triangle formation rotating slowly upon the axis of the light positioned highest</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142506.html](http://www.nuforc.org/webreports/reports/142/S142506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At approximately 1:52 AM, my cousin and I were sitting on the patio and saw an extremely large and  brilliantly lit teardrop shape, fluorescent green, light blazing across the sky, from east to west.  There wasn't any sound coming from it, nor were there any flashing lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135450.html](http://www.nuforc.org/webreports/reports/135/S135450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/165/S165811.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164215.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164216.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164214.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164204.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
