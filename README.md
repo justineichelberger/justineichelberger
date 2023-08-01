@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:53 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jack Fork Mountains (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>most pepole disbelve but if you would just take time out to star gaze you would be shaeken for what you might seeI was out at a new freinds uncals place & i had some new night vison eqp. we where checking out its the best place to go to check out night vison we were playing around with it & i noticed that i could see more stars in the dark night sky with it there are no city lights around this place it was osome as i was checking out stars i noticed that their were 2 stars moving southeast they were side by side if it had of been just 1 i would have thought it was a satalight but thier were 2 of them i showed my freind & he was as amazed as i was they were about an inch & a hafe apart from each outher they looked just like stars but they were moving & the stars that were up there some were underneath the 2 that were moving like a jet you can see way up there i have been lucky ive seen outher sighting that scares me to talk about them !!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25631.html](http://www.nuforc.org/webreports/reports/025/S25631.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Charlestown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>While camping at the Burlingame State Park, Charlestown, RI, in August of 1964, my friend, Tommy, and I were looking over the pond at the campground. In the far distance, over the nearby ocean and near, I would guess, to Block Island, RI, a very bright light, like a bright star, came up out of the ocean at a 45 degree angle; it continued to zig-zag at 45 degree angles upward for a few seconds, as if gaining speed to get out of the earth's gravity, then shop straight up and out of sight.  We both looked at each other, amazed. No one we told believed us; I am 50 now, so we were about 15 at the time. We just happened to be looking in the right direction at the right time. I would imagine on a nice summer night, others saw the same thing, particularly people on Block Island, a tourist resort.  I would estimate the object was about 10 to 12 miles away, putting it very close to Block Island.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05407.html](http://www.nuforc.org/webreports/reports/005/S05407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
