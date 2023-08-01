@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Light Shrouded In AuraAt Approx. 10 PM Central Time Zone, Witnessed Light Overhead.  Light Appeared Normal, Like Satellite Moving Across The Sky, Except It was Shrouded In An Aura Or A Cloud.  Moving From South To North The Aura Around the Object Seemed To Coalesce Into A Circle Around The Light.  A Plane Traveling From West To East Passed Near The Object (Or At Least In Line Of Sight) And Did Not Show Same Shrouded Effects.  Clear Night.  No Wind.  Shortly After Sunset.  No Images Captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135486.html](http://www.nuforc.org/webreports/reports/135/S135486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rural Dixon County (NE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying Semi Tractor?I just found this sight and thought I would report what I saw about a year and a half ago. I dont know if it was a UFO but it was definitely something I have never seen in the sky before.I live in a rural area in northeast Nebraska so it gets real dark and quiet at night. One evening I was doing some work in my shop and I heard a faint rumbling noise outside. I decided to step outside and see what it was. Its pretty normal for me to hear the rumble of high altitude commercial airplanes or the occasional "thump thump" of medical helicoptors traveling to hospitals between towns. When I looked outside to see where the sound was comming from i saw a large boxy/rectangular shaped craft flying approximately 500-1500 feet above the ground a little to the south of me. It came from the east and traveled west. There were several lights on this craft, some in front some in back and some on top, more than a typical plane or helicoptor.I stood there a minute or so looking at this thing trying to figure out what it was. It moved about the speed of a helicoptor but without the normal "thump thump" sound. The best way for me to describe this craft was that it resembled a semi tractor with its boxy shape and lights. I went inside and grabbed my binoculars. When I came out I followed it to the west for about 5 minutes with my binoculars until it was out of sight. I tried to see if it had wings or helicoptor blades or some kind of recognizable outline. All I could make out of the shape was the form of the lights. A boxy shape. I thought to myself that the whole incident was quite odd so I went back to work in my shop.About an hour later I heard another rumble sound and went outside to check it out. To my surprise it was the same craft traveling from the west to the east. Again I followed it with my binoculars as far as I could see to the east this time. There were no other aircraft in the air at that time, especially at that low altitude. That was the only time I have seen this thing. I figured it had to be something military but there arent any military installations that would be doing manuvers in my area that I know of. But then again who knows?((NUFORC Note:  Date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35267.html](http://www.nuforc.org/webreports/reports/035/S35267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
