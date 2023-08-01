@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Uncasville (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Sighting of two triangle UFOs, Uncasville August 1st at approximately 9:10 pm.Sighting on August 1, 2019 at 9:10 PM, approximately. Location North of I-395 and Route 32 intersection. I have a Snap Chat recording of the sighting. We debated sending it in. As I was heading North on I-395, about a quarter mile before the first Montville Exit and in the general direction of the Oxoboxo River, I spotted what appeared to be the lights of an airplane in my center field of view. Initially my head thought of a triangle ufo, not entirely sure why, due to the common red taillight and two white lights on the wings. This changed a second later, as I noticed the red tail light was abnormally close to the two front white lights. I further noticed how close the lights were in proximity to me. This realization came to clarity when my headlights began to reveal (as I headed down the hill of the road) the defined figure of a triangle object 100 to 200 feet North and about 100 feet above the I-395. The side bore 45 degree angled beams that combined the top of the craft with the bottom. Between the beams was a lighter silver surface enclosing the craft. The visible bottom of the craft, which appeared to have a small, carbon colored black triangle in the center, was relatively flat. There may have been small black circles on the bottom. The craft was dark grey and silver like metal but different. It wasn’t metal. Suddenly, I noticed that about ten feet behind this craft was an exact second. These two vessels had no propulsion devices and were not hovering like if they had a rotor like a drone or helicopter. They made no noise and moved Eastbound at about 8 miles per hour, smoother than anything I have ever seen move before. They were not tethered to one another and did not wiggle or move about as they slid through the air. It was as though they were untouched by the environment, the wind and gravity. I want to describe them as being unbound to physics by the sheer perfection in the way that they moved, with no external force to effect them. I drove under them and caught my reaction on Snap Chat as I was fumbling to find my phone and open up the app.  I lost sight of them after that. I did not stop. I just watched Tucker Carlson last night (the 19th) with his guest and segment of the UFO’s and the Russian Jets that were shot down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151748.html](http://www.nuforc.org/webreports/reports/151/S151748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lowell (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Quiet, fast moving light across the night sky.While sitting in my yard, I looked to the sky and saw a light moving swiftly across.  Planes frequently fly overhead, but this was different.  There were no guide lights like a plane would have, and there was absolutely no sound.  This craft was a single, white light (looks similar to a bright star) that steadily moved across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112605.html](http://www.nuforc.org/webreports/reports/112/S112605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
