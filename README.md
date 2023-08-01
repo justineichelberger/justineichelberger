@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:57 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:00 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw streaks like tracers shoot out from a light in the sky.I was listening to a taped replay of Peter Davenport's appearance on the Art Bell Show on December 11th. In that show, Peter described (and played a tape of) several sightings of lights in the sky that were seen to apparently shoot out tracer-like light pulses. On about August 1 of last year, (I didn't record the date.) my wife and I were sitting on our front porch enjoying the evening, chatting and looking at the stars. I spotted a white light moving very high in the sky and remarked to my wife that I wondered if that was a very high aircraft or perhaps a satelite. There was no sound and, for that matter, I didn't expect any as it appeared quite distant even though it was moving across the sky fairly rapidly. We watched it for 2 to 3 minute during which time it progressed steadily moving approximately eastward. The direction and speed seemed to remain constant. The color and intensity of the light remained stead as well. Then, while we were watching, there appeared to be 3 or four streaks of light, very much tracer-like, extend out ahead of the light. The streaks were fainter than the light of object and extended directly in the direction of travel a distance corresponding to a distance that the object would have traversed in several seconds travel time. This occured twice. Both my wife and I were looking at the object and both of us saw the streaks. The two bursts of streaks occurred approximately 2-3 seconds apart. Shortly after the second burst, the object vanished as though the light were extinguished. The area of the sky that we were watching at that time had no obstructions or other fixed elements that could have come between the object and our line of sight. We watched the area closely for another minute or two, trying to see the object again or anything else, but nothing appeared. We saw nothing more that was out of the ordinary that evening. I am an architect. My wife is a Teachers Aide. We are both in our mid 40's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05289.html](http://www.nuforc.org/webreports/reports/005/S05289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Picture reveals UFO in the backgroundI was at a National Park just west of Denver when we took this picture.  It was in the afternoon and I was very aware if any planes, ballons and the like were flying around that day.  I observed NO aircraft in the sky that day during our visit.When I got home and had the film developed I discovered this image on this one picture.  No other pictures had this image on it.((NUFORC Note:  Source of the report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71557.html](http://www.nuforc.org/webreports/reports/071/S71557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
