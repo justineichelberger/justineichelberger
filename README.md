@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:52 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Salonga (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large black ball, no sound or markings, in sky moving NE, and two hours later saw orange fireball in same area that turned into black ball and moved NE above trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138349.html](http://www.nuforc.org/webreports/reports/138/S138349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Light Shrouded In AuraAt Approx. 10 PM Central Time Zone, Witnessed Light Overhead.  Light Appeared Normal, Like Satellite Moving Across The Sky, Except It was Shrouded In An Aura Or A Cloud.  Moving From South To North The Aura Around the Object Seemed To Coalesce Into A Circle Around The Light.  A Plane Traveling From West To East Passed Near The Object (Or At Least In Line Of Sight) And Did Not Show Same Shrouded Effects.  Clear Night.  No Wind.  Shortly After Sunset.  No Images Captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135486.html](http://www.nuforc.org/webreports/reports/135/S135486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
