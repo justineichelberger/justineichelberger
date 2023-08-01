@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:53 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Haven (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:17 - 0:17 minutes.</sub><blockquote><sub>unexplaine light moves traveling extremely fast, stops and disappears actual incident caught in video moving fast across over the footage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158138.html](http://www.nuforc.org/webreports/reports/158/S158138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>What was that in the sky on 8-1-06?I was sitting on the back porch last night about around between 9:oop.m. and 10:00. I saw this bright light just come out of nowhere directly beneath the moon from naked eye it looked like it was about 10 feet under it from my position. Then another light showed up then another and another in a row like an Arc shape Horizontical then they all just disappeared. Then another set showed up the same way but it was vertical. They just lit up slow one after another like a traffic stop light. These lights were so bright I thought the lights were going to continue on down into my neighbors back yard. All of sudden I jumped up and ran to get someone to see it when I came back all I could see from that samne spot was a faintly  light reddish ball. Then that ball faded away slowly. I am of sound mind. 41 year old female, Working on a college degree  and  everyone I talk to believes me. I would like to know if anyone else saw that too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51858.html](http://www.nuforc.org/webreports/reports/051/S51858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
