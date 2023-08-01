@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:04:00 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:03:08 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Macomb (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cigar-shaped craft, all glowing orange.Lights first seen outside window.  They looked quite close.  The cigar shaped objects were glowing orange, like they were on fire, but the whole object was orangy red with no exhaust or flame trail.  We went outside to see the objects which then proceeded further North, and then straight up in the sky until disapearing into outerspace.  The dogs would not come outside with us, which was really strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135484.html](http://www.nuforc.org/webreports/reports/135/S135484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Clarksville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small brightly defined light, changing colors, zig-zagging across sky for 5 mins, then disappearing.This observations happened when I was about 9 or 10 years old (give or take), and I'm now 23, so the details are fuzzy - but the memory is not!  I was out with my dad at one of his friends house, located up in "the knobs" outside of New Albany/Clarksville, Indiana. Those from this area will know what I mean. The Knobs are very hilly geographical features that overlook the Louisville metropolitan area... they are where the glaciers stopped advancing in the last ice age..... so basically we were up on these hills (rural area) with a great view of the flat, sprawling metropolis below (could see for miles). Anyway, I remember becoming bored and going out to sit on the picnic table and enjoy the view... just to see what I could see from the vantage point. Only, when I went out, something caught my eye... it looked like an airplane or something at first. But I knew it wasn't a plane when it started behaving very strange. The object appeared to be just a bright, defined speck of light, that was contantly changing colors very rapidy. The entire object changed colors at once, so that it was one one color at one moment, and another the next. Mind you, this just describes the color of the light. The object was too small (and too far away) to determine a shape. I would estimate it to have been about 2-5 miles out, and about 1,000 to 3,000 feet in altitude. All I remember was looking "out" at it, rather than "up" at it. What was bizarre about the object was how it moved... it would basically just zig-zag back and forth at pretty good speeds. Sometimes it would go slow, sometimes fast, but always in a back and forth, up and down, to and fro motion. I remember calling my dad and his friend outside to see it, and they at first seemed annoyed at my insistence, but once they saw it, they changed their tune. Too bad, it disappeared right after they caught a glimpse of it. It literally looked like it simply just "shut-off"... it didn't fly away or anything like that. Of note, what persuaded me to submit my memory was my reading another entry on this site. It was such a close description, and they mentioned wanting to know about others who have had a similar experience. That post was made on 3/21/2003, by an Evansville couple.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43289.html](http://www.nuforc.org/webreports/reports/043/S43289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
