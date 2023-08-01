@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was driving and my boyfriend and I both just happened to look at the sky and saw a large what seemed to be close in the atmosphere above the tree lines It was a flash/light It hovered in one spit it was bright and honestly I best describe it as energy. And then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164207.html](http://www.nuforc.org/webreports/reports/164/S164207.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Pedro (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>9-01-09, San Pedro Calif. Sphere, white in color duration 10 seconds, moving at a medium speedI was sitting in my patio and was looking at the moon and the planet below it. At first I thought I saw a satellite, and it was not a bright light like you see on a plane.I saw a sphere, fluorescent white in color travelling from the east at a southerly direction just below another star(approximately at 125degrees)just to the left of the moon.  It passed underneath it and disappeared.  What I find amazing is that the star it passed under was no longer there thirty minutes later.  That object, which I thought was a star was not moving at all.  How can that be? I know for sure there was a star there, because I kept looking at the moon and I believe it's Venus just below the moon.  I was using the moon as my observation point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72015.html](http://www.nuforc.org/webreports/reports/072/S72015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
