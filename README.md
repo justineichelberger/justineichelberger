@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:54 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Newcastle (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 lights, triangle, then lights moved into a straight lineBright orange lights could see coming over horizon.  Stopped & hovered over pasture.  Then the 3 lights went into one line & disappeared.  Could hear no sound.  We were inside when we saw the lights coming over horizon.  Went inside & watched.  Got on video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135491.html](http://www.nuforc.org/webreports/reports/135/S135491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Lewisburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light chased by helicopterWas woken up in the middle of the night by a very bright light outside of my window.  I remember looking out and not able to see anything but light, it was so bright that it hurt my eyes to look at it, but I had to look at it.  For about a minute this went on until I heard the sound of a helicopter.  The light then quickly darkened, but I was still able to see a small dot of light, and watched as this light went upwards as the helicopter flew over the house.  My eyes were too sensitive from the brightness for me to see anything else after that as the light moved further away.  The helicopter had only a blinking red light on it, no white lights.  Before the helicopter came there was no sound being made by wherever the light was coming from.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22607.html](http://www.nuforc.org/webreports/reports/022/S22607.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
