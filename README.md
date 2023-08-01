@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:59 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:51 on 1 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pickerington (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Stationary formation of 10 red, green, and white orbs in night sky.My sister and I were tossing a frisbee in front of our house this particular night.  I noticed 8-10 stationary lights in the sky to the East/Southeast that were in rows like: two, three, three, two, and each was either red, green, or white (not a combination of colors)  At first I thought it was maybe lighting from a cell tower or a nearby power substation by Pickerington North High School that's about 2 miles east of us.  I asked my sister, "is that lighting from a cell tower - how did I never notice that before!?"  We both watched it for a few minutes.  The lights started moving and the formation began splitting up and within 10-20 seconds the lights moved away from each other, and disappeared one at a time.  A couple years later I saw a dozen Chinese lanterns in the night sky and thought it resembled that, but my sister insists the lights we saw that night were not Chinese lanterns.  That would be the closest description I can give though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147893.html](http://www.nuforc.org/webreports/reports/147/S147893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Event #14</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139549.html](http://www.nuforc.org/webreports/reports/139/S139549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [757](http://www.nuforc.org/webreports/reports/164/S164207.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164230.html)
-- [755](http://www.nuforc.org/webreports/reports/164/S164293.html)
-- [754](http://www.nuforc.org/webreports/reports/164/S164208.html)
-- [753](http://www.nuforc.org/webreports/reports/164/S164209.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
