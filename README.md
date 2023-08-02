@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:55 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Strange lights hovering near the gateway arch.  Fox2now.com has the video footage.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128993.html](http://www.nuforc.org/webreports/reports/128/S128993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tyler (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red, white and b lue lighted objectIn the northwest sky of Smith County Texas there was something bright with rotating red, white and blue lights. It was very cloudy and the crescent shaped moon and all the stars were covered up with clouds. This was the only thing we were able to see in the sky. It hovered in the same spot for about an hour with what looked to be rotating flashing red, white and blue lights. After a while the object was no longer visible.((NUFORC Note:  Possible sighting of Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51850.html](http://www.nuforc.org/webreports/reports/051/S51850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
