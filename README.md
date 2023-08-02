@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:53 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The craft was observed travelling northeast.  It maintained continuous light, brighter than any star or other heavenly body.  The light was the utmost white, clear and bright.  As it moved, and shortly after our noticing the craft, it faded its light to darkness.  No movement was then observable through its last known trajectory, and further none could be discerned from point of reference tracking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135527.html](http://www.nuforc.org/webreports/reports/135/S135527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two bright lights overhead, travelling S to NOn 08/02/2011, I was sitting on my back porch looking at the sky.  The night was clear, no haze and normal air traffic was abundant.  I saw numerous "regular" satellites passing overhead as well.  About 2204 hours I noticed a light appear about 45 degrees above the horizon to the south.  At first, I thought it was an iridium satellite, as it grew in intensity and size to a brilliant yellowish color.  About 1 to 2 seconds later, a second object appeared behind the first, following the exact path of the first.  The objects were separated by a space which was approximately the width of my thumb at arms' length.  The second object got increasingly brighter, surpassing the brilliance of the first by a small margin.  Unlike iridium satellites, these two objects remained at peak illumination for maybe 5 to 10 seconds before fading.  My impression is that the objects were self-illuminated and not reflecting the Sun.  Both objects seemed to veer slightly to the northwest as they passed overhead.  Both objects faded out one after the other and could not be seen anymore. I checked the Heavens Above website and discovered that there were no iridium satellites or other man made objects in the vicinity at the time of my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83021.html](http://www.nuforc.org/webreports/reports/083/S83021.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
