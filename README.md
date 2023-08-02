@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:57 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Short 3 foot alien seen near creek in Roanoke, VA.I was driving home from my parents house.  It was about 1 am.  They live on top of a large mountain called Bent Mountain.  I was driving down the mountain to the city of Roanoke.  I had my high beams on because the deer are heavily populated in that area.  I saw a rustle in the bushes near the creek so I stopped the car.  A family of deer is what I was expecting to see.  Instead I saw a 3 foot alien to the right of my car.  It was very short had an almond head and long tentacle like legs.  About four to six legs.  It was milky in appearance and shiny in the moonlight.  It stepped out from the bushes and into my view.  I was scared and started to drive without looking back.  It had dark black holes looking like eyes.  But, its eyes seemed like an intelligence was behind it and it might have been lost.  My dogs were in the car at the time and were barking and growling at the entity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are uncertain as to whether this is intended as a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102318.html](http://www.nuforc.org/webreports/reports/102/S102318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a “fireball”  brightening and dimming above the Boise foothills followed, by a shooting star above it in the skyAround 3:40am I was standing on my porch and out of the corner of my eye I saw a flash of orange light over the tree line coinciding with the Boise foothills.  For a moment I though it was a lighthouse just by how bright it was, obviously that’s impossible, it just gives you an idea of how forcefully bright this light was.  It resembled a ball of bright fire in one stationary place.  When I finally realized how strange it was and ruled out any other type of craft or car headlights, I kept staring and saw a very bright fire-like object light up after about 10 seconds of staring, it occured in the same place over what would be the Boise foothills.  It looked exactly like a flame except that it became very bright then dimmed until it disappeared.  Between its appearance and its disappearance during the sighting that I directly saw, I’d say it appeared for probably 3-4 seconds before dimming and completely disappearing.  The strange thing is (as if that wasn’t strange! enough) a shooting star occured directly after it burned out.  Both flashes were in the exact same spot and the shooting star was significantly higher in the sky.  The best way to explain it would be a circular or oblong, controlled orange/yellow/red fire in the sky.  Extremely bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148013.html](http://www.nuforc.org/webreports/reports/148/S148013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
