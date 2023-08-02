@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:57 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Klamath Falls (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright flashes, high pitched sound.My little sister and I were playing on the computer and my Mom was in her room, my little sister and I looked at each other, we felt a strange feeling at that time it was about 11:00 PM, we saw a blue flash and then every thing was black, we ran into my mothers' room and she then said she saw it to, well about 10 sec after the blue flash happend again this time there was a very loud high pitched sound like nothing we have ever heard. The next day we asked our naighbors if they seen anything strange in the naighbor hood,  they said they never heard or seen anything. So we didn't ever talked about it until we saw it again a few months later, exactly like it was before but it happend farther off from our house then the last time.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60023.html](http://www.nuforc.org/webreports/reports/060/S60023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Short 3 foot alien seen near creek in Roanoke, VA.I was driving home from my parents house.  It was about 1 am.  They live on top of a large mountain called Bent Mountain.  I was driving down the mountain to the city of Roanoke.  I had my high beams on because the deer are heavily populated in that area.  I saw a rustle in the bushes near the creek so I stopped the car.  A family of deer is what I was expecting to see.  Instead I saw a 3 foot alien to the right of my car.  It was very short had an almond head and long tentacle like legs.  About four to six legs.  It was milky in appearance and shiny in the moonlight.  It stepped out from the bushes and into my view.  I was scared and started to drive without looking back.  It had dark black holes looking like eyes.  But, its eyes seemed like an intelligence was behind it and it might have been lost.  My dogs were in the car at the time and were barking and growling at the entity.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are uncertain as to whether this is intended as a serious-minded report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102318.html](http://www.nuforc.org/webreports/reports/102/S102318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
