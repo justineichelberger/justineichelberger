@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:59 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oakesdale (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The object that we saw was a massive oval that produced a loud thruming noise as it passed.On the night of 8/02/2017, I went to bed at about 11:00 pm.  At about 11:30 pm, my son came knocking at the door saying you need to come out and see this thing.  When I walked out side and went behind our shop I saw a ring of lights that appeared to go around this extremely large dark object,  The lights flashed one at a time and went around the object clockwise.  What really was amazing was the size, it seemed to take up a third of the western sky.  The other thing that we noticed was the noise it was producing,  It sounded like a steady thrum and was vibrating things around us.  It slowly moved of to the west and faded from sight.  The sky was fairly dark due to smoke from fire and the light was subdued from the smoke.  Stars were visible were the object wasn't but we were awed by the area it occupied.  My son grabbed my cell phone and tried to record it and mainly got the sound.  The lights on the object were white.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite credible and sincere, as did his son.  Please see the similar report regarding a similar sighting a few minutes later near Lincoln, WA, on the Columbia River.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135538.html](http://www.nuforc.org/webreports/reports/135/S135538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oakland Park (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2nd UFO SIGHTING OVER MY LAKE IN OAKLAND PARK, FL .2wks apartThis is my 2nd encounter within 2wks...i stood on my patio looking at my lake as i do most every night when i noticed a bright light sitting still in the sky.  I immediately ran to get my cell phone so i could film..once i began to film the BRIGHT OBJECT turned red, then back to white..hovered a few more seconds then disappeared.  This sighting was approx 75 yards past the sighting two week's previous.  Since these sightings i hv bad headaches but a dr wont believe me.  Are aliens watching me?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112218.html](http://www.nuforc.org/webreports/reports/112/S112218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
