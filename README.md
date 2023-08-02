@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:27:17 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:48:31 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fall River (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A group of 10 orange orbs suddenly appeared and traveled in a group when we noticed they stopped for a while then went east and dissapeared the suddenly 5 more appeared, but one by one slowly mived same direction, but faster appearing ine by one, then disappearing, no noise, no blinking, just bright orange floating away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135526.html](http://www.nuforc.org/webreports/reports/135/S135526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>5 light flights formation, from V to inverted L then 4 silent lights follow up mountain face into sky.5 silent lights moving up the mountain.  One and a half miles away.  Mountain, two miles high.  Moved in formation, up mountain into sky.  Created a V then shifted down into an introverted L.  Afterward 4 more lights moved at a rather constant rate up the mountain face and about 400 meters into the sky.  I have video.  We get ALOT of air craft here, chopper and plane.  These are something different, terrestrial or not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112150.html](http://www.nuforc.org/webreports/reports/112/S112150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
