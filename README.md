@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:01:04 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw a “fireball”  brightening and dimming above the Boise foothills followed, by a shooting star above it in the skyAround 3:40am I was standing on my porch and out of the corner of my eye I saw a flash of orange light over the tree line coinciding with the Boise foothills.  For a moment I though it was a lighthouse just by how bright it was, obviously that’s impossible, it just gives you an idea of how forcefully bright this light was.  It resembled a ball of bright fire in one stationary place.  When I finally realized how strange it was and ruled out any other type of craft or car headlights, I kept staring and saw a very bright fire-like object light up after about 10 seconds of staring, it occured in the same place over what would be the Boise foothills.  It looked exactly like a flame except that it became very bright then dimmed until it disappeared.  Between its appearance and its disappearance during the sighting that I directly saw, I’d say it appeared for probably 3-4 seconds before dimming and completely disappearing.  The strange thing is (as if that wasn’t strange! enough) a shooting star occured directly after it burned out.  Both flashes were in the exact same spot and the shooting star was significantly higher in the sky.  The best way to explain it would be a circular or oblong, controlled orange/yellow/red fire in the sky.  Extremely bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148013.html](http://www.nuforc.org/webreports/reports/148/S148013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately flash - flash minutes.</sub><blockquote><sub>round object wiggles and then takes off into atmosphere followed by an extremely brigh flash of light.at approximately 12:30 AM, two friends and i are standing outside, see an extremely bright flash of light, i was standing facing east, and saw the extremely bright flash in the sky, it literally lit up the entire sky, both of my friends were facing west, and saw the flash and described it as a dot of light wiggling in the sky, then shooting up into the atmosphere. i then call another friend of mine who had left minutes before, and she and her passenger in their car say they had seen the same thing. another friend of mine was at 24 hour fittness in laguna, about 5 miles west of my location, with a friend, and had seen the exact same anomoly... the flash was bright enough to be seen by myself who was looking west and by others who were facing east. occurred somewhere over south sacramento, betweek elk grove and laguna.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45392.html](http://www.nuforc.org/webreports/reports/045/S45392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
