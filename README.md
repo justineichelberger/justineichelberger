@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:04 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately flash - flash minutes.</sub><blockquote><sub>round object wiggles and then takes off into atmosphere followed by an extremely brigh flash of light.at approximately 12:30 AM, two friends and i are standing outside, see an extremely bright flash of light, i was standing facing east, and saw the extremely bright flash in the sky, it literally lit up the entire sky, both of my friends were facing west, and saw the flash and described it as a dot of light wiggling in the sky, then shooting up into the atmosphere. i then call another friend of mine who had left minutes before, and she and her passenger in their car say they had seen the same thing. another friend of mine was at 24 hour fittness in laguna, about 5 miles west of my location, with a friend, and had seen the exact same anomoly... the flash was bright enough to be seen by myself who was looking west and by others who were facing east. occurred somewhere over south sacramento, betweek elk grove and laguna.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45392.html](http://www.nuforc.org/webreports/reports/045/S45392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 1:30 - 1:30 minutes.</sub><blockquote><sub>Numerous star-like objects observed in Huntington, WVThe following events occurred from approximately 21:00 on August 2, 2013 until about 23:00 and were observed by myself, my step-son, and my son while we were eating dinner on our front porch:  	Just as dusk was setting in, a low flying black military helicopter fly over our home from west to northeast.  I was facing the east on the porch which faces south.  Then as darkness filled the sky, while we were talking, I had noticed a bright star-like object in the eastern sky. I turned my head and said something then looked back up and the large object became a swarm of blinking smaller white objects.  My response caused both witnesses to look to the east and what we saw was at least 8-10 blinking objects that dispersed moving rapidly in all directions and then just disappeared.  It reminded me of a swarm of lighting bugs.  Only one stayed blinking heading in a southwest direction before also disappearing.  A short while later, another bright white object which had been in a south east position during the first event started to get brighter as it moved in northwest direction and then just disappeared.  We saw several smaller objects that were star- like going in different di! rections after that.  One even made a sharp left while moving north. Some were smaller than others.  Around 23:00, two more helicopters fly over the house going south west. One was flying just above the tree tops and had a spot light of some sort turned on.We did observe many planes during the event and checked to see if any satellites were passing over during the discussed time frame and found that there were in fact two.  We live close to two hospitals which do use life flights and a small airport.  In addition, we had some cloud cover overhead last night along with some clear skies.All the observers are over the age of twenty-one, no one was drunk, medicated, or high.  The young men are both educated and I have a M.A. in political science. I do not have a logical explanation for what I witnessed on that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100785.html](http://www.nuforc.org/webreports/reports/100/S100785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
