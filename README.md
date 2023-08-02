@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Warren (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately playing basketball - playing basketball minutes.</sub><blockquote><sub>WE SAW IIN THROUGH THE EYES OF KIDS AND I WOULD NOT LIE ABOUT THIS WE SAW TO VERY VERY BIG DISK SHAPE SHIPS IN 1975WELL this happened around 1975. We were teenagers about 15 or 16 years old still in high school. My best friend was over my home to play baskeball across the street while we were playing I LOOKED up near my home and what I saw was unbelivable above my house was  2 big big disk round ships they were just floating side by side, I looked at my friend and said  look look what is that and he just said ohhh just another ufo thing that we been hearing about. Soo being just kids we didn't  care and just picked up where we were playing basketball.  Now being 45 years old I been thinking about it alot, what happened in 1975 soo that is the truth and I will never forget that in my mind what I saw and felt.Thanks for listening  because I only told one another person about it and he did'nt care.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33787.html](http://www.nuforc.org/webreports/reports/033/S33787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lords Valley (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 121</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148151.html](http://www.nuforc.org/webreports/reports/148/S148151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
