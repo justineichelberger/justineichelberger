@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:53 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 2 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two bright lights overhead, travelling S to NOn 08/02/2011, I was sitting on my back porch looking at the sky.  The night was clear, no haze and normal air traffic was abundant.  I saw numerous "regular" satellites passing overhead as well.  About 2204 hours I noticed a light appear about 45 degrees above the horizon to the south.  At first, I thought it was an iridium satellite, as it grew in intensity and size to a brilliant yellowish color.  About 1 to 2 seconds later, a second object appeared behind the first, following the exact path of the first.  The objects were separated by a space which was approximately the width of my thumb at arms' length.  The second object got increasingly brighter, surpassing the brilliance of the first by a small margin.  Unlike iridium satellites, these two objects remained at peak illumination for maybe 5 to 10 seconds before fading.  My impression is that the objects were self-illuminated and not reflecting the Sun.  Both objects seemed to veer slightly to the northwest as they passed overhead.  Both objects faded out one after the other and could not be seen anymore. I checked the Heavens Above website and discovered that there were no iridium satellites or other man made objects in the vicinity at the time of my sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83021.html](http://www.nuforc.org/webreports/reports/083/S83021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Transluscent Orb (Orange/Yellow/White with a clear light in center) streaked above my house from West to EastI was entering the driveway of my home (my house sits up on a slight hill) - pushed the garage door opener - the door went up about 3 feet and the power went off.  Approximately 2 seconds later I witnessed an Orb / Egg shaped transluscent object (orange on the outer edges, yellow inside the orange, a whiteish center with a clear light in the middle). The object streaked across the sky (approximately 15-20 feet above my home) from West to East.  The object was approximately 10 feet in diameter.  It left a redish streak that faded away rapidly.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30477.html](http://www.nuforc.org/webreports/reports/030/S30477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [388](http://www.nuforc.org/webreports/reports/164/S164232.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164348.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164236.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164217.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164218.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
