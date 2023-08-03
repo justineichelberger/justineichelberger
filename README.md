@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:52 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:53 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lincoln (VT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 large, fast and bright turquoise ovals circling each other, 15min, 2 witnesses. Lincoln VtAt 23:11, August 3, 2015, in South Lincoln, VT, clear night with a few spotted clouds after a day of thunderstorms.  I went out to pet the dog, and was looking due west, when I spotted 3 large and bright, turquoise, oval lights.  They appeared as though the light was blocked by a cloud, the color was foggy and diluted. They where very large and bouncing about darting across the sky in an irregular and excessively speedy flight pattern.  The three lights appeared to be  all the same and very close to me.  The visible aspects where only the large (dime sized) turquoise balls of fading light.  The three always staying close to each other making irregular circles around each other.  I went inside to freak out (the dog was unfazed) and grabbed my boyfriend and told him to come look.  He was convinced they where drones, but I'm not convinced at all.  I went inside and brought my iPhone out and took a video, but the ovals where not bright enough.  As I took this video, a plane was flying directly overhead, much higher in the sky and clearly and airplane, you can hear it in the recording.  This only showed a greater and obvious comparison between the two, I compared them on my video. I also witnessed a strange phenomenon of light reflecting off of the plane passing over head, very high above, and much higher than the 3 ovals.  As the plane passed over my roof top directly next to me, a bright white light reflected off my house-I think it was unrelated but also something I had never seen before.  I tried again with to video it with my Canon rebel, same struggle with a dark image.  I then went back inside to ask my boyfriend to check them out again at about 23:26 and they where gone and the sky had gone dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120856.html](http://www.nuforc.org/webreports/reports/120/S120856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red orange triangular shaped object with erratic movement came to stop, then became lighter and smaller and disappeared Medina OHOne bright red light in sky observed from living room window and was moving directly towards us from the south.  Unusually bright and red orange in color for a plane.  Went outside to observe and noted it was slowly moving but slightly erratic side to side then stopped.  There was no sound heard during this time as we normally do with jets that pass above.  We live in a rural area and it is normally quiet and dark because of no street lights.  As we watched it as it was stationary it appeared to change to a lighter color, and became smaller as we assumed it gained altitude and disappeared.  The event took place in about 5 minutes.I am a  Physical therapist  and my husband is a commercial pilot and we have never observed red anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112187.html](http://www.nuforc.org/webreports/reports/112/S112187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
