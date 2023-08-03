@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:50 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:56 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange glowing object flies through Ohio Valley near Huntington, WVThe object appeared Saturday night, August 3, 2019, at approximately 9:23PM (ET).  I was sitting with my wife on my patio facing NW, close proximity to the Ohio River, when I saw a large bright circle heading south.  My location is in a rural area surrounded by rolling hills and forest.  I immediately pulled out my smart phone and started recording.  I have the entire event on video with audio.  Within only a few seconds the object was almost directly overhead, moving fast and it appeared to be glowing orange.  The speed of the object appeared to be similar to a jetliner.  Over the next 30-40 seconds, the object continued south and flickered briefly, then disappeared entirely.  In this area, we see a lot of falling stars, satellites, and aircraft.  This was unlike anything we've ever seen.  More unusual was the object appeared to be guided rather than falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148080.html](http://www.nuforc.org/webreports/reports/148/S148080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Satellite-like light in sky brightening & fading, changing course from S-N to E-W, followed by second one.Was satellite / meteor spotting on a very clear night.  Noticed a light at zenith travelling S-N at the same sort of speed / brightness as a satellite. After about 10 seconds it faded & brightened, apparently on a slightly different heading.  Thought it was an optical illusion, but this happened again and again, with the object fading & re-brightening, bearing about 5 degrees westwards.  When I finally lost sight of the object it was heading west. I looked up agsin, and almost immediately noticed another object which behaved in exactly the same way, gradually changing from a S-N direction to an E-W. In about 10 mins observation, also saw several objects which looked / behaved like satellites travelling S-N, and about 5 meteorites, which seems an unusual amount of ariel activity for such a short space of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30513.html](http://www.nuforc.org/webreports/reports/030/S30513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
