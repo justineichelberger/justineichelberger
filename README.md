@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:01 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Point (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Red and white hovering light over South Point, Ohio.I had come outside to smoke a cigarette around 12:55.  I sat outside for about 10-15 minutes. I saw this bright light come into my vision. It was as if a street light fell out of the sky at a 45 degree angle. It appeared quickly, and disappeared about 2 seconds later. I immediately got goose bumps! I decided to stay outside for a bit longer, looking around to see if I could see anything suspicious in the sky. There is a radio tower on top of a hill about 3 or 4 miles away from my home, and it has a light on top of it. I saw this flashing light beside it.. Just hovering there along side it. It was flashing colors of red, blue and white. Mostly white though. When the object would flash a different color, the light on the radio tower seemed to dim in and out. It was very strange. I watched it flash and hover for a long time. It started to slowly creep above the tower and over it. I ran inside and got my brothers as witnesses. As we were outside, we all saw anoth! er flash of light where I saw the "street light" fall earlier, except this time the light was a little bit smaller. I then proceed to call the UFO Hotline and explain what I had witnessed myself. We all sat outside and watched the object by the radio tower for about 30 minutes and decided to go inside. I can look outside my window now and still see the object hovering. It is creeping up toward the sky very very slowly, flashing mostly white and red now.. It is fascinating. I saw it around 1:10 maybe 1:20 AM, and i can still see it now at 2:19 AM. Thank you for reading.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82910.html](http://www.nuforc.org/webreports/reports/082/S82910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Amite (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I felt very nauseated and anxious after the sighting with my witness.It started off as an ordinary bright star and all of a sudden, the light grew bigger and brighter and then shot across the sky to disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128999.html](http://www.nuforc.org/webreports/reports/128/S128999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
