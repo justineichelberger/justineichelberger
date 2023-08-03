@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:01:29 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:50 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Binghamton (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Unknown fire moving in skySlow moving fire over Chenango River.  Raised up into sky then disappered.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91422.html](http://www.nuforc.org/webreports/reports/091/S91422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange glowing object flies through Ohio Valley near Huntington, WVThe object appeared Saturday night, August 3, 2019, at approximately 9:23PM (ET).  I was sitting with my wife on my patio facing NW, close proximity to the Ohio River, when I saw a large bright circle heading south.  My location is in a rural area surrounded by rolling hills and forest.  I immediately pulled out my smart phone and started recording.  I have the entire event on video with audio.  Within only a few seconds the object was almost directly overhead, moving fast and it appeared to be glowing orange.  The speed of the object appeared to be similar to a jetliner.  Over the next 30-40 seconds, the object continued south and flickered briefly, then disappeared entirely.  In this area, we see a lot of falling stars, satellites, and aircraft.  This was unlike anything we've ever seen.  More unusual was the object appeared to be guided rather than falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148080.html](http://www.nuforc.org/webreports/reports/148/S148080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
