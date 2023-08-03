@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:59 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kent (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Satellite-like light in sky brightening & fading, changing course from S-N to E-W, followed by second one.Was satellite / meteor spotting on a very clear night.  Noticed a light at zenith travelling S-N at the same sort of speed / brightness as a satellite. After about 10 seconds it faded & brightened, apparently on a slightly different heading.  Thought it was an optical illusion, but this happened again and again, with the object fading & re-brightening, bearing about 5 degrees westwards.  When I finally lost sight of the object it was heading west. I looked up agsin, and almost immediately noticed another object which behaved in exactly the same way, gradually changing from a S-N direction to an E-W. In about 10 mins observation, also saw several objects which looked / behaved like satellites travelling S-N, and about 5 meteorites, which seems an unusual amount of ariel activity for such a short space of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30513.html](http://www.nuforc.org/webreports/reports/030/S30513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Camarillo (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>filmed 20 minutes of a UFO in the skyI live out in the middle of no where, near a military base in California. I was sleeping until I heard Coyote's going nuts howling like I never heard them before. It sounded like hundreds of them. It was about 4:30 in the morning. So I woke up and went to shut the window when I noticed a bright object in the sky. And it was huge. It was only mabye 2 hundred yards away. When I woke up my girlfriend she could not believe what we were seeing. So she grabbed the video camera and filmed 20 minutes of it. It changed into 4 different shapes. We are not the only ones that live where we live. There are plunty of other people but not sure if anybody else saw it.  and we would like to get this video into someone elses hands.((NUFORC Note:  Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38726.html](http://www.nuforc.org/webreports/reports/038/S38726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
