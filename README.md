@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:00 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:08:00 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star-like bright light floats and flys across sky.Saw a vibrant bright star like object floating across the sky at what seemed like incredible speed.  Within one of the lower atmospheres, flying lower than an airplane which I saw right above it.  The light moved at a steady pace and was extremely similiar to a star in its appearance. I observed the light flying and within a minute it was gone off into the distance.  No blinking lights, strange arching flight pattern.  Also, I noticed a strange film or layer of particles around the light, but this could just be the intensity of the light causing a glow affect versus any kind of significant detail. Light made no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100779.html](http://www.nuforc.org/webreports/reports/100/S100779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Grand Haven (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright light moving from one horizon to the other in less than 40 secondsVery short sighting.  We were looking for the Northern Lights, as they were forecast to be visible. Object appeared on the Northern edge of the horizon as a small round light.  It traveled in a N to S direction, very high in the sky.  It did NOT blink, have any colored lights or appear to change shape. It moved so quickly that it went from the Northern Horizon to the Southern horizon in less than 40 seconds.While I am NOT a UFO buff, I have spent many nights outside watching the sky for various reasons.  To pass the time, star gaze etc. and even count the amount of airplanes in the sky.  I am 45 years old and a stable individual with a clean mental history.  I know how to identify an airplane, as I have observed many planes in the air.  Whatever this object was? it was FAST, very, VERY FAST!  In the section of sky I could view, it would take a normal airplane at LEAST 7 to 11 minutes to cover the same distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76973.html](http://www.nuforc.org/webreports/reports/076/S76973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
