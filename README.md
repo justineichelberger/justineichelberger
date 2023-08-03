@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:59 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:56 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Camarillo (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>filmed 20 minutes of a UFO in the skyI live out in the middle of no where, near a military base in California. I was sleeping until I heard Coyote's going nuts howling like I never heard them before. It sounded like hundreds of them. It was about 4:30 in the morning. So I woke up and went to shut the window when I noticed a bright object in the sky. And it was huge. It was only mabye 2 hundred yards away. When I woke up my girlfriend she could not believe what we were seeing. So she grabbed the video camera and filmed 20 minutes of it. It changed into 4 different shapes. We are not the only ones that live where we live. There are plunty of other people but not sure if anybody else saw it.  and we would like to get this video into someone elses hands.((NUFORC Note:  Venus.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38726.html](http://www.nuforc.org/webreports/reports/038/S38726.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wapiti (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing white oval with a dark center.The object was spotted and was not moving at all for a very long time, then is slowly started moving to the left and then went straight away as it appeared to be getting smaller until we couldn't see it any longer.  It was oval and glowing white.  It was in the daylight. We looked at it with a camera and zoomed in on it and also looked with binoculars.  There was a dark center or design on the middle of the oval.  I personally did not get any pictures, but others did and I do not know them.  Some people that saw it were tourists, but most of the people there lived in the area.  Location was outdoors at a local restaurant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148088.html](http://www.nuforc.org/webreports/reports/148/S148088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
