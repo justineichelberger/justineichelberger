@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:56 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:01:00 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wapiti (WY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Glowing white oval with a dark center.The object was spotted and was not moving at all for a very long time, then is slowly started moving to the left and then went straight away as it appeared to be getting smaller until we couldn't see it any longer.  It was oval and glowing white.  It was in the daylight. We looked at it with a camera and zoomed in on it and also looked with binoculars.  There was a dark center or design on the middle of the oval.  I personally did not get any pictures, but others did and I do not know them.  Some people that saw it were tourists, but most of the people there lived in the area.  Location was outdoors at a local restaurant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148088.html](http://www.nuforc.org/webreports/reports/148/S148088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Livingston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light sphere seen moving SE at about 10:30 pm. from Lake Livingston, TxOne bright orange sphere was traveling SE, at a steady pace, in the NW sky, at about 45 degrees.  No sound, no pulsing or blinking lights, much larger than stars and as bright as a street light.  Clear night with minimal cloud coverage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148026.html](http://www.nuforc.org/webreports/reports/148/S148026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
