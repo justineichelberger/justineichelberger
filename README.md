@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:52 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:01 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was asleep while my step dad proceeded to go outside to have a cigarette around 11:00 pm.  When out of no where he started to wake me up saying come see this, come see this!  I hesitated and told him unless it was an emergency not to wake me up, but he proceeded to tell me that I had to come see what was in the Sky.  So I finally got up just to get him to stop bothering me, when I stepped out side i was instantly enamored It was a big blue light that moved effortlessly high in the sky almost like a bird, it flew for a little bit in a direction but would effortlessly turn back around to were it started.  It was beautiful and mysterious.  Too big and too bright to be a toy or something controlled by someone below,  It moved like an aircraft but much more elegantly and effortlessly.  Best way to explain it.  I don't really believe in Aliens but whatever it was, I have never seen anything quite like it.  After awhile it seemed like it was falling downwards like an air! plane out of control and then it dissipated.  Below were it has a choice of picking there were lights on the object, the object was a light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100793.html](http://www.nuforc.org/webreports/reports/100/S100793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in South Point (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Red and white hovering light over South Point, Ohio.I had come outside to smoke a cigarette around 12:55.  I sat outside for about 10-15 minutes. I saw this bright light come into my vision. It was as if a street light fell out of the sky at a 45 degree angle. It appeared quickly, and disappeared about 2 seconds later. I immediately got goose bumps! I decided to stay outside for a bit longer, looking around to see if I could see anything suspicious in the sky. There is a radio tower on top of a hill about 3 or 4 miles away from my home, and it has a light on top of it. I saw this flashing light beside it.. Just hovering there along side it. It was flashing colors of red, blue and white. Mostly white though. When the object would flash a different color, the light on the radio tower seemed to dim in and out. It was very strange. I watched it flash and hover for a long time. It started to slowly creep above the tower and over it. I ran inside and got my brothers as witnesses. As we were outside, we all saw anoth! er flash of light where I saw the "street light" fall earlier, except this time the light was a little bit smaller. I then proceed to call the UFO Hotline and explain what I had witnessed myself. We all sat outside and watched the object by the radio tower for about 30 minutes and decided to go inside. I can look outside my window now and still see the object hovering. It is creeping up toward the sky very very slowly, flashing mostly white and red now.. It is fascinating. I saw it around 1:10 maybe 1:20 AM, and i can still see it now at 2:19 AM. Thank you for reading.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82910.html](http://www.nuforc.org/webreports/reports/082/S82910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
