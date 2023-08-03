@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:15 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Amite (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I felt very nauseated and anxious after the sighting with my witness.It started off as an ordinary bright star and all of a sudden, the light grew bigger and brighter and then shot across the sky to disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128999.html](http://www.nuforc.org/webreports/reports/128/S128999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>These were not US aircraft.At 4:30am in the morning, today, I seen 1 egg-shaped UFO south east of Winnemucca.  It had all different colored lights all over it.  It moved up and down.  A sheriff stopped and I gave him my glasses and he seen it also.  I got to my office and then I seen 3 more UFOS the same size as the first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128983.html](http://www.nuforc.org/webreports/reports/128/S128983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
