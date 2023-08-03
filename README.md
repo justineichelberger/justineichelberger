@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:02 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:01:04 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Townsend (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Glowing ball of fire hovering in the evening sky.we noticed a teardrop shaped fireball in the NW evening sky.  It appeared to be glowing with steady flames.  It remained in the same spot for several seconds before getting a little smaller and then GONE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112188.html](http://www.nuforc.org/webreports/reports/112/S112188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>a large yellowish light appeared a couple thousand ft up to the south east of my home in long beach, ca.at near 11:00pm my sister noticed a bright yellowish light to the south east of my home in long beach, ca.it looked as if it were 2-3 miles away about a couple thousand feet up. it had no definable shape. after watching it for about 5 mins. it traveled straight up a couple thousand feet in about 5sec. i watched it for another 10 mins.,  it moved up again about 600ft. my sister saw it start traveling backwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30530.html](http://www.nuforc.org/webreports/reports/030/S30530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
