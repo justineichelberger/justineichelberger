@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:01:15 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:00 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Winnemucca (NV) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>These were not US aircraft.At 4:30am in the morning, today, I seen 1 egg-shaped UFO south east of Winnemucca.  It had all different colored lights all over it.  It moved up and down.  A sheriff stopped and I gave him my glasses and he seen it also.  I got to my office and then I seen 3 more UFOS the same size as the first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/128/S128983.html](http://www.nuforc.org/webreports/reports/128/S128983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Star-like bright light floats and flys across sky.Saw a vibrant bright star like object floating across the sky at what seemed like incredible speed.  Within one of the lower atmospheres, flying lower than an airplane which I saw right above it.  The light moved at a steady pace and was extremely similiar to a star in its appearance. I observed the light flying and within a minute it was gone off into the distance.  No blinking lights, strange arching flight pattern.  Also, I noticed a strange film or layer of particles around the light, but this could just be the intensity of the light causing a glow affect versus any kind of significant detail. Light made no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100779.html](http://www.nuforc.org/webreports/reports/100/S100779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
