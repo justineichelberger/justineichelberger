@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:32:47 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:52:24 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 bright orange lightsNoticed a bright orange light as it cleared the trees to the west of my position.  Visually tracked the object as it traversed the entire visible portion of the sky until my view was obscured by trees to the east of my position.  Object next passed directly above me and made no sound and did not display any navigational lights.  Approximately 2 minutes later a second object appeared in the west and followed the same flight path as the first object.  The objects were orange in color and reminded me the the same orange hue of a pressure sodium bulb. The light of the objects didn't appear emanate from their  center, but appeared to surround the center like a halo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101591.html](http://www.nuforc.org/webreports/reports/101/S101591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was fishing on padre island.  I saw sparks falling from the sky.At first I thouht it was something entering earths atmosphere.But when i saw sparks a minute later, I looked up and saw this huge triangle shaped space craft.  It had sparks dropping from the bottom.  It looked like something or someone was welding something on the bottom of it.  This object was about a 1/2 a mile wide.  To be honest, it scared me.  Moved real slow to the west.  Also this happened right next to the Corpus Christi Army depot.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104718.html](http://www.nuforc.org/webreports/reports/104/S104718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
