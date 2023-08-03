@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:55 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:02 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Milford (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Three family members saw a green fireball, about the size of a tennis ball, travel E to W for 3 seconds, with trailing red-orange sparkThree members of our family were sitting on our deck, enjoying the cool breeze, and were trying to see the ISS, which was supposed to come over. We didn't see the ISS, but my wife saw a green fireball, which was trailing red-orange sparks, and a long white tail, with green and red mixed in. She said "Look". My son and granddaughter looked up in time to see the object. It was traveling from east to west. It appeared about 60-70 degrees above the southern horizon. It lasted about 3 seconds. What was interesting, was that it was long enough, for my son and granddaughter to react, and observe it.Unfortunately, I had gone inside to check on the internet, regarding the time of the ISS passage, and missed it. It was the first time the three had ever seen a fireball. The object looked like the size of a tennis ball, held at arms length, and the tail was as wide as the fireball was thick. The object eventually disappeared over our roof, as our deck is on the east side of our house. Therefore, we don't know if it continued to be  visible. However, my wife is sure it was visible for about 3 seconds, at least. What was strange, though, is that it seemed to travel parallel to the ground, not descending, as one would expect, if it were entering the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65043.html](http://www.nuforc.org/webreports/reports/065/S65043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Townsend (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Glowing ball of fire hovering in the evening sky.we noticed a teardrop shaped fireball in the NW evening sky.  It appeared to be glowing with steady flames.  It remained in the same spot for several seconds before getting a little smaller and then GONE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112188.html](http://www.nuforc.org/webreports/reports/112/S112188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
