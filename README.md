@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:53 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:52 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright red orange triangular shaped object with erratic movement came to stop, then became lighter and smaller and disappeared Medina OHOne bright red light in sky observed from living room window and was moving directly towards us from the south.  Unusually bright and red orange in color for a plane.  Went outside to observe and noted it was slowly moving but slightly erratic side to side then stopped.  There was no sound heard during this time as we normally do with jets that pass above.  We live in a rural area and it is normally quiet and dark because of no street lights.  As we watched it as it was stationary it appeared to change to a lighter color, and became smaller as we assumed it gained altitude and disappeared.  The event took place in about 5 minutes.I am a  Physical therapist  and my husband is a commercial pilot and we have never observed red anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112187.html](http://www.nuforc.org/webreports/reports/112/S112187.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>I was asleep while my step dad proceeded to go outside to have a cigarette around 11:00 pm.  When out of no where he started to wake me up saying come see this, come see this!  I hesitated and told him unless it was an emergency not to wake me up, but he proceeded to tell me that I had to come see what was in the Sky.  So I finally got up just to get him to stop bothering me, when I stepped out side i was instantly enamored It was a big blue light that moved effortlessly high in the sky almost like a bird, it flew for a little bit in a direction but would effortlessly turn back around to were it started.  It was beautiful and mysterious.  Too big and too bright to be a toy or something controlled by someone below,  It moved like an aircraft but much more elegantly and effortlessly.  Best way to explain it.  I don't really believe in Aliens but whatever it was, I have never seen anything quite like it.  After awhile it seemed like it was falling downwards like an air! plane out of control and then it dissipated.  Below were it has a choice of picking there were lights on the object, the object was a light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100793.html](http://www.nuforc.org/webreports/reports/100/S100793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
