@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:59 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 61</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158678.html](http://www.nuforc.org/webreports/reports/158/S158678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some '' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>At around 3:30 in the AM I awoke to what I thought was thunder, but upon completely waking up, I heard a weird rumbling or ripping like sound, I went outside And looking up and due East, I watched a spectacle of manouvering Lights, this was at a very high altitude, I believe what I saw was Military, but they never train over South Florida Populations.  I'm sure this event took place over the Ocean.  I distinctly saw four lights, that changed Colors, these lights made acrobatic moves that no plane I'm aware of could make.  that is what grabbed my attention, really.  I have seen Jets fly at night, these lights were Flickering and changing shades of orange and flitting about the sky gaining altitude and then they all came together in some sort of Diamond pattern, one then two lights disappeared, then the other two.  I couldnt sleep after that, and approx. 30 minutes late I saw what I thought were the Lights again, but I strained to hear two Jet Fighters Flying High from South to North out over the Ocean?  Rare to see them, even that high.  Strange stuff indeed. I gotta get a high power camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71521.html](http://www.nuforc.org/webreports/reports/071/S71521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
