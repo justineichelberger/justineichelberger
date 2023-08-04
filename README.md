@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:01:00 on 3 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:28:53 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Livingston (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light sphere seen moving SE at about 10:30 pm. from Lake Livingston, TxOne bright orange sphere was traveling SE, at a steady pace, in the NW sky, at about 45 degrees.  No sound, no pulsing or blinking lights, much larger than stars and as bright as a street light.  Clear night with minimal cloud coverage.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148026.html](http://www.nuforc.org/webreports/reports/148/S148026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating Humanoid sighting in Tampa (West Chase) Florida area Aug 4, 2010We were in a Burger King drive through line in the West Chase area of Tampa when we looked up and saw a dark humanoid figure floating down from the sky.  It was about 400 or 500 feet from us.  There were no airplanes, helicopters, or other crafts seen in the area, at that time.  We were stuck in the line at a drive through restaurant so we were not able to follow it, to see where it was landing.  The weather was over cast, and shortly after the sighting, it began to rain.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77040.html](http://www.nuforc.org/webreports/reports/077/S77040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [408](http://www.nuforc.org/webreports/reports/164/S164235.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164226.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164242.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164276.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164507.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
