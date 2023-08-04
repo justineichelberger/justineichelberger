@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Red light over Des Moines, Iowa vewed from Mitchellville, Iowa.On August 4, 2008 at approximately 9:30pm CST, I noticed a red blur in the sky over Des Moines, Iowa.I was in Mitchellville, Iowa, which is about 10 miles east of Des Moines, looking towards the west when I saw it.The blur lasted for a few seconds then turned into a white light and then the light faded away.I don’t know if it was a UFO, but I don’t know of an aircraft that could produce that type of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65030.html](http://www.nuforc.org/webreports/reports/065/S65030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The two objects were stationary and flashing bright white.On first Saturday of August a female friend and her 11 year old son and I went to Jaycee Park on ocean in Vero Beach Florida.  It was 9 pm and raining.  At 9:15 it cleared up and we sat in beach chairs in the sand.  There were some clouds and the first thing we saw was a white object going S to N between two clouds and only visible for 2 seconds.At 10:20 the mother told her son to concentrate to try send a message.  The boy had previously seen lights at age 6 and 7.  One time they saw the  bright light which left at extreme speed near their house together.  At 10:30 two bright lights appeared and were flashing.  They were approximately 3" apart holding hand  out in front of face.  They were visible for 2 to 3 minutes, and when a plane light was encroaching, they went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142566.html](http://www.nuforc.org/webreports/reports/142/S142566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
