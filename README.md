@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fuzzy capsule does a zig zagA fuzzy shaped object crossed the sky, that was from my perspective, the size and shape of a medicine capsule.  It quickly crossed the sky and then did a zig-zag motion for about a second, and then kept speeding in the original direcion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51922.html](http://www.nuforc.org/webreports/reports/051/S51922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Snowmass Village (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately very short - very short minutes.</sub><blockquote><sub>We have a very clear photo taken on 8/4/05 of a UFO that looks like a lighted candle atop a translucent dish - 6 bright balls of lightOn 8/4/05, a cold, misty evening in Snowmass Village, Colorado, a friend and I were watching a plane coming in to land at Aspen Airport.  My friend snapped a photo of the darkened image of the plane.  I saw nothing between us and the plane except mist. Later, we saw the photo and quite clearly there is a large, what I would decribe as a lit candle sitting on a translucent dish.  The photo shows six distinct balls of light: a red with a bright yellow center on top, a white and another white beneath (these three form the "candle"), a green to the left, an amber on the bottom center, and a white (with light green) on the right side of the craft, all very symmetrical and clearly indicative of an intelligence and purpose.  It appears to be moving upward and is leaving beneath it a very clear vapor trail.  Incredibly clear photo.  The craft appears to have a deep blue glow faintly surrounding it and two small windows with faint green light coming from them. I am a 50 year old father of four, have been practicing law in Houston, Texas for 25 years and up until 8/4/05, had no interest whatsoever in UFO's and the like.  My friend who took the photo is 48 years old and is a classical musician and the conductor of a chamber orchestra.  We have no agenda of any kind, but we do have proof.  Very clear and convincing proof. We have an appointment at NASA on Tuesday 8/30/05 to have the photo analyzed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45876.html](http://www.nuforc.org/webreports/reports/045/S45876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
