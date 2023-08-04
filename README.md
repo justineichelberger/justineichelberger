@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:12 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A bright object in the southern sky began brightening then dimmed and moved accross the sky toward the west.At approximately 2259 hrs, in the southern sky, approximately 35 to 40 degrees above the horizon, at a rough bearing of 190 degrees the object appeared as a star or a satellite, faint redish-orange in color, and was not moving.  The object began brightening intensely over a period of approx. 3 to 4 seconds, appearing to be bright bluish-white in color.  The object then dimmed and moved across toward the western sky.  The path was steady but had slight increasing angle to the horizon.  Movement was similar to a satellite.  At a position of rough bearing of 260 degrees, the object diverted from a trajectory of moving across the sky to one of increasing angle above the horizon.  The object was dimming thru the entire movement process, making it difficult to continue tracking it.  It was also beginning to slow.  It appeared to almost stop movement at a point 60 degrees above the horizon, then its trajectory continued moving toward a higher angle above the horizon. The entire movement occured over a period of approximately 25 to 30 seconds.  Contact was lost when the object was approximately 75 to 80 degrees above the horizon at a rough bearing of 230 degrees.  I stopped looking for the object at 2304 hrs.  Object was sighted by naked eye.  Skies were clear, no aircraft near the object, no moonlight in my line of site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13671.html](http://www.nuforc.org/webreports/reports/013/S13671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Shape changing fireball that hovered close to the ground an flew off with incredible speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100759.html](http://www.nuforc.org/webreports/reports/100/S100759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
