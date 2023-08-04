@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:02 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The two objects were stationary and flashing bright white.On first Saturday of August a female friend and her 11 year old son and I went to Jaycee Park on ocean in Vero Beach Florida.  It was 9 pm and raining.  At 9:15 it cleared up and we sat in beach chairs in the sand.  There were some clouds and the first thing we saw was a white object going S to N between two clouds and only visible for 2 seconds.At 10:20 the mother told her son to concentrate to try send a message.  The boy had previously seen lights at age 6 and 7.  One time they saw the  bright light which left at extreme speed near their house together.  At 10:30 two bright lights appeared and were flashing.  They were approximately 3" apart holding hand  out in front of face.  They were visible for 2 to 3 minutes, and when a plane light was encroaching, they went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142566.html](http://www.nuforc.org/webreports/reports/142/S142566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately UNKNOWN - UNKNOWN minutes.</sub><blockquote><sub>5 circular objects doing circles in the sky directly overhead.  Seen at SE 164TH Avenue/SE Mill Plain Boulevard.((NUFORC Note:  Possible advertising lights, we wonder?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91442.html](http://www.nuforc.org/webreports/reports/091/S91442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
