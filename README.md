@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:51 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:54 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Snowmass Village (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately very short - very short minutes.</sub><blockquote><sub>We have a very clear photo taken on 8/4/05 of a UFO that looks like a lighted candle atop a translucent dish - 6 bright balls of lightOn 8/4/05, a cold, misty evening in Snowmass Village, Colorado, a friend and I were watching a plane coming in to land at Aspen Airport.  My friend snapped a photo of the darkened image of the plane.  I saw nothing between us and the plane except mist. Later, we saw the photo and quite clearly there is a large, what I would decribe as a lit candle sitting on a translucent dish.  The photo shows six distinct balls of light: a red with a bright yellow center on top, a white and another white beneath (these three form the "candle"), a green to the left, an amber on the bottom center, and a white (with light green) on the right side of the craft, all very symmetrical and clearly indicative of an intelligence and purpose.  It appears to be moving upward and is leaving beneath it a very clear vapor trail.  Incredibly clear photo.  The craft appears to have a deep blue glow faintly surrounding it and two small windows with faint green light coming from them. I am a 50 year old father of four, have been practicing law in Houston, Texas for 25 years and up until 8/4/05, had no interest whatsoever in UFO's and the like.  My friend who took the photo is 48 years old and is a classical musician and the conductor of a chamber orchestra.  We have no agenda of any kind, but we do have proof.  Very clear and convincing proof. We have an appointment at NASA on Tuesday 8/30/05 to have the photo analyzed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45876.html](http://www.nuforc.org/webreports/reports/045/S45876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we were in the back yard when we saw two red lights fly over us as if they were following each other but with no soundThere was two red lights heading east, coming towards us. One seemed to be following the other. There was no sound coming from them as they approached.The light appeared to be coming from a sphere. they seemed to be flying level heading due East. I ran in to get my camcorder and as I returned they had flown directly overhead of my wife and two children. As I tried to follow them with the recorder they semed to turn slightly right and slow to a stop. I recorded a plane flying below them in the view finder for a reference. Also as they appeared to stop they seemed to fade and then grow brighter. Don't know if the lights faded because of the plane going by or not but we have a few minutes of it on video with a porch and planes as a reference.It flew directly overhead of my wife and kids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13685.html](http://www.nuforc.org/webreports/reports/013/S13685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
