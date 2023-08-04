@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:53 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Yellowstone (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>What was that bright white light moving across the Wyoming sky???At about 10pm, I was walking home from work and I always look up at the sky in case I see a shooting star.  Well, above the trees, but low in the sky, I see this white ball of light and its heading from right to left in the sky.  No sound either.  As I walked up to a building, I heard 4 others talk about the light and we watched it for a few minutes.  In that time, we were wondering what it was and then the light went out and back on and off again.  They told me before I got there, that at first it was stationary in the sky and then they saw flash of light and it started moving in sky.  We were amazed.  Can't believe I didn't take a photo! I hope others saw this too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100819.html](http://www.nuforc.org/webreports/reports/100/S100819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Newell (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw circular lights for 2-3 minutes and experienced a time lapse and woke up in a different location.I was listening to music with my headphones on sitting in the chair in my bedroom and saw a circular looking light shining through my window like it was shining down from above.  I raised the curtains enough to look out the window and above the bushes next to the house, a little lower than tree line was an object that was stationary.  All I could see was the light shining at me and some type of old round old lock or something built into the window.  It's glued into my mind.  I woke up with a time lapse and laying on the bed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75869.html](http://www.nuforc.org/webreports/reports/075/S75869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
