@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:49 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elkton (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several craft at different speeds cross sky at approx same high attitude. Shined high powered spot lite and laser at 1 and it stopped, then proceeded.I went back inside because mosquitoes were to bad.These were not regular planes or airliners.Viewed with binoculars there were no lights, just solid silver, with plasma field.This is not my first sighting.I had a very close encounter at the age of 12.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100745.html](http://www.nuforc.org/webreports/reports/100/S100745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw this object (Below) on August 4, 2008 at 7:05 PM going from NW to SE over my house which is near Clear Lake (Yelm) WA.I was sitting in the backyard looking at my garden when something told me to look up and I saw this object flying over the top of a large tree. I watched it move to the SE and it went over my house and then after about 10 seconds it just vanished.If you travel SE from where I live you will be headed for Mt. Adams and the Trout Lake area?? This object made no sound and was about 1,000 feet or so in the sky and was moving faster then a plan or jet.As far as size I could not tell, But if I held up my hand it was about the size of a quarter.Has anyone else seen this object?? Gregg Marshall of Yelm, WA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68532.html](http://www.nuforc.org/webreports/reports/068/S68532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
