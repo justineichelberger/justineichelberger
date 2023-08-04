@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:53:43 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:21:24 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Algarve (Portugal) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two orange balls dancing playfully in the sky and travelling at great speedSighting: 3.40am 4 August 2008 Algarve, Portugal  I was lying in my garden, out for some fresh air as I was unable to sleep due to the heat.  I was just looking at the sky and the stars.  It was a very clear night and I saw several shooting stars.  Then suddenly (at 3.40am) two orange coloured lights/balls appeared in the sky above me, travelling southwards.  They were side by side and seemed to be dancing and playfully side stepping each other.  They travelled much faster than any aircraft I have ever seen, though it was hard to gauge how high up they were.  They were definitely not airplanes.  There were no trails, just round objects.  As they flew over towards the ocean they just disappeared all of a sudden.  I was left feeling very emotional as I was convinced I had just seen a UFO.  I stayed there for a whole hour fixated and hoping to see more, but that was it.  I shall definitely be looking out for more of the same.  It was so exciting.  Needless to say, no one believes me.  I am just hoping to hear of someone else who saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65002.html](http://www.nuforc.org/webreports/reports/065/S65002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tupper Lake (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>6 lights in a straite line stood directley over a barn for about 30 mins b4 completly disapearingit was about 10pm we were in the junction of tupper lake on my friends property wich use to be a farm we were all just hanging out on the steps of his house and i was the first to notice it  was 6 lights in a straite line hoavering over his barn i dint say any thing about it for abotu 2 minuetes till i said hey look at those lights am i just crazy or does that look like what i think it is every one looked at the lights that lights sat there for about 30 mins in the same exact spot directly over the barn the jus disapered out of no were i do not know what it is but i know it isnt a blimp i know it isnt a plane or some kind of spot light couse there is nothing but miles of woods this happend in 00' what expired me to put this in here is reading a post of some one in long lake maybe it was a "ufo" maybe it wasnt but if u live in this area and have seen any thing like that aroudn that date or current please msg me at ((e-address deleted)) on aim or post it up here i am very intrested in hearing about this((NUFORC Note:  Student report.  May not be a serious report.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33655.html](http://www.nuforc.org/webreports/reports/033/S33655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
