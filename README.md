@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:48 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:52 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Yelm (WA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw this object (Below) on August 4, 2008 at 7:05 PM going from NW to SE over my house which is near Clear Lake (Yelm) WA.I was sitting in the backyard looking at my garden when something told me to look up and I saw this object flying over the top of a large tree. I watched it move to the SE and it went over my house and then after about 10 seconds it just vanished.If you travel SE from where I live you will be headed for Mt. Adams and the Trout Lake area?? This object made no sound and was about 1,000 feet or so in the sky and was moving faster then a plan or jet.As far as size I could not tell, But if I held up my hand it was about the size of a quarter.Has anyone else seen this object?? Gregg Marshall of Yelm, WA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68532.html](http://www.nuforc.org/webreports/reports/068/S68532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fuzzy capsule does a zig zagA fuzzy shaped object crossed the sky, that was from my perspective, the size and shape of a medicine capsule.  It quickly crossed the sky and then did a zig-zag motion for about a second, and then kept speeding in the original direcion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51922.html](http://www.nuforc.org/webreports/reports/051/S51922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
