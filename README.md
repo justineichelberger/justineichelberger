@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:54 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we were in the back yard when we saw two red lights fly over us as if they were following each other but with no soundThere was two red lights heading east, coming towards us. One seemed to be following the other. There was no sound coming from them as they approached.The light appeared to be coming from a sphere. they seemed to be flying level heading due East. I ran in to get my camcorder and as I returned they had flown directly overhead of my wife and two children. As I tried to follow them with the recorder they semed to turn slightly right and slow to a stop. I recorded a plane flying below them in the view finder for a reference. Also as they appeared to stop they seemed to fade and then grow brighter. Don't know if the lights faded because of the plane going by or not but we have a few minutes of it on video with a porch and planes as a reference.It flew directly overhead of my wife and kids.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13685.html](http://www.nuforc.org/webreports/reports/013/S13685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Yellowstone (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>What was that bright white light moving across the Wyoming sky???At about 10pm, I was walking home from work and I always look up at the sky in case I see a shooting star.  Well, above the trees, but low in the sky, I see this white ball of light and its heading from right to left in the sky.  No sound either.  As I walked up to a building, I heard 4 others talk about the light and we watched it for a few minutes.  In that time, we were wondering what it was and then the light went out and back on and off again.  They told me before I got there, that at first it was stationary in the sky and then they saw flash of light and it started moving in sky.  We were amazed.  Can't believe I didn't take a photo! I hope others saw this too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100819.html](http://www.nuforc.org/webreports/reports/100/S100819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
