@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:28:53 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:53:43 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating Humanoid sighting in Tampa (West Chase) Florida area Aug 4, 2010We were in a Burger King drive through line in the West Chase area of Tampa when we looked up and saw a dark humanoid figure floating down from the sky.  It was about 400 or 500 feet from us.  There were no airplanes, helicopters, or other crafts seen in the area, at that time.  We were stuck in the line at a drive through restaurant so we were not able to follow it, to see where it was landing.  The weather was over cast, and shortly after the sighting, it began to rain.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77040.html](http://www.nuforc.org/webreports/reports/077/S77040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Algarve (Portugal) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two orange balls dancing playfully in the sky and travelling at great speedSighting: 3.40am 4 August 2008 Algarve, Portugal  I was lying in my garden, out for some fresh air as I was unable to sleep due to the heat.  I was just looking at the sky and the stars.  It was a very clear night and I saw several shooting stars.  Then suddenly (at 3.40am) two orange coloured lights/balls appeared in the sky above me, travelling southwards.  They were side by side and seemed to be dancing and playfully side stepping each other.  They travelled much faster than any aircraft I have ever seen, though it was hard to gauge how high up they were.  They were definitely not airplanes.  There were no trails, just round objects.  As they flew over towards the ocean they just disappeared all of a sudden.  I was left feeling very emotional as I was convinced I had just seen a UFO.  I stayed there for a whole hour fixated and hoping to see more, but that was it.  I shall definitely be looking out for more of the same.  It was so exciting.  Needless to say, no one believes me.  I am just hoping to hear of someone else who saw what I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65002.html](http://www.nuforc.org/webreports/reports/065/S65002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
