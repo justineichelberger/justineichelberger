@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright orange fireballs glowing in sky in Worcester, MA.A few years ago, in August, 2012, on Pleasant St. in Worcester, Massachusetts.  2 bright orange balls in the sky.  Looked like they were giant fire balls, glowing bright orange like a flames.One object was ahead of the other one and slowly making distance, when out of no where the one trailing behind sped up quicker than a bullet and caught up to the one ahead.  Then they started traveling at the same speed til out of distance.  They were close enough to ground where there would of been sound if they were aircraft, yet there was absolutely no sound. Complete silence.I know for a fact that my phone had full battery, but as soon as I pulled out my phone to record the objects my phone died and I couldn't.  Objects seemed to cause a small type of electrical interference as my phone stopped working but my car turned on.Also, when they were passing by, for the whole 5 minutes they were in sight swarms of birds were flying and making much noise and multiple dogs were barking.  Difficult to believe but it was like a scene straight out of a movie.Lasted about 5 minutes until they were completely out of sight in the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118818.html](http://www.nuforc.org/webreports/reports/118/S118818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Flushing (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 930.0 - 930.0 minutes.</sub><blockquote><sub>bright lights  in NY skyI still have goosebumps.  At about 1:30 a.m i was looking out my window in the north east direction, and I noticed a really bright star in the sky.  It was white and red , flashing , and there seemed to be like a spotlight coming down from it.  The sky around it also seemed to be illuminated.   I thought maybe its a planet but it was moving way too fast.  It would move left to right, up and down and it would get brighter and dimmer at times.  A commercial plane went by at one point and the light just faded into the sky.  It blended in with the other stars, that's how far away it appeared.   Then about 2 minutes later it was back, and this time there was another light in the distance.  For the next 3.5 hours these 2 lights moved around the sky in speeds that were out of this world. I can't believe it.  Did any one else report these lights in the NY, CT area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65031.html](http://www.nuforc.org/webreports/reports/065/S65031.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
