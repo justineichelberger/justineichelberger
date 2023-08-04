@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:53 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 4 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Newell (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw circular lights for 2-3 minutes and experienced a time lapse and woke up in a different location.I was listening to music with my headphones on sitting in the chair in my bedroom and saw a circular looking light shining through my window like it was shining down from above.  I raised the curtains enough to look out the window and above the bushes next to the house, a little lower than tree line was an object that was stationary.  All I could see was the light shining at me and some type of old round old lock or something built into the window.  It's glued into my mind.  I woke up with a time lapse and laying on the bed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75869.html](http://www.nuforc.org/webreports/reports/075/S75869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 bright orange fireballs glowing in sky in Worcester, MA.A few years ago, in August, 2012, on Pleasant St. in Worcester, Massachusetts.  2 bright orange balls in the sky.  Looked like they were giant fire balls, glowing bright orange like a flames.One object was ahead of the other one and slowly making distance, when out of no where the one trailing behind sped up quicker than a bullet and caught up to the one ahead.  Then they started traveling at the same speed til out of distance.  They were close enough to ground where there would of been sound if they were aircraft, yet there was absolutely no sound. Complete silence.I know for a fact that my phone had full battery, but as soon as I pulled out my phone to record the objects my phone died and I couldn't.  Objects seemed to cause a small type of electrical interference as my phone stopped working but my car turned on.Also, when they were passing by, for the whole 5 minutes they were in sight swarms of birds were flying and making much noise and multiple dogs were barking.  Difficult to believe but it was like a scene straight out of a movie.Lasted about 5 minutes until they were completely out of sight in the distance.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118818.html](http://www.nuforc.org/webreports/reports/118/S118818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/164/S164376.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164514.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164351.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164245.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161439.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
