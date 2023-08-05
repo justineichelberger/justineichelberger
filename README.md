@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:49:41 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:18:48 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chawton, Hampshire (near Alton) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A single Small white light  observed moving across night sky at a very high altitudeWhilst outside I observed a single small white light moving across sky(VERY HIGH UP)this object was'nt a star,shotting star,Normal aircraft,or planet(not the moon)and was not a weather balloon or any other type of balloon,maybe it was a satellite perhap's you could let me know what it may have been.I have observed GENIUNE Alien space-craft's in the past(June and July 2002 to be exact)they where above a field VERY Near to where I live and the footage I have is Proof of there existance.((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57992.html](http://www.nuforc.org/webreports/reports/057/S57992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wildwood (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary silent orange glowing object that faded away to look like a star in less than 2 minutes.40 years of part time sky watching stars space station meteor shower had never seen  a UFO.  Taking garbage out around 4 am I notice a bright orange light to the low east where Venus has been appearing about 6 am. seems stationary I try and rationalize well is there a utility light in that direction no there isn't.  All of the sudden it is fading and in less than 2 minutes it looks like a fading star.  I have watched the space station take 6 minutes across the sky and end up trailing off like a star. Guess there is a first time for everything. In going to your sight I see others have seen familiar sights.  Silent bright orange no idea how far away it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112220.html](http://www.nuforc.org/webreports/reports/112/S112220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
