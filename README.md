@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Looked like Haiti UFOs seen the same weekend.I was driving just north of Las Vegas.  There was what looked to me like a metal weather balloon with engines on both sides.  I had a head on view of it.  I did not stop to look up when I drove under it.  It was less than a 100 feet above my head when I drove under it.  It was parked between two mountains where the road intersected it, just floating in the air.  It looked exactly like the Haiti UFOs seen the same weekend.  It was practically silent except when I drove under it I could hear a constant whirring noise, just a few decibels above my car noise with the window down.  I thought it was a weather balloon or some advertisement until I realized (when I got far enough away to see it in my rear view mirror) that it was no longer there and secondly when I saw the Haiti videos.  I could not see the engines since I was in a car and my view above me was clipped, and since I was driving up a hill when I saw it head on it was only the metal that I saw.  It was on the same scale of a car or two length.  I thought it was much further than it was until I kept getting closer and the scale changed.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58082.html](http://www.nuforc.org/webreports/reports/058/S58082.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some '' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>Top secret test !! Usa a patriot unmaned drone A mini gun will see the miricals test works Top secret test ! Hitler wanted me for Germany this is why and I'm breeding this The father and a sun and mouth holyghost There becomes a time we as earth get more advanced then religion is aloud to and it's government stuff !! Use espenash laws to do the test then see it's real and I'm of inocets and You need this for space or you naked !! Space and proficys are a space suit !! Also learn breed brains in humans ( not being funny) that's phase earth must go threw if it's to be white and continue and when we say white we mean light ! Hitler wants this and that's why mazzoff Scotts great grand father lived so close to Apollo rocket scientist as this will stop huge exsposions as he worked in his home to !! Get ride of yelling about Hitler and see he was into this studdy !! To make earth gods planet and planet of the gods If it was to be killed then it would be these days Rember we made Scott no ego no self esteem and very shy !!!!!!!!!!! He's Jesus as a soul and at knight in his sleep his memory is back !! Then awakening the meat holds back the soul memories and the paranormal holyghost mouth most reeducate the brains.Can you understand ?? This not new as Jesus me did this last life !! Think as example BC. And or arcles time or Sparta and Apollo Sealed notified 1054am 44percent cell phone battery power born 9/15/76 ss#174680539</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164425.html](http://www.nuforc.org/webreports/reports/164/S164425.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
