@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:58 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Leicester (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Extremely large and completely silent triangular craft with 5 pulsating white lights scanning the treelineTriangular large, hovering, craft, slowly moving forward toward our house which is surrounded by hundreds of acres of woodlands.  5 intermittently pulsating lights appeared to be scanning the wooded area.  The craft was extremely large.  Triple the size of a large home and only several hundred feet above the treeline.  It slowly hovered closer with lights pulsating and as our motion lights in driveway went off it disappeared.  Didn't fly off, but was suddenly gone.  This craft was completely silent.  Never a sound .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135702.html](http://www.nuforc.org/webreports/reports/135/S135702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Smith (AR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white round light ball, no Nav lights, no sound from the craft and not a meteor too clow for that.Around 10:00 pm. I was looking through my telescope with my grandson. From the southern sky a bright white object moved to  the northeast at a high rate of speed. I was just able to get in my 6" telescope for a 10 seconds.The light was perfectly round about the size of a disco ball with a very bright light, and no Nav lights, just a white ball of light.  No sound at all with this object, I thought it was a star but the object moved across the sky from south to Northeast out of view in a 1  minute or longer, not a meteor this slow and no trailing light. It took a good minute or so to cross the full sky.  Most high altitude jets take two  or three minutes to move overhead and out of view. I checked Satellite and ISS tracking and none of them have an orbit path from south to a northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91586.html](http://www.nuforc.org/webreports/reports/091/S91586.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
