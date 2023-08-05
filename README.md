@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Miami Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Before going  to bed at 11:58 pm. I look out my bedroom window and out hovering in the sky over the ocean a  bright small light shined for 5 hours.  From my point of view the light was in-between  two beach front buildings.  The caymon ranch and the sterling apartments .  For 5 hours, I stayed up looking in out of my window hoping for it to be a helicopter or something else, but I notice it rose quite a bit from the last time I checked up on it .nothing else was in the sky for miles. Then hours later the light faded away.  Everything was silent their wasn't any distant bodies of a aircraft or anything remotely sounding like a aircraft.((NUFORC Note:  Star?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82940.html](http://www.nuforc.org/webreports/reports/082/S82940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>High altitude, very slow moving white light travels in half-circle then merges with another stationary white light that disappears.I went onto our back patio to smoke a cigarette.  I noticed what I thought at first was an aircraft, a small moving point of light in the sky.  Then I realized it must be at high altitude & therefore the light must be extremely bright.  I kept my gaze set on it; soon, I noticed this light was not flying in a straight path as an airplane would.  Rather it was travelling in a curve, as though a half-circle.It was moving very slow - slower than any airplane, especially one with such high altitude, would be flying.  There was no sound of an aircraft engine at any time.  It took about 3 minutes to circle (from my left-facing to right-facing).  I then noticed another similar light which at first I reasoned could be a star I had not noticed before.  I always look to the sky when I step outside & had previously noted the position of Venus and what was possibly Sirius or Polaris to my north-facing.  I couldn't see any other stars when I had first walked outside.The first light seemed to be headed towards the new light.  They then merged to where I could only see one light.  That light then disappeared.  Although I was astounded I didn't mention this to my roommate or his girlfriend in fear they wouldn't believe me or think I was crazy.  I guarantee this is a factual account of what I witnessed & in my estimation it was certainly not a known terrestrial aircraft, star/Venus or comet.  It says don't list my name or contact info here but if this site logs my IP address I do not at all mind being contacted or further asked about this.  I listed my phone number & will have minutes available to speak with anyone on Tuesday.  I don't mind my name being released to anyone in authority that researches or investigates unidentified flying objects, however I would ask my name not be publicly published either in print or online.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91455.html](http://www.nuforc.org/webreports/reports/091/S91455.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
