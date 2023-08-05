@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:20 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:58 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Leicester (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Extremely large and completely silent triangular craft with 5 pulsating white lights scanning the treelineTriangular large, hovering, craft, slowly moving forward toward our house which is surrounded by hundreds of acres of woodlands.  5 intermittently pulsating lights appeared to be scanning the wooded area.  The craft was extremely large.  Triple the size of a large home and only several hundred feet above the treeline.  It slowly hovered closer with lights pulsating and as our motion lights in driveway went off it disappeared.  Didn't fly off, but was suddenly gone.  This craft was completely silent.  Never a sound .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135702.html](http://www.nuforc.org/webreports/reports/135/S135702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 orange fireballs flying quickly above MinneapolisThe fireballs flew steadily and quickly from West to East in the North sky in Minneapolis.  They were incrementally spaced, flying the same speed and in the exact same direction.I saw six, but another witness drew my attention to them.  He may have seen more;  They were orange, round and seemed to occasionally flicker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91492.html](http://www.nuforc.org/webreports/reports/091/S91492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
