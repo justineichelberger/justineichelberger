@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Soho () reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>this video was taken from the soho web site http://switchboard.real.com/player/email.html?PV=6.0.12&&title=060805%5Fc2&link=http%3A%2F%2Flasco%2Dwww.nrl.navy.mil%2Fdaily%5Fmpg%2F060805%5Fc2.mpg((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51955.html](http://www.nuforc.org/webreports/reports/051/S51955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Valrico (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Cigar shaped object with no wings following Commercial Jet airliner.I came home from my office at about 5:00PM - at about 5:30 my wife and I were outside sitting by our pond and as I leaned back in my chair I looked upward and saw a Commercial Jet and following the plane was a cigar shaped object( Silver in color) about half the size of the plane.  I said to my wife,  "That looks odd because the object following the plane has no wings!"  The object appeared to be about 100-150 yards behind the plane.  We watched for about 45 seconds or so until they were out of sight.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72811.html](http://www.nuforc.org/webreports/reports/072/S72811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
