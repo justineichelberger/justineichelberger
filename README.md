@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:48 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:56 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Algonquin Highlands (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On Tuesday, August 5th, at 10:00pm EST, a silent light UFO was observed traveling at a high rate of velocity, banking sharper than a plane.One object traveling 38 deg NE To 75 deg E at an estimated altitude of ~35,000 feet.  One solid light was observed with no sound being completely silent.  Approximately 1-2 minute flight time, with agile side movement or banking throughout the flight.  Exact coordinates are as follows:  45ø 25' 31" N 78ø 41' 53" W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112398.html](http://www.nuforc.org/webreports/reports/112/S112398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmerville (LA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright circular flash of light appeared.  The sky was clear.  It was much like a light bulb that blows out when you turn on the switch.  It seems to me I saw a black spot in the middle.  Two weeks prior, myself and witness observed a large light drift by- much like a light house.  A side to side motion was made.  Light was too large to be any aircraft.  Did not pulsate.  It was white in color and distorted on outer edges like it was behind glass.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100828.html](http://www.nuforc.org/webreports/reports/100/S100828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
