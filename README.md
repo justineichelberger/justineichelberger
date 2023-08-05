@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:29:00 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:49:41 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in West Sayville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spinning silver object seen by two on a clear summer night.On the night of August 5th 2021 at approximately 7:15 pm eastern time my wife and I observed a round spinning object in the distance from our front porch. It was whitish/silver and spinning and reflecting the sunlight against a clear blue sky. It was stationary then appeared to move to the right then up and then back to the right and then slowly move up and finally out of our sight. This occurred for several minutes. It did not behave like a ballon in that it was not moving in a predictable or stable fashion.it would float then move slightly and then move either in an upward or sideways pattern as this night was clear and not a windy one. It seemed to move in a casual manner. It did not resemble a drone device as it was very high in the skyline and it's being a large  bright and reflective and the whole object seemed to spin.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164403.html](http://www.nuforc.org/webreports/reports/164/S164403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chawton, Hampshire (near Alton) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A single Small white light  observed moving across night sky at a very high altitudeWhilst outside I observed a single small white light moving across sky(VERY HIGH UP)this object was'nt a star,shotting star,Normal aircraft,or planet(not the moon)and was not a weather balloon or any other type of balloon,maybe it was a satellite perhap's you could let me know what it may have been.I have observed GENIUNE Alien space-craft's in the past(June and July 2002 to be exact)they where above a field VERY Near to where I live and the footage I have is Proof of there existance.((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57992.html](http://www.nuforc.org/webreports/reports/057/S57992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
