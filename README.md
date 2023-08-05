@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:48 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lowestoft (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light seen moving north east over Lowestoft in Suffolk, EnglandI was in my back garden and saw what i thought at first to be star except it was moving, at a steady pace north east.  I live right next to the sea and it was heading outward towards the sea.At the time there was a helicopter in the sky some distance away with the typical strobe light (i am assuming this was a police helicopter).  The object in question tho, was a constant bright white light, as bright as the north star.  I wouldn't have been able to tell the two apart except for the fact one was moving.  There was no noise that i could hear.Didn't have time to get my camera, will make sure i have it ready and waiting if anything like this happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57983.html](http://www.nuforc.org/webreports/reports/057/S57983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Algonquin Highlands (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>On Tuesday, August 5th, at 10:00pm EST, a silent light UFO was observed traveling at a high rate of velocity, banking sharper than a plane.One object traveling 38 deg NE To 75 deg E at an estimated altitude of ~35,000 feet.  One solid light was observed with no sound being completely silent.  Approximately 1-2 minute flight time, with agile side movement or banking throughout the flight.  Exact coordinates are as follows:  45ø 25' 31" N 78ø 41' 53" W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112398.html](http://www.nuforc.org/webreports/reports/112/S112398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
