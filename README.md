@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some '' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>Top secret test !! Usa a patriot unmaned drone A mini gun will see the miricals test works Top secret test ! Hitler wanted me for Germany this is why and I'm breeding this The father and a sun and mouth holyghost There becomes a time we as earth get more advanced then religion is aloud to and it's government stuff !! Use espenash laws to do the test then see it's real and I'm of inocets and You need this for space or you naked !! Space and proficys are a space suit !! Also learn breed brains in humans ( not being funny) that's phase earth must go threw if it's to be white and continue and when we say white we mean light ! Hitler wants this and that's why mazzoff Scotts great grand father lived so close to Apollo rocket scientist as this will stop huge exsposions as he worked in his home to !! Get ride of yelling about Hitler and see he was into this studdy !! To make earth gods planet and planet of the gods If it was to be killed then it would be these days Rember we made Scott no ego no self esteem and very shy !!!!!!!!!!! He's Jesus as a soul and at knight in his sleep his memory is back !! Then awakening the meat holds back the soul memories and the paranormal holyghost mouth most reeducate the brains.Can you understand ?? This not new as Jesus me did this last life !! Think as example BC. And or arcles time or Sparta and Apollo Sealed notified 1054am 44percent cell phone battery power born 9/15/76 ss#174680539</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164425.html](http://www.nuforc.org/webreports/reports/164/S164425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cannon Falls (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I'm not sure what I saw, could be satelites, maybe?I saw one dot of light moving quite fast in a south-south west direction, and about a half-hour later another object or the same object flew along the same flight path in the oppisite direction. I would like to know if there are any satelites with that flight path. Oh, it took them about 7-10 seconds to fly horizion to horizion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08590.html](http://www.nuforc.org/webreports/reports/008/S08590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
