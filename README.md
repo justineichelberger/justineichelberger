@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:59 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:53 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Couple witness very bright obj. streak overhead to SW horizon.  1/4 size of moon.  Very fast.  White in center, yellow fringe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00679.html](http://www.nuforc.org/webreports/reports/000/S00679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Duxbury (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately :45 - :45 minutes.</sub><blockquote><sub>A night on the beachOne late night,Me and my ex - girlfriend were laying in the sand on Duxbury beach.All of a sudden, while looking up at the sky,I noticed a light that resembled a sphere moving in zagzag position.After a few moments of fast movement,the object disappeared into the ocean.In response,I swear that life definitely exists outside of the human race.However,it's definitely by choice to respect.For those believers,our question is this...Why do they keep coming here?People have reported spheres,triangles,lights,circles,formations,etc.This is more than enough possible proof that we are encountering frequent visits from diferent alien life forms.Therefore,let the truth be told that if everyone is telling the truth about what they've witnessed....we may be in trouble.Does anyone know anything about why we can go to war amongst each other, but can't identify an alien species which may become a threat to humanity..For real.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58393.html](http://www.nuforc.org/webreports/reports/058/S58393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
