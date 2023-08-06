@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oxford (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a weird glowing light in the sky that appeared to be slowly moving and then hovering.  Object had red lights around it that blinked slowly. We watched object for aout 90 seconds before it disappeared.  Second object came over tree line, about 500 feet in the air and then hovered, red lights blinking.  We live near the airport so I called and I was the fourth person to report the activity. The second object hovered for about the same time as the first and then disappeared when two planes passed over head.  Planes were coming in to near by airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77029.html](http://www.nuforc.org/webreports/reports/077/S77029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Algonquin (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 Craft 1 went right,  1 left the other straight  up and gone ?  No planes could do thisMy wife looked out our first floor  room and noticed 3 lights in a row, not moving in the sky.  She ask me to look.  Since we are in the patch of Ohare airport and another small airport, we know the patterns that air traffic uses to fly over our area.  Has not changed on ten years we lived here.  These were to close to one another for normal air traffic. It also was a clear night and moon was about 1/4.We proceded outside to get a better look and the three lights (slightly red and not blinking, more like a glow) were not moving for about five minutes.The ine on the right then went directly to our right and after a few seconds dissapeared.  Several seconds later the one on the left , went left and also dissappeared.After about 30 seconds the final one. went straight up and light got smaller and smaller until it was gone.We both looked at each other in amazement. Never have seen any air traffic ever do this in our lives.  NO SOUNDS what so ever.  If they were planes that close we could have heard them.I shot several pictures with my 10pm camera. Nothing appears to show up.  But if studied closer maybe something can be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83055.html](http://www.nuforc.org/webreports/reports/083/S83055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
