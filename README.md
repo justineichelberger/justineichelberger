@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:25:12 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:43:18 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Clarksdale (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Lights in SkyDriving north on Highway 61 passing Clarksdale.  About 2 miles the town, the trees to my right cleared to open fields .  That is when I noticed bright light I thought it was a star or one of the planets. Well i kept on driving keeping a eye on it.  When it all of a sudden be came bigger and really bright.  Then another dimer light split away from it and became as bright as the first one was. It seem to fly towards me and the it was gone.  Two more split away from the original one headed north th other south. They stayed on that heading till the one going north disappeared I looked and one heading south when it zipped across the sky like a shooting star and made a complete stop. It was now where the one going north was, if I had blinked I would have missed it.  Then flew to the northwest till it was out of site. Now the orginal is still in same spot just hovering.  I had decided to pull over to watch, but before that happened I noticed three more lights in a trian! gle around the big one.  They small and very dimm . Soon they were a bright as the first one.  I pull over, on another road and got out of the truck.  Two of them where gone by the time I got out and the other was seem to fade away.  The original like still has not moved I got out camera and tried to take a photo.  I forgot to turn flash off so when took a pic the camera flashed.  That is when it dimmed  started moving to the north.  I got back in the truck and got back on the road light followed right besided me all the to Tunica.  During this more would appear fly towards me and back way.  Then in a snap they where all gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77329.html](http://www.nuforc.org/webreports/reports/077/S77329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Moline (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball in Moline, IllinoisMy husband and I were walking our quiet neighborhood on a clear night when we spotted an orange/red fireball hovering low in the sky.  Its distinct, glowing appearance seemed to be on fire and was so low in the sky that it would be nearly impossible to miss seeing because it was literally right in front of us.It was clearly visible in the western sky and seemed to heading right toward us moving at a slow speed.  No sound could be heard from this object and we quickly assumed it was not an airplane.  We only saw one object and it was so unusual to us that we stopped, frozen in our tracks, debating as to what kind of object it was, because neither of us had experienced anything like it before.This "fire in the sky" moved in an southerly direction and glowed for approximately one minute before fading away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83011.html](http://www.nuforc.org/webreports/reports/083/S83011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
