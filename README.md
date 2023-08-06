@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:05 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:25 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wanamingo (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Thunderstorm bright red orbIt wasn't completely dark when the other witness an I decided to go get groceries in zumbrota.  It haven't rained yet but there was talk of a pretty good sized storm on the way. In the north east there was a huge cloud build up you could see when it would lighting I did notice this very bright flashy red orange light that was very bright  in the sky not to high up or far away but no to strange because it was at a spot that I considered it to be a helicopter.  But as we got just about 2 miles from zumbrota it got brighter an the other person with me pointed it out an asked what it was.  I laughed saying oh it's going to disappear probably ball Ignoring telling them of what that was while we drove past a pretty good sized hill for a moment and when we could see that portion on the sky again it really was gone in 10 seconds this huge flickering red orange light disappears in thin air I still thing ball lighting but I read there's a lot strange things that are happening with these kinda of lights so I thought I'd share</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100871.html](http://www.nuforc.org/webreports/reports/100/S100871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Masaryktown (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rocket shaped object in green fireball slowly moving downward at a 90 degree angle.As I was on my cellphone, walking down my driveway facing southward,  I saw a green colored fireball-type object in the sky with what appeared to be a rocket-shaped center.  It appeared fairly close, headed straight downward 90 degree to the ground and then changed quickly to yellowish and then back to green before disappearing behind the treeline.  The person on the other end of my call said I was breaking up, and then the call was dropped.  No sound was present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82984.html](http://www.nuforc.org/webreports/reports/082/S82984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
