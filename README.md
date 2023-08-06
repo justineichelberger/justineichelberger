@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:25 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Masaryktown (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rocket shaped object in green fireball slowly moving downward at a 90 degree angle.As I was on my cellphone, walking down my driveway facing southward,  I saw a green colored fireball-type object in the sky with what appeared to be a rocket-shaped center.  It appeared fairly close, headed straight downward 90 degree to the ground and then changed quickly to yellowish and then back to green before disappearing behind the treeline.  The person on the other end of my call said I was breaking up, and then the call was dropped.  No sound was present.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/082/S82984.html](http://www.nuforc.org/webreports/reports/082/S82984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pennsboro (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>blueish light seen wabbleing through the sky over pennsboro wvStanding on my front porch looking to the left I saw a light in the sky that at first I thought was an airplane but I waited to hear noise and there was none.   As I saw the light wobbleing through the sky it got very bright almost blueish as I kept watching it it began to dim as it got farther away and then poof it vanished no longer in the sky anywhere it should of have still been visible it hadn't reached the tree line yet</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91515.html](http://www.nuforc.org/webreports/reports/091/S91515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
