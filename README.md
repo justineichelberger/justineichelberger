@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Witness is retired from a career as an inspector with a defense contractor, and is in the habit of paying close attention to detail.  I had just arrived to the front of my apartment from walking home with a friend from a late dinner.  As we stood talking, I faced south and he was looking opposite to the north.  A bright object caught my eye.  It looked like a bright star at first but then began to move toward us, slowly at first, but then becoming brighter and faster.  It then suddenly stopped!  It then slowly made a 90 degree turn to it's left, revealing a profile of an elongated cone-like structure with the smaller end appearing as the rear of the vehicle.  It appeared to have a shiney metallic looking surface.  After a second it began to shrink-- to actually minaturize before returning to a bright spot of light.  It then simply faded into nothing as it shot straight up.  It was then gone!  The whole affair took aprox. seven seconds.  As this was happening I tried to tell my friend to look up, but soon after I realized I was studder and stammering from the excitement.  As I was holding a brief case in one hand and a cane in the other, I could not even point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24316.html](http://www.nuforc.org/webreports/reports/024/S24316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped objecting flying away from us very slowly.  Strange blinking patterns and three points of triangle too far apart to be wings of a known aircraft.  Very strange.  First aircraft Ive ever seen that had no explanation as to what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100850.html](http://www.nuforc.org/webreports/reports/100/S100850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
