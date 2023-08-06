@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Newport Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Mysterious light moves vertically in the night sky seen from Newport Beach, CA.On the above date and time my wife and I were casually backyard stargazing, looking at Venus, which was getting low in the sky.  From our location, we can observe numerous aircraft constantly come and go in various approach patterns to both John Wayne airport and Long beach airport, and we are quite accustomed to seeing these.  All aircraft display navigation strobes and can be tracked on OpenADSB, which I use for fun. To the left of Venus we noticed an unidentified light in the sky approximately 5º above the horizon.  Neither of us had noticed the light just a few minutes earlier, and there was no additional detail that would suggest a distance from us.  The light was larger than any of the stars in the sky and indeed bigger than Venus itself.  It therefore appeared to have mass, and it was illuminated, alternating between red and green solid light - not strobes - with a period of approximately 1 second or less. The light was located in the direction of 240º from Corona Del Mar, CA. As we observed it, the light ascended vertically approximately three times the distance from the ocean from where we initially noticed it.  The ascension took approximately 1 to 1.5 seconds and was clearly not aeronautical in nature, as airplanes do not move vertically in such a near-instantaneous manner.  I called to my 15 year-old son to join us, which he did, and he began observing about 5 seconds after the initial, vertical move. Approximately 5 seconds later, while all three of us watched, the light descended again to its original location, and then, after a second or two, plunged out of site, presumably into the ocean. END OF REPORT</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164241.html](http://www.nuforc.org/webreports/reports/164/S164241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Watersmeet (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright light zig-zagging through sky.While camping in Michigan's western upper peninsula, approximately 10:00 p.m., CST, I was watching for Perseid meteors. I suddenly noticed a very bright light which I estimated to be in the -2 to -4 magnitude range, traveling in a SSW to NE direction through the constellation Ophiuchus. It moved in a zig-zagging, back and forth manner, at very high speed. At least 2 to 3 times the speed of satellites I had observed, and about 1/2 the speed of a meteor. Within 3 to 5 seconds, the object disappeared behind the trees. Altitude: Very high. Earth orbit, or near earth orbit. Size: Apparently very large. Possible dark or hollow center. Couldn't tell for sure. Also on the same night, I saw at least three bright flashes of light in differant locations, at differant times. These were very brief, lasting only 1/2 to 1 second each time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24321.html](http://www.nuforc.org/webreports/reports/024/S24321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
