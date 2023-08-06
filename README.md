@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:54 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sunset (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pill shaped rounded endsI live in the flight patterns of Hill AFB and SLC Intl Airport. I was sitting on my front patio looking at the flights heading for SLC when I saw an object flying north east towards the Wahsach mountains.  The I took a picture with my phone then got my binoculars and was able to see it appeared to be metallic (silver) shaped like a pill with a dark band around the forward end. I estimate the altitude at about 1500-2000 ft traveling at about 50-60 knots.  I thought it was a mylar balloon, if it was going with the wind I would expect it to tumble. This pill was flying straight and true. Unfortunately the phone pic a white blur.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158264.html](http://www.nuforc.org/webreports/reports/158/S158264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Witness is retired from a career as an inspector with a defense contractor, and is in the habit of paying close attention to detail.  I had just arrived to the front of my apartment from walking home with a friend from a late dinner.  As we stood talking, I faced south and he was looking opposite to the north.  A bright object caught my eye.  It looked like a bright star at first but then began to move toward us, slowly at first, but then becoming brighter and faster.  It then suddenly stopped!  It then slowly made a 90 degree turn to it's left, revealing a profile of an elongated cone-like structure with the smaller end appearing as the rear of the vehicle.  It appeared to have a shiney metallic looking surface.  After a second it began to shrink-- to actually minaturize before returning to a bright spot of light.  It then simply faded into nothing as it shot straight up.  It was then gone!  The whole affair took aprox. seven seconds.  As this was happening I tried to tell my friend to look up, but soon after I realized I was studder and stammering from the excitement.  As I was holding a brief case in one hand and a cane in the other, I could not even point.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24316.html](http://www.nuforc.org/webreports/reports/024/S24316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
