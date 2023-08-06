@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:20 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle shaped objecting flying away from us very slowly.  Strange blinking patterns and three points of triangle too far apart to be wings of a known aircraft.  Very strange.  First aircraft Ive ever seen that had no explanation as to what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100850.html](http://www.nuforc.org/webreports/reports/100/S100850.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw two black objects hovering over HoustonI was standing on the balcony outside my bedroom when I noticed two objects in the southwestern sky.  They looked very black to me.  One was circular and the other was an irregular shape which I thought at first was a hangglider or something.  But they were moving so slowly that I couldn't figure out what I was looking at.  The circular object was closer to me and both objects were slowly moving Southwest away from me.  Soon the irregular one was out of sight and I pulled my video camera out and taped the circular one until it disappeared into the clouds away from me.  Maybe it was a weather balloon, but I still can't figure out what that second object was.  Bizarre.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24249.html](http://www.nuforc.org/webreports/reports/024/S24249.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
