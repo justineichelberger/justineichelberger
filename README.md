@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:29 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellow slow flight pulsing bag object above 35000'Looked at moon with 10x minolta binocs. and noticed unusual object. Motion was from approx W to E. Elevation over 50k ft. ?? . Looked like yellow plastic bag at first. Had to lay on my back on the lounge to keep clear focus on object. The yellow thing was pulsating from round or full to narrow and skinny. This pulsing seemed to be moving it across the sky. A regular pulsing like breathing. Maybe one second intervals between fat to skinny.  Not visible at all to the naked eye. After it passed the moon I watched it till my eyes got tired and I wanted to see how far from the moon it had progressed. I found it once more with a bit of effort only to loose it for good. I wouldn't say it was any sort of space craft. It almost looked alive, or some sort of naurally powered thing. It may have been flying garbage. At the elevation I estimated, it could have been quite large. It seemed unusual enough I wanted to report it to see if anyone else has seen anything like it. ????????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13689.html](http://www.nuforc.org/webreports/reports/013/S13689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Oxford (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We saw a weird glowing light in the sky that appeared to be slowly moving and then hovering.  Object had red lights around it that blinked slowly. We watched object for aout 90 seconds before it disappeared.  Second object came over tree line, about 500 feet in the air and then hovered, red lights blinking.  We live near the airport so I called and I was the fourth person to report the activity. The second object hovered for about the same time as the first and then disappeared when two planes passed over head.  Planes were coming in to near by airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77029.html](http://www.nuforc.org/webreports/reports/077/S77029.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
