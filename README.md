@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Guthrie (OK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Large Green Sphere Planet or UFO above the Sun?? YOU DECIDE!!Large Green Sphere above the sun that looked like a planet split in two.  Seemed as if it was two half planets held together with gravity or possibly a ring field like Saturn's.  I took many photos once I saw object and later saw other smaller green spheres closer to ground level.  The previous afternoon I witnessed large triangle shapes flying over my house looked to be 5 or 6 of them.  These were almost completely invisible, but also have photos of this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120960.html](http://www.nuforc.org/webreports/reports/120/S120960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>very bright light increased in brightness then faded. there was no movement across horizon.Walking dog in thousand oaks a bright white light started to shine in the sky without movement became very bright then quickly faded away.  It appeared to be a light that was coming down into the atmosphere as it looked like it had a halo around it similar to when you shine a light in fog.  The key here is that it did not move across the horizon like a satellite it was a stationary light and it was very bright white.((NUFORC Note:  Iridium satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91526.html](http://www.nuforc.org/webreports/reports/091/S91526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
