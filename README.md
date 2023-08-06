@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:48 on 5 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:25:12 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object flying up and into the clouds before a storm.I watched a dark round object make it's way across the sky from the southeast to the northwest. It flew as if a helicopter would-maybe a little slower-and made no sound. This occured as storms were rolling in from several directions. It came into my vision lower in the sky and continued rising at a steady pace as it flew northwest and into a dark storm cloud. Strangely enough, I have witnessed the same event before-right before an intense thunderstorm. It was maybe a year or two ago about a mile away from this second sighting. It happened exactly the same way, about the same time of day, but flew from the southwest to the northeast disappearing into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58050.html](http://www.nuforc.org/webreports/reports/058/S58050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Clarksdale (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Lights in SkyDriving north on Highway 61 passing Clarksdale.  About 2 miles the town, the trees to my right cleared to open fields .  That is when I noticed bright light I thought it was a star or one of the planets. Well i kept on driving keeping a eye on it.  When it all of a sudden be came bigger and really bright.  Then another dimer light split away from it and became as bright as the first one was. It seem to fly towards me and the it was gone.  Two more split away from the original one headed north th other south. They stayed on that heading till the one going north disappeared I looked and one heading south when it zipped across the sky like a shooting star and made a complete stop. It was now where the one going north was, if I had blinked I would have missed it.  Then flew to the northwest till it was out of site. Now the orginal is still in same spot just hovering.  I had decided to pull over to watch, but before that happened I noticed three more lights in a trian! gle around the big one.  They small and very dimm . Soon they were a bright as the first one.  I pull over, on another road and got out of the truck.  Two of them where gone by the time I got out and the other was seem to fade away.  The original like still has not moved I got out camera and tried to take a photo.  I forgot to turn flash off so when took a pic the camera flashed.  That is when it dimmed  started moving to the north.  I got back in the truck and got back on the road light followed right besided me all the to Tunica.  During this more would appear fly towards me and back way.  Then in a snap they where all gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77329.html](http://www.nuforc.org/webreports/reports/077/S77329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164234.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164431.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164325.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164426.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164427.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
