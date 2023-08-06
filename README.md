@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:54 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arouca (Trinidad/Tobago) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>10 balls of fire floating slowly across the sky. soucouyant or ufo?Soucouyant or UFO..Around 1; 30am on the 6th August 2012 me and eight friends {young and old} were playing cards when we saw a ball of fire in the sky. It was about 200 – 400 feet in distance and about the same in height from where I was standing and it seem to flicker as a candle would.It wasn’t falling or going up in the air, it seemed to be floating across the sky very slowly and suddenly it began to drop and the fire started going out at the same time, then all we cud see is a white odd shaped thing floating to the ground behind some trees.It was too far for us to go see what it was. Before we could gather our thoughts as to what it was we just saw, another one came from the same direction at the same speed but landed in a different location. After that they kept coming one after another.We saw 10 of them pass us, all landing in different locations. I was facing east and it was moving in a north to south direction. A friend of mine saw it already, not too long ago. I know this because before the first one went out he said that it would. He said it was a Soucouyant{an old folk tale} but I beg to differ.I have no logical clue as to what it was but I know it was not normal. It didn’t make a sound and it was too close to mistake it for something normal.There are two videos we took of it with two different phones. Its dark but you can see the light {not professionally done obviously} I have no intentions of getting famous. I just want some sort of an idea to what it was or what it could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91532.html](http://www.nuforc.org/webreports/reports/091/S91532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sunset (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pill shaped rounded endsI live in the flight patterns of Hill AFB and SLC Intl Airport. I was sitting on my front patio looking at the flights heading for SLC when I saw an object flying north east towards the Wahsach mountains.  The I took a picture with my phone then got my binoculars and was able to see it appeared to be metallic (silver) shaped like a pill with a dark band around the forward end. I estimate the altitude at about 1500-2000 ft traveling at about 50-60 knots.  I thought it was a mylar balloon, if it was going with the wind I would expect it to tumble. This pill was flying straight and true. Unfortunately the phone pic a white blur.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158264.html](http://www.nuforc.org/webreports/reports/158/S158264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
