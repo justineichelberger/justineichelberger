@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:45 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 6 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Watersmeet (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright light zig-zagging through sky.While camping in Michigan's western upper peninsula, approximately 10:00 p.m., CST, I was watching for Perseid meteors. I suddenly noticed a very bright light which I estimated to be in the -2 to -4 magnitude range, traveling in a SSW to NE direction through the constellation Ophiuchus. It moved in a zig-zagging, back and forth manner, at very high speed. At least 2 to 3 times the speed of satellites I had observed, and about 1/2 the speed of a meteor. Within 3 to 5 seconds, the object disappeared behind the trees. Altitude: Very high. Earth orbit, or near earth orbit. Size: Apparently very large. Possible dark or hollow center. Couldn't tell for sure. Also on the same night, I saw at least three bright flashes of light in differant locations, at differant times. These were very brief, lasting only 1/2 to 1 second each time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24321.html](http://www.nuforc.org/webreports/reports/024/S24321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sedro Woolley (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw an object that was lit up as bright as a full moon all by itself in the sky.It appeared to be bending light.The object was brilliantly bright for 2 minutes then gradually dimmed its appeaerance,until finally it disappeared.The odd thing about it was as the sun was coming up I could see it was extremely overcast and cloudy.How can an object be so intensely bright through all these cloud formations?  I was standing on the outside of the Annex Post Office of Sedro Woolley on Eastern and State St., looking straight up at the horizon when I witnessed this encounter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38521.html](http://www.nuforc.org/webreports/reports/038/S38521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164241.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164524.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164251.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164253.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164315.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
