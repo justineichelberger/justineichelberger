@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:53 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:46 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange and grey pine cone shaped orb sighted while driving east in Boca Raton, Fl., between 8:15 and 8:30 PM.Was in my car driving East on Yamato Rd, had to stop for a light and saw something from side of my rt eye, looked up to see a bright orange colored light out my windshield.   Watched as long as I could but had to move on due to traffic flow at which time it passed my field of vision.  The light was steady burn, not pulse and was a deep orange at the bottom and a dark grey at the top, it was tilted with dark grey to the upper left and orange to the lower rt.  The orange was larger than the grey. It had a somewhat triangular shape but rounded at the corners, like a fat pine cone.  Was disapointed that I was not able to stop to watch but my passenger was afraid to stop and traffic was flowing.  The object was slowly traveling in a westerly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91640.html](http://www.nuforc.org/webreports/reports/091/S91640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sierra Nevada Mountains (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blight blue light in the Sierra NevadaBrother and I were night fishing at a lake high in the sierra nevada mountains this night when i glanced up to the trees. I saw what looked like a very bright blue star flying overhead. It had no flashing lights or visable shape. It was a very white blue color. It flew straight away from us and it took about 20 seconds till we couldnt see the light anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30699.html](http://www.nuforc.org/webreports/reports/030/S30699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
