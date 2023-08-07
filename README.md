@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:51 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw object in picture after viewing it on the computer.I just got a brand new camera - Nikon D70 with a 400mm lens - and started using it on the boardwalk of Brighton Beach in Brooklyn, N.Y. I was taking a lot of pictures of the sea, sand, sky, birds, and so on. After filling up the memory card with a lot of practice shots I took, I went home and transfered all my images. It then happened, where my dad and I notice a white speck at the upper right portion of a shot I took at a bird that was flying over the sea. I zoomed in on the image, and my hair on my body stood up. I don't know, but it seems to be something. I knew it can't be a bird because it was a shot that I took at distance, and a bird would not stand out that big from a long distance shot. I knew it couldn't be dust or something right in front of my camera, because the image is too far. The picture was during the day time, so I don't think it would have been a star or something. Later on during the day, I went to another venue to practice soccer. In this park, I sat on the bench with my dad, and we were talking about the clouds. It so happend to be, that we saw something white in the sky again. It was day time also. I didn't get a chance to take a picture of it, because clouds began to cover it up. I don't know what we saw, but it is very mysterious. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38522.html](http://www.nuforc.org/webreports/reports/038/S38522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Endicott (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>There were two (2) Hot Air Balloons and one (1) Unknown Object.Watching two (2) Hot-Air Balloons and one (1) Unknown  At 21:15PM on August 7th, 2003 I was watching two hot-air balloons, and deceided to get my camera. After taking 9 pictures with my Olympus Digital D-360L I went back inside to my computer. I downloaded the pictures to my computer, and was astonished on what I saw. In the 6th picture you see the two hot-air balloons. In the 7th picture you see two hot-air balloons and one Unknown object. Finally in the last two you notice it was never seen again. Was it the cloudy weather that was hiding it?? Looks similar to the one FOX Albany caught??((NUFORC Note:  Photo was forwarded to NUFORC, and we feel the witness describes the photo accurately.  However, we have no reason to believe that the object necessarily is a UFO.  It could have been, we believe, a bird or an insect, which caused the blurred streak across the photograph.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30574.html](http://www.nuforc.org/webreports/reports/030/S30574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
