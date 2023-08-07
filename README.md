@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:11 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:47 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Witnessed and bright white light floating along in the night sky, no noise at all.  Second sighting in a couple daysSo the other night I saw this exact same thing fly overhead while leaving to give a friend a ride home, and I saw it again tonight while out having a smoke.  Except it seemed to float more than fly...  I just saw it again tonight heading somewhat the same direction. NE, from Everett, WA.  It's super bright like a star almost, but it's moving.  I actually snapped a couple picts before it floated away.  The video I tried to take didn't come out. I'm not crazy and I witnessed an airplane a minute after seeing this.  Airplanes lights blink or are green and red, and they usually make noise and the plane was flying a lot faster not merely floating along.  This thing seemed weird and out of place, and I can't believe I saw it again tonight.  Wtf is goin on up there?  The pict of the light I took seems transparent almost.  Approx 1000 feet up.  Flew SW to NE towards Lake Stevens.  Orb of bright white light.  Clear night sky.  I have 3  picts I can text.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100901.html](http://www.nuforc.org/webreports/reports/100/S100901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Newberry Crater National Monument (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright light pretending to be a star in big dipperI was reading over some of the sightings and was stunned when i read the report from 4/10/08 (surprise). So I decided I should report an almost identical sighting that occured while I was camping in Oregon.I was visiting  a friend there that told me to stand in front of him and he pointed at the big dipper specifically the star in the upper left corner that begins the handle portion of the dipper. We were camping inside of a dormant volcano so  we were up high enough to have a panoramic view of the big dipper was lying just above the horizon with the handle portion on the left in the sky.  He was talking to me for a minute or so and suddenly  it was like a very bright star was superimposed over the star in the upper left corner of the cup portion of the big dipper. This light began to drift slowly through the big dipper and it crossed over the star in the bottom left of the cup portion.((NUFORC Note:  Source of report indicates that date of the event is approximate.  We believe that one would have to rule out the possibility of a satellite, possibly an Iridium satellite, before concluding that the object was a genuine UFO.  Just a guess.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63043.html](http://www.nuforc.org/webreports/reports/063/S63043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
