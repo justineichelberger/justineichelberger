@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:54:50 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:23:21 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Guam () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange orbs in GuamFor sure man Im going to post this on my FB maybe some other Guam peeps saw this and caught on Video Im sure&#65279; the airport traffic control and anderson saw it but you know how that goes.  Might get some hits man you never know maybe some other video for me it was by chance also those suckers were bright and yep I can say with conficence not of this world man.  It lasted about 15-min for me saw 2-sets of 6-orange orbs and one solo at the end that even stopped before it faded out.VIDEO:http://www.youtube.com/watch?v=UVVHQ6EzBGU&feature=share&list=FLHo_OzdzmyPhBWDLBOByFZA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97620.html](http://www.nuforc.org/webreports/reports/097/S97620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wauwatosa (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>Light in the Sky.I was on my way back to work tonight...about 9:45pm. I looked up to the sky heading briefly westbound and saw some strange lights in the sky. They were in a vertical circle in the sky..  If I were to guess I'd say about 12 to 16 of them.  Slightly Orange in hue.  No they could not have been stars.  They were definitely in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112296.html](http://www.nuforc.org/webreports/reports/112/S112296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
