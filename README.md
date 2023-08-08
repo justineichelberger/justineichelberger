@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:28:13 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:53:19 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Homer (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single light changing to multiple lights and backI stepped out the front door of the house at aprox. 11:40 PM.  The skies were cloudy and it was mostly dark.  I then noticed one single light in the sky.  At first it seemed very distant and I thought it was a star, planet or satellite.  Then it became brighter and seemed to be either over the bay or over the mountains on the other side of the bay.  Then the light seemed to pivot and become several lights right next to each other.  It could have been 4 or 5 lights.  My impression was that they were connected to a single oval shaped object but I can’t be sure.  Each white light was equally bright.  I did not get the impression it was moving in terms of distance but spinning or pivoting.  I wondered if it could be an airplane but it was staying in one place and did not seem to have the same light pattern as an airplane.  The light then seemed to pivot again and become the single light I originally saw.  The light then started to dim and continued to do so unti! l it disappeared from my sight.  The entire event lasted 30-40 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71575.html](http://www.nuforc.org/webreports/reports/071/S71575.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fire emitting rectangle shaped object traveling at high velocity, low attitude roocket blasting noise then vanished silent.Giant metallic rectangle shaped object seen at night spewing blue flames, traveling right to left northwest direction low altitude,2000-5000 feet, high velocity.  The flames illuminated the object, though seen during the evening. Rocket noise heard than it vanished silent into cloud cover.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22338.html](http://www.nuforc.org/webreports/reports/022/S22338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
