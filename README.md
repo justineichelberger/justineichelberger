@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:54 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:09 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar shaped object in skyHappened to be cooking outside on my deck. Was sitting back looking at the day sky and noticed a cigar shaped object floating through the sky from south to north.It was silver colored, no noise, just appeared to be floating through the sky.It was identical to a plane with out any wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38549.html](http://www.nuforc.org/webreports/reports/038/S38549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in East Fultonham (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>date: 08/08/2015 .  Time: Approximately 2100hours Witnessed by Three aduklts and three children.My wife and a daughter along with three grandchildren were swimming in our pool on Saturday night August 8th, 2015, at approximately 2100 hours.  I was coming outside to see how everyone was doing and was not in the swimming pool with everyone at that time.My youngest grand daughter who is five noticed what she saw was a shooting star, about that same time I noticed several reddish/orange balls of light.  At first there was only three which I thought were unusual and the I noticed three more just above tree level off at a distance.  It was hard to tell the distance since it was night and there were some clouds in the sky.I asked what everyone just saw and they said almost the same thing I had just witnessed myself, I went inside and retrieved a pair of binoculars and tried to get a better look at them and they were still fuzzy.  I tried my cell phone camera and it would not take a picture because it was to far away.The lights moved several times one in and out of the clouds and another made a drop and joined the other three lights above tree level after about two-three minutes two lights moved off into the distance and the other four lights left as well two of the appeared to vanish.  There are no military areas where we live however there are some strip mining areas in the area.  Some of the property is owed by AEP and was a wildlife area until it was closed off this past year and signs were placed to keep people out do to sinkholes in the area.The ages of all the witnesses are 60, 58, 31,13, 9, and 5.Myself, I am a retired male age 60 who has been trained over the past 42 years to observe the unusual after being in the Marine Corps and being an ex deputy sheriff as well as a private investigator and correctional officer and a contract security officer for homeland security.One thing I can add to this report is the way the lights in the sky acted.  They moved around like no aircraft or helicopter I have ever seen, and had a reddish/orange glow to them, which if checked with any federal regulations on aircraft lighting is highly improper.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121386.html](http://www.nuforc.org/webreports/reports/121/S121386.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
