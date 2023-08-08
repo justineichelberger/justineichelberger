@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:54 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:05 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : bright blue light going east to west went from horizon to horizon in less than 2 min at estimated alt of 35,000 feet indicating very great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02649.html](http://www.nuforc.org/webreports/reports/002/S02649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Runnemede (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Several lights attached N to S most seemed to be either 2,3 or 4 and changed in intensity, color and pulsation speed.  Were stationary then moved side to side then upward and further away.  Also saw 2 "shooting star" type sky crossings and several "aircraft" with red lights only.  Also observed a large plane with sound low flying may have circled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120978.html](http://www.nuforc.org/webreports/reports/120/S120978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
