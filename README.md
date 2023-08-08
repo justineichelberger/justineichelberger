@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:01:02 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.4833333333333334 - 1.4833333333333334 minutes.</sub><blockquote><sub>the stealth ufo using antigravitic technoligies  i was riding i a car going west on the interstate i eaghty going west bound thruogh nebraska near the usgs place in nebreska.  a plane that looked kind of like the steulth b-2 flew over head very slowly. i first saw it when i was riding down the interstate west bound on i 80 the driver pulled over on the interstate to the shoulder and stopped. i asked him why are you stopping because on can only stop on the freeway in an emergency .he said i am stopping because there is a ufo flying see it.  the stealth like ufo flew over real slowly as if it was anti gravitic and defieing gravity. it was as big or bigger the the wing span if a seven fifty seven airline.it was painted stealth grey and had white zenon visability lights on it it had eaghteen lights on it.((NUFORC Note:  We are unconvinced as to whether this is intended as a serious report.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74609.html](http://www.nuforc.org/webreports/reports/074/S74609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in The Dalles (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was watching a single light such as an airplane might do when it is coming at you, but it didn't move it just sat there, it was about a half mile away hovering above the Bonneville Power Substation. Then it started moving toward our house and it passed over moving very slow, slower than a small plane. It was triangle in shape with lights and it was without sound, it went right over the top of me. I watched it until it disappeared over the hill behind my house. The man from Kirkland, WA saw the same thing I did only I saw it years ago.I have seen about five sightings, each one different and they weren't balloons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33763.html](http://www.nuforc.org/webreports/reports/033/S33763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
