@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:52 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in The Dalles (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was watching a single light such as an airplane might do when it is coming at you, but it didn't move it just sat there, it was about a half mile away hovering above the Bonneville Power Substation. Then it started moving toward our house and it passed over moving very slow, slower than a small plane. It was triangle in shape with lights and it was without sound, it went right over the top of me. I watched it until it disappeared over the hill behind my house. The man from Kirkland, WA saw the same thing I did only I saw it years ago.I have seen about five sightings, each one different and they weren't balloons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33763.html](http://www.nuforc.org/webreports/reports/033/S33763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manado (Indonesia) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>very high white flying objectsMalalayang Satu, Malalayang, Kota Manado, Sulawesi UtaraOn the 8/9/17, at around 3pm, I saw in the sky a formation of 7 white flying objects, I called my wife and daughter and they could see the same things;  that were made up of one large white UFO, and 6 smaller UFO's, the largest appeared to be circular the other appeared to be more of a boomerang shape,  I first saw them at about the 1 o'clock position from where I was standing facing to the north, they were traveling slowly across the blue sky at a height of about 7 to 10,000 meters, as  they looked to be just lower than the cirrostratus but well above the cirrocumulus cloud that was in the same general location as the ufo's, the 5 smaller ufo's were being maneuvered similar to fighter jets during refueling from a tanker at high altitude, but none appeared to be in a tethered position and after a few minutes jockeyed around for a position to form a formation with the biggest ufo slightly in the lead, with 2 smaller ufo's taking a position to the port side the others to the starboard side of the large ufo, as they traveled west they traveled in a direct line except for some of the smaller ufo's that moved gradually closer then then slowly away from the larger ufo,  I could see this quite clearly for about 4 to 5 minutes but as they traveled away from me the smaller ufo's disappeared from vision by then the larger ufo was just a pinpoint in the sky the last position I could see the UFO was at the 11 o'clock position and still flying to the west.  I tried to take some photos, but my Olympus camera had flat batteries, and the phone camera couldn't focus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135614.html](http://www.nuforc.org/webreports/reports/135/S135614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
