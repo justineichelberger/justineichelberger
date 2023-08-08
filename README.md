@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 7 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:28:13 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Schererville (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Green orb-like fireball over Schererville, IN appearing twiceI’m from Schererville, Indiana.  On August 7, 2013 around 9:00 p.m., my friend and I saw a green orb-like fireball that was glowing and looked spherical. It headed east behind the trees.  It was very cloudy around this time of night and the object was clearly visible below the clouds.  The object appeared bigger than a star and did not look like any airplane, helicopter, or anything ordinary.  At first, we didn’t really think much of it and continued towards our friend’s house heading east.  Then, around 9:10 p.m., I happened to glance west to see the same green orb-like fireball motionless in the sky.  It slowly descended down by slightly swaying left once, then right once, then straight down.  We immediately tried to pursue the object on our skateboards, but did not see the object again for the rest of the night.  I spoke with Mr. Davenport later that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100908.html](http://www.nuforc.org/webreports/reports/100/S100908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Homer (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Single light changing to multiple lights and backI stepped out the front door of the house at aprox. 11:40 PM.  The skies were cloudy and it was mostly dark.  I then noticed one single light in the sky.  At first it seemed very distant and I thought it was a star, planet or satellite.  Then it became brighter and seemed to be either over the bay or over the mountains on the other side of the bay.  Then the light seemed to pivot and become several lights right next to each other.  It could have been 4 or 5 lights.  My impression was that they were connected to a single oval shaped object but I can’t be sure.  Each white light was equally bright.  I did not get the impression it was moving in terms of distance but spinning or pivoting.  I wondered if it could be an airplane but it was staying in one place and did not seem to have the same light pattern as an airplane.  The light then seemed to pivot again and become the single light I originally saw.  The light then started to dim and continued to do so unti! l it disappeared from my sight.  The entire event lasted 30-40 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71575.html](http://www.nuforc.org/webreports/reports/071/S71575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [402](http://www.nuforc.org/webreports/reports/164/S164352.html)
-- [401](http://www.nuforc.org/webreports/reports/164/S164302.html)
-- [400](http://www.nuforc.org/webreports/reports/164/S164260.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164255.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164300.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
