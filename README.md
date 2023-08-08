@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:54 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge leading edge of circular craft seen over Gig Harbor, WA.Unable to sleep, I went and sat outside on the deck where I have a view from Gig Harbor, WA, looking east to Tacoma, near the Narrows Bridge.The sky at 4:10 was uniform with a high overcast.  The color of the sky was deep grey,..no stars showing through.I noticed a faint lightening in an area high over the water,...so i was looking intently as a bright arc came through part of the overcast...stayed there for approx 20 seconds, then withdrew or went back in cloud cover.I watched again in the same exact spot (two trees framed the spot so i know it was exact same spot) when the same thing repeated.  The sky lightened, the arc appeared and was huge.  To extrapolate from the arc, the craft must have been enormous.The normal aircraft that we see here are less than pea-sized at arms length.  The craft this morning was from index finger to thumb fully extended at arm's length.The arc was uniformly bright and sharply defined.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120989.html](http://www.nuforc.org/webreports/reports/120/S120989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : bright blue light going east to west went from horizon to horizon in less than 2 min at estimated alt of 35,000 feet indicating very great speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02649.html](http://www.nuforc.org/webreports/reports/002/S02649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
