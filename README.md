@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:58 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:01:00 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 164</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164541.html](http://www.nuforc.org/webreports/reports/164/S164541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Carberry (south of) (Canada) (MB) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Many moving constallations  flash and disappear into the dark rift of milky way2 friends and i werefinnishing a walk through the desert in Spirit Sands near Carberry. One of us "knew" to look at the sky, and saw a light that appeared to track across the sky simmilar to a sattelite.  However, it was not moving at first.  After we paid attention to it, it began to shift.  First in a straight line, then beginning to slowly arc, gain speed, and then flashed and dissipeared into a dark spot in the sky. We speculated that it as the light of a sattelite solar pannel reflecting from the sun.  Dismissing its arc and suddden dissapearence untill a second (from a different part of the sky) began tracking to the same spot where the light had dissapeared.  Multiple other lights were seen behaving the same way eccelerating and dissapearing into the same dark spot in the sky.  It was at this moment we realized that the sark spot in the sky was the Dark Rift of the Milky Way.  the lights notibly the first one was "hiding inside a constilation" in the place of a star only it was a different radience than the others. this location is adjacent to Shilo, a military training area that was recently training soldiers abroad{example, hunderds of Germen troops} I find it not irregular to see lights in the sky especially outside the city's light pollution, however SENSING to look at one portion of the sky, get others attention and then after all people focus at this spot it began to MOVE.Our experince was unique but was also part of a UFO flap in the winnipeg area during the WEEK of reports Aug 8-15. I am NOT AFRAID and would only ask other people....ARE YOU NOT READY FOR SOME CHANGE?((NUFORC Note:  We are not aware of the UFO "flap" alludeded to, but will investigate the possible occurrence of several sightings in that province.  Chris Rutkowski, Canadian investigator, may know of it.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39121.html](http://www.nuforc.org/webreports/reports/039/S39121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
