@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:49 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:54 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disc shape 3 green lights with odd movement.It was dark disc shaped craft, had 3 green lights on the bottom, and one really big white glowing light on the back.  It moved away from me, towards me, and straight up into the sky, all within a matter of a minute.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135608.html](http://www.nuforc.org/webreports/reports/135/S135608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar shaped object in skyHappened to be cooking outside on my deck. Was sitting back looking at the day sky and noticed a cigar shaped object floating through the sky from south to north.It was silver colored, no noise, just appeared to be floating through the sky.It was identical to a plane with out any wings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38549.html](http://www.nuforc.org/webreports/reports/038/S38549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
