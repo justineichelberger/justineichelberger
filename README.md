@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:01 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:56 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Winslow sighting of two white oscilating lightsThis is the second report that I've filed in the last week.  This sighting matches the same sighting I have on Saturday the 6th of August. The first sighting took place around 11:00pm in central Maine in the town of Winslow with myself and one other witness.  The light was moving in various maneuvers and patterns from zig-zag, hard turning elliptical, too sharp left to rights, as well as up and down.  The light started off as a bright yellow orb and changed to white and blue.  The object was towards the western part of the sky to the left of the big dipper and was there when the two other witnesses decided to chase it.  The second object followed the same pattern as the first however it was towards the south southeast part of the sky (Right over China Lake from my vantage point)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83025.html](http://www.nuforc.org/webreports/reports/083/S83025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Belvidere (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object moving west to east very quickly, no noise, one steady light in front one flashing light at rear.Sitting on deck at home around 10pm. Sky was clear with many stars visible as well as the moon on the eastern horizon. Witnessed an object with 2 lights, one steady in the front, and one flashing in the rear about 25 feet apart. I could not make out any shape of the object. The lights were the same size and the same color, white. My guess is that the object was about 1/2 mile straight up but what was so odd was the rate of speed it was travelling and the fact that there was no noise. The object cleared the western horizon to a point on the eastern horizon where I could no longer see it in less than 30 seconds. I did not give this a whole lot of thought until the object reappeared from the western horizon at approximately 10:45pm. It was travelling about 10 degrees further north this time with the same trajectory and appearance, again crossing the space from horizon to horizon in less than 30 seconds. My daughter witnessed both passes with me and my wife witn! essed only the second pass.We are very accustomed to seeing many types of aircraft flying at various altitudes as we are within 10 miles of the Rockford airport as well as being on a heavily travelled flight path used by Ohare airport. Again, the flashing lights were not that odd but rather the speed and the fact that there was no noise at all. No chance that it was a satellite as the object was way too low. If I had to guess at a known aircraft I would have to say it most likely acted like a jet helicopter but I'm not sure if they can even fly that speed and then to do it silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71571.html](http://www.nuforc.org/webreports/reports/071/S71571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
