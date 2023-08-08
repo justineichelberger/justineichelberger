@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:01:05 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:58 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Runnemede (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Several lights attached N to S most seemed to be either 2,3 or 4 and changed in intensity, color and pulsation speed.  Were stationary then moved side to side then upward and further away.  Also saw 2 "shooting star" type sky crossings and several "aircraft" with red lights only.  Also observed a large plane with sound low flying may have circled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120978.html](http://www.nuforc.org/webreports/reports/120/S120978.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 164</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164541.html](http://www.nuforc.org/webreports/reports/164/S164541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
