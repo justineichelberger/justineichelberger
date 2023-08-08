@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:56 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Belvidere (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object moving west to east very quickly, no noise, one steady light in front one flashing light at rear.Sitting on deck at home around 10pm. Sky was clear with many stars visible as well as the moon on the eastern horizon. Witnessed an object with 2 lights, one steady in the front, and one flashing in the rear about 25 feet apart. I could not make out any shape of the object. The lights were the same size and the same color, white. My guess is that the object was about 1/2 mile straight up but what was so odd was the rate of speed it was travelling and the fact that there was no noise. The object cleared the western horizon to a point on the eastern horizon where I could no longer see it in less than 30 seconds. I did not give this a whole lot of thought until the object reappeared from the western horizon at approximately 10:45pm. It was travelling about 10 degrees further north this time with the same trajectory and appearance, again crossing the space from horizon to horizon in less than 30 seconds. My daughter witnessed both passes with me and my wife witn! essed only the second pass.We are very accustomed to seeing many types of aircraft flying at various altitudes as we are within 10 miles of the Rockford airport as well as being on a heavily travelled flight path used by Ohare airport. Again, the flashing lights were not that odd but rather the speed and the fact that there was no noise at all. No chance that it was a satellite as the object was way too low. If I had to guess at a known aircraft I would have to say it most likely acted like a jet helicopter but I'm not sure if they can even fly that speed and then to do it silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71571.html](http://www.nuforc.org/webreports/reports/071/S71571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Big Stone Gap (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multi-colored light moving sporadically across the sky.At around 23:15 on August 8th, 2016, I took my dog out before going to bed.  While standing in the yard, I happened to look up into the sky and saw what I thought to be an odd looking star.  About 15 seconds after looking at it, it began to move across the sky faster than an airplane would.  It started making all kinds of different moves in different directions at really fast speeds.  Then it would stop before cutting back in a different direction.It was white when I first saw it, but as it moved it began to change colors.  Not blinking... but more like shifting through many different colors.  I went back into my house to get my phone so I could video it, but it was too dark for anything to show up.  I sat and watched this thing for about 10 minutes while it made maneuvers all across the sky.  When it was over, it was just gone... like the light just cut off. ((NUFORC Note:  There had been an overflight of the ISS at 22:55 hrs., but it would have been in the extreme northern sky, and would have lasted for only 96 seconds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129056.html](http://www.nuforc.org/webreports/reports/129/S129056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
