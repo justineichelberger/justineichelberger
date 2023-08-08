@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:55 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Westerville (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>pulsing object seen extremely high in the noon sky...I observed an object extremely high in the sky that was not moving, seemingly, for several moments at a time.  When it did move, it only moved incrementally from left to right, or down.  The day of observation was unlimited visibility, with clear, blue sky and puffy white clouds. The object appeared to be the size of a star, tiny as in the eye of a needle.  It reflected the sun from time to time, and pulsed when it caught the sun's rays, then dimmed again.  his dimness or brightness may  have occurred when the object turned or rotated.  The object appeared about 60-70 degrees above the north's vertical horizon.  It was so distant that the shape of the object could not be determined...however, it was not a plane, and I base that conclusion on the fact that it appeared over a 20 minute time period to have moved only slightly right, left, or down.This is my first ever observation, I am 81 years of age, with three college degrees, including a Ph.D.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158361.html](http://www.nuforc.org/webreports/reports/158/S158361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Silent white-lighted oval orb followed at distace by smaller reddish object.International Space Station? with a smaller reddish object following at a space of about 15 times the length of the first, which appeared as a white lighted silent oval orb.  Impression was that the object following could have been towed by a cable from the first, as it did not deviate in distance or accuracy of tracking. The object moved from West to East. No flashing lights were detected as with aircraft. Confirm Peter Davenport's WA state sighting of same evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Object near ISS was Japanese re-supply ship, engaged in a rendezvous maneuver with the ISS.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100961.html](http://www.nuforc.org/webreports/reports/100/S100961.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
