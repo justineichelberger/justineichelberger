@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:48 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coventry (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two very bright lights in sky.On August 8, 2010, at 8:05 pm in South Coventry, CT, my eye was drawn to the western sky where I saw an object the size of a baby's fist with 2 very bright lights in the shape of  surfboards moving in a easterly direction at a modest air speed.   It was at about 25,000 feet.  I couldn't tell if the lights were internal or external.   Both lights were coming from the same object.  I am sure they were lights and not the setting sun's reflection.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77099.html](http://www.nuforc.org/webreports/reports/077/S77099.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gig Harbor (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge leading edge of circular craft seen over Gig Harbor, WA.Unable to sleep, I went and sat outside on the deck where I have a view from Gig Harbor, WA, looking east to Tacoma, near the Narrows Bridge.The sky at 4:10 was uniform with a high overcast.  The color of the sky was deep grey,..no stars showing through.I noticed a faint lightening in an area high over the water,...so i was looking intently as a bright arc came through part of the overcast...stayed there for approx 20 seconds, then withdrew or went back in cloud cover.I watched again in the same exact spot (two trees framed the spot so i know it was exact same spot) when the same thing repeated.  The sky lightened, the arc appeared and was huge.  To extrapolate from the arc, the craft must have been enormous.The normal aircraft that we see here are less than pea-sized at arms length.  The craft this morning was from index finger to thumb fully extended at arm's length.The arc was uniformly bright and sharply defined.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120989.html](http://www.nuforc.org/webreports/reports/120/S120989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
