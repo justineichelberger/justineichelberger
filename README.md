@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:48 on 8 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Big Stone Gap (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multi-colored light moving sporadically across the sky.At around 23:15 on August 8th, 2016, I took my dog out before going to bed.  While standing in the yard, I happened to look up into the sky and saw what I thought to be an odd looking star.  About 15 seconds after looking at it, it began to move across the sky faster than an airplane would.  It started making all kinds of different moves in different directions at really fast speeds.  Then it would stop before cutting back in a different direction.It was white when I first saw it, but as it moved it began to change colors.  Not blinking... but more like shifting through many different colors.  I went back into my house to get my phone so I could video it, but it was too dark for anything to show up.  I sat and watched this thing for about 10 minutes while it made maneuvers all across the sky.  When it was over, it was just gone... like the light just cut off. ((NUFORC Note:  There had been an overflight of the ISS at 22:55 hrs., but it would have been in the extreme northern sky, and would have lasted for only 96 seconds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129056.html](http://www.nuforc.org/webreports/reports/129/S129056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Coventry (CT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two very bright lights in sky.On August 8, 2010, at 8:05 pm in South Coventry, CT, my eye was drawn to the western sky where I saw an object the size of a baby's fist with 2 very bright lights in the shape of  surfboards moving in a easterly direction at a modest air speed.   It was at about 25,000 feet.  I couldn't tell if the lights were internal or external.   Both lights were coming from the same object.  I am sure they were lights and not the setting sun's reflection.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77099.html](http://www.nuforc.org/webreports/reports/077/S77099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [509](http://www.nuforc.org/webreports/reports/164/S164272.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164264.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164384.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164554.html)
-- [505](http://www.nuforc.org/webreports/reports/164/S164257.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
