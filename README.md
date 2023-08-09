@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:09:19 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:01:01 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Spectacular "rainbow" cloud in Kansas, too!This parallels the Tawakoni, TX account of 8/9/00 at 23:50. On my way back to work I saw an extraordinary high cirrus cloud formation. Slightly larger than the back of your hand held at arms length, the cloud had a gorgeous, irradescent rainbow effect over it's full length. Similar to "sun dogs" (which I've seen several times) this was much more spectacular. I only mention it after reading the similar account out of TX on about the same day and was curious that the distance between KS and TX would allow the same cloud phenominon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13789.html](http://www.nuforc.org/webreports/reports/013/S13789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Was outside trying to find Andromeda galaxy (M31) with binoculars... it's pretty easy to find... i spotted what i thought was a satellite on a polar orbit... so i followed it a little ways to directly above me... and  then it made a smooth turn and it disappeared.  That's all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112313.html](http://www.nuforc.org/webreports/reports/112/S112313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
