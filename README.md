@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:01:01 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:52 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Was outside trying to find Andromeda galaxy (M31) with binoculars... it's pretty easy to find... i spotted what i thought was a satellite on a polar orbit... so i followed it a little ways to directly above me... and  then it made a smooth turn and it disappeared.  That's all.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112313.html](http://www.nuforc.org/webreports/reports/112/S112313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Ventnor (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i was outside with my friend and his sister and over above us we saw a circle craft hove silenttly and the a sort of door open and lights about 3 they almost looked like search lights were on us and then it flew awayi was playing with my friend and his sister and we were playing with one of those industrial flash lights and then this craft appeared and started to hover silently and the a few seconds later a door oppened then lights 3 appeared and they were red,blue,and yellow then a few seconds later it flew away. the backrounds arent much because we are only children and i was scared and i wanted to report it and i couldent find anywhere until now but all of us have athma if the helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12165.html](http://www.nuforc.org/webreports/reports/012/S12165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
