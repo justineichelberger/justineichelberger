@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:53:51 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:22:14 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle hovering low next to highway near SeaTac airportI was driving southbound on I-5 a few miles south of SeaTac airport on Thursday night (Friday morning), around 12:45AM.  I travel this way several nights a week and always watch the air traffic around SeaTac and McChord Field.  Tonight, I saw an aircraft I first thought was an airliner on the SeaTac glideslope, but it was kind of odd.  It had one bright white light that strobed (like two blinks, pause, two blinks), a solid white light, and a fainter solid red light.  They didn't look particularly unusual for aircraft lights, just in a configuration I've never noticed before.  I can't even say that description of the lights is completely accurate - I was driving, and assuming it was just an airplane, not paying that close attention - but something along those lines.After a few minutes, I realized it wasn't an airliner, it was hovering at a few hundred feet just west of the highway.  I assumed it was a helicopter.  I glanced up at it as I passed, and nope, it was a perfect dark grey or black triangle, with the lights at the tips.  I'd say it was hovering at maybe 200-300ft and maybe about 40ft on a side, and I didn't notice any noise.I wasn't able to stop or go back, but I watched it in my rear-view mirror and it didn't seem to move much, if at all.  I drove around a bend out of sight after maybe half a minute.Even at 00:45, I-5 close to SeaTac is a fairly busy highway.  There should be plenty of other witnesses, if anyone bothered to look up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148166.html](http://www.nuforc.org/webreports/reports/148/S148166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston County (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two large gold low flying sphere's move slowly, silently, across the horizon.About 9:50 P.M. 08/09/00 myself and two friends observed two sphere shaped lights, moving slowly away and to the right of our position. The lights were the color of fire, very bright, and appeared to be quite large. They looked very similar to military flares, however, they maintained their altitude, and were moving in a horizontal motion, going out of sight behind a distant treeline. Our location was on a hill, 20 to 30 miles from Ft. Cambell Army Base. The lights were low on the horizon, very close together, with one slightly higher and to the rear of the leading one. No sound was heard. The distance, we estimated at two to three miles, the altitude, around 2500 ft. The lights were large enough to be very obvious should anyone in the area happened to have looked up. They were the first thing I noticed, when we walked outside. My friends and I are middleaged management/professionals with no desire for notoriety. This was the second sighting for each of us, of something seen in the sky that we could'nt fully explain. Please understand our wish to remain anonymous.((NUFORC Note:  This report is from an anonymous source.  We would like to communicate with the witnesses in order to get more information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13735.html](http://www.nuforc.org/webreports/reports/013/S13735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
