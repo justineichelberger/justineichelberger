@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:22:14 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:54 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Houston County (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two large gold low flying sphere's move slowly, silently, across the horizon.About 9:50 P.M. 08/09/00 myself and two friends observed two sphere shaped lights, moving slowly away and to the right of our position. The lights were the color of fire, very bright, and appeared to be quite large. They looked very similar to military flares, however, they maintained their altitude, and were moving in a horizontal motion, going out of sight behind a distant treeline. Our location was on a hill, 20 to 30 miles from Ft. Cambell Army Base. The lights were low on the horizon, very close together, with one slightly higher and to the rear of the leading one. No sound was heard. The distance, we estimated at two to three miles, the altitude, around 2500 ft. The lights were large enough to be very obvious should anyone in the area happened to have looked up. They were the first thing I noticed, when we walked outside. My friends and I are middleaged management/professionals with no desire for notoriety. This was the second sighting for each of us, of something seen in the sky that we could'nt fully explain. Please understand our wish to remain anonymous.((NUFORC Note:  This report is from an anonymous source.  We would like to communicate with the witnesses in order to get more information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13735.html](http://www.nuforc.org/webreports/reports/013/S13735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Centerville (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular UFO following a red light.Clear night with some clouds.  While walking the dog a triangular UFO passed over with another red light in front of it, about 100 feet in front.  The UFO had 4 small light in the front, with one white light on the other tips.  This passed low and made two circle passes. The second pass the UFO was much higher in the sky.  The sound was low, unlike any air craft we had heard before.  On the first pass, the UFO emitted two white objects into the sky.  The objects stayed in the sky for several minutes.((ADDENDUM TO ORIGINAL REPORT))This is a correction of date from an earlier report.  The triangular ufo had white lights on the two ends and four to three red lights on the front corner. It was following a red light.  It released two white lights in the sky.  This ufo passed by twice while going in a circular flight.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100976.html](http://www.nuforc.org/webreports/reports/100/S100976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
