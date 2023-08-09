@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:54 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:55 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Myself and a friend's sister were standing on a rear balcony at 18th and Franklin St. (SE corner, alley) when we both seemed to "sense" something.  We looked up at the same time an observed a very large triangular craft or object moving slowly from north to south.  The underside looked grey and the triangle tips were drakly colored.  It had no lights or markings and made no sounds. It seemed to be cruising very low, perhaps only a few hundred feet above us.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48462.html](http://www.nuforc.org/webreports/reports/048/S48462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular UFO with maroon lights over Everett WashingtonI was outside with cousins when the oldest one pointed out a UFO straight up in the sky. It was a clear starry sky.  It seem really high up in the sky, if one was to hold up a quarter an arms length might have been even smaller say a nickel.  It was not round but rather an equilateral triangle.  There was a maroon light (the size of an average star) on each corner and one in between the corners (on two sides).   I feel like one side didn’t have a red light in the middle but there could have been.  The brightness of the maroon lights didn’t stand out too much from the stars probably same intensity only maroon colored. Its location was fixed in one spot (for 15 min).  The only movement it made was the rotation.  It was rotating clockwise very slowly at a constant speed, maybe one revolution per minute.  There was no sound coming from it.  We looked at it for about 10-15 minutes and then went inside to tell the adults but no one paid any attention to us.  We didn’t! go back outside.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/097/S97208.html](http://www.nuforc.org/webreports/reports/097/S97208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
