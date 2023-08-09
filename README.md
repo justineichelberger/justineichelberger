@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:55 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:55 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>More Orange orbs in the night sky in ChicagoAugust 9, 2014,  02:30 CST In Chicago, IL over southern Lake Michigan one other witness and I saw a ball of non-consuming flame out over the lake under what we could only describe as controlled flight. It manoeuvered like nothing we'd seen before, hugging the horizon headed north until it stopped, apparently turned, and flew straight up what must have been at least 2000 feet. Then it stopped again and appeared to dance around in the sky, just like those chinese lanterns.. . . .  . but Chinese lanterns don't suddenly turn into a rotating trianglular formation.  The one object suddenly split into three and the new triangle of objects slowly spun around a share axis and recombined into one again. That was a fancy lantern!  Then it flew toward us at moderate speed straight overhead, and looked to the other witness like a "burning butterfly" in a "non-consuming flame."  I admit I didn't see it so closely as to cite any "flapping," to me it appeared to billow, and puff like something fully engulfed in flame.  I lost track of the object for a moment while moving to another room, trying to get a better view, but when I regained the object directly overhead, it was hurtling skyward at unbelievable speed..like I've never seen.  Even in movies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112611.html](http://www.nuforc.org/webreports/reports/112/S112611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chateauguay (Canada) (QC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>cicular white object gradually disappearing to a point.Single object was circular in shape, white color with dark circular center with alternating white/dark color bands radiating outwards from the center and the object did not seem to be rotating.  The object was observed in the morning sky (at 3:30 am) slightly west of Alpheratz in the Pegasus constellation and north of the Pisces constellation.  Observer was looking east, object seen directly overhead.  Cloud cover none and no moon were observed.  Object observed for approximately 30 seconds, at which point it gradually disappeared to a point, without moving in any direction, and was no longer visible.  Observer's impression at first was that it was a super nova or explosion in space but the effects would last longer than the specified time; alternately the observer hypothesised that the object seemed to disappear as if it had entered some type of interstellar drive.  The observer is male, married, 56 years of age, designer, science fiction enthusiast.  The observer's residence is located beneath certain flight paths for the Pierrre Elliot Trudeau Internation Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112645.html](http://www.nuforc.org/webreports/reports/112/S112645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
