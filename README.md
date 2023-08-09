@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Shakopee (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Circle of lights in Minnesota is Mystic Lake casinoThe circle of lights seen in the SW suburbs of Minneapolis/St. Paul is from the Mystic Lake casino south of Shakopee, Minnesota. Google Image searches will show the "teepee"' formation of spotlights outside this American Indian establishment.  The beams cross each other and then disappear from view, but if cloud conditions are just right you'll see a "spot" above each beam (yet the beam itself doesn't have a searchlight appearance).  As clouds drift and change density, the lights appear and disappear.  It's an eerie effect, and you wouldn't believe it's originating from the ground unless you see its source on the casino grounds.((NUFORC Note:  Suspected advertising lights at a local casino.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121303.html](http://www.nuforc.org/webreports/reports/121/S121303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Calpe (Spain) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>It was a silver ball in the sky, moving roughly the speed of a plane, towards the left.  It was above the Rock of Calpe.  I tried to point it out to my sister, but by the time I got her attention, it had disappeared. The ball just faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129058.html](http://www.nuforc.org/webreports/reports/129/S129058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
