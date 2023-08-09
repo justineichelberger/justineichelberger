@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:01:03 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:46 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tiskilwa (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Dark triangle with lights seen at low altitudeOn August 9, 2007 at about 11 PM, while standing outside facing south and looking up at the sky, I heard a loud roar over my right shoulder and turned to look.  Out of nowhere, a triangle shaped object appeared at close range and at the same time, the roar stopped.  The object was completely silent and maintained an altitude of less than 100 feet for the duration of the sighting.  The object’s shape was in a triangle and was solid, as it had an outline and blocked out the stars behind it.  It was very dark, with each point of the triangle having a rather dim white light, and in the center was a blinking red light. These lights turned off for a period of perhaps one-half minute, just after I moved my position to be directly under the object. The size of the object seemed to be about 25 to 30 feet long from the front point to the back, and the dimension across the back, as seen later, seemed to be somewhat shorter.  It traveled very slowly (a human could have out! run it) on a level horizontal altitude toward the south/southwest, over pastures, a road and then a bean-field, for about one-half mile before I lost sight of it.  As it passed over the bean-field, I noted that the back end of the triangle seemed to be less than 10 feet high, and completely but dimly lit with white light.  A few times, the land below and to its left glowed with a soft white diffused light.  The sky just above the illuminated land was lighter than the sky above the object, but only up to the height of the object.  My view was unobstructed during its path except for a few moments when 2 or 3 trees got in the way.  The sky was dark with no clouds and airplanes (with running lights on) could be easily seen flying at high altitudes.  There were no planes at low altitudes.  Duration of sighting may have been about 3 to 4 minutes, hard to tell, as I was rather stunned to see such a thing.  I did not think it was an airplane, glider, helicopter or any other object I had ! ever seen before. I am a retired attorney living in the country.  There were no other witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77798.html](http://www.nuforc.org/webreports/reports/077/S77798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Wildwood Crest (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright UFO in the South sky.Sighting whilst driving southbound on the Garden State Parkway.((NUFORC Note:  Minimum of information from witness.  Possible sighting of Mars?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142642.html](http://www.nuforc.org/webreports/reports/142/S142642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
