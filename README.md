@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:14 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A Thin Slice of Black over the Las Vegas mountain rangeI was traveling North on route I-15 heading to the Grand Canyon. 20 miles outside of Las Vegas there is a large mountain range on the right hand side of the road about 2-3 miles away.  To my surprise I saw a floating black object which seemed to be staying in the same position a little to the left of the mountain range as I was driving by.  The best I can describe the shape is like a thin slice of black, I may have been to far away to get the full definition of the craft. But it hung in the same spot for at least 5-8 minutes, had me staring the entire time till it started moving slowly towards Las Vegas strip and disappeared behind the mountain range. It was rather strange, I've never seen anything like that. I have been to many airshows and I don,'t really know to many aircraft that can stay in the same place unless it was a helicopter from really far away, but after review, I ruled that out judging from Its shape. It was like black plate that appeared statio! nary for about 5-8 mins, then slowly moved behind the range and out of my sight. I have never seen something like this I couldn't explain</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77114.html](http://www.nuforc.org/webreports/reports/077/S77114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pine Hill (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light hovers, then just vanishes.About 10 PM on Aug. 9, 2012, my fiancé and I were outside on the front deck having a cigarette. I noticed a bright white light in the sky over some trees across the street. I didn’t think much of it because we have a lot of air traffic over our area all the time. I thought it was just a plane coming toward us. We continued talking.  Then he saw it and stopped talking. I turned to look again where he was looking and realized that it had not moved any since I first saw it.  We started discussing what it could be.  We still thought it may be a plane far away coming toward us.  About a minute later, the bright light drifted slightly up and right, got a dimmer pinkish color then vanished.  We never heard anything.  We see what we assume are satellites frequently, it wasn’t that.  We’re outside a lot and always looking up. We’ve seen a lot going on up there (even called the police once). I’m tired of keeping it to ourselves out of fear that non-believers will think we’r! e crazy. Someone else is seeing what we are, and maybe this will be the place to finally get the validation we’re looking for. Thanks for listening (reading).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91664.html](http://www.nuforc.org/webreports/reports/091/S91664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
