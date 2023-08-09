@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:54 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Ventnor (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i was outside with my friend and his sister and over above us we saw a circle craft hove silenttly and the a sort of door open and lights about 3 they almost looked like search lights were on us and then it flew awayi was playing with my friend and his sister and we were playing with one of those industrial flash lights and then this craft appeared and started to hover silently and the a few seconds later a door oppened then lights 3 appeared and they were red,blue,and yellow then a few seconds later it flew away. the backrounds arent much because we are only children and i was scared and i wanted to report it and i couldent find anywhere until now but all of us have athma if the helps.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12165.html](http://www.nuforc.org/webreports/reports/012/S12165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Myself and a friend's sister were standing on a rear balcony at 18th and Franklin St. (SE corner, alley) when we both seemed to "sense" something.  We looked up at the same time an observed a very large triangular craft or object moving slowly from north to south.  The underside looked grey and the triangle tips were drakly colored.  It had no lights or markings and made no sounds. It seemed to be cruising very low, perhaps only a few hundred feet above us.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48462.html](http://www.nuforc.org/webreports/reports/048/S48462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
