@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:44 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:52 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pine Hill (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light hovers, then just vanishes.About 10 PM on Aug. 9, 2012, my fiancé and I were outside on the front deck having a cigarette. I noticed a bright white light in the sky over some trees across the street. I didn’t think much of it because we have a lot of air traffic over our area all the time. I thought it was just a plane coming toward us. We continued talking.  Then he saw it and stopped talking. I turned to look again where he was looking and realized that it had not moved any since I first saw it.  We started discussing what it could be.  We still thought it may be a plane far away coming toward us.  About a minute later, the bright light drifted slightly up and right, got a dimmer pinkish color then vanished.  We never heard anything.  We see what we assume are satellites frequently, it wasn’t that.  We’re outside a lot and always looking up. We’ve seen a lot going on up there (even called the police once). I’m tired of keeping it to ourselves out of fear that non-believers will think we’r! e crazy. Someone else is seeing what we are, and maybe this will be the place to finally get the validation we’re looking for. Thanks for listening (reading).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91664.html](http://www.nuforc.org/webreports/reports/091/S91664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dunnsville (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright orange fireballs came from the tree line flying low then veered off to the left and then quickly ascended until it disappeared.On Saturday, August 9, 2014, at 11:15 pm, a bright orange fireball came from the tree line and came towards us flying (south) slowly and low just above tree and roof tops when it veered to the left (east) and getting lighter in color as it then quickly ascended away from the earth until it disappeared.  Seconds later a second bright orange fireball appeared and traveled in the same pattern.  There were no aircraft in the vicinity.  The fireballs were silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112445.html](http://www.nuforc.org/webreports/reports/112/S112445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
