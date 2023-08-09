@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:56 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:46 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 bright flashes in the sky.My two brothers and I where headed east on east main st. We saw 2 flashes that lit up the sky there was no sound. They seemed to come from the south. So we turned down Yearling rd. to Livingston, where there was a abandoned car.There where 5 or 6 people around the car. We stoped to asked what hapened. but no body really knew what was going on. We asked about the lights and they said they saw it also but didn't know what it was. It was like a very bright camera flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15437.html](http://www.nuforc.org/webreports/reports/015/S15437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pawleys Island (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Red flare-like object appeared 15-30 degrees above horizon.  The object proceeded towards the horizon line at an extremely high speed.  As it became closer to the horizon it turned from red to green.  It disappeared about 5 degrees above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129060.html](http://www.nuforc.org/webreports/reports/129/S129060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
