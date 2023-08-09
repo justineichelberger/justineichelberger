@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:56 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 9 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Waterford (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in the hottub with my mom looking at the stars when we saw the lights in the triangle shape glide across the sky then hover up.Me and my Mom were relaxing in the hottub Looking up at the sky hoping to see a shooting star. There were alot of Tall trees to the left of us, and from over the trees we saw one bright light, at first my mom thought it was a satelite until two more bright lights followed behind it making a triangle shape. Me and my mom could clearly see the shape of a triangle in the sky, the triangle was darker than the sky and you could see the sky behind it. The triangle had three bright lights on each corner of it. The Triangle slowly cruised over the night sky without a sound, then the triangle stopped and proceeded to hover up into the sky until it was out of view. From the time me and my mom saw the triangle until it was out of view was about 2 minutes. It was an experience I will never forget.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158362.html](http://www.nuforc.org/webreports/reports/158/S158362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright light over eastern sky of toronto,first moved towards us a little,then at an incredible speed disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51599.html](http://www.nuforc.org/webreports/reports/051/S51599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/164/S164540.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164271.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164273.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164275.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164268.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
