@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:48 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Northampton (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>08/10/10.  Approximately 10 PM, two white lights in formation seen moving very quickly across sky in direct northerly direction.On August 10, 2010, at approximately 10:00 PM, I went into my backyard to look up at the stars in hopes of seeing some "shooting stars."  I wasn’t disappointed, and in the course of about 20 minutes or so I saw 5 or 6.  I have often witnessed satellites smoothly moving across the night skies, looking like the stars, but just moving quietly, quickly and smoothly.  Tonight, though, I witnessed two very distinct but small white lights moving across the sky from south to north, straight across the sky, more quickly than I’ve seen anything, other than the "shooting stars," but nearly at that speed.  They moved in a completely straight line, in a directly northerly direction.  They were next to each other, but in a formation where one was slightly in front of the other.  That’s it.  Nothing other than that, but definitely not aircraft, satellites, meteorites or space junk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77115.html](http://www.nuforc.org/webreports/reports/077/S77115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehighton (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fireballs aproxemently 2 dozen go by us for about 20 minsMe and my wife just walked outside our house when I happened to lookin the sky and see these fireballs.  2 at a time would go by us and they just disappear.  You could see in the distance maybe a mile away they appear and like float by us.  They were orange-red cycles not moveing that fast.  They were able cloud level.  They would go by us and disappear.  It went on for about 20 mins.  There was problem at least 2 dozen of them.  They also were in a straight line moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101007.html](http://www.nuforc.org/webreports/reports/101/S101007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
