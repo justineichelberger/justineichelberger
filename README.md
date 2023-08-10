@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:01:01 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:54 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Big Pine (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 01:30 - 01:30 minutes.</sub><blockquote><sub>Mysterious lights in the Owens Valley CaliforniaWe were camped on a small island made by a stream that split and came back together before emptying into the Owens River. It was about one in the morning and the campfire was beginning to wane. One of us, I don't remember who, got up to relieve himself. Following the rules we learned in the Boyscouts, our "head" was off the island and 100 feet away from the water. It was in a field of large volcanic rocks and sage brush. My friend, not familiar with the Owens Valley, called to us and asked why there were searchlights flashing in the distance. We had no idea what he was talking about so we joined him in the rock field. We saw what was definately beams of artificial light being shined in many directions at once much like a disco ball. The spots of light hit the steep slopes of the Eastern Sierra on our side of the valley and on the White/Inyo Mountains across the valley. We couldn't see the source of the lights because Crater Mountain was directly between our campsite and the light source. Crater Mountain was four miles south of our location, approximately. Whatever the lights were, they were over four miles away and powerful enough to illuminate both sides of the valley. We joked that it was a secret "Rave". Others kidded about it being the advanced landing party of the ID4 aliens. In truth, none of us could explain the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17782.html](http://www.nuforc.org/webreports/reports/017/S17782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Pedro/Long Beach (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately HOURS - HOURS minutes.</sub><blockquote><sub>EXPLANATION FOR A SIGHTING OR TWOTHIS IS TO POSSIBLY EXPLAIN SOME OF THE SIGHTINGS AROUND THE FIRST COUPLE  WEEKS OF AUGUST. AFTER A WEDDING SOMEONE WE KNOW OF UTILIZED THE EXTRA BALLOONS AND HELIUM AND A COLORED LIGHT STICK ON A COUPLE OF EVENINGS. THEY TIED ABOUT 10-15 BALLOONS TOGETHER AND FULL. THEN TIED THE LIGHT STICK ON BROKE THE SEAL TO ILLUMINATE IT AT ITS MAXIMUM. THEN LET THEM GO. THE LIGHTS WERE COLORS OF ORANGE, YELLOW, BLUE, RED AND YELLOW.  THE BALLOONS WOULD MOVE ERRATICALLY ONCE THEY HIT THE CURRENTS OF  WIND UP SO HIGH. WE WATCHED AND WONDERED IF ANY PERSON MAY HAVE THOGUHT IT WAS A UFO. THIS WAS DONE TO ENTERTAIN A BUNCH OF PARTY GOING PEOPLE.HOPE THIS HELPS SOLVE SOME OF THOSE EERIE SIGHTINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25305.html](http://www.nuforc.org/webreports/reports/025/S25305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
