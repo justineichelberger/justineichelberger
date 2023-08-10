@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:01 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:51 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We saw a soundless, dimly-lit, fast gliding craft at midnight that was unlike any aircraft known.We were doing some backyard star gazing on a clear, moonless night when something caught our eye in the southern sky. It was on a trajectory course heading northeast and it moved unlike any other aircraft we've ever seen -- and we come from a family of aviators. It was low-flying, like a small plane (maybe 8000 feet), only faster, and completely soundless. It was dark, and had no lights on. The only way we happened to see it was due to 3 dim lights grouped together underneath the craft which were barely illuminated. It moved from one end of the horizon to the other very quickly, and we were stunned by what we had seen, as we do not know of any aircraft that could fly so low, have no lights on, and remain soundless. Definitely not a winged aircraft, either.((FOLLOW-UP COMMUNICATION FROM WITNESS))Aack! Please revise the date on my report from a minute ago. It was the 10th, not the 17th (obviously).((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24408.html](http://www.nuforc.org/webreports/reports/024/S24408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cowessess (Canada) (SK) reported seeing craft that fit the description of some 'Light' over a period of approximately Ongoing right now - Ongoing right now minutes.</sub><blockquote><sub>This area is a hotspot for unknown lights in the sky.  Everyone here does not pay attention, but some of us who do see lights in the same area and surrounding area alot.  Too far to see anything other then lights flashing green, blue, white, red.  Moves easily up down left and right in patterns.  Almost like trying to catch itself from falling or losing control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148200.html](http://www.nuforc.org/webreports/reports/148/S148200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
