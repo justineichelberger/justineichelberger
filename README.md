@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:54 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:09 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Pedro/Long Beach (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately HOURS - HOURS minutes.</sub><blockquote><sub>EXPLANATION FOR A SIGHTING OR TWOTHIS IS TO POSSIBLY EXPLAIN SOME OF THE SIGHTINGS AROUND THE FIRST COUPLE  WEEKS OF AUGUST. AFTER A WEDDING SOMEONE WE KNOW OF UTILIZED THE EXTRA BALLOONS AND HELIUM AND A COLORED LIGHT STICK ON A COUPLE OF EVENINGS. THEY TIED ABOUT 10-15 BALLOONS TOGETHER AND FULL. THEN TIED THE LIGHT STICK ON BROKE THE SEAL TO ILLUMINATE IT AT ITS MAXIMUM. THEN LET THEM GO. THE LIGHTS WERE COLORS OF ORANGE, YELLOW, BLUE, RED AND YELLOW.  THE BALLOONS WOULD MOVE ERRATICALLY ONCE THEY HIT THE CURRENTS OF  WIND UP SO HIGH. WE WATCHED AND WONDERED IF ANY PERSON MAY HAVE THOGUHT IT WAS A UFO. THIS WAS DONE TO ENTERTAIN A BUNCH OF PARTY GOING PEOPLE.HOPE THIS HELPS SOLVE SOME OF THOSE EERIE SIGHTINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25305.html](http://www.nuforc.org/webreports/reports/025/S25305.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in West. Simsbury (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>small blimpish looking spacecraft that was silverish/metalish in color that wasent moving  and disappered  once i looked back up at skyI was outside with some friends at around 5:00 at night during the summer.  It was a cloudless, blue, sunny, day and while I was walking with my friends I looked up at the sky and I noticed this thing in the sky that kindof looked like a blimp, but was way to high up,(about the same hight as a plane would be) and was completley silverish/metalish, and was also very small and not moving at all, it seemed as if it were suspended in the air. Well I was looking at this and while I was looking a friend asked me if we should go to eat now and i looked down at him and said "yeah" and when I looked back up it was gone and I looked all over the sky for it!  Now as I said before it was a cloudless day so if it was a regular plane, blimp, etc I would of been able to see it once I looked back up, and also I took my eyes away from the aircraft for about three seconds to answer my friends question.  To this day I still dont know what it was and I have never seen or heard of anything similiar to it yet((NUFORC Note:  Date is approximate.  Dramatic UFO event reported from same town on Friday, November 17, 1995.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23712.html](http://www.nuforc.org/webreports/reports/023/S23712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
