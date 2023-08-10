@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:00 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I HAVE NEVER REPORTED THIS BEFORE NOW, BECAUSE THE FEW CLOSE FRIENDS THAT I TOLD ABOUT THIS GAVE ME THIS STRANGE LOOK.  YOU MUST BE CRAZY, OR WHAT WERE YOU DRINKING. WELL, HERE GOES!  MY GIRLFRIEND AND MYSELF WERE LEAVING MY PARENTS HOUSE AND TAKING THE BACK ROADS TO HER COMMUNITY TO GO CHURCH. APPROXIMATELY 2 MILES DOWN WOODRUFF RD.FROM I-85 HEADED TOWARD MAULDIN, S. C., WE SPOTTED A LINE OF CARS PARKED ON THE SIDE OF THE ROAD, IN THE MIDDLE OF NOWHERE.  THERE WAS NOTHING THERE BUT OPEN FIELDS. EVERYONE WAS OUT OF THEIR CARS AND LOOKING UP TOWARDS THE LEFT HAND SIDE OF THE ROAD. WE GOT OUT AND LOOK UP IN THE SAME DIRECTION AND WHAT A SIGHT TO BEHOLD.  HOVERING OVER THIS FIELD WAS A HUGE RECTANGULAR OBJECT APPROX. 300-500 FT. IN THE AIR APPROX. 2500-3000 FT. LONG.  ALL YOU COULD HEAR WAS A SLIGHT HUMMING SOUND.  THEN OUT OF NOWHERE TWO SMALLER VERSIONS APPEARED, ONE ON EACH SIDE. ALL THREE OBLECTS WERE PERFECT RECTANGULAR SHAPED.  THEY ALL HAD A CONTINUOUS STREAM OF RED AND WHITE LIGHTS GOING AROUND THEM AND TO BE HONEST WITH THE TOP OF EACH LOOKED LIKE A BATTLESHIP OF OUR NAVY. WHEN THEY LEFT, IT WAS ALMOST INSTANTANEOUS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16328.html](http://www.nuforc.org/webreports/reports/016/S16328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Center Harbor (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.26666666666666666 - 0.26666666666666666 minutes.</sub><blockquote><sub>As I was looking up at the night sky in a North to North east direction, at approx.9:30 pm, I noticed what appeared to be a satellite moving through space/orbit.The single light was pinpointed,such as a distant star and white, and travelling from the North/North East toward the South/Southwest at a slow but steady unaltered speed.The sky was completely clear with no overcast. After viewing it for about 10 or 11 seconds, it abruptly reversed its' direction but on an angle approx. 30 degrees from where I first noticed it. It did not stop or appear to slow down in any way upon changing direction.  Recently, I have viewed this same phenomenon documented on television, (shown 3/24/00 on FOX network). This was exactly, without any deviation, the same type UFO that I witnessed that night.  The one that was documented was filmed from a satellite in 1991.  I am convinced this was not from ice,debris or any man made product and in fact it was a visitation from an alien spacecraft. I have viewed satellites before at night and have never seen them change direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12440.html](http://www.nuforc.org/webreports/reports/012/S12440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
