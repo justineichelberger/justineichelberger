@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sedona (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>An extremely bright light appearedout the window lasting 10-15 minutes disappearing in a flash with no sound ever heard.I was lying in bed watching T.V. with no other light on, all of a sudden the room was filled with extremely bright light even though the curtains were closed. The blinding white light was extremely scary. I as a 79 year old man (in extremely sound mind)had never experienced such a thing. I got out of bed and peered through the curtains and all I could see was extreme bright light so I grabbed my camera and took two pictures. While the light was bright no sound was being heard. After having the pictures developed, both pictures had the white light in them. I still have the pictures. The light appeared for approximatly 10-15 minutes. The light then disappeared in a flash, never hearing a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16503.html](http://www.nuforc.org/webreports/reports/016/S16503.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Northampton (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>08/10/10.  Approximately 10 PM, two white lights in formation seen moving very quickly across sky in direct northerly direction.On August 10, 2010, at approximately 10:00 PM, I went into my backyard to look up at the stars in hopes of seeing some "shooting stars."  I wasn’t disappointed, and in the course of about 20 minutes or so I saw 5 or 6.  I have often witnessed satellites smoothly moving across the night skies, looking like the stars, but just moving quietly, quickly and smoothly.  Tonight, though, I witnessed two very distinct but small white lights moving across the sky from south to north, straight across the sky, more quickly than I’ve seen anything, other than the "shooting stars," but nearly at that speed.  They moved in a completely straight line, in a directly northerly direction.  They were next to each other, but in a formation where one was slightly in front of the other.  That’s it.  Nothing other than that, but definitely not aircraft, satellites, meteorites or space junk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77115.html](http://www.nuforc.org/webreports/reports/077/S77115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
