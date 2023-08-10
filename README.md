@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:28:14 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:58:21 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Lights over Conway.My wife and I were talking our dogs for a walk and we saw four orange lights in a formation with no sound or blinking lights.  They banked right and disappeared.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142652.html](http://www.nuforc.org/webreports/reports/142/S142652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While watching the sky and standing east I saw one light with the naked eye about 150 degrees up from the left traveling south. Looked at it with a ITT generation 2 night scope,There was a second light. It was very near the first brighter light traveling south west. I let my daughter look at them for abought 30 seconds or so. Then I looked at them again, to my amazement there was a third light converging close to the first two lights. They came together to form a square formation trveling south at about 180 degrees. They stayed in formation untill they finally faded at about 215 degrees.When they did come into the formation all three lights were the same brighness.((NUFORC Note:  We spoke with this witness.  It is our impression that what he describes is indistinguishable from satellites.  It is not unusual to have more than one satellite in the field of view of an optical device.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13744.html](http://www.nuforc.org/webreports/reports/013/S13744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
