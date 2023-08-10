@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:50 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilbraham (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright oval craft size of a large airplane  with Fluorescent lights rotating slowly and moving unevenly then lowered into woods((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100998.html](http://www.nuforc.org/webreports/reports/100/S100998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Point Pleasant Boro (NJ) reported seeing craft that fit the description of some 'Cross' over a period of approximately Hour + - Hour + minutes.</sub><blockquote><sub>First noticed two stationary T shaped objects with vertical lighted up be had purple and one had white lights.  As I began to examine the sky, I noticed more moving gluiding almost as if remote controlled.  Very angle andistamce I looked there were more and more. Some at greater depths and so which seemed closer.  A few were flying in almost identical patterns and the 2 stationary ones never moved not even an inch.  As I looked in different directions and noticed them everywhere I felt as if there was some kind of invasion.  I called 2 different people with 10 miles and they didn’t see anything.  Also took photo of stationary one but it just turns up at a glowing dot almost looks like a star, so the picture doesn’t do it justice.  About an hour later in went outside to notice the sky went from a clear night to a Bob Ross like like painting with clouds.  I know could not notice the original 2 T like objects due to the thickness of the clouds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148194.html](http://www.nuforc.org/webreports/reports/148/S148194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
