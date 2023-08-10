@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lafayette (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Looking up while at a gas station in Lafayette, noticed a triangle object flying from Broomfield area to Boulder, it was moving both strangely and quick.  Its trajectory was east to west with the weather coming from southwest.  It had a spin and a wobble, but yet clear speed and direction.  In a about a minutes time, it had gone from the eastern horizon over Broomfield and beyond sight over the Boulder horizon to the west.   Was strange enough to look up if anything was reported on the news, and came across this sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129150.html](http://www.nuforc.org/webreports/reports/129/S129150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Trout Lake (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1hr+ - 1hr+ minutes.</sub><blockquote><sub>Light over Mt. AdamsMy family and I went camping in the Mt Adams area.  At the camp site we were at it had a very clear view of the mountain.  We purposely went out to look for UFOs and were surprised to see a flashing light on the side of the mountain.   After watching it for about 5mins it started moving straight up in the air and then just stopped.  It was pulsating lights red, green and primarily white.  It seemed as though the lights were moving around in a triangle.  At one time the white lights seemed to arrange themselves in a row of three at the bottom. My brother-in-law kept saying it was a star, but the stars did not move (except for the rotation of the earth).  I was watching the star movement in relation to a tree as a marker.  The movement was not even close to the movement of the object.  My mother, sister, brouther-in-law watched the object for about an hour.  It seemed to stay in one position although at one point it seemed to come closer as we were using a high! power flashlight to signal it.  After an hour it seems to just fade away. We went out the next night about the same time, but we had collected a group of people because we set up telescopes.  Nothing appeared, but when the people left the object appeared almost immediately!  We watched in again for about 45mins.  My sister says that a disk like oject formed but when I looked it had reverted to the light formation.  This night it was only my sister, mother and myself.  I started feelong really uncomfortable watching it so we went in earlier. It was still in the sky at that time.  Again I watched the star positioning with relation to a tree from the same spot in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83187.html](http://www.nuforc.org/webreports/reports/083/S83187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
