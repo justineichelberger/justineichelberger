@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 10 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehighton (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Fireballs aproxemently 2 dozen go by us for about 20 minsMe and my wife just walked outside our house when I happened to lookin the sky and see these fireballs.  2 at a time would go by us and they just disappear.  You could see in the distance maybe a mile away they appear and like float by us.  They were orange-red cycles not moveing that fast.  They were able cloud level.  They would go by us and disappear.  It went on for about 20 mins.  There was problem at least 2 dozen of them.  They also were in a straight line moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101007.html](http://www.nuforc.org/webreports/reports/101/S101007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Washington (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 27.0 - 27.0 minutes.</sub><blockquote><sub>Me and my friend was watching the moon then we saw three saucers or disks with three lights on it one was white and there were a red and blue one that would blink on and off continuesly.  Two of the crafts were stationary and one was moving what looked like torwards the moon then it disappeared. the one west of the Moon disappeared around 11:20p.m then the one East of the moon started shooting faded blue lights off of it around 11:22p.m then the one moving flew fast next to the one and slowed down and stopped next to the one East of the moon then disappeared a few minutes later. Then at twelve it did nothing further so we went back into the our house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83046.html](http://www.nuforc.org/webreports/reports/083/S83046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [517](http://www.nuforc.org/webreports/reports/164/S164327.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164673.html)
-- [515](http://www.nuforc.org/webreports/reports/164/S164305.html)
-- [514](http://www.nuforc.org/webreports/reports/164/S164323.html)
-- [513](http://www.nuforc.org/webreports/reports/164/S164307.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
