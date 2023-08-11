@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Jordan/Midvale (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>my daughter was out observing the night sky around 10pm on 8/11/2020 she came running into the house to tell me she sees something strange moving in the sky.  I came outside to see and she pointed at a cloud against the night sky and clearly a u shaped grayish object with a black center was zig zagging like a snake through the cloud then it disappeared.  I would think this object was pretty big being that it looked large in the clouds and the clouds were at least several thousand feet in the air.  minutes later to the south of us I noticed 3 stars in the sky get blocked out by what looked like a stationary or slow moving cloud until the cloud dove straight down towards the ground and evaporated before my eyes and the stars that were blocked out were back. minutes after that that same cloud was over my house and moved to the west faster than a cloud moves and once again disappeared. shortly after this with in 3-5 minutes that cloud formation which was roughly the! size of a bus moved over my house quickly again and heading south and evaporated not before my daughter and I witnessed 5 or six glowing lights within the cloud.  until it disappeared over my neighbors house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158467.html](http://www.nuforc.org/webreports/reports/158/S158467.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witness one:  We went outside to walk the dogs around 11:30pm.  I heard loud booms like boom,boom,boom,boom.  About 20 repetitive booms.  It sounded like cannon fire.  Then my friend came put with the other dog.Witness two:  flashes of light behind the clouds, lighting up the sky multiple flashes seconds apart different areas of the sky and no streaks and no rain after hand to explain it streched probably across half of the sky and stopped in matter of a few min with no evidence in sky of anything clouds gone no planes not one thing in the sky where we see it.Witness one:  It lit up the whole sky in a square diagonally shoting lite sporadically.  Then it like sucked itself up & disappeaerd.  No evidence it was even there.  Crazy if there was ever a doubt it is definitely gone.  I've searched all over for hours.  Nothing like this ever reportded.  They manipulate the weather to cloak themselves.  Thats how we r learning to do it.  What is going on?  Please explain what we just saw!-!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142690.html](http://www.nuforc.org/webreports/reports/142/S142690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
