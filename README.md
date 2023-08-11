@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:52 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>this light appeard and moved very fast and then dissapeardi was looking up at the sky and out of no were i say this light going upwards and then dissapeard and then from were it had fanish it had appeared again 5 minutes later and went towards the right very fast and then dissapeard again then about 10 minutes later it did the same thing but faster and dissapeard again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38600.html](http://www.nuforc.org/webreports/reports/038/S38600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Triangle, Slow, Blue, Long, Tubular shape objects stuck out of the back.I was on the highway in my car, when me and a group of people saw a huge blue triangle object flying over the city.  It looked like a stealth bomber, a flying wing.  But it had circular tubes sticking out of the end.  Most of the other people mistake it as a kite, but it was too large.  It was hard to see rough the forested park, but it continued flying northwest before passing over the mountains and disappearing.  There was no response from most of the cars and people, who continued driving or walking.  It scared me, but I suppose people thought it was a kite or military aircraft.  Maybe they thought it was a weather ballon from NCAR?  It scared me and I still wonder today.  Birds migrated throughout the city and they seemed scared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116974.html](http://www.nuforc.org/webreports/reports/116/S116974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
