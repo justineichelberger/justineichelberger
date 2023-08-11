@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rochester (west of) (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately slowed down - slowed down minutes.</sub><blockquote><sub>color blue  red    1 too 3 lights                  2 slow moveing satilites or ufo moved by it.          it would jump around    it looked far away   I seen it watching the meteors.((NUFORC Note:  Witness elects to remain totally anonymous.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24346.html](http://www.nuforc.org/webreports/reports/024/S24346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I WAS ABOUT TO GET GAS AT 3AM WHEN I LOOK UP WHEN I HAD SEEN VERY BRIGHT LIGHTS COMEING DOWN WITH A BRIGHT RED LIGHT IN THE CENTER OF THE CRAFT,AND AS IT WAS GETTING LOWER THE LIGHTS ON THE SIDES OF THE CRAFT WENT OUT ALONG WITH THE RED CENTER LIGHT TURNING DIME THEN OUT THAT GAVE OFF A LOAD SOUND AS HEARING A STWICH BEING THROWN,AS THE CRAFT WAS APPROACHING A HIGH WAY OVER PASS THEN I SAW THE CRAFT VAPORIZED ITSELF AS IT GOT OVER THE OVER PASS AND REFORM,IT THEN MOVE TO LEFT AND IT APPEAR TO CORRECT IT SELF TO GO RIGHT.I HOPE THIS IS OF SOME IMPORTANCE.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58676.html](http://www.nuforc.org/webreports/reports/058/S58676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
