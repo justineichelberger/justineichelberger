@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:20 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>pulsating blue- white electrical light object turning on and offWas driving late at night near bithlo, when I Noticed two helicopters with Red lights on the front of them pacing my car for several miles. I continued looking out the window wondering why these two helicopters were following. after about 10 minutes on a road called colonial the copters moved in closer to the road so i started slowing my car down to get a closer look at these helicopters, when it happened. A white-blue electrical pulsating on and off in no particular pattern flew directly over my car and towards the helicopter that was on my left hand side. The object then headed towards the helicopter, flew right up to it stopped still in the air, dropped straight down and then began flying along a treeline on the side of the road, at this point both helicopters then began following it. What is the craziest about this is that the object was so low to the ground only about 150 yards high when it passed over my vehicle, the only noise i heard was from the helicopters. The object would not have been visible if it didnt begin the pulsating. it was almost as if it was teasing the helicoptors.((NUFORC Note:  Source of report elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65190.html](http://www.nuforc.org/webreports/reports/065/S65190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gretna (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 craft flying low and slow and minimul noise3 craft were seen coming from a south easterly direction with what appeared to be search lights on the underside and flashing beacons at the corners. No sound was detected until they were directly overhead and then only a minimum rumble was heard. These craft were flying very low and slow. Approximately 700 - 1000 feet high. Maybe 30 - 40 mph. The outline of the craft gave the impression of stealth bombers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58742.html](http://www.nuforc.org/webreports/reports/058/S58742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
