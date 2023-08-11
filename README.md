@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Carrolton (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Humming sound with no break or shift in pitch, that moved all around us.We were awakened by a car alarm.  As soon as the alarm turned off, you could hear, a very distinct humming sound above us.  The sound would not change tone or break for 30 mins.  Also, you can hear it move to different parts of the neighborhood.  It would leave from above us, move further away, then it would move back toward us.  It was a very very obvious tone, unlike any plane, train or siren.  The sound seemed concentrated within a 4 block radius.  We live at the dead end of a cul de sac with no street light, that faces a wooded area.  We are also above avg elevation, ruling out traffic sounds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121053.html](http://www.nuforc.org/webreports/reports/121/S121053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Saskatoon (Canada) (SK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>5 to 7 circular objects, moving in a triangular formation, at a very methodical speed.So last night I went out to watch the night sky for falling stars/meteorites. In the course of 1/2hr I saw at least 1dozen stars, that were travelling slowly and very very far up in space. These were small to see as they were very far away.  I also saw falling meteorites with bright tail lights that would quickly fizzle out.The interesting part of the night that I experienced was at roughly 11:20pm.  As I was laying in the park looking up into the night sky, I noticed what I initially thought was 5 to 7 geese flying in a V shaped formation, however as I sat up and starred more intently I realized it was not geese .  There was no noise and no identifiable flapping of wings.  The objects were circular in shape, and had a brownish hue, with very slight aura of diffused light around.  There was no real identifiable tail light of bright colour, and this formation flew what seemed to be very methodical, and did not break its flying formation for the quick time that I witnessed it.  (7seconds).  This did not seem to be a satellite or a star or a broken up meteorite. I can only describe it the way I witnessed it.  It flew from, Eastward  to Westward .  I only wish I would have had been recording with my cell phone.  The only other object in the sky that appeared after my sighting was the local Police Traffic Plane that circles the town,  I am wondering if they saw anything, it was very close to the time frame I am referencing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158481.html](http://www.nuforc.org/webreports/reports/158/S158481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
