@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:52 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Westminster (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On August11, ,2003 around 18:30 I was sitting at the kitchen table talking to my daughter.  At one point she was looking throught the window saying "what's that above the trees?"  Next moment she run outside and I followed her.Looking in the direction she was looking at I could see above the trees a black disk spinning.  From where I was I could say its size was of a round big plater.It flipped over and I realized it was flat.The other side was bright red with a silver bright ring around it.I was in shock.I never seen anything like this before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30716.html](http://www.nuforc.org/webreports/reports/030/S30716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>this light appeard and moved very fast and then dissapeardi was looking up at the sky and out of no were i say this light going upwards and then dissapeard and then from were it had fanish it had appeared again 5 minutes later and went towards the right very fast and then dissapeard again then about 10 minutes later it did the same thing but faster and dissapeard again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38600.html](http://www.nuforc.org/webreports/reports/038/S38600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
