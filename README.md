@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:11 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gretna (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 craft flying low and slow and minimul noise3 craft were seen coming from a south easterly direction with what appeared to be search lights on the underside and flashing beacons at the corners. No sound was detected until they were directly overhead and then only a minimum rumble was heard. These craft were flying very low and slow. Approximately 700 - 1000 feet high. Maybe 30 - 40 mph. The outline of the craft gave the impression of stealth bombers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58742.html](http://www.nuforc.org/webreports/reports/058/S58742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Oak Bluffs (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>seven orange lights floating over ocean in oak bluffssitting on outside deck at the lookout tavern thursday night around 10pm. there appeared an orange circular light at about mid sky. it floated  and then hovered for a short time then more joined. when there were four they formed a triangle shape, we joked and said look a martini. then three more orange lights joined them. they stayed in a straight line for a minute or so and we watched and listened to see if they were copters. no sound was heard. they seemed to drift a way and one by one diasappeared into the sky. there were little or no clouds and an almost full moon.about 20 minutes to a half hour later ALL lights went out in town for a short duration.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83185.html](http://www.nuforc.org/webreports/reports/083/S83185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
