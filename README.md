@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two Lights Moving In UnisonI was outside in my backyard looking up at the sky when I noticed directly over head two lights approximately 4 inches apart at arms length slowly heading in a northerly direction.  They would inch forward together in unison, then stop, inch forward once more, then stop.  They proceeded to do this until they were out of sight.  I saw another object, but different, a 1/2 hour later...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58093.html](http://www.nuforc.org/webreports/reports/058/S58093.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West Jordan/Midvale (UT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>my daughter was out observing the night sky around 10pm on 8/11/2020 she came running into the house to tell me she sees something strange moving in the sky.  I came outside to see and she pointed at a cloud against the night sky and clearly a u shaped grayish object with a black center was zig zagging like a snake through the cloud then it disappeared.  I would think this object was pretty big being that it looked large in the clouds and the clouds were at least several thousand feet in the air.  minutes later to the south of us I noticed 3 stars in the sky get blocked out by what looked like a stationary or slow moving cloud until the cloud dove straight down towards the ground and evaporated before my eyes and the stars that were blocked out were back. minutes after that that same cloud was over my house and moved to the west faster than a cloud moves and once again disappeared. shortly after this with in 3-5 minutes that cloud formation which was roughly the! size of a bus moved over my house quickly again and heading south and evaporated not before my daughter and I witnessed 5 or six glowing lights within the cloud.  until it disappeared over my neighbors house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158467.html](http://www.nuforc.org/webreports/reports/158/S158467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
