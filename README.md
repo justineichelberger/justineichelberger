@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:01:01 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Midvale (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witness one:  We went outside to walk the dogs around 11:30pm.  I heard loud booms like boom,boom,boom,boom.  About 20 repetitive booms.  It sounded like cannon fire.  Then my friend came put with the other dog.Witness two:  flashes of light behind the clouds, lighting up the sky multiple flashes seconds apart different areas of the sky and no streaks and no rain after hand to explain it streched probably across half of the sky and stopped in matter of a few min with no evidence in sky of anything clouds gone no planes not one thing in the sky where we see it.Witness one:  It lit up the whole sky in a square diagonally shoting lite sporadically.  Then it like sucked itself up & disappeaerd.  No evidence it was even there.  Crazy if there was ever a doubt it is definitely gone.  I've searched all over for hours.  Nothing like this ever reportded.  They manipulate the weather to cloak themselves.  Thats how we r learning to do it.  What is going on?  Please explain what we just saw!-!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142690.html](http://www.nuforc.org/webreports/reports/142/S142690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bath County (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>colored flashing light stationary then bouncing in an arc shapeMy brother and his girlfriend and I were parked along Route 22o watching the meteor shower after midnight.  As we began sitting up our chairs in the dark I thought I saw a spotlight flash across the mountain behind us.  We were in a large valley.  I chalked it up to my eyes playing tricks on me. We sat and watched the star show for about an hour when something made me look at the horizon just above the mountain we were facing.  I instantly noticed a bright, bright star that held my attention because it was so big and appeared to be pulsating different colors. It was above the tree line and I drew my companions attention to it because I wanted their opinions of what it was. As we stared at it and agreed it was a plane it began to bounce in a graceful arc above the trees. It moved in a way that we had never seen from an air craft. We got a little loud with fear and excitement. It seemed to react to our reaction and after the arc shaped bouning for a few seconds it! lowered itself behind the tree line and we could only see it slightly through the summer tree canopy. Needless to say, I watched the spot it dissappeared to all night ignoring the stars and never saw it rise above the tree line again. Was it alien or human aircraft. Perhaps a helicopter but no noise was heard(maybe too far away)and the graceful arc bounce was so unordinary we huddled together out of fear. I'd love to know what we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91741.html](http://www.nuforc.org/webreports/reports/091/S91741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
