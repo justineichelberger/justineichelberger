@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:03 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:52 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rugby (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Multiple triangular lights moving in V formation.The following was witnessed by 2 adults and a 9 yr old ,at home , shooting-star watching during the Perseids meteor shower on a completely clear and calm night at approx 11 - 11:15 pm on 12th August 2002.We observed 8 or 9 very well defined geometrical Triangular shapes ,initially moving in V formation. The whole shapes were lit up , though appeared to be either reflected or dimly glowing white rather than emiting a bright light.The shapes glided silently across the sky , looking almost unreal and 2-dimensional ,they were immediately overhead and travelling East to West at a steady velocity.We watched them for approx. 20 seconds before , as they were going out of view , the V formation split apart into 2 groups and then rapidly disappeared out of sight.One of the observers saw an orange glow around the edges of the shapes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24421.html](http://www.nuforc.org/webreports/reports/024/S24421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lucknow (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was going upstairs (second floor) as I get past my balcony I saw a small tiny round shaped white glowing object in the sky about 16 degree north èmitting sharp white light.  I couldn't believe my eyes.  I waited for a second to see what it could be it was increasing in size very frequently but with ease and moving very smoothly in a to and fro manner then disappeared.  It was the first time saw anything like this in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148192.html](http://www.nuforc.org/webreports/reports/148/S148192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
