@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red light seen in south western sky ive seen this light 4 times in the last 5 weeks between 2100 & 2130 & ive reported it every time why isnt this on the news more? this light is like clockwork i dont look for this light if someone was waiting for this light they would see it after 4 to 7 nights between 8:00 & 8:30((NUFORC Note:  Many other reports of the same incident.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13768.html](http://www.nuforc.org/webreports/reports/013/S13768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wells (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>We began to observe a lot of unusual activity and bright lights on the mountains across the valley.  They began to shoot through the woods, flicker, change colors but the light always stayed projecting towards us.  The light intensity was unlike anything I know of, many other small blue and red lights were scattered across the mountain as well.  We watched it shift from one set of peaks to another at an unbelievable rate.  As we looked in the sky above we noticed another bright light and it began to shift in zig zags and circles hovering around the night sky, as we looked around we could see a ring of these blue lights that all were moving in the same behavior unlike any of the other stars, or shooting stars in the sky.  As we watched them, a bright orange orb appears from the ridge on our property and followed the tree tops till the end of the ridge, then zig zagged and shot off into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129201.html](http://www.nuforc.org/webreports/reports/129/S129201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
