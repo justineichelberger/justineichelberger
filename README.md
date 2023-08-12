@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:56 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a green orb gliding north to south about a hundred feet high.I was at work as a security guard, driving a patrol car through a residential complex at 4:36 a.m. with my flashing yellow lights on, when something caused me to look out my left window. I looked up and saw a small green orb slowly gliding silently towards the south [I was also driving south]. It was about 1 hundred feet up, and almost overhead. Right after I observed it, it sped up, as if it knew I noticed it. I jumped out of the car, never taking my eyes off of it, and watched it speed off due south, maintaining the same altitude, and traveling in a straight line, until it faded into the distance. It never made the slightest sound, and it glowed a "traffic light" green color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04401.html](http://www.nuforc.org/webreports/reports/004/S04401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red light seen in south western sky ive seen this light 4 times in the last 5 weeks between 2100 & 2130 & ive reported it every time why isnt this on the news more? this light is like clockwork i dont look for this light if someone was waiting for this light they would see it after 4 to 7 nights between 8:00 & 8:30((NUFORC Note:  Many other reports of the same incident.  Please see other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13768.html](http://www.nuforc.org/webreports/reports/013/S13768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
