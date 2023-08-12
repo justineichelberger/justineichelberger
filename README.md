@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:03 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Roseville (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright object with light flashing about once per second moved from northwest to southeast at about a 60 degree elevation at mid-transit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58160.html](http://www.nuforc.org/webreports/reports/058/S58160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rugby (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Multiple triangular lights moving in V formation.The following was witnessed by 2 adults and a 9 yr old ,at home , shooting-star watching during the Perseids meteor shower on a completely clear and calm night at approx 11 - 11:15 pm on 12th August 2002.We observed 8 or 9 very well defined geometrical Triangular shapes ,initially moving in V formation. The whole shapes were lit up , though appeared to be either reflected or dimly glowing white rather than emiting a bright light.The shapes glided silently across the sky , looking almost unreal and 2-dimensional ,they were immediately overhead and travelling East to West at a steady velocity.We watched them for approx. 20 seconds before , as they were going out of view , the V formation split apart into 2 groups and then rapidly disappeared out of sight.One of the observers saw an orange glow around the edges of the shapes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24421.html](http://www.nuforc.org/webreports/reports/024/S24421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
