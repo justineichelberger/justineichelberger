@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:52 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lucknow (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was going upstairs (second floor) as I get past my balcony I saw a small tiny round shaped white glowing object in the sky about 16 degree north èmitting sharp white light.  I couldn't believe my eyes.  I waited for a second to see what it could be it was increasing in size very frequently but with ease and moving very smoothly in a to and fro manner then disappeared.  It was the first time saw anything like this in my entire life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148192.html](http://www.nuforc.org/webreports/reports/148/S148192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Derby (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>multiple colored object moving extremely slow through the skyThere was a light in the sky that at first seemed like a star, but started to change all different colors i had never seen in the sky before.  Every time I looked away and looked back it had changed position until after about 25 minutes it completely dissapeared behind the skyline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83088.html](http://www.nuforc.org/webreports/reports/083/S83088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
