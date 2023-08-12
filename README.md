@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 11 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:21:26 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Langley (Canada) (BC) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Cigar shaped object moving very quickly in an almost fluid hovering type motion!!!!!!!!!!!!!!!!!!!!!!11-Aug-04 5:50 PM Pacific Time  While traveling south along a local road my wife and I both noticed a Cigar shaped object traveling very quick in an eastern direction. At first glance we both tried to quickly dismiss the object as a small plane (due to a small local airport near by) but soon realized that this was not the case. Being that the object was very low and flying in what seemed to be in a very fluid almost hovering type motion we soon realized that what we were witnessing was not a plane but indeed a UFO. The whole time we were in view I was trying to dismiss the whole UFO thought and tried my hardest to prove to my self that this was a plane or at least a helicopter. The more I looked the more clear it came to me that this was definitely not any man made object. There were no wings, no rear tail section and there was clearly no rudder. We continued to follow the object but our visibility was obstructed by trees but just as soon as we thought we had lost sight I saw it one more time and then it was gone. Wow what an experience.((name and e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38598.html](http://www.nuforc.org/webreports/reports/038/S38598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Montrose County (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw an alien it was indescribableI’m ((name deleted)).  I am 13 years old.  I have woken up at about 100 am and I heard strange noises and lights  As I got I looked out my window, I had a clear shot of what it looked it was ur not gonna believe me now one does it was like undescribable the shape behind the human mind it’s impossable to think that I know but it’s true u can’t even imagen it the colors undescrible u can’t even seem to depict them and there’s no telling the shape I believe we could be in danger in the future or safe idk((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143798.html](http://www.nuforc.org/webreports/reports/143/S143798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [473](http://www.nuforc.org/webreports/reports/164/S164295.html)
-- [472](http://www.nuforc.org/webreports/reports/164/S164296.html)
-- [471](http://www.nuforc.org/webreports/reports/164/S164444.html)
-- [470](http://www.nuforc.org/webreports/reports/164/S164297.html)
-- [469](http://www.nuforc.org/webreports/reports/164/S164288.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
