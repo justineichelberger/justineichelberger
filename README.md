@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Derby (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>multiple colored object moving extremely slow through the skyThere was a light in the sky that at first seemed like a star, but started to change all different colors i had never seen in the sky before.  Every time I looked away and looked back it had changed position until after about 25 minutes it completely dissapeared behind the skyline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83088.html](http://www.nuforc.org/webreports/reports/083/S83088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kingman (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>white and blue lights in a storrmi own a dealership in town and we were on the way back from having an automotive tent sale,one of my salesman were following me in a lot car back to the dealership,when it started to storm to the point that we could'nt drive the vehicles the storm was moving the vehicles in all directions.at this time we could'nt see anything but deep wind, clouds and rain so we pulled over hoping the storm would pass,the truck i was in was a dodge dually diesl,one ton truck.the truck back end started sliding towards the ditch.i remember opening my cell phone to try and call my wife when up about tweve to thirteen feet in the air a bluish green light apeared in the clouds and glowed,and about two feet away a white light apeared next to it floating they were both in a egg shape the storm still countinuing on the white light floated down toward the middle of the street then faster then anything i ever seen the white object took off down the middle of  the road i looked back to see where it when but it was too fast it was gone,so i looked back at the bluish light still glowing,it did the same thing as the bluish came down to the middle of the road then took of but this time i looked in my driver side mirror and ssen it pass my truck with great force moving my truck like it was a tin can then floating up into the sky again. right after the bluish light disappeared the storm was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18955.html](http://www.nuforc.org/webreports/reports/018/S18955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
