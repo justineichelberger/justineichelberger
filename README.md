@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:56 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sand Springs (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light Cluster west of Tulsa SuburdMy mother called me out to the back porch to sit with her.  She was observing a cluster of lights in the sky west of our home.  As we observed the lights the moved side ways then corrected back to a central position..it repeated this several times jogging left and right.  This occurred for 10 to 15 minutes.  I went inside to get a phone.  I returned and was told it was gone.The lights were in a cluster and changed through many colors.The lights were at approximately 40 to 55 degrees above the horizon.The sky was a bit cloudy but no clouds were observed in front of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129204.html](http://www.nuforc.org/webreports/reports/129/S129204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Fort Lauderdale (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I observed a green orb gliding north to south about a hundred feet high.I was at work as a security guard, driving a patrol car through a residential complex at 4:36 a.m. with my flashing yellow lights on, when something caused me to look out my left window. I looked up and saw a small green orb slowly gliding silently towards the south [I was also driving south]. It was about 1 hundred feet up, and almost overhead. Right after I observed it, it sped up, as if it knew I noticed it. I jumped out of the car, never taking my eyes off of it, and watched it speed off due south, maintaining the same altitude, and traveling in a straight line, until it faded into the distance. It never made the slightest sound, and it glowed a "traffic light" green color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04401.html](http://www.nuforc.org/webreports/reports/004/S04401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
