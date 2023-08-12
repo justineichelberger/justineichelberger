@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:01 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:27 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Menomonee  Falls (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Please click multiple sightings over years in waukesha county with hard evidence!I am a 17 year old high school student who is fascinated by the universe and I spend hours on end outside looking at the stars and I have done so for years.  Over a three year radius, I have encountered unidentifiable crafts that make no sound which I have ad witnesses and I have a photo of the craft which is clearly visible.  Starting in October, 2011 I began to watch the North Eastern sky and I saw a dim light, about the size of what would appear to be a star, i saw it move significantly fast, then i saw a second orb appear behind it, which moved in a circular motion and a 3rd orb occurred, making a triangular formation.  I have seen this also July 2011, and recently in August 2013.  I photographed it the second time and the third it disappeared before I could capture it.  Please find information about this and post about it I will always keep looking for answers to these happenings!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102271.html](http://www.nuforc.org/webreports/reports/102/S102271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red Glowing Light seen over Chandler, AZ.We saw a brightly glowing red light in the southwestern sky.  Looked to be round in shape.  It stayed stationary for about 15 minutes, before slowing disappearing into the clouds.  We saw at least 2 commercial aircraft pass close to the red glowing object.  2 people at this location saw the object.  Neither has ever seen a UFO in the past.  We have never seen a light in the sky glowing so bright and red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13902.html](http://www.nuforc.org/webreports/reports/013/S13902.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
