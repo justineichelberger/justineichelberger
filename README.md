@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:34:30 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:01 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Toppenish (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Daytime Sighting in Toppenish, WAI was in my car listening to music and having a smoke when I heard the roar of jet fighters. I got out to try to see them. I scanned the clear sky and looked the the directions the sound was coming from. There sounded like there were two fighters, one to the east of me and one farther away to the west. I never saw them, however something did catch my eye. I quickly grabbed my Sony FD-95 and took this shot and movie. 8-12-02 12:15PM. This was taken in Toppenish, WA, just east of the Yakama Nation Reservation. This object was visible for about 10 minutes and was moving east. By the time it went out of sight we had at least 15 people watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24412.html](http://www.nuforc.org/webreports/reports/024/S24412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Menomonee  Falls (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Please click multiple sightings over years in waukesha county with hard evidence!I am a 17 year old high school student who is fascinated by the universe and I spend hours on end outside looking at the stars and I have done so for years.  Over a three year radius, I have encountered unidentifiable crafts that make no sound which I have ad witnesses and I have a photo of the craft which is clearly visible.  Starting in October, 2011 I began to watch the North Eastern sky and I saw a dim light, about the size of what would appear to be a star, i saw it move significantly fast, then i saw a second orb appear behind it, which moved in a circular motion and a 3rd orb occurred, making a triangular formation.  I have seen this also July 2011, and recently in August 2013.  I photographed it the second time and the third it disappeared before I could capture it.  Please find information about this and post about it I will always keep looking for answers to these happenings!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102271.html](http://www.nuforc.org/webreports/reports/102/S102271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
