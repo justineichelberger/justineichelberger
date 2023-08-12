@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>BLUE JELLY LIKE SUBSTANCE IN THE MIDDLE. A GOLD BAND ALL AROUND IT.IT WAS 6:30 AM IN THE MORNING, I HAD JUST GOT UP FOR THE DAY. I OPENED MY KITCHEN SHADES AND UP IN THE SKY I SAW THIS OBJECT. IT WAS SHAPED LIKE A TWIN SIZES MATTRESS.IT HAD A PRETTY BLUE JELLY SUBSTANC IN THE MIDDLE, AND IT HAD A BAND OF GOLD THAT WENT ALL AROUND IT. I RAN TO ME BEDROOM TO GET MY CAMERA AND BY THE TIME I GOT BACK IT WAS TOO FAR AWAYTO GET A PICTURE.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58271.html](http://www.nuforc.org/webreports/reports/058/S58271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mandeville (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Silent orange/red illuminated jagged spherical object moved across the sky and disappearedBrightly illuminated orange/red moving light.  Not exactly spherical in nature; had a somewhat jagged (possibly starlike) shape to it.  Appeared just above the trees in a large subdivision in Mandeville, LA.The object was far brighter than any stars in the sky and moved in a straight line across the sky.  The object appeared to have bright white lights that illuminated the sky above it.  There was no sound.  Completely silent.  The object flickered back and forth between extremely bright and just bright.  Then, it continued along its linear path and began to dim.  The naked eye could still make out the outline of the object but it no longer was illuminated.  We followed the object with our eyes until it appeared to disappear among the cloud cover or maybe just disappeared altogether.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83119.html](http://www.nuforc.org/webreports/reports/083/S83119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
