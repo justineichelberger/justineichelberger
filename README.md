@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kissimee (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Unusually configured stationary flashing lightsI was driving home from work on World Drive south of Highway 192 and noticed a stationary red light, with two smaller white lights flashing horizontally on either side of the red light in the center.  The White lights on either side of the larger Red light were flashing at approximately half second intervals between flashes.When I first observed the lights, I assumed that it was an airliner approaching the nearby Orlando airport from head on.  As I observed the lights I realized that this was an abnormal configuration for an airliner and continued to watch the lights for another 10 seconds approx. in this time the lights did not appear to move.  The lights went out after approx. 20 seconds, as if they had been turned off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135695.html](http://www.nuforc.org/webreports/reports/135/S135695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sand Springs (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Light Cluster west of Tulsa SuburdMy mother called me out to the back porch to sit with her.  She was observing a cluster of lights in the sky west of our home.  As we observed the lights the moved side ways then corrected back to a central position..it repeated this several times jogging left and right.  This occurred for 10 to 15 minutes.  I went inside to get a phone.  I returned and was told it was gone.The lights were in a cluster and changed through many colors.The lights were at approximately 40 to 55 degrees above the horizon.The sky was a bit cloudy but no clouds were observed in front of the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129204.html](http://www.nuforc.org/webreports/reports/129/S129204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
