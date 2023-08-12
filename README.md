@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Secaucus (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black Sphere in Hudson County SkiesI was at work.  I happened to walk onto our second floor glass elevator. When I looked out I noticed a black sphere way up in the sky.  At first I thought I was seeing things but I kept staring and it wasn't moving just there in the sky.  The weather was beautiful the sky was clear no clouds but this object stood out.  I had stepped off the elevator to drop paperwork off went back to elevator within a minute and the object was gone.  I knew it wasn't a plane, or a helicopter, or a goodyear blimp.  I'm not sure what it was but I do know it was round because of the distance it appeared to be black.  The building I work in has three elevators, I was in the middle one.  The elevators have glass all around when I look out I could see the Secaucus area, the turnpike, further down open space with a view of the road and other cities.  It took place at exactly 2:15pm. Unfortunately, I didn't have my cell phone on me to take a picture of what I was seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77284.html](http://www.nuforc.org/webreports/reports/077/S77284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Strausburg (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a black triangular craft silently move across the night sky.My wife and I were at the drive-in theater and it was an unusually clear night out. I was amazed at the number of stars visible and would see an occasional shooting star. Something caught my eye moving at what seemed to be at a high altitude traveling in a southwest direction with no deviation.  It was almost like it was camouflaged in the night sky. There were fluorescent looking dim white lights on all three corners. They were rounded and the underside looked as if there was some detail other than just being black and smooth. It made no sound and continued to travel until it met the horizon and I could no longer see it. I did try to point it out to my wife but she could not see it and said I must be seeing things. I called the local airport the next day and they told me to contact the FAA.  I called and they said that there was nothing in that area that would match that description.  I think about what I saw and can give no explanation to what it might have been.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42892.html](http://www.nuforc.org/webreports/reports/042/S42892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
