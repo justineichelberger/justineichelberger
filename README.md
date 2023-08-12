@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mokuleia (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Triangular formation of lights moving with no sound hovered still while we stared for 20 minutes then shot upward vanishingI did not realize there was a reporting site so Im reporting this now.  Me and my boyfriend were leaving Kaena Point fishing area near the Keana point military satellite tracking station at around 9pm after watching the perseids meteor shower.  I saw a triangular formation of lights move from behind the end of the mountain where the bird sanctuary is and stop once it was on our side.  It almost seemed like this craft knew we could see it and was sitting there watching us. We were the only visible people there.  We sat and stared at it for about 20 minutes while trying to record it and take pictures (those turned out looking like streetlights because of distance).  When I finally said Im ready to go the craft moved straight up vertically and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149250.html](http://www.nuforc.org/webreports/reports/149/S149250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>BLUE JELLY LIKE SUBSTANCE IN THE MIDDLE. A GOLD BAND ALL AROUND IT.IT WAS 6:30 AM IN THE MORNING, I HAD JUST GOT UP FOR THE DAY. I OPENED MY KITCHEN SHADES AND UP IN THE SKY I SAW THIS OBJECT. IT WAS SHAPED LIKE A TWIN SIZES MATTRESS.IT HAD A PRETTY BLUE JELLY SUBSTANC IN THE MIDDLE, AND IT HAD A BAND OF GOLD THAT WENT ALL AROUND IT. I RAN TO ME BEDROOM TO GET MY CAMERA AND BY THE TIME I GOT BACK IT WAS TOO FAR AWAYTO GET A PICTURE.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58271.html](http://www.nuforc.org/webreports/reports/058/S58271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
