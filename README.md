@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Patterson (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright white dot in a all blue sky just hovering approximately 70-80 degrees up N-E towards Turlock, CA.8am approximately I was in my backyard video taping as I was reading I looked up and there was a small white dot, I got my binoculars and looked, it was oval shape and the end towards the sun was bright but as you moved to the left it was transparent looking,  I pointed my camcorder at it but had a glare on the view screen which I could not shade so I pointed the camcorder in the general direction  after awhile I readjusted the camcorder  thinking it was a better angle, after the object left I lowered the camcorder  to almost a level view.  After the tape ended I looked at the tape on tv at first I did have it on the camcorder and it looked like a white dot and there were other objects flying near and around it when I readjusted at one point I did lose the object but was in the same general area and caught more objects the main object was still there though I didn’t level the camcorder in till the object left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148495.html](http://www.nuforc.org/webreports/reports/148/S148495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately north close to the firing - north close to the firing minutes.</sub><blockquote><sub>Looking North over there army base Yakima, Washington, there is four or five lights above the sky, moving very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129200.html](http://www.nuforc.org/webreports/reports/129/S129200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
