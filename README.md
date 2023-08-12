@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wells (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>We began to observe a lot of unusual activity and bright lights on the mountains across the valley.  They began to shoot through the woods, flicker, change colors but the light always stayed projecting towards us.  The light intensity was unlike anything I know of, many other small blue and red lights were scattered across the mountain as well.  We watched it shift from one set of peaks to another at an unbelievable rate.  As we looked in the sky above we noticed another bright light and it began to shift in zig zags and circles hovering around the night sky, as we looked around we could see a ring of these blue lights that all were moving in the same behavior unlike any of the other stars, or shooting stars in the sky.  As we watched them, a bright orange orb appears from the ridge on our property and followed the tree tops till the end of the ridge, then zig zagged and shot off into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129201.html](http://www.nuforc.org/webreports/reports/129/S129201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Beaver Falls (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light in sky turns off - Nothing there!This is the 2nd time I've seen a bright light in the sky turn off with nothing there! Traveling West along 588 in Beaver county PA., approx. 2 miles from intersection of of Rt. 65. I noticed a bright light low and close in the sky (2000 - 3000 AGL and a quarter mile to my SW)that was different. At first I shruged it off as a landing light from a small aircraft (Zeileinople and Beaver Co. Airports in area).Something kept my attention on it (NO vibration/strobe affect as in traditional landing lights) just an intense light slightly brighter than a landing light and it also seemed fixed or stationary. Then as my attention seemed peaked, it turned off...I fully expected to see the familiar silhouette of a Cessna or Piper in the turquois dusk sky... but there was NOTHING THERE! I immidiatley pulled off the side of the road and shut my engine off to listen for the purr of a Lycoming engine, but the only thing I heard was crickets... This is starting to get weird Pete! I'm extremly familiar with aircraft observation, clouds and lights, I'm still trying to convince myself that there is a rational explaination but so far I haven't been sucsessful.Watching the Watchers...? Signs of the Second Coming...? Religion or Star Wars...? Let me know your thoughts.… ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24532.html](http://www.nuforc.org/webreports/reports/024/S24532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
