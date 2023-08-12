@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately north close to the firing - north close to the firing minutes.</sub><blockquote><sub>Looking North over there army base Yakima, Washington, there is four or five lights above the sky, moving very slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129200.html](http://www.nuforc.org/webreports/reports/129/S129200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kissimee (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Unusually configured stationary flashing lightsI was driving home from work on World Drive south of Highway 192 and noticed a stationary red light, with two smaller white lights flashing horizontally on either side of the red light in the center.  The White lights on either side of the larger Red light were flashing at approximately half second intervals between flashes.When I first observed the lights, I assumed that it was an airliner approaching the nearby Orlando airport from head on.  As I observed the lights I realized that this was an abnormal configuration for an airliner and continued to watch the lights for another 10 seconds approx. in this time the lights did not appear to move.  The lights went out after approx. 20 seconds, as if they had been turned off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135695.html](http://www.nuforc.org/webreports/reports/135/S135695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
