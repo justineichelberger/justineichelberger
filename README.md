@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:21:26 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:34:30 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Montrose County (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>I saw an alien it was indescribableI’m ((name deleted)).  I am 13 years old.  I have woken up at about 100 am and I heard strange noises and lights  As I got I looked out my window, I had a clear shot of what it looked it was ur not gonna believe me now one does it was like undescribable the shape behind the human mind it’s impossable to think that I know but it’s true u can’t even imagen it the colors undescrible u can’t even seem to depict them and there’s no telling the shape I believe we could be in danger in the future or safe idk((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143798.html](http://www.nuforc.org/webreports/reports/143/S143798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Toppenish (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Daytime Sighting in Toppenish, WAI was in my car listening to music and having a smoke when I heard the roar of jet fighters. I got out to try to see them. I scanned the clear sky and looked the the directions the sound was coming from. There sounded like there were two fighters, one to the east of me and one farther away to the west. I never saw them, however something did catch my eye. I quickly grabbed my Sony FD-95 and took this shot and movie. 8-12-02 12:15PM. This was taken in Toppenish, WA, just east of the Yakama Nation Reservation. This object was visible for about 10 minutes and was moving east. By the time it went out of sight we had at least 15 people watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24412.html](http://www.nuforc.org/webreports/reports/024/S24412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
