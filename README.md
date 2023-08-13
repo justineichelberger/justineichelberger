@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:48 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lexington (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>disc over corn fieldAt 4;30 a.m. I went outside of the house and noticed a disc shaped obeject about 100 yards or so over the cornfield. I ran back inside and grabbed my camera and took twelve photo's. I got two that were pretty good. This thing made no noise at all. When it left it was so fast that it cant be described! I also got a picture of a stelth plane in the distance that seemed to be chasing it.The pink glow you see was only in two frames. I do not know what caused that. It was right next to me and scared me real bad. I was looking to the east of the house.These photo's were taken on a sony cyber-shot 3.2 mega pixels camera. The air felt like it was full of electricity.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58829.html](http://www.nuforc.org/webreports/reports/058/S58829.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Au Train (Forest Lake) (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>FOREST LAKE, MI 13 AUG 2020, 0223 UFO SIGHTINGMy wife and I were camping in a rustic campground south of Au Train, MI in the Hiawatha National forest, Forest Lake campground (Cleveland Cliffs Basin) (46°18'20.2"N 86°52'04.4"W) - approximately 8 miles south of Au train, MI.  We had met a younger couple camping on the campsite North of ours and got together as the early morning of the 13th of August 2020 approached. We all had decided we would take in the meteor shower down by the waters edge where viewing would be ideal. We had no light pollution and both campsites fires had not been lit for ideal viewing.  We had a crescent moon due east reflecting off the water. We watched the meteor shower and shared stories and laughed into the night.  At one point, the women from the campsite two sites to the south, voiced her displeasure with our laughter.  The women also stated it was “two o’clock in the morning!”.  I jokingly, but quietly asked, “exactly?” I then walked up to the truck out of curiosity.  The truck’s clock was 0223.  I walked back and we all were all about to retire when my wife said, “WHAT IS THAT?” We all then turned to the North and approximately 30 Degrees from the horizon moving from west to east was a spinning light between 1500 to 2000 feet AGL.The object was turning in a counterclockwise direction progressively spinning into itself while moving to the east. It also appeared to be disturbing the air around it; creating a cloud or aura that dissipated commensurately with the rate of travel.I was fixated on the spinning surface as the they appeared to mirage distorting the light.  We were deep in the woods and you could have heard a pin drop - Zero sound.   As the moon as a reference that night - the object was slightly larger.I served 26 years in the USAF and have physically touched most of aircraft in the US inventory and many foreign aircraft as well.  I observed the object for about 7 seconds and it just was gone.  You can imagine the expletives after the object was gone.The couple left before we woke the next morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158701.html](http://www.nuforc.org/webreports/reports/158/S158701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
