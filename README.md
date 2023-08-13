@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:47 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Atlantic Highlands (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Unexplained lightOver cast evening at the marina.  I was just watching the ships sail by when I looked up and saw a light.  It was like a star but maybe five to seven hundred feet above the water.  It stood out against the grey clouds like a spotlight. I thought at first it was a plane and expected it to move towards me but after five seconds motionless it shot straight up and dissapeared through the clouds.  Have no idea what it was. But thought I should report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83153.html](http://www.nuforc.org/webreports/reports/083/S83153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Dodge (IA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>A Glimpse of RarityThe UFO was a slightly faded yellowish-neon green.  Its shape was mostly similar to that of a wider cigar, and had a dark oval in its center most part.  I was standing on the back steps of my house near Crawford Park, looking at the stars.  While out of the corner of my vision, I noticed this oddity in the nights sky.  I got a complete glimpse of it, but as soon as I did, it vanished behind the trees in the horizon.  A very interesting experience!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101165.html](http://www.nuforc.org/webreports/reports/101/S101165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
