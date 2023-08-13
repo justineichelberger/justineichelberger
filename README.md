@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>A bright star like object that began to move in a slow dive and disappeared.I was stargazing and noticed a "star" (it was the same size, shape, and was illuminated like any star) diving straight down in a northeast direction.  It moved slowly and deliberately and was the same size as other recognizable stars such as those in the Big Dipper formation.  It moved toward the horizon and disappeared.  I've never witnessed a UFO before but now I know there are unexplainable objects in the sky.  Anyone who saw it would agree!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24434.html](http://www.nuforc.org/webreports/reports/024/S24434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Chatham (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Disk like objects shooting beams of light to one anotherMy Fiancee and I were out side and the two of us noticed some extremely bright light in the Northern sky. As we watched them we noticed that the number of disk like objects would fluctuate between 3 to 5. The disks were moving in a very eratic pattern and were moving closer to us. The bigger of the objects that stayed in view at all times was a reddish and blue color. The others were bright flashing white lights. The objects would emit beams of white light back and forth to one another. This activity went on for about 30 to 35 min. During thid time there was alot of static on our Baby monitor, and we could not get the objects to show up on our cam corder at all times. They would show up and disappear. When they showed up on the cam corder that is when you would hear the static on the baby monitor. The objects did however show up on our still shot camera. My Fiancee has lived in Canada her whole life and this is not the first time that she has saw things like this. She has told me about several sightings that she has saw. I have a little over 8 years with the United States Army, and this is definately not the first time that I have saw these types of things in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51988.html](http://www.nuforc.org/webreports/reports/051/S51988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
