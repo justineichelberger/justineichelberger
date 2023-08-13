@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:55 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ravenna (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange sphere hovering looked almost like fireWhile driving home from work, driving south on state route 14 and entering the Ravenna township area I witnessed what apeared to be a sphearacle object hovering about two hundred feet or so in the air off to my left.  It immediately drew my attention and I slowed to look closer.  I have never in my 33 years seen anything this odd looking.  It didn't apear to be moving but hovering. As I slowed, i noticed traffic coming behind me, so I moved on. I was swerving all over as I tried to view it in my rear view mirror, the object apeared to move west across 14.  I've never seen anything like it and quite honestly it freaked me out which is why I feel obliged to report this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101158.html](http://www.nuforc.org/webreports/reports/101/S101158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Atlantic Highlands (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Unexplained lightOver cast evening at the marina.  I was just watching the ships sail by when I looked up and saw a light.  It was like a star but maybe five to seven hundred feet above the water.  It stood out against the grey clouds like a spotlight. I thought at first it was a plane and expected it to move towards me but after five seconds motionless it shot straight up and dissapeared through the clouds.  Have no idea what it was. But thought I should report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83153.html](http://www.nuforc.org/webreports/reports/083/S83153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
