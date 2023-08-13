@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:44 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nelsonville (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>i was facing southeast and saw a bright yellowgreen light move from my right to left then change direction and go back to my rightI was standing in the parking lot around 12:30 at night and while I was on the phone i saw a bright yellowish green light flash of light. I was facing south east and the light moved from my right to left under the moon and then stopped and went back to my right but this time over the moon. I didnt think it was a meteor or anything. It moved too fast for any of our aircraft or any that i know of. It did not leave any kind of streak or trail, but just a focused light point that was much bigger than a star in the sky is.I dont think this is an alien spaceship, just something weird in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51658.html](http://www.nuforc.org/webreports/reports/051/S51658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Batavia (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Green lights over batavia nyGreen lights displaying different patterns.  Thought were lasers until confirmed came from sky/clouds.  Multiple craft 300-500ft above ground.  Could not confirm shape due to cloud cover.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101160.html](http://www.nuforc.org/webreports/reports/101/S101160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
