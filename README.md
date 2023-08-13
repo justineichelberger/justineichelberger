@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:38:35 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:32 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Incredibly bright light, faded in then out, maybe super nova.I'm only guessing at the date and time, it was definitely a couple of weeks before 9/11 and I saw a sighting in your database, in Ohio, similar to mine so I'm entering this as the date and time.My husband and I went fishing for catfish after dark at a local public lake. It was a cloudless night. We had a Coleman lantern and I was watching the end of my rod looking for twitches that would mean I had a fish on. I suddenly noticed a light reflected in the water and I looked up to see a bright "star" that was rapidly getting brighter. I yelled to my husband who wasn't fishing and hadn't yet noticed it. For a second I thought it was a meteorite heading dead on for us as there was no movement at all. I was convinced for just a moment that we were going to get hit and die by meteorite! Then I noticed there were no "sparks" like I've seen in other fireballs I've witnessed and I next decided it must be a super nova. It got so bright it almost hurt my eyes, it lit up the woods around us, even brighter than a full moon would. It then started to dim at the same speed that it brightened and eventually faded away to nothing. It seemed to take a long time, but I'd guess it was actually around 30 seconds in duration.If I remember correctly, I think I heard something reported on the local news a few days later involving a bright light or a super nova, but I'm not sure.I have since seen aerial flares on TV and though they are similar to what I saw, flares actually have a floating feeling about them and they last much longer than my light. My light didn't "float", it definitely seemed to be outside earth's atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55898.html](http://www.nuforc.org/webreports/reports/055/S55898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Texas (in the air over) (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Unknown Sphere Seen Over TexasWhen I was heading back from a family trip, I was near the window of the 747 on the way home when I saw a orange or crimson red sphere.  It was about 200 or so feet away, I'm unsure of the exact distance?  It some smooth and semless, no windows, no wings, no visable means of movement?  It hovered and followed the 747 for about 6 mintues, making zig zag moves in and out of the clouds. Then I went to get my camra to take a picture then as i was about to take the picture it shot strate up into the air and vanished from my view.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/029/S29254.html](http://www.nuforc.org/webreports/reports/029/S29254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
