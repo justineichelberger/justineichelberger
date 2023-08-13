@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:52 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:48 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Filer (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silent, dim lit, flying stadium lights?00:58   08/12/2020. While sitting outside in my backyard with one other person to observe the meteor shower (which was awesome). I was the first to notice 1 set of 2, rectangular shaped lights (similar shape description of an led lightbar) gliding parallel to one another in complete silence. Dim glowing, at the same time also very pro dominant in color, at a steady almost a translucent.  The fast moving object(s) seemed to be too low, and almost too big to be quiet and too “out of place”  to compare to anything I’ve ever seen in the sky before.  I observed the formation(s) shortly after clearing the shadows of the treetops in the west at approximately 280 degrees.  I pointed it out to my family member as it glided in a straight line across the entirety of the nights sky, completely parallel to each other and seemed to glow more contrast to the sky the more it traveled toward the horizon. We watched it until we lost sight at approximately 82 degrees East.  Du! ration of the event was about 10- 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158489.html](http://www.nuforc.org/webreports/reports/158/S158489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lexington (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>disc over corn fieldAt 4;30 a.m. I went outside of the house and noticed a disc shaped obeject about 100 yards or so over the cornfield. I ran back inside and grabbed my camera and took twelve photo's. I got two that were pretty good. This thing made no noise at all. When it left it was so fast that it cant be described! I also got a picture of a stelth plane in the distance that seemed to be chasing it.The pink glow you see was only in two frames. I do not know what caused that. It was right next to me and scared me real bad. I was looking to the east of the house.These photo's were taken on a sony cyber-shot 3.2 mega pixels camera. The air felt like it was full of electricity.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58829.html](http://www.nuforc.org/webreports/reports/058/S58829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
