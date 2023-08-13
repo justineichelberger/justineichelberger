@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Delaware (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>This object seen in the same general Westerly direction of the report I filed last week.  This is now the third or fourth time since moving into this area a couple of years ago that I have seen large brightly lit objects of indeterminate shape floating out over a largely deserted rural area West of the City.  Last night coming from a meeting and dinner out, I observed a very large brightly lit object floating, for lack of a better term, just over the tree line headed West (there is a small commercial airport) West of the City.  However, this object, didn't seem to be moving like an aircraft in a landing pattern.  Object was barely moving!  What attracted my attention was the unusual configuration of the lights which seemed to be in a row all on one side facing me.  This was as big as a dirigible or blimp, but didn't seem to emit any sound.  It was of indeterminate distance, and size.  I am only filing this report in the event someone else in this area saw it and might be encouraged to file a report themselves.  As big as this was I don't see how anybody could miss seeing it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30681.html](http://www.nuforc.org/webreports/reports/030/S30681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Worcester (MA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 01</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142801.html](http://www.nuforc.org/webreports/reports/142/S142801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
