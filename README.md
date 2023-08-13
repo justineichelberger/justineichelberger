@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:23:26 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:38:35 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Edwardsville (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>My 7 year old granddaughter and I (64 year old retired nurse) saw this on the way home last night around 1 am.  The rest of the sky had no visible stars and we had been  commenting on  this the last two hours of our trip from Columbus, Ohio.  We suddenly saw an object overhead,  around an 11 o'clock position that was diamond shaped but with a couple of extra short "arms" extending out from it.  At first we thought it might be a plane, but the movement of the object did not coincide with the movement of a plane.  It hovered in almost the same location, moving up and down slightly, for about 30 minutes,  I have seen many helicopters in the sky but this did not look like one.  We were very tired and did not call anyone, just went to bed when we got home.  It was not like any other object I have observed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83166.html](http://www.nuforc.org/webreports/reports/083/S83166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Incredibly bright light, faded in then out, maybe super nova.I'm only guessing at the date and time, it was definitely a couple of weeks before 9/11 and I saw a sighting in your database, in Ohio, similar to mine so I'm entering this as the date and time.My husband and I went fishing for catfish after dark at a local public lake. It was a cloudless night. We had a Coleman lantern and I was watching the end of my rod looking for twitches that would mean I had a fish on. I suddenly noticed a light reflected in the water and I looked up to see a bright "star" that was rapidly getting brighter. I yelled to my husband who wasn't fishing and hadn't yet noticed it. For a second I thought it was a meteorite heading dead on for us as there was no movement at all. I was convinced for just a moment that we were going to get hit and die by meteorite! Then I noticed there were no "sparks" like I've seen in other fireballs I've witnessed and I next decided it must be a super nova. It got so bright it almost hurt my eyes, it lit up the woods around us, even brighter than a full moon would. It then started to dim at the same speed that it brightened and eventually faded away to nothing. It seemed to take a long time, but I'd guess it was actually around 30 seconds in duration.If I remember correctly, I think I heard something reported on the local news a few days later involving a bright light or a super nova, but I'm not sure.I have since seen aerial flares on TV and though they are similar to what I saw, flares actually have a floating feeling about them and they last much longer than my light. My light didn't "float", it definitely seemed to be outside earth's atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55898.html](http://www.nuforc.org/webreports/reports/055/S55898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
