@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:52 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Seaside (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Brown crescent shaped lights seen flying over a Seaside beach in Oregon.My boyfriend and I were going to watch the meteor shower that was supposedly taking place at midnight on Friday the 13th of August 2010.  We saw a few shooting stars and watched a couple of satellites go by and the both of us spotted this floating ball thing in the sky at exactly the same time.  We looked at it and realized there a ton more surrounding it. There had to have been at least 15 of these ball shaped lights all gathered in a crescent shape. They were brown in color and there was no noise to be heard, so they weren't birds. It wasn't a plane or a helicopter either. It remained at a constant speed and it lasted for about 25 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77297.html](http://www.nuforc.org/webreports/reports/077/S77297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Filer (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Silent, dim lit, flying stadium lights?00:58   08/12/2020. While sitting outside in my backyard with one other person to observe the meteor shower (which was awesome). I was the first to notice 1 set of 2, rectangular shaped lights (similar shape description of an led lightbar) gliding parallel to one another in complete silence. Dim glowing, at the same time also very pro dominant in color, at a steady almost a translucent.  The fast moving object(s) seemed to be too low, and almost too big to be quiet and too “out of place”  to compare to anything I’ve ever seen in the sky before.  I observed the formation(s) shortly after clearing the shadows of the treetops in the west at approximately 280 degrees.  I pointed it out to my family member as it glided in a straight line across the entirety of the nights sky, completely parallel to each other and seemed to glow more contrast to the sky the more it traveled toward the horizon. We watched it until we lost sight at approximately 82 degrees East.  Du! ration of the event was about 10- 15 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158489.html](http://www.nuforc.org/webreports/reports/158/S158489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
