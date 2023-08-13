@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 12 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:26 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Strausburg (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a black triangular craft silently move across the night sky.My wife and I were at the drive-in theater and it was an unusually clear night out. I was amazed at the number of stars visible and would see an occasional shooting star. Something caught my eye moving at what seemed to be at a high altitude traveling in a southwest direction with no deviation.  It was almost like it was camouflaged in the night sky. There were fluorescent looking dim white lights on all three corners. They were rounded and the underside looked as if there was some detail other than just being black and smooth. It made no sound and continued to travel until it met the horizon and I could no longer see it. I did try to point it out to my wife but she could not see it and said I must be seeing things. I called the local airport the next day and they told me to contact the FAA.  I called and they said that there was nothing in that area that would match that description.  I think about what I saw and can give no explanation to what it might have been.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42892.html](http://www.nuforc.org/webreports/reports/042/S42892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Edwardsville (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately not sure - not sure minutes.</sub><blockquote><sub>My 7 year old granddaughter and I (64 year old retired nurse) saw this on the way home last night around 1 am.  The rest of the sky had no visible stars and we had been  commenting on  this the last two hours of our trip from Columbus, Ohio.  We suddenly saw an object overhead,  around an 11 o'clock position that was diamond shaped but with a couple of extra short "arms" extending out from it.  At first we thought it might be a plane, but the movement of the object did not coincide with the movement of a plane.  It hovered in almost the same location, moving up and down slightly, for about 30 minutes,  I have seen many helicopters in the sky but this did not look like one.  We were very tired and did not call anyone, just went to bed when we got home.  It was not like any other object I have observed before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83166.html](http://www.nuforc.org/webreports/reports/083/S83166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [637](http://www.nuforc.org/webreports/reports/164/S164373.html)
-- [636](http://www.nuforc.org/webreports/reports/164/S164321.html)
-- [635](http://www.nuforc.org/webreports/reports/164/S164318.html)
-- [634](http://www.nuforc.org/webreports/reports/164/S164320.html)
-- [633](http://www.nuforc.org/webreports/reports/164/S164461.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
