@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 13 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:02 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 20:30pm - 20:30pm minutes.</sub><blockquote><sub>very able to make out shape and colors.The sighting took place at around 8:00pm on August 13,2002. My boyfriend and I where on the way to my house and saw a giant object which at first seemed to be a plan. As it got closer we reliezed it was to big to be a plan. It was like a matallic silver and sort of a triangular shape mixed with the shape of a dimond. At the piont of  the dimond part where two giant red lights, on top a white one, on the back where two giant whinte ones. It was around for about five minutes andd while observing it, it disappered into thin air then would reappear in the same spot. Then it seemed to follow us and just dissaperd. The sky was clear that night. With our windows rolled down we assumed we would be able to hear a noise. It had to be about 100 feet in the air and not a singal sound was herd. There was only one.It also apperaed to have the three windows which would take turns flashing in a sequence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24451.html](http://www.nuforc.org/webreports/reports/024/S24451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Newark (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>it was spinning and the lights were red and yellow on them. half was yellow and half was Black. Red light on top. and travled spinning toward the montain side.it aso made a sound like a buzzing sound combined with machine</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71658.html](http://www.nuforc.org/webreports/reports/071/S71658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [455](http://www.nuforc.org/webreports/reports/164/S164338.html)
-- [454](http://www.nuforc.org/webreports/reports/164/S164339.html)
-- [453](http://www.nuforc.org/webreports/reports/164/S164319.html)
-- [452](http://www.nuforc.org/webreports/reports/164/S164340.html)
-- [451](http://www.nuforc.org/webreports/reports/164/S164555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
