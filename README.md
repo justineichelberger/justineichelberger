@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Selbyville (DE) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We were on our way home from work when I looked up and said “WHAT IS THAT?” .It was a bright light in the sky over the trees, a rectangular shape.  My husband looked up and said, “Did you see that?”   I was trying to keep an eye on it, when a tractor pulled out and then the trees got in the way.By the time we came to a clearing it was gone.  We have never seen anything like that before.((NUFORC Note:  Witness indicates that the date above is approximate.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135979.html](http://www.nuforc.org/webreports/reports/135/S135979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>A bright object moving in no set pattern.This is a picture I took 10 years ago.  My wife and I watched a bright object at dusk moving in no set pattern for 2 hours.  This was during the meteor shower in August, in the mountain area east of Eureka, CA.((NUFORC Note:  Photos shows irregular, meandering streak of light, of unknown origin.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130812.html](http://www.nuforc.org/webreports/reports/130/S130812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
