@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:26 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:57 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Roosevelt (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting on Long Island, the night of the blackout.It was bewtween 5 and 8pm, the night of the blackout, on Long Island, I saw a low flying formation of white and orange lights. I thought it was another type of popular aircraft that I'd seen before but it was too low, extremely slow moving and very quiet. Being that there was no noise outside, that was obvious.I couldn't make out a shape at all. Then it disappeared behind a group of trees.((NUFORC Note:  Witness elects to remain totally anonymous.  Date  may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31158.html](http://www.nuforc.org/webreports/reports/031/S31158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ridgway (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>while looking at the clouds at dusk, I saw a medium speed and altitude fireball traveling from SW to NE at an altitude of approx 5000ftat 8:10pm CST I was outside looking at the clouds rolling in from the south at dusk, trying to determine if they were storm clouds or not, and suddenly I saw an orange fireball moving at a medium rate of speed - about that of a commercial airplane - just above the cloud cover in the clear part of the sky, the object appeared to be at an altitude of approx 5000ft, traveling from southwest to northeast - against the wind direction at ground level.  object made no sound, and increased in brightness as if surging or charging before I lost visual.  There were lots of other aircraft with signal strobes flying in my area for the next hour or so immediately following this sighting, propeller aircraft and rotor aircraft - dark in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83170.html](http://www.nuforc.org/webreports/reports/083/S83170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
