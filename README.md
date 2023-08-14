@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Weird Lights on the North side of Chicago 8/14/08So weird!!! As I look out my window I'm seeing these lights appear super dimly at first then go into a formation (straight vertical line) then get SUPER bright, cluster up and disappear. Its happened over and over for the past 2 hours. they're not flashing like a plane would just kind of twinkling/pulsating and very very bright. Has anyone else seen this? I took a couple videos of it because it was so gosh darn bizarre. Could this be like... the air and water show practicing? Its kind of late for that. Plus these lights were hovering for several minutes. Can planes hover??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65225.html](http://www.nuforc.org/webreports/reports/065/S65225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Round bright objectI noticed a very bright white object to the west while I took my dogs out tonight.  The object was larger and brighter than the stars.  I watched the object for 15 minutes it didn't move like a plane and there wasn't any noise.  When it moved it at times left a streak of light behind it.  It went from the West to the East towards I-5, which I live close to.  This object didn't move in a pattern like a plane and when it moved it took a few seconds to track where it moved to.  It was a round bright white object.  The last time I saw it it moved toward the North East and was gone.  The night was very clear lots of stars.  I'm not sure what this was, but I am sure it was not a plane or a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135721.html](http://www.nuforc.org/webreports/reports/135/S135721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
