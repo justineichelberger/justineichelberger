@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:49 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO hovers over a house and shoots out to the sky in epic showMy husband and I were sitting in our balcony overlooking our neighbor’s roof and in the distance, a bright light, like a spotlight, just appeared out of nowhere. It hovered for a few minutes while we watched wondering what it was.  We got our iPhone to start recording to see if we could get a closer look then it moved and shot up so far up in the sky by the stars and hovered.  Then shot across the sky over our home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158698.html](http://www.nuforc.org/webreports/reports/158/S158698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Madisonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>traveled 50 miles with no driver after being the lightMyself and a friend we were in Earlington Ky on highway 41a headed south when were surrounded by a bright (blinding white in color) i was engulfed by the light there was no visibility past the car. I got the sensation that i was floating when I released the steering wheel. The next thing that i remember is being 50 miles away at Fort Campbell Ky after releasin the steering wheel.  We had changed positions in the car.  I was no longer driving and he was in the drivers seat.  What was odd was that he didnt know how to drive.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness describes self as being retired military.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32653.html](http://www.nuforc.org/webreports/reports/032/S32653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
