@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White oval ufo seen near Mt. Jumbo.Walking towards the Rattlesnake Valley from the corner of E Broadway and Van Buren, myself and a friend saw what initially appeared like a helicopter, but I realized very quickly, due to the fact that you couldn't see propellers, that it couldnt be a helicopter.  It was white, oval shape, but it also was very hazy around the object, it had a large orangey red light, and a blue light on the visible side of it.  From our vantage point, we could see that it was well past the 'L' on Mt. Jumbo, which is just over a mile away, but as it would move towards us or away from us, or uoward, its size never changed.  We watched it for about 4 or 5 minutes, and then it simply vanished, like a switch turned it off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135790.html](http://www.nuforc.org/webreports/reports/135/S135790.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West New York (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.8333333333333334 - 0.8333333333333334 minutes.</sub><blockquote><sub>This object was moving at a speed I'm not familiar with.  Flight path was west to east, on this day the sky was clear, sunny blue sky.  I have worked in a airport hub and this object wasn't an aircraft.  I took High Definition picture the photos taken are as clear as the day they were taken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101192.html](http://www.nuforc.org/webreports/reports/101/S101192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
