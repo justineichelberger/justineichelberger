@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:37:22 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:53 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frisco (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball appears on the horizon, shoots object from it, splits into two, then disappears.We were sitting on the beach at night looking at the horizon.  A bright fireball just appeared right above the horizon and then split into two equally bright circles and then disappeared completely after about five seconds.  About two minutes later, it reappeared to the left of us and a lot closer than before.  It appeared as one and just before it split into two again, something like a duller red spear shot off of the fireball and traveled a short distance to the right and angled towards the ground and then it disappeared.  Then within seconds the fireball split into two and disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112473.html](http://www.nuforc.org/webreports/reports/112/S112473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newport (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Moving object recorded  in skywe laid out to see the meteor shower when we notice a very bright light that didn't move.  It was brighter then any star we have ever seen, which is what originally brought our attention to it.  After a while, it significantely dimmed in brightness, almost to the point of disappearing.  We then got our video camera out and although we couldn't see anything through the camera, when we later viewed the digital image we discovered alot of anomolies.  It moved very fast in multiple directions.  At one point during or filming, we noticed an orange light that zipped all over the area in no appearant pattern.  It left a trail behind it as it zipped through the sky, right up until the point where it completely disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77200.html](http://www.nuforc.org/webreports/reports/077/S77200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
