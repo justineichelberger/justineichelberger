@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light (missile?) from the north west, descending to the south east.Solid white light very far away to the west.  It was moving much too fast to be a plane, but too slow to be a meteor.  It appeared to rise up from the horizon from the northwest, then gained altitude while heading south.  It traveled for about 2 minutes and lost altitude, and the light went out as it was descending to the south, slightly southeast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135714.html](http://www.nuforc.org/webreports/reports/135/S135714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Flint (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fire around a fuselage looking object flying in the sky.A UFO flew over head that resembled the fuselage of an aircraft with fire on both sides if it.  My Dad actually thought it might be a plane on fire at first and called 911 in Genesee County to report it.  We were told by the dispatcher that we perhaps saw Meteors from the Pegasis Meteor showers that were going on.  We have been watching them and know the duration of a meteor or shooting star is usually seconds.  We actually saw it a second time but further away and lower on the horizon.  The direction of travel was NNE from the Big Dipper towards Cassiopia however it was actually below Cassiopia constellation.  When  it disappeared it looked like a star however when it was overhead, two of the persons smelled a burning smell in the air.  The other two did not.The 911 Center did call us back and stated that Bishop International Airport did not have any reports of aircraft in trouble.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77239.html](http://www.nuforc.org/webreports/reports/077/S77239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
