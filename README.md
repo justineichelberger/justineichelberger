@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:54 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light (missile?) from the north west, descending to the south east.Solid white light very far away to the west.  It was moving much too fast to be a plane, but too slow to be a meteor.  It appeared to rise up from the horizon from the northwest, then gained altitude while heading south.  It traveled for about 2 minutes and lost altitude, and the light went out as it was descending to the south, slightly southeast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135714.html](http://www.nuforc.org/webreports/reports/135/S135714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ojai (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A ship that glowed an emence blue with a long blue streak, about the size of a truck, and spead at about 6 g's.I was outside playing some basketball with my little cousin when I look up toward my house I see this blue streak that was a definite object. It looked exactly like the ship from the last scene of M.I.B 2 that is driven ny Will Smith but it was blue. I didn't notice that till after my grandpa died. He was the only one too believe me. I don't expect anyone too believe this but it only matters if I believe it. THe only two explanations that were possible to rule out was an alien space ship or a really advanced jet made by human beings. It was going about 6 g's and about a 100 yrds away from me and about 60 yrds from the roof of my house. This object left a very long trail that dipersed all most instantly behind it. This was the most memorable 15 seconds of my life.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31307.html](http://www.nuforc.org/webreports/reports/031/S31307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
