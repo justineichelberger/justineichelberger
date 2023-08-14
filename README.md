@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ojai (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>A ship that glowed an emence blue with a long blue streak, about the size of a truck, and spead at about 6 g's.I was outside playing some basketball with my little cousin when I look up toward my house I see this blue streak that was a definite object. It looked exactly like the ship from the last scene of M.I.B 2 that is driven ny Will Smith but it was blue. I didn't notice that till after my grandpa died. He was the only one too believe me. I don't expect anyone too believe this but it only matters if I believe it. THe only two explanations that were possible to rule out was an alien space ship or a really advanced jet made by human beings. It was going about 6 g's and about a 100 yrds away from me and about 60 yrds from the roof of my house. This object left a very long trail that dipersed all most instantly behind it. This was the most memorable 15 seconds of my life.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31307.html](http://www.nuforc.org/webreports/reports/031/S31307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed fighter jets in the area and was watching them go in one direction. (6 or more). Then looked the other direction and noticed a metallic object smooth with no other design moving in the other direction of the jets.  I showed my party and we all noticed it but it started moving so fast we couldn’t get a picture.  This was not a typical Air craft very fluid movement and amazing speed.  It was going at a decent speed, but when the the jets moved the aircraft moved away at a incredible speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142729.html](http://www.nuforc.org/webreports/reports/142/S142729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
