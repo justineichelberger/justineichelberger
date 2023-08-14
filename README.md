@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:57 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ridgway (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>while looking at the clouds at dusk, I saw a medium speed and altitude fireball traveling from SW to NE at an altitude of approx 5000ftat 8:10pm CST I was outside looking at the clouds rolling in from the south at dusk, trying to determine if they were storm clouds or not, and suddenly I saw an orange fireball moving at a medium rate of speed - about that of a commercial airplane - just above the cloud cover in the clear part of the sky, the object appeared to be at an altitude of approx 5000ft, traveling from southwest to northeast - against the wind direction at ground level.  object made no sound, and increased in brightness as if surging or charging before I lost visual.  There were lots of other aircraft with signal strobes flying in my area for the next hour or so immediately following this sighting, propeller aircraft and rotor aircraft - dark in color.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83170.html](http://www.nuforc.org/webreports/reports/083/S83170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light (missile?) from the north west, descending to the south east.Solid white light very far away to the west.  It was moving much too fast to be a plane, but too slow to be a meteor.  It appeared to rise up from the horizon from the northwest, then gained altitude while heading south.  It traveled for about 2 minutes and lost altitude, and the light went out as it was descending to the south, slightly southeast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135714.html](http://www.nuforc.org/webreports/reports/135/S135714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
