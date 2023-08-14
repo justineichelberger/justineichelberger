@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:50 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Brampton (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My wife spotted them first.What really gave it away was that there were so many of them in such a small space.  110% they were not aircraft.They flew together at a same constant pace.  They all were glowing white, Amber and red, at times they were very visable, then they'd disappear then alternately reappear.There were 12-14 UFO's in total and they were heading to the east.Two of the groupings flew in a column of three high, some two high.But very close together.  Was nothing military and it wasn't the snowbirds!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121183.html](http://www.nuforc.org/webreports/reports/121/S121183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange lights flying north to south dropping something and disappearing.A group of three bright orange flying/hovering objects was observed above treeline heading in a southern direction from my house.  The objects would travel past my house from the north and then disappear in the south.  Two members of my group noticed something falling from the craft at several points in their flight.  One of the craft appeared to disintegrate after dropping something to the ground.  The lights were erratic in flight and seemed to fade and then brighten.One of the members of my group ( a 42 y/o housepainter) was actually in a different location in town but went outside to view the orange objects when I called him.  At his location the objects were also visible and were seen by a large group of people.My viewing group was a 5 year old boy, 8 year old boy, myself- 37 year old middle class woman with a college education, and a man in his 50's in the construction industry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91829.html](http://www.nuforc.org/webreports/reports/091/S91829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
