@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:49 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1955, an anonymous witness in Madisonville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>traveled 50 miles with no driver after being the lightMyself and a friend we were in Earlington Ky on highway 41a headed south when were surrounded by a bright (blinding white in color) i was engulfed by the light there was no visibility past the car. I got the sensation that i was floating when I released the steering wheel. The next thing that i remember is being 50 miles away at Fort Campbell Ky after releasin the steering wheel.  We had changed positions in the car.  I was no longer driving and he was in the drivers seat.  What was odd was that he didnt know how to drive.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Witness describes self as being retired military.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32653.html](http://www.nuforc.org/webreports/reports/032/S32653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>White oval ufo seen near Mt. Jumbo.Walking towards the Rattlesnake Valley from the corner of E Broadway and Van Buren, myself and a friend saw what initially appeared like a helicopter, but I realized very quickly, due to the fact that you couldn't see propellers, that it couldnt be a helicopter.  It was white, oval shape, but it also was very hazy around the object, it had a large orangey red light, and a blue light on the visible side of it.  From our vantage point, we could see that it was well past the 'L' on Mt. Jumbo, which is just over a mile away, but as it would move towards us or away from us, or uoward, its size never changed.  We watched it for about 4 or 5 minutes, and then it simply vanished, like a switch turned it off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135790.html](http://www.nuforc.org/webreports/reports/135/S135790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
