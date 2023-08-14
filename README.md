@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:53 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alpine (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red and silver ball seen over mountain town of Alpine, CA.I was in the back yard and I looked up.  My fiance was down a hill about 20 yards away.  He was watering with a hose, and dogs were barking so he could not hear me.  I said several times, "Look at the strange plane.  It has no wings", but he could not understand me, and kept on with his work.  I kept staring at the object.The object was a ball not quite the size of a basketball but larger than a soft- ball.  It was red and silver and looked like a crumpled sheet of tinfoil with red places in what appeared to be the indentations.It was moving east about the speed of a slow-moving plane.  (I later saw a plane in that area, and it flew quite a bit faster).  I don't think I looked away, but suddenly there was a smaller dark ball on each side of the object.  This configuration lasted about 30-40 seconds, and suddenly they all were gone.  No noise.  No speeding away ... they just disappeared.I immediately wrote down the time and date in case I would hear someone else talking about the same event.  I have talked to no one who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84975.html](http://www.nuforc.org/webreports/reports/084/S84975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO hovers over a house and shoots out to the sky in epic showMy husband and I were sitting in our balcony overlooking our neighbor’s roof and in the distance, a bright light, like a spotlight, just appeared out of nowhere. It hovered for a few minutes while we watched wondering what it was.  We got our iPhone to start recording to see if we could get a closer look then it moved and shot up so far up in the sky by the stars and hovered.  Then shot across the sky over our home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158698.html](http://www.nuforc.org/webreports/reports/158/S158698.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
