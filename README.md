@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:53 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:43 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Newport (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Moving object recorded  in skywe laid out to see the meteor shower when we notice a very bright light that didn't move.  It was brighter then any star we have ever seen, which is what originally brought our attention to it.  After a while, it significantely dimmed in brightness, almost to the point of disappearing.  We then got our video camera out and although we couldn't see anything through the camera, when we later viewed the digital image we discovered alot of anomolies.  It moved very fast in multiple directions.  At one point during or filming, we noticed an orange light that zipped all over the area in no appearant pattern.  It left a trail behind it as it zipped through the sky, right up until the point where it completely disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77200.html](http://www.nuforc.org/webreports/reports/077/S77200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.2 - 1.2 minutes.</sub><blockquote><sub>Silent and stealtymy friend and I witnessed this UFO this morning while looking up at the sky in Salt Lake City... West Valley Actually (SLC suburb). The craaft was headed from North to South traveling fairly fast and displaying unusual manuevers. it would "side step" either left or right whilst heading in a fowardly manner. It had no lights except for a dim circle on the bottom that gave off an orangish/yellow faint glow. It was completely silent as it flew past us. We were approx. 500 ft. from it loking west @45 degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08667.html](http://www.nuforc.org/webreports/reports/008/S08667.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
