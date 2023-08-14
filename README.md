@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnessed fighter jets in the area and was watching them go in one direction. (6 or more). Then looked the other direction and noticed a metallic object smooth with no other design moving in the other direction of the jets.  I showed my party and we all noticed it but it started moving so fast we couldn’t get a picture.  This was not a typical Air craft very fluid movement and amazing speed.  It was going at a decent speed, but when the the jets moved the aircraft moved away at a incredible speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142729.html](http://www.nuforc.org/webreports/reports/142/S142729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Weird Lights on the North side of Chicago 8/14/08So weird!!! As I look out my window I'm seeing these lights appear super dimly at first then go into a formation (straight vertical line) then get SUPER bright, cluster up and disappear. Its happened over and over for the past 2 hours. they're not flashing like a plane would just kind of twinkling/pulsating and very very bright. Has anyone else seen this? I took a couple videos of it because it was so gosh darn bizarre. Could this be like... the air and water show practicing? Its kind of late for that. Plus these lights were hovering for several minutes. Can planes hover??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65225.html](http://www.nuforc.org/webreports/reports/065/S65225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
