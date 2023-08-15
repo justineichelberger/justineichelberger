@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:58 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Buellton (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Stealth looking glider hung 20 feet over our house for a minute or soWhen I was 10 years old, I and some other members of my family were living just North of Santa Barbara California near Vandenberg A.F.B. Late one afternoon I looked into the western sky and became aware of an aircraft that looked just like a glider - cigar shaped with long narrow wings, a vertical tail fin, ailerons, and a white blinking light at the bottom of it which was flying across the top of a western mountain range. Suddenly it quickly moved South over, and probably beyond Santa Barbara (about 45 mile South) in a matter of seconds. We all became intrigued as we watched it further. It turned East, looped around and began coming closer to the ground and heading straight for us. After a few seconds I remember watching this craft floating about 25 feet off the ground right between our house and the neighbors in a large subdivision. It was painted black - like the stealth craft of today. It was so close we could have thrown a stone at it, but it made no sound at all - it was completely defying gravity. It was also dark out by that time - which now doesn't make much sense. The sun doesn't set that fast from the time we first saw it. It seemed to know we were looking at it and picked us out. I looked up and saw a pilot who was dressed all in black and wearing a black helmet. There was an orangish-pinkish glow that seemed to come from the instrument gauges and was glinting off of his helmet and gloves. He looked over at us, then looked back down at his gauges, then turned to wave to us as the craft started to slowly move away gaining speed as it moved. I never discussed it with anyone in the family until recently. Nobody else in my family remembers this event except my little sister who was 8 at the time. I was 10. I remember more of us in the back yard though, so I'm not sure why they don't remember.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34997.html](http://www.nuforc.org/webreports/reports/034/S34997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Holden (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 red-orange Lights fading in and out from right to left horizontallyStanding outside my garage walking out, I saw, to the east/southeast a sequence of 5 orange-ish red lights.  These lights were horizontal but slightly higher on the left.  The lights appeared from right to left, fading in one at a time, then quickly faded out in the same fashion(also right to left). after the first time this happened, I yelled at my father to come look, he saw one of the 3 occurrences of the same thing happen. each time this occurred subsequently, the lights moved to the left(north). After the third time, I stared in the area for about a half an hour, before giving up on seeing anything else.  When I had my sister bring my phone from inside the house out to me, the camera app would only show blue(which it has never done, and had worked prior the same evening)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83197.html](http://www.nuforc.org/webreports/reports/083/S83197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
