@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving home from a friends house on 528 in Orlando, right next to the Lockheed Martin Facility hidden in between Orlando's busiest tourism area I-Drive. Sun was just almost done setting on the horizon so I could make out a triangular shape partially, and it emitted a blue light. It looked like it had just taken off from the exact direction of Lockheed Martin's facility. I watched as it "taxi'd" for about 30-60 seconds before hyper-accelerating off into the last couple minutes of sunset. I will never forget that sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155949.html](http://www.nuforc.org/webreports/reports/155/S155949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Caribou (rural Suburb of) (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I observed a green,circular light travel across my field of view while near a potato field at night.At the time of my sighting, I was a two-year veteran of the USAF.  My home of Caribou, Maine, at the time, was home to Loring AFB, a Strategic Air Command base.  I have since retired from the Air Force after 21.5 years.  The area is extremely rural and remote, Caribou being the largest city in northern Maine.  I had returned home on leave and was out on a date.  We parked near some railroad tracks and had a view of the horizon, as created by hilly potato field.  The sun was down but you could make out the horizon line.  I saw a circular light approximately the size of a dime held at arms length, travel across my field of vision, above the horizon line.  It was green, hazy on the edges and traveled across my field of view and disappeared below the horizon in 5 to 10 seconds.  Being familiar with aircraft and having seen numerous meteorites in the area, I determined that it could not have been either.  It moved to slow to be a meteorite and had no characteristic lights that would mark it as an aircraft.  No sound was heard.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08763.html](http://www.nuforc.org/webreports/reports/008/S08763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
