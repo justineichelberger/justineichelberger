@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:58 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Holden (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 red-orange Lights fading in and out from right to left horizontallyStanding outside my garage walking out, I saw, to the east/southeast a sequence of 5 orange-ish red lights.  These lights were horizontal but slightly higher on the left.  The lights appeared from right to left, fading in one at a time, then quickly faded out in the same fashion(also right to left). after the first time this happened, I yelled at my father to come look, he saw one of the 3 occurrences of the same thing happen. each time this occurred subsequently, the lights moved to the left(north). After the third time, I stared in the area for about a half an hour, before giving up on seeing anything else.  When I had my sister bring my phone from inside the house out to me, the camera app would only show blue(which it has never done, and had worked prior the same evening)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83197.html](http://www.nuforc.org/webreports/reports/083/S83197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving home from a friends house on 528 in Orlando, right next to the Lockheed Martin Facility hidden in between Orlando's busiest tourism area I-Drive. Sun was just almost done setting on the horizon so I could make out a triangular shape partially, and it emitted a blue light. It looked like it had just taken off from the exact direction of Lockheed Martin's facility. I watched as it "taxi'd" for about 30-60 seconds before hyper-accelerating off into the last couple minutes of sunset. I will never forget that sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155949.html](http://www.nuforc.org/webreports/reports/155/S155949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
