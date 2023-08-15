@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:54 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Syracuse (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>huge red glowing round objects traveling horizonally at a high rate of speed with no soundSitting on the back of our boat at Main Channel Marina in Syracuse Indiana on 8/15/2009 at about 10:45 to 11:00 p.m. my husband, my granddaughter and myself along with 2 men on other boats witnessed a huge round red glowing object come up over the tree line traveling  horizonally  over us and as it traveled away from us the object totally went black and disappeared.   There was no sound and it was traveling at a high rate of speed.  It was so glowing it almost looked like it was on fire.   We were discussing that it was the most bizarre thing we had ever witnessed when 2 more objects exactly like the first one came over the tree line and traveled the same path as the first one.   As they went over and traveled away from us they totally disappeared at the same spot as the first one.  Wonder if anyone else saw the same thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71709.html](http://www.nuforc.org/webreports/reports/071/S71709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jensen Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round hovering ball of light (craft) no noise, disappears after 3 minutesAround 9:30pm, I was leaving work with a coworker and standing outside, facing toward south west, not extremely high was a round craft which looked as it was lit from within a white/blueish color with a fog/haze around it,  There was an airplane which was flying much higher and it was obvious it was a plane, we heard it and all.  This was different.  It didn't appear to be flying but hovering over the area, we saw it for about 3 full minutes and then it disappeared right infringement of our eyes.  There was no sound or anything, it was also not a drone (our immediate thought at first) it was a large white round craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135732.html](http://www.nuforc.org/webreports/reports/135/S135732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
