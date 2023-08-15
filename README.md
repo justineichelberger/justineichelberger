@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:24 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:36:37 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw a formation of crescent-shapped objects over suburban neighborhood.I was sleeping over at my friends house, when i woke up to a soft humming noise.  I knew i was awake because my arm, which i had broken a week before, was in pain. I looked around to see what the noise was, didn't see anything, and eventually fell back asleep. about 10 minutes later i woke up again, but the sound was much louder. Upon looking outside, i saw what appeared to be five crescent-shaped flying objects hovering and moving at an extremely slow speed (slower than an average walk, i would guess). They were about 70 feet above the house two doors down from where i was. They stayed there for a bout five minutes. Upon telling this to my friend, i learned that he saw a similar incident three nights before.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62160.html](http://www.nuforc.org/webreports/reports/062/S62160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fire ball over south county 1963  north to southi lived in the south county most of my life, in 1963 moved off of christopher dr in a subdivision known as tam o shanter, it was summer, and i was going home walking  west at the top of a hill on the way, out of the north came this fireball. it took this damned thing. witch was so low, to leave a glow on the ground and the lake to my left. it went south over the tree line, this thing had a tail behind it about as long as it was around, yellowish-red it color    i was wating for it to hit the ground  this thing looked so damed unreal almost like a cartoon,  you wanted them all this one ive keep to myself((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60431.html](http://www.nuforc.org/webreports/reports/060/S60431.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
