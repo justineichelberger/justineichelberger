@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Conrad (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO seen over Conrad, Montana  8-15-2010We saw a sphere shaped light approximately one mile up in the sky.  It appeared to be almost at a complete stop, moving extremely slowly.  We took three pictures.  When the object was zoomed in on the camera red, green and yellow lights were seen spinning, such as a stoplight spinning.  When the pictures were taken the lights did not show up on the display.  The object began moving at a greater speed, so we decided to attempt to follow it in our vehicle.  By this time it was moving so fast we could no longer keep up with it and lost sight of it.  When it disappeared it was travelling northwest, towards Valier, Montana. 4 other people saw it also.((NUFORC Note:  We believe that the photo is of a high-altitude contrail, although the source of the report disagrees.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77243.html](http://www.nuforc.org/webreports/reports/077/S77243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Syracuse (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>huge red glowing round objects traveling horizonally at a high rate of speed with no soundSitting on the back of our boat at Main Channel Marina in Syracuse Indiana on 8/15/2009 at about 10:45 to 11:00 p.m. my husband, my granddaughter and myself along with 2 men on other boats witnessed a huge round red glowing object come up over the tree line traveling  horizonally  over us and as it traveled away from us the object totally went black and disappeared.   There was no sound and it was traveling at a high rate of speed.  It was so glowing it almost looked like it was on fire.   We were discussing that it was the most bizarre thing we had ever witnessed when 2 more objects exactly like the first one came over the tree line and traveled the same path as the first one.   As they went over and traveled away from us they totally disappeared at the same spot as the first one.  Wonder if anyone else saw the same thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71709.html](http://www.nuforc.org/webreports/reports/071/S71709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
