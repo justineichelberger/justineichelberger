@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>An extremely bright flash of light lit up the sky and groud and appeared to travel from SW to NE.I am ((deleted--aviation specialist)) in Albuquerqe NM.  I was driving east on the north side of the city when I noticed a vert bright light begin in my rear view mirror and travel NE until the whole sky was lit up for about 1 second.  My first thought was that it was as bright as nearby nuclear explosion would be.  It began in the West or Southwest sky and traveled to the East or Northeast.  No sound was associated with light.((NUFORC Note::  Please compare reported direction of flight/movement with other reports of same incident.  May be an optical illusion, but that is an assumption.  The sky cameras operated by Sandia National Laboratories place the object in the western sky, viewed from the Albuquerque area.))((NUFORC Note:  For video footage of the event, captured by the Sandia National Laboratory sky camera in Albuquerque, please see the following URL:  http://www.cs.sandia.gov/SEL/apps/energy/meteor.htm  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08702.html](http://www.nuforc.org/webreports/reports/008/S08702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New York City (JFK International Airport) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately :45-:90 - :45-:90 minutes.</sub><blockquote><sub>Green fireball, which dropped a smaller one going west to east...Witnessed a green fireball travelling west to east, appro. 7000 feet up... travelled across the windshield of a 1986 Dodge Charger in about a minutes, minute and a half... Dropped a smaller fireball which lasted approx. 10 secs.. very clear, very bright</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05110.html](http://www.nuforc.org/webreports/reports/005/S05110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
