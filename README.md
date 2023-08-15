@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Caribou (rural Suburb of) (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I observed a green,circular light travel across my field of view while near a potato field at night.At the time of my sighting, I was a two-year veteran of the USAF.  My home of Caribou, Maine, at the time, was home to Loring AFB, a Strategic Air Command base.  I have since retired from the Air Force after 21.5 years.  The area is extremely rural and remote, Caribou being the largest city in northern Maine.  I had returned home on leave and was out on a date.  We parked near some railroad tracks and had a view of the horizon, as created by hilly potato field.  The sun was down but you could make out the horizon line.  I saw a circular light approximately the size of a dime held at arms length, travel across my field of vision, above the horizon line.  It was green, hazy on the edges and traveled across my field of view and disappeared below the horizon in 5 to 10 seconds.  Being familiar with aircraft and having seen numerous meteorites in the area, I determined that it could not have been either.  It moved to slow to be a meteorite and had no characteristic lights that would mark it as an aircraft.  No sound was heard.((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08763.html](http://www.nuforc.org/webreports/reports/008/S08763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Conrad (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>UFO seen over Conrad, Montana  8-15-2010We saw a sphere shaped light approximately one mile up in the sky.  It appeared to be almost at a complete stop, moving extremely slowly.  We took three pictures.  When the object was zoomed in on the camera red, green and yellow lights were seen spinning, such as a stoplight spinning.  When the pictures were taken the lights did not show up on the display.  The object began moving at a greater speed, so we decided to attempt to follow it in our vehicle.  By this time it was moving so fast we could no longer keep up with it and lost sight of it.  When it disappeared it was travelling northwest, towards Valier, Montana. 4 other people saw it also.((NUFORC Note:  We believe that the photo is of a high-altitude contrail, although the source of the report disagrees.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77243.html](http://www.nuforc.org/webreports/reports/077/S77243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
