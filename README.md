@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:21 on 14 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:24 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lewiston (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large flash of light turned into a circle??The object we saw was very large at first, It was a large red/yellow light.  It lasted for a split second and then the light stopped.  It started going moving strangely, like a zigzag motion except it was just getting higher while doing the zigzag motion. it looked like a satellite but it was going way to fast and they don't generally move like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158570.html](http://www.nuforc.org/webreports/reports/158/S158570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cranston (RI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Saw a formation of crescent-shapped objects over suburban neighborhood.I was sleeping over at my friends house, when i woke up to a soft humming noise.  I knew i was awake because my arm, which i had broken a week before, was in pain. I looked around to see what the noise was, didn't see anything, and eventually fell back asleep. about 10 minutes later i woke up again, but the sound was much louder. Upon looking outside, i saw what appeared to be five crescent-shaped flying objects hovering and moving at an extremely slow speed (slower than an average walk, i would guess). They were about 70 feet above the house two doors down from where i was. They stayed there for a bout five minutes. Upon telling this to my friend, i learned that he saw a similar incident three nights before.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62160.html](http://www.nuforc.org/webreports/reports/062/S62160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [437](http://www.nuforc.org/webreports/reports/164/S164379.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164355.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164354.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164553.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164357.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
