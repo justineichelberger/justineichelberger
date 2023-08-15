@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:59 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bend (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Unexplainable blinking lights witnessed over Texas sky.Looking up at the stars on a clear night, I noticed a blinking light and said, "Look, a satellite." But then it was gone. Within one second, it appeared further to the left, then disappeared. Within another second, it appeared further right, then disappeared. It did this for about 45 seconds. It looked almost as if it was blinking, but from one point in the sky to another. It was close enough to think it could have been one object, but then it disappeared. My friend noticed and we stood in awe and fear. The light was similar to that of a star, airplane, or satellite; but there is no way an airplane or satellite could move that far within the seconds of which we witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58778.html](http://www.nuforc.org/webreports/reports/058/S58778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lights move at incredible speed over Puget Sound.I am 47 years old and work as an engineer at a large company.  I don’t remember the exact year this sighting took place.  It was when I was about 7 years old.  That would place it in the summer of  1967.My siblings and I often slept outside on an elevated deck in our backyard when the weather was warm. On one such night I was out there with one of my sisters who was already asleep. I was lying in my sleeping bag looking up at the sky. I noticed some lights low on the horizon over Puget Sound. They looked pretty much like the kind of lights you would expect to see on an airplane. I think they were white, green and red. They caught my attention because they were so low and they just sat there motionless. At first I thought they must be helicopters but there was no sound. I estimate they were one and a half or two miles away. It was a calm night and it seemed I should have been able to hear their engines easily.I watched them for a minute or two, trying to figure out what they were. Suddenly one of the light groups shot almost straight up into the sky at an incredible speed. It moved so fast my eyes could barely follow it. In less than two seconds it simply vanished in the distance overhead. It seemed to move in a jerky, stuttering manner, starting and stopping very rapidly.My jaw just dropped.  At that moment I almost pissed in my pants, as children that age are prone to do when frightened. My next instinct was to jump out of my sleeping bag and run inside the house but I knew the door was locked. There were still two of these "things" in the sky. Using the logic of a seven year old I decided to hide my head inside the sleeping bag and stay very still, hoping they wouldn't see me. I never saw what happened to the other two objects. I was one scared kid.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57511.html](http://www.nuforc.org/webreports/reports/057/S57511.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
