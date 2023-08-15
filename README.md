@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:36:37 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:10 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fire ball over south county 1963  north to southi lived in the south county most of my life, in 1963 moved off of christopher dr in a subdivision known as tam o shanter, it was summer, and i was going home walking  west at the top of a hill on the way, out of the north came this fireball. it took this damned thing. witch was so low, to leave a glow on the ground and the lake to my left. it went south over the tree line, this thing had a tail behind it about as long as it was around, yellowish-red it color    i was wating for it to hit the ground  this thing looked so damed unreal almost like a cartoon,  you wanted them all this one ive keep to myself((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60431.html](http://www.nuforc.org/webreports/reports/060/S60431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Syracuse (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately few minutes - few minutes minutes.</sub><blockquote><sub>huge red glowing round objects traveling horizonally at a high rate of speed with no soundSitting on the back of our boat at Main Channel Marina in Syracuse Indiana on 8/15/2009 at about 10:45 to 11:00 p.m. my husband, my granddaughter and myself along with 2 men on other boats witnessed a huge round red glowing object come up over the tree line traveling  horizonally  over us and as it traveled away from us the object totally went black and disappeared.   There was no sound and it was traveling at a high rate of speed.  It was so glowing it almost looked like it was on fire.   We were discussing that it was the most bizarre thing we had ever witnessed when 2 more objects exactly like the first one came over the tree line and traveled the same path as the first one.   As they went over and traveled away from us they totally disappeared at the same spot as the first one.  Wonder if anyone else saw the same thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71709.html](http://www.nuforc.org/webreports/reports/071/S71709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
