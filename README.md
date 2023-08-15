@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in New York City (JFK International Airport) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately :45-:90 - :45-:90 minutes.</sub><blockquote><sub>Green fireball, which dropped a smaller one going west to east...Witnessed a green fireball travelling west to east, appro. 7000 feet up... travelled across the windshield of a 1986 Dodge Charger in about a minutes, minute and a half... Dropped a smaller fireball which lasted approx. 10 secs.. very clear, very bright</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05110.html](http://www.nuforc.org/webreports/reports/005/S05110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Washington (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Amazing sight too see.8 amber colored balls flickering in a row across the sky the fading out.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121215.html](http://www.nuforc.org/webreports/reports/121/S121215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
