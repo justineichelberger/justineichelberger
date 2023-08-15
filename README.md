@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:54 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 15 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jensen Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Round hovering ball of light (craft) no noise, disappears after 3 minutesAround 9:30pm, I was leaving work with a coworker and standing outside, facing toward south west, not extremely high was a round craft which looked as it was lit from within a white/blueish color with a fog/haze around it,  There was an airplane which was flying much higher and it was obvious it was a plane, we heard it and all.  This was different.  It didn't appear to be flying but hovering over the area, we saw it for about 3 full minutes and then it disappeared right infringement of our eyes.  There was no sound or anything, it was also not a drone (our immediate thought at first) it was a large white round craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135732.html](http://www.nuforc.org/webreports/reports/135/S135732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Trout Lake (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright strobe passes between viewers and Mt Adams then streaks skywardWe were camping at Mirror lake (Yakima Indian Reservation) this is on the East side of Mt Adams just below "timberline". Object: White strobe-like single flash (Extremely bright). Irregular intervals. Aprox distance: 2-3 miles  I had first seen this flash to the North of Mt adams out of the corner of my eye. I thought it was a meteor. Aprox. 30-45 seconds later I saw another bright single flash a little further south from the first. At this point I asked the attention of my friend 19 year old son, I told him just watch toward the mountain, which was faintly visible in the darkness. It flashed again, this time a little further south aprox. 20 seconds from the last flash. We continued watching, the flash occured again, this time a little further south and slightly higher in altitude. Mind you, this is passing between us and the mountain at this point(also:there are NO roads at that altitude on Adams, I was trying to rule out possible explainations at this point)as we continued to watch there was one final flash, this time, just above and to the south of the summit. This flash appeared to be brighter with the edition of a large streak that appeared to shoot west and upward. This was the last time we saw the object/light. Two days later I saw the Indian Ranger and said briefly what I saw and before I finished he said"UFO, I saw it to"  No sounds or shapes were apparent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54468.html](http://www.nuforc.org/webreports/reports/054/S54468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1069](http://www.nuforc.org/webreports/reports/164/S164532.html)
-- [1068](http://www.nuforc.org/webreports/reports/164/S164489.html)
-- [1067](http://www.nuforc.org/webreports/reports/164/S164464.html)
-- [1066](http://www.nuforc.org/webreports/reports/164/S164593.html)
-- [1065](http://www.nuforc.org/webreports/reports/164/S164682.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
