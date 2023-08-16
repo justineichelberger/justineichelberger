@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:49 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Statesboro (GA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Hovering cross shaped light formation to the west of Statesboro, GA.Was driving on I-16, approximately 14 miles from the exit for Statesboro, GA, when I noted an unusual light pattern on what appeared to be an aircraft approximately 1-1.5 km ahead. There was a pair of bright lights approximately 250 meters from the ground, with the left light remaining constant and the right light blinking on and off at an interval of 6 seconds.  The pair of lights appeared to maintain its position.  My best estimate for the size of the formation or object was 20 meters in length, and 10 meters in width.  As i drove under the formation or object I noted 6 extremely bright lights.  The lights were in a cross formation, with 4 lights comprising the central column of the cross, with two lights on the left and right of the central column.  The lights appeared to be, at my best estimate, 2-3 meters In diameter.  I found the absence of “shafts” of lights curious given how bright these lights were.  I attempted to pull off in order to photograph the object or formation, but by the time I had safely done so, the object had made a turn at a right angle relative to its last observed position and was increasing speed.  By the time I had my camera up, it had left my field of view.I think it relevant to note that I served 4 years as an Imagery Analyst (MOS:35G) for the U.S army, I have not seen any equipment that resembles what I observed, nor does the behavior of the lights match any Military SOP I am familiar with. ((NUFORC Note:  We have amended above the year of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121199.html](http://www.nuforc.org/webreports/reports/121/S121199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>2 stars, moving apart.I was sitting outside, alone with my dog, looking up at the night sky.  I was looking at the stars, trying to find the Big Dipper... I was looking at 2 stars when they both started moving away from each other, in opposite diretions for about 40 seconds and then they dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112542.html](http://www.nuforc.org/webreports/reports/112/S112542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
