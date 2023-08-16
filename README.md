@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:51 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:53 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dubuque (IA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>beautiful orange lights that moved without any soundOn Friday 16th 2013 I was riding my bike home from work at 10:30pm on Grandview ave in Dubuque Iowa.  I was traveling north and I saw at least 5 orange lights in the distance.  I thought they were street lights but then they started to come towards me; going south.  They made no noise.  I didn't know what to think.  They didn't move very fast and then the first one went into the clouds and disappeared and the rest just vansihed.  I tried to make the objects out but it was hard.  The traffic and bad glasses made it difficult.  So I just thought it had to some nonsense.  I got back on bike and started north again and I looked up and here they came again from the north but this time only 4 orange objects.  The third one speeded up and caught up to the second and the last just lagged behind.  Then they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101312.html](http://www.nuforc.org/webreports/reports/101/S101312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>not an airplane,it hapended close to burbank & van nuys  airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71719.html](http://www.nuforc.org/webreports/reports/071/S71719.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
