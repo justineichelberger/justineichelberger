@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:48 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Old orchard beach (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 slow moving balls of light disappear into a cloudWalking on the beach, my family and I watched 6 balls of light slowly move in an easterly direction.  At first we watched to see if they were airplanes, but as they entered a large low level cloud, they never came out the other side.  I watched for another 10 minutes...  Plenty of time for something to pass thru the cloud, but nothing did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83218.html](http://www.nuforc.org/webreports/reports/083/S83218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Lighted  Triangular Crafts sighted within minutes of each other HIGH OVERHEAD.Lighted, 3  triangular crafts sighted within minutes of each other.  Hello, this is to report a multiple sighting of triangular objects that were observed withing 17 mins of each other, location was at private house back yard near Oak Tree Road, Edison, NJ.  Here's the story...With the wash out of the Perseid meteor shower, gave it another chance so set up lawn chairs and waited, saw few streaks but nothing spectacular.....But at approx 4:10 am EDT observed a craft that was directly overhead traveling from south to north, it was shaped like an acute triangle with long sides/thin and had a blue white light on front of it and two rectangular type lights on each side.  The lights were a diff color than the stars and when the craft would go in front of star it would blot it  out ….....I would say this  craft was orbital, for it traveled my field of view in 15-20 secs and was very high in night sky.  Also, it did not shimmer like the stars did, just solid blue/white lights …........Then to my  surprise, spotted another craft of this type a few mins later (17) but it was to east on a south east to north west track, appox 70 degrees  and moving at same clip as prior one..............  And then, another lighted triangle appeared but it was about 6 secs behind this one, having follow same track but as it drew near it acted in HERKY JERKY MANNER, slowing down and speeding up at times....Objects  observed were about size of three pencil erasers held at arms length  , and way up in the sky........... Temp was 80 deg hazy hot and humid with a broken cloud cover that would dissipate at times ….........sure looked strange and seeing the ISS station at times these craft looked nothing like that or any other terrestrial craft …......WEIRD!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129302.html](http://www.nuforc.org/webreports/reports/129/S129302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
