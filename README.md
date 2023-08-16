@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Early morning sighting of two red, square shaped objects preceded by a deep rumbling.Started with a loud, very deep sort of rumbling noise. There were  two red square objects, both the same size,  one in front of the other. One went on alone, then waited for the other to catch up and they flew out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13929.html](http://www.nuforc.org/webreports/reports/013/S13929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bentonville (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>It was an orange ball hovering over (to our vantage point) a grain elevator.  After a short time, it just vanished.  The next night, the night of this report, my wife saw it again.  By the time I got my binoculars, it was gone.  She went for a walk and on her way back, she saw it again, but this time it was closer and appeared to light up a soybean field behind our house.  SHe ran home and just as she got to the window to knock and tell me about it, it vanished.  It doesn't seem to move much, just hover, then quickly fade away.We have seen these "fireballs" several times over the past year.  Until last night, they were always to the south of us and sometimes in pairs.  Each time, they would seem to hover for a short period of time, then fade out. Last night (08-15) we were in our back yard and saw a large (or close) one east from our place hovering above the grain elevator.  After 30-60 seconds, it faded out and we never saw it return.  It was an orange glow.  To the eye, it appeared to be the size of a push pin head.  One time before, my wife got a decent look at one with the binoculars and she said that it appeared to have lights going around in a circular motion. Tonight, my wife went to walk our dog and she saw it again.  She knocked on the window to tell me that it was back.  I ran out to get the binoculars and when I got back there (in the back yard), it was gone.  She left for her walk, and on her way back, she looked over and it was back.  She ran to the house and just as she was getting ready to knock on the window again, she looked up and it was gone.  She said that the second time, it looked closer and seemed to light up the soybean field behind our house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08666.html](http://www.nuforc.org/webreports/reports/008/S08666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
