@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Strongsville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangle-shaped craft with yellow and red blinking lights grouped together in the center.Triangle-shaped craft that had red and yellow blinking lights all grouped together in the center. The lights were blinking really fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45640.html](http://www.nuforc.org/webreports/reports/045/S45640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mandeville (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>White round light becoming bright/slightly larger, stopping, turning bluish/white and fading out.Walking dog North up my street and looking into North/Northwestern sky at a set of stars that form a triangle when a round white light caught my eye (looked to be above 20,000 ft in sky) approaching the triangle of stars.  The light was slightly brighter (about 15/20%) than the stars I was looking at and was heading west along the same line of sight.  I stopped walking to watch this light thinking is was probably a plane which may have changed direction and began heading toward me (as I live on a direct flight path to an international airport) as the light became brighter (10/15%)and slightly larger, then stopped, then turned a sort of slight bluish/white and dimmed as if to blend in with the stars I was looking at and finally the light completely faded out (all within about 7 seconds).  I stood there on my street watching this area to see if I could locate any blinking lights afterward for about a minute and saw absolutely nothing (no white/green or red bli! nking lights) that you would find on a plane had it turned it's main light off.  There are some clouds out tonight but there were none in the area of the sky I was watching.  Most commercial planes not heading to New Orleans airport will follow this flight path along I-12 toward Houston as I see them all the time; however, I've never witnessed one of them becoming larger and brighter, stopping, dimming to a different color and then fading out altogether.  I can rule this out as a sighting of the ISS as I have witnessed this pass over my area several times and this light was nowhere near as large/bright nor was it coming from the proper direction (usually ISS passes from my NW to my SE).  Lastly, I am very familiar with the star Sirius in the sky and this light was much farther North nor is Sirius in my visibility at the hour that I witnessed this light not to mention that Sirius is also visible for hours in my area when it is out (not 7 seconds).  I have seen thousands of p! lanes flying over my area both AM & PM and never had witnessed! one wit h these unusual properties.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91882.html](http://www.nuforc.org/webreports/reports/091/S91882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
