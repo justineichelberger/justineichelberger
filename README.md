@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:36:08 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:14 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lindenhurst (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green shooting light seen in sky over Lindenhurst, NyGreen light with tail heading from Northwest to Southeast no sound heard. Airplane was in area at time heading from Southwest to Northeast.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58217.html](http://www.nuforc.org/webreports/reports/058/S58217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Alliance (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Missle shaped craft, no wings, no lights, no landing gear, no sound, no CHEM TRAILI am unsure of the exact date this occurred, but it was a Sunday late afternoon. My children and I were swimming at my mothers house. It was shortly after dinner time, but the sun was still above the trees. They live outside the city on and acre of land and recently had 5 very large trees removed from the backyard in order to put in the swimming pool. We are about 25 miles away from Akron/Canton Airport so we are used to seeing aircraft flying overhead. Those traffic lanes are generally East-West and NorthEast-West.  We also have several small airports nearby where little two-seaters and bi-planes take off and land. What made us stop and stare at this particular craft was that it was flying at about 2-3000 feet and going from North to South. The craft was shaped like a missle almost, but there were no wings, no lights, no landing gear, no sound, no CHEM TRAIL. The sun (which was in the west) appeared to be reflecting off the exterior of the craft, yet as it traveled south, the glare never stopped. If you have ever watched an aircraft pass overhead, there is always a point where the sun is no longer reflected off the aircraft and back in your eyes and you can get a better look. This was not the case. What I originally took to be sun glare (bright white) must have been lighting of some kind. My mother (58) and step-father (60) both saw it and we discussed it for almost an hour after it was gone. Two of my 4 children also remember seeing it, but have nothing new or remarkable to add.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32478.html](http://www.nuforc.org/webreports/reports/032/S32478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
