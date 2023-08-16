@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:01:04 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scituate (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light, moving up down and left to rightOn 8/16/04 I went outside to have a smoke (trying to quit) I was looking up at the stars as I often do. I noticed a light white in appearance with a red/blue/green tinge mixed in about the size of the head of a common pin at arms length. At first I thought it was a small air craft but then it started to move to the right and then to the left then up and down. This movement happened in an area that if you held a quarter (.25 cents) at an arms length, that diameter. My observation was looking due west and up aproximately 40 degrees. I live in a rural area and it is very dark at night and there was no moon. I should also note that there was another aircraft traveling due east, the distance apart was would be 30 inches if you held out both of your arms and pointed an index finger to each object. I believe the aircraft would have been able to see the light if it were traveling in the opposite direction. The event lasted from 21:28 to 21;33 about 5 minutes(Ilooked at my wristwatch as soon as I saw the light, and when I could no longer see it). The light was bright at first then became dim and finally just went out. It did not streak off or away. I would put the light some where over eastern Connecticut although it was observed from Rhode Island. I would guess the light was 15 to 20 miles away from my observation location but it is only a guess as distance is hard to judge. I could hear the small air craft as it steadally flew in the opposite direction. This is the first posting I have ever done although I have had two other sightings over the last two years from the same observation location.((NUFORC Note:  The witness describes an object in that area of the sky where Jupiter would be seen.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38707.html](http://www.nuforc.org/webreports/reports/038/S38707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manchester (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Green lighted craft hovering above the lake,for atleast 45 minutes, approximately 10 feet above the water very very bright eradesent green</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163520.html](http://www.nuforc.org/webreports/reports/163/S163520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
