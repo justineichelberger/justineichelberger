@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:53 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>not an airplane,it hapended close to burbank & van nuys  airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71719.html](http://www.nuforc.org/webreports/reports/071/S71719.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Old orchard beach (ME) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>6 slow moving balls of light disappear into a cloudWalking on the beach, my family and I watched 6 balls of light slowly move in an easterly direction.  At first we watched to see if they were airplanes, but as they entered a large low level cloud, they never came out the other side.  I watched for another 10 minutes...  Plenty of time for something to pass thru the cloud, but nothing did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83218.html](http://www.nuforc.org/webreports/reports/083/S83218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
