@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:04 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:55 on 16 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Manchester (NH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Green lighted craft hovering above the lake,for atleast 45 minutes, approximately 10 feet above the water very very bright eradesent green</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/163/S163520.html](http://www.nuforc.org/webreports/reports/163/S163520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alton (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Five (5) individual craft/lights, blinking green and steady red, high pitched whine faintly heard, east to west movement over MissouriStanding on my front porch, facing south out over the Mississippi River, I observed the following over Missouri.There was a twinkling/flashing green light, hovering in the distant sky. The light changed to constant red and the object sped at a high rate of speed off to the west. It disappeared behind trees blocking my view.About 20 to 30 seconds after that, there was a faint high-pitched whine and another red lighted object appeared in the same location as the original green light. It sped in from the east, came to an abrupt stop and then sped at a high rate of speed to the east. It then stopped and abruptly reversed direction to the west. Again, the high-pitched whine and disappeared behind the trees.Again, about 20 seconds later, another red light appeared in the same location. It was accompanied by a high-pitched whine and continued from the east and headed west.In total, I observed this very same event five (5) times. All moved at extremely high speed. All produced a high-pitched whine. All zoomed off to the west. This all occurred over Missouri.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158626.html](http://www.nuforc.org/webreports/reports/158/S158626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164378.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164604.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164391.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164418.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164417.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
