@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:52 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Northfield (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangular shaped formation.Three orange circular shaped craft in a triangle formation.  Craft formation was observed through binoculars.  One by one, crafts faded out after a period of roughly 20-30 minutes.  This same formation was observed the evening of the 14th as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129347.html](http://www.nuforc.org/webreports/reports/129/S129347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Last night was spectacular. Looking out from Coal Harbour over Lions Gate Bridge, my wife (who is a skeptic) and I were treated to a fantastic dance by numerous "objects".  It was not that the binoculars were unsteady, one object would race in all directions in front of another object which remained steady, so there could be no question about what it was doing. The motions, in all directions, including criss-crossing, were incredibly fast - about as fast as the eye could follow. Approx: time viewing objects was 2 minutes. We are using 10x50 WA binoculars - it would not be readily seen with the naked eye. Hope you find this information worthwhile reading,  Regards,  Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30836.html](http://www.nuforc.org/webreports/reports/030/S30836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
