@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:51 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Federal Way (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Witnesses see six green glowing egg shaped objects overhead flying east followed by a flashing blue saucer!!It was 12:30 AM this morning.  My brother was going home after he visited me and my family for the day.  I saw him to his car and talked to him for a couple of minutes.  We were then distracted by green lights overhead.  The vehicles were about 100 feet high.  These objects were moving east at a velocity of 10 mph.  There were six of these objects and were all traveling together.  Some of these objects were moving erratically left and right but were all staying pretty much in formation.  Two teenager ran towards us from the left in excitement screaming what the hell are those!!?!  My brother and I did not say anything for abut twenty seconds as we were in awe.  I then told them that they looked like green glowing eggs, and one of the kids said, they are definitely not airplanes, not helicopters, their not even making any noise.  A blonde girl around 22 joined us and began watching them as well.  She was speechless.  Then a car pulled up and a 30 year old woman asked what we were looking at, we said we have no idea.  Six green egg shaped objects just flew over our heads and you can still see them right next to the tree on the left.  She said, *I See them," and her son said I see them too!!!!  We stood there for another 3 or 4 minutes until they just disappeared.  Ten minutes later, my brother and I saw another object fly quickly over our heads but this one was flashing a blue light.  We saw its outline as it passed overhead between us and the white cumulus clouds above.  The object was black and shaped like a disk with a very bright blue flashing light underneath.  It continued towards the east for about 400 meters then made a sharp left turn and disappeared.  That is all I can say, that is what we perceived.  Can you tell me what it was?  Did the air force pick up anything on radar at this time?  Let me know!  Thank You ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30751.html](http://www.nuforc.org/webreports/reports/030/S30751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Extremely bright red light in NW night sky. No defined shape. Slowly traveled eastward. Light dimmed and disappeared.My husband and I had just walked outside to get in the car around 8:30pm.  It was a clear, calm night with no wind. I looked up, above our apartment complex, and directly overhead I saw an extremely bright red light.  It was not an airplane (my husband is an airplane buff) because there was no defined shaped or night lights, nor was it a meteor or comet because it had no tail, nor firework debris because it did not descend.  We stood on the sidewalk and watched this strange light travel slowly eastward.  At one point it seemed to hover and then turned to the east.  As it traveled eastward, the light dimmed and then total blackness.  No sign of it anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91988.html](http://www.nuforc.org/webreports/reports/091/S91988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
