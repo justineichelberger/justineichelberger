@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:51 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gadsden (AL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately dark - dark minutes.</sub><blockquote><sub>me and my dad were sitting on our deck talking and then these two bright orange and green lights appeared first we thought we were seeing things. then we saw them go away and then they came back it was so cool((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65440.html](http://www.nuforc.org/webreports/reports/065/S65440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wauconda (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright silver cigar-shape ( no visible wings ) moving towards the N.East. viewed over Bangs Lake.On Sunday evening 8/17/08 at about 7:00 pm I was fishing off the public pier at Bangs Lake with my 14 year old son and two other fishermen. The sky was bright and clear with only light clouds overhead. We were facing south when I told my son to look at the large jet (its color scheme was gray with 4 red engines and red tail) that probably took-off from O’Hare airport and was just passing over us.That is when I saw much higher up more to the left a bright silver cigar shape traveling from S.West to N.East just below the clouds. I said out loud "look at it, it has no wings!"  So I grabbed my binoculars (7x) from my fishing bucket/chair and stared at it almost straight overhead.It was a silver cigar without wings and was traveling as fast as or faster than a military jet but the next thing that struck me weird is this thing did not produce any vapor trail at all. None.It sped through 2 of the clouds before it was gone from sight in the n.east and it stayed very bright silver until out of my sight. Definitely was not a jet.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65290.html](http://www.nuforc.org/webreports/reports/065/S65290.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
