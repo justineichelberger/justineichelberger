@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:54 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Object looked to hover over a neighborhood for 3-4 minutes.  Maybe 1000ft or less.  It looked to have 2 lights that would turn on and off and pulsate.  It then just disappeared after a flash of light like someone turned on a bright flash light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142781.html](http://www.nuforc.org/webreports/reports/142/S142781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>four lights in diamond config., size: laptop held at arms length. fast, silent, superstruture.After exiting the AMC theatre in Tempe (which was playing "Sixth Sense") at about 9:30, 60 or so people were looking up at the sky toward the North. I looked up and saw four white lights spaced in the shape of a diamond. The size was about the size of a laptop computer held at arms length. There was a dark superstructure filling in the area between the lights as contrasted against the cloud cover behind it.  It hovered for a few minutes then shot off to the north, N. Phoenix, then shot back to the south, then back to the origin- al position, and then shot straight up through the clouds, dissappearing. There was no noise from it.  There was no build up of speed as most of our conventional aircraft would exhibit. It appeared to move at a constant, very rapid velocity. And did not appear to slow down. It just came to an immediate stop.  The local radio station (93.5Mz??) was asking for people, who saw it, to call in.  People from N. Phoenix did see it and called it in.  I was expecting to see it in the local paper but there was nothing at all, which is quite supprising since so many people saw it and it was talked about on a local radio station.  I am not a local. Was in town on business.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09479.html](http://www.nuforc.org/webreports/reports/009/S09479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
