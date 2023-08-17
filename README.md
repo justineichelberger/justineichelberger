@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:54 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hudson (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>20 very bright lights in distinct groupings traveling across the sky.It was dark as we left our place of dinner that evening.  Walking up the street, I glanced up to the sky and saw about 20 very bright round lights, which appeared to be floating across the sky all in unison, but yet in distinct small groupings.  They were a simple bright light, with no change in colors whatsoever for any of them.  As quickly as they appeared they floated out of sight as as they moved from Southwest to Northeast.Two individuals walked by us as we were watching the lights and they witnessed what we did.  I have never seen anything like it in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91968.html](http://www.nuforc.org/webreports/reports/091/S91968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hemet (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Objects just came out of the sky in a bright flash and left the same way.Objects appeared in the sky as a flash of light then disappeared up into the sky. There was two objects of a diamond shape,bright and shiny. The sky was blue and clear and not a cloud in the sky. I thought at first they could be airplanes but they seem to have just dropped out of the sky and disappeared the same way they had shown up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45653.html](http://www.nuforc.org/webreports/reports/045/S45653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
