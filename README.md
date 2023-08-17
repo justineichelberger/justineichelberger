@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>four lights in diamond config., size: laptop held at arms length. fast, silent, superstruture.After exiting the AMC theatre in Tempe (which was playing "Sixth Sense") at about 9:30, 60 or so people were looking up at the sky toward the North. I looked up and saw four white lights spaced in the shape of a diamond. The size was about the size of a laptop computer held at arms length. There was a dark superstructure filling in the area between the lights as contrasted against the cloud cover behind it.  It hovered for a few minutes then shot off to the north, N. Phoenix, then shot back to the south, then back to the origin- al position, and then shot straight up through the clouds, dissappearing. There was no noise from it.  There was no build up of speed as most of our conventional aircraft would exhibit. It appeared to move at a constant, very rapid velocity. And did not appear to slow down. It just came to an immediate stop.  The local radio station (93.5Mz??) was asking for people, who saw it, to call in.  People from N. Phoenix did see it and called it in.  I was expecting to see it in the local paper but there was nothing at all, which is quite supprising since so many people saw it and it was talked about on a local radio station.  I am not a local. Was in town on business.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09479.html](http://www.nuforc.org/webreports/reports/009/S09479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Salem (Outside) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellowish light pulsating in the night skyWhile I was heading to work(2315-2325) on Hwy 22 going West I observed a light in the sky that was yellowish in color.  At the time I was observing, the area in the sky was around the big dipper.  It was a clear night and there were no clouds visible at the time.  At fist glance I thought i was observing Mars, but at second glance I observed the light in the sky pulsating several times.  I had watched this in the sky for several minutes not believing what i was seeing and trying to make a rational decision on what I was seeing.  Within the timeline I had made up my mind due to the fact that this light was blinking in and out several times at one point disapearing for several seconds.  I then lost sight of the light when I turned and headed North on hwy 99west.  I want to be sure in what I was seeing so if there are any other people around the area of Salem Oregon who also observed this light report it as well thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19183.html](http://www.nuforc.org/webreports/reports/019/S19183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
