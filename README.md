@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:48 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Salem (Outside) (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yellowish light pulsating in the night skyWhile I was heading to work(2315-2325) on Hwy 22 going West I observed a light in the sky that was yellowish in color.  At the time I was observing, the area in the sky was around the big dipper.  It was a clear night and there were no clouds visible at the time.  At fist glance I thought i was observing Mars, but at second glance I observed the light in the sky pulsating several times.  I had watched this in the sky for several minutes not believing what i was seeing and trying to make a rational decision on what I was seeing.  Within the timeline I had made up my mind due to the fact that this light was blinking in and out several times at one point disapearing for several seconds.  I then lost sight of the light when I turned and headed North on hwy 99west.  I want to be sure in what I was seeing so if there are any other people around the area of Salem Oregon who also observed this light report it as well thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19183.html](http://www.nuforc.org/webreports/reports/019/S19183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 Bright lights in the sky moving about and flickering.Exactly midnight.On porch of home.6 orange lights in sky, all pulsating randomly.Two groups of three.Both groups moving away from each other.The left group breaks apart, moving downwards, and starts to flicker away.3 lights left, 2 next to each other, 1 below view.1 light burns out.2 lights left.1 light mid sky, varying brightness, stationary.1 light rising up from out of view, pulsating, moving towards other light.Both lights now about a perceived inch away, perfect 45 degree angle.Both lights slightly move towards, then away from each other, randomly pulsing, Both lights slowly flicker away to nothing.2 Minutes later, all visible stars/ lights in the sky disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112552.html](http://www.nuforc.org/webreports/reports/112/S112552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
