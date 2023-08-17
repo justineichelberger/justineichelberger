@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:52 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:57 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Last night was spectacular. Looking out from Coal Harbour over Lions Gate Bridge, my wife (who is a skeptic) and I were treated to a fantastic dance by numerous "objects".  It was not that the binoculars were unsteady, one object would race in all directions in front of another object which remained steady, so there could be no question about what it was doing. The motions, in all directions, including criss-crossing, were incredibly fast - about as fast as the eye could follow. Approx: time viewing objects was 2 minutes. We are using 10x50 WA binoculars - it would not be readily seen with the naked eye. Hope you find this information worthwhile reading,  Regards,  Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30836.html](http://www.nuforc.org/webreports/reports/030/S30836.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ajo (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>numerous red/blue stationary objects in the az desert sky.While visiting my daughter in Ajo Az. I was up late with a friend. I noticed the lights in the sky. My friend that they always see them. I began to noticed that there were approximately 15 in the sky. Some above 2 to the west but mostly all of them were in the eastern sky. A few seem to be in a distinct pattern 3 verticly and 1 on either side. We also noticed movement on a  couple of them. I viewed them through binoculars and there appeared to be the the same light pattern on all objects. Half red, half blue. They stayed in the same position all morning long (0300-~0530).I contacted the ASU physics and astronomy dept. to get more info on satelite characteristics. I also read up on the internet about satelites. Nothing I read could explain or com close to the characterstics of these lights/objects. They suggested it was possibly aircraft or dirty binoculars. Absolutely not! An airplane cannot hold it pattern like that and the binoculars were clean.They are still up there at night and numerous people in town have noticed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24656.html](http://www.nuforc.org/webreports/reports/024/S24656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
