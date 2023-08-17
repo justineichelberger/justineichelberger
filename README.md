@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:43 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Marlton (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Diamond shaped object with red and green flashing lights.I noticed a very bright light in the southern sky, quite low.  I observed for maybe 30 seconds, and asked the other person what that light was.  The pattern was diamond-shaped, with approximately 5-6 lights, the top one being very bright.  The object was still and there was no sound (like a jet or helicopter sound).  We observed this for about 2 -3 minutes. Suddenly, the object moved in a westerly direction and the lights changed to green and began flashing in a sort of chasing pattern.  Then they changed to red and green, then all red-still chasing/flashing.The object moved very quickly to the west and disappeared from view.  I went to the front of my house and observed it still moving to the west-crossing Route 70.  This all happened in about a five minute time span.About 10 minutes went by and the object returned and again, remained still.  We observed this for about 2-3 minutes and then the lights changed again to red and green, and the object farted off in a north lay direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158667.html](http://www.nuforc.org/webreports/reports/158/S158667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Macomb (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very bright then dim object no flashing lights spotted moving south then back north.  It was spotted by a feeling my wife had.My wife called my name and showed me an airplane in the sky.  She just felt like showing it to me.  So I figured OK well I'll go get my binoculars and entertain her.  It was just a normal airplane.  So I tried looking at the airplane when she exclaimed well what is that?  It was a point of light that was changing in intensity.  It was about as bright at first as a planet in the sky.  It was approaching the airplane in the sky.  It changed angle slightly but flew mostly straight and became very dim till we could not see it.  It seemed to be heading 30 degrees south/west 0 deg = west.  It might have been following the airplane but we are not sure of the exact elevation.  Then it came back the other way also very dim and small such that we could barely make it out.  It looked to be retracing its previous path.  I remember exclaiming that it seemed unusual that it didn't have blinking lights like the air plane.  It was also white while it was bright but became o! range when it became dim and small.  To me from memory it was moving about 1.5 times faster than the airplane from our perception.  The airplane had 2 red flashing lights and heading south/west 12 degrees. 0 degrees being west.  The airplane was almost directly over head but a bit south.  Maybe 80 - 85 deg elevation by the time the unknown object was spotted heading back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83245.html](http://www.nuforc.org/webreports/reports/083/S83245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
