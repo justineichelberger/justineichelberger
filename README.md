@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:35:53 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:19 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>V shaped formation moving east to west, dim lights unlike aircraft.V shaped dim lights moving east to west in night sky, below big dipper.  Faded out as moved into east. Lights were dim white and did not resemble aircraft, looked like geese flying in formation but in complete darkness.  I have never seen anything like this and I am not a believer in ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91913.html](http://www.nuforc.org/webreports/reports/091/S91913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roswell (35 miles south of) (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>SR-71 Blackbird seen near Roswell?My brother and I were on motorcycles headed South on HWY 285 about 35 miles from Roswell (what a weird coincidence) on our way to Austin.  Both of us were raised by a retired USAF pilot, and we both know our military airplanes.  We both spotted an aircraft moving from West to East above the highway in front of us (as we looked South ahead of us).  It moved at the speed of a jet fighter, probably going about 500 mph at 1-2 thousand feet.  Our view of the craft was a look at the side profile.  When each of us saw it we both thought that:  1) the color was black, on a sunny day with no clouds, and 2) The profile was a dead ringer for an SR-71 Blackbird.   We immediately discussed it on our CBs and found we had both thought the exact same thing, an SR-71.  I thought they were all decommissioned and went to the internet when we got home today looking for info that they have activated an SR-71.  I know the old  Roswell AFB has a very long runway.  Could the government be bringing one of these to active service based on what has been going on in the world recently?  What a good place to test them.  If anyone saw a test, they could claim its another Roswell UFO nut.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112650.html](http://www.nuforc.org/webreports/reports/112/S112650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
