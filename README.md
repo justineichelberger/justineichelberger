@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:03 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Stealth Aircraft flying street light high gilbert arizonaAircraft flying just higher than street light in a residential area.Aircraft executed a roll between houses then flew at tree level south.  The aircraft appears to have manuverability of a helicopter, but uses jet engine thrusters to manuever.Also employing stealth technology as it is viewed as a thick bee storm.I have had multiple sightings of this aircraft, which could be military, or police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101347.html](http://www.nuforc.org/webreports/reports/101/S101347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Trout Lake (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was attending a three-day symposium at the Sattva Sanctuary near Mount Adams, a spiritual sanctuary that is known for its UFO sightings.  Just before the first of two sky watches was held, a bunch of us headed for the parking lot for our lawn chairs and jackets.  Someone yelled to look up at the eastern sky, and we observed an object that I could not explain -- it was a tiny dot that would flare brilliantly (white) into what I saw as an almost triangular shape.  I swear I also saw what looked like two faint stick-like protuberances on either side.  The object then went back to its regular very faint dot, then flared brightly a couple of more times before becoming so faint that it eventually disappeared.  I frankly was so taken by the beauty of the thing that I didn't pay much attention to speed (it was moving from north to south).  It would be interesting if some of my fellow witnesses would come forward and give their own version of what they saw. I found that this was the best sighting (for me) of my three days there.  I sat for several hours in the sky watches and did see some objects that did not behave like the airplanes, shooting stars, and satellites I did observe in the beautiful crystal-clear night skies outside of Trout Lake.  I suppose you would call these UFOs since I could not identify them!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52559.html](http://www.nuforc.org/webreports/reports/052/S52559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
