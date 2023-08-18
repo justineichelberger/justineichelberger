@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:50 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Porquis Jct. (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30sec to a minute - 30sec to a minute minutes.</sub><blockquote><sub>My wife and I were driving along the highway between Porquis Jct and Iroquois Falls Ontario at around 8:30pm-9:00pm. We both witnessed 2 separate glowing spheres appear above us but below the clouds, we still had a bit of daylight left.  I watched one out the passenger window above me and my wife watched one out the driver window on her side of the cat. .  They disappeared as quickly as they appeared.  The sphere that I was watching started moving horizontally than quickly shot up and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149793.html](http://www.nuforc.org/webreports/reports/149/S149793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Stow (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My camcorder recorded more then what i was seeing through the lens, I can not think of one explanation for what i was seeingAug 18 2001, went back to campground to see if i would see the same objects i'd seen on Aug 14, and 15 of 2001.. Last night the sky was couldy, but i could see what looked like a star shinning really high in the sky, after watching it for a couple of minutes i realized it was the same " thing " as before, i noticed about 4 of the "big stars"  My camcorder recorded more then what i was seeing through the lens, I can not think of one explanation for what i was seeing.. I will go back tonight to try to get more on flim..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19159.html](http://www.nuforc.org/webreports/reports/019/S19159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
