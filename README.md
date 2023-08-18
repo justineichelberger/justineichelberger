@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tollison (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I was looking East toward Phx.  I saw a huge fireball fall toward earth, It turned blue as it flared and went out, I thought it was a meteorBright White with small streaming tail.  Huge in size it was East, North East of me.  I thought it was going to hit the ground, but it flared into a blue white light and then seemed to be extingueshed. Unfortunately I work a lone and was looking at the outside table and happened to look up and catch it on the downward fall.  As I looked I thought it was the bigest metior I had ever seen. But as it got right above the freeway lights in the distance it went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08722.html](http://www.nuforc.org/webreports/reports/008/S08722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wilmington () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Caught my eye because it was really high, leaving a short contrail.  Looked like a small company jet but seemed to be moving faster than anything else I’m used to seeing.  It quickly stayed on a south south west direction.  It may have been a glare, but  as it went onward it seemed to have a glow like a small fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158696.html](http://www.nuforc.org/webreports/reports/158/S158696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
