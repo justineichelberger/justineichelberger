@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Stow (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>My camcorder recorded more then what i was seeing through the lens, I can not think of one explanation for what i was seeingAug 18 2001, went back to campground to see if i would see the same objects i'd seen on Aug 14, and 15 of 2001.. Last night the sky was couldy, but i could see what looked like a star shinning really high in the sky, after watching it for a couple of minutes i realized it was the same " thing " as before, i noticed about 4 of the "big stars"  My camcorder recorded more then what i was seeing through the lens, I can not think of one explanation for what i was seeing.. I will go back tonight to try to get more on flim..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19159.html](http://www.nuforc.org/webreports/reports/019/S19159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Tollison (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>I was looking East toward Phx.  I saw a huge fireball fall toward earth, It turned blue as it flared and went out, I thought it was a meteorBright White with small streaming tail.  Huge in size it was East, North East of me.  I thought it was going to hit the ground, but it flared into a blue white light and then seemed to be extingueshed. Unfortunately I work a lone and was looking at the outside table and happened to look up and catch it on the downward fall.  As I looked I thought it was the bigest metior I had ever seen. But as it got right above the freeway lights in the distance it went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08722.html](http://www.nuforc.org/webreports/reports/008/S08722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
