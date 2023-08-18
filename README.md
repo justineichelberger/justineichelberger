@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 17 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:17 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Catharines (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 Bright lights in the sky moving about and flickering.Exactly midnight.On porch of home.6 orange lights in sky, all pulsating randomly.Two groups of three.Both groups moving away from each other.The left group breaks apart, moving downwards, and starts to flicker away.3 lights left, 2 next to each other, 1 below view.1 light burns out.2 lights left.1 light mid sky, varying brightness, stationary.1 light rising up from out of view, pulsating, moving towards other light.Both lights now about a perceived inch away, perfect 45 degree angle.Both lights slightly move towards, then away from each other, randomly pulsing, Both lights slowly flicker away to nothing.2 Minutes later, all visible stars/ lights in the sky disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112552.html](http://www.nuforc.org/webreports/reports/112/S112552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>It was a clear, dark night in The Connecticut sky around 10PM when my friend and I were on the way to get me home when what I thought at first was a shooting star, but then it was beyond too big to be that.  It’s was hurling across the sky in a speed I’ve never seen before leaving a trail blazing behind it.  The object appeared green like a gas like green glow was around it and I eventually saw it disenegrate as the atmospheric pressure could have caused that.  My friend and I were in shock and had never seen anything like it.  There were no posts, nothing from NASA, just nothing that was bringing up the potential sighting of this object.  It was unreal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158707.html](http://www.nuforc.org/webreports/reports/158/S158707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [393](http://www.nuforc.org/webreports/reports/164/S164367.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164381.html)
-- [391](http://www.nuforc.org/webreports/reports/164/S164609.html)
-- [390](http://www.nuforc.org/webreports/reports/164/S164370.html)
-- [389](http://www.nuforc.org/webreports/reports/164/S164372.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
