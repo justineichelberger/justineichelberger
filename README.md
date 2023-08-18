@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:01:01 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>cigar object floating in air very clearWe were eating breakfast on the back deck and all noticed a almost submarine like cigar shaped floating object glideing in almost a diagonal line across the sky it made no noise or left any trace and had no wings or propelers. It was very close to the ground and just a little bit over top of the trees. It was amazing. And crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58243.html](http://www.nuforc.org/webreports/reports/058/S58243.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cigar shaped object, white and silver/metalic in appearance, hovering over Sacramento at noon todayI saw a strangely moving cigar/rectangular shaped object over Sacramento today at 12:15 PM today as I was traveling in my car south on Fair Oaks Boulevard near Madison Avenue. I was headed in the direction of Mather Air Field, so I assumed it was a large military plane. As I continued to look at it I noticed that it was not moving fast enough to be an airplane. It was so low in the sky that it should have been moving very fast. I could not make out any wings or tail, just a defined object, white in color, not glowing in any way, with a silver/metallic edge around the bottom and sides. It was shaped like a flattened (or squared) cigar, not completely tubular, and I could see the details of the shape in good detail. It was definitely a technological object—not cloudlike or organic in any way. It appeared to be hovering, possibly moving very slowly to the east. I was looking at the object through my front windshield for probably 30 seconds, as I was driving in slow traffic. I had to brake for traffic in front of me, and lost site of the object for a few moments, then found I saw it again through my driver side window.  I continued to look at the object hovering for another 20 seconds or so until traffic forced me to go forward, at which point I lost site of the object completely. It was as if it just disappeared—but I had to concentrate on the road so I can not say I saw it vanish—I just could not find it again. I thought it could have been a reflection in my window, but since I saw the same defined object from two different windows while craning my head around in the car, and since it was noon on a sunny day, it could not have been a reflection.  I can’t say how high it the sky it was, but I can say that I had the impression that it was the size of a school bus based on the detail that I could make out. No wings, no tail, no markings other than white on the top, silver/metallic on the bottom, with some contours and angular reflections on the bottom and sides.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58258.html](http://www.nuforc.org/webreports/reports/058/S58258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
