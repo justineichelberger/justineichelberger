@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:53 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Big Sur (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately minute - minute minutes.</sub><blockquote><sub>I was at Nepethe Lodge in the Big Sur area with a friend of mine and we were having dinner.  I looked up at the sky and thought I was seeing a falling star; I pointed it out to my friend, as we were watching it, it stopped and made a sharp turn, like a sharp left turn.  We were both stunned and I asked whether she saw what I saw and she confirmed that she saw the same thing. It was very high in the sky and looked like a star.  We both agreed that it could not be a plane,a jet, a satellite, or anything we could recognize, and it certainly was not a shooting star.  It was moving very fast.  This was the second sighting I have had in my life thus far.  Once, when I was very young and then, this sighting, as a young adult.  How can mankind be so vain to think we are the only forms of intelligence in the entire universe.  It was amazing . . . a bright star (it was bright) looking object, coming down like a shooting star and pausing and then making a sharp turn.  I really don't believe we had, nor have, anything that can move like that moved.((NUFORC Note:  Date may be approximate.  There is a meteor shower during the month of August, but it would be an extremely rare meteor that would be visible for a minute. I have been to the very Nepenthe Lodge in Big Sur on many occasions, while I was a university student in California.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27485.html](http://www.nuforc.org/webreports/reports/027/S27485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>as aboveFormation of three then two and finally one, low flying, soundless, yellow with a hint of red, lights over east london, visible for several minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58255.html](http://www.nuforc.org/webreports/reports/058/S58255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
