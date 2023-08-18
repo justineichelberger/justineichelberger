@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:17 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:35:53 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>It was a clear, dark night in The Connecticut sky around 10PM when my friend and I were on the way to get me home when what I thought at first was a shooting star, but then it was beyond too big to be that.  It’s was hurling across the sky in a speed I’ve never seen before leaving a trail blazing behind it.  The object appeared green like a gas like green glow was around it and I eventually saw it disenegrate as the atmospheric pressure could have caused that.  My friend and I were in shock and had never seen anything like it.  There were no posts, nothing from NASA, just nothing that was bringing up the potential sighting of this object.  It was unreal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158707.html](http://www.nuforc.org/webreports/reports/158/S158707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>V shaped formation moving east to west, dim lights unlike aircraft.V shaped dim lights moving east to west in night sky, below big dipper.  Faded out as moved into east. Lights were dim white and did not resemble aircraft, looked like geese flying in formation but in complete darkness.  I have never seen anything like this and I am not a believer in ufos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91913.html](http://www.nuforc.org/webreports/reports/091/S91913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
