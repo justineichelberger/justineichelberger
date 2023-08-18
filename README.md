@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:47 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake George (just north of) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>i was driving norht bound on the nys northway,i came over a hill into a valley where just west of the north way i oberved 2 aircraft in the air,running north to south, there were no navigation lights,and i rolled down my window to hear chopper thump, nothing,..........the lower forward one was about 700 ft in the air,the other trailed behind maybe 100 yds and 150 ft above it, there were no wings, no noise, no rotors, there color was that of a sodium vapor orange lightbulb, like a streetlight,but seemed to have a molton gold in with it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101336.html](http://www.nuforc.org/webreports/reports/101/S101336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Penticton (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Sphere in shape, metallic silver in color.gentleman called me on August 18, 2003 to report that him and a work mate were out on their lunch break which is from 11:00 to 11:30 a.m. They were sitting outside against the building talking and looking towards the south taking in the view of the mountains. Now looking towards the southwest the one witness observed a long, silver point of light. He said it would have been approx the size of a key at arms length. The witness thought it may have been a reflection of an airplane as that was his first thoughts, but he just took his eyes off it for a split second, and when he looked back up at it, it was gone. (He said nothing at this point to his friend)  The two men kept eating their lunch and a few seconds later the witnesses friend said, quick look over there, the friend now caught something with his eyes. When the witness turned to look at what his friend was pointing at, the object had vanished. His friend said it disappeared so quickly, and he said it just faded out into the blue sky. When the friend saw the object he said it was the size of a nickel at arms length. Both men reported seeing it coming from the west and in a few seconds it was in the east, the size of a nickel. They reported the color as being a metallic silver, and at the end of the sighting the friend said it looked just like a sphere in shape. That was the last time the fellows seen the object in the sky. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30800.html](http://www.nuforc.org/webreports/reports/030/S30800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
