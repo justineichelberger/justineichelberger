@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:47 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Weed (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Big and bright object that changes shape and form in sky 4 nights in a row, moving eraticly.First we saw what appeared to be a big bright star in the east but realized it was more. It was moving side to side and up and down and around in the same area. Then we noticed there was a red light also to the left of the big one.We got the camcorder out and digital camera and zoomed in on the big bright white one but it really was round with green around it and appeared to be spinning inside with different colors,(red,black,whiteand orange).At times the object when zoomed in apeared to look like a planet but then changed shape. We also have lots of pictures and video. So far from the pictures we have taken there are 9 different forms each night.  The object is a different shape in each picture taken. The pictures taken each night are all similar in shape and color. We have seen them 4 nights now in a row in the eastern sky.((NUFORC Note:  Probably Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38724.html](http://www.nuforc.org/webreports/reports/038/S38724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Anacortes (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright metallic disc craftBright metallic disk shaped that was not moving alot of ppl thought it was venus  but that was not the case witness reports said it moved very slowly to the NE before dissapearin</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158716.html](http://www.nuforc.org/webreports/reports/158/S158716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
