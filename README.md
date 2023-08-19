@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oakdale (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Flash of white light, followed by other flashes not following a pattern or straight pathSecond night we have seen this, a bright flash high up, then we follow the "craft" as it has other flashes, no specific pattern to the flashes.  Also does not follow a straight path.  All flashes we see are white in color, some bright some dull.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135794.html](http://www.nuforc.org/webreports/reports/135/S135794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Shelby (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very bright, seemed to be coming out from lake michigan, stayed same color then started to pulsate.At about 10:40PM-Me and my brother were outside by my dad's camper and we were looking at the stars last night since there were so many of them. We seen satellites and falling stars..and witnessed a couple of strange things actually..but i dont know if i should just talk about them all at once..The one that caught my eye when i was looking out to lake michigan was very dim at first..i could see it coming our way from about 5 miles away probably..i noticed it first because there was a very bright planet next to the direction it was coming from. As it got to where me and my brother were it was very bright..brighter than satellites are and it wasnt that high up as a satellite is..id say it was about 1,000 ft. maybe..but didnt look too high...maybe because of the brightness of it..and i also had binoculars with me but i couldnt make out any shape because it was hazy looking in the binoculars..so i ran to the other side of the house and it was still there, it was traveling on an angle..going northeast. As it was getting to where i almost couldnt see it anymore it started to pulsate..on and off to dim to bright again about 4 times it did this..and then it was gone..to where i couldnt see it anymore..and then about 15 minutes later,time was prolly around 11:10PM- i noticed this very fast moving object, it had to of been going 2,000 miles per hour..this thing was cruising..it was bright and pulsating also..This one was above my house but way up..but still very bright to be noticed. I ran to the other side of the house but it was already gone..not from the speed of it but i beleive it just disappeared. The third object about 11:30--12 midnight- i seen coming from the northwest was very bright moving pretty fast but not that fast..then it got to where i could hardly see it..like a speck of salt..but i could still see it because i have very good eyes. This all happened in the same night, and the time between seeing each object was close together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52068.html](http://www.nuforc.org/webreports/reports/052/S52068.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
