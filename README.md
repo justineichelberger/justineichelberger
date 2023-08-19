@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:54 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mifflinburg (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow flying triangle craft with flashing lights on all three pointsI was driving away from Mifflinburg on Forest Hill Road towards Route 192 when I noticed flashing lights ahead in the sky. They weren't too far above me since I was able go make out what it looked like pretty well. It was a triangle shaped craft and I would best describe it like the ones you hear about all the time... triangle shaped, flashing lights on all 3 corners. They were flashing mostly green and white. Very bright and very low. Very slow speed. I couldn't look for too long since I was driving so I don't know if it did anything crazy after it was out of view behind me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164398.html](http://www.nuforc.org/webreports/reports/164/S164398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a flattened matte black oval sticking half way out of a tree three houses away. It must have been greater than 30 feet up and larger than a car. No windows, no sound, it didn’t move. I walked back and forth along my fence to try to determine what it was. I left to get my phone and tell my wife and when I came back it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149921.html](http://www.nuforc.org/webreports/reports/149/S149921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
