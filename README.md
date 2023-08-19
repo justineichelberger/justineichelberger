@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a flattened matte black oval sticking half way out of a tree three houses away. It must have been greater than 30 feet up and larger than a car. No windows, no sound, it didn’t move. I walked back and forth along my fence to try to determine what it was. I left to get my phone and tell my wife and when I came back it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149921.html](http://www.nuforc.org/webreports/reports/149/S149921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Foster City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Undeniable stationary flickering speckAt 3:32 PDT on 8/19/07 near Edgewater Boulevard and East Hillsdale Boulevard I was on the walking path headed east with Max, a leashed dog I was walking. There was a loud propeller airplane, a unique design that had wings in the rear of the fuselage, probably flying out of San Carlos airport.  I looked at the plane and noticed a stationary flickering speck in the sky.  Foster City is the approach to SFO, and there is no way what I saw was a commercial aircraft.  It was a stationary flickering.  The weather condition was brilliant sunlight facing the object, a quarter moon visible, clear blue sky.  I pointed to the object and mentioned to an elderly male and female couple with a small white leashed dog to look, and had a line of sight to the object, they mentioned it must be the plane that flew overhead seconds earlier, they made no effort to locate the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58266.html](http://www.nuforc.org/webreports/reports/058/S58266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
