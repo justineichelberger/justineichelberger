@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:43 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fort Pierce (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2:00 - 2:00 minutes.</sub><blockquote><sub>From my backyard in Fort Pierce/Lakewood Park we witnessed a fireball over the East Coast coming from North heading south over the beach area.  Lasted for about two minutes.  Was a yellow bright yellow fire polish tape crafts with no strobe lights or no no red flashing lights or anything.  Going moderately kind of slow just at a slow pace passing right in front of the Moon very low</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129372.html](http://www.nuforc.org/webreports/reports/129/S129372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oakdale (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Flash of white light, followed by other flashes not following a pattern or straight pathSecond night we have seen this, a bright flash high up, then we follow the "craft" as it has other flashes, no specific pattern to the flashes.  Also does not follow a straight path.  All flashes we see are white in color, some bright some dull.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135794.html](http://www.nuforc.org/webreports/reports/135/S135794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
