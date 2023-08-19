@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:49 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Spanish Springs (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Me and my husband were sitting outside enjoying the stars.  We saw an unusual amount of activity 3 shooting stars. Then we saw one bright light slowing moving across the sky. It was a bright circular light obviously not a plane then it disappeared in the distance.  Then about 5 minutes later two similar circular lights appears over the west sky traveling eastbound above us in perfect formation. It could not have been planes or they would have hit each other. These were two circular bright lights traveling one after the other in perfect formation.  They traveled over us going eastbound and then disappeared around the same area the first light disappeared. We called our daughter out to see and we all agree that these lights were not a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58287.html](http://www.nuforc.org/webreports/reports/058/S58287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Seaside (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>High speed, high altitude star-like object.We observed a very high speed, star-like object traveling in a south/west to north/west direction holding altitude.  This particular direction is uncommon for commercial aircraft along the central coast of california.  Miltary aircraft don't fly this particular direction at that altitude either.  That includes fighter jets or larger.  When they do fly higher, they leave trails with this object did not.  We observe military aircraft with  regularity in this area.  This object had no navigation lights and made no sound.  It appeared as a white to slightly orange color and except for its odd speed and altitude, looked similar to a star.  We were able to determine its height to be between 'two and three times' the altitude of commercial aircraft traveling along the south to north route, (so-cal to the bay area), by using cloud layers and other aircraft at the time of sighting, (appox 30,000-40,000 feet as I often watch them on the flightradar app),.  There were more than one commercial aircraft on the evening of sighting flying along the usual route.  The sky was extremely clear in places and commercial aircraft could be heard and navigation lights clearly seen on all aircraft.  We counted off the seconds and estimated the speed to be appox ten times that of commercial aircraft seen?  It held a straight line until out of sight - approx half the observable sky, in 10-15 secs.  Four family members observed it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148437.html](http://www.nuforc.org/webreports/reports/148/S148437.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
