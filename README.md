@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:53 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Kensington (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object seen in kensington solid slow pulsing light twinkie shaped.i got up from sleep to go to the bathroom afterwards i was looking out the third floor window at the woods in back of the house looking for nocturnal animals.  i saw a blink out of the corner of my right eye and immediately thought it was a lightning bug because it was in the tree line.  Then there was a much larger blink that had the shape of a twinkie. It pulsed about like a light on the top of a tower.  Not rapid like collision lights on a jet.   There was a low cloud cover and whatever this was was slightly in the clouds, low.  We live in the flight path for Reagan nat airport so i am used to seeing commercial aircraft.  Usually in fog the aircraft turn on their landing lights.  I think i have seen a plane where the collision avoidance lights strobed together, although what i saw moved slow and pulsed slowly and the whole object was the same brightness.  There was no noise and it was low probably 600 feet AGL.  No navigation lights either. also the path that it was traveling i should have seen it sooner b/c it would have gone in front of me which it just sort of started it pulse run to my right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148399.html](http://www.nuforc.org/webreports/reports/148/S148399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cambridge (OH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 137 documents a significant compass heading change within 5 mins of Cambridge sighting.Our study showed compass heading change in the MSV (Multi Sensor Verification)  range of 3 degrees from 111.12 to 108.13 in five minutes beginning at 01:47:19 UTC, but without the qualifying field reading change that normally triggers the device, which in this case would need to be in excess of the threshold of 29. This is still VERY interesting in view of the compass heading change for three reasons: 1) Three degrees under controlled conditions is considered as significant, just as 2.5 times local background radiation is considered as significant. 2) Original MADAR was based on CHC (compass heading change) and was successful in several instances, and no field readings in milligaus were available at the time. 3) 3.5 miles was given as the distance between the sighting location and the MADAR site at Canton and occurred within 5 minutes of each other!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160953.html](http://www.nuforc.org/webreports/reports/160/S160953.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
