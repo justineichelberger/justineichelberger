@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The craft seemed 6-12,000 ft high but was hard to tell. It was aclear night and my nephew saw the lights first thinking they were satelites moving in the same direction and all bunched up. I finally saw them. The lights were of medium brightness and white. Medium as compared to a med. star. They did't blink at all. Twice I saw a short orange flame shoot out not far under the right rear light. This craft made no noise and blotted out stars as it went. It was a long triangle and looked strange.It just glided and went slow until out of sight. It kept the same speed and was going west to east. We saw it for about a full minute....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38782.html](http://www.nuforc.org/webreports/reports/038/S38782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Waconia (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright object  seen by thousands and reported on all local news stationsI saw a white/silver object moving from the east to the west above the cirrus clouds. It seemed to be conducting its own light, which after dark charges to yellow then red. The sun had been down for awhile when this happened so I do not think it was reflection from the sun. In my binoculars it appered as if the object may have been exibiting rotation, but it was diffuclt to observe any details. The object would move slowly, then stop suddenly and hover. I don't think the winds aloft would make a ballon behave this way. In order for all these people to see this object which was tens of thousands of feet in altitude this object must have been very large. Just in terms of what a 747 looks like flying above cirris clouds I would say this object was 4 times larger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38957.html](http://www.nuforc.org/webreports/reports/038/S38957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
