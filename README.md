@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:20:59 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:33:04 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Orion (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a fast traveling light over OrionI was lying in my bed reading when i looked out the window. I saw an object traveling fairly low and fast. At first i figured it was just an airplane but then i realized it made no sound. My window was open so i would have heard a sound. I was also very cloudy so it wasn't a star or comet.((NUFORC Note:  A sighting was reported via telephone to NUFORC on 20AU01 regarding a rather dramaticalleged sighting near La Crosse, WI, for the same time and date.  We are awaiting two reports and illustrations from the witnesses at the time of this writing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19195.html](http://www.nuforc.org/webreports/reports/019/S19195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Gliding triangle in the sky, non blinking blue light on left side and non blinking red light on right sideI couldn’t see as well as I would’ve liked, as I was driving I saw a triangle in the sky, non-blinking blue light on left side and non-blinking red light on right side.  I looked up as it passed above me and it was indeed a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158754.html](http://www.nuforc.org/webreports/reports/158/S158754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
