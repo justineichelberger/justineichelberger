@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:33:04 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:09 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Gliding triangle in the sky, non blinking blue light on left side and non blinking red light on right sideI couldn’t see as well as I would’ve liked, as I was driving I saw a triangle in the sky, non-blinking blue light on left side and non-blinking red light on right side.  I looked up as it passed above me and it was indeed a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158754.html](http://www.nuforc.org/webreports/reports/158/S158754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ashland (NH) reported seeing craft that fit the description of some 'Egg' over a period of approximately power line - power line minutes.</sub><blockquote><sub>seen a ovel shaped light moving low to ground back and forth vilently.me and my freinds were biking when we came along the powerline we saw a ege shaped light 300ft over the tree tops about a 1/4 mile away. It was a orenghy yellow color it moved in srate lines going back and forth rapidly for 10min or so the suddenly wansishing.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65743.html](http://www.nuforc.org/webreports/reports/065/S65743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
