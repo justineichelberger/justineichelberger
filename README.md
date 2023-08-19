@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 18 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:20:59 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 spherical orange ufo flying low just above my neighborhood.We saw 3 orange spherical orb like crafts flying from south to north relatively close to ground  at about 600ft to 800ft.  They all seem to follow each other on the same path and move pretty uniformly in speed and distance from each other.  There was no noise although you could see the shape pretty clearly and could distinguish the color of the crafts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101341.html](http://www.nuforc.org/webreports/reports/101/S101341.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Orion (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>a fast traveling light over OrionI was lying in my bed reading when i looked out the window. I saw an object traveling fairly low and fast. At first i figured it was just an airplane but then i realized it made no sound. My window was open so i would have heard a sound. I was also very cloudy so it wasn't a star or comet.((NUFORC Note:  A sighting was reported via telephone to NUFORC on 20AU01 regarding a rather dramaticalleged sighting near La Crosse, WI, for the same time and date.  We are awaiting two reports and illustrations from the witnesses at the time of this writing.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19195.html](http://www.nuforc.org/webreports/reports/019/S19195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164409.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164385.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164388.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164392.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164400.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
