@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>A humanoid data craft was seen near the classroom building on UK campus.  It seemed to be exploring data</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143185.html](http://www.nuforc.org/webreports/reports/143/S143185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>V shaped almost invisible object seenOn Thursday, August 20th, 2020 around 9:05pm in Spokane Washington; My wife and I were outside sitting enjoying the night sky and having a cigarette, while looking upward at the stars, directly above my wife and I, a "V" shaped (not  full triangle shape, V craft) object was flying by going westward coming from the east direction flying over our head(s).  The object was almost invisible if you will.  Blended in with the sky except for, as strange as it may sound, had a very feint see through brownish color to it that blended in with the night sky.  Hard to explain but thats what caught my attention as it was flying byover us or i would of easily have missed it.  Like a clear blurred wave destorting the scenery. I pointed at it so the wife would see it.  We both were in awe.  Trying to figure out what type of craft it was or I should say what it was exactly.  No noise was heard from it.  As to how high it was in the sky, thats hard to say.  Best example i can give is If you held a full lenth #2 pencil up in the air with your arms stretched out and pencil held by fingers, showing from left to right, the length of the pencil, thats the width from left to right on the V shaped object or close to it. Using that, that should give an idea of height as well.  It was moving pretty fast. Saw maybe 3 to 4 seconds of it.  Pretty amazing actually. Just wish we could of seen it a bit longer for a better description.  Thhough as stated, it was almost invisible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158781.html](http://www.nuforc.org/webreports/reports/158/S158781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
