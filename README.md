@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights like string of pearls dance across Utah sky.A string of lights waving and dancing across the sky like 8-9 pearls fluttered across the sky in dancing formation.  It came from the Northwest and headed Southwest.  Approximately 2 minutes later a helicopter following the same path went across the sky. Ten minutes later the helicopter came back over the same path.  It was truly the weirdest thing I had ever seen.  I don't know what it was.((Name withheld, too embarrassed.))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71773.html](http://www.nuforc.org/webreports/reports/071/S71773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed 7 to 9 amber lights above the Eastern sky of Kent, WA traveling North at about 1000 ft above the ground at 22:30 Aug 20,2Just witnessed an event tonight over the skies of Kent, Washington as I drove  a friend home after the Seahawks vs Minnesota game about 10:30 pm.  As I drove North along SR-167, about 3 to 4 miles South of Renton,at about 60mph, I saw a group of approx 7 to 9 amber lights above the NE horizon about 45*.  They were moving parallel with me, heading North in a organized linear formation but moving Independence of each other.  As I began to comprehend what I was seeing, I pulled to the shoulder to get a "Fixed" perspective.   I then, was absolutely certain I was witnessing a UFO of some kind.  I noticed other motorists stopping along the road as well.  My passenger, a 10 yr old, was skeptical, listing many explanations, helo, fixed wing prop, jet, meteor.   I explained each away as no red light, no pulsating, no sound.  The speed, direction and nature of the movement was not consistent with any single crafts capabilities. I then continued along SR-167 to the Central Ave exit, then continued North along Central Ave at which time the illumination of the objects began to fade at varied rates until no longer visible.  The event transpired over a span of about 5 to 8 min.  Upon return home, I am searching for others that saw the same thing.((NUFORC Note:  We have amended the data above, to reflect a sighting on August 20, 2011.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83328.html](http://www.nuforc.org/webreports/reports/083/S83328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
