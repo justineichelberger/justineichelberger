@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:51 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Selbyville (DE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Round reddish orb looking object.  No sound, just glided slowly in the dark sky.  Hovering east to northwest then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158871.html](http://www.nuforc.org/webreports/reports/158/S158871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Adams (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>FOUR ORANGE/RED CIRCULAR OBJECTS GOING INTO THE SKY FROM MOUNTAIN RANGE.I WAS OUTSIDE SMOKING A CIGARETTE.  I WAS LOOKING AT THE MOUNTAIN RANGE AS I ALWAYS DO.  ALL OF A SUDDEN THERE WAS AN ORANGE CIRCLE COMING FROM THE MOUNTAIN RANGE GOING STRAIGHT UP.  IT WAS PULSATING THE COLOR ORANGE TO RED BACK AND FORTH.  IT FLEW SLOWLY INTO THE SKY UNTIL I COULD NOT SEE IT BECAUSE THERE WERE CLOUDS AS WELL. I NOTICED RIGHT AWAY THAT THERE WAS ABSOLUTELY NO NOISE AS YOU WOULD HEAR FROM A HELICOPTER THAT MIGHT HOVERING LIKE THAT. ALSO THE LIGHTS WERE NOT BLINKING LIKE A PLANE OR HELICOPTER.  IT WAS A SOLID COLOR THAT SEEMED TO BE PULSATING.  WE WERE RECORDING IT ON A CELL PHONE.  JUST AS ONE DISAPPEARED BEHIND A CLOUD, ANOTHER CAME UP FROM APPROXIMATELY THE SAME LOCATION IN THE MOUNTAINS.  WE WATCHED AND RECORDED AGAIN, AS SOON AS THAT WAS BEHIND THE CLOUDS ANOTHER CAME UP.  BEFORE THAT ONE COULD GO BEHIND THE CLOUDS ANOTHER CAME UP.  IT WAS TOO BIG TO BE CHINESE LANTERNS, AND DEFINITELY NOT PLANES,  THEY WERE GOING VERTICAL NOT HORIZONTAL.  IT WAS DEFINITELY NOT FLARES, AS THERE WAS NOTHING LIKE A TRAIL OF LIGHT GOING INTO THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112710.html](http://www.nuforc.org/webreports/reports/112/S112710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
