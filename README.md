@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:56 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mount Vernon (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>3 orange glowing lights forming a large triangle8/20/2011 Mount Vernon, OH At approximately 8:55p.m.  I went outside to our patio with my dogs.  An orange glowing light caught my attention in the SE sky.  It seemed to grow in size then all of a sudden there were two more.  The 3 lights formed a very large triangle.  They were all about the same size and looked to be moving very slowly towards the  NW.  I yelled for my husband to come outside and he also saw the lights.  No sound.  Seemed to be pulsating.  A couple of times one or more of the lights would appear to go out and then reappear.  Then all three lights just disappeared.This was something definitely weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83310.html](http://www.nuforc.org/webreports/reports/083/S83310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Selbyville (DE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Round reddish orb looking object.  No sound, just glided slowly in the dark sky.  Hovering east to northwest then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158871.html](http://www.nuforc.org/webreports/reports/158/S158871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
