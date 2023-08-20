@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:54 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:46 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highland (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulsating light in eastern sky, moving north to south, random pulse while moving across sky.Moving steadily across lower, eastern sky north to south over Wasatch Mountains.  Much higher altitude than a military or commercial aircraft.  A smooth, pulsating light that would last 1 or 2 seconds, go dark for 3 to 5 seconds, and then light up again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101322.html](http://www.nuforc.org/webreports/reports/101/S101322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Henderson (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>They were in a straight line with blinking lightsThe sky background was full of stars.  My son called me outside at around 9:30 p.m to witness what he was seeing.  We saw 3 crafts in formation sort of like a long almost straight line but the one in the middle was up in formation just a little above the other 2 crafts.  They all had red, yellow, green and white flasing lights - all flashing at the same time and when I first saw it the way it was in the sky looked as if the lights aluminated the objects and it looked as if a silver line was connecting them.  It was the odest thing I have ever seen.  No airplanes fly in exact distance of formation like that.  We ran back through the foyer into the den and out the back door in seconds to see it from the back yard and it was nowhere to be seen in the sky. There were other airplanes in the area that did not look like this.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30816.html](http://www.nuforc.org/webreports/reports/030/S30816.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
