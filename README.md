@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 19 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:35 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Waconia (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright object  seen by thousands and reported on all local news stationsI saw a white/silver object moving from the east to the west above the cirrus clouds. It seemed to be conducting its own light, which after dark charges to yellow then red. The sun had been down for awhile when this happened so I do not think it was reflection from the sun. In my binoculars it appered as if the object may have been exibiting rotation, but it was diffuclt to observe any details. The object would move slowly, then stop suddenly and hover. I don't think the winds aloft would make a ballon behave this way. In order for all these people to see this object which was tens of thousands of feet in altitude this object must have been very large. Just in terms of what a 747 looks like flying above cirris clouds I would say this object was 4 times larger.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38957.html](http://www.nuforc.org/webreports/reports/038/S38957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in White Bear Lake (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 flashing lights in the sky, circle counter clockwise one on right goes behind moon and they moved away from each otherTwo "crafts" that looked like bright white stars stood out on the left side of the crescent moon. The lights flashed brightly every few seconds, bright as two headlights on an approaching car. This is the best way I can describe them. They were really bright, but not bright enough to light up the sky. They began to circle each other, very slowly in a clockwise direction. The lights crept away from each other across the horizon. The light that was moving to the right made me think. The shadow on the moon is cast by the earth. The flashing light did not show up on the shadow. That light must have traveled behind the moon. I'm not sure the exact date of this experience but my mom and i were putting the sprinklers away for the night so i assume it was late august or more towards early spring perhaps april or may. Everyone i talked to about this said they had never heard of anything like it. We should've reported it as soon as it happened, but we didn't and i've been trying to figure out what the lights could've been ever since. I'm curious if anyone else has ever seen ne thing like this.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37014.html](http://www.nuforc.org/webreports/reports/037/S37014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [436](http://www.nuforc.org/webreports/reports/164/S164399.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164601.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164607.html)
-- [433](http://www.nuforc.org/webreports/reports/164/S164398.html)
-- [432](http://www.nuforc.org/webreports/reports/164/S164404.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
