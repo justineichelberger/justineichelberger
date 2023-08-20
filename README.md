@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kota (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Fast moving star, crossed whole sky just in 6 sec.I was seeing in the sky. At that time, I was outside in City. I had seen that there is a extra star in Orion.  I think something is not correct. I was regularly seeing that.  But after 3-4 sec it starts moving towards East [opposite direction] in zig-zag manner.  It crossed whole sky just in 4-6 sec.This happen one more time in this year.  At that time, I was with my friend.  He also seen  that.  Time: 20:00 Month: May, 2008.  I think that any normal star cannot cross whole sky  in 6 seconds.  Please, if u have any answer, mail me.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65168.html](http://www.nuforc.org/webreports/reports/065/S65168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 105</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148547.html](http://www.nuforc.org/webreports/reports/148/S148547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
