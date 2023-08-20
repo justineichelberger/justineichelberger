@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:50 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>A triangular object with a multitude of lights was spotted in the southeast Colorado night sky.From Springfield, CO in the western sky, was visible a triangular shaped object with blue, red, orange, yellow, and white lights of different intensities and eminating in different directions.  The image was moving in different directions, but maintained relatively the same position in the sky.  No noise was heard and an aircraft (possibly commercial) was spotted east of the object, moving from south to north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71774.html](http://www.nuforc.org/webreports/reports/071/S71774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>A humanoid data craft was seen near the classroom building on UK campus.  It seemed to be exploring data</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143185.html](http://www.nuforc.org/webreports/reports/143/S143185.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
