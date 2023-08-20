@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Spinning pyramid with red, green, blue lights, turned yellow in orbit, then gone to starsSpinning silent pyramid over South Anchorage with red, green and blue lights. It turned into dancing yellow light as it went up. It stayed in orbit for a while.Quickly moved left, right, back to center. After 30 min, it started to move further away until it looked like a large yellow star.  Then the clouds came in and it was gone. Total time was 45 min. It was so beautiful, lights eminating when it was hovering over our city, I saw red mixed with blue to make purple.  That's what made me look closer because I have never seen an airplane to have purple lights.  I saw it spin tilted to the right on it's axis like a Christmas Tree.  That's why it looked like a pyramid, otherwise initially it looked like a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158800.html](http://www.nuforc.org/webreports/reports/158/S158800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Winslow (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I captured this on video during solar eclipseTwo spheres one huge other smaller and one smaller flying around very fast the spheres would pulsate and change colors purple and green.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142548.html](http://www.nuforc.org/webreports/reports/142/S142548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
