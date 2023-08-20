@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Wierd lights in the sky of the SF Bay.I'm an avid night watcher that has not seen much activity since hanging out with Ed Grimsley. But this week my friends mom, sister and niece reported strange lights in the night sky of our neighborhood for the last week or so. They stay out to watch it nightly till 1am. It was foggy in the SFBay last night so I waited until tonight. From San Leandro, CA looking in the direction of San Mateo (probably beyond)they called and said to look at the star in the sky. Upon further observation with the naked eye, I can confirm movement on behalf of the "star". It has a light rotating around it and every now and again it would move in circles and other intelligent patterns. At times it will expand and grow faint for about 10 seconds and then reform itself into the red and white glistening "star". It's pretty intersting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71772.html](http://www.nuforc.org/webreports/reports/071/S71772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Argyle (NY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multi colored flashing orb, appears to have red and silver laser like geometric pointers as if mapping out an area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158770.html](http://www.nuforc.org/webreports/reports/158/S158770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
