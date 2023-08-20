@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gatesville (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silent slow moving wide triangular non illuminated object.I was walking across the street from visiting my neighbor. I paused to look up to see if I could see any shooting stars, as I read this past week was active for shooting stars.  After looking up and scanning the sky for a few moments, it took a few seconds for me to realize that I was seeing something very large was passing over the neighborhood.  It did not have lights, was comepletely silent, moving slowly from north to south.  I was able to make out the widened triange shape as my eyes adjusted to the dark, and as it blocked out the stars as it traveled.  It seemed to be at the level of a low flying airplane. and seemed as wide as a house.  It appeared to have lighter and darker areas in on the bottom of it, but not illuminated.  I only got a quick glimpse of it as I was in town, with too much lamplight, trees, and houses. I am surprised I could see it at all, as it had no lights.  I know though that I saw something, because it blocked out the stars, and blocked out a red flashing light from an airplane flying very high in the sky.  Not a cloud, not a bird, though my mind's first split seconds impression was a gliding bird, or a kite until I realized it was way too large and was triangular shaped. I live north of Ft. Hood, and wondered also if it is some kind of military stealth craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65330.html](http://www.nuforc.org/webreports/reports/065/S65330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blackfoot (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO siting in Blackfoot, Idaho at lecture on flying saucersThe lecture on the Hopi Indian Tribe adn their belief in the great star of the Hopi  that guided them through the centuries and they also believe that they were guided by UFO's in the very beginning.  After I gave my speach and then I telepathically contacted them and the great start appeared 1/3 up from the horizon as a big bright start as it approached us we could see that it was round, glowing, very large and very slowly passed over us to the east.  That was in confimration fo Mr. Solem's Hopi message and flying saucer warning at Jensen Lake in Blackfoot, Idaho, that confirmed teh subject matter.  The host was former personal secreatary and advisor to the Hopi Indian Chiefs, the only white man given that postition and calling.  The next lecture will be held on August 27th and September 3rd at dusk, if weather is clear, at Jensen Lake in Blackfoot, Idaho.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45741.html](http://www.nuforc.org/webreports/reports/045/S45741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
