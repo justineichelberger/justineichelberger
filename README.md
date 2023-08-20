@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:54 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 105</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148547.html](http://www.nuforc.org/webreports/reports/148/S148547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Highland (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Pulsating light in eastern sky, moving north to south, random pulse while moving across sky.Moving steadily across lower, eastern sky north to south over Wasatch Mountains.  Much higher altitude than a military or commercial aircraft.  A smooth, pulsating light that would last 1 or 2 seconds, go dark for 3 to 5 seconds, and then light up again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101322.html](http://www.nuforc.org/webreports/reports/101/S101322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
