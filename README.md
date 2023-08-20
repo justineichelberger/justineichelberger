@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>V shaped almost invisible object seenOn Thursday, August 20th, 2020 around 9:05pm in Spokane Washington; My wife and I were outside sitting enjoying the night sky and having a cigarette, while looking upward at the stars, directly above my wife and I, a "V" shaped (not  full triangle shape, V craft) object was flying by going westward coming from the east direction flying over our head(s).  The object was almost invisible if you will.  Blended in with the sky except for, as strange as it may sound, had a very feint see through brownish color to it that blended in with the night sky.  Hard to explain but thats what caught my attention as it was flying byover us or i would of easily have missed it.  Like a clear blurred wave destorting the scenery. I pointed at it so the wife would see it.  We both were in awe.  Trying to figure out what type of craft it was or I should say what it was exactly.  No noise was heard from it.  As to how high it was in the sky, thats hard to say.  Best example i can give is If you held a full lenth #2 pencil up in the air with your arms stretched out and pencil held by fingers, showing from left to right, the length of the pencil, thats the width from left to right on the V shaped object or close to it. Using that, that should give an idea of height as well.  It was moving pretty fast. Saw maybe 3 to 4 seconds of it.  Pretty amazing actually. Just wish we could of seen it a bit longer for a better description.  Thhough as stated, it was almost invisible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158781.html](http://www.nuforc.org/webreports/reports/158/S158781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Leandro (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Wierd lights in the sky of the SF Bay.I'm an avid night watcher that has not seen much activity since hanging out with Ed Grimsley. But this week my friends mom, sister and niece reported strange lights in the night sky of our neighborhood for the last week or so. They stay out to watch it nightly till 1am. It was foggy in the SFBay last night so I waited until tonight. From San Leandro, CA looking in the direction of San Mateo (probably beyond)they called and said to look at the star in the sky. Upon further observation with the naked eye, I can confirm movement on behalf of the "star". It has a light rotating around it and every now and again it would move in circles and other intelligent patterns. At times it will expand and grow faint for about 10 seconds and then reform itself into the red and white glistening "star". It's pretty intersting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71772.html](http://www.nuforc.org/webreports/reports/071/S71772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
