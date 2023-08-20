@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:50 on 20 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Blackfoot (ID) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO siting in Blackfoot, Idaho at lecture on flying saucersThe lecture on the Hopi Indian Tribe adn their belief in the great star of the Hopi  that guided them through the centuries and they also believe that they were guided by UFO's in the very beginning.  After I gave my speach and then I telepathically contacted them and the great start appeared 1/3 up from the horizon as a big bright start as it approached us we could see that it was round, glowing, very large and very slowly passed over us to the east.  That was in confimration fo Mr. Solem's Hopi message and flying saucer warning at Jensen Lake in Blackfoot, Idaho, that confirmed teh subject matter.  The host was former personal secreatary and advisor to the Hopi Indian Chiefs, the only white man given that postition and calling.  The next lecture will be held on August 27th and September 3rd at dusk, if weather is clear, at Jensen Lake in Blackfoot, Idaho.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45741.html](http://www.nuforc.org/webreports/reports/045/S45741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>A triangular object with a multitude of lights was spotted in the southeast Colorado night sky.From Springfield, CO in the western sky, was visible a triangular shaped object with blue, red, orange, yellow, and white lights of different intensities and eminating in different directions.  The image was moving in different directions, but maintained relatively the same position in the sky.  No noise was heard and an aircraft (possibly commercial) was spotted east of the object, moving from south to north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71774.html](http://www.nuforc.org/webreports/reports/071/S71774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [545](http://www.nuforc.org/webreports/reports/164/S164473.html)
-- [544](http://www.nuforc.org/webreports/reports/164/S164456.html)
-- [543](http://www.nuforc.org/webreports/reports/164/S164603.html)
-- [542](http://www.nuforc.org/webreports/reports/164/S164402.html)
-- [541](http://www.nuforc.org/webreports/reports/164/S164602.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
