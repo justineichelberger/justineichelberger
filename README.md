@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting during eclipse.My kids and I were watching the eclipse.  Taking photos and looking through proper glasses.  We made a joke about a ufo that kept showing up in the sky.  Moved fast from side to side and up and down.  I took about 35 pictures and the object we saw is in each photo it also is in many different spots.  The photos themselves were taken from the same area.  Facing the same direction.  Meanwhile, my 4 dogs where barking and howling much differently then they normally would</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136673.html](http://www.nuforc.org/webreports/reports/136/S136673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Snoqualmie Pass (Interstate 90) (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Viewed solid object, rectangular or diamond shape, 300-400 ft above ground from apprx. 1000 ft away while driving. Daylight.Hovering.15-20 feet long.At about 8:20 PM while driving westbound from Snoqualmie Pass on I-90 I looked out my driver's side window and noticed an object above and to the side of my vehicle. I estimate that it was about 300-400 feet above the terrain and I was no more than 1000 feet away. What I saw was a solid object which seemed to be a rectangular box-like configuration or maybe a diamond shape, I can't be to sure of the detail as I only was able to view it for about 10 seconds. It did not seem to be moving but I could not be sure, as I was going at highway speed in its direction. I would estimate its size to be 15-20 feet long and was a dark color with no lights although it was not black as some highlights were visible. It was not a simple rectangle but seemed to have some features on it. I watched it for a few seconds before I realized that it was not an aircraft and then I looked for overhanging power lines or cables or some means of suspension but there were none. At that point it became obvious to me that this was not anything like I had ever seen and it began to dawn on me that I was witnessing something quite out of the ordinary. Unfortunately, within 10 seconds I could not see it anymore as I had passed it by. I strained to see it in my rear view mirror but I could not see it again. I did not pull over because of heavy traffic. It took a few seconds to process what I saw because it was so hard to believe what I was seeing. It seemed so ordinary yet an object (a box, no less) just doesn't hover in mid air, but there it was. I tried to tell my wife what I was seeing but she could not see it from her side of the car. This was a daylight sighting, although the sun was already below the horizon there was still plenty of light. I am very familiar with aircraft and have never made a sighting like this before. I know what I saw but I don't know what I was looking at. I am at a loss to explain what this was. I don't have the slightest idea what I saw. I have never heard of UFO's in this configuration before. This is not a joke.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08780.html](http://www.nuforc.org/webreports/reports/008/S08780.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
