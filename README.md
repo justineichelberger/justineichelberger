@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:51 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:36:25 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>This craft was not i ed today at towards the end of the eclipse noticed shadow moving across sky like it was cloaked but I could see its large wing formation.  There were no other types of craft in the air at this time and this craft went in a sideways direction.  It remained the same shadow even after coming through the clouds and into the sky .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135823.html](http://www.nuforc.org/webreports/reports/135/S135823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was leaving a friends home in the Irving Park neighborhood of Chicago and happened to be looking up and witnessed a bright green light fly across the sky.  It was moving Northwest and very fast. It did not have a trailing tail of light behind it and looked like a very fast moving drone or craft of some kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159492.html](http://www.nuforc.org/webreports/reports/159/S159492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
