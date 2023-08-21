@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:47 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Poynette (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangle craft with absolutely no sound traveling slow and low.  6 glowing lights, 3 of which were larger on each end of the triangle.  Wondering if anyone else saw this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121381.html](http://www.nuforc.org/webreports/reports/121/S121381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Woodbridge (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Went out to see the ring around the moon,when I saw strange light in the sky. As it got closer noticed it was a triangular craft with a 'red' nose in the point.Went out in the front yard to see the ring around the moon.  I also looked around to see what stars were out, it was then that I saw a strange light in the sky. As it got closer noticed it was a triangular craft.  It was then that I called my husband out to look and said: 'see you finally got to see one'. We were in the front yard.  It was then that I held my left arm straight out and the ship was at the finger tips. None of the neighbors were out, no dogs barking etc. Hairs on arms stood up--like static electricity. Husband went in and I watched it for a while longer. It was a cool clear night.  I didn't think of moving, just stood there watching it.  I drew picture of the ship at 0838 the next morning, and asked husband if he saw this and showed him the picture.  He answered: No (had no memory of said sighting).  This was not a dream. Saw 1 triangular craft, black, with red crystalline ball at tip. Was standing on the sidewalk at the time, looking down Glendale Road towards Dale Blvd. My background: U.S. Army Army Security Agency (ASA)/Intelligence and Security Command (INSCOM) 1973-1979, various government & civilian jobs, Homemaker 1987-present. Husband: U.S. Army Intelligence and Security Command (INSCOM) 1974-1978, various government positions, Ex-CIA (1998).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04050.html](http://www.nuforc.org/webreports/reports/004/S04050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
