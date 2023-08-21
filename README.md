@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:51 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing, misty orange-red disc shaped object flys by 1 1/2 km distance from me.Unidentified Flying Object report witnessed Thursday August 21 @ approx 10:30pm Hamilton, Ontario.  Area:  Where Upper James and the Lincoln Alexander highway intersect.((name deleted))  I live in Hamilton Ontario on the mountain.  In the area where Upper James and the Lincoln Alexander highway intersect.  I was on my deck looking towards the south.  There is a large tree to the right of my backyard (southwest).  From behind the tree about 1 1/2 km away, about 1 km above the ground the object first came into my line of vision.  It moved at the speed of a slow moving plane, or helicopter going from south west to south east.  This was no plane or helicopter though.It was disc shaped and its color was orange/red.  It was difficult to make out its exact shape because there was some kind of vapour effect that surrounded it.  Kind of looked like it was on fire.  But no flames were visible.  It just had this bright orangy red glow with a fiery mist that trailed behind it and surrounded it.At first I thought it must have been a meteor.  But meteors don’t move that slow.The object continued at the same speed and headed southwest.  But as it was getting further and more of its back was facing me, its appearance changed.  The orange red colour seemed to fade off and there appeared to be this umbrella-like white-ish swirling vortex that seemed to be coming from the front of the object.  Perhaps this vortex was creating its orange red appearance?  It continued on its way until I could no longer see it.The whole event lasted only a few minutes.  I do not know what it was I saw.  Let me be clear though.  I was not under the influence of drugs or alcohol.  I have always been a believer of UFO’s, aliens etc., and have spend 2 decades studying the phenomena.  I have met at least 4 people in my life who are first eye witnesses to UFO encounters.  I always dreamed of having my own experience.  But let me tell you, now that it has happened, my reaction is not what I thought it would be.  I am deeply bothered by it.  I am trying to be as rational as possible as to what I witnessed.  My description is as accurate as I can make it.  I would like some kind of rational explaination.Is it some kind of military vehicle?  I don’t know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112781.html](http://www.nuforc.org/webreports/reports/112/S112781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO's over Green BayAs I was getting out of my car in the parking lot of Menards East I looked into the sky to see several yellow orb shapes overhead.  There were several other people also gazing into the sky and as we watched some would disappeer and several more would follow the same flight pattern.  In all I counted 37.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92033.html](http://www.nuforc.org/webreports/reports/092/S92033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
