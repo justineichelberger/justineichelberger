@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in White Plains (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small disk near Westchester AirportMy 12-year old daughter and I were heading home from a visit to Rye, and I was having trouble finding the entrance to the Merrit Parkway.  We drove around the area near the Westchester County Airport, going down one road, turning around and trying another road, etc., for about 15 minutes.  At one point, I pulled into the entrance to the Westchester County Airport (Airport Rd.) and made a U-turn there to get back onto the main road (Route 120A).  I turned left out of the airport entrance onto 120A South, and as I completed the turn I saw something on my left, quickly approaching my car.  My daughter saw it too.  It looked like a small disk, no more than 12 inches or so in diameter, and it was rapidly spinning vertically and moving towards us.  It was dark in color (brown?) but had a metallic quality, and as it passed the car it made a strange sound.  Not a buzz, or a motor-like sound.  More of an electronic sound that changed pitch as it approached my car, then hovered for a second just at the left side of my windshield, very close to the driver's side window, and then quickly disappeared.  We both saw and heard the exact same thing.  It lasted only a few short seconds, but it remains very clear in both of our minds.  There was no one else around, no traffic, no houses, no people.  We didn't actually see it "disappear"; it just flew quickly away and wasn't in sight anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24708.html](http://www.nuforc.org/webreports/reports/024/S24708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in East Windsor (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Took a picture of the 2017 solar eclipse with a plane in the shot, zoomed in and noticed a circular craft.Was watching the 2017 solar eclipse and tried to take a picture of it while a plane was flying by to be artsy.  Noticed a small circular craft far away, didn't think much of it, but captured a picture of the incident.  Zoomed in and realized it was a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135821.html](http://www.nuforc.org/webreports/reports/135/S135821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
