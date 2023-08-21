@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:45:58 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO's over Green BayAs I was getting out of my car in the parking lot of Menards East I looked into the sky to see several yellow orb shapes overhead.  There were several other people also gazing into the sky and as we watched some would disappeer and several more would follow the same flight pattern.  In all I counted 37.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92033.html](http://www.nuforc.org/webreports/reports/092/S92033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waukegan (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Aflashing light with no shape moving in different directions in space at speeds that no aircraft can doMy wife and I had just finished watching a movie and decided to step outside and see if it had cooled off.We noted how bright the stars were and my wife pointed out a satelite moving from the northwest to the southeast over Lake Michigan. We were marveling in how you could see it,s path so clearly. As I turned to walk into the house my wife said she saw a flash of light just of the route of the satelite. I asked her to point out the area and said maybe she just saw a star flame out billions of miles away,when it flashed again. Now our interest was peaked I told her to get ouyr bonoculars to see if it was an aircraft of some sorts. It flashed again roughly in the same area . We stood watching for the fourth flash ,when my wife noted that it had started to mve to the southwest. over the next five minutes or so it dropped striaght down toward the horizon, looking like it might intercept with a commercial flight going east to west . after the plane passed it webnt hard right for 3 flashes( flashes accourded probably every 30 seconds), than it dropped stiaght down to the horizon behind the treeline . We commented on how strange that could cover the ground it did and how it would flash or doubleflash, but with out rhyme or reason . at this point we were going to head out sid3e when it reappeared over the tree line and then we tracked the flashes for anther couple minutes as the headed east across the horizon and then after acouple minutes it was gone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45724.html](http://www.nuforc.org/webreports/reports/045/S45724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
