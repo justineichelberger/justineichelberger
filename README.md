@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 Red Lights over Tinley Park, IL 8/21/043 red pulsating lights observed in the southeast sky over TInley Park guessing they were over 171st St and Harlem Ave.? We are at 171st and 94th Ave. From our view they appeared one above the other with a third light further south. They slowly moved to form a perfect diagonal line, then one by one they just disappeared. We watched for about 20 - 30 minutes. Then, a few minutes later we saw one red light reappear and this time it only lasted a minute or so, then disappeared. Have read other reports and see many descriptions of the lights forming a triangle. I would guess these sitings are more directly underneath the lights than we were. The whole time they pulsated - getting brighter and softer. With binoculars they looked like lights with rays coming off the top and sides but that could be due to the binoculars. Who has video of this?? Did anyone see news reports?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39939.html](http://www.nuforc.org/webreports/reports/039/S39939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Christchurch (New Zealand) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange light over christchurchbright orange ligh came from the horizon straight overhead without making a sound, when silloetted against the moon it was a rectangular shape. it was travelling way to fast to be an aircraft</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24710.html](http://www.nuforc.org/webreports/reports/024/S24710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
