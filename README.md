@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:02:24 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mansfield (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Cylindrical object seen in Tarrant County TXWhile driving north on Bennet Lawson Road, observed a cylindrical object at 2:00 in the sky just south of 1187 (Debbie Lane).  Object was white in color and having 2 window like openings to the left and right divided by a single bar.  The color of the windows and bar were bluish grey.As we proceeded down Bennet Lawson we drove under a large tree limb with leaves and after clearing the branch the object vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83339.html](http://www.nuforc.org/webreports/reports/083/S83339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Leslie Kean's (see face book) UFOs is THE book ; however, it  does not have a  reference to the Tinley Park Triangle .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88267.html](http://www.nuforc.org/webreports/reports/088/S88267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
