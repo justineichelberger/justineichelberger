@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:36:25 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:31 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I was leaving a friends home in the Irving Park neighborhood of Chicago and happened to be looking up and witnessed a bright green light fly across the sky.  It was moving Northwest and very fast. It did not have a trailing tail of light behind it and looked like a very fast moving drone or craft of some kind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159492.html](http://www.nuforc.org/webreports/reports/159/S159492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Caterina di Pittinuri (Italy) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast object captured by camera while taking panoramic imagesWe were on holiday in Sardinia at a small agriturismo establishment called "Sa Spiga" approximatelly 4 kilomenters north of St. Caterina di Pittinuri on the road to Cuglieri. We had lunch and were admiring the view and taking photographs of the sea view (due west). On going through the images once back in out holiday let we discovered the anomally on one of the photographs.  We did not hear any unusual sounds or actually saw the object captured in the image, it looks as though it was moving very fast though.  A further image taken within a minute of the first image does not show any signs of the object. mages have been posted.  Time and date is accurate to the minute.((NUFORC Note:  No photo sent, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65504.html](http://www.nuforc.org/webreports/reports/065/S65504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
