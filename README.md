@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:24 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Leslie Kean's (see face book) UFOs is THE book ; however, it  does not have a  reference to the Tinley Park Triangle .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88267.html](http://www.nuforc.org/webreports/reports/088/S88267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four bright white lights in a row, descended sharply and diminished to a flashlight size and winked out and hit ground.On August 21, 2004 at approximately 10:10 P.M. CST I noticed a very odd phenomenon  over Interstate 90/94 southbound between Poynette, WI and DeForest, WI.  My wife and I were driving home from central Wisconsin from a friends cottage.  No alcohol or drugs were consumed at the outing. It was a very clear night and the stars were very visible. My wife and I both noticed a bright white light in the sky.  She asked what it was and I responded jokingly, a UFO.  It was extremely bright and was composed of four lights in a row flying perpendicular to our line of travel.  At first we thought they must be landing lights on an airliner.  However the four lights in a row were not right.  Usually there is some separation between the lights. There was none.  Between us and the lights there was a microwave tower with a red light on it,  the lights appeared miles beyond the tower.  We passed the tower in about a quarter to half mile.  Then the lights started to descend.  I thought it might be a plane landing at the Dane county airport a few miles to the south.  But it wasn't turning toward the airport as it should have.  It proceeded straight across the highway about what initially looked to be about a quarter mile ahead of us.  It then came down very steeply and I though it was going to crash in the woods next to the highway.  Instead the lights dropped in intensity until it looked about the size of a flashlight.  It then winked out and appeared to land on the shoulder of the road directly to our right.  When it winked out it was the size of a computer keyboard and appeared to fly into the woods next to the road.  It was not a bird.  We could not stop as it was a crowded interstate and had a steep ditch next to the road.  We proceeded home to Madison and I filed this report.  It was definitely an Unconventional Flying Object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38790.html](http://www.nuforc.org/webreports/reports/038/S38790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
