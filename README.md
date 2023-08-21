@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:31 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Santa Caterina di Pittinuri (Italy) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast object captured by camera while taking panoramic imagesWe were on holiday in Sardinia at a small agriturismo establishment called "Sa Spiga" approximatelly 4 kilomenters north of St. Caterina di Pittinuri on the road to Cuglieri. We had lunch and were admiring the view and taking photographs of the sea view (due west). On going through the images once back in out holiday let we discovered the anomally on one of the photographs.  We did not hear any unusual sounds or actually saw the object captured in the image, it looks as though it was moving very fast though.  A further image taken within a minute of the first image does not show any signs of the object. mages have been posted.  Time and date is accurate to the minute.((NUFORC Note:  No photo sent, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65504.html](http://www.nuforc.org/webreports/reports/065/S65504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>APPROXIMATE 5 SECOND GREENISH FLAME LIKE BURST SEEN DESCENDING @ A DOWNWARD ANGLE TO THE SOUTHWEST OF DALLASSOMEWHERE BETWEEN 10PM AND 12AM ON AUGUST 21ST 2010 A FRIEND AND I WERE DRIVING WEST ON HIGHWAY 30 TOWARD DOWNTOWN DALLAS, TEXAS A FRIEND AND I BOTH SAW @ THE SAME TIME A GREENISH FLAME BURST THAT APPEARED TO BE FALLING AT A SLIGHT ANGLE IN THE UPPER LEFT SIDE OF MY DRIVER WINDSHIELD SO IT WAS APPARENTLY VERY HIGH IN THE AIR. THE FLAME BURST LASTED FOR APPROXIMATELY 5 SECONDS AND APPEARED SOUTH WEST OF WHERE WE WERE DRIVING POSSIBLY NEAR ARLINGTON FROM THE POINT THAT WE WERE TRAVELING.. THE BURST LOOKED TO BE TO THE WEST OF DALLAS BUT TOWARD THE SOUTH AS WELL BUT WE OBVIOUSLY COULD NOT TELL WHERE IS WAS EXACTLY, IT COULD HAVE EVEN BEEN AS FAR AS OVER ANOTHER STATE TO THE WEST OF US IN DALLAS TEXAS.. COINCIDENTALLY THE SAME FRIEND AND HAVE SEEN MORE THAN ONE "SHOOTING STAR" BEFORE SO WE BOTH KNOW VERY WELL THAT THIS TIME WE HAD WITNESSED SOMETHING VERY DIFFERENT THAN ANYTHING SEEN BEFORE.. I HONESTLY WROTE IT OFF AS A METEORITE OR SOMETHING ENTERING OUR ATMOS! PHERE A LOT CLOSER THAN I HAD EVER SEEN BEFORE, UNTIL I WAS WATCHING UFO VIDEOS ON YOUTUBE THIS MORNING. I DECIDED TO GOOGLE SEARCH (SIGHTING 8/21/10) AND THE 1ST THING THAT POPPED UP WAS A VIDEO A MAN HAS FROM A SIGHTING THE SAME EXACT NIGHT OVER ARLINGTON TEXAS WHICH JUST HAPPENS TO BE JUST WEST OF DALLAS, THIS IS WHAT PROMPTED THIS MY REPORT OF SIGHTING. THE DAY AFTER I SAW THE BURST I SEARCHED ONLINE TO SEE IF ANYONE ELSE REPORTED ANYTHING, I WAS SHOCKED TO SEE THAT THERE WAS NOTHING REPORTED BECAUSE I THOUGHT FOR SURE IT WAS SOMETHING NATURAL THAT EVERYONE ELSE HAD SEEN.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78671.html](http://www.nuforc.org/webreports/reports/078/S78671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
