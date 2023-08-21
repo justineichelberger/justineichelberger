@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Monroe-Bastrop (LA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Rectangular bright craft on Hwy 139 From Monroe to Bastrop,LA.Leaving Monroe, LA, around dusk on Hwy 139,This was seen in the East appearing to be only just above the treetops.  It seemed to follow along the path our car was taking (North on Hwy 139) and even crossed the road once and came back to our left (East) side.It followed along until just before entering Bastrop, LA, between 7 and 8pm that night. My family and I have talked about this event for years and always wondered if anyone else had witnessed this as it was still early and there were plenty other vehicles on the road. My jaw dropped when I read the previous report on this last night, and after confirming with my daughter and nephew the time of night, as well as the date.  I have no doubt that the other poster saw the same object that we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47202.html](http://www.nuforc.org/webreports/reports/047/S47202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vincennes (IN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Low flying silent object with pulsating lights, possibly landing at airportI was outside looking at Jupiter through our telescope and decided i would go inside to get a drink of water and then come back out, but i as i was walking back to the house i glanced to the west and saw a low flying white blinking light, so i walked fast over to the west side of our yard to get a better look.  The object was probably about two or three miles to the west, and less than a thousand feet above the ground, and moving at around 80 or 100 mph.  There was a white light that was blinking fast, and a red light on the rear that appeared to be moving back and forth, I could not hear any sound at all. I did not observe this through the telescope because of how fast it was moving, and i should also mention the telescope is very heavy, so it is difficult to move it around. The object was moving northbound, and as it got about five or six miles to the northwest, it started to decend, and it eventually disappeared behind some trees, possibly landing at the Lawrenceville-Vincennes airport in Illinois, and if so, was probably just an airplane, but the object made no sound at all, so i am not quite for sure what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77346.html](http://www.nuforc.org/webreports/reports/077/S77346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
