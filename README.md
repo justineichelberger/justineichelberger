@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:00 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 21 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dartmouth (Canada) (NS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangl shaped objectI was sitting in my backyard looking ito the night sky when I saw a triangular shaped object made up of three lights over head.  The lights on it were white like the stars but, all three lights were moving at the same speed and with no trail following them. From this I fell that the lights were one object It was moving with no sound and very fast.  As I called for others to come see it had moved behind a tree and never came out the other side.  Only momments after that there was three small aircraft  that slowly came over to the area that I had first seen the object.  They flew over the area for some time but I did not take notice of when they left.  There is an older airbase by my home and I am very use to aircraft in the night sky but the object that I saw was too fast to be any of the local aircraft that comes from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24610.html](http://www.nuforc.org/webreports/reports/024/S24610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in White Plains (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small disk near Westchester AirportMy 12-year old daughter and I were heading home from a visit to Rye, and I was having trouble finding the entrance to the Merrit Parkway.  We drove around the area near the Westchester County Airport, going down one road, turning around and trying another road, etc., for about 15 minutes.  At one point, I pulled into the entrance to the Westchester County Airport (Airport Rd.) and made a U-turn there to get back onto the main road (Route 120A).  I turned left out of the airport entrance onto 120A South, and as I completed the turn I saw something on my left, quickly approaching my car.  My daughter saw it too.  It looked like a small disk, no more than 12 inches or so in diameter, and it was rapidly spinning vertically and moving towards us.  It was dark in color (brown?) but had a metallic quality, and as it passed the car it made a strange sound.  Not a buzz, or a motor-like sound.  More of an electronic sound that changed pitch as it approached my car, then hovered for a second just at the left side of my windshield, very close to the driver's side window, and then quickly disappeared.  We both saw and heard the exact same thing.  It lasted only a few short seconds, but it remains very clear in both of our minds.  There was no one else around, no traffic, no houses, no people.  We didn't actually see it "disappear"; it just flew quickly away and wasn't in sight anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24708.html](http://www.nuforc.org/webreports/reports/024/S24708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [399](http://www.nuforc.org/webreports/reports/164/S164466.html)
-- [398](http://www.nuforc.org/webreports/reports/165/S165065.html)
-- [397](http://www.nuforc.org/webreports/reports/159/S159492.html)
-- [396](http://www.nuforc.org/webreports/reports/158/S158804.html)
-- [395](http://www.nuforc.org/webreports/reports/158/S158852.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
