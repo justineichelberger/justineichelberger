@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:05 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow/Redish colored UFO on the Blue Ridge Parkway in Asheville,NC.I observed an oval shaped object rise over a nearby mountain on the Blue Ridge Parkway.  The object had many lights on it which did not flash.  The UFO was approximatly 1/2-1 mile from me in the air as it ascended above the mountain top.  The UFO then slowly moved above my location and then streaked across the sky covering aproximately 30-50 miles in about 1-2 seconds.  The UFO then stopped then began to fly north across the mountain range, eventually disappearing from my sight.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46473.html](http://www.nuforc.org/webreports/reports/046/S46473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apollo beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving northbound  on  I-75 around 11:45 pm, when I saw a green ball fly over the highway at a great speed.  As I was looking at it fly by, it had came to a complete stop in the air and sat there.  While looking at it, it went from a green ball to being  a bright white light.  As I was driving past the object it appeared  to have a white dome shape and flat at the bottom.  It also appeared to be flashing white lights like a strobe light.  After about 10 minutes, I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148439.html](http://www.nuforc.org/webreports/reports/148/S148439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
