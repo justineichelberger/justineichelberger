@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:25 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:37:23 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Glastonbury (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report includes no description of the alleged sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144856.html](http://www.nuforc.org/webreports/reports/144/S144856.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Durant (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A toy? Or what? A Demon?I am not really into this type of thing.  I am a ((denomination deleted here)) preacher's wife.  But, I keep seeing things.  And my husband sees them, too.  It's freaky.  I don't know if it's metoers, or our imagination working overtime...or some rich kid on the hill with neat-looking toys.  One night a few weeks ago we saw a whole bunch of firey balls darting to and fro over the sky towards our west, and we watched them for 20 mintues.  Some came, some went away, and some stayed, and kept moving.  Some were going straight, and some made sharps turns.  Some got brighter, and some faded. There were no metoer showers reported. We thoughts some planes were about to crash.  Tonight was like my umpteenth sighting of something strange.  I woke of insomnia and was looking at the stars, when a big flash of light came out of nowhere, and I thought for a long time what a bright plane it was.  Then I thought maybe it was a angel.  But, as it got closer, it's path northwest to southeast, I noticed it had a line of lights at it's middle flashing different colors.  It was pretty close to the ground.  I don't know, it may just be someone playing with a giant toy to freak people out at night. I don't necessarily want to be contacted by any investigators, but, I can show you where the sky is hot.  North of town in Durant, Oklahoma. I have seen another freaky thing recentyl.  A small glowing object, mostly red in color, flew right toward my house and over it.  It was dark in the middle, and red glowing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24620.html](http://www.nuforc.org/webreports/reports/024/S24620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
