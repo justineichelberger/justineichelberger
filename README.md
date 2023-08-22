@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Southport (not sure) (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>a ball of light appeared out of the atmosphere over the highway and dove to the right behind treeswhile driving south on I-95 near exit 19 in Conn. i witnessed a sphere appear suddenly out of the atmoshpere. It was about 2 to 3 lamposts ahead of me over the highway. It dove to the right off the highway behind trees. It was very bright. I could see the illumination shining through the trees . All it seemed to be was a ball of light. Its color was white with a blue hue. It made no sound. I could see no craft attached to it. I know it wasn't a hellicopter. The sighting lasted about  4 seconds. This happened 8/22/02 at 3AM. I am a licensed massage therapist. 36 y.o. male.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27399.html](http://www.nuforc.org/webreports/reports/027/S27399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark object going south below clouds with singular rotating light on the bottomI was driving home from work and at approximately 8:10 pm I witnessed a strange object heading southward.  The object appeared to be dark and round with a point on the top.  It had a light that continuously rotated around the bottom as it traveled below the clouds.  I would estimate it was a few hundred feet in the air but it was a small object, maybe the size of a small helicopter or a bit smaller.  I expected to see a tail on the object because of its' size but there was definitely no tail to the object.  I pulled over to watch the object for approximately one minute until I could no longer see it due to trees.  I am a pizza delivery driver in this area and am always watching the skies and I can tell you I have never seen this object in the skies around here or anywhere else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101416.html](http://www.nuforc.org/webreports/reports/101/S101416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
