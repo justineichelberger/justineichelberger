@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:49 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hugo (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange lights over Hugo Oklahomafive orange lights one would flash and go out then another would flash almost in a diamond pattern</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83372.html](http://www.nuforc.org/webreports/reports/083/S83372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At 11 pm on August 22, 2014, my friend and I saw a light performing jumps, fading then reappearing left and right of trajectory.My friend and I were reclining on the deck at my house on a bluff above Puget Sound 4 miles north of downtown Edmonds, Washington.  We were watching the stars and pointing things out to each other.  At close to 11:00 PM, I noted what I thought was a satellite traversing the sky from south to north, so I got my friend on it.  It began fading and jumping to the left and back to the right again.  It would fade then reappear to the left or right – bright as it flashed back on. Knowing that eyes can make far objects appear to move, we were crosschecking our observations with each other.  The path also changed while it was jumping – it took a long hook as it went from south – north to east - west.  We were both taken back by what we saw. This was a very high altitude event – it certainly could be compared to a satellite in terms of brightness and altitude.  My friend is an engineer and a pilot – he was adamant about me not mentioning his name.  I have never seen one before t! hat had that jerky zig - zag motion. The sighting was probably 1-2 minutes long. The speed of the object was comparable to a satellite.  It traversed about a 30 degree arc.  When first sighted it was about 45 degrees up from horizontal.  After about 20 seconds of these left to right to left jumping motions it simply faded out.  At that point it was straight out in front of us – still at about 45 degrees from horizontal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112773.html](http://www.nuforc.org/webreports/reports/112/S112773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
