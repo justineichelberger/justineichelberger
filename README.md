@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm City (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>clear bubble with feather looking object in centerI was lying on my float in the pool  looking up at the clouds thinking why don't we see the orbs during the day.  Okay so many people will say I'm seeing things that aren't there, but this is what I saw.At first I thought it was a white feather drifting down in my yard so I just watched it drifting down and as i focused on it i could see a bubble around it.  What i saw as the feather was about 2 inches long and the bubble around it was the size of a baseball.  While I was thinking it was a feather was when it was coming down then it started going horizontal that's when I saw the bubble as soon as I started focusing on the bubble it shot away and i lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112738.html](http://www.nuforc.org/webreports/reports/112/S112738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man witnesses peculiar craft "with vertical stabilizer," which suddenly streaks off. Wife witnessed same obj. from different position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00745.html](http://www.nuforc.org/webreports/reports/000/S00745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
