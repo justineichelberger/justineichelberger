@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in South Nags Head (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Small red lights flying along coast of Nags Head and then all would dissapear in same location -- no sound.Around 9 pm on August 22, 2014, there were 4 people on the deck of an oceanfront beach house. It was pitch dark out with no cloud cover.  We were all looking out at the water, facing southward, looking down the beach towards the Gary Oliver pier.  Three small red lights were in a triangle formation were cruising along the beach line, fairly high in the sky, but not as high as a commercial airliner would be. they made no sound and as they were approaching, they then disappeared all the the same point in the sky. 30 seconds later a single red light followed the same pattern as the other three and disappeared at the same pint.  2 more followed that one about 15 seconds behind each other and disappeared at the same point in the sky. Then three more in triangle formation and they also disappeared at same point in sky.  They were all the same shape, color, size and all disappeared at same point in sky and they made no noise.  No way they were aircraft, helicopters or anything else I have ever seen.  VERY VERY strange -- and the three other people with me are all UFO non-believers, but could NOT explain what it could have logically been as there was no clouds and they made no noise. Only comment made was that someone mentioned there was a military base near Elizabeth City, but we still did not know what that would lend to the solution of what they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112864.html](http://www.nuforc.org/webreports/reports/112/S112864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Barrie (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Intensely bright rectangular object appears over Barrie skiesA silent object looking similar to a satellite with an extremely low orbit passed from almost north to south.  The object emitted tremendous light from solar panel like appendages. It was as though the sun was reflecting for them.  The brightness of this object was many orders of magnitude bright her than any star.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101417.html](http://www.nuforc.org/webreports/reports/101/S101417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
