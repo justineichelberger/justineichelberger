@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Courtenay (Canada) (BC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Just noticed it when we looked at photos taken on our fishing trip.((NUFORC Note:  Image indicates a blurred, cylindrical object suspended in the daytime sky.  Its aspect ratio is longer than that of a beer can.  We do not know what it is.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31076.html](http://www.nuforc.org/webreports/reports/031/S31076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Four, large, pale green lights in a diamond formation, moving steadily, horizontally from W - E/SE before disappearing abruptly.At approximately 23:31 on Friday, August 22, 2014, I was sky gazing from my balcony, four stories high.  I spotted four, large, round, pale green lights in a diamond or cross formation in the relative positions of 2, 5, 8 and 11 o'clock.  The lights were equally spaced from each other and were clearly visible over the downtown skyline of Calgary.  All four lights travelled together at the same rate of speed as if they were tethered by an invisible thread.  The speed was comparable to that of a slow moving traffic helicopter which I see daily.When I first saw the formation, it travelled horizontally from the west and steadily moved east - southeast, toward the main runway flight path (which runs in a North - South direction) of the Calgary Airport Authority.Upon entering this area of air space, the four lights very suddenly and without hesitation, shot upward at approximately a 45° angle to the left (which could have been eastward), then disappeared without a trace or remnant of light.The event lasted six seconds.  The sky was overcast with possibly some light rain throughout the city, however, no weather anomalies in my area that obstructed my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112783.html](http://www.nuforc.org/webreports/reports/112/S112783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
