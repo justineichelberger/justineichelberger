@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:05 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:18 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apollo beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving northbound  on  I-75 around 11:45 pm, when I saw a green ball fly over the highway at a great speed.  As I was looking at it fly by, it had came to a complete stop in the air and sat there.  While looking at it, it went from a green ball to being  a bright white light.  As I was driving past the object it appeared  to have a white dome shape and flat at the bottom.  It also appeared to be flashing white lights like a strobe light.  After about 10 minutes, I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148439.html](http://www.nuforc.org/webreports/reports/148/S148439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Yucaipa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>firey orange sphereReference 7/29/12 Ithaca NY...almost exactly same type of sighting...lower altitude...about the size of a pea at arms length...reddish/orange flashing lights with an occasional flash of white light...pattern never repeats....came from the southwest (lower altitude than NY sighting,and closer)slows down to a stop then changed direction to south...turns very bright then disappears</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92089.html](http://www.nuforc.org/webreports/reports/092/S92089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
