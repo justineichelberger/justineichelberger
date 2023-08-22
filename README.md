@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man witnesses peculiar craft "with vertical stabilizer," which suddenly streaks off. Wife witnessed same obj. from different position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00745.html](http://www.nuforc.org/webreports/reports/000/S00745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue light swaying and dipping over BellevueI was at 5157 Lakemont Blvd SE Bellevue, Washington, 98006 from aprox. 2150 until 2250.  I noticed a blue light in the sky, just above the horizon, at about 2225.  It was hovering just above the tree line about 5 degrees to the east of the north star.  The blueness is what caught my attention.  Very soon after noticing it, it began to dip and sway and swirl like nothing I've ever seen.  I got the attention of another patron at the store and asked him if he saw it too.  He said he saw it, but didn't seem too impressed. It slowly dropped below the tree line and I didn't see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77367.html](http://www.nuforc.org/webreports/reports/077/S77367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
