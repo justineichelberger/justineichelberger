@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Barrie (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Intensely bright rectangular object appears over Barrie skiesA silent object looking similar to a satellite with an extremely low orbit passed from almost north to south.  The object emitted tremendous light from solar panel like appendages. It was as though the sun was reflecting for them.  The brightness of this object was many orders of magnitude bright her than any star.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101417.html](http://www.nuforc.org/webreports/reports/101/S101417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Thunder Bay (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I LOOKED UP IN THE DARK SKY AND SAW A BRIGHT WHITE LIGHT WHICH SLOWLY MOVED IN FRONT OF ME THEN STOPPED AND WAS TOTALLY SILENT.MY WIFE AND ME WERE OUT CAMPING AT  FRAZER LAKE  NEAR THUNDER BAY ONTARIO CANADA, WHEN ONE NIGHT I WENT OUT SIDE OF CAMPER TO GO TO WASHROOM. AS I STOOD BEHIND THE CAMPER I LOOKED UP AND NOTICED A VERY  BRIGHT WHITE ROUND LIGHT IN THE SKY, ABOUT 2000 FEET  FROM THE GROUND. THE HEIGHT IS VERY HARD TO TELL BECAUSE THE LIGHT WAS SO BRIGHT. THE DISTANCE AWAY FROM ME WAS MAYBE 1 QUARTER  MILE AWAY. I WAS AMAZED AND WATCHED IT SLOWLY MOVE FROM LEFT TO RIGHT SILENTLY.  IT REALLY GOT ME THINKING WHEN THE LIGHT JUST STOPPED AND HOVERED THERE IN FRONT OF ME. NOW I WAS REALLY THINKING WHAT THE HELL IS THAT LIGHT.  IT STOPPED FOR ABOUT 10 SECONDS   THEN SLOW STARTED MOVING AGAIN IN THE SAME  DIRECTION AND SUDDENLY TURNED A BRIGHT ORANGE COLOUR AND DISAPEARED INTO NOWHERE WITHIN A SECOND.  AFTER A FEW MOMENT OF THINKING ABOUT IT I QUICKLY RAN INSIDE MY CAMPER AND TOLD MY WIFE WHAT I HAD SEEN AND LOCKED THE  DOOR. I WAS SO SCARED I COULDNT SLEEP ALL NIGHT AND THE NEXT DAY I ASKED OTHER CAMPERS IF THEY HAD SEEN THIS LIGHT BUT NOBODY HAD BEEN OUTSIDE AT THAT TIME. I HAD BEEN SCEPTICAL ABOUT UFO SIGHTINGS UNTIL I HAD SEEN THIS UNEXPLAINED LIGHTED ROUND OBJECT. I HAVE SINCE ENCOUNTERED 2 MORE SIGHTINGS IN WHICH ONE I HAVE 2 WITNESSES BUT THAT DOSENT MATTER. I BELIEVE THERE IS OTHER LIFE OUT THERE OTHER THAN THE HUMAN RACE AND THATS ALL THAT COUNTS. I AM TRUELY INTERESTED IN ALL SIGHTINGS AND BELIEVE MOST OF THEM TO BE TRUE SIGHTINGS.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26699.html](http://www.nuforc.org/webreports/reports/026/S26699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
