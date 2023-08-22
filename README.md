@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:52 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pearland (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large vertical orange/pink glowing light  the length of two full moons above the horizonA vertical orange/pink irridescent, colored, glowing,bright light appreared in the eastern sky just above the horizon (25 degrees).  It was long about the length of two full moons.  It appeared to change its location very slowly horizontally.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38864.html](http://www.nuforc.org/webreports/reports/038/S38864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Montreal West (Canada) (QC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Disk-shaped object with 3 pairs of lights appears in photo taken of planets in the night sky.I was taking pictures from my attic window of the southwest view of Saturn, Mars, and Antares which appeared last night in a curved line.  I gave the camera some zoom.  A major airport lies in that direction.  Twice I had to wait for airplanes to exit the frame.  In one photo (shutter speed 1 sec), the airplane is still in the frame and appears like a blurred, slightly elongated light, as would be expected.  I took 16 photos.  I chose the photo that showed Mars and Saturn at its clearest.  Then I did post-processing to improve contrast and saturate the colors, so that Mars's redness was fully evoked.As I began the post-processing, I noticed a streak in the upper left.  I cleaned my computer screen, but the streak was still there and moved with the photo.  I then feared I must have a scratch on my lens. I checked the other 15 photos--no streak.  Then I enlarged the photo to see a disk-like object with six lights--3 pairs of lights that are reddish.  The shutter speed was 4 seconds for that shot, so the object was not moving since it is very clear with no movement blur.  I compared it to the photo that shows the airplane leaving the frame--no resemblance.  The UFO is a disk with six lights and crystal clear.  I also looked up pictures of satellites photographed from Earth--no resemblance.  I have no idea what the object is, and I can't speculate.I am sending you the photo with the saturated colors.  If you want the original photo or the photo with the airplane for comparison, let me know.Sincerely,  ((woman's name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129445.html](http://www.nuforc.org/webreports/reports/129/S129445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
