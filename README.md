@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:49 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Four, large, pale green lights in a diamond formation, moving steadily, horizontally from W - E/SE before disappearing abruptly.At approximately 23:31 on Friday, August 22, 2014, I was sky gazing from my balcony, four stories high.  I spotted four, large, round, pale green lights in a diamond or cross formation in the relative positions of 2, 5, 8 and 11 o'clock.  The lights were equally spaced from each other and were clearly visible over the downtown skyline of Calgary.  All four lights travelled together at the same rate of speed as if they were tethered by an invisible thread.  The speed was comparable to that of a slow moving traffic helicopter which I see daily.When I first saw the formation, it travelled horizontally from the west and steadily moved east - southeast, toward the main runway flight path (which runs in a North - South direction) of the Calgary Airport Authority.Upon entering this area of air space, the four lights very suddenly and without hesitation, shot upward at approximately a 45° angle to the left (which could have been eastward), then disappeared without a trace or remnant of light.The event lasted six seconds.  The sky was overcast with possibly some light rain throughout the city, however, no weather anomalies in my area that obstructed my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112783.html](http://www.nuforc.org/webreports/reports/112/S112783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm City (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>clear bubble with feather looking object in centerI was lying on my float in the pool  looking up at the clouds thinking why don't we see the orbs during the day.  Okay so many people will say I'm seeing things that aren't there, but this is what I saw.At first I thought it was a white feather drifting down in my yard so I just watched it drifting down and as i focused on it i could see a bubble around it.  What i saw as the feather was about 2 inches long and the bubble around it was the size of a baseball.  While I was thinking it was a feather was when it was coming down then it started going horizontal that's when I saw the bubble as soon as I started focusing on the bubble it shot away and i lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112738.html](http://www.nuforc.org/webreports/reports/112/S112738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
