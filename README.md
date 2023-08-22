@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winston-Salem (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Dark object going south below clouds with singular rotating light on the bottomI was driving home from work and at approximately 8:10 pm I witnessed a strange object heading southward.  The object appeared to be dark and round with a point on the top.  It had a light that continuously rotated around the bottom as it traveled below the clouds.  I would estimate it was a few hundred feet in the air but it was a small object, maybe the size of a small helicopter or a bit smaller.  I expected to see a tail on the object because of its' size but there was definitely no tail to the object.  I pulled over to watch the object for approximately one minute until I could no longer see it due to trees.  I am a pizza delivery driver in this area and am always watching the skies and I can tell you I have never seen this object in the skies around here or anywhere else.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101416.html](http://www.nuforc.org/webreports/reports/101/S101416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Livingston (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2-3 very bright lights above Livingston in broad daylightVery bright lights high in the sky above Livingston. There must have been several witnesses being that they were in plain view directly in line with the freeway. The brightest stayed lit for the duration the other two shown on and off randomly.As I drove closer they disappeared.  I looked for the objects thinking they may have just been reflections off of aircraft, but there was nothing to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83423.html](http://www.nuforc.org/webreports/reports/083/S83423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
