@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:54 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:52 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Apollo beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving northbound  on  I-75 around 11:45 pm, when I saw a green ball fly over the highway at a great speed.  As I was looking at it fly by, it had came to a complete stop in the air and sat there.  While looking at it, it went from a green ball to being  a bright white light.  As I was driving past the object it appeared  to have a white dome shape and flat at the bottom.  It also appeared to be flashing white lights like a strobe light.  After about 10 minutes, I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148439.html](http://www.nuforc.org/webreports/reports/148/S148439.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Liverpool (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>fast zigzaging light  over or around a normal plane clear night over Liverpool NYMy daughter and I were swimming after midnight in our pool and as I floated on my back, at first I saw a regular airplane which was very high up and as I was watching it... what appeared to be 2 smaller white lights just showed up around it but I couldn't tell if they came from it or if they were way high above it or what since they were going so quickly.I called to my daughter and pointed up (not taking my eyes off of this) saying, "I wonder if the plane sees it! Am I seeing what I think I'm seeing... what do you see?" She looked up and said, "Yes, it's a light doing figure eights zipping around real fast."  She says it was 1 light but I thought it was 2 because it looked that way to me since the light was zipping so fast.  My sight is much poorer than hers, so I only put 1 as the number of craft seen.The airplane flew normally and the light stayed as it was when I first saw it, making zig zag patterns in what seemed like a small span of space until it just disappeared.This is the first time either of us ever saw anything "weird" like this.  It's my estimate that the whole thing lasted about 10 seconds. Thanks for the chance to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71949.html](http://www.nuforc.org/webreports/reports/071/S71949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
