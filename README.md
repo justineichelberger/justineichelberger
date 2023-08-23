@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bridgewater (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately minutes - minutes minutes.</sub><blockquote><sub>Large green fireball with a large trailTraveling on Route 78 East when a green fireball with a trail appeared in the sky and then disappeared quickly.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92074.html](http://www.nuforc.org/webreports/reports/092/S92074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>One Fireball like object with an oscillating halo preceding it appeared at 9;05pm moving from South to North and another following the same flight path at approximately 10:50pm. Approximate altitude: between 10,000 and 20,000 feet AGL .  Approximate speed: between 200 and 300 knots.The objects made NO sound whatsoever. I am a pilot and have never seen anything like it.  I do have a photo of the second one but is very difficult to tell what it is.My location is just outside the very Southeast corner of Waterloo, Iowa.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92151.html](http://www.nuforc.org/webreports/reports/092/S92151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
