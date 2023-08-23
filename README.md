@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:46 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Small, bright white light moving from West to East in Midlands of South Carolina.Was walking the dog, then looked up and saw a small, but intense white light moving across the sky.  It was solid white--not blinking or twinkling.  It was moving from West to East.  It was definitely not an aircraft.  Not a sound was heard.  After about a minute...its slowly faded into the atmosphere and was gone.  I'm still baffled as to what it was, but I would testify under oath that it was not any sort of airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112750.html](http://www.nuforc.org/webreports/reports/112/S112750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ringoes (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saturday night 8:20 pm August 23 2014.At least 10 objects align & coming from east to west direction Neshanic Station, Flemigton, Ringoes NJ.5 witness; some video.  Not a air craft, balloons or drones.Round shapes, bright glowing orange red.Flying at low distance then taking at faster speed to a higher altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112841.html](http://www.nuforc.org/webreports/reports/112/S112841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
