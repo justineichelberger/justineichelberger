@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:46 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ringoes (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saturday night 8:20 pm August 23 2014.At least 10 objects align & coming from east to west direction Neshanic Station, Flemigton, Ringoes NJ.5 witness; some video.  Not a air craft, balloons or drones.Round shapes, bright glowing orange red.Flying at low distance then taking at faster speed to a higher altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112841.html](http://www.nuforc.org/webreports/reports/112/S112841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in North Windham (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>UNEXPLAINED LIGHTS THAT WENT UNDERWATER FASTER THAN THE SPEED OF LIGHTGOT UP GET A GLASS WATER LOOKED OUT ON THE LAKE TO SEE 2 EXTREMLY BRIGHT LIGHTS (LOOKED LIKE MAGNESIUM WHEN IT BURNS) I THOUGHT AT FIRST THEY WERE BACKUP LIGHTS ON A CAR BUT THE BRILLANCE WAS BRIGHTER THAN ANY VEHICLES BACKUP LIGHTS.   ALSO THEY STARTED TO GLIDE ACROSS THE WATER FROM ABOUT A 1/2 MILE TO WITHIN 200YARDS.I THEN THOUGHT THAT IT WAS A BOAT WITH HUGE SPOTLIGHTS LOOKING FOR SOMETHING IN THE WATER.  WE WERE ON A SANDBAR AND IT HAD HAPPENED BEFORE THAT SOMEONE WOULD GET STUCK ON THE SANDBAR.JUST AS IT GOT CLOSER THE LIGHTS WENT OUT, BUT THEN A SEQUENCE OF LIGHTS REVOLVING AND CHANGING COLOR FROM GREEN, BLUE, ORANGE,  RED.  THEY KEPT ROTATING AND GOING FASTER.  FINALLY IT WAS ROTATING SO FAST THAT IT LOOKED LIKE A TRANSLUCENT RED LIKE IF YOU TAKE A CIGRETTE AND SPIN IT IN THE DARK. IT FINALLY WENT UNDER WATER AND WAS GONE FASTER THAN YOU CAN SNAP YOUR FINGERS UNDERWATER UP THE LAKE. THE WHOLE EVENT HAS STUCK IN MY MIND, AND TO THIS DAY I DON'T KNOW WHAT IT WAS BUT IT HAS MADE ME FEEL VERY VERY AFRAID AT NIGHT.WE SOLD THESE COTTAGES IN 1998 AND WHEN I WENT BACK EACH SPRING  AND SUMMER I WOULD THINK ABOUT IT.  BUT I THINK I GOT MY ANSWER IN 1997 SEPT.  I CAN'T GET INTO THAT NOW BUT WILL TALK TO SOMEONE IF THEY WILL LISTEN, AND NOT LAUGH AS WHEN THIS FIRT HAPPENED, I TOLD PEOPLE IN THE NEXT CAMP,  AND THEY DIDN'T BELIVE ME.   SO,  I DON'T TALK ABOUT IT BUT CAN'T FORGET MY FEELING OR WHAT I SAW.((NUFORC Note:  Witness identifies self as an employee in the aviation industry.  For a similar account, please see the July 04, 1893, issue of the Tacoma (Washington) News.  Multiple witnesses described to that newspaper an "electric monster" that hovered above Puget Sound, "shot" a fisherman in the chest, and then submerged into the water and went streaking off.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16451.html](http://www.nuforc.org/webreports/reports/016/S16451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
