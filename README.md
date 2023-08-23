@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:05 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:46 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Galena (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a v or u shape with 3 lights on the front and one orange one on the back, made NO noise and 200 ft. in the air huvring over usWe live out in the woods by the lake, there where 3 of us at the time when we all saw a light come up over the trees, it had 3 lights in the front and one in the back that was orange.  It made NO noise, and was opproximately 200 ft. obove us.  We got the gun so we could see in the scope what it looked like. It looked like a u shape[chevron] and huvered over us, then moving to the North east towords Cape Fair MO. diriction. this happened the 23rd of August.   2 months ago my neigheor saw the same thing while driving home around 9;00pm and they pulled over to look at it and then it disappeared after huvering over there car, nothing was said about it until I told her what I saw because she thought people would think she was crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19319.html](http://www.nuforc.org/webreports/reports/019/S19319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Trafford (PA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Upright shaped cross, white lit spire on top, yellow lit longer rod from bottom moving west to east in Pennsylvania.Object was perhaps 3000 ft. moving from west to east across and over TRAFFORD/MURRYSVILLE valley.  My house sits high which made me look straight out at it, about 4 miles.   Object was rectangular in shape with a white lighted spire protruding from top. A bright lit yellow rod protruded from the bottom looking like : - - - - - - (the dash being yellow light, spaces between in black, only pointing straight down from bottom of craft).  It was stationary when first seen then moved quickly eastward.  No sound heard.  Weather was clear, no clouds.seen with naked eye then, 7x35 binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158904.html](http://www.nuforc.org/webreports/reports/158/S158904.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
