@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:46 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Trafford (PA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Upright shaped cross, white lit spire on top, yellow lit longer rod from bottom moving west to east in Pennsylvania.Object was perhaps 3000 ft. moving from west to east across and over TRAFFORD/MURRYSVILLE valley.  My house sits high which made me look straight out at it, about 4 miles.   Object was rectangular in shape with a white lighted spire protruding from top. A bright lit yellow rod protruded from the bottom looking like : - - - - - - (the dash being yellow light, spaces between in black, only pointing straight down from bottom of craft).  It was stationary when first seen then moved quickly eastward.  No sound heard.  Weather was clear, no clouds.seen with naked eye then, 7x35 binoculars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158904.html](http://www.nuforc.org/webreports/reports/158/S158904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sumter (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>Small, bright white light moving from West to East in Midlands of South Carolina.Was walking the dog, then looked up and saw a small, but intense white light moving across the sky.  It was solid white--not blinking or twinkling.  It was moving from West to East.  It was definitely not an aircraft.  Not a sound was heard.  After about a minute...its slowly faded into the atmosphere and was gone.  I'm still baffled as to what it was, but I would testify under oath that it was not any sort of airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112750.html](http://www.nuforc.org/webreports/reports/112/S112750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
