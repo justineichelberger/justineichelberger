@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Berlin (Germany) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>august 23 , Berlin,Germany at 22:55 ca. sphere or saucer, sandy in color "flat matt" silent moving in straight line very fastDear Sirs:  I live and work in Berlin.I am not crazy and I do not take drugs!!  I saw last night a sandy colored sphere or saucer like object that went from the south west toward north east in a straight line, here in Berlin. The object was not shiny and had no light. it made no sound at all. it was about 3-4 centimeters in size relative to the stars and i could not tell if it was close (500 meters, etc) or if it was in outerspace and was very large. i was alone unfortunately and no one else saw this.I have never seen anything like this. It actually looked like a special effect in a movie.I am in shock a little and have problems that no one believes me. It may be that it was some type of space junk. I know what satelites look like and this was a sphere or a saucer. there were no windows and nothing to say about it but the shape and the sandy brown color it was "flat matt" not shiny.  It moved very fast. from horizon to horizon it took 10-15secs approx. I am wondering if anyone else reported this?   This is no joke. This was real -but what it was, I am not sure.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65373.html](http://www.nuforc.org/webreports/reports/065/S65373.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Large green glowing spherical light traveling north at high rate of speed.  No tail, no sound.A large green glowing spherical light (about the size of a small moon), was sighted directly above in sky, traveling north at the high rate of speed that a shooting star has, but no "tail".  The object appeared to be in the near atmosphere.  Lost sight of it due to hillside.  Seemed to be more substantial than refracted or reflected light.  No sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129451.html](http://www.nuforc.org/webreports/reports/129/S129451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
