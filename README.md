@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:05:59 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving west on i90 and I saw a light in the sky I took out my phone and took a few shots it was 6:30 in the morning I have no clue as to what it was all I know is it wasn't a plane I worked at bdl for a year and I know small craft I drive truck now and very stunned how bright it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108263.html](http://www.nuforc.org/webreports/reports/108/S108263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Elkhorn City (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Bright lights blinking , on hillside at Kettle Camp Elkhorn City Ky.Saw 4 different ones, lasted about 45 min.First noticed silvery brillant lights blinking upon a hillside. Seemed to be behind a tree. Light rose out of tree line, went right to other side of hill, the light when  moving had a red glow and was blinking. Then the light came back and traveled down by our house, then vanished. No sounds were heard, no motors, no engines. There was some heavy winds just before we saw these lights. Then we saw 2 more lights, one was above the other. They sat for a while, blinking silvery lights, then one went in the same direction as the first. After a short time the other did the same thing. There are dogs on both sides on the hills. The dogs on the side where the lights were first seen barked and howled constantly. The dogs on the side where the lights went only barked when the lights passed by them. There was a soft glow where we first saw the lights. After the 4th light left the glow was gone and the dogs stopped barking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65381.html](http://www.nuforc.org/webreports/reports/065/S65381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
