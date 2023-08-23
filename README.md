@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Strathmore (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Moved - Moved minutes.</sub><blockquote><sub>3 craft's in a triangle formation one flew across the sky at fast rate!the outer that was close to moon had an airplane fly near it and looked like it shot something at from above just left a tril of smoke!  Still out there!  has blinking lights  Orange in color!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142911.html](http://www.nuforc.org/webreports/reports/142/S142911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large yellow & red lights on Red Hill Ave, going South towards Irvine Blvd. The lights simultaneous disappeared as I approached.I was driving on Red Hill Ave, going South. The road was very dark, and I was the only car in this stretch of road. It was between La Collina and Irvine Blvd at 10pm.  No street lights at all. In the distance I saw large yellow and red lights across the 4 lane highway. There were probably 10 lights on the pavement. It looked like a police barricade or road work. When I came closer, all the lights disappeared simultaneously. It was spooky. I mean they disappeared before my eyes. There was no one else on the road. I looked to see if the lights were there, but turned off, but nothing was there, only the street. I looked up at the buildings and there were no lights. I was freaked out because it was so odd. I have never seen anything disappear like that. They basically vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71838.html](http://www.nuforc.org/webreports/reports/071/S71838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
