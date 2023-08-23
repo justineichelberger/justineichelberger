@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 22 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:26 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Redmond (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bluish tinted fireball 45 degrees above horision. Moving directly magnetic South. Part split off.bluish tinted fireball, moving magnetic south from about 45 degrees above horision. small part broke off, glowed yellow/orange and winked out. Origional fireball continued down to the South, went below my visible horision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08781.html](http://www.nuforc.org/webreports/reports/008/S08781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Erie (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Cylinder ufo seems to be letting out round orbs in broad daylight.I live in  Erie, Pa,,,  I was sitting in my backyard on my patio when I noticed a airplane going over at a pretty low altitude.  That wasn't too unusual since there is a airport in  the area.  The plane was kind of different since it had a double tail connected with like a bar between them. I was still looking up when I noticed this silver metallic looking craft slowly going over head,it was hard to judge just how high it was but it clearly visible to the eye.  The craft appeared to either change shape or was spitting out something from the rear like balls of light.  I didn't have a camera with me so I took out my cellphone an took some pictures and some videos of it.In the first video u see the cylinder object looking like balls of light coming out of it the next two don't have the cylinder object just round balls of light.  The sky was blue without a cloud in sight.  See what u think.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101563.html](http://www.nuforc.org/webreports/reports/101/S101563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [400](http://www.nuforc.org/webreports/reports/164/S164407.html)
-- [399](http://www.nuforc.org/webreports/reports/164/S164410.html)
-- [398](http://www.nuforc.org/webreports/reports/164/S164433.html)
-- [397](http://www.nuforc.org/webreports/reports/164/S164408.html)
-- [396](http://www.nuforc.org/webreports/reports/164/S164629.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
