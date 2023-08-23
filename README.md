@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:51 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Globe (AZ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Plants moving to no wind, sighted craft and entityI went outside for a smoke with my puppy Canella.  I lived out of town quite a ways on a highway, so when I seen flasing lights out beyond the house coming from a distant river bed behind some old mine trails. I have hiked with my friend and explored the old indian ruins in the same vacinity.  It looked like police lights to be honest, so I was intrigued. I started off towards the lights with Canella, climbing up to the area with pottery to get a better look. It was further than I thought, back into the dry river bed.  As I made my way to the location the light appeared to be coming from I noticed the prickly pear and other various plants were swaying, as if a wind was blowing that could not be felt. I found it odd, so I sat down for another smoke to watch.  Getting up, I started my way down into the river bed, only to find the lights were above the next ridge.  I soon noticed the large rocks off to the side behaving strangely, as if they were living.  I kept up m! y pace though and began climbing up to the source of the light.  What happened next only can be remembered in fragments, as if I were drunk (which I was not). I got to the top and whar I seen was a large, rectangular light source.  Like a huge LED screen facing towards the ground about 25ft off the ground.  The lights were fluid, no single source of color.  Underneath was a short, humanoid figure.  Dressed in what seemed to be like oil but skin tight.  On it was a sort of mask or visor. It had numerous attachments on the front and emitted a soft glow.  Memory fades. I am looking into a hole in the ground, no control of my body it seemed.  I see a reddish face in the hole, black eyes.  Seems to try to draw me in.  Something pulled me back. Woke up in the morning on my pallet with boots on, Canella my puppy beside me.  I know this story is strange, even by the usual story.  What I witnessed will never leave my mind, like a lucid dream.  I will never deny what I seen, nor will I ever be qu! ick to judge or disbelieve.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131408.html](http://www.nuforc.org/webreports/reports/131/S131408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Caransebes (Romania) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>one star fly and dissapear like in movie s.f23 00 hours . me and one of my best friends...on west sky, one star  begins to fly up to the sky...and she dissapear like in movie s.f.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39107.html](http://www.nuforc.org/webreports/reports/039/S39107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
