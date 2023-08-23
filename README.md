@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Kobe (Japan) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>well it was 8:30pm in kobe japan,when my son and i were looking at stars and saw a light .it look like the n star ,so i lookt for red flashing light like that of a plain that tell you the jet or propela is on but no red light.ufo was high i put my  hand up a full 2 and a half ft in front of my face .it whent about 2 feet in about 1 min heading s/se before diming out it took about 3/4 sec to dim out and was still moving when diming .then it was gon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52123.html](http://www.nuforc.org/webreports/reports/052/S52123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Charlton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was driving west on i90 and I saw a light in the sky I took out my phone and took a few shots it was 6:30 in the morning I have no clue as to what it was all I know is it wasn't a plane I worked at bdl for a year and I know small craft I drive truck now and very stunned how bright it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108263.html](http://www.nuforc.org/webreports/reports/108/S108263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
