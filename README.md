@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 23 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Caransebes (Romania) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>one star fly and dissapear like in movie s.f23 00 hours . me and one of my best friends...on west sky, one star  begins to fly up to the sky...and she dissapear like in movie s.f.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39107.html](http://www.nuforc.org/webreports/reports/039/S39107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bitburg (Germany) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange glowing lights float in formation over germany.On the night of August 23rd roughly about 22:30 a call came into Spangdahlem Germany about orange spheres in the sky roughly about 25-30 of them. 30 minutes later same lights were seen over Spangdahlem. Objects were orange in color and in the middle of all the lights there were two disc's. Objects seemed to be moving in formation but not fast enough to be a plane, all at the same altitude and speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65369.html](http://www.nuforc.org/webreports/reports/065/S65369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [414](http://www.nuforc.org/webreports/reports/164/S164419.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164429.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164422.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164428.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164687.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
