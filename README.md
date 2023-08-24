@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:50 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were standing in the tennis court and the sky was severe marine layer when a bright orange red light was coming toward us, all of a sudden it was gone.  My daughter looked towards the beach and we believe the same object spread out almost see through or age and d I among shaped, I reached for my phone to tape record and it moved and vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135890.html](http://www.nuforc.org/webreports/reports/135/S135890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moxee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>08/24/10  21:08pm Moxee, Wa  light 10 seconds  3 bright lights one big and two small ones on the sides all 3 lights same object.I was driving home from work at night on high way 24 it was around 9:05pm at first I saw an airplane on the right side of my car (south)arriving to the airport in Yakima, Wa. Then moments later I saw this strange light ahead (east) I was thinking it was another airplane but it didn't had blinkig lights and it was to bright, one big round light and two small ones on the sides, there was a full moon and it was a clear night, I saw that strange object like next to the moon then a few seconds later like 3 or 4 seconds later it star going up slowly and for some reason I look to my speedometer to see how fast I was driving, I just looked down for a split second and when a look up again that light was gone, I looked all over the sky and there was no light at all, I kept looking, nothing, it was gone. I would like to know if there is somebody else that saw this light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77416.html](http://www.nuforc.org/webreports/reports/077/S77416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
