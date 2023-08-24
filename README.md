@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Video footage of a disk like object in the Sacramento night sky.The event happened about 9pm on Friday August 24th. I saw a glowing orb in the sky from the corner of my eye, that at first glance, thought was a shooting star. When I turned and looked I noticed it was moving way too slow to be a shooting star, yet too fast to be a plane. The object, to the naked eye looked like an orb. I ran and got my neighbor to get his video camera out. Upon zooming in on the object you can clearly see a disk like object. It moved in a straight line across the sky, then disappeared. Then about 30 minutes later I saw the same object take off out into the sky in the same place that I had originally saw it appear. I live near an airport and I have seen many aircraft in the night sky, this was definitely not an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92135.html](http://www.nuforc.org/webreports/reports/092/S92135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On this evening were driving east.  In the southeast direction I notice a bright white light that isn't moving.  I mention it to my brother.  He thinks it's an airplane.  I know it wasn't because the object was still in the sky.  The sun was still out so it was too bright to be a star.  When I asked him to take a picture of it, the object slowly disappears.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129485.html](http://www.nuforc.org/webreports/reports/129/S129485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
