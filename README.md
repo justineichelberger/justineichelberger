@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:52 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 141</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148542.html](http://www.nuforc.org/webreports/reports/148/S148542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kerville (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Amber blinking large orb in woods then sky at secluded ranch in texasBright amber blinking  orb very large very close to secluded ranch house at ranch lose to Mexico in Texas, the orb rise from beyond trees about 1 city block or less away from ranch house, it rose slowly then went into sky and the sky turned orange and it disappeared.  The night before cackling sounds were heard in the woods in that are not like any animal.  It was like kac cak cak cak  the sighting was my daughter and her husband at a very large very secluded hardly visited ranch in Texas.  Neither of them likes, watches or believes in sci fi or UFO,my hey are very shaken and frightened over this.  Possible entities heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101644.html](http://www.nuforc.org/webreports/reports/101/S101644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
