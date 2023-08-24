@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:49 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hampton Beach (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>came ino view and then vanishedI was with my daughter and girlfriend I live in lowell mass we went to hampton beach to hang around it wasn't very hot so we drove up rte 1 past rye towards portsmouth might of been 1a we wanted it to get hotter before we got on the beach. we drove back and stopped at the north end of hampton beach near the last parking lot.we got out to go down to the beach. it was a beautiful day. me an my daughter were playing and chasing each other. my girl and daughter started playing I was happy to be at the beach. I took out my fuji finepix 200 digital camera to take photos I took a couple of my kid. my daughter started running down the beach my girlfriend walked slowly behind. I took another photo and then another at that second I seen something appear out of nowhere over the ocean 200 ft out yelled to my girl look she looked nothing it was gone. I had been looking at the sky because it was beautiful. I did not see any birds planes blimps or any thing. the sky was clear with some light clouds. so I kept taking photo's went on with my day of fun.I went home and wanted to see the photo's uploaded them on my pc and started looking at them. in one of the photo's that I described in the events, the thing I saw was there in my photo. only one not the photo a couple of seconds before or a couple seconds after. I don't drink and consider myself pretty normal I really would like someone to see this photo. I have allways been interested in weird stuff not obsessed till now!! been on the web trying to find out what is going on. please help.I will email photo to anyone!! or all my photo's  before and after the one in Question.((NUFORC Note:  Photo shows thin, dark, perhaps disc-shaped object in a cloudless sky.  It is interesting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30939.html](http://www.nuforc.org/webreports/reports/030/S30939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Melcroft (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hello,  Tonight around 9:20pm I was traveling on route 711 in westmoreland county, just north of Normalville in the region of melcroft. I saw what I thought were two planes with blinking red lights that were very close to each other. I then noticed the lights turn west and at this time I realized they were part of the same object. I pulled over on the side of the road to watch it better.  It appeared as though each light was at either end of the structure but I could not tell what was in between but it definitely looked connected. The ufo then appeared to be landing somewhere to the left. If I had to guess, I would say in the area of White (from what I could tell by looking at the map.) I wasn't able to get a picture because it was too dark. I thought this was very odd and never say anything like this before. I wanted to report it and see if anyone else saw something similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164416.html](http://www.nuforc.org/webreports/reports/164/S164416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
