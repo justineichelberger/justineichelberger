@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:49 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Moxee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>08/24/10  21:08pm Moxee, Wa  light 10 seconds  3 bright lights one big and two small ones on the sides all 3 lights same object.I was driving home from work at night on high way 24 it was around 9:05pm at first I saw an airplane on the right side of my car (south)arriving to the airport in Yakima, Wa. Then moments later I saw this strange light ahead (east) I was thinking it was another airplane but it didn't had blinkig lights and it was to bright, one big round light and two small ones on the sides, there was a full moon and it was a clear night, I saw that strange object like next to the moon then a few seconds later like 3 or 4 seconds later it star going up slowly and for some reason I look to my speedometer to see how fast I was driving, I just looked down for a split second and when a look up again that light was gone, I looked all over the sky and there was no light at all, I kept looking, nothing, it was gone. I would like to know if there is somebody else that saw this light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77416.html](http://www.nuforc.org/webreports/reports/077/S77416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hampton Beach (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>came ino view and then vanishedI was with my daughter and girlfriend I live in lowell mass we went to hampton beach to hang around it wasn't very hot so we drove up rte 1 past rye towards portsmouth might of been 1a we wanted it to get hotter before we got on the beach. we drove back and stopped at the north end of hampton beach near the last parking lot.we got out to go down to the beach. it was a beautiful day. me an my daughter were playing and chasing each other. my girl and daughter started playing I was happy to be at the beach. I took out my fuji finepix 200 digital camera to take photos I took a couple of my kid. my daughter started running down the beach my girlfriend walked slowly behind. I took another photo and then another at that second I seen something appear out of nowhere over the ocean 200 ft out yelled to my girl look she looked nothing it was gone. I had been looking at the sky because it was beautiful. I did not see any birds planes blimps or any thing. the sky was clear with some light clouds. so I kept taking photo's went on with my day of fun.I went home and wanted to see the photo's uploaded them on my pc and started looking at them. in one of the photo's that I described in the events, the thing I saw was there in my photo. only one not the photo a couple of seconds before or a couple seconds after. I don't drink and consider myself pretty normal I really would like someone to see this photo. I have allways been interested in weird stuff not obsessed till now!! been on the web trying to find out what is going on. please help.I will email photo to anyone!! or all my photo's  before and after the one in Question.((NUFORC Note:  Photo shows thin, dark, perhaps disc-shaped object in a cloudless sky.  It is interesting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30939.html](http://www.nuforc.org/webreports/reports/030/S30939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
