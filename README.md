@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Paul (around) (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown (I was driving) - unknown (I was driving) minutes.</sub><blockquote><sub>Huge Circle formed by many lights, appeared to be foggy - not moving.  HUGE compared to airplanes at airport.Was driving home on 494W after leaving Perkins (off France St), and saw a Huge Circle shape (Left of Highway).  It had several faded lights creating this circle, and it looked as though it was in a cloud or fog.It was not moving.  I was driving, - so I called my cousin who was driving a mile or two behind me.  She saw it too.There was a recent bad car accident, so I was unable to pull over anywhere to take a photo safely.I saw an airplane flying (at airport) and it was TINY compared to this object.((NUFORC Note:  We suspect that the display is the result of advertising lights, projected from a local casino.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121457.html](http://www.nuforc.org/webreports/reports/121/S121457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Video footage of a disk like object in the Sacramento night sky.The event happened about 9pm on Friday August 24th. I saw a glowing orb in the sky from the corner of my eye, that at first glance, thought was a shooting star. When I turned and looked I noticed it was moving way too slow to be a shooting star, yet too fast to be a plane. The object, to the naked eye looked like an orb. I ran and got my neighbor to get his video camera out. Upon zooming in on the object you can clearly see a disk like object. It moved in a straight line across the sky, then disappeared. Then about 30 minutes later I saw the same object take off out into the sky in the same place that I had originally saw it appear. I live near an airport and I have seen many aircraft in the night sky, this was definitely not an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92135.html](http://www.nuforc.org/webreports/reports/092/S92135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
