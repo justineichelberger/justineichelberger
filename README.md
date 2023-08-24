@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Port Elizabeth (South Africa) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Ufo/moving stars/flashing strange colours/moving in formationI went outside and looked up at the stars to marvel at them as I always do & noticed a star, on further inspection I noticed it was burning different colours.  It looked small and then another one joined it.  They were locked in some sort of dance breaking formation and re-organizing.  I noticed that they seemed to move around in different patterns. I also noticed that they get brighter and then faded slightly and started moving away into the distance.  This amazed me and I was sure its military..  After going inside to wait for some time to pass.  I came back out and this time there were more spread out and in a strange formation, I notice strange waves of light and I could feel that I was been watched it felt like I was been toyed with as I tried to take photos and a video but there was nothing on my screen just darkness.  They then broke formation and started to fade, as if it were all in my imagination and that they had become camouflaged with the normal stars & sky behind them. This was def. military or an actual UFO because I have noticed that these same things have been reported all over the world..  They flash red, green, blue and white lights and move in a jelly fish like type of way..  (Bizarre)  I cant believe what a nut I sound like writing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112863.html](http://www.nuforc.org/webreports/reports/112/S112863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gardena (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White/Silver cigar shaped craft dissappears behind powerlinesAt approximately 6:00 PM on August 24, 2008 I was sitting at the Jack in the Box in Gardena off Artesia & Vermont, with a a friend, having a snack. I was looking out the door at 2 helicopters that had been circling for about 3 hours over an Auto Insurance Auction facility in Gardena, CA near 182nd St & Vermont Ave. I spotted a cigar shaped white or silver object traveling fairly slow. I asked my friend 'Is that a plane?', he stayed silent and watched it with for for the next 3 minutes. There were power lines that obstructed the view, which the craft passed behind but never emerged from behind the wire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65393.html](http://www.nuforc.org/webreports/reports/065/S65393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
