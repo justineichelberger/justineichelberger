@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Springfield Township (OH) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange red color flying in single file then three would make the shape of a triangle shape and hover for about 1 minute then go back into line move then disapear several seconds more would come and repeat the last ones I saw formed a large diamond stayed that way then gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101552.html](http://www.nuforc.org/webreports/reports/101/S101552.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in The Colony (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My daughter and I observed a bright disk shaped object flying over north Texas today.I was talking to my 16 year old daughter in the dining room when she pointed to something in the sky (she was facing the sliding glass door to our patio behind me). She said, "Mommy, there is something in the sky, look."  We went to the glass door and watched what appeared to be a very bright, white disk-shaped object traversing the sky about 500-700 feet up going precisely south to north at a fairly fast pace.  I have watched many, many planes fly over my house and this did not appear to be a plane.  It had a definite disk shape to it.  We grabbed the binoculars and ran outside to the back yard following it across the sky.  I kept saying it must be a balloon but it didn't seem to behave like a balloon.  (I video tape and photograph known flying objects in the sky for my IFO web site - this did not fit anything I have in my IFO database.) I watched it fly to the south through the binoculars then noticed it seemed to rotate or something happened because it began to change from a disk shape to some other shape (this is when I knew it was not a plane for sure).  It was descending to the ground behind some houses at about a 25-30 degree angle.  This is when I had serious doubts that it was a balloon.  My daughter also said she saw it maneuver in the sky while I was getting the binoculars and she said balloons cannot do what it did.  No sound was detected.I have a B.A. and M.Ed. in counseling psychology and research UFO's, phenomena and military technology.  I hesitated filing this report because I believe most UFO sightings tend to be misidenifications of conventional aircraft and/or other common objects seen in the sky.  I have to admit it was clearly disk shaped and seemed to be flying under some type of control and it went down to the ground as if landing.  It could have been a balloon or it could have been a UAV.  I don't know.  I've seen other unusual objects in this area now and then.  (It was partly cloudy but mostly sunny today, winds out of the south at 5-10 mph.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24668.html](http://www.nuforc.org/webreports/reports/024/S24668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
