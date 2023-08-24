@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:54 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Tijuana (Mexico) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>ovni o ?El sabado 24 de Agosto, estaba sentado en la sala platicando con la familia cuando vi un objeto raro en el cielo, no era un avión, ni helicoptero. Entoces sali con unos binoculares y se veia muy extraño, entre a la casa por mi video camara para tener un mejor zoom y cuando logre enfocarlo parecia un disco volando con la parte inferior de color negro en forma de línea; solo pude grabarlo por unos segundos creeyendo que se habia desaparecido pero lo volvi a ver y ya no pude enfocarlo mas, estuvo volando alrededor de unos 5 a 10 minutos...Tengo el Video</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24754.html](http://www.nuforc.org/webreports/reports/024/S24754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ledyard (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>black oval hovering and darting offI was outside doing yard work with my boyfriend.  I looked up and watched this strange black oval in the sky.  It hovered for about one minute in the exact same spot.  A jet went passed this black oval, and within seconds the black oval darted off in the direction of the jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112890.html](http://www.nuforc.org/webreports/reports/112/S112890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
