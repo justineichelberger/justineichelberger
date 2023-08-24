@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:21 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately still there - still there minutes.</sub><blockquote><sub>An unknown bright stationary object in the sky over Stamford, CTOn Sunday August 25th around 8:30-8:45 p.m. EST in Stamford, CT we noticed an unknown bright object in the sky. The object was not moving. It was about the size of a plane, but not of the same shape, and was “hanging” at around the same height as that at which you would normally see planes. Judging by the location of the object in relation to our house, it looked like it may have been situated above Cove Island in Stamford or in that general direction. It was difficult to decipher the actual shape, but all of us saw holes in this object through which the light was coming. There were 4 of us at home (our family) and every one of us saw it. It is now 9:40 p.m. and we are still seeing it. My husband and son took a video of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65380.html](http://www.nuforc.org/webreports/reports/065/S65380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Seven orange orbs in the formation of the Big Dipper that individually hovered and moved across the sky acscending to the atmosphere.Seven orange orbs in formation of the Big Dipper appeared in the sky in O'Fallon, MO, in my subdivision of Patriot's Landing.  They were relatively low to the ground and glowed.  My boyfriend, ((name deleted)), and I got out of our van to observe this phenonomal formation.  One by one each one moved in a north to south direction, only to rise upwards into the atmosphere vanishing.  There was no sound, no flashing lights --- only solid, glowing orange light for each unidentified object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101637.html](http://www.nuforc.org/webreports/reports/101/S101637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
