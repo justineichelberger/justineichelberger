@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Algonquin Park (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>My first actually sighting of ufo was in Canadian National park...Algonquin ParkIn the summer of 1995 I had read about weird objects being seen in the sky over Algonquin Park, I wanted to see why people were reported these things so me and my dad took a 2 week vacation up to the national park. Every night for the 2 weeks I stayed up in the early hours watching the night sky and every night was the same disappointment; all I could see was the stars and the moon and nothing out of the unordinary. Then on the last night something compelled me to walk to the edge of a river bank, I was not sure why my interest suddenly grew but I left my dad who was cooking by the fire and proceeded to the water. When I looked up I paid attention to a specific star that was just below the big dipper, suddenly it began to move in a western direction, after 10-15 seconds it stopped and went back to the east, this continued and the bursts continued at different speeds, after a few "laps" in the sky it began to make a zig zag patter "Z" after making a star pattern in the sky it stopped one last time for about 5 seconds before shooting straight up and disappearing; I walked back to where my dad was and he did not say if he did or did not see the light in the sky, since then my experience with sighting ufo's has increased…((NUFORC Note:  Date is approximate.  Please see reports from Pennsylvania for August 25, 1995, in the Case Briefs section of the NUFORC website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/023/S23755.html](http://www.nuforc.org/webreports/reports/023/S23755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 of these objects looked to be chasing or following each other, they were as low as the speed limit sign as i was driving down the street. they went to the left and as i came to the stop sign they disapeared at an angel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52139.html](http://www.nuforc.org/webreports/reports/052/S52139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
