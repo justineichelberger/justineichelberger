@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:01:01 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Seven Devils (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>230+ fireballs formed the shape of a Christmas tree and then split into 2 parallel lines of two groupings and continued from the eastThe event started at roughly 9:30PM to 10pm. I live on a mountain and have a view of roughly 300 miles of mountain ranges.  I went out on the back porch with my family and we were all struck with the "omg what is that" feeling.  The orange lights were solid and formed a Christmas tree pattern in the valley below me roughly 15 miles away so we had an awesome view.  At first I thought they were lanterns being sent into the air but quickly realized that was not the case as they would move in formation in pairs of two - three and then a line of fireballs behind those three that shaped a triangle.  They did not ever break formation except to break apart into smaller groups but stayed the same distance from each other.  There are absolutely no roads where these objects were flying.  I tried to get picture but none would show the balls just blackness.  I can however vividly recall every formation and movement compared to my view of the mountain ranges and stationary street lights that I can see at night so I can recreated in pictures their movements if needed.  Looking forward to a call thanks, Justin</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101554.html](http://www.nuforc.org/webreports/reports/101/S101554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>White car-shaped blob above cloud hovered and disappeared.Was a passenger in a car heading south as sun was setting, looking at a cloud with sun rays all around saw a white oval blob shape resembling a car hovering just above cloud.  After about 8 seconds, it instantly disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121462.html](http://www.nuforc.org/webreports/reports/121/S121462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
