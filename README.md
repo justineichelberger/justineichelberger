@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:50 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>2 of these objects looked to be chasing or following each other, they were as low as the speed limit sign as i was driving down the street. they went to the left and as i came to the stop sign they disapeared at an angel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52139.html](http://www.nuforc.org/webreports/reports/052/S52139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were standing in the tennis court and the sky was severe marine layer when a bright orange red light was coming toward us, all of a sudden it was gone.  My daughter looked towards the beach and we believe the same object spread out almost see through or age and d I among shaped, I reached for my phone to tape record and it moved and vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135890.html](http://www.nuforc.org/webreports/reports/135/S135890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
