@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:36:27 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:21 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wife and I in backyard pool with lights out.  From Cocoa, Florida looking towards direction of Space Center, it looked like another rocket was lifting off.  Working there, I was not aware of any launches scheduled that day (today).  Wife noticed that the object appeared to be on a trajectory that will take it directly overhead.  It did fly overhead but emitted no sound.  Trajectory of object was from north-east to south west.  Wife left pool to get phone and head to front yard to take a picture of object.  Within a minute, a second object appeared on the same trajectory.  I then when to front yard and informed wife that a second object was about to appear over the house.  I went inside and grabbed a digital camera and managed to take one picture when it was lower on the south west horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148469.html](http://www.nuforc.org/webreports/reports/148/S148469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stamford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately still there - still there minutes.</sub><blockquote><sub>An unknown bright stationary object in the sky over Stamford, CTOn Sunday August 25th around 8:30-8:45 p.m. EST in Stamford, CT we noticed an unknown bright object in the sky. The object was not moving. It was about the size of a plane, but not of the same shape, and was “hanging” at around the same height as that at which you would normally see planes. Judging by the location of the object in relation to our house, it looked like it may have been situated above Cove Island in Stamford or in that general direction. It was difficult to decipher the actual shape, but all of us saw holes in this object through which the light was coming. There were 4 of us at home (our family) and every one of us saw it. It is now 9:40 p.m. and we are still seeing it. My husband and son took a video of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65380.html](http://www.nuforc.org/webreports/reports/065/S65380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
