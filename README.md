@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gardena (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>White/Silver cigar shaped craft dissappears behind powerlinesAt approximately 6:00 PM on August 24, 2008 I was sitting at the Jack in the Box in Gardena off Artesia & Vermont, with a a friend, having a snack. I was looking out the door at 2 helicopters that had been circling for about 3 hours over an Auto Insurance Auction facility in Gardena, CA near 182nd St & Vermont Ave. I spotted a cigar shaped white or silver object traveling fairly slow. I asked my friend 'Is that a plane?', he stayed silent and watched it with for for the next 3 minutes. There were power lines that obstructed the view, which the craft passed behind but never emerged from behind the wire.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65393.html](http://www.nuforc.org/webreports/reports/065/S65393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 141</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148542.html](http://www.nuforc.org/webreports/reports/148/S148542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
