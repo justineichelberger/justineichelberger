@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:16 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:36:27 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>V-shaped object flying without lights and no sound.We were out in the pool last night about 9:45pm.  We go in the pool at this time probably 5 to 6 times a week.  We float around in the pool and look at the sky and stars.  A few weeks ago we saw a meteor.  Usually some planes from Nellis Air Force Base, and some planes heading to the Las Vegas airport,  or planes very high up flying to some other area.Last night, I looked and was stunned because this V-shaped object was flying north to south.  There was no sound and no lights.   All the planes we have seen have always had lights on them.  It seemed light colored, and I think I only saw it because the moon was kinda bright and seemed to reflect some light off the object.As soon as I realized this object seemed strange,  I called to my roommate to look where I was looking.  He also saw it, before our view was blocked by my neighbor's tree.  He agreed it was very odd, and didn't have any lights on.It seemed pretty large and was moving at a good speed.  It was going in a straight line.We were both stunned by what we saw, because we have never seen anything like this object before, and we are in the pool at night 5 or 6 times a week since late April.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121470.html](http://www.nuforc.org/webreports/reports/121/S121470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cocoa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Wife and I in backyard pool with lights out.  From Cocoa, Florida looking towards direction of Space Center, it looked like another rocket was lifting off.  Working there, I was not aware of any launches scheduled that day (today).  Wife noticed that the object appeared to be on a trajectory that will take it directly overhead.  It did fly overhead but emitted no sound.  Trajectory of object was from north-east to south west.  Wife left pool to get phone and head to front yard to take a picture of object.  Within a minute, a second object appeared on the same trajectory.  I then when to front yard and informed wife that a second object was about to appear over the house.  I went inside and grabbed a digital camera and managed to take one picture when it was lower on the south west horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148469.html](http://www.nuforc.org/webreports/reports/148/S148469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
