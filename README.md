@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159301.html](http://www.nuforc.org/webreports/reports/159/S159301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Round reflective object in the sky over Albuquerque, NM.On August 25th, 2018, at around 2 PM Mountain Time I observed an object in the sky over NE Albuquerque.  The object appeared to be silver reflective or translucent and round in shape.  It was very still in the sky despite wind gusts of 10 to 15 miles per hour from the south.  I noticed the object was at a higher altitude than the clouds, so I would guess it was sitting at about 15,000 to 17,000 feet.  I grabbed my digital camera and took video and photographs of the object and I also observed it through a small portable telescope.  I was unable to identify exactly what it was.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142900.html](http://www.nuforc.org/webreports/reports/142/S142900.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
