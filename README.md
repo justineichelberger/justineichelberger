@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stewartstown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately unkown - unkown minutes.</sub><blockquote><sub>Round light green ball with lights Northeast of the sunrise.((NUFORC Note:  Lens flare, caused by photographing the Sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121471.html](http://www.nuforc.org/webreports/reports/121/S121471.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Santa Cruz/Loma Prieta (mountains) (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>2 objects above Santa cruz Mnts.Aug. 25th Wednesday evening at 9:30pm I noticed two bright orange lights on a ridge across a valley while standing in my back yard, I Immediately called my husband to come take a look, at first I thought maybe they were fire trucks on the ridge, but as I looked through the my binoculars I realized that they were not Fire trucks, but were actually about 15 degrees above the ridge moving in the a South West direction. I couldn't make out a definite shape, only they were round and and glowed like a flame, they never flickered and I couldn't see any lights other than this orange glow. I followed them through my binoculars as they moved slowly above the ridge for about 5 minutes, then they both seem to stop moving for about 30 second, then one of them moved down and behind the other side of the ridge and I could no longer see it, the second one stayed still, just hovering there above the ridge for about 30 seconds, as I watched it, it just turn off ? Like turning off a light. It didn't move up or down like the other one had, it just dissapeared right in front of my eyes ? My Husband and I are amateur star gazer, we've seen quite a few interesting things up here in the Santa Cruz Mtns, like Muir and a couple of comets, but I've never seen anything like this !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09592.html](http://www.nuforc.org/webreports/reports/009/S09592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
