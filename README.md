@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Windsor (VT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>21:46 EST West Windsor VT bright white low flying fast oblong object flying rapidly due north with blunt orange end.At approximately 9:46 on Saturday night, August 25th, a fast flying oblong or lipstick shaped object was seen traveling low to the north of Mt. Ascutney, VT.  The arc of travel was more straight than round.  The front appeared to glow bright white.  The tail (a blunt end) seemed to glow orange.  There was no tail “stream” (the glow traveled with the object).  The object was viewed for about three seconds (the span covered approximately a mile).  The object seemed larger and longer than a falling star or comet and the image retained its shape and glow.   In the sky it appeared to be half an inch to an inch—or larger than an average plane (maybe a little less than a quarter inch “thick,” from top to bottom). Object was very bright, quick, and traveled more straight than curving, seemingly faster than the average jet.  The object appeared to be heading almost due north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92145.html](http://www.nuforc.org/webreports/reports/092/S92145.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Stewartstown (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately unkown - unkown minutes.</sub><blockquote><sub>Round light green ball with lights Northeast of the sunrise.((NUFORC Note:  Lens flare, caused by photographing the Sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121471.html](http://www.nuforc.org/webreports/reports/121/S121471.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
