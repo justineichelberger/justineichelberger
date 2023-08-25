@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 24 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:44 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Melcroft (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hello,  Tonight around 9:20pm I was traveling on route 711 in westmoreland county, just north of Normalville in the region of melcroft. I saw what I thought were two planes with blinking red lights that were very close to each other. I then noticed the lights turn west and at this time I realized they were part of the same object. I pulled over on the side of the road to watch it better.  It appeared as though each light was at either end of the structure but I could not tell what was in between but it definitely looked connected. The ufo then appeared to be landing somewhere to the left. If I had to guess, I would say in the area of White (from what I could tell by looking at the map.) I wasn't able to get a picture because it was too dark. I thought this was very odd and never say anything like this before. I wanted to report it and see if anyone else saw something similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164416.html](http://www.nuforc.org/webreports/reports/164/S164416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Agatha (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>northern maine sphere like. not moving.  White steady light amd othersIn the eastern sky a steady white light with different hues of red blue green.  Seemed to emit a beam and one I felt it looked sphere like.  Writing this and hasn't moved at all even the slightest</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101514.html](http://www.nuforc.org/webreports/reports/101/S101514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164478.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164635.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164416.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164630.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164628.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
