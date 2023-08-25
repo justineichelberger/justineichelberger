@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lights over Rutland, VT, 8/25/2014.I was out side star gazing looking up and a saw a light moving not a plane all the sudden the light got very white bright.  I called my daughter and looked back up and the white bright light had receded to the norm and was gone than i saw a plane coming fast and closing on another light that was heading west turning south. In middle of turn bright lights streached back twards both wings and looked like a triangle but we could still see the plane tail lights.All the sudden, i noticed a plane coming north right towards it than the lights disappeared and the plane tailing it kept going south and the other passed it to the left of the plane still heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112871.html](http://www.nuforc.org/webreports/reports/112/S112871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in White Lake (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>August 26, 2019.  Several star like objects observed to north, west and overhead.  August 24 through to 26, 2019, around 11:00 Pm to 2:00 am.  Dark sky and no moon.  Very bright objects Flashing light white, red, green, and blue lights observed moving erratically and defying gravity.  Very unnatural movement.  Overhead light had very bright white turning on and off moving North to South for about 10 minutes then disappeared.  I have never observed lights like this before.  Observed 1 light on night of 24th in northern sky 25 degrees above horizon, 1 light on the 25th to the west 20 degrees above horizon and 4 lights on the night of the 26th 2 to the west 1 to the north and overhead.  There were 3 witnesses over the 3 nights.  It will be cloudy this evening so will not be able to see if they will be back again tonight.  Will check again tomorrow.  Very unusual especially as these objects have appeared on consecutive nights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148514.html](http://www.nuforc.org/webreports/reports/148/S148514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
