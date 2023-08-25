@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:05:35 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Homestead (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange orb with a blue aura around itBright orange glowing orb with blue ring of light around it.  We thought it was an airplane on fire.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Time of the sighting is not indicated by the witness, and we have no means of contacting the party.  We have assigned above an arbitrary time for the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92137.html](http://www.nuforc.org/webreports/reports/092/S92137.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangular Craft in Sky Last NightI thought maybe it was a plane or jet of some sort but I couldn't find anything that looked like it when searching for pictures of jets, and planes, and stealth jets.The craft that I saw was like nothing I'd ever seen before.  It was a perfect equalateral triangle, and was very large...  the size of a commercial airplane in length.  I've grown accustomed to seeing various aircraft in my area, as I live about 2-3 miles from an airport, so most air traffic crosses over my house, but it usually comes from the East when flying low, as that is the direction the airport is from me.  This craft came from the South... It was flying very low, just above my roof and the treetops nearby, traveling at a reasonably fast pace, but just slow enough over me to where I could stand in awe wondering what it was and memorize its every detail in passing.  Each corner of the triangle had a very bright light that was like a spotlight shining down on the ground, and each light was equal in brightness.  It wasn't completely quiet, yet it wasnt' very loud either.  The noise it made was sort of soft humming sound. I first noticed it when I saw the bright lights coming over my roof as I was laying in the hammock in my backyard looking up to the sky towards Mars.  The lights were really bright and at first in the distance I thought it was a Police Helicopter spotlighting for a criminal or something, but it wasn't loud enough to be a helicopter so I thought it odd.  It came quickly over my roof, covering about a mile in a few seconds.  When it was over my back yard area, it slowed down quite a bit.  The 3 lights shined down into my backyard and then after it passed by it sped up again and took off so fast I couldn't see it anymore in a matter of seconds, due North. After seeing it, I thought it must be some hi-tech jet of some sort, but after looking for about an hour online thru various pictures of jets and planes, I saw nothing close to it.  Then I did a search on U.F.O.  and found a site that had drawings of a craft that looked EXACTLY like what I saw!  Then I came to this site today and decided to report what I saw last night. I am still amazed by what I saw... I don't know if this was something top secret, millitary, or something not of this world, but whatever the case, it was a phenomenal sight. I have a drawing I made of the craft available if you are interested in seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30937.html](http://www.nuforc.org/webreports/reports/030/S30937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
