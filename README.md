@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:58 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gunnison (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A Jet with smaller aircraft attached to both wings and tail. I do NOT believe it was a refueling craft.My husband and I viewed what appeared to be a large jet with three smaller aircraft off of one wing and four off the other.  These aircraft seemed attached by a "cord".  Another smaller aircraft was behind the tail of the jet, also attached.  The smaller craft were on the exact same axis as the wings and did not change angle or distance from the main aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112883.html](http://www.nuforc.org/webreports/reports/112/S112883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lehigh Township (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>We saw a green bright light fly towards the earth.  May have been on fire.  Lasted for less than a minute but was falling and could still see the green as it fell behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135917.html](http://www.nuforc.org/webreports/reports/135/S135917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
