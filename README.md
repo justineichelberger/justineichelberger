@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:56 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>unexplained object that disappeared into the nite sky.It was sitting in the middle of the tree tops all I could see was 2 yellow lights and it was as big in width as my front poarch, it saw me come out and in like 2 seconds it was gone this is the second time I have seen a big 1 like that out here.  Have seen a couple smaller 1s in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129494.html](http://www.nuforc.org/webreports/reports/129/S129494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lights over Rutland, VT, 8/25/2014.I was out side star gazing looking up and a saw a light moving not a plane all the sudden the light got very white bright.  I called my daughter and looked back up and the white bright light had receded to the norm and was gone than i saw a plane coming fast and closing on another light that was heading west turning south. In middle of turn bright lights streached back twards both wings and looked like a triangle but we could still see the plane tail lights.All the sudden, i noticed a plane coming north right towards it than the lights disappeared and the plane tailing it kept going south and the other passed it to the left of the plane still heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112871.html](http://www.nuforc.org/webreports/reports/112/S112871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
