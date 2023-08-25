@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:44 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Center Groton (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>On August 25, 2019 at approximately 15:00, my wife took some video footage and pictures of a confirmed UAV from her Iphone. The information that you a receiving right now, has been confirmed by a field investigator from MUFON. I, Eric Ossmann submitted my evidence into MUFON, and after a year of investigations confirming the images and video is in fact a UAV. I have a full report on these findings. However, I would like to have this look at from a different perspective, and see if this can be enhanced through any available rendering and filtering software that you may have at your deposal? It is known that between the years of 2018 and 2019 a lot of footage, and videos have been released regarding UFO, and UAV sightings all a crossed the United States. MUFON investigation concluded that this was a UAV, and checked with the FAA, along with putting the footage and pictures through some of their rendering and filtering software. However, over the course of time when this was initially reported, technology has become more enhanced. There are no reports from the FAA regarding this UAV or anything that was reported from any aircraft around the area at that time. Keep in mind, this sighting is in proximity to Mill Stone Nuclear power plant, Groton New London Airport, and also military bases such a National Guard AVCRAD, and Groton Naval Subbase. It is known that UFO’s are attracted to these kinds of attractions. As an estimate, this UAV altitude is around 60K to 70K up. Please look at the pictures first before reviewing the video to show the exact placement of the UAV. Then review the video at the 7 second mark. The black dot you see hovering, will then move at split second, leaving no contrails.I have included a screen shot of the exact placement of this UAV, please see the red boxed area to give you a better understanding the location of this UAV. Location is about 130 degrees to the South East.Please feel free to contact me with any further questions. Thank you.Eric Ossmann</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165855.html](http://www.nuforc.org/webreports/reports/165/S165855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Returning from vacation I saw a flourescent green object fall from the sky.About 2 to 2 and a half hours into my drive to New Jersey from Fort Pierce, Fla. I noticed a bright green object fall from about a mile above the earth.  It appeared to glow a flourescent green and descend rather rapidly, leaving behind a trail of green light.  I am not sure of the size of the object, nor how far away from my location it was.((NUFORC Note:  Possible meteor?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58420.html](http://www.nuforc.org/webreports/reports/058/S58420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
