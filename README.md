@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:51 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:56 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There were like 6-8 orange fireball looking objects forming circles, wavy lines and triangles.while me and my guy were walking back from the gas station I noticed somethings bright in the sky. It was sort of dark outside and there were a few clouds out this night. So while walking past the library they just closed I told my guy lets go back real fast. We went back towards the library parking lot looking northbound and up in the sky was about 6-8 bright orange fireball looking objects forming into a cicle. So we were under a tree and decided to go into the parking lot to get a better view. What we seen next left us speechless. A few of the objects started to disappear while they were forming into a line that was like waving like a snake. At this moment I counted 4 objects just sitting there waving in the air. Then suddenly one more disappears and theres 3 left. These 3, still in a line formation, started to form a triangle that was rotating counterclockwise. The entire time we were watching these lights they were blinking from dull to bright. We decided to try and go north to see if it was just someone floating somethng in the air. We cut through the parking lot and next to it was an alley but at the beginning of the alley theres a huge house with big trees there. While were walking the object starts to proceed northbound but at a slow rate of speed and then we lose sight behind the tree. I continue down the alley a couple steps as my guy stops and I see the bright light but this time theres only 1 and its starting to gain a little speed as I was following it. Then i just decided to stop and go back home. I had my phone with me but couldn't take a video because I was to shocked at what was happening in the sky for those 10 or 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92173.html](http://www.nuforc.org/webreports/reports/092/S92173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>unexplained object that disappeared into the nite sky.It was sitting in the middle of the tree tops all I could see was 2 yellow lights and it was as big in width as my front poarch, it saw me come out and in like 2 seconds it was gone this is the second time I have seen a big 1 like that out here.  Have seen a couple smaller 1s in the past.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129494.html](http://www.nuforc.org/webreports/reports/129/S129494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
