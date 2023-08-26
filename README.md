@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>In a flash it was gone.Outside smoking a cigarette, and noticed a strobe of blue/red lights coming from West of I-45. The object stayed stationery for about 25 seconds then made a bright white flash and was gone in a blink of an eye.  This is my second sighting this year and I'm not sure if its coincidental or what, but after both siightings, a small private plane circles the sky in the area that objects appeared. It seems on botg occassions the small plane was chasing and/or looking for unknown object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83447.html](http://www.nuforc.org/webreports/reports/083/S83447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Mackay (Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small cloaked (camouflaged) triangle UFO with lights on all corners and no sound has heard.  The shape moved silently through the night and moved suddenly in a 45 degree angle and you only noticed it as it passed under the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/135/S135934.html](http://www.nuforc.org/webreports/reports/135/S135934.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
