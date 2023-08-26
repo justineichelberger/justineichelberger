@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 25 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:21:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Kanata (Canada) (ON) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Cylindrical shape, quasi-transparent dome like structure attached on top flying high. Kanata Ontario, Canada.There was a clear and nice blue sky. I always observe the sky. I was in my car and my wife was driving north. We were going to the movies. I first saw a jet plane flying high going west at an altitude of 45 degrees. I could clearly saw the white trail the plane was leaving behind. I watched the plane until it disappeared in the distance. One minute after, I look southwest and I saw what I first believe to be another plane at an altitude of 30-35 degrees.  It looked to be closer than the commercial jet plane, but you could tell it was very high. It was moving northeast at a steady speed. The first thing I noticed is that there was no white trail, and it was moving just too fast and high to be a glider or small airplane. It looked like a metallic object (commercial jet plane like) but perfectly cylindrical. Looking with more attention, I noticed a quasi-transparent dome shape attached to the top of the object (similar in texture to what you can see when the moon is barely visible during the day)and what appeared to be like a variable haze sorrounding the object. I immediately told my wife to look. Even though she was driving, she could see it too. I though then that it was high altitude balloon, but again the payload seemed just too big and it was moving way too fast. As the object became closer (altitude of 60-70 degrees) I had to stick my head out of the sunroof to look at it. I laugh to myself because the shape of the object was just like a UFO portrayed in a bad cartoon or B movie; transparent dome like with metallic base. As we were moving north, I saw one person walking at the street looking at it puzzled. Once we reached the AMC parking lot, I saw a helicopter flying at ~500m above, this gave me a point of reference. The apparent size was of a big commercial jet plane flaying high. We watched until it disappeared in the distance. For the record, I am an amateur astronomer and I hold a Master degree in engineering. I have many years of working experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19260.html](http://www.nuforc.org/webreports/reports/019/S19260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winchester (KS) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>This bright white light was traveling at a very high rate of speed, before falling into the horizon.At 12:50 a.m. on 8/26/13, west of Winchester, KS on the Leavenworth/Jefferson County line I saw a bright rectangle fly from southeast to southwest.  It was the size of the moon, but the shape of a stovepipe, and it was up in the air.I observed this for approximately 8 seconds.  It caught my eye while traveling from the south, I stood up, and witnessed it fly to the Northwest.  It dimmed from a moon sized, stovepipe shape, into a small orange ball.4 minutes later I heard a boom.  There were no cars out in the country at the time. All the dogs in the distance started barking at the noise.  I drove up the Leavenworth/Jefferson County Kansas line to see if something could have crashed. I couldn't see anything.  There was no traffic, and no cb radio traffic as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101598.html](http://www.nuforc.org/webreports/reports/101/S101598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [469](http://www.nuforc.org/webreports/reports/164/S164564.html)
-- [468](http://www.nuforc.org/webreports/reports/164/S164438.html)
-- [467](http://www.nuforc.org/webreports/reports/164/S164436.html)
-- [466](http://www.nuforc.org/webreports/reports/164/S164437.html)
-- [465](http://www.nuforc.org/webreports/reports/164/S164460.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
