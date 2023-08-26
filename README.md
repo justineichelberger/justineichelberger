@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:56 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chatsworth (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object hovers slightly above tree level until it dissappears into the forestAs I was driving in the back seat of a friends car going down an isolated road. I noticed strange lights above the tree line next to me.   At first I thought it was a water tower, but no buildings exist for miles in that woods.  A friend asked what I was staring at and I pointed.  He asked me what it was, but I had no idea.  The object was moving very slowly, maintaining the same altitude, off into the woods until it was out of sight.  The object had 3 lights on it, white in color, shape was seem triangular.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43837.html](http://www.nuforc.org/webreports/reports/043/S43837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Scottsdale (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 9:30-9:35 - 9:30-9:35 minutes.</sub><blockquote><sub>I saw three lights. Red blue and silver (white).. They have been connected together..  We saw these object very clear..  Lights was roteting around each other..  I made few pictures, but pictures looks different then object we saw live ..  On pictures we see one silver ball with aura or fog around, no other colors..  After 5 min object vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92279.html](http://www.nuforc.org/webreports/reports/092/S92279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
