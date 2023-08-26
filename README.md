@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:04 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peterborough (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately few seconds of movement - few seconds of movement minutes.</sub><blockquote><sub>formation 4 UFO's sighted in England.Diamond shape formation (UFO's) in Peterborough.  Appearence resembled faint stars. Seen surrounding a bright star and then swiftly moved diagonal, then switched between a diamond formation to a slight square and back.((NUFORC Note:  The bogus contact information the source of this report provides makes us wonder whether it is a serious report, or a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113154.html](http://www.nuforc.org/webreports/reports/113/S113154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indialantic (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5:00 - 5:00 minutes.</sub><blockquote><sub>Hovering fireball over Atlantic Ocean in FloridaFireball appeared out over ocean and hovered for several minutes before blinking out. Most of event captured on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158929.html](http://www.nuforc.org/webreports/reports/158/S158929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
