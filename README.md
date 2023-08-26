@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Granville (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>LED LIGHTS IN CORN FIELD AND WOODSLED flashing lights above corn field with other small flashing LED lights in tree line. Lights above corn were flashing in pattern and bobbing changing from circle to square. LED lights in tree line were flashing different colors and patterns as well as a pulsating rainbow light rod. No houses near by and all is very overgrown and nowhere people would be. Watched for 3 hours. First hour I thought I was on the phone with my husband for the whole hour. Timestamp on call was only 17 minutes.possible loss of time.  Investigated the next day and found the corn to be too high and the wooded area to be too overgrown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164463.html](http://www.nuforc.org/webreports/reports/164/S164463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two metallic shperes hovering in broad daylight then vanishingIt was a clear and mild Sunday afternoon around 4:30pm when myself and a friend were standing in an alley way in front of his garage talking. As we talked I was glancing down the alley and up into the sky and thinking about what a nice day it was when I noticed object in the sky about 45 degrees up from the horizon. It was something I have never seen before or since with my own eyes. I mentioned to my friend the object and he saw it and then noticed a second similar object almost directly above us. The one above us appeared to be closer so we focused on that. I immediately got my binoculars out to have a closer look. The object was metallic and appeared to be circular, or an orb. I would have to say the object was a bit larger than a BB if you held one an arms length away. The objects did not drift or move. They were stationary in their positions for at least two minutes then they just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61652.html](http://www.nuforc.org/webreports/reports/061/S61652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
