@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:21:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:34:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Winchester (KS) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>This bright white light was traveling at a very high rate of speed, before falling into the horizon.At 12:50 a.m. on 8/26/13, west of Winchester, KS on the Leavenworth/Jefferson County line I saw a bright rectangle fly from southeast to southwest.  It was the size of the moon, but the shape of a stovepipe, and it was up in the air.I observed this for approximately 8 seconds.  It caught my eye while traveling from the south, I stood up, and witnessed it fly to the Northwest.  It dimmed from a moon sized, stovepipe shape, into a small orange ball.4 minutes later I heard a boom.  There were no cars out in the country at the time. All the dogs in the distance started barking at the noise.  I drove up the Leavenworth/Jefferson County Kansas line to see if something could have crashed. I couldn't see anything.  There was no traffic, and no cb radio traffic as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101598.html](http://www.nuforc.org/webreports/reports/101/S101598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bettendorf (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At first I thought it was a shooting star.  Then the colors changed and I noticed it wasn't falling but rising.  It came to a complete stop and then changed directions.  I was driving.  Would have stopped but was blocks from home and though I could see it from my backyard (and show my wife) but it's gone.  Way faster than an airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112919.html](http://www.nuforc.org/webreports/reports/112/S112919.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
