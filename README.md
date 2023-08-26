@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:34:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:40 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bettendorf (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At first I thought it was a shooting star.  Then the colors changed and I noticed it wasn't falling but rising.  It came to a complete stop and then changed directions.  I was driving.  Would have stopped but was blocks from home and though I could see it from my backyard (and show my wife) but it's gone.  Way faster than an airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112919.html](http://www.nuforc.org/webreports/reports/112/S112919.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Scottsdale (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 9:30-9:35 - 9:30-9:35 minutes.</sub><blockquote><sub>I saw three lights. Red blue and silver (white).. They have been connected together..  We saw these object very clear..  Lights was roteting around each other..  I made few pictures, but pictures looks different then object we saw live ..  On pictures we see one silver ball with aura or fog around, no other colors..  After 5 min object vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92279.html](http://www.nuforc.org/webreports/reports/092/S92279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
