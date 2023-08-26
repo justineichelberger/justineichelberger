@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Monroe (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright light seen three seperate times in a space of three and a half hours.At approximately 20:30 hr., I saw what I thought at first was the Space Station. The difference was it was traveling from the East towards the West. It caught my eye because it was a very bright white light and moving much like I have wittnessed the ISS move in the night sky.What I saw did not move in a straight line and did not disappear over the horrizon.  It made a swooping move that reminds me of the Nike logo in reverse.  It was very bright right up to the arch portion and progressively dimmed moving away from us, yet remaining visible in the night sky.  There was no discernable shape, noise, or flashing lights.What I and my Wife did see returned three times with approximately 20 to 45 minute intervals. It was clearly visible with the naked eye. We live in the flight path of Seattle and Everett Airports and know what aircraft look like in the sky. This did not appear to be any type of aircraft, just a bright light. We both wittnessed it three times.I brought out my night vision monocular and watched for it for about 3 and a half hours. Each sighting was with the naked eye and twice I was able to track it with the night vision. As it swung into the upper swoosh of the arch and became dimmer, I was able to see it become almost stationary for short times then disappear.Also, with the night vision I tracked several sattelites crossing the sky in South to North lines.  What I call sattelites could have been a UFO siting as well.  On two sitings I saw a singular motion enjoined with a second moving almost parralell tracking in the same direction except for one.  The one unusual siting I tracked from the North towards the South which was enjoined by a second that had been heading in the opposite direction. When I claim it 'enjoined' tracking the first, I mean it turned in behind the first I was tracking and they traveled for a distance across the sky and then both stopped. I watched them for a short time and brought the night vision down and lost track of their location in the mix of stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83487.html](http://www.nuforc.org/webreports/reports/083/S83487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Suwanee (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>vibrent bright cicurlar light seen going in one direction stopping then going in another.Very bright circular halogen like light. Zipped forward, stopped for a second, then took off in oppisite direction at an incredible rate of speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65415.html](http://www.nuforc.org/webreports/reports/065/S65415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
