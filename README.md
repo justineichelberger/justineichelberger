@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:58 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:04 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greensburg (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large red sphere with protrusions from top and bottom traveling silently from East to West silently and the size of a grapefruit.Large red orb or sphere traveling East to West just below cloud line.  The sphere was about the size of a large grapefruit at arm's length in the sky.  The object was solid in color and had red protrusions from top and bottom like if you took a grapefruit and stuck a pickle through it.  It was all one object and did not glow or flash.  There was no distortion of the light.  Although our first thought was that a plane was exploding, it soon became obvious that this was not a plane or helicopter.  It seemed high in altitude and moved silently across the night sky, becoming smaller and smaller until it blinked out and disappeared.  Our general impression was that it was UAP under intelligent control.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131672.html](http://www.nuforc.org/webreports/reports/131/S131672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peterborough (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately few seconds of movement - few seconds of movement minutes.</sub><blockquote><sub>formation 4 UFO's sighted in England.Diamond shape formation (UFO's) in Peterborough.  Appearence resembled faint stars. Seen surrounding a bright star and then swiftly moved diagonal, then switched between a diamond formation to a slight square and back.((NUFORC Note:  The bogus contact information the source of this report provides makes us wonder whether it is a serious report, or a hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113154.html](http://www.nuforc.org/webreports/reports/113/S113154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
