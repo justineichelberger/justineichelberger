@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright Red Light hovering above LAA red light that looked like a flare shot in the sky in the sky near mars moved NW then slowed and stayed stationary for about 5 minutes.  There was no wind.  There was no sound except for a plane that took off at the nearby Burbank airport.  The light sometimes dimmed then brightened several times.  Finally the light streaked off SE leaving what looked like a fine trail and diminished in intensity quite soon after.  It almost seemed like it left an object behind it as it took off but I could be mistaking what was left behind as a star.((NUFORC Note:  Please see second report of apparently the same event from North Hollywood.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30945.html](http://www.nuforc.org/webreports/reports/030/S30945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>In a flash it was gone.Outside smoking a cigarette, and noticed a strobe of blue/red lights coming from West of I-45. The object stayed stationery for about 25 seconds then made a bright white flash and was gone in a blink of an eye.  This is my second sighting this year and I'm not sure if its coincidental or what, but after both siightings, a small private plane circles the sky in the area that objects appeared. It seems on botg occassions the small plane was chasing and/or looking for unknown object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83447.html](http://www.nuforc.org/webreports/reports/083/S83447.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
