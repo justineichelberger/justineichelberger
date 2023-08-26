@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:54 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Indialantic (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5:00 - 5:00 minutes.</sub><blockquote><sub>Hovering fireball over Atlantic Ocean in FloridaFireball appeared out over ocean and hovered for several minutes before blinking out. Most of event captured on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158929.html](http://www.nuforc.org/webreports/reports/158/S158929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tucumcari (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Pulsing white light over the horizon and a small moving light in the opposite direction.A friend and I were on Highway 39 about 2 or 3 hours away from Tucumcari heading south southeast.  I told him since we were in the middle of nowhere and it was so dark there was a good chance we might see a ufo so keep an eye out.  I had been staring at different stars for almost an hour when for whatever reason I fixated on what I believed was Venus because it was the brightest thing in the sky since dusk.  After I had been staring at it for about 5-10 minutes I saw a smaller light that seemed to come out of it or at least out from in front of it.  I blinked and squinted to make sure it wasn't just my eyes playing tricks on me and it was still there.  I blinked a few more times and before I could tell my friend to look it had completely disappeared.  Around that time my friend that was driving kept telling me he was seeing a pulsing white light over the horizon in the opposite direction.  I looked a few times when I he said he saw it but I missed it every t! ime.  The way he described it was that there was an extremely bright light on the other side of a hill or the horizon and the light would come on it lit up the entire horizon in that direction brighter than anything he had seen.  Unfortunately after I saw my light he stopped seeing his.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102473.html](http://www.nuforc.org/webreports/reports/102/S102473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
