@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake George (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Extremely shiny object seen making strange manuevers in a cloudless afternoon sky.I am a taxi driver of 11 years. I was driving southbound on interstate 87.  It was a sunny late afternoon, with not a cloud in the sky. I looked up at the sky and saw the moon was out early.  To the right side of the moon, about an inch away from it, (estimated distance using an intelligent guess) far off in the distance was an extremely shiny, cigar-shaped object.The object was much too far away to get a clear look at any distinguishing features.  But the object was intensely reflective as if it was made of polished steel.  There did not appear to be any light eminating from the object, and there was no sign of a trail in the sky as if it was a plane.I noticed that the object was moving at a rapid rate of speed, considering the distance from me.  Then it moved up, across, and back down. I tried to keep an eye on it, but it disappeared from sight.  I continued to scan the cloudless sky as I made my way down the highway, but I could no longer see the object anywhere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92274.html](http://www.nuforc.org/webreports/reports/092/S92274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coppell (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Three small triangular shaped objects fly through my telescopes field of view.My son and I went outside this evening to look at the moon through our telescope (60mm diameter 800mm focal length - 25mm eye piece Kellner .96).  I was talking to my 6 year old son about the craters on the moon and what caused them.  As I began to move away from the eye piece, so he could have another look, I saw 3 triangular objects move directly through the middle of my field of view toward the west.  With this telescope the moon almost fills the field of view.  With a bright and almost full moon as a background the objects appeared to be black.  They passed by the moon in about one second.  Right through the middle of the moon.  They seemed to be very far away from us.  But I can't be sure of that.  I immediately looked up with my naked eye but couldn't see anything.  No lights, nothing.  They seemed to be exactly the same distance from each other.  Similar to the way figher jets fly in formation.  I'll try to give an example of their size.  If you have a grapefruit, then take 3 peas (pretend they are triangular shaped peas) and make a triangle with them in the middle of the grapfruit and separate them by about 1/4 inch then you would understand the size and the relationship between the 3 objects that I saw through the telescope.  I didn't notice any vapor trails, no distortion of the atmosphere from the heat of an exhaust or anything like that. I don't know what I heck I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38912.html](http://www.nuforc.org/webreports/reports/038/S38912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
