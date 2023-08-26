@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Scottsdale (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 9:30-9:35 - 9:30-9:35 minutes.</sub><blockquote><sub>I saw three lights. Red blue and silver (white).. They have been connected together..  We saw these object very clear..  Lights was roteting around each other..  I made few pictures, but pictures looks different then object we saw live ..  On pictures we see one silver ball with aura or fog around, no other colors..  After 5 min object vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92279.html](http://www.nuforc.org/webreports/reports/092/S92279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Springtown (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>This is SCARYIt was about 7:30 in the morning and i was getting up to see what my dog was barking at i try to turn on my light but it wont turn on almost as if the bulb was out but i knew that couldnt be it because about 2 weeks ago my dad changed all the lights so I knew that wasnt it so i just go to the window and see a cigar shaped hover craft and flip out so i run into my sisters room and wake her up by the time we get back there are 3 cigar shaped hover crafts so me and my sister are christans and we get on our hand and knees and just start praying and at about 7:40 the lights get brighter and brighter and fly off.They may be real and hostile or maybe its just the sun that is a mystery.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65485.html](http://www.nuforc.org/webreports/reports/065/S65485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
