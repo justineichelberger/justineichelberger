@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 26 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Heidelberg (Germany) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three ships appeared for about five minutes then left.It was a small blinking dot.  At first I thought it was a plane, but it got a little closer and  I saw it was definitely not.  It was always going from oval to circle then it would disappear then it reappeared and went through the cycle again. Then two other craft joined it after about three minutes.  A little bit later I’m guessing two minutes later they disappeared.  They didn’t come back.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65956.html](http://www.nuforc.org/webreports/reports/065/S65956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White round object around airplane level in the sky jumped around in zig-zag pattern like a mouse cursor, hovered, and disappeared.I was walking along the Oakland harbor in the afternoon. The sky was deep blue with no clouds. As I was walking, I glanced up at the sky and noticed a round white shape in the sky. It could have been a sphere, an egg, or something along those lines. I did not see any features at all on it, although it was quite far away so it is possible that I just didn't see them if they existed. It appeared to very high up--perhaps between 5,000 and 25,000 feet high. When I first saw the object, it was hovering in one place. Then it started moving in an erratic zig-zag fashion. It instantly accelerated an moved at an angle, hovered for a second, then moved at another zig-zag type angle with insant-seeming acceleration, hovered again, and repeated this for perhaps half a dozen short jumps or so. It was generally moving in the direction of the bay/ocean. I would not have thought much of this object at all had it not been for this strange jumpy movement. The best analogy I have for it is that it reminded me of someone moving a mouse cursor around a screen. It just kind of clumsily and quickly jumps to the new place on the screen where you point it. So while the hovering could be consistent with a quadcopter type drone or something, the sudden erratic jumpy behavior was just unlike anything I've ever seen before. There was no smoothness to it at all. Just: jump! Hover. Jump! Hover. After the jumping behavior, it hovered in one spot for about 5-10 seconds. I was staring at it the whole time and had stopped walking at this point. While I was staring at it, it disappeared after the 5-10 seconds. For the entire rest of my walk I had my eyes up on the sky scanning for it but I never saw it again. Within about five minutes, I noticed a helicopter flying around the city that had not been out before. It passed by me twice. The helicopter was much much lower than the UFO. I also saw a small low-flying white airplane pass through this area as well. It did not look like a passenger jet--it seemed much smaller. There is an airport several miles to the south (which is also the direction the UFO was), so the small airplane coming from that direction could just be a coincidence. I did not have my phone on me because I don't like to take my phone out on walks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164445.html](http://www.nuforc.org/webreports/reports/164/S164445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [336](http://www.nuforc.org/webreports/reports/164/S164443.html)
-- [335](http://www.nuforc.org/webreports/reports/164/S164442.html)
-- [334](http://www.nuforc.org/webreports/reports/164/S164459.html)
-- [333](http://www.nuforc.org/webreports/reports/164/S164530.html)
-- [332](http://www.nuforc.org/webreports/reports/164/S164631.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
