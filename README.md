@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:54 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Martinez (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>moving star looking lightI watched this star looking light for Aprox. 1 hrs. It was the most unusual thing in the night sky I ever seen. It moved back and forth and stopped repeatedly gradually working its why north. Over Martinez to Benicia then over Vallejo and keep going north ( See yesterday report for more detail and description). If I can just get someone with a consistent sighting people wont think I'm nuts. Did the Navy or Airforce seen this unusual moving thing. The way it moved was not consistent with any Airplane or satellite Iv seen. No helicopters fly that altitude. What was it ? Did any astronomers see it. I woke one neighbor to witness this and she thought it might be new technology in weather monitoring equipment. I need answers so people won't look at me like a fool when I tell them.((NUFORC Note:  Reports is not inconsistent with the sighting of a twinkling star.  If the witness was looking to the western sky, a celestial body would move down and to the right.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19318.html](http://www.nuforc.org/webreports/reports/019/S19318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hamilton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was plainly round & metallic. It move from east to west against the wind at a pace that moved it out of view in ten seconds.My nephew spotted it first and brought to our attention. It was plainly round & metallic. It moved from east to west against the wind at a pace that moved it out of view in ten seconds. A weather ballon comes to mind, but the altitude remained constant, and the speed could not be achieved from wind alone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31144.html](http://www.nuforc.org/webreports/reports/031/S31144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
