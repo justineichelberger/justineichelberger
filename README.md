@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:40:18 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:32 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyden (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange low flying craft no sound VERY high detail visible in night sky.What appeared to be 3 craft moving east over the Wendover community.  3 red lights on each noticeable point and a illuminated triangular object with no lights on it but could be seen in the night sky as if it were spot lighted.  Moving super slow, no sound but some wind movement type noise even though there was no breeze. Thought to be 3 individual objects but the center area on a clear night which all stars could be seen was blocking out stars with a blackness.  These were really low to the ground. After contacting friends and family in the area found out a total of 22 people saw the same thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113005.html](http://www.nuforc.org/webreports/reports/113/S113005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dalmatia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO moved randomly and rapidly in the distance then there was a flash and it was gone!It was nighttime and I was stargazing. When I looked up I noticed a light moving around in random directions rapidly in my area of sight. It then moved quickly in a direction and there was a big flash of light. The UFO disappeared. A moment later, the light showed up again in a different area in the sky. I believe there was another flash and it was gone after that. It was far in the distance so I do not know exactly what I was seeing. The people with me thought it was a drone and reflected off the sun but the sun seemed too far gone for that. It would be nice to have this explained by a professional.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160301.html](http://www.nuforc.org/webreports/reports/160/S160301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
