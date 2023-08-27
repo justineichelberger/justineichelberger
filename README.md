@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:24:17 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:40:18 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyannis (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Again the orange orb appeared; sighting number two.I attempted to file a report several days ago when my brother and stepfather witnessed an unusual orange sphere near our home in Hyannis on the 20th of August.  For some reason, maybe because I didn't witness it personally or because I used names it wasn't posted.  That said, last night my brother and I again were hanging out at night at my property on Ocean St. in Hyannis.  At approximately 10:30 pm I look up and right there in front of us, maybe 200 feet away is an orange orb hovering absolutely still.  I grabbed my cell phone and took a very short video approximately 3 seconds (I inadvertently turned it off) the object seemed to move just when I pointed it out while carrying on like a fool.  I was shocked.  The orb changed shape, started bouncing around, and then seem to spiral or barrel roll away and then poof... it was gone. The weather was excellent with a west-southwest breeze of approximately 10-15mph, the visibility was very good.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112981.html](http://www.nuforc.org/webreports/reports/112/S112981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hyden (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange low flying craft no sound VERY high detail visible in night sky.What appeared to be 3 craft moving east over the Wendover community.  3 red lights on each noticeable point and a illuminated triangular object with no lights on it but could be seen in the night sky as if it were spot lighted.  Moving super slow, no sound but some wind movement type noise even though there was no breeze. Thought to be 3 individual objects but the center area on a clear night which all stars could be seen was blocking out stars with a blackness.  These were really low to the ground. After contacting friends and family in the area found out a total of 22 people saw the same thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113005.html](http://www.nuforc.org/webreports/reports/113/S113005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
