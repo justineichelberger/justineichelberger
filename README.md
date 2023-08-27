@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was driving towards the freeway in nw Las Vegas, looked out my window and saw a long rectangle light flying horizontal...I tried to take pics buy it disappeared into the clouds...there also appeared to be a second similar craft farther away.  Less than a minute later, I saw 2 normal airplanes so I know what I saw wasn't my mind distorting the image</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121526.html](http://www.nuforc.org/webreports/reports/121/S121526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Atlantic Highlands (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small White UFO Flying Treetop Level, Possible Probe to 9 Other Larger UFO's Offshore in NJI was smoking a cigarette on my patio (2nd story high)at 12:15am and while noticing one of my neighbors across the way i saw the object pass right in front of me since i was looking in the general direction. Mind you, the area i live has a small wooded mountain in front of me so the object passed below the mountain height level and was highly visable due to the white light contrast against a black backround. The object was approx. 6-7 stories high in flight and traveling at a 100+ mph rate of speed..it was fast but not fast enough for the naked eye to catch. Shape was hard to determine but a close guess was it was shaped like a cup or cone (size like a beer bottle) and emitted a white trail in its wake. No sound at all but it passed in front of me(30 feet away)and navigated through some treetops towards the ocean. (Sandy Hook area) Once i looked at the area it traveled too i noticed that the cloud formation that had just been formed but wasnt there a minute ago. There was one very large cloud with 9 smaller clouds ascending/descending from it in tight formation, all equally the same size and distance from each other. One minute later they all disapeared and the sky was totally clear again. Im a military veteran so im familiar with logical earthbound craft and wasnt drinking, or on medication, etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45938.html](http://www.nuforc.org/webreports/reports/045/S45938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
