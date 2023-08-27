@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:52 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rekhasim (Israel) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>almost static, size and shape like a star, on daylight  pulsating slow and randomly , very very highlike a bright star but in full daylight, pulsating at very slow and random rate, the object almost static, very slow motion (maybe a metal object in orbit with part of his surface shining and most of it not light reflective in an unbalanced spinning), very very high</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159233.html](http://www.nuforc.org/webreports/reports/159/S159233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rutland City (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>THOUGHT BALLONS  THEN  A DARK STRUCTURE WAS SEEN AUG 27, 2011.  AROUND 10:30/45 PM MARK UFO SIGHTED MOSTLY CLOUDY TEMP AT 77 DEGREES GIVE OR TAKE 1 HUMDITY AROUND 65% OBJECT DIRECTION SLIGHT WEST THEN NORTHWEST MAY HAVE VEARED MAGNETIC NORTH DISTANCE FROM GROUND BEST GUESS 100/200 FEET ANGLE OF FRIST SEEN 35 DEGREES LIGHTS HAZE CICLULER WITH HALF WEDGE SIZE BEST GUESS B-17 COMMENT   MAY HAVE BEEN WEATHER MONITOR NEVER SEEN WEATHER MONITORS LIKE THIS?????????</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83544.html](http://www.nuforc.org/webreports/reports/083/S83544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
