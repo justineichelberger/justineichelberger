@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large harvest moon shaped object between the hills in Auburn Wa.I am a registered nurse who was on the way for weekend duty at a hospital in Federal Way.  I am not sure on the date, since it has been so long ago, but I think it was the end of August of 1999.At that time, I was not aware of this site, so my posting is late. But,I am aware that there was at least one other person that saw the same thing I did. That person filed a report here and I found it when doing a search in the archives of this site. For that person--- Here is what I too, saw. I was leaving my home in Lakeland Hills @ 0530, turned the corner and looked over to the left towards the dead in road, where the the hill drops off to a valley. I saw a low-lying- almost at the horizon level "harvest moon" but it had some kind of angular shape in front of it. It was huge and beautiful but something about the black angular shape in front of it bothered me- a weird, weird black shape. I turned right  and kept driving- a few seconds later, I then looked over to my left again to try to get a glimse of Mt. Raineer. I was completely shocked when I saw the real moon way, way up in the sky and it was not a full moon at all!! I wondered then, what had I seen just a few seconds earlier.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18498.html](http://www.nuforc.org/webreports/reports/018/S18498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>facing west bright white light behind shelf cloud was there and then instantly disappeared.Strong storms that had just passed through the area.  Bright white light in sky appeared after a shelf cloud passed over.  Was a bright light that was there and then was instantaneously gone, just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142879.html](http://www.nuforc.org/webreports/reports/142/S142879.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
