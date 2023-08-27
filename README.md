@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 bright orange lights at low altitude over northwest Spokane.While walking to my brothers house, I was north on 2400 n. Belt walking past a man walking his dogs.  At at about 30 degrees to my left (slightly northwest of my position, I observed three orange lights all equal in size fairly large, about one quarter the size of a full moon.  They looked like flares but did not move for about 20 seconds.I called my brother and told him to go outside to see them and by then one went north/northwest, one went west, and one went east.  My brother was able to momentarily see the one traveling east but seemed to go up and disappear quickly.  It was around 9:11pm to 9:12pm and were probably between 200 to 400 feet up above the area of Audubon Park when first seen.  No noise was heard, my brother observed the eastbound one straight over his house before it went up and disappeared.((ADDENDUM FROM WITNESS, SUBMITTED ON SUNDAY, NOVEMBER 04, 2018.))The date error i made was reported as occurring in Spokane on 8/28/11 at 21:12. The time is correct but the sighting date was actually 8/27/11. ((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83507.html](http://www.nuforc.org/webreports/reports/083/S83507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Farmington (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Swirling, white orbs flying in random patters over Farmington Missouri.At about 9:20 P.M CST, my fiancee and I witnessed as little as 2 and as many as 7 flying lights making what appeared to be completely random swirling patterns in the sky over highway 67 in Farmington Missouri. Objects were flying very fast, and in a very fluid-like motion.  There was no sound.  The sky was overcast and so the objects seemed to disappear and come back again at times.  One of the lights was brighter than the rest.  All the objects were bright white orbs.  The objects did not flash, and maintained a bright, white color.  I watched the objects for approximately 10 minutes before they completely vanished very quickly, one at a time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71926.html](http://www.nuforc.org/webreports/reports/071/S71926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
