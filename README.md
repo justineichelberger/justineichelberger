@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Atlantic City (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>12 lighted objects in four formations appeared from the cloud coverMy wife and I were walking on the boardwalk about 19:45 when we observed looking out towards the ocean, 12 circular lighted objects moving slowly out of the cloud formation without sound in 4 V shape formations. I would estimate they were about one or two mile off shore and about 750 to 1000 feet above sea level. They could have been higher. They stopped briefly only about 5 seconds and backed into the cloud cover, then some moved forward again out of the clouds, then I tried to take a picture but could not see them as they moved back into the clouds. Then about 5 lights moved forward outside the clouds and returned into the clouds. I tried to take a picture but they returned into the clouds. I waited with camera ready, not to miss the next oppertunity but they did not return. A man and a female stopped and he asked if I saw the lights and what did I think they were? I told them alien space crafts. He replied strange, and continued on. I waited for a while but the lights never came out of the heavy cloud cover. We continued to enjoy our evening walking on the boardwalk and later lost at the casino and then went home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65425.html](http://www.nuforc.org/webreports/reports/065/S65425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Monroe City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sighted a huge bright moving object moving low in sky in northwest directionLarge bright fast moving object, low in sky sighted in rural area.  Moving in a straight  trajectory in northwesterly direction for a few seconds then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142875.html](http://www.nuforc.org/webreports/reports/142/S142875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
