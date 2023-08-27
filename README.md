@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Passaic (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>it appeared out of no where and while in the sky it was just flipping and twirling and then just disappeared...It was 6 of us. We were outside a movie theater waiting for it 2 turn 9:30 so we can go watch the movie.  We were all just laughing and talking about old memories.  Something made me just want to look up, so i did. I see something bright in the sky. It looked like a flying disc that had a white glow around it and it also had maybe two or three lights around it. My friends were amazed. We went walking towards it. Two of my friends said it was just a blimp but the others believed it was a UFO. I have a camera phone so i took a picture of it. It couldnt have been a blimp because of the way it was twirling and it slowed down then went faster till it lowered down n we couldnt see it any more cause of a building in front of us. The next day i told my other friends about it and they said that everybody from our town were getting out their cars to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45903.html](http://www.nuforc.org/webreports/reports/045/S45903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange orange flickering ball as big as the moon, bright like a street lamp, 1000 to 2000 ft away traveled NE in a steady pace.A group of about 20 friends were having an evening Birthday party when one of us saw a weird glowing orange ball flying across the sky.  It flickered like fire. It made no sound at all.We all watched it slowly travel in a north east direction.  Everyone in the group had different ideas on exactly how far it was from us, but I thought it seemed close.  Maybe 1000 to 2000 feet high in the air.It appeared about as big as the moon and looked like it was traveling about 40-50 mph in a steady direction (straight).  No one could explain it and we all talked about what it could have been, but the conclusion was no one new. UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77491.html](http://www.nuforc.org/webreports/reports/077/S77491.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
