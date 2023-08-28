@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:43 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Morgantown (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Morgantown PA.  At 11:15 PM, on 8/28/14, we saw a bright flashing light that appeared to be a plane.  However, it did not move from the location, except to zig-zag up, down and back and forth.  Looking through binoculars showed a disc shaped object with a red, green and yellow flashing light that flashed one at a time.  It was horizontal, but did also flip vertically.  We watched for a half hour and it was still visible to the ENE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113036.html](http://www.nuforc.org/webreports/reports/113/S113036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kailua Kona (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light moving fastIT WAS A VERY CLEAR NIGHT AND MY HUSBAND WAS ON THE REAR DECK OBSERVING THE NIGHT SKY.  I WAS ON MY WAY TO JOIN HIM WHEN HE SAID "HURRY COME AND SEE THIS STAR"!  I RAN OUT AND SAW A VERY BRIGHT WHITE LIGHT TRAVELING NORTH TO SOUTH IN A STRAIGHT LINE.  IT WAS MOVING RAPIDLY AND WAS DIRECTLY UNDER A PLANE.  THE PLANE WAS MOVING IN THE SAME DIRECTION AND YOU COULD SEE ITS LIGHTS BUT NOT MUCH NOISE.  THE PLANE WAS MUCH HIGHER IN THE SKY THAN THE LIGHT.  WE WATCHED THE LIGHT FOR A FEW SECONDS AND IT DISAPPEARED.  THERE WERE NO CLOUDS IN THE SKY.  WE LIVE AT THE 700 FT ELEVATION ABOVE SEA LEVEL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101738.html](http://www.nuforc.org/webreports/reports/101/S101738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
