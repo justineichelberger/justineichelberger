@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:02 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately three times,2 minutes eac - three times,2 minutes eac minutes.</sub><blockquote><sub>Three objects,  four lights each.  moved slowly and silently.Some friends and I were camping on "Yankee Jim's trail", an old mining trail near Grass Valley, in the gold rush country.  We were camped near an old Single lane suspension bridge, over the American River.  I had decided to sleep outside my tent, under the stars, while everybody else slept in tents.  At about 12:30 I noticed an object with four lights move over the top of one side of the river canyon. the lights were in a diamond shape and bright red, not flashing, not changing.  The object moved unusually slowly over the river canyon, and apeared to be no more than 50 feet over the tops of the hills. The object took about 2min to cross over from one hill top to another, a distance of about 2-3 football fields.  There was no discernable sound at all.  Given all of these details together it unlike any aircraft I have ever seen.  About 20min later another object crossed the river, in as near as I could tell, the same exact path and hight over ther river.  Again, totally silent.  This object's four lights were in a triangle shape with one in the center. The one in the center changed colors in a seemingly random patern, while the others were solid red like the first object.   Then in another 20min another object crossed in the same path, hight, and silent manner.  The lights were again in a diamond shape, but only one remained solid red, while the three others were changing colors in a similar random pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52395.html](http://www.nuforc.org/webreports/reports/052/S52395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Maple (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>star flying across the sky, moving like a snake.Seen in Maple, just north of Toronto. At 9:30 pm my brother (39) and I (33) and our two children were in the back yard looking for Mars as it is reported to be at it's closest to earth. We saw what appeared to be a star traveling from south to north. There were no flashing lights that would indicate that it was an aircraft. As it flew across the sky slowly and parallel to some stars we noticed that it then moved in a "snake like" manner, swinging left and right. I asked my brother if he had a camcorder to see if he could zoom in on it. He ran inside, I kept my eye on the object as it travelled north. He came out with his binoculars and we both took turns looking at the object. We did not see any flashing lights when viewed through the binoculars. This object looked like a star. The object, at arms length, was about two open hand widths to the right of the big dipper. Note: I have seen this same object about two weeks ago during the great black out across the eastern sea border. If anyone else has seen this, please let me know.((NUFORC Note:  We believe that a satellite in polar orbit would be the first possibility to be ruled out.  Satellites often are reported to exhibit deviations from their orbital path, but the cause is movement of the observer's eye, and perhaps other perceptual causes.  This is a guess on our part.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31005.html](http://www.nuforc.org/webreports/reports/031/S31005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
