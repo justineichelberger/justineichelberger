@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:56 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Omro (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright fluorescent white rectangular craft moving slowly from the southwest to northeast.  No sound or marker lights.8/28/2013  I took my dog out side so she could go, and i was facing southeast when i noticed a bright light out of the corner of my right eye and looked up to see what it was.  i thought it was an aircraft but it wasn't, it was rectangular shape and a very bright florescent white light and it was moving slow and there was no sound and no other lights on it. i watch it for about 5 minutes as it past going northeast,i watched it until it disappeared in the clouds to the northeast. i have never seen anything like that before or since. i also have had three other sightings of orbs. one being chased by a military jet that flew right over my house twice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115378.html](http://www.nuforc.org/webreports/reports/115/S115378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Piscataquis County (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Well, I was watching TV, when I looked out my window (which is somewhat of a bay window) and saw a lowflying circular metallic object moving from about the middle of  the window and to the left out of side. (This would be an South-North/NorthEast movement for me. There is a house across the street and a treeline. There are some power lines but I would say from my second floor window, it looked to be about 50-75 feet higher than the treeline. I have heard of some reports in the area of lights or mysterious obkects in the sky. I would say that it was a very bright silver metallic color and moved about 50 mph to me. Basically it flew on a straight path until I lost sight of it.((NUFORC Note:  Source of report elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38960.html](http://www.nuforc.org/webreports/reports/038/S38960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
