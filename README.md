@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 27 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:33 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Farmington (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Swirling, white orbs flying in random patters over Farmington Missouri.At about 9:20 P.M CST, my fiancee and I witnessed as little as 2 and as many as 7 flying lights making what appeared to be completely random swirling patterns in the sky over highway 67 in Farmington Missouri. Objects were flying very fast, and in a very fluid-like motion.  There was no sound.  The sky was overcast and so the objects seemed to disappear and come back again at times.  One of the lights was brighter than the rest.  All the objects were bright white orbs.  The objects did not flash, and maintained a bright, white color.  I watched the objects for approximately 10 minutes before they completely vanished very quickly, one at a time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71926.html](http://www.nuforc.org/webreports/reports/071/S71926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Reg, green lights, movement atypical.I was driving along rte 273 towards Newark.  I saw an object with 2 red lights and 2 green lights in the air.  I thought I was seeing an aircraft go down because it moved towards the ground (still high though), stayed there, shot up and down again and then flew forward.  An airplane and helicopter cannot move like that.  I could not tell the shape as the sky was dark. I thought it was triangular but can't be sure.  I have never seen something like that in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113002.html](http://www.nuforc.org/webreports/reports/113/S113002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/164/S164624.html)
-- [373](http://www.nuforc.org/webreports/reports/164/S164637.html)
-- [372](http://www.nuforc.org/webreports/reports/164/S164447.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164455.html)
-- [370](http://www.nuforc.org/webreports/reports/159/S159027.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
