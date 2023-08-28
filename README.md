@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:54 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dim, sporadic, fast moving lights over parkWe were at a park in Raleigh.  Everyone started pointing at something in the sky.  Way above us, very dim, I spotted something that looked like a star--very dim.  There were three or four star-like objects.  At first, I thought it might be a shooting star, but they started moving in multiple directions, rapidly accelerating and changing direction with no discernable purpose.  I looked away to watch a band play at the park, and when I looked again, they were gone.  The other twenty or so people who looked up and could spot them were amazed.  It really freaked a few people out.  I had nothing to drink and no other mind-altering substances. I'm sure several of the other witnesses had, however.  Still, I just wanted to tell someone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38956.html](http://www.nuforc.org/webreports/reports/038/S38956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual light formation over Spokane, WAAt approximately 8:30 pm on 8/28/09, I was in the house watching tv when my brother came running in screaming, "You've gotta see this! you gotta see this!"  I immediately followed him out to the back yard where he had been sitting, and noticed in the sky directly overhead a group of lights just above a thin cloud layer. They were in a random pattern moving northwest and made no noise as they passed by. Their color was light amber to off-white.I have no explanation for what I saw.  According to my brother, these lights held a V-shaped pattern just prior to my coming outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71922.html](http://www.nuforc.org/webreports/reports/071/S71922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
