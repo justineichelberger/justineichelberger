@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:50 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Amsterdam (Netherlands) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 UFO's spotted over Amsterdam.I have just purchased a new telescope and was watching the sky in my garden with my girlfriend.  Something caught my eye and i told my girlfried to  look into the air.I cannot really describe the first object as it disappeared behind the roof of my house too quickly and my girlfriend did not see that object.  Immediately afterwards a second object flew across the sky in exactly the same direction and also dissapeared behind the roof, as we were already watching the area we clearly saw the second object.The object was perfectly round, had a dull grey metallic finish and made no sound whatsoever. The object seemed to be reflecting light as it had a slightly orange hue to the grey colour. There was no trail or any visible exhaust gasses left behind the objects and the direction of travel was from south to north which was against the wind direction which was blowing to the south west at the time.The objects were moving very rapidly and I beleive that they were only about 2 hundred feet away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83489.html](http://www.nuforc.org/webreports/reports/083/S83489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Omro (WI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright fluorescent white rectangular craft moving slowly from the southwest to northeast.  No sound or marker lights.8/28/2013  I took my dog out side so she could go, and i was facing southeast when i noticed a bright light out of the corner of my right eye and looked up to see what it was.  i thought it was an aircraft but it wasn't, it was rectangular shape and a very bright florescent white light and it was moving slow and there was no sound and no other lights on it. i watch it for about 5 minutes as it past going northeast,i watched it until it disappeared in the clouds to the northeast. i have never seen anything like that before or since. i also have had three other sightings of orbs. one being chased by a military jet that flew right over my house twice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115378.html](http://www.nuforc.org/webreports/reports/115/S115378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
