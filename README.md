@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:54 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual light formation over Spokane, WAAt approximately 8:30 pm on 8/28/09, I was in the house watching tv when my brother came running in screaming, "You've gotta see this! you gotta see this!"  I immediately followed him out to the back yard where he had been sitting, and noticed in the sky directly overhead a group of lights just above a thin cloud layer. They were in a random pattern moving northwest and made no noise as they passed by. Their color was light amber to off-white.I have no explanation for what I saw.  According to my brother, these lights held a V-shaped pattern just prior to my coming outside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71922.html](http://www.nuforc.org/webreports/reports/071/S71922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30 sconds - 30 sconds minutes.</sub><blockquote><sub>Bright red and blue light in the sky shooting around at unbelievable speed.I saw 2 very bright blue lights in the sky,  I thought It was a plane at first, then two red lights suddenly came on making a red, blue, red, blue pattern.  I thought ok maybe helicopter, but it shot straight up inthe air at a rate of speed I've never seen a helicopter go.  Then all lights went out, a white light came on and it shot back down just as quickly out of my sight.  I yelled to my husband and ran further down my yard to see if I could see it again, by this point the white light is out red and blue are back on it shot down again but this time it shot diagonally.  My husband and I saw this.  After shooting diagonally, it shot straight back down at an unbelievable speed and disappeared out of sight behind houses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113018.html](http://www.nuforc.org/webreports/reports/113/S113018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
