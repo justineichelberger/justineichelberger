@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:23:33 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:38:53 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Reg, green lights, movement atypical.I was driving along rte 273 towards Newark.  I saw an object with 2 red lights and 2 green lights in the air.  I thought I was seeing an aircraft go down because it moved towards the ground (still high though), stayed there, shot up and down again and then flew forward.  An airplane and helicopter cannot move like that.  I could not tell the shape as the sky was dark. I thought it was triangular but can't be sure.  I have never seen something like that in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113002.html](http://www.nuforc.org/webreports/reports/113/S113002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some '' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>It looked like a long  silver gray parasail canopy.  Huge. Swooped  down over the city & quickly shot  up where it stayed on a fairly even course heading S. Moved extremely fast. My home in on a ridge on the W. side.My son and I were headed to a banquet.  I was getting ready to close the windows and lock them when I saw the thing swoop down and glide above the city. My son (8 yrs. old) was standing right by me at the time and we watched it until we could no longer see it which wasn't very long at all.  It moved with great speed.  It looked on the order of a huge parasail  or parachute (curved top and not so high considering the long body and a slight curve to the ends.)  Our home looks down on the city and up at the mountains.  We see planes all the time but this was nothing like a plane and several times larger as well as the fastest thing I've ever seen.  I had a camera on the table and just didn't even think to pick it up.  My mind just didn't know how to take this in.  Here it was in broad daylight!  Not a disk  like on TV but a huge long object that just sailed through the air.  Surely others had to have seen this aircraft.. We're rather excited that we got the chance to witness it. That's about all I can really tell you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08884.html](http://www.nuforc.org/webreports/reports/008/S08884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
