@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:50 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Summary : Looked out window of my house on a clear night at dusk and saw what looked liked a LARGE Triangular or boomerang type thing appearing like it might land in our pasture or close by and low to ground. I believe it was big enough to cover an acre of land. It had one large middle light like a large bulb in the center and on the outer corners were two small lights. It hovered 45 minutes with no noise whatsoever. I stood outside and watched it for 45 minutes. The most amazing thing was the two lights on each point of this triangle then departed going opposite ways of each other and did some very strange things like loops and things and left the hovering thing there. These two little things that left the large thing were much smaller but they were like points of light. It then formed in a line and flew out towards the mountains but it was very unusual for something to hover for solong but the two points departing was really strange. I phoned this in at the center that night and no ! one has called me back. I can draw it and show you where it was. It was right over our pasture and not that high above ground. I thought at first sight it must be a plane going to land, but planes cannot hover for 45 minutes that I know of and things cannot just depart and :do their own little air show". I have not forgotten this and may never forget it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02556.html](http://www.nuforc.org/webreports/reports/002/S02556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Amsterdam (Netherlands) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>2 UFO's spotted over Amsterdam.I have just purchased a new telescope and was watching the sky in my garden with my girlfriend.  Something caught my eye and i told my girlfried to  look into the air.I cannot really describe the first object as it disappeared behind the roof of my house too quickly and my girlfriend did not see that object.  Immediately afterwards a second object flew across the sky in exactly the same direction and also dissapeared behind the roof, as we were already watching the area we clearly saw the second object.The object was perfectly round, had a dull grey metallic finish and made no sound whatsoever. The object seemed to be reflecting light as it had a slightly orange hue to the grey colour. There was no trail or any visible exhaust gasses left behind the objects and the direction of travel was from south to north which was against the wind direction which was blowing to the south west at the time.The objects were moving very rapidly and I beleive that they were only about 2 hundred feet away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83489.html](http://www.nuforc.org/webreports/reports/083/S83489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
