@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kailua Kona (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light moving fastIT WAS A VERY CLEAR NIGHT AND MY HUSBAND WAS ON THE REAR DECK OBSERVING THE NIGHT SKY.  I WAS ON MY WAY TO JOIN HIM WHEN HE SAID "HURRY COME AND SEE THIS STAR"!  I RAN OUT AND SAW A VERY BRIGHT WHITE LIGHT TRAVELING NORTH TO SOUTH IN A STRAIGHT LINE.  IT WAS MOVING RAPIDLY AND WAS DIRECTLY UNDER A PLANE.  THE PLANE WAS MOVING IN THE SAME DIRECTION AND YOU COULD SEE ITS LIGHTS BUT NOT MUCH NOISE.  THE PLANE WAS MUCH HIGHER IN THE SKY THAN THE LIGHT.  WE WATCHED THE LIGHT FOR A FEW SECONDS AND IT DISAPPEARED.  THERE WERE NO CLOUDS IN THE SKY.  WE LIVE AT THE 700 FT ELEVATION ABOVE SEA LEVEL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101738.html](http://www.nuforc.org/webreports/reports/101/S101738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Saskatoon (SK) reported seeing craft that fit the description of some 'Flash' over a period of approximately Flash - Flash minutes.</sub><blockquote><sub>Bright flash of light during daylightShortly before noon today I was working at my computer in my home office when I was interrupted by a single bright flash of light outside my window.  My computer is situated below a large north-facing window that gives me a clear view of a large portion of the sky, from about 50 degrees up to a little below the horizon, and about 50 degrees toward the west and somewhat less than 10 degrees toward the east.  I wear reading glasses to use my computer.  The flash of light was high enough that I saw it above the frame of my glasses, i.e., it definitely was not something on my computer screen.  The flash seemed to originate from a point outside of my field of view, very high up in the sky.  It appeared to be about as bright as a flash of lightning would appear in the semi-darkness of a thunderstorm. However, the weather outside at the time of the flash was sunny and clear with a cloudless sky . It was a very bright flash, indeed.  The duration was very short, perhaps the way one would perceive a camera flash or a blink. For a moment, I considered that I had imagined it or that it could be a sign of an eyesight problem such as a detached retina. However, when I mentioned to my wife during lunch that I had seen a flash, she remarked that she had seen it, too. When it occurred, she was sitting in our living room, at the opposite end of the house, where the windows face south. She was seated away from the window, facing the interior of the house, i.e., north, so she was not in a position to see where it originated. Unfortunately, it did not occur to me to record the time of event. I only remember that it was shortly before noon. I checked our local power utilities to see if there have been any electrical outages. They post updates very quickly on their websites and on twitter. But they reported no outages or other problems today. I have seen transformers explode, and they make a very bright flash. I'm inclined to think that this could have been a meteor or bolide. Nothing of the sort has been reported on the news yet, but perhaps we'll see something later today. I thought I'd leave this report with you in case you receive other reports.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159024.html](http://www.nuforc.org/webreports/reports/159/S159024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
