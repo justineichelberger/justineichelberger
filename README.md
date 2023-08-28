@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:01:05 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:01:00 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Henryetta (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw a bright orb looking star and it exploded.Myself and two others were sitting on a hilltop watching the sun set in the western Oklahoma sky about 7:45pm.  Right above the cloud line appeared a ball of light, the size of a star but much brighter and closer, we thought maybe it could be the space station going by.The light stayed in the same spot for about two minutes then 2 smaller orb looking shapes appeared directly under it. The bright light began to get very dim as if it was moving away. We thought it was gone then out of nowhere the bright orb exploded as if it hit something, there was a large ball of fire in the sky, it happened so fast.Right after, it left what looked like a cloud of smoke.The pictures enclosed are immediately after it exploded.((NUFORC Note:  We have attempted to contact the witness, in order to correct the date of the sighting.  We have assigned an arbitrary date above, until we hear from the witness.  PD))((NUFORC Note:  Witness corrected date to August 28, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113009.html](http://www.nuforc.org/webreports/reports/113/S113009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>We were heading to get dinner when all three of the witnesses notice a disc shaped objects floating through the air.  Flashing lights synchronized back and forth in a horizontal plane.  I snapped a few photos on my iPhone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77530.html](http://www.nuforc.org/webreports/reports/077/S77530.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
