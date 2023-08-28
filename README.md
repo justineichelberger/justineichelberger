@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:19 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:47 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Seven Orange "Fireball" Objects Dance in the Arizona MoonlightWhile walking down deserted road on Indian reservation at 2:30 am, was looking at the moon and noticed 7 or so orange "fireball" type objects.  They appeared kind of slowly, like when you light a candle and the flame is faint at first then becomes stronger.  While observing this (with much excitement), noticed that two of the orange balls began to move.  They started doing sort of a figure eight around each other, clearly an impossibility for today's aircraft.  They did this for several seconds ( i would say the whole incident was about 10-15 seconds) and then all 7 objects vanished.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92246.html](http://www.nuforc.org/webreports/reports/092/S92246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Glen Burnie (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange, illuminated cloud in an exceptionally cloudless sky..Approx. 5 am, I am leaving for work.  Exceptionally clear sky and brilliant stars all week.  Amazed to see a small single round cloud less than 1000' above my house, except it wasn't really a cloud, just cloud-like.  I quickly scanned the entire visible sky and confirmed not another cloud marked the sky from horizon to horizon.  As I stared at this "cloud", it dissipated before my eyes in about 5 seconds.  I turned to retrieve something from my car and then returned my attention to the previous spot I'd been watching and was amazed to see another cloud in EXACTLY the same place except this time it was glowing orange.  The glowing was coming from INSIDE the cloud!  I live near BWI airport, directly in an approach route and have seen all types of aircraft come and go, jets and props, and have also seen the occasional spot lights scan the sky on cloudy or foggy nights.  This was an anomaly and was not lighted from the ground nor was it any aircraft.  Beyond that, I have absolutely no idea what I was looking at. Just to repeat, THERE WAS NOT ANOTHER SINGLE CLOUD in the sky, and it was, again, exceptionally clear.  I then ran back inside my house, woke my girlfriend, and we both were back outside within 60 seconds but there was no sign, nor clouds, anywhere to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/112/S112988.html](http://www.nuforc.org/webreports/reports/112/S112988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
