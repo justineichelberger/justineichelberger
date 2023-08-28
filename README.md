@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:23 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Arrowhead seen above 215 freeway near Riverside Ca.My Girlfriend was cruising on the 215 freeway towards San Bernardino and for the second time in about a month she saw an arrowhead shaped craft suspended above freeway traffic a little ways in front of her.  The freeway went from 60mph about to 10-5 mph.  Commuters were on cell phones pointing up at the object.  The craft moved horizontally very gradually towards some mountains and stopped but then dissapeared out of sight due to obstruction by mountains.  The craft looked like a small arrowhead and was extremely shiny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45885.html](http://www.nuforc.org/webreports/reports/045/S45885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Marmora (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Three V shaped objects with lights flying over treetops on Route 9 in Marmora, NJ.On Route 9 a mile or two from the entrance for the North Parkway to Somer’s Point, we saw three lights with the last two lights dimming their lights.  The first set of lights was bright in a V shape.  They traveled slowly and there was no sound. The last two V shaped objects were lit, but then suddenly dimmed their lights.  There was a little bit of flickering of the lights, but you could see their shadow following behind the main V shaped object.  They started off in a sandwiched formation, and then slowly separated into a line formation. The car in front of me even stopped to watch them fly slowly over the treetops.  It was drizzling rain at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101727.html](http://www.nuforc.org/webreports/reports/101/S101727.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
