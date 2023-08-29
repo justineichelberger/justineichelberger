@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:58 on 28 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:56 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kure Beach (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Orange lights over Kure Beach North CarolinaI saw an orange light appear over the ocean straight out of our three story condo aimed straight at us.  The distance could have been between 20 miles to 100 miles away with the distance above the ocean from 1/2 mile to 2.5 miles above.  It was extremely bright with the reflection on the ocean right up to our beach 100 feet away.  It was not moving and there was no noise.  A second light exactly the same appeared right next to it and both faded away after 10 seconds.  I yelled to my wife to come and see this but by the time she came they were gone.  So I grabbed my camera and went back on the deck and flashed it in the same direction.  Within two seconds one of the lights turned back on in the exact same spot aimed right at us and my wife got a good look at it.  I then took a picture of it while it was fading away and got a good photo of it.  WOW!! when the photo was pulled up their were three orbs in a triangle with the middle being the only one I could see.  When it was all gone I took a couple more photos trying to provoke them but no response.  I have never seen anything that weird before and wish I had video instead of a picture.Thanks!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72676.html](http://www.nuforc.org/webreports/reports/072/S72676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Apple Valley (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO was going at a very slow speed and it had an orange glow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113046.html](http://www.nuforc.org/webreports/reports/113/S113046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/164/S164626.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164450.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164449.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164475.html)
-- [365](http://www.nuforc.org/webreports/reports/164/S164623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
