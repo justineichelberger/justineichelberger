@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:58 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red/orangge object moving rapidly north by northeast.my girlfriend saw a orange/red shaped triangle object in skylight.  She alerted me of it, and when we went out side my neighbor was also looking at it.  It was moving quietly north by north east rapidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121557.html](http://www.nuforc.org/webreports/reports/121/S121557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Spring Valley (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flares from navy training.The UFO's reported on the 29th were an exercise that was conducted by Navy Pilots for practicing nighttime ocean recovery.  They were in fact Flares.  Please check with Navy Region Southwest to verify.  The reports were also carried on KOGO AM 600.these are conducted regularly at various intervals.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142941.html](http://www.nuforc.org/webreports/reports/142/S142941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
