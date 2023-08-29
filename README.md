@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:23 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Satsop (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was neon bright and moved faster than anything I have ever seen!I was sitting out in my side yard (which is on the west side of house).  I lit up my cigarette and just happen to look up to the west and this neon green/blue light fell from the sky, stopped half way and went directly north in a matter of seconds.  It was fast really fast.  I could hear that the power lines were buzzing loud!  Prior to the light incident my husband also said he could hear a rumble sound.  He thought possible thunder. My daughter says that once the green/blue light went poof she noticed off to the north that the sky lite up really bright for a second or so...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113070.html](http://www.nuforc.org/webreports/reports/113/S113070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cokeville (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>An object with lights hovered in the night sky for 3 minutesI was walking down a lane going to my house and looking at the stars.  At about 9:15 PM I looked to the north and I saw what appeared to be an airplane in the night sky to the north.  The object had a red light on it and a white light on it.  I continued walking, but when I looked back a minute later I noticed that the object had not moved at all.  Thinking that this was weird I stopped and watched the object for a couple minutes.  The object continued to stay in the same spot in the sky for the entire time that I watched it. I continued walking toward my house while watching the object, and as I neared my house I ran inside to tell my family to come look at the UFO. They immediately ran out to see it, but by the time we looked again it had vanished.  After talking to them about the object my brother informed me that a friend of his had seen it the night previous in a similar area of sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77526.html](http://www.nuforc.org/webreports/reports/077/S77526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
