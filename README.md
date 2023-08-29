@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:52 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>From the angle I was viewing they were in the shape of the Big Dipper there were 8 very bright orange lights traveling north in the sky.  I rolled down my window I couldn't hear anything they seemed to be about as high as a chopper would fly.  Myself and about 4 other cars pulled over to view objects, then they just seemed to disappear .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113038.html](http://www.nuforc.org/webreports/reports/113/S113038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Huntington Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Ufo in Southern California sky with very distinct saucer shape, moved from East to West and Eventually disappeared over the ocean.I was on my 2 story roof when I suddenly saw a weird light low to the ground in the eastern sky and what seemed to be a very far distance away.  When I looked it looked very strange to me.  I went and grabbed my binoculars and to my amazement I saw a literal saucer shaped UFO.  I am 16 years old and this looked like something of a movie. It had a single pulsating red light on top. a green light on one side and red light on other side. Similar to airplane but not an airplane. I am an airplane enthusiast and know exactly what a plane or helicopter looks like. It was not a blimp either. It seemed low to the ground maybe no more than 2,000 feet in the air. It was hovering in certain area. It would go farther away and appear to be a tiny spec of a star. Then it would come back a little closer and I could see the lights on it. When it was closer I could use my high powered binoculars to see the very distinct shape of a saucer. I could not believe my eyes. It was hove! ring and slowly moving in what seemed to be a particular patter. Farther away then coming back and slowly going left and right. After watching it for about 1 hour. I when inside my house to the downstairs and talked to my mom and old her what I saw. I actually drew a picture of exactly what I saw. After about 15 minutes I came back up on my roof to see if it was still there. And when i went out I couldn't believe my eyes, it had somehow moved from what seemed to be over 50-100 miles away to less that 10-20 miles away. It moved from the eastern sky to northern  sky and still remained very low to the ground. I could really see it with the binoculars and called one of my brothers friend who was in my backyard to come on the roof and see it. He saw it and didn't know what it was. From the point when I first came back onto the roof and saw how far it moved, it was slowly moving the the West and disappeared from my eyesight possibly over the ocean. I can;t believe anybody else di! d not report it. It was so real and distinct and I knew that I! was loo king at something from out of this world. Please believe me. I called news stations and they wanted video proof. I did not have a camera and my cell phone camera would have not picked it up. This was real and it was over the entire Los Angeles area. After it went what seemed to be over the ocean I could not see it anymore. That was the end of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92315.html](http://www.nuforc.org/webreports/reports/092/S92315.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
