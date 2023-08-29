@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blacklick (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright circle in sky standing still.It was between 6:00 and 6:30 AM.  I was looking out my window having coffee, and i saw outside of my house, up in the sky a perfect circle, bright (white maybe silver-ish), but VERY bright.  It stood still, no movement, no lights flashing,no noise.  I watched clouds come and pass infront of it, I would look away for only seconds, and when i look back, it would be in a new spot, just an inch or two away from where it started.  I never saw it moving WHILE looking at it directly.  The fact that it was not moving, was what made me wonder...what the heck is it??  It was so bright, that i could look at the sky and see it without trying hard to look for it.  there was no other objects in the sky around it, except for clouds passing through.  it was blue sky.  After i sat here for 40 minutes, maybe longer watching it, a big group of clouds passed infront of it, took them a little while to move out of the way, but when they finally did, the thing was no longer in my sight, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121559.html](http://www.nuforc.org/webreports/reports/121/S121559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>White flash of light zipped across night sky from southern direction towards the north and blacked out instantly.Witnessed a pure white colored flash of light zip across the sky starting from the South heading North and immediately blacked out before it got close to the horizon line.  There was no fade in or out whatsoever, and seemed almost like a path of light that was turned on and then all of the sudden off after a certain distance.  Appeared just over the coast line of San Diego and blacked out most likely just above Escondido area.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73057.html](http://www.nuforc.org/webreports/reports/073/S73057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
