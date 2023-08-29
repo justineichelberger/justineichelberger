@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:50 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ensenada (?) (Baja Norte)(Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Multi-witness sighting of multiple nearly static glowing objects in the night sky at the Pacific coastline on 08-29-2018.Yesterday, evening at approximately 8:17 PM (PDT), I heard our neighbor loudly and urgently calling my wife’s name.  When we went outside we were told to come up to the balcony and to hurry.  After climbing the steps I could see the line of lights in the sky they were watching.The line of lights were not in motion and I decided to grab my cell phone to shoot video of the event before it ended.  With the phone in hand I quickly climbed the steps to the balcony and began shooting video.Facing west we could see approximately 20 glowing objects aligned north to south.  They were all nearly stationary with  some small movement near the center of the line.  A second pair of lights appeared above and to the right (north) of the formation and slowly descended near the formation.Shortly afterward, lights began to go off in place.  It was only a minute or two before the lights appeared again in the same formation and location they appeared before.  I used the balcony rail to steady my shot but the vibrations of the balcony and movement up or down the staircase were causing vibrations to distort the video clarity.  Being fully zoomed in to enhance the view exaggerated the vibrations.I estimate the distance we stood from the formation of lights to be only 2 miles distant or less.  The width of the formation was nearly a quarter mile.  No sound could be heard but ambient highway sounds may have drowned out our ability to hear softer sounds.I have seen videos of similar events and heard there had been a similar sighting near this area only four months earlier.  I felt no sense of dread during the event.  I noticed no particular pattern in the pulsations that seemed to affect each light simultaneously.Almost all the event is captured on video between 4 separate clips and a couple of poor quality still shots that I have not posted anywhere online yet.  Upon request, I will provide links to the videos captured for your analysis.((NUFORC Note:  Video link forwarded by witness indicates a row of approximately a dozen white lights that appear to be hovering above the surface of the ocean.  Witness does not indicate the exact location of the witnesses, at the time of the sighting. Here is a link to the footage:  https://drive.google.com/drive/folders/1IuPg_Q2c0VDPy-cK3BKqruvITj9hcOSQ?usp=sharingPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142923.html](http://www.nuforc.org/webreports/reports/142/S142923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1 slowly moving aircraft gliding through tree line.  When in full sight it had lights rotating around in a circle one being red.  Other colors to my belief were green and white, I am color blind sadly.  It made no sound but hovered and slowly made its way out of sight on the ground.  It's normal to hear an owl in my back yard but we heard at least 5 or 6 owls in different directions, also an unusual bird sound was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129585.html](http://www.nuforc.org/webreports/reports/129/S129585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
