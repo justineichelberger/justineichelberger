@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:26 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Isle of Bute (UK/Scotland) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Six horizontal solid white lights with one glowing red in the middleWhen out with the dog earlier with my binoculars, as I'm keen on star gazing.  I was walking through the public park and noticed half a dozen or so white lights, which I initially presumed where stars, even although they looked strangely close, say no higher than a helicopter would fly and were in a perfect horizontal formation.  So, I stopped and paid closer attention to them using my binoculars and noticed a red glowing light in the middle and that it was clearly some kind of stationary silent craft.  My dog was pulling on the lead, so it was hard to stay focused on it, but I did see what looked like a shooting star shoot down vertically beside it, just before the craft/ufo slowly started moving in a North Western direction behind some trees.  Honestly!!!... I really couldn't believe what I was seeing, hence, coming on here and trying to make sense of it ?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83525.html](http://www.nuforc.org/webreports/reports/083/S83525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blacklick (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright circle in sky standing still.It was between 6:00 and 6:30 AM.  I was looking out my window having coffee, and i saw outside of my house, up in the sky a perfect circle, bright (white maybe silver-ish), but VERY bright.  It stood still, no movement, no lights flashing,no noise.  I watched clouds come and pass infront of it, I would look away for only seconds, and when i look back, it would be in a new spot, just an inch or two away from where it started.  I never saw it moving WHILE looking at it directly.  The fact that it was not moving, was what made me wonder...what the heck is it??  It was so bright, that i could look at the sky and see it without trying hard to look for it.  there was no other objects in the sky around it, except for clouds passing through.  it was blue sky.  After i sat here for 40 minutes, maybe longer watching it, a big group of clouds passed infront of it, took them a little while to move out of the way, but when they finally did, the thing was no longer in my sight, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121559.html](http://www.nuforc.org/webreports/reports/121/S121559.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
