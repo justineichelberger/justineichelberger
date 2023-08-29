@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:58 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:52 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Twinsburg (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We noticed 2 orage glowing objects then a 3 rd. In the eastern hemisphereAt approximately 8:30 pm on 8/29/2015, we witnessed 2 then a 3rd strange glowing lights ? In the southern hemisphere moving east very quick then stopping for about 3 -5 seconds.  Then one by one they shot straight up into the atmosphere it took 3-4 seconds to disappear.  No sounds no red green blinking lights . At first they appeared to be Chinese lanterns with same glowing color.  For sure they were not.  And they were not helicopters .  3 of us watched in amazement.  I'm not a ufo chaser or anything of the sort.  I decided to report this 12 hrs later to local authorities.  This was just way to bizzare not to say anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121568.html](http://www.nuforc.org/webreports/reports/121/S121568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Shrewsbury (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>From the angle I was viewing they were in the shape of the Big Dipper there were 8 very bright orange lights traveling north in the sky.  I rolled down my window I couldn't hear anything they seemed to be about as high as a chopper would fly.  Myself and about 4 other cars pulled over to view objects, then they just seemed to disappear .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113038.html](http://www.nuforc.org/webreports/reports/113/S113038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
