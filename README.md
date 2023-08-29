@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:52 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cokeville (WY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>An object with lights hovered in the night sky for 3 minutesI was walking down a lane going to my house and looking at the stars.  At about 9:15 PM I looked to the north and I saw what appeared to be an airplane in the night sky to the north.  The object had a red light on it and a white light on it.  I continued walking, but when I looked back a minute later I noticed that the object had not moved at all.  Thinking that this was weird I stopped and watched the object for a couple minutes.  The object continued to stay in the same spot in the sky for the entire time that I watched it. I continued walking toward my house while watching the object, and as I neared my house I ran inside to tell my family to come look at the UFO. They immediately ran out to see it, but by the time we looked again it had vanished.  After talking to them about the object my brother informed me that a friend of his had seen it the night previous in a similar area of sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77526.html](http://www.nuforc.org/webreports/reports/077/S77526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Strange flying light visiting the same area in Southern California multiple times.A strange flying object has appeared over the Santa Clarita Ca. Area for the last month.  I personally have seen the object 3 times (twice this week).  The object changes colors (green, red and white) and it flies at different altitudes. I uploaded an iPhone video to YouTube  http://www.youtube.com/watch?v=vV8vb0VKXb0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92367.html](http://www.nuforc.org/webreports/reports/092/S92367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
