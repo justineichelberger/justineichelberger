@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:23 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Mt Roskill, Auckland, North Island (New Zealand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A small dark craft of somekind passed about 30 metres directly over my head, shortly followed by another.I was walking home on a reasonably clear night after watching a game of rugby videoed earlier on that day. It was about 1.30am and the road I was walking down wasn't very well lit up, as it was cold and a bit of mist was about due to the temperature. There was no-one else on the road and all was quiet. I heard a faint swishing noise and looked around to try and locate where it was coming from. As I looked about, I happened to look directly above me and saw a very dark object alarmingly low (25-30 metres) moving horizontally over me. It was really quiet and seemed to have a non-moving centre piece, and on each side of this were these semi-circular wing type objects which were turning end over end (a bit like a paddle steamer cylinder) It made very little noise, like something flapping in the wind. There were no lights that I could see, the only thing I can compare it to would be is a dark shadow. At first I just stopped walking and tryed to keep an eye on it, but the object was so dark I lost sight of it within 10 seconds or so. I stood there for about half a miniute and tryed to figure out what I had just observed I said to myself "That's some freaky shit right there!!" and carryed on walking. Trying to understand wether or not I had just seen what I thought I had seen, a second identical object passed again directly overhead, or maybe it was the same object that had done a full circle and came back for another look. The object was not very large, possibly 15-20 metres from wingtip to wingtip, and about10 metres wide in the middle. This is the first time I have told anyone about this for fear of looking like a nutcase, but it has been preying on my mind ever since it occured. I am a 29 year old computer graphics student and I swear on my life that this happened as I am relating it to you.I also swear I was not under the influence of alcohol or drugs at the time of the incident. I hope you find this to be of use or interest to you. Yours Very Truly, ((initials deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11642.html](http://www.nuforc.org/webreports/reports/011/S11642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Satsop (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was neon bright and moved faster than anything I have ever seen!I was sitting out in my side yard (which is on the west side of house).  I lit up my cigarette and just happen to look up to the west and this neon green/blue light fell from the sky, stopped half way and went directly north in a matter of seconds.  It was fast really fast.  I could hear that the power lines were buzzing loud!  Prior to the light incident my husband also said he could hear a rumble sound.  He thought possible thunder. My daughter says that once the green/blue light went poof she noticed off to the north that the sky lite up really bright for a second or so...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113070.html](http://www.nuforc.org/webreports/reports/113/S113070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
