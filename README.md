@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:58 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chesterfield (MO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Strange yellowish orange light moving quickly across the sky in Chesterfield, MOI saw a yellowish orange bright light about 100 ft above the house tops as it was moving through the trees.  It was moving parallel to the ground and very fast.  I looked up, saw it shooting across the sky and then it was gone behind some more trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77523.html](http://www.nuforc.org/webreports/reports/077/S77523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red/orangge object moving rapidly north by northeast.my girlfriend saw a orange/red shaped triangle object in skylight.  She alerted me of it, and when we went out side my neighbor was also looking at it.  It was moving quietly north by north east rapidly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121557.html](http://www.nuforc.org/webreports/reports/121/S121557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
