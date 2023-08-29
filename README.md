@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:41:56 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:05:55 on 29 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO's Flahing Intense Bright LightLast night, 8/29/11, my dad and I went to the yard.  It was between 8 pm and 8:30 pm.  He was having a smoke.  I was looking up.  When I notice a object fly by really fast. I told my dad so we started looking at it.  So we stayed in that position which was south east (toward the lake) when all of a sudden we saw an object flying by, but flashed a intense white bright light, then another white bright light from another object then my dad saw a really intense bright light and saw that object descend and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83567.html](http://www.nuforc.org/webreports/reports/083/S83567.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cupertino (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright spherical object streaking west to east in skys over San JoseMy son and I were sleeping in a tent in our backyard.  The top of the tent was a screen and the skies were perfectly clear.  At 10:15PM while looking up I saw what appeared to be a spherical object probably 1/8 size of the moon streak across the sky going west to east.  It was not a shooting star and there was too much "shape" to it to be an Irridium flair.  It had a very white magnesium/titanium color to it.  It was almost blindingly bright.  Absolutely no noise.  It seemed much closer to the ground than jets and other aircraft that I saw in the sky throughout the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65464.html](http://www.nuforc.org/webreports/reports/065/S65464.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/164/S164469.html)
-- [350](http://www.nuforc.org/webreports/reports/164/S164490.html)
-- [349](http://www.nuforc.org/webreports/reports/164/S164500.html)
-- [348](http://www.nuforc.org/webreports/reports/164/S164488.html)
-- [347](http://www.nuforc.org/webreports/reports/164/S164842.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
