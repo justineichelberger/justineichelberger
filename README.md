@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:01:02 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Nisswa (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A chain of lights moving slowly in the eastern skyWhile viewing the night sky/Mars....we observed a chain of lights in the eastern sky slowly move north and then head slowly east. The chain of lights consisted of 3 red lights then a concentration of about 4 white lights in the center followed by an additional 3 red lights. All the lights were non-blinking. There were no sounds heard. There were no quick movements. All action was slow and methodical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31094.html](http://www.nuforc.org/webreports/reports/031/S31094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chino (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>The object was flying at a noticeable altitude, yet was heading east at a unusual speed.  It made no sound at all (which I have lived near Ontario international airport my whole life and work a block away from Chino airbase.  I am well aware of the routine sounds/looks/flight paths that the local planes present daily, and this was not a commercial or military plane.  What I first noticed odd about it was the direction and location at which it was heading, not on a flight path.  It had 2 or 3 separate yet distinct "V" shaped pieces to it or to possibly 3 individual crafts.  Each "V" panel had roughly 8 white constant (no blinking or flashing) that made up the V shape itself.  While flying directly overhead at a constant speed and course, the 3 V panels where shifting left, right, forward, backwards, even rolling and each was doing a different pattern from the others all while they kept formation and each shifted directions in sequence..... Hard to explain, to give you an example, imagine the constellation of the little dipper (distinctly grouped stars making a pattern that resembles a simlple looking cooking pot---almost symmetrical square and a straight line, yet these triangles were symmetrical). Now picture looking up at the sky and seeing 3 identical yet seperate little dipper constellations that seem to be caugt on each other just floating through space, tumbling.... Kind of like a swarm, yet even closer together, giving off the appearance of one craft with shifting pieces not in any particular order, just gracefully slow dancing with each other.After realizing that this was like nothing I have ever seen, labeled it a real UFO and excitedly called out to a few of my co-workers who were outside as well some 40 feet away, they didnt even look in the sky but instead noticed how ecstatic I was seconds after seeing this thing... So no witnesses in my vicinity.I explained what I saw to a few other co-workers and my family only to get a response of unbelief.  Not once did I use the term "aliens" or "space craft," I called it a UFO just for the reason being that I couldnt justify what the hell kind of craft it was.  I used my hands to actually show them how the shifting looked (which I wish I could show you guys, I am sure there have been other identical/simular descriptions reported as well.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121579.html](http://www.nuforc.org/webreports/reports/121/S121579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
