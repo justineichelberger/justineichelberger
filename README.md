@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:49 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Cedar Glen (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>object in the sky that could not be a start or other aircraft known to current populationsThe light is on the east north east horizon at about 2 o'clock. The light seems to change color and hovers and then makes eraatic moves no known earthly craft can make. It makes vertical, circles and drops that in the given time frame and distance to the object it would not be possible even for a scramjet aircraft. The g force would cause a blackout.I did get a still shot with a 10 megapixel camera. It did not show up well on the video when I tried to sue the camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71955.html](http://www.nuforc.org/webreports/reports/071/S71955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clarksville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Walked out my front door and saw two orange lights side by side with what can only be described as a orangish red comet tail shooting down from the sky very low over my neighbors house across the street. We see things like this all the time but much higher in the sky. This one was very low and just disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164480.html](http://www.nuforc.org/webreports/reports/164/S164480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
