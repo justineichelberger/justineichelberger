@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was a very bright whight light that stuck around for a few.Very bright white light heading towards where we live was moving very slowly never seen anything like this the light was very bright.  Stuck around for a few minutes then it was gone. This isn't a hoax I've seen one shape shift before years ago that was like this but the light turned orange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101712.html](http://www.nuforc.org/webreports/reports/101/S101712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dublin (Ireland) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Formation of lights passing over Dublin very quickly - 130am 30 August 2020UFO sighting by a 48 year old sceptic  Date Sunday 30 August 2020  Time 0130 +-15mins  Location Dublin,Ireland  Atmospheric conditions- exceptionally clear - thousands more stars were visible than normal.I live in a quiet suburb of Dublin, Ireland, in a house with a south facing garden.I am sceptical by nature, always seeking scientific explanations for anything unusual or unexplainable  At approx 130am, while taking in the cat from our garden, I noticed the night sky was fantastically clear. The suburb I live in has dark skies (for a city) but that evening was crystal clear with thousands more stars visible than normal. After a minute or so looking up and admiring the unusually clear night sky. 6-8 lights in a fixed equidistant X shaped array passed overhead very quickly in a straight line on a direct West to East axis direction.  The lights were about as bright as the stars, no brighter, so quite faint. No noise. Passed over very very quickly.  About 2-3 seconds from visible horizon to horizon. Much Faster than a plane or satellite.  Slower than a meteorite. And constant brightness (no flare or fade like a meteorite).  Thought it might be a drone formation given the quick passover speed but it is quiet where we live and there was absolutely no noise so couldn’t be a drone or a plane. About a minute later two more similar lights passed overhead in an identical path and speed. Keeping same fixed distance between each other. Then approx a minute or two later, two more lights passed in same trajectory/speed, except this time one of the lights appeared to be dancing with the other - moving closer, further, closer from the other light, like it was playing with it!  Never seen anything like it and got me thinking it was some kind of high altitude meteorological phenomena or hypersonic craft or satellite orbit but I watch the night skies frequently (very amateur astronomer) and I know a satellite flyby is much slower. I was amazed. And got me thinking perhaps Bob Lazar might actually be telling the truth!  Were there any other sightings reported around that time?  Happy to correspond by email</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160367.html](http://www.nuforc.org/webreports/reports/160/S160367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
