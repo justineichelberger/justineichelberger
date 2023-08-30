@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Photographed something I can not explain 8/30/2021 NW of Roswell NM.There is a NW area of Roswell I wanted to film some footage for my YouTube Paranormal Show. I stopped at the location that seem suitable along Highway 246 NW of Roswell NM. I set up my Camera, and right away I took 5 pictures at 11:04 am on 8/30/2021. The First 3 have this very large mist object in them, the other 2 do not. You can see through this mist in the picture, so that is telling me it is not no bug, or bird. When you look at all three pictures you can tell it's moving. The Third Picture in the series will be sent by email to ufocntr@nwlink.com .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164533.html](http://www.nuforc.org/webreports/reports/164/S164533.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 bright lights....they were stationary then seemed to follow an airplane...they only followed plane for approx 1/2 mile...then they slowed...broke away.....flew in separate directions then disappeared.....they were NO clouds in the sky.....very weird......Drones???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101745.html](http://www.nuforc.org/webreports/reports/101/S101745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
