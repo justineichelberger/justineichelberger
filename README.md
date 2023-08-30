@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:04 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Farmersburg (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I saw an orange/yellow ball in the sky and then saw another identical ball seemed to fly toward the object and disappeared into it.I am a night watchman at an abandoned coal mine just north east of Farmersburg, IN, approximately 15 miles Southeast of Terre Haute, IN.The yellow/orange object was first observed on the previous Saturday morning, 8-24-13 at approximately the same time of morning.  I sit in a truck facing East and the object was in the sky and looked much like a star.  However, it continued to hover vertically and horizontally.There is an airport not far away and I'm used to seeing airplanes and knew this could not be a plane due to its unusual movement.  The craft drifted very slowly southward and occasionally would flash a brighter light.On Friday morning the 30th, as the craft continued to hover, another craft appeared much lower and north of the craft. It seemed to appear from nowhere.The second, lower craft was moving in the same manner as the original craft but slowly drifted towards the other craft and when it was close enough to hit it, it disappeared, as if it had gone inside the other object.The other (main) object continued to drift southward and looked as if it were scanning the terrain, as if mapping the landscape.  The area is remotely rural.After two hours, at 4:30 AM, a landfill that is nearby began operations and turned on two very bright flood lights to light the hill.  At that time, the craft seemed to be go stationary, as if to imitate a star. It was brighter than any star in the sky. The "star" remained visible, even after sunrise and eventually was the only star visible in the sky.  At that point I ended my shift and went home.  I did, however, call Coast to Coast AM with George Noory during this sighting and relayed what I was seeing on the radio.In this location I have noticed at least two dozen meteorites in the past five months at this location, all coming very close to me and all burning up approximately ten feet from hitting the ground.  I mention them just because I find it unusual and don't know if they're connected to the UFO or not.My location on a road map is south of Terre Haute on highway 41 to state road 246.  I was approximately 2 miles east of highway 41 and just half a mile north of highway 246.  The weather and sky was clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101758.html](http://www.nuforc.org/webreports/reports/101/S101758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large craft seen hovering between my house in the foothills of Henderson, and Nellis AFB. It was the size of a football field, 5 lights, silent. It disappeared by "flyinG" upwards.  It left a blank space in the sky.  It was around 10:pm.  There is video on youtube.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137886.html](http://www.nuforc.org/webreports/reports/137/S137886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
