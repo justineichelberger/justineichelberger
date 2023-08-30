@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Watertown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5166666666666666 - 0.5166666666666666 minutes.</sub><blockquote><sub>Fireball captured on Ring Doorbell videoFireball (Possible Meteor) captured on Ring Doorbell at 01:45AM on 08/30/2020 in Watertown, NY.  Sound was very loud. It travels from Right (Northeast) to Left (West) and is visible for 31 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159081.html](http://www.nuforc.org/webreports/reports/159/S159081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>high speed light over central valleyI walked out to my patio looked up to the north west to see a light moving at a very high rate of speed (faster than a normal air craft) to the east.  I watched it for 30 seconds then went to get my iPhone hoping  could record it. about 15 seconds to get it.  Too dark for camera.  I continued to watch it for another 20 seconds before it was out of site in the north east sky.  I have seen the space shuttle on approach to Florida from California in the sky and it was moving faster than it. but the object may have been at a lower altitude than the shuttle giving that appearance. but to cover the view i have from my patio of the sky in just over a minute is fast. the object speed against the stars was less 4 seconds from one to the next. using the stars to base the rate of speed it was traveling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92307.html](http://www.nuforc.org/webreports/reports/092/S92307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
