@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Felt (ID) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A near duplicate sighting, eleven yr.s apart. same general locationMother and son travelling on hwy 33 past Tetonia to hwy 32 towards W.  Yellowstone, son spotted a triangular craft moving toward them,  They stopped the vehicle and got out and watched as the football field sized triangle craft as determined by the light pattern and surrounding objects the object was last seen heading towards Driggs, ID.  This also is almost exactly where four hunters we frightened on sept. 27th. 2000, 9:45 pm by a craft of the same description near the Teton Mountains that was reported almost 11 yr.s exactly.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  She does not indicate the time of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83595.html](http://www.nuforc.org/webreports/reports/083/S83595.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was a very bright whight light that stuck around for a few.Very bright white light heading towards where we live was moving very slowly never seen anything like this the light was very bright.  Stuck around for a few minutes then it was gone. This isn't a hoax I've seen one shape shift before years ago that was like this but the light turned orange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101712.html](http://www.nuforc.org/webreports/reports/101/S101712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
