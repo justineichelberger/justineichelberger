@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:01:02 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Haymarket (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 bright lights....they were stationary then seemed to follow an airplane...they only followed plane for approx 1/2 mile...then they slowed...broke away.....flew in separate directions then disappeared.....they were NO clouds in the sky.....very weird......Drones???((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101745.html](http://www.nuforc.org/webreports/reports/101/S101745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Nisswa (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A chain of lights moving slowly in the eastern skyWhile viewing the night sky/Mars....we observed a chain of lights in the eastern sky slowly move north and then head slowly east. The chain of lights consisted of 3 red lights then a concentration of about 4 white lights in the center followed by an additional 3 red lights. All the lights were non-blinking. There were no sounds heard. There were no quick movements. All action was slow and methodical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31094.html](http://www.nuforc.org/webreports/reports/031/S31094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
