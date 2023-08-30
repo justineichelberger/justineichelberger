@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 30 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ocean View (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>6 Fireballs with long tails seen over the Hawaiian Islands.  Watched for 10 seconds.While standing on our deck, I saw bright lights in the sky, and at first thought it was a very low flying plane, but then, it showed tails behind the ball.  Coming from the South to the North and kept splitting into another ball with a long tail.  Flew all the way behind the mountain  range until we could no longer see it.The fire ball and tail seemed to be bright yellow/white in color,  They flew below the clouds where we could see it very easy and bright.((NUFORC Note:  Witnesses elect to provide no contact information.  PD))((NUFORC Note:  Event is reported by Mr. Ted Molczan as a re-entry of satellite, Cosmos 1315 (81103A/12903).  Please see addendum below.  We express our gratitude to Mr. Molczan for apprising NUFORC of the event.  PD))  ((ADDENDUM FROM MR. TED MOLCZANHello Peter,The re-entry of Cosmos 1315 (81103A / 12903) was seen over a wide area of Hawaii on 2015 Aug 31 near 09:03 UTC. Local date and time was August 30 at 11:03 PM.Numerous reports have been filed with the AMS:http://www.amsmeteors.org/members/imo_view/browse_reports?event=PENDINGI know of the following videos:https://www.youtube.com/watch?v=Ex73vyaVvqAhttps://www.youtube.com/watch?v=Tv02Q9rYihAhttps://www.youtube.com/watch?v=jocj1q2mkSshttps://www.youtube.com/watch?v=q_1VN9Ux1NMhttps://www.youtube.com/watch?v=H8u1ND7IrJshttps://instagram.com/p/7DDzoAmJoK/Best regards,Ted Molczan((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121580.html](http://www.nuforc.org/webreports/reports/121/S121580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO OVER THE BRONXIm a taxi driver, while driving on the Bruckner Expressway i noticed a pulsing changing color very bright lights under a cloud in the sky:  I had two passengers with me at the moment  I got off the next available exit which was bronx river ave and park to the side a shoot the first  video that it last aproximately one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113605.html](http://www.nuforc.org/webreports/reports/113/S113605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [418](http://www.nuforc.org/webreports/reports/164/S164480.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164481.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164834.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164837.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164533.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
