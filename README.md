@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Leeds (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2 hrs + - 2 hrs + minutes.</sub><blockquote><sub>In Northeast sky about 60 to 65 degrees off horizon. Moves back and forth slowly, from a Northwest to Southeast direction. Directly above a star. I noticed object a few days ago.  Appears to be man-made, but?  I can get photos with my wife's super telephoto if needed, but likely a man-made object.  Any info would solve my curiousity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71984.html](http://www.nuforc.org/webreports/reports/071/S71984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yankeetown (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>cigar object crosses in front of moon slowly at 21:00  IN YANKEETOWN, FLORIDAWe had friends over for dinner and walked them to their car...coming back to the house walking down our driveway I looked up at the moon and commented to my husband the strange cloud objects around the moon...as we walked up to the house a cigar object crossed in front of the moon very slowly....my husband said it was a plane...it was not...it moved very slowly and disappeared...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71990.html](http://www.nuforc.org/webreports/reports/071/S71990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
