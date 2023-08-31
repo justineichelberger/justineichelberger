@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:16 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lincoln (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A static formation of 15 metallic spheres observed by about 150 people in a clear daylight sky.My wife, son and I were attending a stock car race in Lincoln, New Hampshire.  It was late afternoon, between races and the announcer was talking to people in the stands using a portable transmitter that broadcast through the overhead speakers. Suddenly he said "Ladies and gentlemen, will you look over to your right, up in the sky?  I've been looking at that thing for the last few minutes and I don't know what the hell it is." What the ~ 150 people saw was a static formation of 15 spheres having the appearance of brushed stainless steel. They were arranged something like the Honda "H", each side forming a curve of 5 spheres with a long bar of 5 spheres. The whole formation was off in the distance at an ~ 10 degree angle to the horizon. It was visible for ~ 60-90 minutes. I kept watch on it even as I watched the other races. Later on, I did see the whole formation go through a slow, single arc to the left only to return to it's original position. It then started to move away slowly; I was alternately watching it and the race. Eventually, I looked up  and it was gone. I know the date because when we returned to the motel, all that seemed to be on the television was the death of Princess Diana. The length of the formation was roughly the same as the diameter of a nickel held at arms length.  And finally, none of the "characteristics of object" apply to this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43640.html](http://www.nuforc.org/webreports/reports/043/S43640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light flying at a low level and high rate of speed - much faster than any aircraft and too low to be a conventional space craft.My wife and I were driving from Sun Prairie to Madison at 10:30 pm on 8/31/03, just north of the airport.  My wife was sleeping at the time.  I saw a bright light screeming across the sky, from southwest to northeast, at a fairly low level (approximately 10,000-15,000 foot range).  It was traveling much faster than any jet plane, and my first thought was meteorite - but it was flying horizontal, not in a downward direction, and there was no trail behide it.  It was also flying much faster than any craft that would have been flying in or out of the airport - and at a direction not in line with any runways.  There was one airplane coming into the airport from the oposite (south) side of the city, and the pilot may have seen what I saw, although he/she was likely preoccupied in preparation for landing.  I only saw it for a few seconds as it was moving so fast.  When we arrived at home, I told my wife about it.  The next day, she heard part of a brief report on either CNN or Headline News about a light in the sky seen somewhere - but didn't catch any details.  Wondering if there is any more info. about the other report(s) - where else this was seen - etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31177.html](http://www.nuforc.org/webreports/reports/031/S31177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
