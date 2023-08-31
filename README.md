@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hanover (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>It was a blue round shape object.Me and my father was driving on route 3 from Hanover, mass back to Quincy, mass at 2:15am. Between 2 to 3 minutes into the ride we see a blue flash of light from the right side of us coming from the woods i look out my window and see a blue ball just floating above the tree tops and as soon as see it a split second later it just flies towards the woods and vanish behind the large tress.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65522.html](http://www.nuforc.org/webreports/reports/065/S65522.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nassau (Bahamas) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light - yellow, low altitude, fast, silent, left a trailYellow light (moving from West to East) a couple hundred feet off the ground at a consistent altitude.  Fast (speed similar to a shooting star) and silent.  Had small trail of light behind it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159042.html](http://www.nuforc.org/webreports/reports/159/S159042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
