@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Over Waterloo viewed from Dewar and OelweinI live in Dewar, Ia, and was looking towards Waterloo out my bedroom window and saw a light rising from the horizen to the left of a radio tower approx 20 miles from my house. At first because of the shape and speed I thought it was the international space station as just 3 days before I watched that go by.  Then this object suddenly stopped and moved back down.  Then up and down and left and right.  I was uing the radio tower as a point of reference so I could tell it was moving up and down and it was even moving left and right to either side of the tower. My mother was watching the same light from the back yard of her house approx 45 miles FURTHER away than me in Oelwein.  The light moved in straight lines and hovered in place for about 35 min before it begain to get dimmer and then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65494.html](http://www.nuforc.org/webreports/reports/065/S65494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Dedham (MA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Clear/no clouds night.  On patrol, parked in lot with second cruiser.  Noticed two distinct flashes similar to lightning flash or transformer malfunctioning. Looked up and noticed a ball of bright white/yellow light streak quickly north towards Boston, then light blinked out. I have seen plenty of shooting stars, due to working midnight shift for 13 years.  This light was quick, but not like a meteor.  I also believe ball of light had two red dots of light in rear, similar in appearance to brake lights.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65484.html](http://www.nuforc.org/webreports/reports/065/S65484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
