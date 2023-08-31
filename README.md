@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:16 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright light flying at a low level and high rate of speed - much faster than any aircraft and too low to be a conventional space craft.My wife and I were driving from Sun Prairie to Madison at 10:30 pm on 8/31/03, just north of the airport.  My wife was sleeping at the time.  I saw a bright light screeming across the sky, from southwest to northeast, at a fairly low level (approximately 10,000-15,000 foot range).  It was traveling much faster than any jet plane, and my first thought was meteorite - but it was flying horizontal, not in a downward direction, and there was no trail behide it.  It was also flying much faster than any craft that would have been flying in or out of the airport - and at a direction not in line with any runways.  There was one airplane coming into the airport from the oposite (south) side of the city, and the pilot may have seen what I saw, although he/she was likely preoccupied in preparation for landing.  I only saw it for a few seconds as it was moving so fast.  When we arrived at home, I told my wife about it.  The next day, she heard part of a brief report on either CNN or Headline News about a light in the sky seen somewhere - but didn't catch any details.  Wondering if there is any more info. about the other report(s) - where else this was seen - etc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31177.html](http://www.nuforc.org/webreports/reports/031/S31177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waterloo (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Over Waterloo viewed from Dewar and OelweinI live in Dewar, Ia, and was looking towards Waterloo out my bedroom window and saw a light rising from the horizen to the left of a radio tower approx 20 miles from my house. At first because of the shape and speed I thought it was the international space station as just 3 days before I watched that go by.  Then this object suddenly stopped and moved back down.  Then up and down and left and right.  I was uing the radio tower as a point of reference so I could tell it was moving up and down and it was even moving left and right to either side of the tower. My mother was watching the same light from the back yard of her house approx 45 miles FURTHER away than me in Oelwein.  The light moved in straight lines and hovered in place for about 35 min before it begain to get dimmer and then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65494.html](http://www.nuforc.org/webreports/reports/065/S65494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
