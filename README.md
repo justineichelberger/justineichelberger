@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:38:38 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:07 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in East Machias (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing lights that approached each other and flew in a circle in Maine.At approximately 1:00 AM on August the 31st, 2008, a friend and I were watching the night sky and the shooting stars on Rocky Lake, which is in far eastern Maine.  I noticed a flashing light up about 20 degrees in the sky to the left of the big dipper.  Then to the right we noticed another flashing light coming towards and under the big dipper.  The two flashing lights that were approaching each other became brighter as they got closer to each other.  When they got to about 4 inches apart, as I saw them in the sky, they stopped (or dramatically slowed), became really bright, and began to do flash about randomly in a circle for about 5 seconds, in the space between where they stopped at and became bright at and each other.  After that, two lights traveled from that point roughly back the same way as they came.As I saw the lights they were similar to the newer flashing lights of police cars that appear to randomly flash different colors yet there is a pattern if you look closer.  I saw the lights as being connected, but flashing at separate places on the object. I did not have my camera on me and did not want to go back to my tent to get it at this point.  After a few seconds we talked about what we had just seen.  I was cold and went to the tent for my camera, binoculars and more clothing.  When I got back I sat and watched the stars with my friend who was still there until it got too cold so I went back to my tent to sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65507.html](http://www.nuforc.org/webreports/reports/065/S65507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 spheres bright red/orange over northern Mentor sky 8/31/13 at 20:50. Thought it was a plane on fire in pieces.I was driving south on Mentor Park Blvd to the intersection at Elmwood Rd after coming from Sycamore Rd. I saw what seemed to be a very bright star in the sky so I slowed down to look. As I was watching it got bigger and what seemed closer, I saw that it looked like it was on fire and there were sparks coming from the back of it as it moved north-north west and lower. I literally put my flashers on and got out of the car to look because I then thought it was a plane that caught fire that was descending rapidly. Then to the left of this (or east of it and slightly 'behind' it, came a bright red sphere with an even brighter yellow/orange center, looked like the leaf or flower of a plant called 'tropical anthurium' that has a red leaf with a yellow thing sticking out of the center. So now I am thinking a piece of the plane has broken off and is trailing a bit far behind so I called 911 and reported it in case it was a descending plane on fire.  Within 5 minutes the first one disappeared northwest and the second one seemed to disintegrate or turn to a small pinpoint within seconds.  Never saw anything like this in my 56 years and nothing reported crashed in the news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101929.html](http://www.nuforc.org/webreports/reports/101/S101929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
