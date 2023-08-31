@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:56 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:54 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tom Bean (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Pulsing orbs.Over the dense country area above the two towns of Tom bean and Van Alstyne, Texas  I observed three separate orbs clustering in one spot in the sky then departing in similar patterns until they disappeared.  One was a red orb mimicking a tower beacon light, started changing colors and portraying patterns in its strobe like fashion flashing then to solid red again as it left the area of the tower, the second orb stayed bright white with little strobing events and scouted in another direction from the red tower light.  And the third orb was slowly pulsing drifting slowly across the night sky and began to get lower and closer to the car,. As I was driving towards it I flashed my lights on and off at the orb. It seemed to drive towards me and when I turned my lights off the orb disappeared.  This orb stayed a bright white light and floated close to the light tower, as if each orb was mimicking the lights it saw around them and then changing as they flew away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159055.html](http://www.nuforc.org/webreports/reports/159/S159055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yarmouth (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Another night of star gazing, I was viewing towards the east when I notice a triangular shaped mass of stars moving south.  As the mass, moved other stars disappeared behind it.  I watched it for 20 seconds when I lost the movement in my binoculars and was unable to recapture the object.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31091.html](http://www.nuforc.org/webreports/reports/031/S31091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
