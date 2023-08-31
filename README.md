@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Homestead (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I am a retired US ARMY Soldier and State Law Enforcement Officer who resides in Homestead, FL. I was just finishing some paperwork in my office at my home when I decided to go out I saw an ORB huvering over my pool.  It was gone in seconds with a flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121591.html](http://www.nuforc.org/webreports/reports/121/S121591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Lincoln (NH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A static formation of 15 metallic spheres observed by about 150 people in a clear daylight sky.My wife, son and I were attending a stock car race in Lincoln, New Hampshire.  It was late afternoon, between races and the announcer was talking to people in the stands using a portable transmitter that broadcast through the overhead speakers. Suddenly he said "Ladies and gentlemen, will you look over to your right, up in the sky?  I've been looking at that thing for the last few minutes and I don't know what the hell it is." What the ~ 150 people saw was a static formation of 15 spheres having the appearance of brushed stainless steel. They were arranged something like the Honda "H", each side forming a curve of 5 spheres with a long bar of 5 spheres. The whole formation was off in the distance at an ~ 10 degree angle to the horizon. It was visible for ~ 60-90 minutes. I kept watch on it even as I watched the other races. Later on, I did see the whole formation go through a slow, single arc to the left only to return to it's original position. It then started to move away slowly; I was alternately watching it and the race. Eventually, I looked up  and it was gone. I know the date because when we returned to the motel, all that seemed to be on the television was the death of Princess Diana. The length of the formation was roughly the same as the diameter of a nickel held at arms length.  And finally, none of the "characteristics of object" apply to this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43640.html](http://www.nuforc.org/webreports/reports/043/S43640.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
