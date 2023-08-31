@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:59 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:38:38 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Malden Bridge (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A shallow disc of light in cloudy light 45 degrees above horizon, 8:45PM, Columbia County, New York.We were standing on the deck of our house on a hill, with an unobscured view of the western sky.  We observed what appeared to be a shallow disk emanating light from within, and surrounded by a cloud of light, through binoculars.  This object was approxamately 45 degrees off the horizon in the west-southwestern sky.  It remained stationary for several minutes and then moved in a hortherly direction, appearing to recede as it moved.  Without binoculars it appeared to be a cloud of light without specific shape.((NUFORC Note:  Result of earlier missile launch.  Please see: http://www.spaceflightnow.com/atlas/ac167/040824track.htmlhttp://space.com/spacewatch/mystery_cloud_040901.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39036.html](http://www.nuforc.org/webreports/reports/039/S39036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in East Machias (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing lights that approached each other and flew in a circle in Maine.At approximately 1:00 AM on August the 31st, 2008, a friend and I were watching the night sky and the shooting stars on Rocky Lake, which is in far eastern Maine.  I noticed a flashing light up about 20 degrees in the sky to the left of the big dipper.  Then to the right we noticed another flashing light coming towards and under the big dipper.  The two flashing lights that were approaching each other became brighter as they got closer to each other.  When they got to about 4 inches apart, as I saw them in the sky, they stopped (or dramatically slowed), became really bright, and began to do flash about randomly in a circle for about 5 seconds, in the space between where they stopped at and became bright at and each other.  After that, two lights traveled from that point roughly back the same way as they came.As I saw the lights they were similar to the newer flashing lights of police cars that appear to randomly flash different colors yet there is a pattern if you look closer.  I saw the lights as being connected, but flashing at separate places on the object. I did not have my camera on me and did not want to go back to my tent to get it at this point.  After a few seconds we talked about what we had just seen.  I was cold and went to the tent for my camera, binoculars and more clothing.  When I got back I sat and watched the stars with my friend who was still there until it got too cold so I went back to my tent to sleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65507.html](http://www.nuforc.org/webreports/reports/065/S65507.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
