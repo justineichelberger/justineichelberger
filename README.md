@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:07 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:46 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mentor (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 spheres bright red/orange over northern Mentor sky 8/31/13 at 20:50. Thought it was a plane on fire in pieces.I was driving south on Mentor Park Blvd to the intersection at Elmwood Rd after coming from Sycamore Rd. I saw what seemed to be a very bright star in the sky so I slowed down to look. As I was watching it got bigger and what seemed closer, I saw that it looked like it was on fire and there were sparks coming from the back of it as it moved north-north west and lower. I literally put my flashers on and got out of the car to look because I then thought it was a plane that caught fire that was descending rapidly. Then to the left of this (or east of it and slightly 'behind' it, came a bright red sphere with an even brighter yellow/orange center, looked like the leaf or flower of a plant called 'tropical anthurium' that has a red leaf with a yellow thing sticking out of the center. So now I am thinking a piece of the plane has broken off and is trailing a bit far behind so I called 911 and reported it in case it was a descending plane on fire.  Within 5 minutes the first one disappeared northwest and the second one seemed to disintegrate or turn to a small pinpoint within seconds.  Never saw anything like this in my 56 years and nothing reported crashed in the news.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101929.html](http://www.nuforc.org/webreports/reports/101/S101929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Barnstable (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1 snapshot - 1 snapshot minutes.</sub><blockquote><sub>Upon arriving at the near end of Scusset Beach jetty i snapped a few pics of sun and surrounding area to later notice a bright object in sky when enlarged noticed 4 brighter lights on/under it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159211.html](http://www.nuforc.org/webreports/reports/159/S159211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
