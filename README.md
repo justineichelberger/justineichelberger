@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yankeetown (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>cigar object crosses in front of moon slowly at 21:00  IN YANKEETOWN, FLORIDAWe had friends over for dinner and walked them to their car...coming back to the house walking down our driveway I looked up at the moon and commented to my husband the strange cloud objects around the moon...as we walked up to the house a cigar object crossed in front of the moon very slowly....my husband said it was a plane...it was not...it moved very slowly and disappeared...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71990.html](http://www.nuforc.org/webreports/reports/071/S71990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three reddish-white lights in the sky over Mankato.A witness and I saw three reddish-white, round lights in the sky over Mankato, MN, at roughly 00:15 on August 31st, 2014.Looking towards the North from Downtown Mankato, the lights were very clearly visible.The first of the three headed in a straight line traveling a southwesterly direction, at a slow steady pace, travelling across the sky for roughly one minute.  When it neared some thin clouds it seemed to fade to nothing, as if it were going through the cloud.  This light appeared and disappeared alone.The second two lights were the same color/shape/brightness as the first, but followed each other across the sky and appeared shortly after the first faded out.  They stayed about the same distance apart and traveled in the same straight line, also fading to nothing.There was a short break between when the first light and the second two were witnessed, approximately 10-15 seconds.  These lights made no sound, moved in a straight line, appeared and disappeared in roughly the same spot in the sky, and traveled at the same speed.I have seen plenty of airplanes/helicopters in the night sky and I can say with certainty that this was something different, as I have never seen anything like this before.  They were about the size of a helicopter, but they didn't behave as such, fading out like they did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113091.html](http://www.nuforc.org/webreports/reports/113/S113091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
