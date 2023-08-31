@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in West Sayville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright star-like object ascending out into space.Looking North, witnessed a bright star-like object appearing to ascend out into space.  At first, it was several times larger than the brightest star.  Continued to ascend to what appears to be the outer fringes of our atmosphere.  At that point, it instantly changed direction to the left and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31110.html](http://www.nuforc.org/webreports/reports/031/S31110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Terrace (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Disk with a number of lights on it.About an hour ago I had a fellow telephone me from Terrace, British Columbia to make a report, he said they had heard me on the radio speaking about UFO sightings in the area. He and his fiancée were on their way home, which is in the Thronhill area of Terrace when they spotted a strange object hovering high in the sky. The couple were driving along Crumb Road and looked up just over the trees and high up underneath the clouds they saw the object. He described it as being rather flat, dark gray in color and it sat stationary for approx: one minute before it disappeared. They both saw a number of lights on it, the fellow said he thought there were 5 lights, and his fiancée thought there were 6. All the lights were white in color and the witness said they looked like the headlights on a vehicle. The witness believe the lights were running around the object but was hard to say for sure. His fiancée thought at first it may have been a plane, but they soon ruled that out because it sat in the same position for such a long time. "It did not move". After I asked a number of questions, the witnesses said the object would have been shaped more like a disk in shape. It was rather long, but not a lot of height to it. I asked the witness if he might give me some kind of idea of the size of the craft. As we know this is not an easy thing to do. The man turned to his fiancée and asked, both said they thought it may have been around one and a half thumbs wide. This was a guess at how long this object may have been. No sound was heard, mainly because the couple were in their vehicle and they may have not heard anything due to the altitude the craft was at. They also reported that the sun was not shinning off it, in other words no reflection off the object. The couple said after the object disappeared they drove to the airport just to have a look to see if any planes were around the area, he told me there was nothing in the air. Thank you to the witnesses for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Phone/Fax 1 250 845 2189 Editor: Canadian Communicator - Paranormal Magazine email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31082.html](http://www.nuforc.org/webreports/reports/031/S31082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
