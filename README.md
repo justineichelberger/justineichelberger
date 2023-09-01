@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Northbound saucer-shaped objects zigzag across Southern CaliforniaAs I sat on the front porch at my parent’s house, which faces north, I happened to look east toward the LA Coliseum, and something high up in the sky caught my attention. I saw a shiny, saucer-shaped object sitting in the sky. Then, a few seconds later, two more of these objects came cruising slowly to where the first one was apparently waiting because a few seconds later, the first one suddenly shot away northward in a zigzagging motion that took two or three really quick direction changes. Then it would come to a dead, sudden stop, and just sit there while the two following came slowly over to where it was, but in a straight line.I watched them do this about 4 times, moving north across Southern California, toward and past Pasadena. I watched approximately 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63256.html](http://www.nuforc.org/webreports/reports/063/S63256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Salem (WV) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>star like light  that changes colorsIt was around 11:00 pm on Sept. 1, 2008, when what seemed to be a large bright star, shone in the sky.  I was inside sitting on the sofa talking to a family member.  My attention was drawn to the window and the "star."  I asked my cousin to look at the "star" because it seemed to be changing colors.  We both agreed that it was changing color from white to red and then to blue.  We then grabbed two other family members and a couple pairs of binoculars and went out onto the front porch.  Through the binoculars we could see the light changing colors in an almost fibre optic style.  The light hovered slightly above the tree line for about 35 minutes. At times it seemed to fade and then become stronger.  After about 35 minutes it began to dip down into the tree line.  After that, it just disappeared. Very unusual.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65518.html](http://www.nuforc.org/webreports/reports/065/S65518.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
