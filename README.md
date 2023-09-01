@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:49 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Worthington (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange fire balls /fire ball craftI was walking down Park RD & once I reached the tracks (by the flint carry out) I looked up & saw 10 glowing orange objects moving fairly slow.  5 of them began aligning in a horizontal straight line one by one exactly the same difference between each other two others disappeared faster than a blink of an eye three appeared in a perfect triangle or a large craft it was at least 5 miles wide it began to rotate 360 degrees aligning so the bottom 2 lights on the craft or objects made a perfect eclipse.  I've never believed in ufo's but there is no logical explanation for these anomalies...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102793.html](http://www.nuforc.org/webreports/reports/102/S102793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>7 orbs in MNWe were driving West on 394 approaching Louisiana Ave at 9:01pm.  We noticed 3 very bright orange fiery orbs in a vertical line formation in the sky directly above us.  We then noticed four more orbs to the right of the three orbs.  It formed an arrow like shape pointing to the right.  We exited the freeway within 2 minutes and parked.  We looked in the sky and noticed only one orb left.  We video taped it as it was descending back up and then disappeared into the sky.  It happened in a matter of 3-5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93011.html](http://www.nuforc.org/webreports/reports/093/S93011.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
