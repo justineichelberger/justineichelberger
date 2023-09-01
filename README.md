@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:49 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Jefferson City (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Strange Object Passes over HouseI was standing in my backyard, watering some plants. I happened to look up at the sky and noticed a small white dot flying in a southwesterly direction toward the city of Knoxville, which is a larger city in East Tennessee. It made no noise; however, there was an aircraft just south of the object. The identifiable craft was a commercial airliner. I have experience in aviation, and this dot did not have wings that could be seen. Aircraft pass over all the time; however, you can always see their wings and they frequently leave contrails across the sky. This was a UFO, although I doubt that it was extraterrestrial. Maybe a secret military plane? Who knows?((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49202.html](http://www.nuforc.org/webreports/reports/049/S49202.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I witnessed to UFO's collideI was driving to work and saw to my left through the windshield what looked like 2 large stars.  The sun was just coming up but it was light out and normally stars could not be seen at that time. The one "star" on the left was stationary.  The one on the right was speeding towards it incredibly fast.  There was an explosion and then nothing could be seen.  When I got to work I checked online, checked the news radio programs but nothing was reported.  There were lots of people on the road and I know I couldn't have been the only one to see this.  It still haunts me.  Nothing could move that fast.  Then no debris, no sound?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88072.html](http://www.nuforc.org/webreports/reports/088/S88072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
