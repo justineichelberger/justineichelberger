@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:39 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I witnessed to UFO's collideI was driving to work and saw to my left through the windshield what looked like 2 large stars.  The sun was just coming up but it was light out and normally stars could not be seen at that time. The one "star" on the left was stationary.  The one on the right was speeding towards it incredibly fast.  There was an explosion and then nothing could be seen.  When I got to work I checked online, checked the news radio programs but nothing was reported.  There were lots of people on the road and I know I couldn't have been the only one to see this.  It still haunts me.  Nothing could move that fast.  Then no debris, no sound?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88072.html](http://www.nuforc.org/webreports/reports/088/S88072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cypress (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>look i was taking photos  of a bad storm on Sept 1, 2003 @5:23pm in Cypress Texas. i took my camera outside to get pictures of the storm as it rolled in. just as i was done taking pictures it (what ever it was came out of the clouds) and hovered, it went up and down and side to side as if it was trying to control itself because of the strong winds. .i was able to see it real good. it was a shiny metilic disk shape.the clouds reflected of the object. Now the storm was moving NE. after it hovering  for about 15 to 20 seconds the object started moving NW very slow then in a blink it took off. No sound at all((NUFORC Note:  Photo indicates a blurry, dark object against storm clouds.    Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31208.html](http://www.nuforc.org/webreports/reports/031/S31208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
