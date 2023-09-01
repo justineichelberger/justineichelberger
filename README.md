@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:25:11 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:42:59 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brooklyn (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yet another UFO spotted by my houseI live right by a farm and the sky was pretty clear it was around 3:20AM and I was having trouble sleeping I had seen UFO's at least two times before. This time the object was much like the last one I saw a couple of weeks ago. It was staying still for about five to eight minutes and was very bright. The object was only one color light yellow almost white. After remaining still for awhile it began to move very slwly in a circular motion eventually becoming very bright actually affecting the way the sky looked. It then shot off which looked like it either went out to space or traveled to a different dimension or something. This is twice I have seen this sphere like light this summer and several summers ago I witnessed two UFO's different to this one with my whole family. I just found your site today and that is why I am writing this. I have a feeling after seeing two on the same night with each other years ago and now two this summer on seperate occasions that my house might be a hot spot for UFO activity and I will try staying up more often to try and get a picture or video to send. I also have a strong feeling inside that more and more UFO's will be showing up all over the world and that more should be put into investigating what these are, what they are doing, and why they are here. I will be visiting your site more often and will be telling everyone I know that is interested in this subject to check out your site. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39040.html](http://www.nuforc.org/webreports/reports/039/S39040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Pahrump (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>9;30a.m. six starlike objects following an airforce jet spotted  in the northern sky.  11;30a.m. approximately 145 starlike objects sighted going north.  various shapes, moving all directions. the sky was absolutely clear blue. the objects made no noise.shortly after this event my daughters thyroid ceased to function. the size of the objects varied.the first six objects were about the size of a dime.  the huge group of aprox 145 starlike objects seen at 11;30a.m. were lower and about the size of the full moon. all ufos were heading north. i have attended college in nursing. i just now got on the web.  at the time of the event we didnot  have electricity.  i was going out to the well to pump up water,when the first six objects were observed.  again at 11;30am i had to pump up more water,and naturally looked up again.  each time i called my daughter to come out and see them.  i always look up at the sky when i hear an airforce jet. the year was either 94 or 95. this is the first time i ever told anyone about this except for my husband. the objects moved horzontally and vertically, like stars shinning in the day time. there was no sound except for the airforce jet with the first six objects.  i have never experienced anything like this is my whole 50 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10317.html](http://www.nuforc.org/webreports/reports/010/S10317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
