@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:55 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:53 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Normandy Beach (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Mysterious Lights Off New Jersey Shore(http://www.wcbs880.com/pages/891761.php?contentType=4&contentId=869487)  Posted: Sunday, 02 September 2007 9:51AM  Search Continues for Source of Lights Seen from N.Y., N.J. Mysterious lights seen in the sky from New York to New Jersey are not flares, boats on fire or flashing lights on the water. NEW YORK (AP)  Mysterious lights seen in the sky from New York to New Jersey are not flares, boats on fire or flashing lights on the water. Residents reported seeing falling lights about 10 miles off Normandy Beach, New Jersey, last night. The U.S. Coast Guard investigated and found nothing. They found no signs of distress or debris field, either from a possible boat or downed airplane. A boat crew from Coast Guard Station Manasquan, New Jersey, searched the area along with the New Jersey State Police. Commercial salvage companies and local agencies also helped to investigate the source. © MMVII The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten or redistributed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58520.html](http://www.nuforc.org/webreports/reports/058/S58520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newburgh (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2007 Circular Object with 3 lights across i87 Hightway in daylightIn 2007, driving to Saratoga Springs from Tuxedo, New York spotted a circular object in broad daylight.  Right across i87 Highway a shiny metal circular object; coasted over the tree light; wide as the whole highway across.  3 circular lights on the bottom of the craft.  Funny part is I saw right light poles for the airport nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149779.html](http://www.nuforc.org/webreports/reports/149/S149779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
