@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:51 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Collins (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30-40 - 30-40 minutes.</sub><blockquote><sub>White Orbs above Fort Collins.At first, they sat in the mid atmosphere (plane height) slowly moved away from each other. Get about twenty minutes, the left craft went very high, and eventually left out sight. Thought craft took a longer time to leave the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143212.html](http://www.nuforc.org/webreports/reports/143/S143212.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hammond (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>As if light was coming through a prismIt was a bright sunny day.  The Temperatures was around 12 Celsius and it was around 16:00  When I looked up, I saw a thin rectangular type light strip as if it was coming through a prism.  It was like if it was an invisible craft for which the sun rays were projecting through a prism.  The lights were fading and regaining intensity as it moved over head. It was traveling from the north west to the south east. As I live in the wood,  I didn’t get to see this more than 20 seconds although I do wonder if it had to do with the moisture in the air reacting to the sun although it seemed to have travel to fast compared to the sun setting which sets around 19:00 at this time of year in my area & that the shape was too perfect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159482.html](http://www.nuforc.org/webreports/reports/159/S159482.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
