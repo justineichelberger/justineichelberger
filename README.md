@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 31 August 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:25:11 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mankato (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three reddish-white lights in the sky over Mankato.A witness and I saw three reddish-white, round lights in the sky over Mankato, MN, at roughly 00:15 on August 31st, 2014.Looking towards the North from Downtown Mankato, the lights were very clearly visible.The first of the three headed in a straight line traveling a southwesterly direction, at a slow steady pace, travelling across the sky for roughly one minute.  When it neared some thin clouds it seemed to fade to nothing, as if it were going through the cloud.  This light appeared and disappeared alone.The second two lights were the same color/shape/brightness as the first, but followed each other across the sky and appeared shortly after the first faded out.  They stayed about the same distance apart and traveled in the same straight line, also fading to nothing.There was a short break between when the first light and the second two were witnessed, approximately 10-15 seconds.  These lights made no sound, moved in a straight line, appeared and disappeared in roughly the same spot in the sky, and traveled at the same speed.I have seen plenty of airplanes/helicopters in the night sky and I can say with certainty that this was something different, as I have never seen anything like this before.  They were about the size of a helicopter, but they didn't behave as such, fading out like they did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113091.html](http://www.nuforc.org/webreports/reports/113/S113091.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Brooklyn (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Yet another UFO spotted by my houseI live right by a farm and the sky was pretty clear it was around 3:20AM and I was having trouble sleeping I had seen UFO's at least two times before. This time the object was much like the last one I saw a couple of weeks ago. It was staying still for about five to eight minutes and was very bright. The object was only one color light yellow almost white. After remaining still for awhile it began to move very slwly in a circular motion eventually becoming very bright actually affecting the way the sky looked. It then shot off which looked like it either went out to space or traveled to a different dimension or something. This is twice I have seen this sphere like light this summer and several summers ago I witnessed two UFO's different to this one with my whole family. I just found your site today and that is why I am writing this. I have a feeling after seeing two on the same night with each other years ago and now two this summer on seperate occasions that my house might be a hot spot for UFO activity and I will try staying up more often to try and get a picture or video to send. I also have a strong feeling inside that more and more UFO's will be showing up all over the world and that more should be put into investigating what these are, what they are doing, and why they are here. I will be visiting your site more often and will be telling everyone I know that is interested in this subject to check out your site. Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39040.html](http://www.nuforc.org/webreports/reports/039/S39040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [396](http://www.nuforc.org/webreports/reports/164/S164483.html)
-- [395](http://www.nuforc.org/webreports/reports/164/S164476.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164479.html)
-- [393](http://www.nuforc.org/webreports/reports/164/S164844.html)
-- [392](http://www.nuforc.org/webreports/reports/164/S164474.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
