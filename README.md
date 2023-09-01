@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:47 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:48 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Orwigsburg/Deer Lake Area (PA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Observed 4 to 6 orange*, red*, and yellow* glowing objects surround me and my 3 freinds, and seemed to observe us more than we observed them!Me and 3 of friends decided to go up to the top of this dirt road that has an extrodinary view of the stars. We arrived there about 9:45pm and were sittin on my friends car, for like 5-10 minutes. I was starin at an orange glowing light. Didn't say anything  until my friend yelled "Look at that" it was another orange light, but this one was coming toward us to the north, Then suddenly changed to the east. While starin at the object in the east another object same as the other 2 appeard in the north. Now with 1 in the North , one in the west and one in the east we started to get nervous and excited. While tryin not to  panic we were all tryin to make sure we diddn't take our eyes off any of them. Then all of a sudden the object in the North had 2 non-blinking lights appear above it, and joined with the big one( transformed!). After we saw that and almost all had heart attacks, we left the hill and proceeded to drive west on another backroad west of Deer Lake. Whereever we w! ent 1 to 2 objects seemed to follow us and appear ahead of us , then disapear, then circle us.  The closest the object got from us  was about 100 to 150 yards above us, the whole time we never heard a single sound! 45 minutes to an hour after being followed we took a road about 2-3 miles east of Auburn, right off route 895. After realizing all the objects had suddenly disappeared,we were all completely silent -when all of a sudden our lights  on our car turned off, then on, then off. It was in a certain pattern I will never forget, and also the dash lights went off as well as the headlights, but the car kept on running. That is all I can reveal at this time. More information is classified by a tight group of friends!!!!  We are all 18 years old and were not under the influence of any alcohol or drugs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09539.html](http://www.nuforc.org/webreports/reports/009/S09539.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Florence (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small object over Florence, KYA Small object was bobbing up and down through low cloud cover at a relatively high rate of speed and with extreme agility. I have lived next to CVG airport for 25 years and have never seen anything close to this. This was recorded and broadcast on FOX19 news the next morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31178.html](http://www.nuforc.org/webreports/reports/031/S31178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
