@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:53 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:50 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Newburgh (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2007 Circular Object with 3 lights across i87 Hightway in daylightIn 2007, driving to Saratoga Springs from Tuxedo, New York spotted a circular object in broad daylight.  Right across i87 Highway a shiny metal circular object; coasted over the tree light; wide as the whole highway across.  3 circular lights on the bottom of the craft.  Funny part is I saw right light poles for the airport nearby.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149779.html](http://www.nuforc.org/webreports/reports/149/S149779.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large white blinking stationary circle west of Los Angeles 2003I was at my workplace, on a second floor balcony looking toward the western sky.  I saw what i thought was a bright white  star, but it became larger and within 30 seconds grew to the size of a full moon, but brighter, all the while remaining still and completely quiet.  The object, still a large perfect circle, proceeded to blink on and off approximately 5 times.   Startled, i ran downstairs to bring my colleagues, but by the time they reached the balcony, the light was completely gone.  If this was not an alien craft, i was thinking, could it have been an extremely distant gamma ray burst that I witnessed?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83087.html](http://www.nuforc.org/webreports/reports/083/S83087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
