@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Louis Park (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>7 orbs in MNWe were driving West on 394 approaching Louisiana Ave at 9:01pm.  We noticed 3 very bright orange fiery orbs in a vertical line formation in the sky directly above us.  We then noticed four more orbs to the right of the three orbs.  It formed an arrow like shape pointing to the right.  We exited the freeway within 2 minutes and parked.  We looked in the sky and noticed only one orb left.  We video taped it as it was descending back up and then disappeared into the sky.  It happened in a matter of 3-5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93011.html](http://www.nuforc.org/webreports/reports/093/S93011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Northbound saucer-shaped objects zigzag across Southern CaliforniaAs I sat on the front porch at my parent’s house, which faces north, I happened to look east toward the LA Coliseum, and something high up in the sky caught my attention. I saw a shiny, saucer-shaped object sitting in the sky. Then, a few seconds later, two more of these objects came cruising slowly to where the first one was apparently waiting because a few seconds later, the first one suddenly shot away northward in a zigzagging motion that took two or three really quick direction changes. Then it would come to a dead, sudden stop, and just sit there while the two following came slowly over to where it was, but in a straight line.I watched them do this about 4 times, moving north across Southern California, toward and past Pasadena. I watched approximately 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63256.html](http://www.nuforc.org/webreports/reports/063/S63256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
