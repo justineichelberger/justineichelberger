@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:52 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Londonderry (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object, no sound, one bright white light with an orange glow, flickered and faded out quickly.A solid white light with an orange glow was rising straight up.  It went northeast from north Windham to west Auburn, NH, in 40 seconds.  The light flickered and then faded out in 5 seconds; the distance travelled in this fade-out was very long.  One minute in total duration, no sound, no strobe/safety lights. It had no tail like a meteor and kept rising up and northeast, away from the Manchester Airport.  Three witnesses observed this object in a clear night sky.  The aura of the object revealed a concave disc outline when at its lowest altitude in Windham.  I called the FAA and no private or commercial planes were in that area at 10pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92406.html](http://www.nuforc.org/webreports/reports/092/S92406.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
