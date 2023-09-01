@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:48 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Florence (KY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Small object over Florence, KYA Small object was bobbing up and down through low cloud cover at a relatively high rate of speed and with extreme agility. I have lived next to CVG airport for 25 years and have never seen anything close to this. This was recorded and broadcast on FOX19 news the next morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31178.html](http://www.nuforc.org/webreports/reports/031/S31178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Carolina Beach (NC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>One floating orangish ember type object seen over the ocean at Carolina Beach NCMy husband and I took an unexpected trip to Carolina Beach on 9/1/2012.  We got to our hotel around 7:30-8:00 pm we got settled in and then decided to go get something to eat. After we ate we walked back through the little carnival that was on Boardwalk on the beach and past a little bar that was supposed to start playing live music at 9pm.  I said to my husband what time is it he said 10:00, we laughed because we thought they didn’t play very long to have to already take a break. Any way we walked onto the beach and took a few pictures came back the band was playing so we stood on the wooden walk way directly behind the small bar a wooden walkway that leads to the beach really close to the Courtyard hotel. So it was probably around 10:30 – 10:45 I turned around to look out at the ocean and noticed a small orangeish light like thing floating around it seemed to float closer to us because it got a bit bigger.  It was floating slowly not fast at all.  A few ot! her people came up on the walk way looking up at it and commenting as to what it was. The light stayed floating and looked like it was floating away from us because it appeared to get smaller and smaller until it was just gone.  My husband said it looked like something flying that had been light on fire not flaming but like one big ember and it floated until it went out.  There was no one with any fires anywhere on the beach or in the area.  When it finally went out there were several people standing around where we were about 10 or 12.  Not sure what it was but I can’t find anything or any way to explain it. So I decided to look it up and found that several other people on the East coast have seen the same thing. I took two pictures of it if you want them</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92465.html](http://www.nuforc.org/webreports/reports/092/S92465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
