@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:51 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Carol City (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Explosion of brilliant light traveling north southI wanted to share this as I just read 2 reports on your site of what I believe is the same event. On 9/02/01 approx 21:30 I was traveling south in West Dade (Carol City/Hialeah area). All of a sudden it looked like there was an explosion of brilliant light in the western sky.  Although it didn't seem to be at a very high altitude.  It was beautiful! The shape reminded me of an elongated pyramid. From the bottom of the object it looked like you could see the "tail" or trail which was also this brilliant white with green and purple colors. It was amazing. The direction of travel could have been an optical illusion as it appeared largest on the north and then disappeared to a pinpoint to the south.  I wrote down the date and time and drew a pic of what I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21610.html](http://www.nuforc.org/webreports/reports/021/S21610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Disk shape object with illuminated white lights west of Atlanta I-285Truck driver, headed south 285, to the west was a flying object went much slower than airplane, all lights were bright white approx 10-15 lights across disk shape, occasionally lights flickering intermittently.  Then it just disappeared from sight, didn’t see it fly out of sight, it just vanished.  Lasted about 30 seconds once I saw it appear and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148630.html](http://www.nuforc.org/webreports/reports/148/S148630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
