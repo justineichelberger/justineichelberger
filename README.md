@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:47 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Quincy/Braintree (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A triangle shaped object moved over South Quincy into East Braintree.I was sitting outside facing West when a triangle shaped object about the size of a commercial airliner approached from the North, heading South.  The object was flying at a much lower altitude than any aircraft of that size normally would.  The object was making a sound that sounded like a fan buffeting air.  The noise was loud enough to be clearly heard, and grew louder as the object approached.  The object was shaped like a triangle, with a red light on the front tip and one white light on each back tip.When the object was directly in front of me it turned East, moving straight towards me as it lowered its altitude and its speed.  When it was less than a football field away from me it suddenly turned Southeast, quickly accelerating its speed and moving out of my field of vision.  Several black helicopters were seen in the area for the remainder of the night and the following day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110859.html](http://www.nuforc.org/webreports/reports/110/S110859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Westfield (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>ball of light that hovered up and down and right and left.One of my family members was coming down my street on his way back to the house from the local gas station wile I was out side smoking a cigarette.  He got out of his car and told me to fallow him down to the street corner. We walked down to the corner and there it was a bluish white ball of light moving around slowly by the moon. My family member went to get another family member as I stood there watching the u.f.o.   They got back to where I was.  I called my bubby to tell him to come outside and look at the sky. He saw the craft moving as well. We then went back inside.  About an hour later my family member decided to go back out to look at it some more I fallowed him out and this time we saw two.  One was flying over head at a tremendous speed.  The other was moving in the opposite direction at a much slower speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72038.html](http://www.nuforc.org/webreports/reports/072/S72038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
