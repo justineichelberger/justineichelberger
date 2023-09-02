@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:01 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Albany (OH) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving down 88 coming up to 22 and seen 2 cone shaped objects in the northern sky. Resembled a praying mantis but with 3 lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159112.html](http://www.nuforc.org/webreports/reports/159/S159112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bryceville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>a craft with two white lights on either side decended from the north and headed east ,it made no noise.i was sitting on my front porch and i looked to my left toward the east and i saw a strange craft coming down from the north and it turned left slowly andwent to the east, when it turned east icould see it had two lights,one on either side,i could not here any noise,then as it headed east the two lights swaped ends as if it where spinning around in a circle, then it continud to head east.  the two lights on either side were not blinking, but they were pulsing,it had no red light like an airplane does, i could see a shape in between the lights,i have seen lots of airplanes in the sky as i live within 10 miles of an airport {jia}  , this was no airplane, my frind saw it too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83655.html](http://www.nuforc.org/webreports/reports/083/S83655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
