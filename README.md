@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:59 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.058333333333333334 - 0.058333333333333334 minutes.</sub><blockquote><sub>sliver/green low flying orb@11:20pm Houston, Tx time, I was facing west to south west and an object came across the sky that was very liquid (like mercury "Hg" on a plate), the color was silver and it was aluminating a green light.  It flew from east to west, very low to the ground.  It was ~ 3/4 of the size of the moon and seemed to be not following a normal flight pattern.  It seemed to be lower than a plane would fly.  It was a very still night.  No wind, no rain, some clouds.  The object did not make a sound or leave a flight trail.  I was alone (my husband was in the house), but my 3 dogs all looked to the sky and watched the object with me.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52295.html](http://www.nuforc.org/webreports/reports/052/S52295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>My buddy and I were in a deep conversation and both saw a turquoise light go in light speed threw the sky under the clouds at lighten speed that we have never seen in our lives. We stopped looked at each other and said did yu see what I just saw.  I said we just saw a UFO!!  And he shook his head yes as we both just stood in did belief.  There out there I knew it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92393.html](http://www.nuforc.org/webreports/reports/092/S92393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
