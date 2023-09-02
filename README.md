@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Goodyear (AZ) reported seeing craft that fit the description of some 'Cone' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There was no other objects in the sky, the entire duration, including clouds.Object was NE of our house.  I can't say how high up.  It didn't move.  I use binoculars and it appeared to cone shape and yellowish to orange looking through the binoculars.  It was bright white to the naked eye and appeared to be longer in length vertically.  My wife also thought it was an unusual shape.  I took two photos with my cellphone.  It then quickly disappeared straight away from us till it was just pin size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101859.html](http://www.nuforc.org/webreports/reports/101/S101859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Leavenworth (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange light shines spotlight on lake,makes no sound.My father and I were fishing at Heims Lake(now lake stella maris)when all of the sudden the crickets stopped chirping,everything seemed to stop.There was dead silence over the lake.We were in a small aluminum boat. This light appeared,orange and bright in color.The light shined a spotlight sort of light down on to the lake as if it were looking for something.All the time the object made no sound.After about two to three minutes,the object shot up into the sky and disappeared.At that time the crickets and owls started back with their sounds.We then saw and heard two jet aircraft fly overhead as if they were in pursuit.((NUFORC Note:  Date of incident is approximate.  The individual who submitted this report appears to occupy a position of responsibility in his community, and probably is a qualified observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19736.html](http://www.nuforc.org/webreports/reports/019/S19736.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
