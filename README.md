@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:01 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Two large groupings sighted in NE and E part of the sky outside of Lodi/Stockton CaliforniaAt approximately 2:30 am on the morning of 9/2/02, I witnessed a bright light that appeared to be a falling star. The light grew closer and smaller lights started to gather in formation around the brighter light. They travelled forward and then would drop so much towards the ground and then level out. This was a continuous manuveur for about 2 hours. As it got closer, I could distinguish the red light on the top of the larger ship and make out seperate individual ships travelling with the red light. I saw approximately 20-25 smaller ships around the red light. The light seemed to change colors as it got closer.They were located in the NE section of the sky and moved to the Western area of the sky. A second grouping was also located in the Eastern section of the sky and I saw a flash of bright light relesed from the first grouping to the second grouping. The first group was in a holding pattern and sent the flash of light to the second group and then the second group formed into a V shape and they held their position as the first group got closer.The first group travelled directly over my house heading West. They were about 20,000 feet over my roof. No wings were apparent and they were silent. Prior to this the flashing lights between the two groups became more sequential and then a bright red light appeared and the communication between the flashing lights ended.All the animals on my street began barking and the horses began kicking out at the fences and whinnying as if a predator was in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24811.html](http://www.nuforc.org/webreports/reports/024/S24811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It was a light over the lake close to my apartment complex and just stop, go away  and came back and  started bouncing.  My son saw another light over the big light, tried to get a picture but no luck.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92459.html](http://www.nuforc.org/webreports/reports/092/S92459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
