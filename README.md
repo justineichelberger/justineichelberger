@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Westfield (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>ball of light that hovered up and down and right and left.One of my family members was coming down my street on his way back to the house from the local gas station wile I was out side smoking a cigarette.  He got out of his car and told me to fallow him down to the street corner. We walked down to the corner and there it was a bluish white ball of light moving around slowly by the moon. My family member went to get another family member as I stood there watching the u.f.o.   They got back to where I was.  I called my bubby to tell him to come outside and look at the sky. He saw the craft moving as well. We then went back inside.  About an hour later my family member decided to go back out to look at it some more I fallowed him out and this time we saw two.  One was flying over head at a tremendous speed.  The other was moving in the opposite direction at a much slower speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72038.html](http://www.nuforc.org/webreports/reports/072/S72038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oil City (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two pale green lights in night skyMy wife and I were in our hot tub around 930 at night, when in the eastern sky, we saw a white glow out of the glow shot 2 pale green lights that were coming straight in our direction, then suddenly banked off to our left, then the green lights and the glow all disappeared at the same time, like someone flipped a switch.  my impression was it was like a portal opened and a craft flew threw I think the green lights were one object, but my wife tHought the 2 green lights were 2 separate objects it made no noise it was perhaps a half mile away...very strange.((NUFORC Note:  Witness indicates that the date above is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136091.html](http://www.nuforc.org/webreports/reports/136/S136091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
