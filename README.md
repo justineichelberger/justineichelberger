@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:01 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:34:46 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lynbrook (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A UFOchecked us out  while we flew model rockets.We (father and 3 kids) went out for an hour to shoot off model rockets.  We shot about 10 rockets with class B engines.  After the 10th one, I (the father) witnessed what appeared to be the wadding out of one of the rockets.  But with a closer look, and the help of binoculars, they were nothing like anything we have ever seen before.  They were roundish with a red light,  but the red was not sharply defined.  Then my sons witnessed the light changed from one big light, to smaller lights.  There were many small ufo's and about 2 bigger ones.  They seemed to hover and then move quickly in different directions.  One even went in the opposite direction without slowing down and no circle.  Then after approximately 10 minutes, they started to dissappear.  We could not see exactly what it was, but in one occation, it appeared to get closer and was a shinny aluminum but quickly changed direction to be just out of range of getting a better look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19382.html](http://www.nuforc.org/webreports/reports/019/S19382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Stickney (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>White Orb over Stickey IllinoisA white Orb was traveling East to West and in a downward projection.  Looked like a large meteor, but without a tail.  Fairly low in the sky.  It was bright but then it disappeared, almost like they turned the lights off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129664.html](http://www.nuforc.org/webreports/reports/129/S129664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
