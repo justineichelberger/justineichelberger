@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Leavenworth (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange light shines spotlight on lake,makes no sound.My father and I were fishing at Heims Lake(now lake stella maris)when all of the sudden the crickets stopped chirping,everything seemed to stop.There was dead silence over the lake.We were in a small aluminum boat. This light appeared,orange and bright in color.The light shined a spotlight sort of light down on to the lake as if it were looking for something.All the time the object made no sound.After about two to three minutes,the object shot up into the sky and disappeared.At that time the crickets and owls started back with their sounds.We then saw and heard two jet aircraft fly overhead as if they were in pursuit.((NUFORC Note:  Date of incident is approximate.  The individual who submitted this report appears to occupy a position of responsibility in his community, and probably is a qualified observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19736.html](http://www.nuforc.org/webreports/reports/019/S19736.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Alberta (Canada) (AB) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 109</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143039.html](http://www.nuforc.org/webreports/reports/143/S143039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
