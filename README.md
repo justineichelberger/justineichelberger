@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 1 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:01 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hammond (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>As if light was coming through a prismIt was a bright sunny day.  The Temperatures was around 12 Celsius and it was around 16:00  When I looked up, I saw a thin rectangular type light strip as if it was coming through a prism.  It was like if it was an invisible craft for which the sun rays were projecting through a prism.  The lights were fading and regaining intensity as it moved over head. It was traveling from the north west to the south east. As I live in the wood,  I didn’t get to see this more than 20 seconds although I do wonder if it had to do with the moisture in the air reacting to the sun although it seemed to have travel to fast compared to the sun setting which sets around 19:00 at this time of year in my area & that the shape was too perfect.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159482.html](http://www.nuforc.org/webreports/reports/159/S159482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Lynbrook (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A UFOchecked us out  while we flew model rockets.We (father and 3 kids) went out for an hour to shoot off model rockets.  We shot about 10 rockets with class B engines.  After the 10th one, I (the father) witnessed what appeared to be the wadding out of one of the rockets.  But with a closer look, and the help of binoculars, they were nothing like anything we have ever seen before.  They were roundish with a red light,  but the red was not sharply defined.  Then my sons witnessed the light changed from one big light, to smaller lights.  There were many small ufo's and about 2 bigger ones.  They seemed to hover and then move quickly in different directions.  One even went in the opposite direction without slowing down and no circle.  Then after approximately 10 minutes, they started to dissappear.  We could not see exactly what it was, but in one occation, it appeared to get closer and was a shinny aluminum but quickly changed direction to be just out of range of getting a better look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19382.html](http://www.nuforc.org/webreports/reports/019/S19382.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [729](http://www.nuforc.org/webreports/reports/164/S164588.html)
-- [728](http://www.nuforc.org/webreports/reports/164/S164835.html)
-- [727](http://www.nuforc.org/webreports/reports/164/S164495.html)
-- [726](http://www.nuforc.org/webreports/reports/164/S164496.html)
-- [725](http://www.nuforc.org/webreports/reports/164/S164847.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
