@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:51 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Alberta (Canada) (AB) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 109</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143039.html](http://www.nuforc.org/webreports/reports/143/S143039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Carol City (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Explosion of brilliant light traveling north southI wanted to share this as I just read 2 reports on your site of what I believe is the same event. On 9/02/01 approx 21:30 I was traveling south in West Dade (Carol City/Hialeah area). All of a sudden it looked like there was an explosion of brilliant light in the western sky.  Although it didn't seem to be at a very high altitude.  It was beautiful! The shape reminded me of an elongated pyramid. From the bottom of the object it looked like you could see the "tail" or trail which was also this brilliant white with green and purple colors. It was amazing. The direction of travel could have been an optical illusion as it appeared largest on the north and then disappeared to a pinpoint to the south.  I wrote down the date and time and drew a pic of what I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21610.html](http://www.nuforc.org/webreports/reports/021/S21610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
