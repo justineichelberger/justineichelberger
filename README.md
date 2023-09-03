@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:40:34 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:45 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cathedral City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two white translucent "jellyfish" objects repeatedly change shape; 5-10 thousand feet high in blue afternoon sky 60-90 Minutes.Staying at motel resort in Cathedral City, CA (Palm Springs).  All of us were in the pool on rafts, some guys were splashing and goofing off.  One guy said to the group "Is that a weather balloon?"  We stared at it.  It wasn't drifting away like ordinary balloons.  Suddenly started to change shape from round to oval to rectangular to square shape (yet still maintaining white "jellyfish" color.  Three to four metalic speckles kept circling the object.  Wasn't debris nor birds.  This was a clear blue Palm Springs day.  No rain or thunder clouds visible. The object kept same altitude (about 5-10 thousand feet high).  I ran inside my motel room and grabbed my Minolta 4X megapixal digital camera and snapped these shots.  Guys in pool laughed at me, but no one could give positive description of what opbject really was...  All of us perplexed and baffled at what we saw on clear sunny late afternoon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24929.html](http://www.nuforc.org/webreports/reports/024/S24929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Metallic sounds and bright flash of light - Seen from indoors with blinds shutWe (2 people) were inside and heard loud metallic grinding sounds.  The sounds died down and we saw a bright flash of yellow light illuminate every window in the house for just a moment.  Maybe about 20-30 seconds later we heard a huge crashing sound that sounded like twisting metal.  I called someone I know about 8 miles from me and they didn't see anything strange.  Nothing on the news about crashed planes or anything.  Very strange!  The weather during this event was overcast & foggy with light rain.  No lightning or anything related with these rains.  No power outages or fluctuations occurred. This flashing in the sky also happened to me in September 2011 and it lit up the entire sky for just a quick moment and then disappeared. The time was about the same also, which is strange.  When it happened in 2011 the sky was clear though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92474.html](http://www.nuforc.org/webreports/reports/092/S92474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
