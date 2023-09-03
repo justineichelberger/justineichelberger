@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:01:00 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greeley (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large, fast moving green light disappears abruptly.I was leaving my house at about 9:20 or so to go to Walgreens just down the street. I decided to take the long route just to enjoy the night and drive around the neighborhood a bit (opposite direction as my usual route, wouldn't have seen this occurrence had I not taken new route). As I pulled out of my driveway and turned to progress down the street, I noticed a large (perspectively about the size of a pea held in your hand) green light in the sky absolutely railing Southwards. It progressed in speed for a matter of a few moments, grew in brightness, and then abruptly disappeared as I kept my eyes peeled in the direction that I saw it in with no avail with the intentions of another sighting. I have communicated with a few acquaintances of mine, and apparently they have experienced the same thing. What absolutely astounded me was the clarity of the light, it was quite blatantly either very low to the ground or a type of lighting that I have not witnessed bef! ore in my life. Equally astounding, though, was the apparent frictionless flight that this object had attained. It was the cleanest moving, brightest object I've ever seen in my life. Others that have seen the same thing claim that the same two details, being the frictionless flight and the brightness of the light, were aspects of the sight that stuck with them and astounded them as well. It was an odd feeling night, at that. Had a very different feel to it. This is one of many experiences that I have had witnessing UFOs, not strictly of this sort (this is the first of this sort that I've seen). Also, the first I'm reporting. I often go outside with confidence that I'll see something astonishing in a matter of minutes admiring the sky. Thanks for reading, hopefully this gets out to anyone else who's seen the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113330.html](http://www.nuforc.org/webreports/reports/113/S113330.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bethel Park/Castle Shannon (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange bright orange lights in South Pittsburgh sky.Driving along Route 8,8 we noticed 4 bright orange color lights just sitting in the sky in a square shape.  As we continued to drive the lights began to slowly move closer to each other.  That is when we realized they were individual lights rather than lights from one object. Then they began to move in fast circular motion and more came.  Started receiving facebook messages and video from others witnessing the same sighting.  Dogs were barking continuously and eventually would just whimper in friends' neighborhood. We started seeing helicopters flying and police rushing toward the area.  We never stopped.  Just kept driving to get home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113236.html](http://www.nuforc.org/webreports/reports/113/S113236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
