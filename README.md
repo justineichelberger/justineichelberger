@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:24:25 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:40:34 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Forestburgh (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At 8:00 pm on 9/3/2015 in Forestburgh, NY, we saw flashing lights in a generalized area.  6 jets flew towards it.  This event lasted 2 hrsWe saw flashing light in a generalized area we could not identify the source.  1 by one about a half hour into the light show jets flew over low and slow going towards the flashing in a grid pattern at 15 minute intervals.  The flashing slowed as the jets appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121666.html](http://www.nuforc.org/webreports/reports/121/S121666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cathedral City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Two white translucent "jellyfish" objects repeatedly change shape; 5-10 thousand feet high in blue afternoon sky 60-90 Minutes.Staying at motel resort in Cathedral City, CA (Palm Springs).  All of us were in the pool on rafts, some guys were splashing and goofing off.  One guy said to the group "Is that a weather balloon?"  We stared at it.  It wasn't drifting away like ordinary balloons.  Suddenly started to change shape from round to oval to rectangular to square shape (yet still maintaining white "jellyfish" color.  Three to four metalic speckles kept circling the object.  Wasn't debris nor birds.  This was a clear blue Palm Springs day.  No rain or thunder clouds visible. The object kept same altitude (about 5-10 thousand feet high).  I ran inside my motel room and grabbed my Minolta 4X megapixal digital camera and snapped these shots.  Guys in pool laughed at me, but no one could give positive description of what opbject really was...  All of us perplexed and baffled at what we saw on clear sunny late afternoon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24929.html](http://www.nuforc.org/webreports/reports/024/S24929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
