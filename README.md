@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 61</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159422.html](http://www.nuforc.org/webreports/reports/159/S159422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Greenwood Lake (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue lights in the sky traveling in formationWe had a fire on the beach of Greenwood Lake on the border of New York State and New Jersey.  We saw three bright blue lights flying in formation resembling a triangle with one light  trailing behind the group.  The three lights that were in formation realigned themselves as a straight line with one light circling another.  The trailing light took off in a different direction then later continued to follow the other three lights.  The lights were moving at a high rate of speed and traveling at an altitude greater than 5000 feet (estimate).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129837.html](http://www.nuforc.org/webreports/reports/129/S129837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
