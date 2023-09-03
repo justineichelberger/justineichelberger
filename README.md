@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hartville (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>LARG FIRE BALL TREE TOP LEVEL SPOTED ABOVE MY HOUSE ON SPT 3 05 IN HARTVILL MISSOURI AT 11:16 PMSEPT 9 05 AT 11:00 P.M I WAS DRIVING FROM TOWN I HAD MY DOG AND JUST WHEN I PULLED IN TO THE DRIVE WAY I NOTECED MY WHOLE YARD GOT REALY BRIGHT WHEN I LOOKED UP I COULD NOT BELEAVE WHAT I WAS SEEING IT THISE ENOURMOUS FIRE BALL AND IT WAS DARTING FROM THE NE SKY TO THE EAST SKY IN A MATTER OF SECONDES THEN IT WOULD SHOOT UP TO WHERE YOU COULD JUST BARLEY SEE IT I MEEN VERY VERY HIGH ALTATUDES IVE NEVER SEEN ANY THING LIKE THIS AFTER IT WENT UP I WENT TO GET MY TELESCOPE TO JUST TO SEE WHAT IT WAS WHEN I WENT BACK OUT IT ALMOST TREE TOP LEVEL IVE NEVER BEEN SO FREAKED OUT IN MY LIFE THEN I JUST SHOT STREIGHT UP AND JUST IN A HALF OF SECOND IT WAS GONE I MEEN BY BY SEE YA OUTA HERE JUST LIKE THAT IT WAS GONE WE NEED TO DO SOMTHING TRY TO FIND OUT WHER THEY COME FROM AND WHAT THEY WANT AND WHY US  .......PLEAS BELEAVE ME ON THISE I NEVER BELEAVED IN THEM UN TILE TONIGHT  THANK U((NUFORC Note:  Witness elects to remain totally anonymous, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46011.html](http://www.nuforc.org/webreports/reports/046/S46011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madison/Painesville line (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights merged into one and then faded outWe were driving towards home on Dayton Rd. In Madison.  Off to the West, appeared to be close to the Madison/Painesville line,  I saw two lights, at first glance, thought they were stars but then noticed they just looked a bit different and too large.  Within seconds the lights slowly moved towards each other, then merged into one and then faded out completely.  Did not see them again.  The light was not bright like that of a plane, it was more ambient.  Hard to describe, but definitely was odd.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148636.html](http://www.nuforc.org/webreports/reports/148/S148636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
