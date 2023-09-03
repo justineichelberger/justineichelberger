@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:47 on 2 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:24:25 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>very scary thought it may have been a meteor but it was flying not falling had a huge boomerang shaped aura.The object was moving in a straight line no noise, it had a haze around it in the shape of a sideways boomerang and a thick contrail, it was not in a perfect straight line i saw two jets heading in the direction a few mins after seeing the object, the aura was huge i thought it was going to crash never seen anything like it.((NUFORC Note:  Atlas V launch from Cape Canaveral.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121627.html](http://www.nuforc.org/webreports/reports/121/S121627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Forestburgh (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At 8:00 pm on 9/3/2015 in Forestburgh, NY, we saw flashing lights in a generalized area.  6 jets flew towards it.  This event lasted 2 hrsWe saw flashing light in a generalized area we could not identify the source.  1 by one about a half hour into the light show jets flew over low and slow going towards the flashing in a grid pattern at 15 minute intervals.  The flashing slowed as the jets appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121666.html](http://www.nuforc.org/webreports/reports/121/S121666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164766.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164492.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164501.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164565.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164727.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
