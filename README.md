@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:48 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Madison/Painesville line (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights merged into one and then faded outWe were driving towards home on Dayton Rd. In Madison.  Off to the West, appeared to be close to the Madison/Painesville line,  I saw two lights, at first glance, thought they were stars but then noticed they just looked a bit different and too large.  Within seconds the lights slowly moved towards each other, then merged into one and then faded out completely.  Did not see them again.  The light was not bright like that of a plane, it was more ambient.  Hard to describe, but definitely was odd.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148636.html](http://www.nuforc.org/webreports/reports/148/S148636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Royal Oak (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fat disc shape. 3 lights. One light was red. I think other 2 were green and white. Went in different directions and hoovered.9/3/16 1am. 11 mile and main area in Royal Oak MI. Craft coming at me (north) with white lights but stopped and went east and hoovered. Looked like a fat disc shape.  3 lights.  One light was red. I think other 2 were green and white.  Than went backwards (south) and hoovered.  Than really fast to the right (west) and hoovered and than to the east again and hoovered and than to the west again really fast and I could hear a really shrill noise when it went fast to the west.  It did a few of these left and right and back and forth moves and hoovered each time.  I got my camera.  Took pic off the porch but I had my finger on the flash which is a poor feature of this camera but maybe that's a good thing.  Went to take second pic and it went behind trees and disappeared but I watched it for over 5 minutes. The picture just looks like a blur of gas since it was in motion.  I would say it was the size of a jet and at jet altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129716.html](http://www.nuforc.org/webreports/reports/129/S129716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
