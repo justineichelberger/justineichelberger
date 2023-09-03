@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:45 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:44 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Metallic sounds and bright flash of light - Seen from indoors with blinds shutWe (2 people) were inside and heard loud metallic grinding sounds.  The sounds died down and we saw a bright flash of yellow light illuminate every window in the house for just a moment.  Maybe about 20-30 seconds later we heard a huge crashing sound that sounded like twisting metal.  I called someone I know about 8 miles from me and they didn't see anything strange.  Nothing on the news about crashed planes or anything.  Very strange!  The weather during this event was overcast & foggy with light rain.  No lightning or anything related with these rains.  No power outages or fluctuations occurred. This flashing in the sky also happened to me in September 2011 and it lit up the entire sky for just a quick moment and then disappeared. The time was about the same also, which is strange.  When it happened in 2011 the sky was clear though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92474.html](http://www.nuforc.org/webreports/reports/092/S92474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An object passed quickly through the sky with 6 circles of luminescence with absolutely no sound as it passed overhead.I brought my spouse outside to view the Milky Way and as we were looking up I noticed a craft passing overhead and was very excited and pointed it out to my husband.  He did not see it much in the manner as if you try and point out a shooting star to someone.   It passes so quickly. That is what happened with this object.  I saw it and pointed very excitedly but he did not see it.  I watched it pass over and saw its shape.  I knew it was not a plane or a helicopter or a satellite or anything else I am familiar with seeing.  It was definately a UFO and I am 100% certain I had an alien encounter of the second kind.  I was so certain, I also quickly sketched its shape so as not to forget.  I am very excited to ascertain if others in my area were out and viewed the same thing as I am very certain of what I saw.((NUFORC Note:  We will request a copy of the graphic.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39089.html](http://www.nuforc.org/webreports/reports/039/S39089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
