@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:00 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bethel Park/Castle Shannon (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately  -  minutes.</sub><blockquote><sub>Strange bright orange lights in South Pittsburgh sky.Driving along Route 8,8 we noticed 4 bright orange color lights just sitting in the sky in a square shape.  As we continued to drive the lights began to slowly move closer to each other.  That is when we realized they were individual lights rather than lights from one object. Then they began to move in fast circular motion and more came.  Started receiving facebook messages and video from others witnessing the same sighting.  Dogs were barking continuously and eventually would just whimper in friends' neighborhood. We started seeing helicopters flying and police rushing toward the area.  We never stopped.  Just kept driving to get home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113236.html](http://www.nuforc.org/webreports/reports/113/S113236.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mars Hill (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright objects in skyWe have had a "critter cam" set up and running for several months on our property.  During one 4 day span it captured 112 photographs.  Two of the 112 photographs were of something that we can not logically explain.  Other photographs were taken around the same time but did not have the object in them.  They were taken on 9/3/06 at 8:04 PM and on 9/6/06 at 7:58 PM.  There are no power lines in this area, camera is on a ridge line, closest mountain range is in plain view, I26 and all traffic signs are not visible from this area and are located in the hollow between the two mountain ranges.  The objects are extremely bright, are tilted in different directions on each photo, and seem to be showing directional light.((NUFORC Note:  The object in question looks to us to be a moth, captured by the camera.  Not a UFO, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52874.html](http://www.nuforc.org/webreports/reports/052/S52874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
