@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:45 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sherman Oaks (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately over an hour - over an hour minutes.</sub><blockquote><sub>Blinking UFO in the South East sky of Los AngelesLooking out at the dusk sky stars were pretty clear. One in particular was twinkling and when I took a closer look it was actually blinking an array of colors. I thought it was a plane or helicopter at first, but it was pretty stationary and very high up. There also appeared to be beams pointing upward and downward, 3 up and 2 down. I woke up my wife to witness it and she took a little interest and went back to bed. I recorded it on a digital video camera for about 40mins. It's 6am, now,  and it's still there. No sudden movements, just slight moves to the south and higher up from my point of view. Now most of the stars aren't visible, but this is along with the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77612.html](http://www.nuforc.org/webreports/reports/077/S77612.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Small black orb hovering in the sky moving irregularly north or barton hillsI am filling this out in response to the report already registered.  I am glad that someone out there has seen this odd happening besides me and my friend.  The description of the craft is exactly as described: A small black orb hovering about 15 miles north of barton springs.  I watched it for about 30 to 45 min before I got bored and went inside.  I don't know what it was but I've seen it once before in the same place.  I guess we'll never know.((NUFORC Note:  Date is approximate.  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39440.html](http://www.nuforc.org/webreports/reports/039/S39440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
