@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:46 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Franklin Furnace (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Several amber colored lights in formation in Southren Ohio.While finishing my shift at work I noticed a very bright amber light low on the northren horizon at approx 21:30EST. The light did not move and was there for close to 20 seconds then it went out. As soon as it went out another light appeared slightly higher and to the right of the first light. It remained for severl seconds. I watched for another 30 min but failed to see anymore. I finished my shift 22:00EST and began to drive home. As I was crossing back over the highway 1 mile south from where I work I looked back th the north and observedthe same kind of lights. Again they were low on the horizon, I would say about 15 to 20 degrees, but this time there was more than one. I was able to see 6 lights in total but only 3 at once. The light on the far right was not that bright. The one to it's left was brighter. The one to that ones left was even brighter. When the one on the far right went out there was a very bright light that appeared to the far left. Again as the light on the right went out another appeared at the far left, this light was slightly dimer then the "center" light. 2 more lights appeared to left in the same order as they went out on the right and became slightly dimmer. The total time of this event was close to 40 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58571.html](http://www.nuforc.org/webreports/reports/058/S58571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO in Myrtle Beach South CarolinaI am a commercial pilot with over 6000 flight hours. I was walking on the beach approximately 1 mile north of the apache pier when I witnessed lights turning on, then off in sequence.  My girlfriend saw them too. Approximately 15 minutes later, my girlfriend, my son, and her two sons witnessed the lights again. They illuminated and then extinguished within 10 seconds. The lights illuminated 3 at a time. They were red with circular shapes around them.  The craft was approximately 5 miles away, and I estimate it to be 500+ feet long. From my experience piloting over 60 different aircraft, this was not a vehicle created on Earth by our species.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58936.html](http://www.nuforc.org/webreports/reports/058/S58936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
