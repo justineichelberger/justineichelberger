@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:57 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:50 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Hawk Springs (WY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>The shape in the C.R.P.Field is a shape of a iron,and the press grass and the squares are of a heavy object that was burn in the fieldI live on a farm in Hawk Springs Wyo,I was walking across the C.R.P. field which is very tall and dry grass and in the field is a big burn spot that has the shape of a iron with four to five squares around the iron shape and the grass looks like it was cut like a razor that has fallen in to the burn spots, The grass in the squares has been press down! If this was a lightning strike and how dry the grass is the whole C.R.P. field would have burn up!((NUFORC Note:  We have spoken via telephone with this witness, and we found him to be quite sincere, and detailed in the description of the formation.  The case has been turned over to BLT Research out of Boston, MA, which specializes in crop formation cases.  We have changed the date here to 04SE01.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19426.html](http://www.nuforc.org/webreports/reports/019/S19426.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Forestville (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two lights in eastern sky.Friday,09/05/2003    On Thursday September 4,2003,four of us saw a big green ball of what looked like fire in the sky. Location was in Forestville CA, in the eastern sky. We were talking about what we saw to my friends husband , when we saw another light in the sky, also in the east. This one was a white light. The light  was bigger than a helicopter or an airplane light. The planet mars was in the sky to the far right. In comparison to size the green ball and the white light was double the size to mars. The ball was traveling south. Movement was slower than a shooting star. The white light was moving very slow. Location was just to the left of where the ball was, it went left, then seemed to go up real slow, then looked like it was either moving in a west direction or east. Then it went straight up very fast, and then stopped, then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31242.html](http://www.nuforc.org/webreports/reports/031/S31242.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
