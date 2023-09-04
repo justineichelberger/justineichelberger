@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:57 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:53 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange/red no sound pulsating, moves fast and smooth2 objects, orange/red, pulsating light, moves fast and smoothly, no sound heard, suddenly disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93169.html](http://www.nuforc.org/webreports/reports/093/S93169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ellicott City (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Single, bright and stationary light in the sky over interstate 70 in Ellicott CityI witnessed a single bright light hovering in the sky over interstate 70 in the western portion of Ellicott City.  I was driving east bound and saw the light remain stationary in the sky.  It was white in color and did not move.   Other craft such as helicopters and planes were visible elsewhere in the sky moving and containing blinking lights while this object remained motionless and did not exhibit any blinking patterns nor extra lights us per usual with helicopters and planes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113285.html](http://www.nuforc.org/webreports/reports/113/S113285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
