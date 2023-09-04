@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 3 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:23:43 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mars Hill (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright objects in skyWe have had a "critter cam" set up and running for several months on our property.  During one 4 day span it captured 112 photographs.  Two of the 112 photographs were of something that we can not logically explain.  Other photographs were taken around the same time but did not have the object in them.  They were taken on 9/3/06 at 8:04 PM and on 9/6/06 at 7:58 PM.  There are no power lines in this area, camera is on a ridge line, closest mountain range is in plain view, I26 and all traffic signs are not visible from this area and are located in the hollow between the two mountain ranges.  The objects are extremely bright, are tilted in different directions on each photo, and seem to be showing directional light.((NUFORC Note:  The object in question looks to us to be a moth, captured by the camera.  Not a UFO, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52874.html](http://www.nuforc.org/webreports/reports/052/S52874.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Vandalia (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangler figure in Vandalia, OHI got up, ready for school, I sat in the window with my dog. I looked up in the sky and saw a triangler figure. My eyes were wide open. So I ran right to the door. As soon as I was on the front porch, my mouth dropped. It had a white light circle in the middle and on the sides were colored lights that were red, white, and blue. It traveled from the north east to the south west. The next day I saw a very large helicopter following the same path. Passing the house about six times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72092.html](http://www.nuforc.org/webreports/reports/072/S72092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/164/S164587.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165722.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164506.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164657.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164504.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
