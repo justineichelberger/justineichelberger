@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:55 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 pulsating orb like lights hovering, ascending straight up, then across and saw its triangular shape and lightsI am just emailing to report what I witnessed this evening. I am an attorney, and the very last person that would make up something like this.I was sitting outside this evening with my mother and my sister (Northwest Oro Valley), and we all witnessed what was not a plane, nor helicopter, and the only way I can think to describe it would be to say a UFO.It was hovering above the mountains, not even moving, then it went straight up into the sky (not horizontally as plane would fly, straight up), at a slow hovering pace, we noticed it first as two pulsing lights, it is really hard to explain.  Then it moved over the sky, right above us, and it was DEFINITELY not a plane.  I really do not know how to describe it, I have never seen anything like it.  It was triangular shaped and had a line of lights (I would say about 5), but they were not regular lights.  I really don't know how to describe it. Then it was just gone.Frankly, I am still in a state of shock and awe at this point.  I had my phone with me at the time, and at first we were just so shocked at what we were seeing.  Then I thought of my phone being in my hand, so I turned on the camcorder of my phone, and you can definitely see it.  It is not as clear as what we saw, because it is a video from a phone, but it definitely shows the hovering lights.I don't know why I am even writing this.  I guess because in case other people call in that perhaps report that they saw it, I just wanted to say don't discard them as not being credible. We saw it too.   I would never in a million years make up something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83717.html](http://www.nuforc.org/webreports/reports/083/S83717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in National Park (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 red round large moving lights coming from east & moving west towards phila pa the disappeared3 large round red objects moving from east to west as they passed over our house, going towards phila pa,  they just diminished m they were moving at a slow pace, 1 behind the other.  Then after that, looking south there was a large white light moving north towards us then it diminisehed I have unbelievable photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129981.html](http://www.nuforc.org/webreports/reports/129/S129981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
