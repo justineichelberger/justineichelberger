@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:03 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Marshfield (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw one solid light that gave the appearance of being collectively among the stars while gazing up.  This light moved at a great speed for a short but long distance given that it appeared to be just outside our earths stratosphere (100,000+ feet up).It then changed direction almost instantaneously and dimmed to the eventual loss of vision, giving the appearance that it was heading out and away from earths orbit.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113259.html](http://www.nuforc.org/webreports/reports/113/S113259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bbq in friends backyard looked up round disc object with white lite like a window side of craft huge two figure about 500 feet agl heading due west slow speed cable attached bottom of craft seemed to be carrying of shaped boxes not a drone too big then went up fast 40 degree headed sooth at increadible speed upward took picture with phone far away you can zoom in on it.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be serious-minded.  He has both military, and aviation, background.  However, his photo strongly suggests to us that the object was a large, helium-filled balloon, in the shape of an oblate spheroid, with other objects suspended below it on some type of cord or cable.  However, the witness reports that the cluster suddenly accelerated, and climbed out of site very quickly, which one would not expect for a balloon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136038.html](http://www.nuforc.org/webreports/reports/136/S136038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
