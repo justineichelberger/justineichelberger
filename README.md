@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:50 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:47 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Pittsburg (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fireball sightingI sighted a fireball very low in the southern sky.  It traveled in an east-to-west direction for approximately three seconds.  The fireball was bright green (similar to a flare)with a smoke trail.  I'm not sure if it made a sound since a busy road is nearby.  It burned up while in flight.  The time I've reported is accurate (I set my clocks to a time server.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09254.html](http://www.nuforc.org/webreports/reports/009/S09254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was stopped on dirt road in the woods and two bright objects passed over me and then one appeared to land in a clearing just beyond me.The light produced by the "craft" was like that from a black light, but pulsating.  There was a deep humming sound.  It looked like two craft passed over me, but I only saw one lower itself down in a clearing.  When I reached the clearing (5 minutes later) an opening in the side of the craft was evident and something could be seen moving inside the opening.  As I tried to get closer, the opening closed and the craft suddenly lifted off and sped away.  I could follow it's path and then I saw the second craft join it and then they both headed to the east at a fast pace about like watching a jet go by.  There were no burn marks at the landing site and the next day I could not find any markings in the clearing.  The only thing I found was a dead racoon with its gut split and the internal organs missing.  I did'nt stick around to look for anything else!((NUFORC Note:  Probable hoax.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09556.html](http://www.nuforc.org/webreports/reports/009/S09556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
