@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in National Park (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 red round large moving lights coming from east & moving west towards phila pa the disappeared3 large round red objects moving from east to west as they passed over our house, going towards phila pa,  they just diminished m they were moving at a slow pace, 1 behind the other.  Then after that, looking south there was a large white light moving north towards us then it diminisehed I have unbelievable photos</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129981.html](http://www.nuforc.org/webreports/reports/129/S129981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 bright triangular Shaped objects remaining in a triangular formation caught my attention over Lake Union in Seattle.To my pleasant surprise, just two months since my first UFO sighting over Lake Union in Seattle, I witnessed four unusual light shapes again tonight - very close to the same location they made their appearance in July.  What caught my eye this evening were 4 bright lights slightly north east of the Space Needle from my vantage point where I was gazing south toward the Space Needle.Each object appeared triangular shaped with lights at each point. However, it seemed there was a light in the center of each as well.  They struck me initially as probably being lanterns, though unusually shaped if in fact lanterns.  As I kept my eye on them they did not seem to characterize lanterns floating through the air due to their tight triangular formation while moving upward then sideways in perfect synchronicity.  One object was positioned to the left of the other three in their triangular formation.  The object on the left from my view faded within approximately 20 seconds after I first spotted them all.I snapped a 26 second video, then two photos of the remaining three objects from my iPhone while standing on my front deck then lost view as they moved further east and were hidden behind a neighboring building.  I ran through my house and up my dock to zoom in on them once again.  I was able to snap two more photos, though they did not appear clearly in the brighter light from this angle.  They seemed to turn southward and disappeared within about 20 more seconds from my new viewing spot.Following their disappearance there was a single helicopter hovering over the middle of Lake Union facing the direction these objects had been seen.I will include the video clip and the original two photos that are the most clear I was able to capture.((NUFORC Note:  Second similar sighting by the same witness over Lake Union.  We provide below a link to the first sighting she reported, which was witnessed simultaneously by her, her son, and at least one other adult witness.  All witnesses were at different locations. http://www.nuforc.org/webreports/111/S111000.htmlReport from witness's son:http://www.nuforc.org/webreports/111/S111296.htmlReport from third witness, and aviation specialist:http://www.nuforc.org/webreports/111/S111115.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113268.html](http://www.nuforc.org/webreports/reports/113/S113268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
