@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:58 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 bright triangular Shaped objects remaining in a triangular formation caught my attention over Lake Union in Seattle.To my pleasant surprise, just two months since my first UFO sighting over Lake Union in Seattle, I witnessed four unusual light shapes again tonight - very close to the same location they made their appearance in July.  What caught my eye this evening were 4 bright lights slightly north east of the Space Needle from my vantage point where I was gazing south toward the Space Needle.Each object appeared triangular shaped with lights at each point. However, it seemed there was a light in the center of each as well.  They struck me initially as probably being lanterns, though unusually shaped if in fact lanterns.  As I kept my eye on them they did not seem to characterize lanterns floating through the air due to their tight triangular formation while moving upward then sideways in perfect synchronicity.  One object was positioned to the left of the other three in their triangular formation.  The object on the left from my view faded within approximately 20 seconds after I first spotted them all.I snapped a 26 second video, then two photos of the remaining three objects from my iPhone while standing on my front deck then lost view as they moved further east and were hidden behind a neighboring building.  I ran through my house and up my dock to zoom in on them once again.  I was able to snap two more photos, though they did not appear clearly in the brighter light from this angle.  They seemed to turn southward and disappeared within about 20 more seconds from my new viewing spot.Following their disappearance there was a single helicopter hovering over the middle of Lake Union facing the direction these objects had been seen.I will include the video clip and the original two photos that are the most clear I was able to capture.((NUFORC Note:  Second similar sighting by the same witness over Lake Union.  We provide below a link to the first sighting she reported, which was witnessed simultaneously by her, her son, and at least one other adult witness.  All witnesses were at different locations. http://www.nuforc.org/webreports/111/S111000.htmlReport from witness's son:http://www.nuforc.org/webreports/111/S111296.htmlReport from third witness, and aviation specialist:http://www.nuforc.org/webreports/111/S111115.html</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113268.html](http://www.nuforc.org/webreports/reports/113/S113268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Inverness (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This statement was witnessed last night at approzimately10.45pm, Friday 04 September 2009.  This was seen by my son , my wife and 2 grandsons, and 2 neighbours. We were all mystified on what was happening before our eyes.It appeared to be shapes like ballons with orange lights in side. I tried to take some photos of this strange scene but did not come out as well as we had seen with our eyes.I reported to police in Inverness, Scotland, Great Britain. I had to give my name address and telephone to them/Saturday, 05 September 2009</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72085.html](http://www.nuforc.org/webreports/reports/072/S72085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
