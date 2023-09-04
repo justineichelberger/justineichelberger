@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:58 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Inverness (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This statement was witnessed last night at approzimately10.45pm, Friday 04 September 2009.  This was seen by my son , my wife and 2 grandsons, and 2 neighbours. We were all mystified on what was happening before our eyes.It appeared to be shapes like ballons with orange lights in side. I tried to take some photos of this strange scene but did not come out as well as we had seen with our eyes.I reported to police in Inverness, Scotland, Great Britain. I had to give my name address and telephone to them/Saturday, 05 September 2009</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72085.html](http://www.nuforc.org/webreports/reports/072/S72085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Silverdale (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright, glowing light oval seen just above cloud lauer.  It blinked on and off twice before disappearing.  It flew quickly past field of vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149515.html](http://www.nuforc.org/webreports/reports/149/S149515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
