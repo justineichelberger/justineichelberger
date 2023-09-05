@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:57 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Thornville (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>10-12 hoovering balls of lightAt 10:00pm in the Eastern sky 10-12 orange balls of light in a formation of 2X2X2X2 one on top of the other with space in between.  Did not appear to be one object but multiples.  Reminded me briefly of trails left by fireworks but they stood still in the sky and just faded away 1 and 2 at a time.  From the time we noticed them we observed them for roughly a minute or more.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79751.html](http://www.nuforc.org/webreports/reports/079/S79751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in La Crosse (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately second - second minutes.</sub><blockquote><sub>Extremely bright white light that I captured on camera over the city of La Crosse WIWe were visiting in La Crosse WI over Labor Day weekend.  We had just gotten off the River Boat Dinner Cruise headed back to our Hotel room at the Radisson.  As we were walking in Riverside Park along the Mississippi River I was taking pictures. The sun was just setting for the evening.  I had snapped a few pictures of the sunset and some of my family. I came upon this beautiful bronze sculpture of a playful young boy & girl.  I took a picture with my Canon Power Shot digital camera.  I was not using the view finder, instead I was using the digital screen.  My boyfriends sister was standing right next to me at the time.  An extremely bright light just above the trees in the eastern night sky appeared on the screen along with the bronze sculpture.  We immediately took our eyes off the camera screen to see what was in the sky, but nothing was there.  My boyfriend thought that it was the flash from the camera.  Within seconds I took another picture, using the same camera and setting. Absolutely no light or flash in the sky. It’s appeared at first to be a six pointed star shape, but after some thought I believe it could have been a horizontal oval shape.  The shutter could have stayed open for a second or two and I maybe caught on camera it changing from horizontal to vertical and then disappearing before our eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72671.html](http://www.nuforc.org/webreports/reports/072/S72671.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
