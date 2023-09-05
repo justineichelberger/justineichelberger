@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Black Creek (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving down unlit country road, vertical tower w/ 4 large lights moving over us-no towers in area then horizontal & disappeared.While driving down our unlit country road at approx. 9 p.m., my wife and I both sighted what appeared to be a string of large lights (vertical) resembling a tower (it looked like a cell tower, however, we do not have any cell towers or other towers in our vicinity).  The lights were grouped in a vertical row (large dull white).  We both said to each other, "what the heck is that?"  Moving slowly down the road, the lights seemed more horizontal and passed over us.  These four lights were spaced a short distance from each other in a horizontal formation.  No noise or other sounds were heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121795.html](http://www.nuforc.org/webreports/reports/121/S121795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extreme large, very bright orb gave off no light to anything else, observed in texas.My first of two UFO encounters was after I had moved into my new house.  We were still trying to unpack our room so I slept on floor and stared out my window for awhile.  After about 30 minutes a huge white orb came over the window.  The orb itself was incredibly bright but it cast no light around it.  It seamed very low because it so large, it filled my entire view coming over the house and flew past the window.  It gave off the sound of a very deep sounding yell.  The sound was pretty quite but still unmistakable that the orb was making it.It was way to large for a plane and it was almost like a perfect circle.  The bottom drooped down.  It flew very slowly over the house, stopping for only a second a little past the window.  It sped up almost suddenly, then slowed back to its original speed, like it  re-thought its movements. The object then flew perfectly strait and level in the direction of north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55653.html](http://www.nuforc.org/webreports/reports/055/S55653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
