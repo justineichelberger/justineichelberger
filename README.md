@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:52 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange ball of light over houseWe were outside watching an outdoor movie and swimming in the pool at 9:06 PM on September 5, 2020 we noticed a rather low, circular, fire ball, orange light hover over the house. We joked that it was a drone and somebody was watching us but then realized that it did not appear to have any LED lights or blinking lights. It was just one big round orange light. We have previously watched the space station go over our house multiple times  and occasionally other things in the night sky. This was definitely something out of the ordinary and very much unlike a plane or anything else we’ve ever seen. It then went around towards the front of the house where my husband and brother-in-law followed it and watched it suddenly speed up rapidly and then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159231.html](http://www.nuforc.org/webreports/reports/159/S159231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On our vacation my husband and myself were outside on the hotel balcony, where we saw 4 objects rise from a distant mountain. They had a bright orange diamond like shape. As they moved up in the distance they changed into more of a white sphere. At one point they all appeared to be one object then they split apart, appearing like they were dancing or playing in the sky, with a pendulum motion. They appeared to be about 2 or 3 miles away and the size of a dime held at arm's length. The higher they went the smaller they appeared, their lights became dimmer and then no longer were visible. They gave the appearance like they just vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58630.html](http://www.nuforc.org/webreports/reports/058/S58630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
