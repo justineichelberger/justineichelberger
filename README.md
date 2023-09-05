@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:33 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:37:05 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I dont know what it was. But it looked like something on fire streaking through the sky.  It was just like watching a plane go by but with no noise and whatever it was it was on fire.  By the time we got the camera outside and ready it had went further away and just kind of dimmed out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72107.html](http://www.nuforc.org/webreports/reports/072/S72107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>New Jersey Sayreville massive light in cloudy night sky not moving, stationary for 30 min then disappeared at 9pm.On my porch outside, cloudy night NE sky, a light illuminating through clouds like a full moon does when clouds move across its magnificent light, but it's not the moon.  The moon is a quarter moon, and is in SW sky.  The light was noticed at approx. 9 pm lasted until 9:25.  It was stationary the entire time.  Then the light disappeared.  Went off like a switch.  While it was lit it was an intense light about the size of a full moon.  The light was never moving at all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148681.html](http://www.nuforc.org/webreports/reports/148/S148681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
