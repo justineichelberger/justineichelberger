@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:05:24 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>large triangle red lights seen by manytraveling thru hurricane at intersection,the stop light was green but no cars were moving traffic was fairly heavy.everyone started getting out of cars pointing ,t aking phoyos with cell phones.i looked up and there was a triangle shape with 3 dull od colored red lights.it hovered with no sound except for a slight wooshing ,very faint.the bottom erected a white beam for about 2 seconds then it completely dissapeared.it was above and a little behind a walgreens store at the main intersection((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92521.html](http://www.nuforc.org/webreports/reports/092/S92521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three ships high in orbit triangle formationunsure of the shape because they were to high in orbit, just wondering if there where any other reports , there were three ships flying in a traingle formation from where we are located we were looking towards the north at the big dipper when above the three ships appeared and moved in a south west formation then the lead ship took off then the other two went as well. I have seen many planes and satellites moving across the sky but this is the first time i have ever seen this encounter just curious if there was any more sighitngs . I live in sydney nova scotia and it was a really clear night last night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65572.html](http://www.nuforc.org/webreports/reports/065/S65572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
