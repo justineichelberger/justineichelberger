@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:37:05 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:35 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sayreville (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>New Jersey Sayreville massive light in cloudy night sky not moving, stationary for 30 min then disappeared at 9pm.On my porch outside, cloudy night NE sky, a light illuminating through clouds like a full moon does when clouds move across its magnificent light, but it's not the moon.  The moon is a quarter moon, and is in SW sky.  The light was noticed at approx. 9 pm lasted until 9:25.  It was stationary the entire time.  Then the light disappeared.  Went off like a switch.  While it was lit it was an intense light about the size of a full moon.  The light was never moving at all!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148681.html](http://www.nuforc.org/webreports/reports/148/S148681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Beverly Hills (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>6-8 lights flying in formations above LOS ANGELESI am a chef that was working at the Food and Wine festival in Beverly Hills today.  At around 5 pm I happened to look up at the sky when I noticed two lights flying horizontal from one another.  They were very bright and obviously not helicopters as they were flying at too high an altitude and not planes as it was still daylight and I could not see the normal outline of a plane.  Behind the first set of lights I observed an identical set of lights flying the same pattern.  The objects also appeared to have a slight wobble to their flight path which was unlike anything I have ever seen in the sky.  Also my co-worker standing next to me he noticed it appeared the lights had sort of a energy field surrounding them.  When the lights reached the middle of the sky at least 6-8 new lights began to appear and the lights began to form different formations in the sky.  The changing of formations lasted between 10-15 min and then the lights vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77659.html](http://www.nuforc.org/webreports/reports/077/S77659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
