@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:01:03 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:01 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gila Bend (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Amber lights in southern night sky near Gila Bend, AZWhile drviving eastbound on Interstate 8 between Dateland and Gila Bend, I noticed a cluster of amber lights directly south of the highway. At first I thought nothing of it thinking they were lights on top of a tower or something. After approximately 15 seconds of driving at approximately 85 miles per hour I noticed that we were not gaining on nor passing the lights. That's when I brought them to my wife's attention. For almost 3 minutes at 85mph the lights never changed position in my view out the passenger side window. I pulled to the side of the highway to look at them and they appeared to be motionless. The only thing I noticed is that there may have been a small smoke trail rising up from the center of them. Then abruptly, they all went out.After a short conversation about how freaked out we were with what we had just seen, the lights reappeared again. Only this time there were 2 pairs of lights with one pair slightly rearward from when I had seen them and the other pair were in my view between my inside rearview mirror and the side pillar just under the passenger visor. Without knowing how far away and high up they were, it is difficult to say how far apart they were. But as before, my view of them never changed position no matter how fast I drove. Then 1 pair went away then about 30 seconds later the other pair left. ((NUFORC Note:  Possible military flares at Gila Bend firing range??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52420.html](http://www.nuforc.org/webreports/reports/052/S52420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Hanover Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 ufo triangles HUGE over hanover park, then stopped in mid air and rotated lights to look like constelations!was smoking a cigarett and looked up in a cler night sky at 3:53 am to see a  formation of 7 (almost see through) craft, they seamed to glide over the night sky andwere HUGE, the only thing one could see is 5 lights (might have been 7) with one craft in the lead they had onelight in front and ten going outwards into a triangle 2 more and 2 more  one in the lead and 3 behind him and3 behind them, the strange thing is that they stopped as if they hoovered, and all of them started rotating their lights to resemble constelations, and in about 5 seconds a massive cloud cover came over the sky (unnatural) to cover them a couple miles in a radius, the whole event lasted about 5-7 minutes i wish i had a camera, it was something else! all 7 of them made it looks like 3 different constelations, they were workingin sync! moved very slow. put wrong date in other report sorry (remake)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77608.html](http://www.nuforc.org/webreports/reports/077/S77608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
