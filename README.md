@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 4 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:33 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>circular luminous craft changes shape while being chased by two military jets.i was driving west on i696 from roseville to warren mi. west being 9 o'clock. i saw a bright luminous circular object hovering over freeway at about 30 degrees. while this craft was hovering it became oblong while maintaining the same radiance of light. slowly another smaller circular object appeared. this oblect slowly moved to the larger object and then became one object again. after this happened the object resumed its fomer circular shape. again, with west being 9 o'clock i then saw 2 military jets from selfridge air national gurd base ( i presume that base asit is the closest). one jet clearly had the after burners on and was moving from the south up to this object. the other jet was coming down towards this object from the north. as i went under a bridge in the span of about one second the circular object had moved from due west to due south. this was truly amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19415.html](http://www.nuforc.org/webreports/reports/019/S19415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Terre Haute (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I dont know what it was. But it looked like something on fire streaking through the sky.  It was just like watching a plane go by but with no noise and whatever it was it was on fire.  By the time we got the camera outside and ready it had went further away and just kind of dimmed out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72107.html](http://www.nuforc.org/webreports/reports/072/S72107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [371](http://www.nuforc.org/webreports/reports/164/S164518.html)
-- [370](http://www.nuforc.org/webreports/reports/164/S164516.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164520.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164833.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164839.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
