@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:05:24 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Duluth (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright yellow lights moved up and down in a zig-zag spiraling motion then disappeared.On Sept 5, 2012 at approximately 9PM, I was out with the dogs on the sidewalk in front of our house.  I observed what appeared to be four-five lights in the SW sky.  The lights were a very bright yellow and appeared to have the shape of planes or were 'bird-like' in shape. The moved around in a zig zag and spiraling motion, up and down, and then disappeared.  As quickly as those lights disappeared, another three - four lights appeared, moving in the same zig-zag spiraling up and down motion, then disappearing. Suddenly, there were about three more lights, repeating the same motion and movement. The objects made no sound.I quickly attempted to get another family member outside, but could only locate one person.  The family member saw nothing, but while he was standing there, another light flashed across the sky, but was much further away.  Family member did not see the one light, nor any of the other lights. Family member suggested a meteor shower, but the objects were shaped like planes(or birds), were bright yellow, did not flashe across the sky, and they were all the same shape and size. (I do not believe in UFOs, and before now, would have never thought of reporting to a site like this one. I have seen meteor showers before, and have never witnessed anything like this.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92532.html](http://www.nuforc.org/webreports/reports/092/S92532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hurricane (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>large triangle red lights seen by manytraveling thru hurricane at intersection,the stop light was green but no cars were moving traffic was fairly heavy.everyone started getting out of cars pointing ,t aking phoyos with cell phones.i looked up and there was a triangle shape with 3 dull od colored red lights.it hovered with no sound except for a slight wooshing ,very faint.the bottom erected a white beam for about 2 seconds then it completely dissapeared.it was above and a little behind a walgreens store at the main intersection((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92521.html](http://www.nuforc.org/webreports/reports/092/S92521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
