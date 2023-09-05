@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:43 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 75</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164841.html](http://www.nuforc.org/webreports/reports/164/S164841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mansfield (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two small flying steel spheresSubject: 2 small round UFO’s sighted  When:  near end of summer & start of fall 2007  Where:  Mansfield, Ohio  While sitting with my cat at N.W. corner of house, I looked up to notice a “swarm” of dragonflies all around a “ball” floating above that corner of the house. I moved slightly to block the sun’s glare with the gutter, and had a clear view from 8’ to 10’ away of what looked like a metal ball - solid, perfectly round & smooth and the size of a baseball. It started moving slowly to my left with the dragonflies moving with it. I tried to rationalize what I am seeing as a bubble or seed pod - but it was not a fuzzy outline - but a solid perfectly round ball. I looked around for anything else in the sky, but don’t see anything. Continuing to watch the object, a 2nd ball - identical to the first  (but with no dragonflies) moved slowly into view on the same track and height reducing the distance between the two until just above me - then it went straight up vertical from horizontal at a right angle increasing speed slightly (maybe x 2) as the first object continued on same track & height. I was astonished that I had seen something that shouldn’t be there. Since I had observed this for maybe a full minute and so close, I didn’t run to the front of the house to get another look as I had already seen it very clearly and didn’t really want to draw attention to myself.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60553.html](http://www.nuforc.org/webreports/reports/060/S60553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
