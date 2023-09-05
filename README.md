@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:53 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Cross' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright white cross with flashing blue/red lights moved slowly away at an acute angle of ascent in early morning hoursFriday morning the sun was just beginning to come up; there very few clouds and the sky was just beginning to turn blue. There were no other stars visible anymore so it caught my eye that there was a very large, very bright star off to the Southwest in the sky. Except when I looked closer at it, it was flickering incredibly fast between mostly white, but also blue and red. The lights flickered for the duration of the event. It then occurred to me that the shape was not regular for a star and rather than a dot, it was a long cross-like shape. At first it appeared stationary, but then I found a place to view it where I could set it against a stationary object in the foreground, and observed it was actually moving. It listed to the left, or right, sort of randomly and moved slightly downwards several times. Movement seemed random, just sort of listlessly floating around, and then it started rising up. As it rose, it became slightly more dim and moved up very, very slowly, appearing as if it were moving away from the earth at a very acute angle of ascent. We live near an airport, so I see and hear planes coming and going all the time, and this did not appear to be a plane. The flashing lights were reminiscent of a police siren, and it was far too far away and/or small to be a plane. I observed it with binoculars, but could see no increased details. Eventually, after twenty to thirty minutes of slowly moving away and up it became too faint to view and by then the sun was up enough that we lost sight of it. It continued moving in a Southwesterly direction for the duration of the event in an area of the sky that lies south of the airport I am near. Flatmate claimed to hear sounds, but I did not hear anything, and other aircrafts were regularly flying overhead, into and out of the airport to the east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113346.html](http://www.nuforc.org/webreports/reports/113/S113346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>Report of possible UFO sighting, diamond 0 shape, fast moving.Pilot called to report a diamond-shaped aircraft that passed directly above his home at exactly 7:33L.  He said that aircraft was moving northbound very fast, not a balloon, and had spinning metal panels.He made the report to the air traffic controllers at the Akron-Canton control tower.  The controllers did not observe anything pertaining to this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148682.html](http://www.nuforc.org/webreports/reports/148/S148682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
