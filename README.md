@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:52 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three ships high in orbit triangle formationunsure of the shape because they were to high in orbit, just wondering if there where any other reports , there were three ships flying in a traingle formation from where we are located we were looking towards the north at the big dipper when above the three ships appeared and moved in a south west formation then the lead ship took off then the other two went as well. I have seen many planes and satellites moving across the sky but this is the first time i have ever seen this encounter just curious if there was any more sighitngs . I live in sydney nova scotia and it was a really clear night last night</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65572.html](http://www.nuforc.org/webreports/reports/065/S65572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange ball of light over houseWe were outside watching an outdoor movie and swimming in the pool at 9:06 PM on September 5, 2020 we noticed a rather low, circular, fire ball, orange light hover over the house. We joked that it was a drone and somebody was watching us but then realized that it did not appear to have any LED lights or blinking lights. It was just one big round orange light. We have previously watched the space station go over our house multiple times  and occasionally other things in the night sky. This was definitely something out of the ordinary and very much unlike a plane or anything else we’ve ever seen. It then went around towards the front of the house where my husband and brother-in-law followed it and watched it suddenly speed up rapidly and then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159231.html](http://www.nuforc.org/webreports/reports/159/S159231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
