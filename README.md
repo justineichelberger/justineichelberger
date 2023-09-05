@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Painesville (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 48.0 - 48.0 minutes.</sub><blockquote><sub>flashing xmas tree in sky over Painesville, OHI was letting my dog out so she could pee, when i looked up in the sky and noticed what appeared to be a Christmas tree shaped object in the opening between two trees.  Confused, I got my binoculars out and zoomed in on the object which was turning on its axis and blinking red, blue, orange, white and yellow lights at the same time.  The it took the shape of a ball and the lights went around the edge of the ball.  I called dispatch to see if anyone had called about this, and no-one had.  They sent a patrolman to my house and to his surprise he saw the exact thng I have described.  So not only did I observe it for approx. 20 mins., so did an officer of the law. AND we were both totally sober.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148786.html](http://www.nuforc.org/webreports/reports/148/S148786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 75</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164841.html](http://www.nuforc.org/webreports/reports/164/S164841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
