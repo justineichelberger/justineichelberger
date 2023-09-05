@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:53 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:19 on 5 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>Report of possible UFO sighting, diamond 0 shape, fast moving.Pilot called to report a diamond-shaped aircraft that passed directly above his home at exactly 7:33L.  He said that aircraft was moving northbound very fast, not a balloon, and had spinning metal panels.He made the report to the air traffic controllers at the Akron-Canton control tower.  The controllers did not observe anything pertaining to this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148682.html](http://www.nuforc.org/webreports/reports/148/S148682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ludington (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>video over lk. mi.disc rotating with lights top and bottom. moving north to south over lk. mi. this lasted about five min. there was no sound and it moved very fast.it was about the size of a jet    liner. it banked when it turned,and also pitched when it climbed. i have it all on video.two aircraft turn away from the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39372.html](http://www.nuforc.org/webreports/reports/039/S39372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/164/S164510.html)
-- [377](http://www.nuforc.org/webreports/reports/164/S164584.html)
-- [376](http://www.nuforc.org/webreports/reports/164/S164509.html)
-- [375](http://www.nuforc.org/webreports/reports/164/S164531.html)
-- [374](http://www.nuforc.org/webreports/reports/164/S164923.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
