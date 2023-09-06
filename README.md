@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:38:28 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:52 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kingman (About 20 miles,NW of o the w of hyw 93) (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately app:4 mm - app:4 mm minutes.</sub><blockquote><sub>At first the size o a pee, comming from the north. It stoped about a maile away ( size )Now of basketball. Then it went to the East.Moved very slow comming at us , left in the snap of a finger. No tail, Bright flames, all around it,(like sun) only dark red. No sound..I can give you more detaled description if needed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09602.html](http://www.nuforc.org/webreports/reports/009/S09602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Peebles (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two object appox.500 to 1000 feet in the air ,moving at high rate of speed . no noise detected at all , from either witness. extremely , looked  like  fire  ball flying across the sky. WOULD LIKE  ANSWER IF  POSSIBLE !!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14015.html](http://www.nuforc.org/webreports/reports/014/S14015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
