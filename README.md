@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Yellowstone National Park (near west entrance) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 orb 4 photos with 2 cameras in the daylight moving.((NUFORC Note:  Objects are lens flares, caused by pointing a camera at a bright light source, in this case, the Sun.  PD))We were making a family trip to Yellowstone National Park this last weekend.  Not far into the park (a little after sunrise) from the west entrance is a popular place to find Elk and Buffalo.  This trip was no exception. We pulled over and like many other got out of our car and my wife took 3 photos of the meadow and sunrise and my daughter snapped 1 photo. At this time we did not notice anything..We continued on through the park and went to Old Faithful, geysers animals beautiful nature etc. Later that evening everyone was eager to share photos.  Since the 4 photos described above were the first 4 taken we immediately noticed an orb of some nature in all 4 photos.  Green and Opaque in appearance.  At that time we looked at the time of the photos and all 4 photos occurred within the same minute.My wife's 3 photos were taken from one position getting roughly the same scenic picture but the green sphere was seen moving away in a logical matter and the last photo taken close by with a different camera iPhone within that same time frame caught the sphere closer to the rising sun and showed a cool refraction of light around it.  When we got home I looked at the photos in their original size and noticed a few more things.  The light in photo 2 and 3 seemed also have some green that for some reason was vertical upward.Bottom line we saw nothing there and only realized what we had captured later in the photos.  But Cool..  I am happy to share the photos once I speak to someone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121803.html](http://www.nuforc.org/webreports/reports/121/S121803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In Columbus, Ohio we heard music and saw flashing lights that appeared to be coming from something flying through our neighborhood.Around 5:15 am on September 6, 2002, we awoke to hear the sound of something flying in the air close to the roof of our house. As the sound got nearer, there was a musical quality to it. We could also see lights flashing all around the interior of our bedroom. The lights appeared to be red, white, and yellow. The sound moved away after about 15 seconds, then after about 30-45 seconds, the sound and lights seemed to come back around. The music seemde more like the tones of a composition and not like someone's radio. We were wondering if anyone else saw or heard this and could provide more information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24877.html](http://www.nuforc.org/webreports/reports/024/S24877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
