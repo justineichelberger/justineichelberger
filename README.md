@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:58 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in McAllen (TX) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was outside my house, when I looked up and saw a blinking object in the sky, I thought it was a satellite of some kind, I continued monitoring the object, it amazed me on how it moved faster than a plane, but not as fast as a shooting star, there was instances where it would blink and and it seemed it was shooting projectiles of soft light, after it would do this, it seemed it duplicated its image to 3 side by side, than for some reason it stayed in one position as if it knew I was watching it, and than disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72119.html](http://www.nuforc.org/webreports/reports/072/S72119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North East (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sky glowing red, pulsing in 1 second intervals, continued about 5 minutes, suddenly stopped.Went out for a cigarette and saw a portion of the sky was glowing red.  I moved so I could see the sky more clearly and noticed all bugs had stopped making sounds.  I watched the glow for several minutes and noticed it was pulsing in 1 second intervals.  I pulled my phone out and tried to record it, but the moment I hit record, the glowing just stopped, and the sky went back to normal, and the bugs resumed making noise agin.  I didn't see any ships or objects, but I simply cannot explain what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148685.html](http://www.nuforc.org/webreports/reports/148/S148685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
