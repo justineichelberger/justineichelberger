@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:58 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:48 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in North East (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sky glowing red, pulsing in 1 second intervals, continued about 5 minutes, suddenly stopped.Went out for a cigarette and saw a portion of the sky was glowing red.  I moved so I could see the sky more clearly and noticed all bugs had stopped making sounds.  I watched the glow for several minutes and noticed it was pulsing in 1 second intervals.  I pulled my phone out and tried to record it, but the moment I hit record, the glowing just stopped, and the sky went back to normal, and the bugs resumed making noise agin.  I didn't see any ships or objects, but I simply cannot explain what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148685.html](http://www.nuforc.org/webreports/reports/148/S148685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vernon (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple circular orb shaped, large, yellowish and bright.  Seemed to come from the ground level straight up - disappearing when reaching a quarter into the sky.   Around 15 or so lights in a dot pattern.  Once a few disappeared more appeared from the ground level.  Deadly silent, no clouds, bright starry night, no light trail, smell or sound.  Lasted around 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136116.html](http://www.nuforc.org/webreports/reports/136/S136116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
