@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:48 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Adel (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Could hear a plane from the deck looked up and seen it chasing a amber light north in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143021.html](http://www.nuforc.org/webreports/reports/143/S143021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbia (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>9/6/05 05:30 AM Columbia, PA  30 second duration, disk-shaped craft with lights flying at low altitudeObserved by a 55-year-old nurse from my bathroom window.  It was very early morning, but still dark and I saw a disk shaped craft with rectangle-shaped white and yellow lights (I think they were the colors) going rather slowly from west to east at a very low altitude. I watched it fly away until it went out of sight. It was heading toward Lancaster, PA. By now, July is UFO month at my house as I've had sightings the past three Julys!!!  And one in September!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51339.html](http://www.nuforc.org/webreports/reports/051/S51339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
