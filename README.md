@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>In Columbus, Ohio we heard music and saw flashing lights that appeared to be coming from something flying through our neighborhood.Around 5:15 am on September 6, 2002, we awoke to hear the sound of something flying in the air close to the roof of our house. As the sound got nearer, there was a musical quality to it. We could also see lights flashing all around the interior of our bedroom. The lights appeared to be red, white, and yellow. The sound moved away after about 15 seconds, then after about 30-45 seconds, the sound and lights seemed to come back around. The music seemde more like the tones of a composition and not like someone's radio. We were wondering if anyone else saw or heard this and could provide more information.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24877.html](http://www.nuforc.org/webreports/reports/024/S24877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four lights climb and pace commercial  airline flight.Private Pilot ground observation.  Lake Mead Recreation Area  About 8-10 miles East of Hollywood Blvd on Lake Mead Blvd.  United Airlines/US Air 757,767, or Airbus, with Blue underside (body and engines), had departed McCarran IAP (3:15) Aprox. time 270 (west) making slow climbing 180 turn to 90 (east).I have been observing similar lights over the last two years in this area.  The lights have the ability to emulate small aircraft navigation/strobe lights (green/white and red).  When they are no longer visable from cockpit crews the lights return to their normal blury red/white strobe pattern.  I have never observed these lights mess with any commercial or conventional aircraft.The commercial flight is climbing out of Aprox. 17,500 AGL 90 degree heading East over Lake Mead and Est. airspeed at 275-325 knots.  The four lights are 1000-1500 feet apart two lead center with wing men trailing outside and Aprox. 500 AGL over Lake Mead.  The four lights have returned to red/white light pattern as the commercial flight passed overhead.  The Pilot/First officer probably requested a verification from Nellis AFB if they were painting any other aircraft in the area.  Whatever the communication, the four lights went from their position and elevation to the commercial flights elevation/airspeed/position in Aprox. 3-5 seconds and climbed out with them.  One lead light 500 meters off Captain's left window, second lead light 1000 meters off Co-pilots right window with the wing men lights 1000 meters from leaders and off commercial flights wing tips.  Whatever the circumstance it would be safe to say these two pilots probably needed to change their shorts.  This happened between 3:30-3:40 AM.   End of Report.((NUFORC Note:  Source of report provides little contact information.  We would like to speak with this party.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75050.html](http://www.nuforc.org/webreports/reports/075/S75050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
