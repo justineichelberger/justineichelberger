@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:44 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately currently - currently minutes.</sub><blockquote><sub>There are currently lights over the golf coast in Naples Florida.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113318.html](http://www.nuforc.org/webreports/reports/113/S113318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Chesterton (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>FIVE BIG  WHITE LIGHTES SEPERATED IN TRANGLE FORM TURNED END ZOOMED AWAYCHESTERTON IN 2004 EARLY SEPTEMBER I SEEN FIVE LIGHTS IN A TRIANGLE FORM OVER HIGHWAY 49 OVER A CORN FIELD; THE LIGHTS WHERE STANDING IN THE SKY.   THE SUN WAS SETING IN THE WEST THE UFO WAS IN THE EAST.  AFTER SEVERAL SECONDS IT TURNED TO THE SOUTH AND WENT UP VERY FAST IN TO THE SKY.  I DO BELIVE I KNOW WHY IT WAS THERE BUT I WILL NOT SAY.I WISH SOME ONE ELSE HAD SEEN IT AND I AM SURE THEY DID SOMEWHERE.((NUFORC Note:  Witness elects to remain somewhat anonymous; provides no contact information.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78965.html](http://www.nuforc.org/webreports/reports/078/S78965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
