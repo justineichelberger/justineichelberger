@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:55 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Broadlands (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red/Orange Ball with a spikeRed/Orange light apparently making circles over Dulles Greenway/Dulles Airport area. Occasionally it seemed as if a triangular (really sharp looking, not a comet tail type) was attached to it.  I saw several people while driving under the overpass stopped and watching it too. Here is the Google Map URL for the sighting location: https://maps.google.com/maps/api/staticmap?size=300x300&maptype=roadmap&sensor=false&markers=color:red%7C39.024724,-77.505736&client=google-maps-sharing&signature=NVgY6L8QpVLwj91okdZYPHHAQos=((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102021.html](http://www.nuforc.org/webreports/reports/102/S102021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Winslow (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>light chasing anotherI was walking down the road through a parking lot, heading to the store, when I looked up I saw what looked to be a white satellite light, but moving in an irregular pattern changing course.  Another light appeared with a bright flash behind the path of the first and started chasing it following the same wave pattern.  Then both disappeared with a flash, the first object slightly before the second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121721.html](http://www.nuforc.org/webreports/reports/121/S121721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
