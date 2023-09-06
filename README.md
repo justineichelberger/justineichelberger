@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:54 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Macomb (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Flaming spherical object flying below cloud cover from east to west in a slow steady horizontal motion.At 9pm on September 6, 2009 a friend and I spotted a spherical object in the sky, flying below cloud cover that appeared to be on fire.  We were facing south while watching the object move silently from east to west in a slow, steady, horizontal motion.  After about 45 seconds, the flames appeared to get dimmer and gradually go out.The object, if compared to a star in the night sky was about 10 times larger than the star.  We could clearly see flames; however we were not able to determine what the object was.  Fearful that it was an aircraft on fire, I called the local police department.   The officer called the FAA and the air traffic control towers in Peoria and Chicago.  All aircraft on their radars were accounted for.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72147.html](http://www.nuforc.org/webreports/reports/072/S72147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>i know what i seen....circle shape to my south east very high in the sky..... changed colors....could not believe what i was seeing...got binoculars for better look could only see changing colors..... i know what i saw ......did any one else?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113335.html](http://www.nuforc.org/webreports/reports/113/S113335.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
