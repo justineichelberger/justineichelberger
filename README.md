@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:48 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:03 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Vernon (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple circular orb shaped, large, yellowish and bright.  Seemed to come from the ground level straight up - disappearing when reaching a quarter into the sky.   Around 15 or so lights in a dot pattern.  Once a few disappeared more appeared from the ground level.  Deadly silent, no clouds, bright starry night, no light trail, smell or sound.  Lasted around 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136116.html](http://www.nuforc.org/webreports/reports/136/S136116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I wasn't going to fill out a report at all but I have had 2 sightings of 2 different objects in 3 days! I was outside working at about 1:30 pm and I looked up to watch a commercial jet liner passing overhead when I spotted a glowing "orb" (sphere?) behind and above the jet. The object was glowing quite brightly. It was hard to judge altitude on it. the object was traveling north/northeast and it was moving at least 10 times faster than the commercial airliner which was headed due north. I heard no sound from the object but the jet that was flying over probably would have drown out any sound from it anyway. The object left no contrail and I saw no other lights on it except for the glow from the object itself. It flew a straight and level course until I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39139.html](http://www.nuforc.org/webreports/reports/039/S39139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
