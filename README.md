@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that seems to disappear when I zoomed in on the object.. Sometimes disappearing though this time it looked as if it almost flashed (many times) followed by what you can tell some type or circle or something. Many different sightings on many different occasions in the same area. Often times there is more than one</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159230.html](http://www.nuforc.org/webreports/reports/159/S159230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright red orb hovering in the sky.I went out on my balcony to smoke a ciggarette and as i did, i glanced at the clear sky and looked around when i noticed a bright red orb that seemed about 300 feet in the air from where i was.  It flickered brightly for a few seconds then stoped then proceded to do the same onnce more.  It stayed hovering their until a cried out for my brother and sister to come and see it to make sure i was not hallucinating, after they came out and i pointed them to it it starded moving slowly thorse the tree line not pulsating, just moving slowly until it desapeared in the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121745.html](http://www.nuforc.org/webreports/reports/121/S121745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
