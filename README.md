@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:48 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Columbia (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>9/6/05 05:30 AM Columbia, PA  30 second duration, disk-shaped craft with lights flying at low altitudeObserved by a 55-year-old nurse from my bathroom window.  It was very early morning, but still dark and I saw a disk shaped craft with rectangle-shaped white and yellow lights (I think they were the colors) going rather slowly from west to east at a very low altitude. I watched it fly away until it went out of sight. It was heading toward Lancaster, PA. By now, July is UFO month at my house as I've had sightings the past three Julys!!!  And one in September!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51339.html](http://www.nuforc.org/webreports/reports/051/S51339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Macomb (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Flaming spherical object flying below cloud cover from east to west in a slow steady horizontal motion.At 9pm on September 6, 2009 a friend and I spotted a spherical object in the sky, flying below cloud cover that appeared to be on fire.  We were facing south while watching the object move silently from east to west in a slow, steady, horizontal motion.  After about 45 seconds, the flames appeared to get dimmer and gradually go out.The object, if compared to a star in the night sky was about 10 times larger than the star.  We could clearly see flames; however we were not able to determine what the object was.  Fearful that it was an aircraft on fire, I called the local police department.   The officer called the FAA and the air traffic control towers in Peoria and Chicago.  All aircraft on their radars were accounted for.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72147.html](http://www.nuforc.org/webreports/reports/072/S72147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
