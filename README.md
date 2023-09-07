@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:01:03 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Half Moon Bay (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>three very bright orb looking objects making those sounds very big very bright lights moving in circular directions above the ocean and proceed to disappear.  This is a usual occurrence around here</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129795.html](http://www.nuforc.org/webreports/reports/129/S129795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright pinhead flash that grew in size to basketball size and changed colors from white to gaseous green.I was outside UFO watching while talking on the phone to my friend in NY (the same friend I saw UFO with on 9/3/01) and looking up at the sky.  Alot of stars out, moon hadn't risen yet so was getting very dark.  While I was listening to her, all of a sudden at about 60 degrees up, I saw this bright white light.  At first I thought it was a plane that was close (because of the brilliance) but the white light kept growing to about the size of a baseball.  It grew some more but then turned bright gaseous looking green color and swelled up to the size of a basketball at arms length.  As I was looking and trying to comprehend what I was seeing, I had an awful feeling that I was watching an atom bomb explode or something, just seeing it grow like it did.  All at once, the green light died out and flickered a few times and I THINK I saw a tiny white light in it's place that all of a sudden looked like a star.  I was alone and freaked out so that was it for my UFO watching last night.  I have only seen something like this once before and that was when a rocket was sent up from nearby Wallops Island, VA that was conducting some kind of chemical test.  Barring Wallops Island having sent a rocket up last night, this was definitely something I have never seen before.  At least two other aircraft on normal local flight paths were seen right after this flare up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19465.html](http://www.nuforc.org/webreports/reports/019/S19465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
