@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:01:02 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Peidmont (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>moving in a quick v shape movement to return back to where I first saw it.I Was standing outside watching the stars and I saw a object with white & red lights moving from North to south moving in a straight line then it made a quick v shaped movement on its right side then moved back to where I first saw it.  It stayed there in place over an hour I couldn't make out the shape of it.  It was to far away but could see the red and white lights.About 4 weeks ago I also saw red and white lights hovering above the mountain close to what I saw last night.  It hovered about 15 minutes the slowly went down like it was landing on the other side.  I could make out the shape it looked to be disc shaped.This is the only two times that I saw something that I couldn't explain in the sky..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102032.html](http://www.nuforc.org/webreports/reports/102/S102032.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Essecville (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 star like objects in equalateral form floating slowly through the sky3 star like objects in equalateral form floating slowly through the sky((NUFORC Note:  We suspect possible satellites, but that is a guess.  Please see other reports from this date for reports of three satellites passing overhead in seemingly unwavering formation.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24901.html](http://www.nuforc.org/webreports/reports/024/S24901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
