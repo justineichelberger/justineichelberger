@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:48 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Trikala (Greece) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We where driving with my personal van from a night party. I have to note thate none of us had drinked any kind of alcohool since you are all anti-alcoholic of Greece members.The objects where just over my car and I decided to stop the van and stop to see what was going on. The objects where circling above us coming closer and even further far since they where disapeared in a burst of speed.This story was also recorded by my hand-cam and has been on the air by a local tv-station (The Trikala TV).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19739.html](http://www.nuforc.org/webreports/reports/019/S19739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Delafield (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Solid red, hovering lights in a pyramid shape south of Delafield, WI.While southbound on highway 83 from Delafield, WI, at approximately 8:50PM on Friday, September 7, 2012, both my wife and I saw a set of 10, solid red objects in the SSE, appearing in a triangular shape.   The lights were visible for about 2 seconds and then disappeared.  We saw no movement, flashing, or changing of shape or color.  The objects were seen in the sky over the Scuppernong creek valley, just east of highway 83.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92542.html](http://www.nuforc.org/webreports/reports/092/S92542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
