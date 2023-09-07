@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:56 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chevron shaped UFO San Marcos, CAUFO sighting 9/7/21 at 10:41 pm. Over San Marcos, CA area. Moving in a westerly direction northwest of where I was located. My girlfriend and I were out on our balcony just enjoying the night air and looking at the stars and planets like we do from time to time. I noticed one that appeared to be brighter than usual. I mistook it for the star Arcturus if I remember correctly and tried to “prove it” to my girlfriend using the Star Chart app on my phone. She interrupted and told me it was moving. I also noticed it moving. There were no flashing lights and it was moving way to slow to be a plane. There was no noise that we could hear like with the planes that come into our area. I snapped a quick pic and we ran outside into the street to try and get a better look as the UFO was moving behind our neighboring building. By the time we got down to the street we could not see it anymore. After looking at the pic there wasn’t much to see until I zoomed in on the point! of light and it revealed more than I’d seen before in  any other pictures of the night sky I have taken. Ive since taken pictures of planes in the area with landing lights on and they look nothing like this picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164684.html](http://www.nuforc.org/webreports/reports/164/S164684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chelsea (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>object emitting 3 plumes flying west to east at steady speed. Maybe 3 orbs medium grey.27 year old daughter saw what appeared to be 3 very close objects emitting short thick plumes behind them.  Pulled vehicle over so I could look but the object(s) were heading away to the east toward Detroit.  First impression was a asteroid, but when my daughter and her boyfriend put their binocs on them they thought they looked like 3 orbs.  Could not tell if they were joined or not.  Could distinctly see 3 plumes.  Military bomber perhaps?  Never saw plane like that before if it was.  It kept flying at altitude at a steady rate of speed.  Hopefully more people noticed it. Weather was clear and sunny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113322.html](http://www.nuforc.org/webreports/reports/113/S113322.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
