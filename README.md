@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:45 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:38:30 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saucer shaped object with orange lights.I can remember my UFO sighting as if it happened yesterday.  It was September 7, 1970. 11:10 p.m. I was about to start my senior year in high school.  We lived on a main highway just up from a very bad intersection where there were always accidents.  (Seven miles south of Pittsburgh, PA.)   At 11:10 p.m. that night I was leaving one upstairs room to go into the bathroom when I noticed a light somewhat flickering on the sheer draperies.  I assumed it was another accident and the lights of a tow truck.  I walked to the window to look down at the intersection and saw nothing.  I realized the light was coming from above. I saw a huge circular metal craft with lights on the bottom.  It silently was hovering over my side yard at a slight angle so that I could only see the bottom of it.  It was just above the poplar tree tops along the border of our property.  I got a very close up look at it.  The bottom was slightly convex and a matte colored dark metal.  There were what looked like semi opaque tempered glass panels on the bottom.  Similar to a bathroom window.  You can see light but glass is not transparent.  Those panels are where the amber lights emanated.  They were on constantly but yet had a slight pulsating flicker to them.  For some reason, although I don't know why, I thought it was due to the power source of the craft.  I saw it for approximately 15 seconds as it hovered silently.  Then, faster than I could blink my eyes, it took off at a 45 degree angle to the west.  I was so terrified and will never forget what I saw.  I am sending a drawing explaining what it looked like to the email listed on your website.  If you call me I can give you exact locations and any other info you might want.If it has any relevance I don't know, but I am was not very far from Bettis Atomic Power Laboratory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106897.html](http://www.nuforc.org/webreports/reports/106/S106897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Rio Rico (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 flashing bright orange fireballs appear over Rio Rico Az, 7 minutes later 8 sporadic flashing light appear over Amado Az.Over Rio Rico Az.  15 minutes of tremendous noise in the air, nothing to be seen then silence. Suddenly a sporadic display of 5 sequential flashing bright fire orange lights flash in sequence but not in order, sporadically in different areas but not far from each other. Silence for 2 minutes, noise starts up again such as that of a freight train for another 5 minutes, then silence once again. This time 8 sequential but sporadic flashing bright lights rather large in nature appear over approximately the Amado-Az./Tubac -Az. area. However the size of the orange flashing lights were quite bright and large, much larger than that of an aircraft with no trail left behind as one would see with a comet or shooting star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Date of incident is not indicated by the witness.  We have assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52384.html](http://www.nuforc.org/webreports/reports/052/S52384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
