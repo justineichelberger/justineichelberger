@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:25 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chelsea (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>object emitting 3 plumes flying west to east at steady speed. Maybe 3 orbs medium grey.27 year old daughter saw what appeared to be 3 very close objects emitting short thick plumes behind them.  Pulled vehicle over so I could look but the object(s) were heading away to the east toward Detroit.  First impression was a asteroid, but when my daughter and her boyfriend put their binocs on them they thought they looked like 3 orbs.  Could not tell if they were joined or not.  Could distinctly see 3 plumes.  Military bomber perhaps?  Never saw plane like that before if it was.  It kept flying at altitude at a steady rate of speed.  Hopefully more people noticed it. Weather was clear and sunny.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113322.html](http://www.nuforc.org/webreports/reports/113/S113322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ft. Riley (KS) reported seeing craft that fit the description of some 'Changing' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>flashing lights  green and white changed shapes on the photos I have its amazingIt changed shaped many times I have up close video and pictures it's amazing. i have no idea what it was.I don't mind being contacted.i have all the evidence on my android phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113347.html](http://www.nuforc.org/webreports/reports/113/S113347.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
