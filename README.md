@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:49 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fairborn (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black Triangle shape, 3 lights underneath and rear view of craft, one flashing light on forward flying front.  Heading SW.  Low flying, no sound, dipped below treeline horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129840.html](http://www.nuforc.org/webreports/reports/129/S129840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Willow (AK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several orange glowing balls in single line 1/4-1/2 mile apart.  West to East around Hatcher PassTraveling from West to East, 5 orange glowing balls in straight line formation about 1/4 to 1/2 mile apart comparable to helicopter formation and speed.  No sound.  Just below cloud level, maybe 1000-2000 ft. elevation.  Came from West of Susitna River, lost sight because of trees in sight line - traveling in direction of Hatcher Pass.  Watched for several minutes.  Other cars pulled over watching also.  Fighter (?) jet came through at 90 degrees to the front of the string a couple miles ahead of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92670.html](http://www.nuforc.org/webreports/reports/092/S92670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
