@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Levittown (NY) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>cylinder shape object in the skyi was heading over to my car parked near a school and i look to the sky and i saw what at first apeared to be just a bright light much like a star.i realised that it was very odd to be a star because it was so bright and so close to the horizen.when i focused on it i realised it was more of a cylinder shape that a orb.it was completely silent and still for about 30 seconds when it shot away at incredible speeds. at this point it moved across my plain of sight but was still visable. it then slowly fadeing away as if it was vanishing in thin air. it was one of the most amazing sight i have ever seen, me and my friend who witnessed were shaken for a good 30 min. afterwards.i tried to contact you via telephone but was unable to get through.((BEGIN CORRESPONDENCE WITH SOURCE OF REPORT))Dear Mr. ((name deleted)), Thank you for the report.  I suspect that you were witness to an overflight of the International Space Station.  The details of its overflights over Levittown, NY, can be seen below: 04 Sep -0.8 20:16:35 10 WNW 20:19:30 75 SW  20:21:25 19 SE05 Sep 1.3 20:40:10 10 W  20:42:31 22 SW  20:43:56 16 S07 Sep 1.5 19:51:18 10 W  19:53:40 22 SW  19:56:00 10 S  The link is here:http://www.heavens-above.com/passsummary.asp?lat=40.726&lng=-73.515&alt=27&loc=Levittown&TZ=EST&satid=25544&Date=38958.6666666667&Mag= I suspect that you were facing the southwest, as you watched the object, and that it passed from your right to left. Objects orbiting the Earth appear to "race off," and disappear over the course of a few seconds, when they fly into the Earth's shadow.  Thank you, again, for sharing the information with our Center! Cordially, Peter Davenport, DirectorNUFORC((END CORRESPONDENCE))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52382.html](http://www.nuforc.org/webreports/reports/052/S52382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>There's always different lights over the ocean here.  But tonight they formed two sets of triangles side by side wt the top of both lighting up really bright and lights coming off the top.  Usually theres a haze when they're out but tonight it's clear and they are out there for anybody to see!  Its creeping me out!  Concerned neighbor.((NUFORC Note:  We are uncertain as to whether the date is correct.  The source may have intended a date of November 7, but provides no contact information, so we are unable to contact the party.  We have received many reports from the Myrtle Beach and Surfside Beach areas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115192.html](http://www.nuforc.org/webreports/reports/115/S115192.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
