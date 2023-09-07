@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:07:01 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 540.0 - 540.0 minutes.</sub><blockquote><sub>During the night of September 7th, my coworkers and I were outside, we noticed a huge red circular light above mingus mountain.  at first we thought it was a planet but as the night went on we noticed movement and hovering then it would go out this continued through the night off and on.  Then we thought maybe it was a vehicles, but as our videos show this light leaves the ground and hovers and goes from side to side, up and down then gets very bright as if searching.the activity continued till 3am the next morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148721.html](http://www.nuforc.org/webreports/reports/148/S148721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5-6 balls of light floating above the Mechanicsville/Middlebrook area, spotted from Alcoa HwyThey moved so smoothly and with such perfect synchronization, almost as if on a puppet string. The light radiating from them was unlike that of a helicopter (our first suspicion).  It glowed like a ball of light, yet, you could still tell that it was an OBJECT.  You could also tell their position in the sky. THEY WERE NOT THAT FAR FROM US....maybe a mile away from us and a mere 500-700ft. from the ground. For these craft to be so close to the ground, they made no audible disturbances. (This would not be the case if they were government aircraft.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92582.html](http://www.nuforc.org/webreports/reports/092/S92582.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
