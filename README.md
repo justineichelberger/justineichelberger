@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:56 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hudsonville (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>3 diamond shaped metallic diamond shaped crafts high above hudsonville, Michigani was outside washing my car when i looked up and spotted 3 large diamond dhaped crafts hovering high in the sky above me. i looked up and couldn't believe my eyes. they were hovering above still as night, there were 3 of them all the exact same size and shape, the color was a metallic silver yet they seemed to have a bit of a glow to them. the 3 crafts hovered there for about 6-7 minutes then they flashed off and they were gone in a heartbeat.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52391.html](http://www.nuforc.org/webreports/reports/052/S52391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Chevron shaped UFO San Marcos, CAUFO sighting 9/7/21 at 10:41 pm. Over San Marcos, CA area. Moving in a westerly direction northwest of where I was located. My girlfriend and I were out on our balcony just enjoying the night air and looking at the stars and planets like we do from time to time. I noticed one that appeared to be brighter than usual. I mistook it for the star Arcturus if I remember correctly and tried to “prove it” to my girlfriend using the Star Chart app on my phone. She interrupted and told me it was moving. I also noticed it moving. There were no flashing lights and it was moving way to slow to be a plane. There was no noise that we could hear like with the planes that come into our area. I snapped a quick pic and we ran outside into the street to try and get a better look as the UFO was moving behind our neighboring building. By the time we got down to the street we could not see it anymore. After looking at the pic there wasn’t much to see until I zoomed in on the point! of light and it revealed more than I’d seen before in  any other pictures of the night sky I have taken. Ive since taken pictures of planes in the area with landing lights on and they look nothing like this picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164684.html](http://www.nuforc.org/webreports/reports/164/S164684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
