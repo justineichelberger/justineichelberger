@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:49 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:07:01 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Castleton (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was watching the northern lights when I saw three lights in a triangular patter heading due south. I abserved them straight above me for approximately 10 sec. Then they faded away. As I continued to search the sky I saw another three more lights in a triangular pattern on the same flight path as the first three. They also faded away in the same place.((NUFORC Note:  Suspected satellites.  Please see other report for this date from Washington State.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25071.html](http://www.nuforc.org/webreports/reports/025/S25071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cottonwood (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 540.0 - 540.0 minutes.</sub><blockquote><sub>During the night of September 7th, my coworkers and I were outside, we noticed a huge red circular light above mingus mountain.  at first we thought it was a planet but as the night went on we noticed movement and hovering then it would go out this continued through the night off and on.  Then we thought maybe it was a vehicles, but as our videos show this light leaves the ground and hovers and goes from side to side, up and down then gets very bright as if searching.the activity continued till 3am the next morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148721.html](http://www.nuforc.org/webreports/reports/148/S148721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
