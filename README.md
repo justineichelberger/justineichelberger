@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:38:30 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:48 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Rio Rico (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>5 flashing bright orange fireballs appear over Rio Rico Az, 7 minutes later 8 sporadic flashing light appear over Amado Az.Over Rio Rico Az.  15 minutes of tremendous noise in the air, nothing to be seen then silence. Suddenly a sporadic display of 5 sequential flashing bright fire orange lights flash in sequence but not in order, sporadically in different areas but not far from each other. Silence for 2 minutes, noise starts up again such as that of a freight train for another 5 minutes, then silence once again. This time 8 sequential but sporadic flashing bright lights rather large in nature appear over approximately the Amado-Az./Tubac -Az. area. However the size of the orange flashing lights were quite bright and large, much larger than that of an aircraft with no trail left behind as one would see with a comet or shooting star.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  Date of incident is not indicated by the witness.  We have assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52384.html](http://www.nuforc.org/webreports/reports/052/S52384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Trikala (Greece) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We where driving with my personal van from a night party. I have to note thate none of us had drinked any kind of alcohool since you are all anti-alcoholic of Greece members.The objects where just over my car and I decided to stop the van and stop to see what was going on. The objects where circling above us coming closer and even further far since they where disapeared in a burst of speed.This story was also recorded by my hand-cam and has been on the air by a local tv-station (The Trikala TV).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19739.html](http://www.nuforc.org/webreports/reports/019/S19739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
