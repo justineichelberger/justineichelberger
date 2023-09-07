@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:47 on 6 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:45 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dyersburg (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>Multi-colored Lights, NE sky, 60x TelescopeUsing a scope at 60x, two of us observed an object with red, blue, green, and white lights running very quickly in a circular pattern. The colors were very distinctly individual rather than blurred together. It was stationary except for one extremely fast maneuver eastward for what appeared to be about 500 yards. It probably moved much farther than that if you account for how far away it was. We couldn't even distinguish if it was in our atmosphere. Without the scope, it appeared to be as bright and visible as the most visible stars and of similar size. Due to the bright, flashing lights we couldn't distinguish any other details. We watched it for about 15 minutes and checked the internet for any NASA reports concerning anything they might have up but there were none. We also attempted to take photographs but the camera phone didn't have the capability for decent night photos/videos.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129733.html](http://www.nuforc.org/webreports/reports/129/S129733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Saucer shaped object with orange lights.I can remember my UFO sighting as if it happened yesterday.  It was September 7, 1970. 11:10 p.m. I was about to start my senior year in high school.  We lived on a main highway just up from a very bad intersection where there were always accidents.  (Seven miles south of Pittsburgh, PA.)   At 11:10 p.m. that night I was leaving one upstairs room to go into the bathroom when I noticed a light somewhat flickering on the sheer draperies.  I assumed it was another accident and the lights of a tow truck.  I walked to the window to look down at the intersection and saw nothing.  I realized the light was coming from above. I saw a huge circular metal craft with lights on the bottom.  It silently was hovering over my side yard at a slight angle so that I could only see the bottom of it.  It was just above the poplar tree tops along the border of our property.  I got a very close up look at it.  The bottom was slightly convex and a matte colored dark metal.  There were what looked like semi opaque tempered glass panels on the bottom.  Similar to a bathroom window.  You can see light but glass is not transparent.  Those panels are where the amber lights emanated.  They were on constantly but yet had a slight pulsating flicker to them.  For some reason, although I don't know why, I thought it was due to the power source of the craft.  I saw it for approximately 15 seconds as it hovered silently.  Then, faster than I could blink my eyes, it took off at a 45 degree angle to the west.  I was so terrified and will never forget what I saw.  I am sending a drawing explaining what it looked like to the email listed on your website.  If you call me I can give you exact locations and any other info you might want.If it has any relevance I don't know, but I am was not very far from Bettis Atomic Power Laboratory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106897.html](http://www.nuforc.org/webreports/reports/106/S106897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [359](http://www.nuforc.org/webreports/reports/165/S165176.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164537.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164556.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164521.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164557.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
