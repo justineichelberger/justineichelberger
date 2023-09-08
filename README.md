@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:45 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright lights in eastern sky.Very bright white lights, brighter and larger than any other lights or stars in the sky. Moving together in a row, one behind the other, in the eastern sky.  They were moving too fast to be a plane or satellite that I have seen.  Lights were not flashing, too close for commercial flights, too far away to be one aircraft.  No vapor trail and no noise.  Lights shot up at tremendous speed distorting the lights into red streaks and disappearing.   Red streaks were not like a meteors or shooting stars.  These lights also again, shot straight up and out, very fast after moving very fast across the sky.  The white light appeared to distort and stretch like warp drive on star trek when shooting up and out.  The red streaks appeared motionless for a second before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72175.html](http://www.nuforc.org/webreports/reports/072/S72175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Was observing Mars overhead when flashing light caught my eye from the northern sky.  They were extremely bright, flashing almost strobe like back and forth from blue oneastern sider of craft to red on western side.  About 5 smaller bright/white flashers in between.  No sound, appeared very large, but was dark so can't be sure.  As craft passed over head, going due south the rear end had two very bright white flashing strobe lights - pulsing about every 1/2 second.  My guess it was oblong, oval, sort of like Hans Solo's craft in 1st starwars ??? This went deliberately north to south, no sound whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46189.html](http://www.nuforc.org/webreports/reports/046/S46189.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
