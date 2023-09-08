@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:49 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and my friend were walking my dog, and I was standing on a generator.  We were looking up at the sky when a random Bright White light appeared out of nowhere, it traveled normal plane speed but was going down, then it sped up really fast, then it dispersed, but it looked like sparks came out of it, but the spark like objects all flew extremely fast in different directions. Then the main object that dispersed the "sparks" diappeared. We went inside and told my parents, but as I was going into the garage, I was looking straight up when something flew overhead at extremely fast speeds, leaving a streak of White light. Then we saw no more.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92557.html](http://www.nuforc.org/webreports/reports/092/S92557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Granby (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright stationary oval in western sky, changing from white to red to greenish blue, no noise at all, dogs barking in neighborhoodI was taking out the trash and I heard dogs barking like carzy, I looked over across to the neighbors back yard and there was a bright oval in the sky, it was changing color slowly from white to red to greenish blue, I sat there and watched in amazement for about 5 minutes, then it got really really dim, I waited a few seconds, it got at least twice as bright as it was and then it just dissapered. It sat quite a bit above the horrizon. It didnt make any noise at all, it just was gone. I have a solid background in aircraft knowledge and this is not like anything I have ever seen before. It didnt move at all throughout the whole incident, it stayed completely stationary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24944.html](http://www.nuforc.org/webreports/reports/024/S24944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
