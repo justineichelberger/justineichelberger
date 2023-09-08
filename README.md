@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Blinking red and green lights.My friend was sitting outside, and he told me to come look. I went outside and he pointed out a bright light that was blinking red and green in the sky.I figured it was just a plane or something and went back inside. After everyone went back to bed I went outside to look at it again, this time it was in a different spot. I watched it and it didnt seem to move at all it just blinked red and green still. I watched it closer, then it shot to the side about 2 inches, then went straight back, and started moving in a very small circle.  now every night its out there and lately I've seen 17 of the blinking lights and only 2 of them move.((NUFORC Note:  Date is approximate.  We suspect that twinkling stars would have to be ruled out, before we could conclude that the witnesses observed genuine UFO's.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31559.html](http://www.nuforc.org/webreports/reports/031/S31559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>light splits into two objects then rejoins.It was a clear night, no wind to slight breeze, no haze. I literally had just taken my binoculars out (8x30) to just look at the stars. About maybe half a minute after I started, a very bright, well defined "greenish-white" light passed through my field of view, moving quickly, but steadily....not like an aircraft. I presumed it was a low orbiting satellite, but as I watched, it split into two distinct lights, one red, the other green. As I kept looking, the lights merged back into the original  "greenish-white" light originally spotted. I also thought it might be a fighter jet just banking with respect to my line of sight, but I would have seen the green (starboard) light first, then green and red, then back to green. The first, original color was a very pale green...almost white, the "split color" a much deeper green, (alot like a navigation light). The object travelled from northeast to southwest, and was spotted about 45 degrees up from the horizon to where I lost it over the house. No sound was heard during or after the object passed, and I listened for about 60 seconds afterwards in the event it was a high altitude jet. No sound.About 10 minutes later, I heard what sounded alot like fighter aircraft flying high up. This sighting lasted about 10 seconds from when I caught it until I lost it. I even tried running around to the other side of the house to catch it again (judging from where I lost it) but to no avail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24928.html](http://www.nuforc.org/webreports/reports/024/S24928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
