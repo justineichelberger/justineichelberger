@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 7 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:22:30 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>There's always different lights over the ocean here.  But tonight they formed two sets of triangles side by side wt the top of both lighting up really bright and lights coming off the top.  Usually theres a haze when they're out but tonight it's clear and they are out there for anybody to see!  Its creeping me out!  Concerned neighbor.((NUFORC Note:  We are uncertain as to whether the date is correct.  The source may have intended a date of November 7, but provides no contact information, so we are unable to contact the party.  We have received many reports from the Myrtle Beach and Surfside Beach areas.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115192.html](http://www.nuforc.org/webreports/reports/115/S115192.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muskogee (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>What looked like a typical satellite flashed and disappeared.Looking west, I saw a non-flashing white light that I thought to be a satellite heading from north to south at a steady, typical pace for objects in orbit.  I watched this light for about 5 seconds before it became extremely bright and then disappeared.  I am confident that this was not a meteor/meteorite as I have seen them before on many occasions. This honestly looked like a regular satellite until it flashed - maybe twice the size and brightness of Venus on a winter morning - then was gone.  I have no idea what it was.((NUFORC Note:  Probable "flare" from "Iridium" satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113387.html](http://www.nuforc.org/webreports/reports/113/S113387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164684.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164597.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164900.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164898.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164566.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
