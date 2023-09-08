@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:30 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:39:02 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muskogee (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>What looked like a typical satellite flashed and disappeared.Looking west, I saw a non-flashing white light that I thought to be a satellite heading from north to south at a steady, typical pace for objects in orbit.  I watched this light for about 5 seconds before it became extremely bright and then disappeared.  I am confident that this was not a meteor/meteorite as I have seen them before on many occasions. This honestly looked like a regular satellite until it flashed - maybe twice the size and brightness of Venus on a winter morning - then was gone.  I have no idea what it was.((NUFORC Note:  Probable "flare" from "Iridium" satellite?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113387.html](http://www.nuforc.org/webreports/reports/113/S113387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Color Changing Light Over Sant Clarita ValleyMy mother and I were driving home on the freeway when I noticed a very bright green light that appeared to be floating about 1,000-1,500 feet above the wash next to the freeway.  The movement pattern of the light was akin to the way a balloon moves through the air, floating with mild changes in altitude.  The light then changed from green to bright violet blue at which point it became markedly brighter and appeared to grow in size by about 50 percent.  It then shrunk back to it’s normal size then changed colors again to red and then to white and back to green.  The whole time the light was moving away from us and we lost sight of it as we exited to freeway.   However as we turned of the main road down our street we saw the light which had changed back to violet blue over the trees.  As we went down the hill to our house we lost sight of the light and did not see it again even though we went back up to the main road to see if it could be seen from there.  My ! mother and I had both independently witnessed similar lights on separate occasions during the week or so proceeding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92627.html](http://www.nuforc.org/webreports/reports/092/S92627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
