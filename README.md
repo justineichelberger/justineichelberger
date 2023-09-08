@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:48 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>light splits into two objects then rejoins.It was a clear night, no wind to slight breeze, no haze. I literally had just taken my binoculars out (8x30) to just look at the stars. About maybe half a minute after I started, a very bright, well defined "greenish-white" light passed through my field of view, moving quickly, but steadily....not like an aircraft. I presumed it was a low orbiting satellite, but as I watched, it split into two distinct lights, one red, the other green. As I kept looking, the lights merged back into the original  "greenish-white" light originally spotted. I also thought it might be a fighter jet just banking with respect to my line of sight, but I would have seen the green (starboard) light first, then green and red, then back to green. The first, original color was a very pale green...almost white, the "split color" a much deeper green, (alot like a navigation light). The object travelled from northeast to southwest, and was spotted about 45 degrees up from the horizon to where I lost it over the house. No sound was heard during or after the object passed, and I listened for about 60 seconds afterwards in the event it was a high altitude jet. No sound.About 10 minutes later, I heard what sounded alot like fighter aircraft flying high up. This sighting lasted about 10 seconds from when I caught it until I lost it. I even tried running around to the other side of the house to catch it again (judging from where I lost it) but to no avail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24928.html](http://www.nuforc.org/webreports/reports/024/S24928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in French Village (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Looked like a metor storm.  3 falling objects about 15 minutes apart in the east/southeast sky.  They were bright, white streaks of light.  Two of which seemed larger than the Halebopp comet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09616.html](http://www.nuforc.org/webreports/reports/009/S09616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
