@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:52 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:06:50 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Probably a meteorAt about 9:10pm my wife and I were enjoying our hot tub.  As I'm always looking up for shooting stars and  satelittes I saw in the south sky a object like a shooting star but much bigger. It was traveling a southeasterly direction. I saw it first and pointed at it to my wife she had time to turn her head and see it. Normally there isn't time for this if it were a shooting star.  It was about the size of my thumbnail with my arm stretched out.  It was white with a dark center it looked to have a streaming tail like shooting stars. It appeared at the 3 o'clock position and disappeared at about the 8 o'clock position. There were no sounds heard.  The only thing that bothers me is the speed, it traveling as it was slower than the shooting stars I observe. I was just curious if anyone else saw this.  My guess would be a meteor glancing off our atmosphere because it was so big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46128.html](http://www.nuforc.org/webreports/reports/046/S46128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fall River (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately An hour - An hour minutes.</sub><blockquote><sub>Ball seen above college libraryA translucent ball was seen to hover over the Learning Recources Center of Bristol Community College for over an hour. It was seen by a number of students but when pointed out to a security man, he claimed not to be able to see it. The object was approximately 20 feet in diamater and seemed to float just above the top of an antenna on the building. After about an hour, it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14037.html](http://www.nuforc.org/webreports/reports/014/S14037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
