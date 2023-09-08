@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:39:02 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:25 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Santa Clarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Color Changing Light Over Sant Clarita ValleyMy mother and I were driving home on the freeway when I noticed a very bright green light that appeared to be floating about 1,000-1,500 feet above the wash next to the freeway.  The movement pattern of the light was akin to the way a balloon moves through the air, floating with mild changes in altitude.  The light then changed from green to bright violet blue at which point it became markedly brighter and appeared to grow in size by about 50 percent.  It then shrunk back to it’s normal size then changed colors again to red and then to white and back to green.  The whole time the light was moving away from us and we lost sight of it as we exited to freeway.   However as we turned of the main road down our street we saw the light which had changed back to violet blue over the trees.  As we went down the hill to our house we lost sight of the light and did not see it again even though we went back up to the main road to see if it could be seen from there.  My ! mother and I had both independently witnessed similar lights on separate occasions during the week or so proceeding this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92627.html](http://www.nuforc.org/webreports/reports/092/S92627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>AT LEAST 19 LIGHTS OVER BUCKEYE-GILABEND AREA , 3 NIGHTS IN A ROW FROM 8:30-9:30PMThe fisrt night on 09/08/04 there were a total of seven lights on the Estrella Moutains, they would light up and eventually disappear. One of them lite up the clouds so bright,that was the only time that they got that bright. It happened between 8:30 and would go till about 9:30. The jets from Luke Air force base flew out there so fast it was unbelievable then they flew back just the same,like something was wrong. The second night, they would light up in different spots and the jets would go out and come back again. around thesame time. The third night the lights came out slowly, and eventually seven lights formed in a perfect line. The two middle lights for a few minutes were diagonal in the middle of the formation. They did not get very bright. When looking through a telescope they looked like they were on fire and spinging in circles in one spot. At one point you could see smoke trails come from each light. Again the Luke, jets came out extremely  quick,maybe even more faster than before right over our house.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46468.html](http://www.nuforc.org/webreports/reports/046/S46468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
