@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Landover (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately One minute 30 sec - One minute 30 sec minutes.</sub><blockquote><sub>Three lights in a triangular pattern were seen hovering in Landover, MD.We were at a stoplight, we noticed 3 bright in the sky hovering above an apartment building.  The lights were in a triangle formation with the two side ones being brighter.  There color was white. We creeped forward to get a better view we could see a triangular shaped body.  Also we never heard any noise at all, and we were pretty close to it. It started accelerating away and as we turned our heads to follow it the craft disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77707.html](http://www.nuforc.org/webreports/reports/077/S77707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Volo (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw an orange fireball in the sky that looked like a sphere with two blades one on front and one in backI was out walking my dog it was about 11:23 pm, my dog got ahead of me in which case i started walking towards the street to see where she had gone when i noticed a bright orange light that looked like a fireball in the sky it made absolutely no noise and moved in a stuttering fashion across the sky it flew over my head couldnt tell how high it was in the sky but there was a plane in the distance and you could tell it wasnt as high up as the plane was.  It had no blinking lights it was a consistent orange ball when it got over my head i noticed a shape on it it was a circle in the middle and had what looked like a curved blade on each side of it one in the front and one in the back.  I never seen anything like this at all i called 911 and reported it dont know what it was but it wasnt a plane i can tell you that for sure. P.S I dont drink and i dont do drugs i know what i saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83797.html](http://www.nuforc.org/webreports/reports/083/S83797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
