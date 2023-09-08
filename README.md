@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Volo (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I saw an orange fireball in the sky that looked like a sphere with two blades one on front and one in backI was out walking my dog it was about 11:23 pm, my dog got ahead of me in which case i started walking towards the street to see where she had gone when i noticed a bright orange light that looked like a fireball in the sky it made absolutely no noise and moved in a stuttering fashion across the sky it flew over my head couldnt tell how high it was in the sky but there was a plane in the distance and you could tell it wasnt as high up as the plane was.  It had no blinking lights it was a consistent orange ball when it got over my head i noticed a shape on it it was a circle in the middle and had what looked like a curved blade on each side of it one in the front and one in the back.  I never seen anything like this at all i called 911 and reported it dont know what it was but it wasnt a plane i can tell you that for sure. P.S I dont drink and i dont do drugs i know what i saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83797.html](http://www.nuforc.org/webreports/reports/083/S83797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Probably a meteorAt about 9:10pm my wife and I were enjoying our hot tub.  As I'm always looking up for shooting stars and  satelittes I saw in the south sky a object like a shooting star but much bigger. It was traveling a southeasterly direction. I saw it first and pointed at it to my wife she had time to turn her head and see it. Normally there isn't time for this if it were a shooting star.  It was about the size of my thumbnail with my arm stretched out.  It was white with a dark center it looked to have a streaming tail like shooting stars. It appeared at the 3 o'clock position and disappeared at about the 8 o'clock position. There were no sounds heard.  The only thing that bothers me is the speed, it traveling as it was slower than the shooting stars I observe. I was just curious if anyone else saw this.  My guess would be a meteor glancing off our atmosphere because it was so big.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46128.html](http://www.nuforc.org/webreports/reports/046/S46128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
