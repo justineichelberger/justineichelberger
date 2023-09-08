@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carleton Place (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>at least 10 lights hovering in south western sky no soundLooking south west as I was walking my dog at 21:40 Sept. 8, at least 10 bright lights with reddish hue, in 2 rectangle formations hovered in the sky over the tops of the houses.  As I got to a location where I could see them better, they slowly disappeared.  They made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148744.html](http://www.nuforc.org/webreports/reports/148/S148744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Halifax (Canada) (NS) reported seeing craft that fit the description of some 'Formation' over a period of approximately hours - hours minutes.</sub><blockquote><sub>three bright red lights in a row hovering over the city of halifax on the night of September 7th and then again on the 8th.  Both between the hours of 9pm-11:30pm.  Still currently watching it now at 10:28pm Sept 8th.  Yesterday it was over one part of the city and this night it started a little farther to the left of where it was last night, but then slowly moved back and rotated a bit.  When I took photos and videos to nignt the image showed almost a beam or something coming from the object down on to the city</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159253.html](http://www.nuforc.org/webreports/reports/159/S159253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
