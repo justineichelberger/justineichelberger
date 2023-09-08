@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:06:50 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fall River (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately An hour - An hour minutes.</sub><blockquote><sub>Ball seen above college libraryA translucent ball was seen to hover over the Learning Recources Center of Bristol Community College for over an hour. It was seen by a number of students but when pointed out to a security man, he claimed not to be able to see it. The object was approximately 20 feet in diamater and seemed to float just above the top of an antenna on the building. After about an hour, it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14037.html](http://www.nuforc.org/webreports/reports/014/S14037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Erwin (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright white light falling extremely fast from atmosphere to the ground approximately in the area  of Four Iaks to Smithfield, NC.  No sound, spear of burning light with a tail, estimate object size 50 ft across with 80 ft tail</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129807.html](http://www.nuforc.org/webreports/reports/129/S129807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
