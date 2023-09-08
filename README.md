@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:25 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>AT LEAST 19 LIGHTS OVER BUCKEYE-GILABEND AREA , 3 NIGHTS IN A ROW FROM 8:30-9:30PMThe fisrt night on 09/08/04 there were a total of seven lights on the Estrella Moutains, they would light up and eventually disappear. One of them lite up the clouds so bright,that was the only time that they got that bright. It happened between 8:30 and would go till about 9:30. The jets from Luke Air force base flew out there so fast it was unbelievable then they flew back just the same,like something was wrong. The second night, they would light up in different spots and the jets would go out and come back again. around thesame time. The third night the lights came out slowly, and eventually seven lights formed in a perfect line. The two middle lights for a few minutes were diagonal in the middle of the formation. They did not get very bright. When looking through a telescope they looked like they were on fire and spinging in circles in one spot. At one point you could see smoke trails come from each light. Again the Luke, jets came out extremely  quick,maybe even more faster than before right over our house.((NUFORC Note:  Witness indicates that the date of the incident may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46468.html](http://www.nuforc.org/webreports/reports/046/S46468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wesley Chapel (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and my friend were walking my dog, and I was standing on a generator.  We were looking up at the sky when a random Bright White light appeared out of nowhere, it traveled normal plane speed but was going down, then it sped up really fast, then it dispersed, but it looked like sparks came out of it, but the spark like objects all flew extremely fast in different directions. Then the main object that dispersed the "sparks" diappeared. We went inside and told my parents, but as I was going into the garage, I was looking straight up when something flew overhead at extremely fast speeds, leaving a streak of White light. Then we saw no more.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92557.html](http://www.nuforc.org/webreports/reports/092/S92557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
