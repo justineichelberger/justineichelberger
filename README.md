@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lynnville (KY) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Rectangular object with rows of lights moving slowly and heading in opposite directions in a matter of seconds.I was visiting my aunt and uncle in Lynnville,Kentucky because of the hurricane. My boyfriend and I live in Houma,Louisiana. Everyone was evacuating.On or about September 8th or 9th of 2008, I left the little camper behind my aunt’s house. As I walked out, I just decided to look at the sky because it was so pretty with the stars shining.As I looked up, I saw a rectangular shape with a row of different colored lights on the bottom. It was headed in a northern direction.I went back inside to get my boyfriend to see what it was. It was no longer than 30 seconds. As I looked back up, it was headed in an eastern direction.I looked at him and said, "How is that possible?"  It was headed towards the north just 30 seconds ago.We continued to watch it. It had absolutely no sound. It was really high in the sky, and it was moving really slowly. To this day, I can not figure out what it was.I do not think it was man made. I have never seen an aircraft move like this one did. I don’t think it is possible for man made or military vehicles or aircrafts to move in the way that this object moved.((NUFORC Note:  Source indicates that date of event in September 2008 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71474.html](http://www.nuforc.org/webreports/reports/071/S71474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Troy (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witness 8 to 9 ball shape objests (fire) hovering in the sky then moves across and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92566.html](http://www.nuforc.org/webreports/reports/092/S92566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
