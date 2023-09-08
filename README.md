@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 8 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Blairsville (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ball bearing-like object, moved smoothly and controlled and accelerated out of sight very quickly.We were heading east in our vehicle.  We had the sun at our backs.  The weather was clear, the sky was clear with a few wispy clouds.  The part of sky in which we saw the object was clear.  My wife saw the reflection of it at first.  She asked me if I saw it and I slowed down. I saw it and looked for wings thinking it was the shiny reflection of a plane heading to or away from us (as I only saw the round shiny orb).  I could see the round orb shape clearly, but could not see the horizontal line that would be wings.  Then it made it's turn and if it had wings, I should have been able to see them.  I did not.  Neither did my wife. From our vantage point of moving east, the craft was at our 10 o'clock position when first noticed. Our movement was straight during the time we saw it.  The craft moved south to our 12 o'clock position then made a slow arc downward toward the ground (probably 10 degrees downward) then when approx. 10 degrees above it original altitude, moved away from us at our 2 o'clock position. Very fast when it moved away.  All motions were very smooth and controlled.  Regarding the direction of movement, the craft moved very smoothly, no erratic action.  It moved slowly at first.  Took approx. 60-70 seconds to move from its initial position to the point at which it started its curve downward.  It then accelerated through the curve and shot away from us at a very high speed.  Fast enough that we lost sight of it after a few seconds when it finished its arc - maybe five to ten seconds at most to get out of sight.  No apparent radio or electrical interference.  It was a silver sphere.  No wings or other markings.  As described, we were probably 3-4 miles away, according to the mountains it was over in the Blairsville GA region.  It was polished and looked like a ball bearing.  It was large enough that I would guess it to be as large in diameter as the length of a small plane would be at the same altitude and distance from us.  It was very polished and smooth in appearance. It's movements were very smooth.  Not like the erratic movements of balloons adrift.  Nor did it have the crinkly texture (mylar) or teardrop shape that balloons always seem to have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19473.html](http://www.nuforc.org/webreports/reports/019/S19473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Landover (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately One minute 30 sec - One minute 30 sec minutes.</sub><blockquote><sub>Three lights in a triangular pattern were seen hovering in Landover, MD.We were at a stoplight, we noticed 3 bright in the sky hovering above an apartment building.  The lights were in a triangle formation with the two side ones being brighter.  There color was white. We creeped forward to get a better view we could see a triangular shaped body.  Also we never heard any noise at all, and we were pretty close to it. It started accelerating away and as we turned our heads to follow it the craft disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77707.html](http://www.nuforc.org/webreports/reports/077/S77707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [370](http://www.nuforc.org/webreports/reports/165/S165229.html)
-- [369](http://www.nuforc.org/webreports/reports/164/S164568.html)
-- [368](http://www.nuforc.org/webreports/reports/164/S164575.html)
-- [367](http://www.nuforc.org/webreports/reports/164/S164620.html)
-- [366](http://www.nuforc.org/webreports/reports/164/S164558.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
