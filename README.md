@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>More orange lights over Myrtle BeachMy wife and I were sitting on our front porch, about five blocks from the beach. I noticed several yellowish or orange lights in the sky to the east, which would place them over the ocean. I drew my wife's attention to the lights just before they blinked out. She did get to see them, saying that there were four lights configured so that they appeared to be the headlights of a car.A similar sighting was reported to NUFORC on August 31, also in Myrtle Beach. The NUFORC note suggested they could be landing lights. As a resident of Myrtle Beach, I can state that these lights were the wrong color and were stationary, whereas aircraft landing lights are a brilliant white and slowly move toward the airport.Our sighting was several days after that other one, and yet the similarity is striking. As to our backgrounds: my wife works in law enforcement and I am a teacher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31405.html](http://www.nuforc.org/webreports/reports/031/S31405.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Markham (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Seven of us were sitting in a backyard socializing when someone made a comment of small lights moving in an un-natural motion. Some could see these lights and others could not.I looked intensely in the sky for 5 minutes before I noticed the 2 lights that resembled stars dancing in a sparing way to each other. These lights were closer than the stars, in fact they were in our atmosphere. Soon there were 3 lights moving crazily through the sky always in a localized area. After five minutes of searching the sky with a binocular I finally was able to zero in and the light revealed itself into the shape of a saucer.It moved similar to a wobiling spinning top. This continued for two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46166.html](http://www.nuforc.org/webreports/reports/046/S46166.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
