@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:59 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blue /red UFO over East Chula Vista -during power outagea craft w/ rows of blue & red lights swirling in circle,then diving, coming up swirling. no sound from this craft. This happened over east chula vista, dark at 9:30 pm we were out side as the power was out over the entire county to Yuma Az. A little strange as all air traffic was shut down due to power outage.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83808.html](http://www.nuforc.org/webreports/reports/083/S83808.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rochelle (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>on that night we were on a 4 vehicle convoy driving back from one of our sights back to fort hood, texas our base, on route 190 heading west.  we were doing approximatley 55 mph and convoy was spread out about 1/4 of a mile.  I was the last vehicle in the convoy and my supervisor was in the lead vehicle.  out of no where these lights appeared behid me; my assistant that was seated in the passenger side (front) turned around and said: " what the hell is that behind us, where did it come from ".  the military vehicle that we were driving was not equiped with a rear view mirror, so i used my side mirror to see what it was.  then i could see 4 lights right next to each other parrallel to the driving surface and moving in fast.  it slowed down about 3 to 4 car leghts behind me and followed me for about 5 seconds.  at this time my supervisor using the radio said:" is that a truck behid you?" and i said: " no its not there is no noise no sound just lights and its just following me." ; right about this time the lights changed direction and moved parrallel to me.  there was no dust, no dirt in the air indicating that this object went off road (if it has wheels).  it just kept flying parrallel to me. still no noise to sound coming off the object. in few seconds the object (lights) disappeared the way it appeared, out of no where to no where.  we stoped for a break, in the town of Rochelle, Tx and it was then that i found out that one more driver in our convoy saw this object behind me and moving next to me and disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19481.html](http://www.nuforc.org/webreports/reports/019/S19481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
