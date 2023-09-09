@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fountain (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 21:42 to 21:44 - 21:42 to 21:44 minutes.</sub><blockquote><sub>Bright craft, beam of  light in the shape of a J extending out in front of it.Seen from 9:42 p.m. to 9:44 p.m.  One bright light very similar to the space station and traveled about the same path.  This bright light had a beam of foggish light beaming from the North side of it in the shape of a J, and the light actually beamed out the side and in front of the craft.  The beam of light moved with the craft and never fell behind it as some type of exhaust would.  The sky was very dark and the craft was very visible.  As soon as the object disappeared some type of aircraft or satellite headed in the same direction just out of the same path following it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72198.html](http://www.nuforc.org/webreports/reports/072/S72198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Pepperell (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I heard an airplane and while looking for it, a small round silvery white object came into viewI live in a condo near route 113. Our front door faces southeast, and there's a roof overhanging the front steps. My wife and I had just gotten back from shopping and brought the groceries in. I had heard the droaning of an airplane engine and went back out on the front steps to see if parachutists might be jumping, which is a common occurance on Sundays at a small airstrip located about a mile northwest of our condo just off route 111. I put my head out from under the overhang to look for the plane, and pulled back quickly as the bright sun was right overhead. Just then, from above the overhang came a small round silvery object. My first thought was that it was a white bird, but quickly discounted that as the object moved straight and steady towards the east southeast at a pretty good clip. I watched it for three seconds and it disappeared. I don't believe it was reflecting the sun as the sun was almost straight above it. It was round, possibly shaped like a ball or a disk, silvery white in color, and about the size of a round 1/8" grape seed held between the tips of the first finger and the thumb at arms length, and it covered the distance of a 12 inch ruler held at arms length in three seconds. About two seconds later the airplane came into view moving in an east northeasterly direction. In comparison, the airplane was the size of a grape held at arms length and it moved the distance of the 12 inch ruler in about seven seconds. I've seen high flying jets from the same location in the past, but there's always a lot of noise involved, usually following the jet at a distance. There was no noise from the silvery object. I don't know whether the object was small and close or large and very high in the sky, but it's possible someone on the airplane spotted it as it passed in front of them. I hope someone got a better look at it than I did and reports it. I have a background in logistics and inventory control, and currently deal in used and rare books.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19461.html](http://www.nuforc.org/webreports/reports/019/S19461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
