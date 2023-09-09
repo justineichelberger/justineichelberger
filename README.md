@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>A strange picture i took at Wreck beach Canada...its at the mouth of the fraser river in B.C canadai developed the film to my pictures at the beach and to my amazement...i discovered this strange shape high up in the sky…((NUFORC Note:  We have reviewed the photograph forwarded to us, and we have viewed the multiple images of the object on the website indicated by the witness.  The photos are ambiguous, we feel, and the "object" could be a speck of fiber on the negative.  We are uncertain as to the nature of the object, but we see no convincing evidence that other, smaller objects are being ejected from the larger object.  The nature of the unidentified object remains unresolved, from our vantage point.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21053.html](http://www.nuforc.org/webreports/reports/021/S21053.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple, flashing white lights along south edge of Lincoln, NE.I was at home, going out to throw something in the outside garbage, can when I looked up at the stars (very clear sky to the south, although I think clouds were coming in from the west).  At first, I thought it was a group of military helicopters, as they seem to use a white strobe as their only marking at night (at least, I see these from time to time).  Looking at it, though, I noticed that there must be a huge cloud of helicopters, then... because there were a LOT of white flashpoints of light; spread over a really what looked like a huge area.  Also, it was perfectly quiet.  I went back in, and got my wife to come out too, so she brought our son and 1-year old daughter outside (I had to make sure that I wasn't the only one seeing this).  My wife and 4-year old son saw it too (my wife was pretty awestruck, like I was... my son was just freaked out).  It may have been one of the freakiest things I've seen. The whole thing, from when I saw it to when it was too far for us to see, probably lasted about 5-10 minutes (I wasn't really watching the time).  Whatever it was passed to the south of us... most likely just to the south edge of Lincoln.  It didn't change direction or anything like that. Thinking about it, it looked a lot more like flashbulbs in a dark stadium than strobes.  They were flashes of white light, but the certainly didn't strobe from the same place.  There was absolutely no discernible shape or pattern that we could see. I couldn't say that there was any opacity to it in any way.  With no noise, and no shape... not much of anything remarkable other than so many white flashes of light, and such a large area.  It was very strange to us. I checked with the local FAA control tower this morning, and they hadn't had any reports or picked up anything strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39215.html](http://www.nuforc.org/webreports/reports/039/S39215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
