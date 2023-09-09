@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:17 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Vineland (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Broad daylight, at the People's Bank.  metallic silver saucer.  Wide band around center w/ rows of lights flashing different colors, many small lights. Smoke color windows. Could see figures moving inside.  Approx. 15' up over Bank parking lot.  Stayed and moved little then shot off so fast it almost just dissappeared.  I was a young kid w/ my brother my dad(an ex Army Paratrooper Korea 11th. Airborne)my sister.  Many people working and banking at the bank and driving by.200 calls to report to police.  We were told it was a blimp.We went to the bank my dad sister brother and myself. I was young.  The date could be a year or more off due to this fact.  Size could also be affected due to my age.  As we waited at the drive thru tellers window there was a car in front of us in line, It just sort of came over us and just was there sitting there over us in the sky about 15'-20' above the lot.  It was a silver saucer shaped and I would guess (NOW) about 10' - 15' in diameter.  I remember the lights around the center band.  My brother remembers the way it was crafted of metal (he said kind of riveted together in sheets.  My sister I don't even remember her being with us.  My dad (He passed away in Aug. 1977 when I was 14 years old.) told my mom when we got home a few minutes later (all excited) what we had seen and reported it to the police,that he had seen shapes of figures moving around inside.  The people in the lot outside ,we all got out of our cars.  People inside of the bank came outside or were climbing further up into the tellers window to get a better view.  This thing was silent but seemed to have a kind of a feeling to it that you just were made aware that it was there. Is this a vibration?  I don't know what you would explain this as.  It stayed there over top of us then moved lightly to either side then just went away so fast that you just really didn't see it leave although you never took your eyes off of it except maybe to see how the other people around you were reacting to this event that was taking place.  I hope someone else has discussed this event so I can get an adults point of view on it.  After that day we (my family) never talked about it again.  This fact bothers me to this day (i'm 36 years old now) almost as much as the sighting itself.  There was an article published in the Vineland Times Journal (now the Daily Journal)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12742.html](http://www.nuforc.org/webreports/reports/012/S12742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Lake Oswego (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man sees  w/ binocs. motionless, white obj.. Suddenly disappears then reappears in other part of sky.  Red, metallic in appearance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00794.html](http://www.nuforc.org/webreports/reports/000/S00794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
