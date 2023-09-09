@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:22:06 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:35:46 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Montreal (Canada) (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>looking at the stars, and at that veru moment, what looked like 4 stars, they were moving, what seemed to be at speed of light...i watch aircrafts fly and i have never seen anything like it...this is my first sighting..and i know what i saw..totally amazing!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46131.html](http://www.nuforc.org/webreports/reports/046/S46131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>White light streak in the sky traveling East to West at a very very fast speed with no soundI saw something that was unusual last night (September 9th) around 9 pm traveling East to West in the sky.  I was looking toward the South when I saw it.  It was a very very bright white light - in fact I thought at first it was a meteor, but then I realized it was going at a slight incline.  It appeared for a moment as a bright streak then went completely out, then on the same trajectory appeared again a little further toward the West and went out again. I had called to my husband when I saw the first streak as he was on the porch and he ran out in the yard and saw it when it reappeared for the third time and then went out.  We searched the sky to the West and it never reappeared that we could see.  It was traveling much much faster than an airplane (even a fighter jet) and there was no noise.  It was many times brighter than a plane or the space station.  As I said, it resembled a comet or meteor.  This all happened in a moment in time - very very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24981.html](http://www.nuforc.org/webreports/reports/024/S24981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
