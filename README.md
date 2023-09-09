@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Holland (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>At first glance I thought it was a shooting star but it caught my eye and moved in a straight line and seemingly not with the curvature of the Earth.  It was unlikely that it was a plane because of the way it disappeared and there was not a cloud in the sky.  The sky was clear.  Although I'm willing to admit that it could have been my eyes playing tricks on me, I've observed many a shooting star and it was very uncharacteristic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24949.html](http://www.nuforc.org/webreports/reports/024/S24949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Springfield (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3:00 - 3:00 minutes.</sub><blockquote><sub>White,horizontal,flat disks with blue,green,red spheres racing around it.  Nightly these course with the stars. Eastern SkyWhite,horizontal,flat disks with blue,green,red spheres racing around it.  Nightly in the east appear bright stars that course accross the sky with the other stars. They rise over the horizon just like the stars around them. They are BRIGHT. Viewed through binoculars. The disk changes it's attitude and turns upside down. They move slightly up and down and wobble from side to side as if they are trying to maintain their position in the sky with the stars. Two other wittnesses confirmed the sightings with me. At first I thought the first one that I saw was one of the planets until I saw it move and change it's attitude. And then I thought it still might be the planet Venus until I saw five others like it course the sky behind the last one. They will be out there again tonight I know it. Anyone else that sees this or knows what it is please email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19636.html](http://www.nuforc.org/webreports/reports/019/S19636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
