@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:54 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Andrews (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large gray sphere sphere slowly landing.While driving on highway 521, while approaching Andrews, SC, I saw a strange looking object hovering a few hundred yards above the tree line.  I could only see it through breaks in the trees as I drove by, but it did not seem to move very much in about 5 minutes time, except slowly down.It was out the driver's side window, and it was initially tilted at a 45 degree angle, pointing up in the direction I was traveling.  The object was pointing parallel with me, more or less.It was grey in color, and it appeared to be a matte sphere with some rigid supports attached in a pyramid shape.  They seemed to be metal tubes.  The object appeared to be about 30 feet long total, with the sphere at what looked to be the size of a water tower tank.  It was hovering in the air and did not appear to be tethered in any way.  Eventually it descended down below the tree line and appeared to be landing very slowly. The craft rotated counter-clockwise and the supports then seemed to resemble landing struts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129893.html](http://www.nuforc.org/webreports/reports/129/S129893.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Brighton (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Glittery random lights near each other, really strange stuffI was at work and I've been getting into astronomy lately, so, on a break, I walked outside with my binoculars to search for the dumbell nebula. As I was looking through my binoculars I saw a bunch of separate individual lights that glittered and kept shifting around. All the while I kept trying to debunk it. I thought it might've been a cell tower but it was too high. I just stood there watching the shifting and glittering lights. They would blink off and be in another spot entirely, but in the same vicininty as each other. Wild. I'm not sure what I saw. But, it was definately NOT a reflection of something because the lights where bright in their glitter, sharp and distinct. I do not go out of my way to look for these things. This suprised me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77742.html](http://www.nuforc.org/webreports/reports/077/S77742.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
