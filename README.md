@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Solid white lights over Hicksville NYI live in a high aircraft area (JFK,LAG,Newark airports surround me)At 20:10 hours My Girlfriend & I witnessed Two solid white lights traveling west to east over Hicksville NY. In the area were Airplanes with the usual flashing beacon lights on them most were flying in a southwest to northeast direction, when these two solid white lights appeared following eachother below the cloud cover. At first I thought they may have been satellites but they were below the cloud cover & even below where the other aircrafts were flying. They were round soild white lights. Im sure the aircraft in the area had to see them! As they went out of view in the eastern sky they stayed bright, & I'd say they were traveling at about the same speed as other aircraft in the area. I spent 4 years in the Air force & know the difference between Airplanes & UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72195.html](http://www.nuforc.org/webreports/reports/072/S72195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>A strange picture i took at Wreck beach Canada...its at the mouth of the fraser river in B.C canadai developed the film to my pictures at the beach and to my amazement...i discovered this strange shape high up in the sky…((NUFORC Note:  We have reviewed the photograph forwarded to us, and we have viewed the multiple images of the object on the website indicated by the witness.  The photos are ambiguous, we feel, and the "object" could be a speck of fiber on the negative.  We are uncertain as to the nature of the object, but we see no convincing evidence that other, smaller objects are being ejected from the larger object.  The nature of the unidentified object remains unresolved, from our vantage point.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21053.html](http://www.nuforc.org/webreports/reports/021/S21053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
