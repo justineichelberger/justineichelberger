@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Markham (Canada) (ON) reported seeing craft that fit the description of some 'Disk' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Seven of us were sitting in a backyard socializing when someone made a comment of small lights moving in an un-natural motion. Some could see these lights and others could not.I looked intensely in the sky for 5 minutes before I noticed the 2 lights that resembled stars dancing in a sparing way to each other. These lights were closer than the stars, in fact they were in our atmosphere. Soon there were 3 lights moving crazily through the sky always in a localized area. After five minutes of searching the sky with a binocular I finally was able to zero in and the light revealed itself into the shape of a saucer.It moved similar to a wobiling spinning top. This continued for two hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46166.html](http://www.nuforc.org/webreports/reports/046/S46166.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in California (entire west coast) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately hours - hours minutes.</sub><blockquote><sub>lots of "them "are already here,I saw so.       none below apply,was very clear shape,orange/red,in spacehi, thought you should add this huge red/orange ship to your records,if not there now.one nite girlfreind called me, went to her, she was looking up. I couldn't beleive it! above us in space a cigar shaped ship. to give idea of size, do this; streach up your arm,then open your thumb and finger 1 inch.thats how long it was. it was huge,mabey 1 mile long.scary what that means,lots of "them" here.the ship moved so slowly up coast that was visible for long time.next day paper said;unknown object moved up coast.so I can prove it.many saw it.please forgive, dates aprox. but, I could probably still find article in library if had time.  sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41268.html](http://www.nuforc.org/webreports/reports/041/S41268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
