@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 9 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in California (entire west coast) (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately hours - hours minutes.</sub><blockquote><sub>lots of "them "are already here,I saw so.       none below apply,was very clear shape,orange/red,in spacehi, thought you should add this huge red/orange ship to your records,if not there now.one nite girlfreind called me, went to her, she was looking up. I couldn't beleive it! above us in space a cigar shaped ship. to give idea of size, do this; streach up your arm,then open your thumb and finger 1 inch.thats how long it was. it was huge,mabey 1 mile long.scary what that means,lots of "them" here.the ship moved so slowly up coast that was visible for long time.next day paper said;unknown object moved up coast.so I can prove it.many saw it.please forgive, dates aprox. but, I could probably still find article in library if had time.  sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41268.html](http://www.nuforc.org/webreports/reports/041/S41268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Solid white lights over Hicksville NYI live in a high aircraft area (JFK,LAG,Newark airports surround me)At 20:10 hours My Girlfriend & I witnessed Two solid white lights traveling west to east over Hicksville NY. In the area were Airplanes with the usual flashing beacon lights on them most were flying in a southwest to northeast direction, when these two solid white lights appeared following eachother below the cloud cover. At first I thought they may have been satellites but they were below the cloud cover & even below where the other aircrafts were flying. They were round soild white lights. Im sure the aircraft in the area had to see them! As they went out of view in the eastern sky they stayed bright, & I'd say they were traveling at about the same speed as other aircraft in the area. I spent 4 years in the Air force & know the difference between Airplanes & UFO's.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72195.html](http://www.nuforc.org/webreports/reports/072/S72195.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [363](http://www.nuforc.org/webreports/reports/164/S164571.html)
-- [362](http://www.nuforc.org/webreports/reports/164/S164563.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164569.html)
-- [360](http://www.nuforc.org/webreports/reports/159/S159312.html)
-- [359](http://www.nuforc.org/webreports/reports/159/S159309.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
