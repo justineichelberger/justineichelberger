@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:41:16 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:51 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Glenfield (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>A bright light almost a peach color, faded completely then reappeared again after several minutesWe were all sitting on the deck of a friends home in upstate NY, when we noticed over the trees at about possibly thousands of feet in the air that there was a very bright glowing object.  We knew it wasn't Mars because the Moon and Mars was on the opposite side.  We continued to watch for about 30 or so seconds when it just totally faded out.  We wasn't sure what it was so we waited to see if it reappeared which it did several times in different spots and faded out.  The last time we saw it there were 2 objects but away from each other, when all of a sudden the one joined the other them apart again and one faded then the other.Could this have been flares or something else?  Thanks for your answer PS  We live near Ft. Drum in Watertown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31375.html](http://www.nuforc.org/webreports/reports/031/S31375.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>large triangular object that was seen over our homeWe actually observed several incidents between July and mid-September, but this was different from the rest in that it was an enormous triangle shaped object that we estimated to be 300 ft. up over the top of our house. It was not noticeable at first, and what made us notice it was that along the edges of it were lights that at first glance looked like stars but had a pattern to them [triangular]. It made absolutely no noise, and was moving very slowly. We watched for about 20 minutes, but then got freaked out and went inside.This is in the same time frame of other incidents that were seen by ourselves and another friend, when we saw objects in the sky that changed direction extremely fast and had blue and amber lights.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48927.html](http://www.nuforc.org/webreports/reports/048/S48927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
