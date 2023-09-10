@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:48 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I see possibly two of the same craft that landed on Maxwell Avenue8:30PM CST Me and my father are returning home via highway 41 after church band practice and we see two white/light blue lights side by side hovering in the air and slowly moving to the north.  As we are going down 41 I say, “Look at that plane.”  At this point I was thinking it was a plane but I’m still unsure about it because of how bright the lights were.  At this same time I spot the craft I see a plane with landing lights on and navigation lights on coming in for a landing at EVV airport.  My dad replies, “That’s a UFO.”  Then I reply back saying, “Well... how would you know?”  He then replies jokingly, “Because that’s my mothership.” and we both laugh.  As I look at the craft again it is now slowly moving south (I couldn’t tell because the craft had now moved above the down town section of Evansville.  This craft either moved incredibly fast or there were two of these craft.Still to this day I question if my father has had experiences that he just doesn’t wish to share. I remember one morning my dad said to me that I was “genetically modified”.  Was he just joking?  Or does he know about the connection that our bloodline possess?  Someday I will question him about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159319.html](http://www.nuforc.org/webreports/reports/159/S159319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mannering Park (NSW, Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately weird - weird minutes.</sub><blockquote><sub>we were coming home from a party when we saw a strange shape in the sky. It was dark and we couldn't make it out properly, but then suddenly a light shone out from the ship it was shaped like a disk but with a bump on a top.We ran away.it landed in the middle of the lake Maquaire, near the sailing club.t quickly seemed to fill up with water then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04774.html](http://www.nuforc.org/webreports/reports/004/S04774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
