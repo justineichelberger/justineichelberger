@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:07 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mannering Park (NSW, Australia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately weird - weird minutes.</sub><blockquote><sub>we were coming home from a party when we saw a strange shape in the sky. It was dark and we couldn't make it out properly, but then suddenly a light shone out from the ship it was shaped like a disk but with a bump on a top.We ran away.it landed in the middle of the lake Maquaire, near the sailing club.t quickly seemed to fill up with water then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04774.html](http://www.nuforc.org/webreports/reports/004/S04774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Corning (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately over the last week - over the last week minutes.</sub><blockquote><sub>UFOs seen above Corning, Arkansas.4-8 star looking crafts have appeared and are blinking rapidly different colors from green to red to blue in different heights staying in formations am i the only one seeing this?  Also slow moving objects that glow like shooting stars seen also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129858.html](http://www.nuforc.org/webreports/reports/129/S129858.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
