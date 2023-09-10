@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:07 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:55 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Corning (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately over the last week - over the last week minutes.</sub><blockquote><sub>UFOs seen above Corning, Arkansas.4-8 star looking crafts have appeared and are blinking rapidly different colors from green to red to blue in different heights staying in formations am i the only one seeing this?  Also slow moving objects that glow like shooting stars seen also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129858.html](http://www.nuforc.org/webreports/reports/129/S129858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lebanon (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two dimly lit spherical objects, moving at a fast speed, observed in Lebanon, PA.I live in a third floor apartment, with a door the leads to the roof of the building. Tonight, I went out around 22:15 to smoke.  I noticed a plane in the very clear night sky. In my peripheral vision, I saw movement that I thought, initially, to be a shooting star. I looked in the direction of that movement, and saw nothing at first, until I notice movement again.  I kept looking at the area, and saw something moving in my direction.  As it got closer, I was able to, very clearly, see two dimly lit spheres moving at a very fast speed.  The spheres were flying very close to each other, roughly 50 feet next to each other, possibly closer.  The light coming from them was dark yellow to orange in color. I continued to follow the objects across the sky moving towards the aforementioned plane, which was now almost directly above me, but on a higher level in the sky than the spheres. I watched the spheres pass underneath the plane, a distance of about 2,000 to 3,000 fe! et, and zip over my house and out of sight. There was no sound associated with these objects, even at the speed they were moving. The spheres themselves were about 300 to 500 feet above me. The entire event lasted roughly 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92650.html](http://www.nuforc.org/webreports/reports/092/S92650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
