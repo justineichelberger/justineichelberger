@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:51 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Williamsville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>On Sept 10th 2:30 p.m in Williamsville NY.  In clear skys my daughter captured an amazing photo of a UFOOn Sept 10th at 2:30 p.m. on a sunny, clear skied afternoon with very little cloud cover my daughter was sitting on the couch looking up through the skylight when she first noticed the object from far way.  She had asked her little Brother “What is that”?  As she pointed toward the object that was far away, small but approaching her Brother was too busy playing to look at the object. In a matter of seconds the object got bigger and bigger as it got closer and as it directly passed above her view in the skylight it was very large and she realized this was nothing she had ever seen before. She started yelling upstairs to my wife “What is that”?  My Wife thought the “thing” my daughter was franticly referring to was a bug and didn’t think too much of it and called from upstairs “no”. Knowing this was something out of the ordinary my Daughter then grabbed the camera off the kitchen counter ran to the front bay window and snapped a picture of the Unidentified Flying! Object.  She than became a little frightened and ran to get my Wife. She didn’t see where or how the object had left the area but when she returned a few minutes later the object was gone. My wife then looked at the picture and was amazed at what my Daughter’s picture had captured in the sky. We have included the picture she had taken from our window and we are working on sketches that we hope will show scale to help figure out the altitude, distance and size of the item. Any help you can offer in ways of an explanation would be greatly appreciated. Although we feel the picture speaks for itself!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83862.html](http://www.nuforc.org/webreports/reports/083/S83862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lancaster (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>To the South East of Lancaster, CA, flashing lights of red, blue, green, yellow, and white, are visible with the naked eye.  Looking through binoculars it appears thet each color is an individual light in a Crescent shape with a bigger white light to the inside of the Crescent shape.  Lights have been in the same spot for over 1 hour.((NUFORC Note:  Possible sightings of "twinkling" stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137701.html](http://www.nuforc.org/webreports/reports/137/S137701.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
