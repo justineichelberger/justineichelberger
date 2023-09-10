@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>Two objects hovering in Alexandria VirginiaTwo rectangles suspended in the air for about one minute, the color like white plastic, shinny and white light around the edge,  the two objects began to move slowly at the same time, then one disappeared completely and the other was delayed a minute longer in disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92900.html](http://www.nuforc.org/webreports/reports/092/S92900.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Roswell (NM) reported seeing craft that fit the description of some '' over a period of approximately ?? - ?? minutes.</sub><blockquote><sub>In Sept of this year my wife and I took a road trip back to Illinois to visit our daughter we decided to go through Roswell NM as we had heard much about the 1947 incident and thought it would be interesting to visit .  We spent a couple hours there and on the way out of town I stuck my camcorder out the window towards the sky and jokingly remarked that I would have to view these tapes when we got home to look for "ufo's".  Since I was driving I could not see what I was taping but when I got home the picture in the clouds was remarkable.  It was not a  space ship of any kind but it was a very intersting and quite clear image of what appeared to be the face of an "ebe". If you would like me to forward you a copy I would b e happy to.  I am not looking to sell anything here and would be happy to pass it along .  I am a skeptic when it comes to ufos but this image is rather remarkable considering where we where when I got the picture.  ((name and e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14561.html](http://www.nuforc.org/webreports/reports/014/S14561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
