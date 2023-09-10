@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Merriam (KS) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>UFO over Kansas City...What is it??I was walking my dog, a very clear night(you could see the stars(everywhere in the sky)).  My dog was sniffing at the sky, so I looked up.  I saw a silver egg-like (UFO) that was about 100 feet in the air and was silent.  It was flying in a south-west direction.  There were no lights, but it reflected light, signs, and even a light from a radio tower it went bye.  It looked almost exactly like the Bedhampton UFO that was video taped.  It looked like the UFO from Flight of the Navagator, but without the lines.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21462.html](http://www.nuforc.org/webreports/reports/021/S21462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Imperial Beach (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately All night - All night minutes.</sub><blockquote><sub>Flashing/bright star.It is as though it seems it would be a star, but i have never seen a star like this in my life.  It grows brighter, while almost as if it is flashing, then it turns into a dimmer flash, and then grows brighter and flashes more intensively. I dont know if it is a weather balloon or or a satellite.  I cannot find anything on the web about this light/star that burns/flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113422.html](http://www.nuforc.org/webreports/reports/113/S113422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
