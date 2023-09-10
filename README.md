@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A series of objects, approx. 30-50, flying in a straight line, singularly and some by 2s, and triangular and diamond formations.Around 9-10 pm on the night of 09/10/2014, my son and I were driving to my house.  As we drove on the street before turning into my subdivision, we saw a line of lights, all the same size, to our left-hand side up in the sky.  They “sparkled” like a star appearing to change colors somewhat…my son described it as looking like a “burning ember”, basically white, but they would flicker, sometimes reddish, sometimes orangish…maybe from the gases in the air that make stars sparkle?  There were no lights on the object that could be likened to a plane.The line was traveling from a southwesterly to northeasterly direction.A direction if maintained could lead directly to St. Louis International  Airport. They were traveling in a single file, straight line horizontally across the sky with approximately the same amount of distance between them.We kept watching them as we turned into my subdivision, and they just kept coming…at least 20 had passed by in a straight line fashion either singularly or in formations of 2, 3 or 4 before we pulled over to video tape what we were seeing.So, we made a right turn into the parking lot of our subdivision swimming pool to pull over to watch them and take a video with my cell phone.They just kept coming and coming, some singularly, some side by side, some in a triangular formation and some in a diamond pattern.  There was virtually no sound.  They seemed to be flying fairly low and there were so many of them we surely would have heard any sound emanating from them.  At one point, I commented that we thought we heard a very slight sound, but cannot confirm it came from the objects As you can tell my comments the number of them was quite impressive and inexplicable.  Our guesstimate of total numbers would be about 50 or so.  This whole incident lasted approximately 20-30 minutes from the time we first spotted them until stopped taping.I am going to attempt to forward the video I took.  On the left side of the screen at times you will see the lights of the pool house, the poolhouse itself and the fence…but you can clearly see when I “zero” in on the flying objects.  There is also a little “floater” of a light that shows on the screen but that is not related to the flying objects either…and you can tell the difference because the objects in the sky are brighter and all the same size.PS – my son and his family are currently living in Orlando, FL, and reports seeing something similar in the sky a couple of months ago,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133081.html](http://www.nuforc.org/webreports/reports/133/S133081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately Still happening - Still happening minutes.</sub><blockquote><sub>Still moving bright white lights.There are two bright white lights in the sky.  One is slowly moving down, and the other one is not moving at all.  What are they?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121846.html](http://www.nuforc.org/webreports/reports/121/S121846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
