@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:24:50 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:41:16 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Charles (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Cigar shape with 3 port-hole windows, lit up with bright white light, moving slowly So. to No. Obvious pointed frame work(trianular like) on one end.  No noise, no trail, flying very low.  Possibly gray/silver in color.Around 2100 hrs I was sitting outside and saw a grayish/silver cigar like shape flying slowly across the sky going South to North (opposite of the flight path of aircraft going to Lambert Field).  It was flying very low and I could see obvious framework on the front end in a protruding triangular-like shape with an "elbow" on the side where I was viewing.  Similiar to placing a cigar into a large triangle and the bottom of the triangle being horizontal so it would be a stand if it were to land.  There were 3 large port- hole windows (that I could see) which illuminated bright white light.  There was no noise coming from it or any vapor trail.  It moved at a steady pace and kept going in a Northerly direction til out of site.  It really drew my attention not only because it was low but you never see any aircraft flying in that direction over my house because of the circling pattern of all of the aircraft waiting to land at Lambert Field.  Have also seen a bright green light falling to earth but it burned out right above my privacy fence so maybe SOME of the reports of the bright green glowing fireballs are just meteor showers even tho I must say I have never seen bright aqua-green meteors before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05102.html](http://www.nuforc.org/webreports/reports/005/S05102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Glenfield (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>A bright light almost a peach color, faded completely then reappeared again after several minutesWe were all sitting on the deck of a friends home in upstate NY, when we noticed over the trees at about possibly thousands of feet in the air that there was a very bright glowing object.  We knew it wasn't Mars because the Moon and Mars was on the opposite side.  We continued to watch for about 30 or so seconds when it just totally faded out.  We wasn't sure what it was so we waited to see if it reappeared which it did several times in different spots and faded out.  The last time we saw it there were 2 objects but away from each other, when all of a sudden the one joined the other them apart again and one faded then the other.Could this have been flares or something else?  Thanks for your answer PS  We live near Ft. Drum in Watertown.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31375.html](http://www.nuforc.org/webreports/reports/031/S31375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
