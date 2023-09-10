@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 10 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Eldorado (AR) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I SAW TWO UFOS CHASING EACH OTHER & STOP IN MID AIR! this is not the first ones i saw !.got witnessesSTANDING OUT SIDE AROUND 23:00 ME &MY BROTHER I SAID LOOK OVER WHATS THAT IT WAS 2 LIGHT EGG SHAPED LIGHTS CHASING EACH OTHER THRU THE SKY THE BIGGER ONE WAS CHASING THE SMALLER ONE THEY ZIZ &ZAG LIKE CAT AND MOUSE THEY STOP IN MID AIR THEN THEY WENT STRAIT UP THE SMALL ONE FIRST THEN THE BIG ONE THEY WHERE LIKE GREEN LIGHTS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62674.html](http://www.nuforc.org/webreports/reports/062/S62674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kingston (NH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>i was star gazing while i let my dog outside looking up at the stars.  The first four objects i saw looked like a very dim lit star in the sky.  no blinking lights just a star moving across the sky.  the lights were moving in a grid like pattern back and forth up and down.  at the point i went inside to grab binoculars.  i knew it wasn't natural what i was seeing, but i wasn't convinced it was a ufo until what happened next.  when i returned with the binoculars i was still tracking this star light object.  what convinced me was the object made a 90 degree turn and as it did there was a flash of blue light.  the light lasted a second and objected continued to cross parallel in front of me. as i was following it with my eyes it looked like it stopped behind some clouds.  when i was looking at the cloud it looked like there was lightening in the cloud.  small flashes of light were coming from behind the cloud and the object never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125263.html](http://www.nuforc.org/webreports/reports/125/S125263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [432](http://www.nuforc.org/webreports/reports/164/S164600.html)
-- [431](http://www.nuforc.org/webreports/reports/164/S164599.html)
-- [430](http://www.nuforc.org/webreports/reports/164/S164574.html)
-- [429](http://www.nuforc.org/webreports/reports/164/S164578.html)
-- [428](http://www.nuforc.org/webreports/reports/164/S164896.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
