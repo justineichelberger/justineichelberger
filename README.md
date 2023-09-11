@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vernal (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pilots at local airport watched unidentified craft for several minutes.At dusk this evening several pilots, myself included watched a mysterious craft.  I had just landed about 10 minutes before the sighting.  The air was relatively calm with a building of some very large dark clouds to the Northwest. I had just rolled my plane into the hanger when we heard other pilots talking about what they were seeing.  I immediatly went out and observed a craft that appeared to be dark or black in color.  It was first thought to be an ultra-light but appeared to be too large.  Darkness was rapidly closing in and no pilot without any lighting would continue to fly.  We kept listening for engine noise, but there was not so much as a whisper.  We watched it approach bearing about 080 degrees, at less than 3/4 of a mile it turned to about 360 degrees.  Our concensis was that it was about 1500 AGL, and moving at about 35-40 Kts.  As it banked North it was under the clouds but mostly obscured by a dark background.  Eventually it came back into clear sky, but had gained altitude, at least another 1000 feet or more. At this point with the darkness and distance we lost sight of it. I got a chance to see it with binoculars, it appeared to be chevron shaped.  In discussing the incident with the other pilots, we thought that the dimensions of this thing would have a cord of about 6-10 feet and a span of appx. 30-35 feet. Sorry, no one had a camera, and given the darkness would have been difficult.((NUFORC Note:  Date was corrected to 09/11/99, pursuant to correction by witness.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09698.html](http://www.nuforc.org/webreports/reports/009/S09698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 00:00:05 - 00:00:05 minutes.</sub><blockquote><sub>Large shooting star spotted due north of Palm Springs, CAShortly after 2:30 this morning, I looked up into the sky directly to the North and saw a flash or what i thought was a shooting star.Perhaps it was a comet because it looked so big (approximately 3 inches long from my perception.  It was a third wide as its length.  It disappeared as soon as it was visible. Recently, there were shooting stars so thought maybe it was related.  I waited several minutes to see if there would be others but nothing was happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143075.html](http://www.nuforc.org/webreports/reports/143/S143075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
