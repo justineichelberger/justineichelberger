@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:30 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Casper (WY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saw 1 UFO far off making shapes, another UFO snuck up on me from the same direction. Flew close to me and turned East. I ranI was was watching the Northern lights with my Aunt and Dad (we drove about 4 miles out side of town).  There was a light dancing in the sky, making circles going forword then back.  It took me a couple minutes to convince my Dad it was a UFO when he agreed we went home.  When we got there I went back outside to watch the dancing light with the binoculars.  I had to cross the street to get the trees out of my view.  After about 30 minutes I noticed there was something in the sky moving towrd me from the same direction (north).  It seems grey, kind of see through, I thought maybe a cloud moving on the breeze?(completely clear night)  There were no lights on the front and the glossy black nose of the craft was just reflecting the city lights below. I could see it but not yet identify it.   It made no sound.   As it got closer it was flying very low, as it came over my head I relized it was a huge triangle with 3 sets of triangle lights on the bottom, the lights were bright but did not shine on the tops of the houses or trees.  It was less then a half a block to the East of me and low enough a major league pitcher could have hit it with a ball.  It banked to turn East.  As my terror subsided I ran fast back into my Dad's house shaking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10529.html](http://www.nuforc.org/webreports/reports/010/S10529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Moosomin (Canada) (SK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>730 am going to work in underground facility 2km under.  Greenish orb came into view looked odd so took three pics very quickly I did not see odd cloud on third one until looking at pics but will say the object just vanished.  Thanks Peter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129862.html](http://www.nuforc.org/webreports/reports/129/S129862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
