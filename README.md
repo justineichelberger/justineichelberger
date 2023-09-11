@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:46 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Iowa City (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Orange saucer shaped. Looked as if it was lit from bottom. It was really moving, but appeared to hover and move up slightly. Then it got brighter for a second, and then faded out completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164589.html](http://www.nuforc.org/webreports/reports/164/S164589.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lake Elsinore (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright,maybe burning, object traveling extremely fast exlodes over Lake ElsinoreI was driving southbound on the I-15, just past Lake Street on the north side of Lake Elsinore. A very bright and very fast moving object in they sky to my forward-left caught my eye and I watched it for maybe one whole second when it exploded.My first thought was that I might have just seen the Shuttle Atlantis burning up and exploding.It was like a ship on fire, burning light of white and a little yellow in a kind of corona around a central mass that was traveling at tremendous speed and then it exploded in the air in a conical fashion. About the time the debris cone got to three times the diameter of the original object the 'fire' went out and nothing of it was visible in the dark.I can estimate the speed at around 3600 mph because for the second (if that) that I saw the object it traveled the length of a hill/mountain top that is somewhat like a mesa in shape and is a mile in length. However, the object appeared to be about 5 miles beyond the 'mesa' and from my perspective about 5 degrees above the mesa and in slight declination... for reference my distance from the mesa was about a mile.The freeway is pretty much going south-east where I was at, so I guess the object was traveling south, but I can't be sure becuase the 15 fwy changes direction alot.I'm sure the media would have already have the story out if the shuttle exploded, so it wasn't that. Other possibilities would include a meteor, but I would guess that a meteor that big would cause some major damage, and not be at such a slight declination at such a low altitude.It left a briefly glowing trail and I heard no sounds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52438.html](http://www.nuforc.org/webreports/reports/052/S52438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
