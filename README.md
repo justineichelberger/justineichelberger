@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:59 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Syracuse (UT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Blue Orb UFO spotted flying over northern UtahOn September 12th 2013 I was up late working on the computer and I decided to take a break and let my dog out.  Seeing a clear sky outside, I walked out with him into the front yard to check out the stars.  As I looked back down to check whether or not my dog (Aussie) was doing his business (He’s a faker sometimes), I caught a blue light to my right in the corner of my eye.I live near the shore of the northern end of the Great Salt Lake and I was facing south when I the light caught my attention.  I immediately looked to the west and  noticed a blue orb rapidly approaching from the west and heading due east.  The orb was bright blue like a ball of plasma and had a glow around it. It appeared to be pretty high but still large.  It took what I felt like 6 seconds for it to pass overhead a little to the south and cross over the rocky mountains to the east.I’ve looked into how far my viewing distance was from my vantage point and It was roughly 50 miles. The 6 second fly over time would suggest an incredible speed.  From the cirrus clouds that sparsely skiffed the sky that night, I would speculate that the orb was at 60k feet or more when It passed over and it made no sound.  The light from the orb did light up the cirrus it passed over slightly but it appeared to be much higher than their level.  I have no clue what it was and this was the first time I’ve ever spotted anything you could call a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102594.html](http://www.nuforc.org/webreports/reports/102/S102594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>It was a very shiny diamond-shaped crystal UFO craft, and it sounded like a high pitched whistle.i was jogging very early in the morning when i heard a very annoying noise. I looked around to find where the noise came from and i looked in the sky and their was about 22 or 23 of these diamond shaped flying objects.  I was in the air force for about 6 years, and i have never seen any aircraft shaped or osund like this one, i wanted to see if their was anyone else who had seen these ufo-like things, nad i found a man, sitting on a nearby bench, their was a homeless man who was speaking franticly about the crafts, and he ran off, i tried to stop him, and all these other people were being drawn to the attention that the homeless man had drawned to himself, i met a woman, she was a newspaper editor, and she told me that those were ufo's and i agreed with her that i have never seen anything like it, then 11 minutes passed, and later on, when the light started to come up around 1:10 a.m., and the ufo's faded away and nobody else admitted to seeing them.((NUFORC Note:  This may be a hoax, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53915.html](http://www.nuforc.org/webreports/reports/053/S53915.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
