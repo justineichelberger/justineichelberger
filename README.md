@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:29 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Barberton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright objects over Barberton,OhioI was at work and on my break. I was sitting outside on a clear night of 9/11/03 and I was looking up at the stars. I saw this really bright star and just stared at it because it wasnt north I was looking at it was southtorward Canton ohio and Canal fulton. All of the sudden the star starting zig zagging in different ways and it looked like it was bouncing up and down. I called a co-worker over to see if it was just my eyes playing tricks on me and asked him,"what the heck is that"! He couldnt believe his eyes either and then he pointed over and there was another one accross from it. Then we started seeing more of them and everyone asked what we were looking at and we said look up. Is that a star or something else? I had about 6 or more eye witnesses. Then around 4:30 a.m on my second break I went back out there and over the tree horizon I couldnt believe my eyes what I saw. I couldnt tell what kind of shape it was but you could see the colors spinning around the u.f.o.. And it would just stay in one place and go left sometimes or right and sometimes up and down but not much. The other bright u.f.o's in the sky were still there also. Then tonight on 9/12/03 at 11:30 there outside my apartment at in the sky. There is something going on in the sky's of Barberton,Ohio. I dont know what but it couldnt be sattelites or stars because they dont zig zag around and move. It's almost like there is some kind of security going on in the sky's because they dont move far at all. I dont know what it is but I would like to know!((NUFORC Note:  We do not know what the witnesses observed, but we believe that "twinkling" stars would be the first possibility that would have to be eliminated.  They are colorful, and they always appear to move around in the sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31430.html](http://www.nuforc.org/webreports/reports/031/S31430.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120231.html](http://www.nuforc.org/webreports/reports/120/S120231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
