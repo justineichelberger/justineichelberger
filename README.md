@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Whitefish (MT) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Man & wife witness cluster of lights move along hor. to NE near Salish Mtn. Obj. suddenly "fires" 4 " bolts of light" at mtn. twice.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00801.html](http://www.nuforc.org/webreports/reports/000/S00801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Garden City Beach (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Orange Pulsing lights over ocean in Garden City BeachWas leaving work in Garden City Beach, SC on 9/11/12 at approximately 8:04 pm EST when I stopped at the corner of Dogwood and Atlantic Ave.  Looking left to see if I was clear to pull onto Atlantic Ave I happened to notice a group orange lights over the ocean beyond the Garden City pier.The lights varied in number and would pulse at random intervals for roughly 1-2 minutes; not sure how long they were present before I noticed them.  They were random in placement however in a fairly narrow viewing angle.By the time I was able to get my phone out and camera on it open they had disappeared.  I waited another 5-10 minutes to see if the lights would resume, however they did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92703.html](http://www.nuforc.org/webreports/reports/092/S92703.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
