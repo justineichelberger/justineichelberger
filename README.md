@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A dim orange sphere, traveling in a sweeping curve.I was sitting in the parking lot ready to go into work, with my moon roof open, when I saw what appeared to be a shooting star traveling NNW at perhaps 1000 ft altitude. It was a dim orange orb. It did not dissapear after a second or so, like a shooting star. It remained visible traveling at a high rate of speed (3000mph) and over central Albuquerque began a sweeping curve to the west. The curve continued until it was traveling WSW until it traveled out of sight. I might point out that when I first saw it, it came right over the Kirtland AFB. The object's light emission never varied, staying a dim orange the entire 10 seconds of the episode. I could not discern the size of the object, but a guess would be that it was no more than a 30 feet sphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46183.html](http://www.nuforc.org/webreports/reports/046/S46183.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Silvery black uncertain shape in sky.I was sitting on the porch looking at the sky listening to the chirping frogs and rain dripping off of the roof.  Then I hear a plane and it flies over our house extremely low to the ground. I look at the plane for a while and it flies off and then turns to the right and goes away. Then I see what at first I think is a herd of birds all together but there isn't any space between them and they are in a triangular shape with one edge pointing down and flat at the top but it seems to turn and so I think it is maybe a large eagle.  It is dark and hazy so it is hard to see so I get up and start walking closer and it seems to be a shiny gray or silvery black color and starts to look like a disk.  I am now in the street getting my socks all wet running to try to get a better look as the house across the street's trees are blocking and when I get around both houses in the street, it is gone and I don't see it anymore. I was guessing it could be a drone but it seemed much too big to be a drone and just seemed like some sort of craft possibly surveying the area. Another possibility is a cloud but it was much more defined, seemed too small to be a cloud, and there weren't any other low clouds (this thing was probably half the distance off the ground that the low plane was). No one else was outside in our neighborhood and I thought about running inside to tell my mom and brother to come out but it happened too fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121884.html](http://www.nuforc.org/webreports/reports/121/S121884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
