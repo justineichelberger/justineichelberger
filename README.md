@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:24 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Palm Springs (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 00:00:05 - 00:00:05 minutes.</sub><blockquote><sub>Large shooting star spotted due north of Palm Springs, CAShortly after 2:30 this morning, I looked up into the sky directly to the North and saw a flash or what i thought was a shooting star.Perhaps it was a comet because it looked so big (approximately 3 inches long from my perception.  It was a third wide as its length.  It disappeared as soon as it was visible. Recently, there were shooting stars so thought maybe it was related.  I waited several minutes to see if there would be others but nothing was happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143075.html](http://www.nuforc.org/webreports/reports/143/S143075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw a bright floresnt green ball with a tail of greens and some yellow streak across the sky heading in a west.  It was flying horizontally straight across the sky.I saw one object that was floresent green with a tail of bright greens and bright yellows.  I was sitting in my living room and I was looking out the sliders.  It was a clear night and the object came from the east.  I got up fast and ran out on to the deck and observed it for about 3 seconds before it kept going west.  I was surprized because it wasn't falling, it was heading west horizontally.  It was so exciting and it was something that I had never before seen in my life! Thank You, ((personal data deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09983.html](http://www.nuforc.org/webreports/reports/009/S09983.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
