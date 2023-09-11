@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Cone' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We saw objects in the sky that could not have been stars. We observed them through bionoculars and saw 9 objects that hovered, pulsated with light ranging from green to red light. These were not commercial craft...because all planes were grounded on this day 9/11/2001. They seemed not to move, perhaps only slightly...appearing to get smaller or larger in size, only slightly. The light changed in a free flow manner from one color to another. They all appeared to be the same size, with the exception of one, which was larger, bright yellow light. There was some 'hazing' around some of these objects. One object was much larger in the southern sky...it was light colored. The others with the colored lights hovered in the westerly and northern sky areas. These sightenings occured after the tradgey in NYC...that same night. They hovered over 9/12/01 as well...the next evening in approx the same positions by 5 different people.((NUFORC Note:  Source is anonymous, save for an e-mail contact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19526.html](http://www.nuforc.org/webreports/reports/019/S19526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Yorkshire (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 lights synchrnized darting and changing direction moving as quick as a meteorLooking up into the sky three bright lights skated across the night sky. At 1st It looked like°meteors but the three lights moved  in a synchronized motion.1 in front and 2 at either side not far behind it was as if they were joined together .they moved as quick as meteors but not in a straight line.  The lights were moving side to side as well as forward just as quick.  Although not very high roughly 500-1000 meters they cleared the sky from 1 end to the other in no more than 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77772.html](http://www.nuforc.org/webreports/reports/077/S77772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
