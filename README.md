@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Newtown Square (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>I am employed as a security guard at a corporate campus in Newtown Square PA, 30 miles west of Philadelphia.  I arrived at work tonight, at 5 minutes to 11PM.  While walking towards the lobby doors, a greenish, white fireball, approximately a mile away, skimmed the tree line and disapeared behind the 3 story building I was to work in.  The object moved in a west, by northwest, fashion, very slowly, and emitted a phosphurous glow, changing from white to green and back to white again.  It trailed sparks and illuminated the space around itself.It being september 11th, I thought for a moment it might be a missle, or a distressed plane, but after waiting for 30 seconds or so, and hearing no explosion or impact, I went in to tell the other guards what I'd seen.  I was so excited, I called my mother, as I knew she was the only one up at that hour.  She immediately "googled" meteor and Newtown Square and up pops this web site and a report of the very same thing I saw tonight, only 41 years in the past.  Spooky to say the least.  I'm writing this very moment in the lobby over which I saw the object, looking out over the same horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52447.html](http://www.nuforc.org/webreports/reports/052/S52447.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Barberton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright objects over Barberton,OhioI was at work and on my break. I was sitting outside on a clear night of 9/11/03 and I was looking up at the stars. I saw this really bright star and just stared at it because it wasnt north I was looking at it was southtorward Canton ohio and Canal fulton. All of the sudden the star starting zig zagging in different ways and it looked like it was bouncing up and down. I called a co-worker over to see if it was just my eyes playing tricks on me and asked him,"what the heck is that"! He couldnt believe his eyes either and then he pointed over and there was another one accross from it. Then we started seeing more of them and everyone asked what we were looking at and we said look up. Is that a star or something else? I had about 6 or more eye witnesses. Then around 4:30 a.m on my second break I went back out there and over the tree horizon I couldnt believe my eyes what I saw. I couldnt tell what kind of shape it was but you could see the colors spinning around the u.f.o.. And it would just stay in one place and go left sometimes or right and sometimes up and down but not much. The other bright u.f.o's in the sky were still there also. Then tonight on 9/12/03 at 11:30 there outside my apartment at in the sky. There is something going on in the sky's of Barberton,Ohio. I dont know what but it couldnt be sattelites or stars because they dont zig zag around and move. It's almost like there is some kind of security going on in the sky's because they dont move far at all. I dont know what it is but I would like to know!((NUFORC Note:  We do not know what the witnesses observed, but we believe that "twinkling" stars would be the first possibility that would have to be eliminated.  They are colorful, and they always appear to move around in the sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31430.html](http://www.nuforc.org/webreports/reports/031/S31430.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
