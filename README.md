@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in South Yorkshire (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 lights synchrnized darting and changing direction moving as quick as a meteorLooking up into the sky three bright lights skated across the night sky. At 1st It looked like°meteors but the three lights moved  in a synchronized motion.1 in front and 2 at either side not far behind it was as if they were joined together .they moved as quick as meteors but not in a straight line.  The lights were moving side to side as well as forward just as quick.  Although not very high roughly 500-1000 meters they cleared the sky from 1 end to the other in no more than 5 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77772.html](http://www.nuforc.org/webreports/reports/077/S77772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Coalgate (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Neon green cluster of spiraling, spinning, worm shaped lights spill out of a tree level point in the sky.Neon green cluster of spiraled worm shaped lights, about 15 to 20 of them, different lengths, that seemed to spill out from a single point in the sky, just above tree level.  They grew longer the further from the origin point they moved.  Seemed to move by spiraling and spinning. No extra light or glow where the lights seemed to spill out of.  About 100 feet north of this area, another group of about four of these lights start spilling out of a point, but not as fast or as many.  Then they all seem to go out; there is no flying off, they just disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121929.html](http://www.nuforc.org/webreports/reports/121/S121929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
