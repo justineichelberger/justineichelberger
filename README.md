@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rumney (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large ship hovers over RV park in Rumney.My girlfriend and I were heading towards Plymouth from Warren, N.H., when I noticed some odd placed red lights up in the sky.  Too high for mountain tops but too low for any aircraft.  They were moving almost sideways to us as we traveled.  We finally stopped near an RV campground and got out.  There were lots of night clouds hovering low.  We then noticed that the lights were part of 1 giant ship as big as a football field slowly moving. It was very low hovering over the campground but had NO SOUND.  Not aircraft or helicopters.  We shot some cell phone pics which came out bad but it looked like a few windows with human like shapes in them.  Then it disappeared without any notice or sound or movement.  No one at the campground seemed to know about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115324.html](http://www.nuforc.org/webreports/reports/115/S115324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Somerset (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blinking Light of Short Duration & Approximately 3.0 to 3.5 Minute Period.Observed 09/12/2012 @ Approximately 2215 to 2240 Hours EDST from Central New Jersey.Observed object was a BLINKING (as opposed to FLASHING) White (Cream-White Tinted) Light which had a period of approximately THREE to THREE-and-a-HALF Minutes. Blink Duration is estimated to be about ONE-SIXTEENTH Second. No other colors were observed.The Position of the object was in the Southeastern Quadrant, at an estimated elevation of approximately 30 to 40 Degrees.The object was observed for about 20 minutes.Observation time elapsed was sufficient to see the usual change in position of the nearby stars due to the Earths rotation.  The object did NOT move in unison with the stars.  The object ALSO did NOT move in relation to an object on the ground directly below it, which was used as a reference point specifically for the purpose of observing if any movement of the object occurred.The object was also observed by another person at this time, and also observed by that same person once this past weekend.My personal opinion is that the object was a high-intensity light source located in Geo-Stationary Orbit, which would account for the lack of noticeable movement. I suspect that the purpose of the Blink and its Period is a timing function for some sort of experiment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92739.html](http://www.nuforc.org/webreports/reports/092/S92739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
