@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:01 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright light shot upwards in skySaturday, September 12, 2009.My wife and I were in the back yard of our home in south Calgary around 10pm, looking west I noticed a steady star sized light low in the sky. I watched this for about 1 minute before mentioning this to my wife as being strange as I figured it must be a plane heading eastward, but had never seen this particular flight path before.The light grew in size considerably until it appeared about twice as bright as the brightest star in the sky, just a steady white light,at no point could we hear any noise from the object. it then began a fast vertical accent very quickly in the sky until it vanished.  The entire event lasted about 1 ½ minutes. It only took about 5-10 seconds for the light to go from its brightest point to a pinpoint then vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72306.html](http://www.nuforc.org/webreports/reports/072/S72306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately time is 9:00pm and still  - time is 9:00pm and still  minutes.</sub><blockquote><sub>This bright light (like a star) is being seen in the southwest portion of the sky.  There is a little haze out tonight but as soon as the haze move the light becomes as bright as the moon.  If you stick your arm out at sholders legnth and with a closed fist, make a thumbs-up hand sighn, while rotating your arm and fist into the southwest region of the sky, the light (star or whatever) will be directly on the top of your thumb.  It is so unusual for a star to be seen so so low on the horizon; something like at a 5 degree angle off the ground and to be so bright even with the moon out in the south region of the sky.((NUFORC Note:  We are aware of the fact that Sirius, the fourth brightest objects seen in the Northern Hemisphere, is visible in the north-northeastern sky, about 10 degrees above the horizontal plane at this time of night.  We suspect that the witness describes a celestial body, but we do not know which one it may be.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25025.html](http://www.nuforc.org/webreports/reports/025/S25025.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
