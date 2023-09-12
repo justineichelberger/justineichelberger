@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silver Metalic object with strong pulsating light.Appeared in Northern sky. Silver, Metalic looking with strong pulsating strobe light near it's top. I watched it for about 20 minutes as it drifted to the East.  It was shaped (looking through binoculars) like the letter "F" or "E" with star like qualities. Strobing actions continued throughout it's drifting East</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58690.html](http://www.nuforc.org/webreports/reports/058/S58690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sheridan (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>observed 2 sets of 7 lights. yellow, blue, red and green. Distance undetermined. Used a spotting scope. Lights pulsed in some pattern.On Saturday September 12 1998 My wife and I were at my grandparents farm in Sheridan, Oregon. My wife first noted an interesting looking star, and upon looking at it I decided to get my spotting scope. When veiwed through the scope it became apparent that the object was not one light but rather a group of 7 independent lights.( at this time the lights were all blue and in a triangular pattern they later changed to 4 different colors  ) These light were pulsing at fast rate, and they appeared to be pulsing in some pattern. alternating in paterns of 2 colors at one time. O .    . O        O .             . O .   O  .  O  .  O The object then tilted on axis, and only the row of 4 lights were visable. At this time the lights changed from blue to yellow, green, red and blue. My wife noticed that the lights also appeared to change shape from round to rectangular and then back to round or oval. We witnessed a second object that had only two lights and these lights also cycled through the 4 colors of the first object. The object with the 4 lights was in a northeastern direction, and the 2nd object was in a northwestern direction respective to our position. Distance is hard to judge, but the objects moved away from each other. The second object moved below the tree line, and the object with four lights moved in a hook pattern to a higher point in the sky. We watched the first object for a period of 1.5 hours (from 20:30 to 22:00)and the second object was seen only for the first five minutes of the event. My mother also viewed these objects. I grew up in this area, and am familiar with the surroundings. I am a dental technician, and my wife is a self employed cosmotologist. My mother works for a major telecommunications company and has worked there for over 40 years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04114.html](http://www.nuforc.org/webreports/reports/004/S04114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
