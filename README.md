@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 11 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bristol (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no information about sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120231.html](http://www.nuforc.org/webreports/reports/120/S120231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright light shot upwards in skySaturday, September 12, 2009.My wife and I were in the back yard of our home in south Calgary around 10pm, looking west I noticed a steady star sized light low in the sky. I watched this for about 1 minute before mentioning this to my wife as being strange as I figured it must be a plane heading eastward, but had never seen this particular flight path before.The light grew in size considerably until it appeared about twice as bright as the brightest star in the sky, just a steady white light,at no point could we hear any noise from the object. it then began a fast vertical accent very quickly in the sky until it vanished.  The entire event lasted about 1 ½ minutes. It only took about 5-10 seconds for the light to go from its brightest point to a pinpoint then vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72306.html](http://www.nuforc.org/webreports/reports/072/S72306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [423](http://www.nuforc.org/webreports/reports/164/S164646.html)
-- [422](http://www.nuforc.org/webreports/reports/164/S164585.html)
-- [421](http://www.nuforc.org/webreports/reports/164/S164598.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164589.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164618.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
