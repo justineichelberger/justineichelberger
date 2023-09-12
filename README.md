@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Caledonia (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7-10 Orange glowing lights travelling in unison.7-10 objects flying together in sky.  Orange lighted orbs moving south, in the same direction and speed, then disappeared.  It is a clear night.  Our kids came downstairs to show us so they saw it longer.  We tried to capture it on our phones, but the lights don't pick up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121905.html](http://www.nuforc.org/webreports/reports/121/S121905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Crimea (Ukraine)) () reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Pictures  TO FOLLOW - AT PRESENT MY WIFE AND FRIENDS ARE IN THE CRIMEA near Alushta/Malamiack near Yalta by the waters edge  in Tents and last night they see very large bright stationary object in the night sky and then it move vaery fast and stop and dissapear  and this happen twice .. not military   she havs taken several pictures OK! tonight they wait to see if it repeat again.  mobile ((name and number of witness deleted)) full infomation on her return  to the UK. mr ((name deleted))  on several 4 ocasions I lost contact whith her on mobile   and also on land line!((NUFORC Note:  Witness elects to provide no contact information.  We would like to receive a follow-up report from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52469.html](http://www.nuforc.org/webreports/reports/052/S52469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
