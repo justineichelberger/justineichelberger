@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was smoking outside and just happend to look up towards the moon when I sighted this object moving very fast in a circle type of turnThis object looked like a bird of prey that was gliding, with no movement of the wings.  It was moving fast and in a rounded turn to the South.  It was a pale gray color that was hard to see (almost blending in with the night time sky ) and a very unusual experience for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113493.html](http://www.nuforc.org/webreports/reports/113/S113493.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rumney (NH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large ship hovers over RV park in Rumney.My girlfriend and I were heading towards Plymouth from Warren, N.H., when I noticed some odd placed red lights up in the sky.  Too high for mountain tops but too low for any aircraft.  They were moving almost sideways to us as we traveled.  We finally stopped near an RV campground and got out.  There were lots of night clouds hovering low.  We then noticed that the lights were part of 1 giant ship as big as a football field slowly moving. It was very low hovering over the campground but had NO SOUND.  Not aircraft or helicopters.  We shot some cell phone pics which came out bad but it looked like a few windows with human like shapes in them.  Then it disappeared without any notice or sound or movement.  No one at the campground seemed to know about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115324.html](http://www.nuforc.org/webreports/reports/115/S115324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
