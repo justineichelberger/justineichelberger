@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:50 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greenville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Organized light craft over Greenville, NCInitially stationary light noted on night of full moon, noticed flickers of silver and red nearby, so posted up for observation.  After about 2 minutes, light began moving extremely erratically, definitely organically, and almost appeared to be "cloud-surfing" though appeared to be at a greater distance than the clouds.  Telescope revealed small bright white light to be moving in spirals and loops at extremely fast speeds.   Clear weather allowed observation of nearby light points, thought initially to be stars, but showing subdued but similar behavior.  Light cones and flashes observed between no less than 6 objects spaced across the visual skyscape.   Activities continued for no less than 2 hours, observer had to crash for work.((NUFORC Note:  Witness elects to remain totally anonymous.  We are not certain that this report is intended as a serious one.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83886.html](http://www.nuforc.org/webreports/reports/083/S83886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mansfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Ball of orange light, low in the sky, moving much faster than a plane, headed southbound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143086.html](http://www.nuforc.org/webreports/reports/143/S143086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
