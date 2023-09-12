@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riggs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue to Red to White to Green light flashing in the sky to the West.I was getting ready to hit the sack when all the sudden I see this blinking light that keeps changing colors. I go get my mom and we procede to watch it. It was a single light, smaller then a star and smaller then a plane light, but definitly in our atmosphere. It started out flashing every second, changing from green, blue, red, and white.  It was almost as if it was sending a morse-code signal because it changed, got small, flared up, changed, got small, flared up..and so on.  After 5 minutes, it just started to change from green, red, and white. Three intresting things happened.  It fell like the UFO I have seen before--straight down like it had lost control, then...BAM..stopping. It did this a couple times. Secondly, there were about three shooting stars in this short fifteen minute period. Third, it was as if a spotlight or a laser gun shot out diffrent colors, as well as the constant light. Somewhat like an Auro Borealuis light show because this happened ! in a cloud. It was staying pretty much consistant north/south wise, but was slowly cruising to the west. Another intresting thing was that there were three planes that could have also spotted the UFO, as it was in the general vicinity. After 15 minutes, we had to get to bed, so I'm not sure how long it stayed here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92733.html](http://www.nuforc.org/webreports/reports/092/S92733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Caledonia (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7-10 Orange glowing lights travelling in unison.7-10 objects flying together in sky.  Orange lighted orbs moving south, in the same direction and speed, then disappeared.  It is a clear night.  Our kids came downstairs to show us so they saw it longer.  We tried to capture it on our phones, but the lights don't pick up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121905.html](http://www.nuforc.org/webreports/reports/121/S121905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
