@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Crimea (Ukraine)) () reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Pictures  TO FOLLOW - AT PRESENT MY WIFE AND FRIENDS ARE IN THE CRIMEA near Alushta/Malamiack near Yalta by the waters edge  in Tents and last night they see very large bright stationary object in the night sky and then it move vaery fast and stop and dissapear  and this happen twice .. not military   she havs taken several pictures OK! tonight they wait to see if it repeat again.  mobile ((name and number of witness deleted)) full infomation on her return  to the UK. mr ((name deleted))  on several 4 ocasions I lost contact whith her on mobile   and also on land line!((NUFORC Note:  Witness elects to provide no contact information.  We would like to receive a follow-up report from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52469.html](http://www.nuforc.org/webreports/reports/052/S52469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>This object moved across the sky leaving no smoke trail, vabor trail, no sound or never changed direction, sighted for 20 min.On September 13, 2000 at 7:30 pm (cdt) my wife and I saw as best as we can describe was a comet like object with no smoke trail, sound or vabor trail or direction change, moving in a  northwest to southeast direction. The sky was partly cloudy with the sunseting and thunderstorms moving in from the north-norteast. At first glance this object looked like a long narrow cloud hovering with the setting sun eluminating the object very brightly. As I stood there and stared at this object, it was then that I realized this object was moving. At this time I tried to determine speed and altitude of the object. My best guess would have to be at least at an airliner cruising altitude of 30-40 thousand feet but traveling much slower then any comet or any space debris entering the earth atmosphere I have ever expirence in my liftime. The object made no noise, not that any could or would be heard at that estamated altitude. Left no trailing smoke or any other evedience of any kind of trail, and made no directional changes (up, down or side to side, turning). I dont know if this "sighting" qualifies as a "UFO" sighting (Alein craft) but it sure was an unusual sight in the skies that evening. The TV stations made no reports that evening. I just like to know what this thing was. We lost sight of the object as it moved closer to the horizon and are view was blocked by trees and houses.((NUFORC Note:  Anonymous report.  Our only guess is that the witnesses might have been looking at a high-altitude aircraft, but it would be unusual for one to be visible for 15-20 minutes.  We have no idea what they were looking at.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14114.html](http://www.nuforc.org/webreports/reports/014/S14114.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
