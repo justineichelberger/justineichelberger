@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Somerset (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Blinking Light of Short Duration & Approximately 3.0 to 3.5 Minute Period.Observed 09/12/2012 @ Approximately 2215 to 2240 Hours EDST from Central New Jersey.Observed object was a BLINKING (as opposed to FLASHING) White (Cream-White Tinted) Light which had a period of approximately THREE to THREE-and-a-HALF Minutes. Blink Duration is estimated to be about ONE-SIXTEENTH Second. No other colors were observed.The Position of the object was in the Southeastern Quadrant, at an estimated elevation of approximately 30 to 40 Degrees.The object was observed for about 20 minutes.Observation time elapsed was sufficient to see the usual change in position of the nearby stars due to the Earths rotation.  The object did NOT move in unison with the stars.  The object ALSO did NOT move in relation to an object on the ground directly below it, which was used as a reference point specifically for the purpose of observing if any movement of the object occurred.The object was also observed by another person at this time, and also observed by that same person once this past weekend.My personal opinion is that the object was a high-intensity light source located in Geo-Stationary Orbit, which would account for the lack of noticeable movement. I suspect that the purpose of the Blink and its Period is a timing function for some sort of experiment.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92739.html](http://www.nuforc.org/webreports/reports/092/S92739.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Riggs (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Blue to Red to White to Green light flashing in the sky to the West.I was getting ready to hit the sack when all the sudden I see this blinking light that keeps changing colors. I go get my mom and we procede to watch it. It was a single light, smaller then a star and smaller then a plane light, but definitly in our atmosphere. It started out flashing every second, changing from green, blue, red, and white.  It was almost as if it was sending a morse-code signal because it changed, got small, flared up, changed, got small, flared up..and so on.  After 5 minutes, it just started to change from green, red, and white. Three intresting things happened.  It fell like the UFO I have seen before--straight down like it had lost control, then...BAM..stopping. It did this a couple times. Secondly, there were about three shooting stars in this short fifteen minute period. Third, it was as if a spotlight or a laser gun shot out diffrent colors, as well as the constant light. Somewhat like an Auro Borealuis light show because this happened ! in a cloud. It was staying pretty much consistant north/south wise, but was slowly cruising to the west. Another intresting thing was that there were three planes that could have also spotted the UFO, as it was in the general vicinity. After 15 minutes, we had to get to bed, so I'm not sure how long it stayed here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92733.html](http://www.nuforc.org/webreports/reports/092/S92733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
