@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:24 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large Light Object chased by Coast Guard Falcon Jet in late afternoon (During the No-fly time span)Not long after the air space in the US had been closed to civilian aircraft, maybe a few days at the most. I went out side and noticed what looked to be a slow blinking light and assumed it was a radio tower. Then I realized  there was no radio towers in the direction I was looking,  I also realized the object was way to high for a radio tower.  It had the brightness of a white strobe, with the exception that it blinked on and off at a much slower rate, more of a fast fadeing glow on and off, at it's full size it was the size of a large house.The time was late afternoon, but still clear enough to see that there was nothing visible at all when the white light blinked or glowed off. It was staying in the same spot so I decided to run as close as I cloud to see it better, after about a mile I cloud see that there was a large grey cloud it was sitting in and as the object pulsed off and on I noticed a strange purple static energy that seemed to be directly around the object. Now things get interesting.....  As I'm standing there I hear a loud roar and I look up and I'm astonished to see a US Coast Guard Falcon jet flying as fast as It can right over my head and I mean right over me VERY low and hauling tail toward the object. I jumped and yelled "yeah! go get'em!"  as astonished and excited as anyone cloud imagine. As the Falcon reached the object, the glowing object rapidly went out and was gone, the Falcon jet made a number of slower circles around where the object had been and then left the area in the opposite direction that it came from originally. If you didn't know the Coast Guard Falcon is more of a recon aircraft, it has no weapons, I'm sure it was there to try and identify the object and attempt to get it to land if possible. Again this took place during the time period where there were no civilian aircraft flying due to the 9/11 no-flying restriction.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61010.html](http://www.nuforc.org/webreports/reports/061/S61010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Silver Metalic object with strong pulsating light.Appeared in Northern sky. Silver, Metalic looking with strong pulsating strobe light near it's top. I watched it for about 20 minutes as it drifted to the East.  It was shaped (looking through binoculars) like the letter "F" or "E" with star like qualities. Strobing actions continued throughout it's drifting East</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58690.html](http://www.nuforc.org/webreports/reports/058/S58690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
