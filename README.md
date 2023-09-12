@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Linglestown (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 bright orange objects bigger than planes and no sound.3 bigger than aircraft BRIGHT orange objects coming over mountains from west, one proceeded east  and 2 went south,  There was no sound at all and they seemed to be moving faster than the average airplane.  These objects were very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113491.html](http://www.nuforc.org/webreports/reports/113/S113491.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Honolulu (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>saw a blue sphere moving over the of of a house in front of me--hovered 5 feet above the ground for an instant, 15 feet in front of meAs I was doing my paper route at 3:30-4:00 am HST, I had to walk to a porch on Laukahi St. as the streetlight was burned out and I couldn't see the porch from the street for a good, 100 ft. toss----I placed the paper on the porch and, as I was returning to my car, the surrounding area became illuminated in such a bright blue light that I could easily see everything around me as though it were daylight. I turned 180 degrees around and saw an object moving at a uniform distance above the roof of the house in front of me, about 2 ft. above the roof, coming towards me from the backside of the structure, and it occurred to me that it was maintaining a uniform distance above the roof as opposed to an arc over the house from the other side or a path that would lead it way past the house---it was 'hugging' the roof as if on purpose. The object was a sphere, maybe 1 1/2X the size of a basketball, emitting a VERY bright blue light but a light that didn't hurt my eyes as I watched it come over the roof to stop about 5 feet above the ground maybe 15 feet in front of me, between the house and where I was standing. It emitted NO NOISE, NO ODOR, and no noticable spinning or other movement---it just hovered there---I then began to think---I believe that all of my mental processes had ceased as I watched it, from complete amazement and captivation, with no fear or any emotion. However, as soon as I began to "think" about it, this object went from right in front of me to over the horizon, perhaps 1/2 mile away up the hill I was on, and disappeared. Again, NO NOISE ans NO anything---it just "left". As I ponder what I have seen, the most powerful part of my memory concerns the following: I believe that it would have stayed there in front of me until I began to "think" about it, and as soon as my brain kicked into gear, it took off at light-speed+ to get away from me, protect itself or whatever. It could differentiate between observation and analysis---these are just my feelings---no proof of anything, nor any harm done. I have decided to call it a "probe", something sent to gather inormation as I saw how it was hugging the roof-line as though it had a useful "range", and I would go farther to guess that what it "records" is brain wave activity or something like that---based on it's reaction to my "discerning" that it was there. I'd like to know the answer someday----you never can know for sure!!  Aloha,  ((name and address deleted))  Malulani St.Kaneohe, HI 96744 ((personal data deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50922.html](http://www.nuforc.org/webreports/reports/050/S50922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
