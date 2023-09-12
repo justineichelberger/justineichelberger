@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 12 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Walnut (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I went out at 2:30 PM in the afternoon. I through out the trush I look it the sky in the Northwest it fly and stop in about three then disppear.((NUFORC Note:  We are not clear on what the witness is describing, but he appears to suggest that he witnessed a sphere in the sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14090.html](http://www.nuforc.org/webreports/reports/014/S14090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Reno (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>i was headed east leaving Reno i had just pasted a church and i was on a cell phone talking to my friend and i saw a triangle in the sky. it was must have been about 100 to 150 feet long and at least 150 feet high and had 3 lights at the points 2 white lights and a peach colored light at one end the UFO was rotation very slowly and was flying very slowly it felt so close that i felt like i could touch it and there were reflections of the lights on the hood of my van it was going south and it flew into a patch of trees i sped up to get out of the trees and when i got out i saw a very very small glimpse of it maybe a fourth of a second if that and it zipped of and it just became a light in the sky it didn't make a sound or disturb anything around it...it just left. I AM A BELIEVER...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77792.html](http://www.nuforc.org/webreports/reports/077/S77792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/164/S164581.html)
-- [437](http://www.nuforc.org/webreports/reports/164/S164644.html)
-- [436](http://www.nuforc.org/webreports/reports/164/S164621.html)
-- [435](http://www.nuforc.org/webreports/reports/164/S164617.html)
-- [434](http://www.nuforc.org/webreports/reports/164/S164901.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
