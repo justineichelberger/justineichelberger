@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Linden (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white lights moving across the sky!  500 Lights On Object0: YesBright white lights moving across the sky. We were just sitting outside looking at the stars and all of a sudden we seen these 3 white Bright lights moving slowly across the sky. Then they split and we could only see one of them hovering out in the distance doing little circles and figure eights it had a bright red light at the bottom of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92750.html](http://www.nuforc.org/webreports/reports/092/S92750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Witnessed a bright white light appear to burst into flame after making a 100 degree turn...This morning, Thursday 13 Sep, 2012, at 05:20, I was driving to my job on Twentynine Palms Marine Base on Lear Ave., approximately 1 mile North of California 62 Highway when I noticed a bright white light dropping straight down towards the ground ENE of my location.(83 degrees compass heading) It was dropping at a speed which gave the impression that it had a tail.  I immediately pulled over to the side of the road and ran to the back of my truck with my cell phone and opened the camera app...I began taking photos, which I will include with this report, when the object turned approximately 100 degrees, which caused it to be parallel to the ground and climbing slightly at about a 15 degree angle when it suddenly slowed and seemed to be engulfed in fire.I continued to take photos and watched the object for about 5 more minutes, but had to leave to get to work on time. The object left a glowing trail behind it as it went, which remained until the Sun came over the horizon, about 50 minutes later.I am guessing that the object was approximately twenty to fifty miles away and traveled about 20 miles to the NE on fire before it either disappeared or stopped... it did not explode...Later, when I was looking at the photos, I noticed that a second bright white light was following the first... I did not notice this object when I was looking at the event.I have seen a similar glowing trail when I watched a space shuttle launch from about 100 miles away, except that the glowing trail from the shuttle had a greenish-purple tint while this object's trail was white-ish-yellow.Other guys on my job also took photos with their cell phones but not as many...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92741.html](http://www.nuforc.org/webreports/reports/092/S92741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
