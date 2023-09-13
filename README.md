@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30 sc - 30 sc minutes.</sub><blockquote><sub>every night i sit in my porch and look to the sky  n i always see a light moving slowly   i dont know if its a satelite but when an airplane goes closer to that light it dissapeare  n then other night i was riding bike whit my friend  n i have my puppy with me n he was barking to the back of me then when i see there was a big light and it suddenly dissapeare behind a cloud my friend see it too we were shock((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77800.html](http://www.nuforc.org/webreports/reports/077/S77800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Silent, glowing orange ball in the sky flying above downtown TorontoAbout an hour ago I looked up and saw what I can only describe as being a glowing ball in the sky.  Orange in colour, brightest at the center fading towards the outer areas.  Didn't matter which direction it headed, it looked the same.  It was to the west of downtown Toronto heading south towards Lake Ontario and the USA.  It was completely silent.  Thought it was a meteor, but too slow and changed directions.  Was too close to not hear it if it was a traditional helicopter or airplane, too far and large to be a Chinese lantern, moving counter to winds as well.  Actually thought it may be a burning airplane for a moment, but no trail was visible.  The glow was quite large and far brighter than any aircraft I've seen before, yet impossible to see the object itself or its shape.  No flashing lights, just a constant somewhat (though very little) pulsating intensity.I observed the object for about 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102225.html](http://www.nuforc.org/webreports/reports/102/S102225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
