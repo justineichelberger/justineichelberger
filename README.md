@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Augusta (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Multiple Hovering Objects.On Thursday, September 13, 2018, my friend and I were sitting out front of  my apartment building, probably around 1 a.m. or so and I noticed what at first glance looked like a star maybe burning out.  It had reds, greens, and blue tints to it and was flashing pretty steadily. I then realized what ever this is was definitely hovering somehow.  You could see it slowly moving from left to right.  When that caught our attention we finally decided to take a look at the sky and there were MULTIPLE objects in the sky that fit the same description.  Just looking at them you could see the flashing and hovering.  Some would just appear.  We have these little toy binoculars, that still work pretty good, that we started looking at the objects better and through that they looked as if things were coming out of them sort of like flares, they seemed long, like a trail of something entering into the atmosphere.  We noticed some made up a circle formation and then some were making u! p a triangle formation.  Then there would be groups of maybe six objects swarming around each other.  They were smaller and farther off so the way I can really explain it is when you see the gnats flying around a street light,  This was going on for a few hours.  I happened to walk outside about 6 a.m when the sun was barely out and there was one left in the sky and it was so bright as if the sun was bouncing of a metallic surface.  I was able to get a video of that one, I couldn’t figure out the shape but you could easily tell it wasn’t a plane or a satellite.  It almost looked like it was breaking off into smaller pieces and coming back to its original form but it was gone by the time the sun came all the way up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143114.html](http://www.nuforc.org/webreports/reports/143/S143114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Utica (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 30 sc - 30 sc minutes.</sub><blockquote><sub>every night i sit in my porch and look to the sky  n i always see a light moving slowly   i dont know if its a satelite but when an airplane goes closer to that light it dissapeare  n then other night i was riding bike whit my friend  n i have my puppy with me n he was barking to the back of me then when i see there was a big light and it suddenly dissapeare behind a cloud my friend see it too we were shock((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77800.html](http://www.nuforc.org/webreports/reports/077/S77800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
