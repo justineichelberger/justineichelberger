@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:02 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:34 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange lights on an oval with a bright ring, that was standing still, then jerking around.I was going outside at 10:50 PM to let our dog out in our backyard. As I was outside I saw a lit-up ring. It was late at night so I thought I was seeing things, so I call my husband to come out, and I get binoculars. I go outside and it is still there. I take my binoculars and see it and for about 2 minutes it is just still. It was very big though. On the UFO I see yellowish-orange lights with a red tint on it.So about 2 to 3 minutes later it starts moving super fast. It jerked from side to side, then jerked up and down, and it kept repeating the same motion. About 11:10 PM we went inside cause we were tired. But we could still see it as we were going to bed. We don't know when it went away.I will say that my husband might have seen a shooting star across the sky, so we don't know if it could be a meteorite, but we never saw it fall to earth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159349.html](http://www.nuforc.org/webreports/reports/159/S159349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Clovis (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>UFO seen, possible govt testSaw craft in the western sky for the third night in a row.  Craft was in approximatly the same area as before, but started off at a much higher altitude than previous night.  Watched it again perform maneuvers for about 2 hours until it finally dropped below the horizon, perhaps landing but I can't be sure.  There was alot of air traffic in the area this night, but only one aircraft had an encounter with it.  An aircraft was coming from the west, traveling east.  It was at a higher altitude than the UFO, and dropped altitude to meet with the UFO.  Upon getting close to the UFO, the aircraft immediatly changed flight paths and quickly climbed in altitude, then continued on it's original flight path and continued traveling east.  So far the night of 9/12/05 has been the most active night.  I am about 95% sure that what I am seeing is a govt test as they are returning to the same area each night at about the same times to fly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46254.html](http://www.nuforc.org/webreports/reports/046/S46254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
