@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Angier (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying white lights that disappear when you bring attention to it; accompanied by humming noise, clicking sounds and driving the dog crSeveral different flying lights were seen in the sky.  Saw a white ball of light moving rapidly across the sky, just above the tree line.  My daughter pointed it out and it immediately disappeared.  There was another ball of white light higher in the sky moving all around, not just in one direction.  It too disappeared.  Saw a blinking white and red light rapidly flying across the sky and as we pointed it out, it disappeared.   Before these sightings, my dog started maniacally barking at something behind my shed in the backyard.  We could not get her to stop, so my daughter started taking pictures.   Several strange lights appear behind the shed including a circular shaped light and a triangular group of three lights that seemed to move in two different pictures.  It is possible that the circular looking shape is an entity.  We let the dog loose and she ran around the shed and across the yard like she was chasing something.  However, we could not see what she was chasing.  We also heard a strange clicking noise, unlike any night insect or animal we have ever heard.  It sounded like the clicks were communicating from two different sides of my yard.  We also heard a humming noise, like the engine of an aircraft hovering.  Eventually both noises stopped.This is not the first time we have experienced the flying lights and humming.  Almost every night, my dog goes crazy barking at the same part of the yard behind the shed.  The first time I saw the light hovering over my neighbor’s house, I pointed it out to my daughter and it vanished.  Will email images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113526.html](http://www.nuforc.org/webreports/reports/113/S113526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Linden (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white lights moving across the sky!  500 Lights On Object0: YesBright white lights moving across the sky. We were just sitting outside looking at the stars and all of a sudden we seen these 3 white Bright lights moving slowly across the sky. Then they split and we could only see one of them hovering out in the distance doing little circles and figure eights it had a bright red light at the bottom of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92750.html](http://www.nuforc.org/webreports/reports/092/S92750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
