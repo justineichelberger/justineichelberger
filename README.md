@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:39 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glen Mills (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband called me outside.  I saw 6 very bright orange lights moving slowly and quietly across the sky.  My husband said there were more before I came outside.  They didn't look to be in any formation and I could not tell what shape they were.  They each just looked like a big very bright orange light.  They passed slowly but one by one they disappeared.  I went inside and a few minutes later I went back out.  There were now 4 in the sky, even lower than the ones before.  Again, slowly moving across the sky until they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121943.html](http://www.nuforc.org/webreports/reports/121/S121943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manalapan (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Four Stanges lights at a perfect angle and even distance apart in the night skyWas outside on the farm i own testing out my new Dslr on its tri pod taking pictures of the sky, when i went in the house to look at the pics one frame had a object in it no one could explain to me, its 4 lights same brightness and equal distance apart in the top of the picture out in the distance. camera was on a tripod so its not possible thats its motion blurr and if it was a plane it would have been in the frames before and after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83960.html](http://www.nuforc.org/webreports/reports/083/S83960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
