@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manalapan (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Four Stanges lights at a perfect angle and even distance apart in the night skyWas outside on the farm i own testing out my new Dslr on its tri pod taking pictures of the sky, when i went in the house to look at the pics one frame had a object in it no one could explain to me, its 4 lights same brightness and equal distance apart in the top of the picture out in the distance. camera was on a tripod so its not possible thats its motion blurr and if it was a plane it would have been in the frames before and after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83960.html](http://www.nuforc.org/webreports/reports/083/S83960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>No lights much larger than any aircraft very high rate of speed over 10000 ft. AGLI spoted a very large object flying east SE over my house for less than a minuute on 13 Sep. 2004 aftrer the object disapeared over clouds a small aircraft on near the same rout flew over at that time I realized how large the object must have been and how fast it must have been traveling and at what altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39288.html](http://www.nuforc.org/webreports/reports/039/S39288.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
