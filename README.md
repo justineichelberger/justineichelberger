@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Fe (11 miles E. of) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Looking N N W from the cement pad in front of my house as the sun was setting, an oval of intense white light hovered in the sky, there was no wind and no clouds and the ambient ground temperature was 70 degrees and falling.  It appeared to be somewhere over 30,000 ft. above the Earth's surface and considering that height it may have been quite a large object.  The Light emission and some modulation in the objects shape continued for the full 20 minutes I observed it.  As full dark approached, it faded slowly off into the NW quadrant of the sky, accelerating gradually until it was just a pinpoint of light that might be mistaken as just another star.  As for intensity of the white light, it was within its contained space brighter than the sun in terms of white light luminosity.  I didn't attempt to refract the emitted light to see what color spectrums were present, but such a basic simple measurement could be informative.((NUFORC Note:  We suspect that the time and date may not be precise.  The witness indicates a time of midnight, but states that the sun was just setting.  We suspect that the witness may have been observing the high-altitude, helium-filled balloon, which was reported to have been launched out of Ft. Sumner, earlier that day, Saturday, September 13, 2014.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113607.html](http://www.nuforc.org/webreports/reports/113/S113607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Angier (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying white lights that disappear when you bring attention to it; accompanied by humming noise, clicking sounds and driving the dog crSeveral different flying lights were seen in the sky.  Saw a white ball of light moving rapidly across the sky, just above the tree line.  My daughter pointed it out and it immediately disappeared.  There was another ball of white light higher in the sky moving all around, not just in one direction.  It too disappeared.  Saw a blinking white and red light rapidly flying across the sky and as we pointed it out, it disappeared.   Before these sightings, my dog started maniacally barking at something behind my shed in the backyard.  We could not get her to stop, so my daughter started taking pictures.   Several strange lights appear behind the shed including a circular shaped light and a triangular group of three lights that seemed to move in two different pictures.  It is possible that the circular looking shape is an entity.  We let the dog loose and she ran around the shed and across the yard like she was chasing something.  However, we could not see what she was chasing.  We also heard a strange clicking noise, unlike any night insect or animal we have ever heard.  It sounded like the clicks were communicating from two different sides of my yard.  We also heard a humming noise, like the engine of an aircraft hovering.  Eventually both noises stopped.This is not the first time we have experienced the flying lights and humming.  Almost every night, my dog goes crazy barking at the same part of the yard behind the shed.  The first time I saw the light hovering over my neighbor’s house, I pointed it out to my daughter and it vanished.  Will email images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113526.html](http://www.nuforc.org/webreports/reports/113/S113526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
