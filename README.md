@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Cadiz (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>i belived it was going fast to cover the distance that it did. it was no airplane!!i happened to look out the window around 8:45 pm. on the 14 of sept. 01. when isaw what i thought was a star. but i realized it was too big to be a star. it seemed to be in one place, then it started to move. i called for my mother to hurry. to come and see. by the time she came into my room it had reversed it's self and started to go in the other direction. it went behind a tree, and slowly dimmed out. my mother saw a red light on it, that was not blinking. i didn't see that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19550.html](http://www.nuforc.org/webreports/reports/019/S19550.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Metallic cigar shaped craft seen above Oregon City.Metallic cigar shaped craft in the sky above downtown Oregon City at 7:45 AM.On way to school Friday morning I just turned off the 99E onto the Railroad Ave. (ally next to tracks) in downtown Oregon City when we noticed two young men outside their car on the right side looking up in the sky.  One of the men appeared to have been taking pictures with his phone and was on the other side of the road, as we drove by we looked up, but could not see anything as the buildings were blocking most of our view.Then as we started onto the 7th St. bridge my son says, “There is a silver cigar shaped craft in the sky, it looks like a commercial aircraft with no wings, its big like a 747 and is reflecting the sun, its very shiny”  He was looking to the right (North) above the Willamette River.I tried looking up and through my sunroof, but could not see at my angle, plus I was on the narrow 7th St. bridge, so I had to also keep my eyes on the road.  After crossing the bridge my son said it had disappeared into the clouds.My son is very into planes and jets and can tell what kind of aircraft is flying overhead down to the specific model of plane and airline, I firmly believe the detailed description he gave me of what he saw.I am hoping that the young men that were looking up saw it as well and were able to get some pictures as I would also like to see this craft.  I am also curious if anyone else got a glimpse of this craft, it was a busy morning and there were a few people out walking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143096.html](http://www.nuforc.org/webreports/reports/143/S143096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
