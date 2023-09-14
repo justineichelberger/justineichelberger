@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Douglas (AZ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Young woman returning from church w/grandmother witness strange obj. w/ "flashing lghts going in circles." Cell phone had static.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00819.html](http://www.nuforc.org/webreports/reports/000/S00819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Bright White 2 Dimensional Circle intercrossing Jets flying in single file on sunny day.My husband and I were sitting on back porch when 2 jets passed over in front of us. We watched them go Eastward.  I kept watching them and following the jets with my eyes and head and could still hear them as they went by us and now I could see their tail ends, when all of a sudden a white flat circle that was brighter than the white clouds flew across (intercrossed) the tail ends of the jets.  My husband quit watching the jets as they had crossed over him.  He just slightly turned his head to watch them.  The jets were flying one behind the other keeping perfect spacing between each other.  I followed the bright white circle until it went behind a tree that obstructed our view.  The white Circle didn't go behind the tree on purpose, it was just a big tree that was on the side of the house that blocked my view.   My husband watched me stand up and follow the circle with my eyes and he turned to see what I was looking at and pointing at, that's when our view was ob! structed by our tree. The circle was flying as fast and steady as the jets and was very high in the sky. It was a perfect circle, brighter, whiter than a cloud. It looked flat almost like a orb dancing in your vehicle from jewelry or a watch that the sun reflected off of.  The circle didn't fly behind the tree on purpose it was just a big tree beside our house that blocked our view from seeing the circle any longer.  The circle was moving as fast and steady as the jets and was very high in the sky. There was no sound from the circle.  I don't know if the circle came out from a cloud next to the jets or where it came from.  I just began seeing it come from the right side going to the left side of the back end of the jets.  It was a sunny day.  Yes, there was some clouds but sun was shining and the wind was blowing.  My husband didn't see it because he didn't react fast enough and the tree obstruction didn't help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113635.html](http://www.nuforc.org/webreports/reports/113/S113635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
