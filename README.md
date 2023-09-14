@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Metallic cigar shaped craft seen above Oregon City.Metallic cigar shaped craft in the sky above downtown Oregon City at 7:45 AM.On way to school Friday morning I just turned off the 99E onto the Railroad Ave. (ally next to tracks) in downtown Oregon City when we noticed two young men outside their car on the right side looking up in the sky.  One of the men appeared to have been taking pictures with his phone and was on the other side of the road, as we drove by we looked up, but could not see anything as the buildings were blocking most of our view.Then as we started onto the 7th St. bridge my son says, “There is a silver cigar shaped craft in the sky, it looks like a commercial aircraft with no wings, its big like a 747 and is reflecting the sun, its very shiny”  He was looking to the right (North) above the Willamette River.I tried looking up and through my sunroof, but could not see at my angle, plus I was on the narrow 7th St. bridge, so I had to also keep my eyes on the road.  After crossing the bridge my son said it had disappeared into the clouds.My son is very into planes and jets and can tell what kind of aircraft is flying overhead down to the specific model of plane and airline, I firmly believe the detailed description he gave me of what he saw.I am hoping that the young men that were looking up saw it as well and were able to get some pictures as I would also like to see this craft.  I am also curious if anyone else got a glimpse of this craft, it was a busy morning and there were a few people out walking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143096.html](http://www.nuforc.org/webreports/reports/143/S143096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Actual photos.On Saturday night, early Sunday morning, my husband photographed to "stars."  They were moving rapidly and in circles.  The time on the photos are different from that of the time we were there after he had set the time stamp on tcamera.  The pictures are of a fast moving object and something shaped like the back end of a ship.  When we st theopped looking we then saw three,what looked like stars flying at very fast speed.  We kept watching and they flew over the mountain and after that we stayed out of curiosity and suddenly we both noticed two beams of light diagonally flash and go behind the mountain.  Shortly after we heard Peeble falling as if someone was coming.  We then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113580.html](http://www.nuforc.org/webreports/reports/113/S113580.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
