@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:44 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Actual photos.On Saturday night, early Sunday morning, my husband photographed to "stars."  They were moving rapidly and in circles.  The time on the photos are different from that of the time we were there after he had set the time stamp on tcamera.  The pictures are of a fast moving object and something shaped like the back end of a ship.  When we st theopped looking we then saw three,what looked like stars flying at very fast speed.  We kept watching and they flew over the mountain and after that we stayed out of curiosity and suddenly we both noticed two beams of light diagonally flash and go behind the mountain.  Shortly after we heard Peeble falling as if someone was coming.  We then left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113580.html](http://www.nuforc.org/webreports/reports/113/S113580.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Yellow/orange, angular &quot;minivan&quot; shapedI was hiking in Miniwaska state park in New Paltz, NY, on Saturday 9/14/13.  Towards the end of the hike (approx 3-4 pm) my friends and I climbed to the top of the Skytop Tower at Mohonk Mt Preserve.  We were just enjoying the view and the weather.  I was taking photos with my phone, mostly of my friends, but one or two looking at the Shawangunk Ridge in the park to the west of the tower.  I didn’t see anything myself at the time, but later on when I was looking through my photos noticed a strange object in the sky in one photo.  I thought it must have been an insect that passed in front of the camera, or a helicopter that I just hadn’t remembered seeing.  Attached is the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117500.html](http://www.nuforc.org/webreports/reports/117/S117500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
