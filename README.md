@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:48 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:53 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jamison (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright V shaped object very fast and LowLooking Eastward at about 70 deg up at about 1000 to 1500 ft. Flying from south to north I saw a V chevron shape Bright white light moving very fast in Aprox. 4 seconds it flew across about 120 deg of vision there was no trail or possibly very slight tail. I heard no noise what so ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77810.html](http://www.nuforc.org/webreports/reports/077/S77810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright object moved quickly, stopped and hovered without soundI was walking my dog with my wife and kids when I noticed a bright light moving in the sky. There were no flashing lights, just a single bright light. It then stopped and hovered. At the same time, I noticed a helicopter flying toward the object. I thought maybe they were both helicopters, and the hovering object was waiting for the other helicopter, but the helicopter then passed beneath it and continued on its path, while the bright object remained. The object appeared to omit a bright light but I could not see if it was shining a light on anything in particular on the ground. It then moved at a very fast pace northeast some distance before hovering again. Occassionally it stopped omitting the bright light, seemed to disappear except for a faint blue light, and then would re-appear as a bright light. Eventually we could no longer see it as it moved further northeast. My wife and our three kids all observed this. The speed which it moved suddenly and without any sound, and how it would briefly disappear and then re-appear, and what exactly it was doing has mystified me and my wife.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159354.html](http://www.nuforc.org/webreports/reports/159/S159354.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
