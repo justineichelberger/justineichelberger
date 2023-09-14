@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:26 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>strange light over san bernardinobasically at about 8pm looked up as a white owl passed right over my head and noticed a silent light moving at a very steady pace not too fast but not hovering,  I live somewhat close to an airport there are planes in the sky all hours of day and night the difference is you can hear them and see the flashing collision lights,  with this the olny reason I looked up is because I heard and saw the huge white owl passing right over top,   now I felt for some reason to keep watching the light so as I ran from backyard to front of house sure enough about 1 min after passing right over me the light dimmed rapidly into nothing it was moving from northwest to southeast dimmed right as it was about to fly over the city lights (I live just outside the city) ive seen meteor showers and shooting stars ect.   this was moving too slow and no trail seemed to be fairly low to the ground ,  I really hope someone else out there saw this thing ...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77830.html](http://www.nuforc.org/webreports/reports/077/S77830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Johnsburg (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 lights over the Fox river, 3 in formation and 4 following behind.Me, my boyfriend, and his mom were sitting outside on the Fox River having a bonfire and noticed 3 orange balls of light in the sky in a triangular formation.  They were then followed by 4 more, 1 by 1, over the trees across the river from east to west.  Altitude could not be determined nor could size.  Definitely not known aircraft or drones.  Disappeared without going into cloud cover.  They were in the sky long enough for his mom to run and get binoculars and we could make out a definite structure to the “spheres.”  So cool!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149356.html](http://www.nuforc.org/webreports/reports/149/S149356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
