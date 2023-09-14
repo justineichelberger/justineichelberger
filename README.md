@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Saint Clair Shores (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Flash of Light in Night Sky.I have been observing a single super bright flash of light lasting one to two seconds from my patio in the NW sky for most of the month of September.  I have observed it on about a dozen occasions, generally within the same sky space with some slight deviations of placement.  Because I have seen it regularly, I am unsure if it is flashing continually throughout the night.I have attempted communication via responding flashes of light utilizing a 1,000,000 candlepower portable hand held light.  No response. I attempted to locate it with 10X50 Binoculars and have seen nothing in the area where the flash occurred.I theorize it is possible but unlikely that it is Google or Government Satellite taking high resolution photographs of detailed portions of smaller incremental areas of Earth but cannot understand why at night or the need for a "flash."((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/121/S121985.html](http://www.nuforc.org/webreports/reports/121/S121985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Corola (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Several Orange lights in Sky OBX Corola, NCOn vacation in corola, NC.  Well, anyway watching the yankee game vs. Mariners on Sept 14, 2011 started at 10:00, after a while I decided to step outside to go to the outside bathroom and coming out of the bathroom I notice these strange orange lights glaring, just moving from one side to the other, at that point I called my wife and freind to come see and they also were amazed at what they had seen. These lights came and vanished I even took a quick video of it, but because it was night time you can only see the lights kinda, but im telling you what ever it was it was no weather balloon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83908.html](http://www.nuforc.org/webreports/reports/083/S83908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
