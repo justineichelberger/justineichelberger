@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:52 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mukilteo (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>When looking towards the N.W. sky from the back porch of my apartment, I witnessed a glowing, greenish object moving horizontally from the S.E. going N.W. at a constant rate of speed and not appearing to be an airplane, jet, meteorite or missile.At 22:29, I went out onto the back porch of my apartment which borders a heavily forrested area and stretched, looking up towards the Northwestern sky.  I was looking between two very tall cedar trees at the stars when I observed a glowing, greenish object moving steadily from approximately the Southeastern horizon to the Northwestern horizon.  I may very well have my directions a bit off center but I immediately thought that it was not a comet or meteorite because it was moving perfectly horizontally and not in a downward manner like an object entering the atmosphere.  It was definately not a private or commercial jet landing at Paine field and the object did not appear to be a missile because at an arms length of distance between thumb and forefinger, it measured at about8-10 millimeters in circumference.  I couldn't tell you how fast it was moving but it would be similar to watching a vehicle at maybe 20-25 miles an hour pass by you.  It was completely silent and a discernable glowing, greenish tail followed it.  I then went inside looking for the hotline number but couldn't find it so I decided to wait until I came to work tonight.  Then, at approximately 22:33 on the same night, I heard the most awful noise RESONATE from the forrested area behind our building.  It sounded like a cross between a coyote and a cow.  I'm not trying to speculate at any animal mutilations, but I began to freak out at that moment and brought my cats inside.  These howl-like noises continued for about six minutes at an interval of about a sound every thirty seconds, becoming more frequent towards the end.  Nothing else happened after that and the two incidents may or may not be related but on a side note, I work on the waterfront in downtown Seattle and have observed some interesting things floating about in the sky.  I listen to Art Bell on occasions when I can and I know that there are numerous sightings these days, so I hope this is useful information to you. Also, I just remembered that I noted that there were NO jets coming into or out of Paine Field for about three hours after this incident on the 14th.  The air was totally silent which was very unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09882.html](http://www.nuforc.org/webreports/reports/009/S09882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green fireball followed by red tail,I saw a green ball followed by a red tail. Looked like a fireball. It was decending and disappeared behind the houses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83948.html](http://www.nuforc.org/webreports/reports/083/S83948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
