@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Sun Valley (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Last night, I was letting my dog out to go potty around 4-4:30am in Sun Valley, Idaho (Elkhorn area).  I looked up at the stars which was great because there was no smoke - I could see the stars!  I thought I saw a satellite and then I saw a second one right behind it in perfect alignment and then a third, a fourth and I counted at least 12 of them (maybe more) - all in a perfect line moving at the same pace. If I could measure from my vantage point and use my fingers they were about an 1.5 inches apart.  I couldn't hear them, but they looked like a satellite (but moving too fast for a satellite), were in perfect formation and so many of them!  It was CRAZY town!!! I wish I had my phone to record it, but it was in the middle of the night and I was letting my dog go to the bathroom and from now on, I'll always bring my phone with me - trust me!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159377.html](http://www.nuforc.org/webreports/reports/159/S159377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Cadiz (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>i belived it was going fast to cover the distance that it did. it was no airplane!!i happened to look out the window around 8:45 pm. on the 14 of sept. 01. when isaw what i thought was a star. but i realized it was too big to be a star. it seemed to be in one place, then it started to move. i called for my mother to hurry. to come and see. by the time she came into my room it had reversed it's self and started to go in the other direction. it went behind a tree, and slowly dimmed out. my mother saw a red light on it, that was not blinking. i didn't see that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19550.html](http://www.nuforc.org/webreports/reports/019/S19550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
