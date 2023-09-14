@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:42 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Clairton (PA) reported seeing craft that fit the description of some '' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Young woman w/ 4 friends see obj. streak out of the sky, stop, and hover in N sky.  Larger than sun; orange & yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00817.html](http://www.nuforc.org/webreports/reports/000/S00817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Slow moving Chevron shaped flying craft, glowing with a pattern of blinking and changing lightsI was on the phone talking in my backyard looking at the northwestern sky.  This object flew slowly in a southwestern direction and crossed the big dipper from my vantage point.  It continued on a path like an airplane would and had no erratic movements.  However, I heard no noise of heli-engines or airplane sounds. It could not have been too high up, probably the average altitude of a plane landing in a few minutes.  I am not familiar with altitudes sorry.  Anyways, I first thought this was an owl flying and some lights were shining up into its wings as its shape was a chevron or V shape. The shape seemed to disappear and it looked like it was the same owl turning and flying and reappearing in the light. I was debating whether to take a picture or video the object as I was on the phone. As I kept watching this "thing" I realized that it was not an owl and it was some flying craft.  It had a pattern of light that was changing and blinking and this i! s what gave the appearance of an owl flying into and out of light.  The light was a solid glowing orange similar to a 60w light bulb color. The whole craft was lit from end to end. Then the light would blink off and on 2-3 times and return to the full glow. Then when it was fully lit a dark line would move from the left to right "wing".  Then the light would return to the blinking and then the left right.  It continued this same pattern until it flew out of my sight.  It was not a normal aircraft and I am not a paranormal or ufo type person. I dont drink or use drugs either.  The sky is very clear and I saw plenty of other aircraft in the sky during this same time period. All of them had the traditional strobes, red green blue etc.. It was not one of these. It was not a searchlight or anything similar to a police helicoptor.  That is about all I know, I went online to look and see if anyone else saw this tonight and found this site, so i wanted to report it.  I ho! pe someone else saw what I saw and can explain it. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92772.html](http://www.nuforc.org/webreports/reports/092/S92772.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
