@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:44 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately NA - NA minutes.</sub><blockquote><sub>Yellow/orange, angular &quot;minivan&quot; shapedI was hiking in Miniwaska state park in New Paltz, NY, on Saturday 9/14/13.  Towards the end of the hike (approx 3-4 pm) my friends and I climbed to the top of the Skytop Tower at Mohonk Mt Preserve.  We were just enjoying the view and the weather.  I was taking photos with my phone, mostly of my friends, but one or two looking at the Shawangunk Ridge in the park to the west of the tower.  I didn’t see anything myself at the time, but later on when I was looking through my photos noticed a strange object in the sky in one photo.  I thought it must have been an insect that passed in front of the camera, or a helicopter that I just hadn’t remembered seeing.  Attached is the photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117500.html](http://www.nuforc.org/webreports/reports/117/S117500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Douglas (AZ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Young woman returning from church w/grandmother witness strange obj. w/ "flashing lghts going in circles." Cell phone had static.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00819.html](http://www.nuforc.org/webreports/reports/000/S00819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164674.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164680.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164641.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164888.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164892.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
