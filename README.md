@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 13 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 14 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kentwood (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown SightingWalked out onto our back porch a few minutes before 11:00 PM, EST, 09/13/13 with our dog before bedtime.  Noticed (2) glowing objects, red/orange in color in the sky that appeared roughly 15 deg. North of East and moving SW.  Looked at my watch and it was precisely 11:00 PM.While I watched, the object which appeared to be in a more Southerly position paused and did not move again until the trailing object caught up and passed.  After it had passed, both moved on in a South Westerly direction.After (2) minutes or so, both objects simply disappeared.  A few seconds later, another object without so reddish a color appeared moving in the same general direction.  It also disappeared much quicker than the other two.The entire incident was over within (5) minutes.The event occurred in the Grand Rapids, MI vicinity, with the objects appearing North of Gerald R. Ford Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102219.html](http://www.nuforc.org/webreports/reports/102/S102219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Pleasant Hill (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Flying objects over Pleasant Hill, CA  09/14/2008I was standing on the deck of my apartment.  Airplane fly over through out the day because I live in a flight pattern, and I always look up to see.  This morning I heard a plane but it was a passenger plane or that size, flying up high and as I looked at the plane, lo and behold if there were not 3 discs shaped “craft” flying behind this jet.  I could see they were probably higher in altitude; they seemed to just follow along.  The were not flying in a “row” they were just 3, close in proximity and one of them seemed to be going back and forth, as if “playing around.”  I watched one of the “craft” fly up even higher and disappear as the other 2 continued following. Now this happened in a 15-20 second span.  They were reflecting light so they were solid.  Not birds, not balloons, no wings but clearly following above and behind the plane.  I wanted to run and get my camera but I knew that by the time I got it they would be out of view from my vantage point.  I am not crazy and actually feel crazy even writing this but it’s not the first time I have seen “ufo” activity here in this area and it is never reported on the news. I am curious as to why when I have seen objects/ufo's, that there is nothing, nothing! even in the newspaper.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65677.html](http://www.nuforc.org/webreports/reports/065/S65677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164594.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164658.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164596.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165008.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164654.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
