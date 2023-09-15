@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:21 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Laguna Beach (CA) reported seeing craft that fit the description of some '' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Saw a UFO near Coast Highway in South Laguna Beach, Solana Way.I was living by the coast in Laguna Beach Ca.  I woke up to an "instant awake" and looked out over the ocean and saw some fast moving lights in the distance that just stopped, turned and then started heading toward where I was. I sensed it was heading toward me so  I ran into my roomates room to wake him up.  The next memory I had was standing outside looking up at the bottom of a craft from about 15 feet.  I can still hear the sound of the engine as it moved away slowly.  My roomate was standing in the doorway and looked frightened.  At the time I called the Air Force Station and they suggested I report it to a UFO "club" or something.  I called and they sent someone out, but I never filled out the form.  They had told me that I would get a pin or something and become an "Official" member. I was not interested in that. The interviewer was weird. I did, however see a report in the paper, Orange County Register, the day after that a number of people had reported seeing a UFO from Los Angeles to San Diego.  (Laguna is in the middle).  Years later I went back to get a copy of the article, but left it behind after a divorce.((NUFORC Note:  Date is approximate.  One of three reports by this witness.  PD))((FOLLOW-UP COMMUNICATION FROM WITNESS))Hi,I made an entry dated September 1973 in Laguna Beach California. At the time, I saw an article the following day in the Santa Ana Register that many others had spotted UFOs in that sky that evening.  For fun, I called the library a few weeks ago and they found the article and it is Dated October 24, 1973.  I had put down September 1 as I knew it was sometime around then when I was living there.  I do not know if the actual date is important, if so, could you change it?  Also, would you like to have acopy of the newspaper article?  Also, while searching for  the one I had remembered seeing, they found another dated October 18th about a man that had been frightened and reported seeing a UFO topolice.  They are sending me that article as well. The librarian said that they had also come across an article from 1991 making reference to a number of sightings made in Orange County in 1973.((END))((NUFORC Note:  We have requested the articles alluded to above, and the correct date of the 1973 sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15777.html](http://www.nuforc.org/webreports/reports/015/S15777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1957, an anonymous witness in Lake Jackson (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.21666666666666667 - 0.21666666666666667 minutes.</sub><blockquote><sub>fireball seen on country  road.20 ft tall fireball flies approx. 10ft from car with a doctor and a rent a car business owner ,doctors office manager and housewife on country road.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to provide little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67157.html](http://www.nuforc.org/webreports/reports/067/S67157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
