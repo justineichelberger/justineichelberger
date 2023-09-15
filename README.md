@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Larkspur (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Object seen in the eastern sky that was originally slightly smaller but with a planetary brightness which travelled up and away and diminshed in brightness than changed direction downward at a 45 degree angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31495.html](http://www.nuforc.org/webreports/reports/031/S31495.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Middlebourne (WV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>3-4 very large dirt brown animal-like objects floating along side cloudsMiddlebourne WV  I’m not sure if it was the fall of 2009 or 2008. I was on my back deck.  It was around 5-6 pm.The sky was blue and there were white puffy clouds.I saw three to four dirt brown in color (not gray or black like birds look), and besides they were much bigger than birds..but they  looked animal-like I knew they weren’t birds, because birds soar or fly and these were just floating with the cloud.  But they had a form.  They were definitely not balloons.I also could tell they were quite large, because if a buzzard, the bigget bird around here was that high it would have been about a sixth to an eighth of the size of these things, and it would have been soaring and flying.They were stationary and were in a line side by side but separate individual objects, not moving any parts, just floating with the clouds.I looked at them for a short while but could not figure out what they were.  They didn’t look like anything I had ever seen before.I went into my house to get a pair of binoculars, but when I got back outside, they weren’t there.I have never seen anything like this before and have not seen them since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75821.html](http://www.nuforc.org/webreports/reports/075/S75821.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
