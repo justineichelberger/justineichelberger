@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Oelwein (IA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a cigar shaped craft with muti-colored lights around it traveling toward the southwest absolutely silently and at a rather slow speed.The craft we saw was mainly in sillouette as it was quite dark out.  However there were multi-colored lights ringing the craft. We were all of the opinion that it was at a fairly low altitude and there was absolutely no noise emenating from the craft.  It was traveling from the Northeast to the Southwest at a rather slow speed and eventually it disappeared behind trees.  I really do not believe that it was a blimp because the part of Iowa we saw it is pretty rural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35132.html](http://www.nuforc.org/webreports/reports/035/S35132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Hattiesburg (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>three lights in triangle shape bright flashing and incredible movementFall of 1974, I was doing school homework in my bedroom (across the hall from my parents room).  My mother always looked at the sky before closing her bedroom curtains at night each evening. On this night, she called me to look at something in the sky that she thought was strange. I crossed the hall and looked out her window and saw three lights, triangular shape with one light at the top and two on the bottom, drifting slowly across the sky. I told her it was a jet, but she said "no, they were doing something strange a moment ago".  A minute later, the lights stopped moving and then began to flash (white flash) one at a time with the brightness of a flashlight right in your face. The lights began to flash faster and then they suddenly moved at three different angles at an incredible rate for which I know of no craft that could do this. Then the lights suddenly moved straight up and disappeared.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40724.html](http://www.nuforc.org/webreports/reports/040/S40724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
