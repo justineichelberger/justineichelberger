@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Taft (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Elliptical objects in skies over Taft, CA sighted in the afternoonA group of skydivers, including two professional pilots, at 3pm in the afternoon saw four white objects in the sky - very high, one pilot estimated 40 to 50,000 feet.  When observed with binoculars the objects appeared elliptical in shape and greyish white.The four objects appeared to move in geometrical formations, at first in a straight line, then forming a square, a triangle of sorts and then a straight line again.Everyone observed the objects for half an hour - then decided to go back to skydiving as the objects continued to move in formations, but did not appear to move closer or further away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58793.html](http://www.nuforc.org/webreports/reports/058/S58793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Covington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1978 Covington, WA Disc-shaped ObjectDisc was cobalt blue in color, roughly 100 ft wide and 6 feet thick. It was first seen in Souther sky as a light with same luminescence as Venus. It approached and to the North and began descending at a 45 degree angle when it was approximately a mile away. We stood up when the disc was roughly 300 years away. The disc hovered over our home, directly over head, and we got out from under it in order to see it. After a minute of looking at it a white strobe light flashed at us for 5-10 seconds and then stopped. Before it took off, the ship hummed like a bench grinder, the oscillations building to an apex and when the oscillations 'fell into phase' the entire ship visably 'clicked' into gear, moving less than an inch, and then headed West at a slow speed (5 mph) for a few seconds and then flew straight across the sky so fast it was a blur until it was so small on the horizon I couldn't see it. Then, the object seemed to 'draw a line of light' from its point on the horizon to the stars, at a 45 degree angle; the line of light caught up with the point of origin and it looked like a star in the Western sky, and then the light went out.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34666.html](http://www.nuforc.org/webreports/reports/034/S34666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
