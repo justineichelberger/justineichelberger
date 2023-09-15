@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:58 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My partner and I seen an object with hazy amber/yellow lights which look like a giant jellyfish flying slowly over east London 15/09/07At 00:20 I was at my kitchen sink and when I looked out of the window and seen what i first thought to be a low flying plane at first glance. I opened the back door to my flat and was shocked  to see and object which had in defining features but a hazy low amber lights. There what appeared four of them but all seemed to be apart of the same craft.I shouted to my partner to come and see this thing in the sky, when she seen it she described it as a large jellyfish. The object was not travelling fast and did not change in speed or make any sound, the lights were fairly large and two of light on each side seemed to circle round the middle lights. We watched this for a few minuets and it disappeared over the building.As I can not explain what it was i fear my description would not give it the affect it had.This flew over east london 15th September 2007, i would to know if anyone else seen this or give some explanation to what it might of been.((NUFORC Note:  This case corrected on January 08, 2009.  In error, we indicated that the sighting had occurred in London, Alaska.  Our error, and our gratitude to a careful reader.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58777.html](http://www.nuforc.org/webreports/reports/058/S58777.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hugo (OK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighting of large bright silver orb-like craft followed by sighting of 2 cylinder silent craft.On 09-16-03 about 15:00 hrs. my wife and I were driving back from Hugo to home and my wife spotted a silver orb or globe shaped object, perfectly round and I saw also. We watched for about 3-4 minutes and orb (very large) then turned from bright slver to dull grey and vanished.Seemed to be about 5000 ft. or higher & large. We turned onto a county road off highway and then spotted two light brown or tan cylinder objects with blunt ends, about the size of 757 jet. They were drifting SW about 600-800 ft.in the air, perfectly silent, and went over horizon out of sight. This was on a day with sky mostly clear with a few patchy clouds. Slight wind from north. Heard no sound on cylinders. Cylinders drifted away from us to SW and did not change color but drifted silently out of sight.Ths all happened in the length of a few minutes. First sighting of the bright, silver orb or globe high up to the west of town and then almost immediately thereafter, sighting the 2 lt. brown or tan large cylinders drifting silently to sw of town. Both y wife and I saw the same thing. She stayed in car and I got out in the road and watched. My wife drew drawings of the objects we saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31723.html](http://www.nuforc.org/webreports/reports/031/S31723.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
