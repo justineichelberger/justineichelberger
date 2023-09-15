@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Covington (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1978 Covington, WA Disc-shaped ObjectDisc was cobalt blue in color, roughly 100 ft wide and 6 feet thick. It was first seen in Souther sky as a light with same luminescence as Venus. It approached and to the North and began descending at a 45 degree angle when it was approximately a mile away. We stood up when the disc was roughly 300 years away. The disc hovered over our home, directly over head, and we got out from under it in order to see it. After a minute of looking at it a white strobe light flashed at us for 5-10 seconds and then stopped. Before it took off, the ship hummed like a bench grinder, the oscillations building to an apex and when the oscillations 'fell into phase' the entire ship visably 'clicked' into gear, moving less than an inch, and then headed West at a slow speed (5 mph) for a few seconds and then flew straight across the sky so fast it was a blur until it was so small on the horizon I couldn't see it. Then, the object seemed to 'draw a line of light' from its point on the horizon to the stars, at a 45 degree angle; the line of light caught up with the point of origin and it looked like a star in the Western sky, and then the light went out.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34666.html](http://www.nuforc.org/webreports/reports/034/S34666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Peekskill (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Massive, low flying, slowly moving craft that emitted no sound.While travelling a back road through a wooded residential area, I observed a very large object in the sky that appeared to be just above the tree tops.  I slowed my car to a near stop.  My impression was that it was massive; football field in size.  I could almost sense its mass before seeing it. It moved extemely slow, there was no sound.  There were lights,but I can no longer remember if colored or white nor the configuration. The lights were not exrememly bright.  Its color was dark and shape unknown because of tree cover. I could not clearly see its details, only a partial outline and impression of tremendous mass.  I was perplexed and frightened. I was following a friends car. When we reached our destination, her first words to me, unprovoked,were "Did you see that?"  We were stunned. I remain stunned to this day.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52400.html](http://www.nuforc.org/webreports/reports/052/S52400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
