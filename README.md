@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Triangular formation of 3 ufos near Guelph onDriving down jones baseline,many cars  were pulling over to take a look. I saw 3 rectangular shapes in the blue sky, atnfirst  I thought they were clouds.  I then noticed them moving directly upwards and noticed a trail of brilliant white coming out of them.  The trail color almost looked like giant sparklers in the sky, but at the tip of each rectangle I could see what appeared to be a flashing orb.  The sky was so bright that it was hard to see.   The 3 shapes were in a triangle formation.  I have never seen anything like it and felt glad to have others think it was worth stopping to look at too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92876.html](http://www.nuforc.org/webreports/reports/092/S92876.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Oelwein (IA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>a cigar shaped craft with muti-colored lights around it traveling toward the southwest absolutely silently and at a rather slow speed.The craft we saw was mainly in sillouette as it was quite dark out.  However there were multi-colored lights ringing the craft. We were all of the opinion that it was at a fairly low altitude and there was absolutely no noise emenating from the craft.  It was traveling from the Northeast to the Southwest at a rather slow speed and eventually it disappeared behind trees.  I really do not believe that it was a blimp because the part of Iowa we saw it is pretty rural.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35132.html](http://www.nuforc.org/webreports/reports/035/S35132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
