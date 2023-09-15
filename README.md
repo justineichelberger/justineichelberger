@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>Here is my reportI was 14 years old, in a bedroom in my parents 2 story solid brick home in Yakima, WA. At about 8:00pm the walls of my room began to rumble & shake & there was an unbelievably loud sound. I ran upstairs and screamed "are we having an earthquake?" and looked to see my Mom & Dad looking out a high window above our next door neighbor's house, upwards, and the sound persisted.Then I got to look out the window & I saw a huge--as big as 3 or 4 houses around us (and we lived on a hill)--HUGE-Round Saucer. It had some kind of pulsating lights on the sides & was making this constant rythmic PULSATING-noise.We were all mesmerized by it (a few minutes) and then it just shot up higher thru the neighborhood.I do not remember any discussion among us (parents, self, 8 & 10 yr old sister) or  anything after that until the next afternoon when I read in the Yakima Herald that many people reported seeing some kind of UFO the night before in our part of town.This might be old news to you guys becuse it happened 38 years ago but I remember it clearly. UFO Books abound & there are a few about strange sitings near strange Hanford & the entire Upper & Lower Yakima Valley for 40 years. One is called The Yakima Experience/UFO sitings...the author had excellent documentation from Law Enforcement, State Patrol, etc & lots of black & white photograghs.Sincerely, ((name deleted))((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24052.html](http://www.nuforc.org/webreports/reports/024/S24052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Rainbow colored cloud that changed colors constantly, hovering just above treeline.Mom was bringing me to school and once we got in the car I noticed a "cloud" that seemed to hover just above the tree line that was filled with the colors of the rainbow, although they were always changing, similar to a soap bubble. What was strange was that it was so low, the fact that it was the only thing in the sky, and it was too warm to have ice crystals in the air. I brought my mother's attention to it and we stopped in the could-a-sac long enough to see it change colors multiple times. We then ran to a neighbor's house and pointed it out to her. She didn't believe that what we saw was anything special. Later on we heard that :clouds" like this should be reported as a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30877.html](http://www.nuforc.org/webreports/reports/030/S30877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
