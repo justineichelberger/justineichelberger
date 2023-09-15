@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Middletown (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Seen a glowey firey bright light above horizon, above the trees, moving towards sky, diagonally.  It was blazing brighter red toward the center, and had a lighter, but yet still bright red trail around the outside.  It was not of any particular shape, but seemed to look the shape of how tips of campfire burns.  Called my daughter out to look, and she ran towards the open yard to see it better, and it dimmed out slowly, disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143144.html](http://www.nuforc.org/webreports/reports/143/S143144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately approx 4 hpurs - approx 4 hpurs minutes.</sub><blockquote><sub>toddler speaks of Space men and Space craftI have two sons born 14mths apert, the event took place, in the Kitts Green area, Birmingham, England on a bright day.  My husband took the eldest son to the local shop, should have been away about 20 minutes. He did not return until about four hours later we were getting worried over the two of them.  Then he returned and we wanted to know where he had been, his reply was to the shop.  He did not realise how long he had been away.  Then my son started talking about where he had been, he described somemen and what I realised later was very much like the inside of a space ship.  He did say what the men had done but to be honest I cant remember that bit. This child was too young less than 3 years old at the time so he had no prior knowledge to draw from.  It has been on my mind ever since and I am glad that I have told you now at least I have shared the experience.  He was not harmed in any way but was always intelligent as a child.  Shortly after their return we saw an object in the sky it was a cigar shape at first but then it turned and was a cicular shape as you imagine a ufo really it turned and was gone in a flash.((NUFORC Note:  Date and time are approximate.  NUFORC has received many reports that are similar to this one.  We do not understand how young children, who apparently have had little or no exposure to the UFO phenomenon, can apparently possess seemingly detailed knowledge about the specifics of the subject.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16452.html](http://www.nuforc.org/webreports/reports/016/S16452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
