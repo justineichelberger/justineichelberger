@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:46 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Rainbow colored cloud that changed colors constantly, hovering just above treeline.Mom was bringing me to school and once we got in the car I noticed a "cloud" that seemed to hover just above the tree line that was filled with the colors of the rainbow, although they were always changing, similar to a soap bubble. What was strange was that it was so low, the fact that it was the only thing in the sky, and it was too warm to have ice crystals in the air. I brought my mother's attention to it and we stopped in the could-a-sac long enough to see it change colors multiple times. We then ran to a neighbor's house and pointed it out to her. She didn't believe that what we saw was anything special. Later on we heard that :clouds" like this should be reported as a ufo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30877.html](http://www.nuforc.org/webreports/reports/030/S30877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Ferndale (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Royal Oak and Ferndale Police watched UFO from the roof of the Royal Oak Police Station.I was around 16 years old, not sure of the date, between 1965 to 1967.  My father was driving east bound on 10 Mile Road, just east of the tracks, my mom was sitting up front in the passenger seat.  I was in the back seat, looking down, working on a word search.  I did not see it... It was on a Sunday evening....we were going home from a restaurant, that was at 10 Mile road and Woodward, next to the Detroit Zoo....no I696 at that time.  My dad yelled as our vehicle goes over the curve, I jerked up to see whats going on, just in time to see something just missing our windshield, I really wasn't sure what I just saw, as my mom whips around pointing her finger in my face, telling me that I was not allowed to anyone ever, to what just happened...  To tell you the truth, I wasn't sure what just had happen any way....But on Monday the next day, it was in the Royal Oak Daily Tribune, that the Royal Oak Police and Ferndale Police watched a UFO on the roof of the Royal Oak Police Station....I know it was between the years of 1965 thru 1967, because when my brother went into the army, my dad started taking my mom and I out for dinner on Sundays....My brother served the army between those years... I wish I had saved the news article, but didn't and have been looking for it ever since....I even went to the Royal Oak Library searching and failed....I wish I saw more, but that was one of several sightings I've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147351.html](http://www.nuforc.org/webreports/reports/147/S147351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
