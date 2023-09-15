@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>ok.im 28,this happened when i was ten.i head a telescope i used to look at mt. si. it was a clear day so i left the scope out on the lawn. that night i was playing on the lawn when my eyes drifted and i spotted a triangle shape in hte sky. i pointed the telescope at it and saw four or five spacecraft.they were all meneuvering around the center. i showed my dad and he got mad at me. we both got scared. i didnt understand what i was seeing. he went back to working on his volkswagens.i never been the same inside after that day.weird. i dont have enough space to tell the whole memory.((NUFORC Note:  Date is approximate.  We have assigned an artificial date for the alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19363.html](http://www.nuforc.org/webreports/reports/019/S19363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Guelph (Canada) (ON) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Triangular formation of 3 ufos near Guelph onDriving down jones baseline,many cars  were pulling over to take a look. I saw 3 rectangular shapes in the blue sky, atnfirst  I thought they were clouds.  I then noticed them moving directly upwards and noticed a trail of brilliant white coming out of them.  The trail color almost looked like giant sparklers in the sky, but at the tip of each rectangle I could see what appeared to be a flashing orb.  The sky was so bright that it was hard to see.   The 3 shapes were in a triangle formation.  I have never seen anything like it and felt glad to have others think it was worth stopping to look at too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92876.html](http://www.nuforc.org/webreports/reports/092/S92876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
