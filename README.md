@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two green lights were witnessed by myself and my coworker in Palm Bay, Florida on September 15, 2009.I was on my way home from work at approx. 9:45pm. I was talking with my co worker over the phone. Just as I was crossing the top of the I-95 overpass on Palm Bay Rd., I looked over and saw two green lights in perfect alignment with each other, motionless in the sky over a section of woods off to the east of I-95.  The objects did not appear to be moving and were about 200-300 feet off the ground. I immediatly asked my co worker if she was seeing the same thing.  She replied with a no.  I then turned down Hollywood Blvd, where the object was,  It then quickly darted over I-95 and then stopped over the highway and then again slowly began to move west. At this point my co worker who was still on the phone with me now began to see one of the green lights above Emerson Drive, which is west of I-95 and 3 miles west of where I was. The other green light was not in sight for about 1 minute and then my co worker began to see the second light as well.  I lost sight of the object and then my worker said the object was out of her sight as well after about 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72466.html](http://www.nuforc.org/webreports/reports/072/S72466.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in North Bend (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>ok.im 28,this happened when i was ten.i head a telescope i used to look at mt. si. it was a clear day so i left the scope out on the lawn. that night i was playing on the lawn when my eyes drifted and i spotted a triangle shape in hte sky. i pointed the telescope at it and saw four or five spacecraft.they were all meneuvering around the center. i showed my dad and he got mad at me. we both got scared. i didnt understand what i was seeing. he went back to working on his volkswagens.i never been the same inside after that day.weird. i dont have enough space to tell the whole memory.((NUFORC Note:  Date is approximate.  We have assigned an artificial date for the alleged incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19363.html](http://www.nuforc.org/webreports/reports/019/S19363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
