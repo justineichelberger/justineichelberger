@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Poquoson (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO sighting in Poquoson VA.I have just seen something I have never in my life witnessed.  At about 9:35 I was driving to return a movie and saw a brilliant bright light streaking across the sky in my sight, I had to stop the van and look.  As the object traveled across at an extremely high rate of speed it disappeared.  I couldn't believe it.  It was something unexplainable.  I returned home and contacted Langley Air Force Base who confirmed that they had no testing or aircraft up tonight. (we have cloudy conditions here as the tropical depression approaches) I also contacted the local TV station to see if it was perhaps a meteor of some kind or if perhaps someone else had called in about this incredible sight.  They informed that they had any calls yet but that they would check for the possibility of a meteor or whatever else it might be.I have NEVER seen anything like this, this bright object was traveling at an incredibly high rate of speed and just disappeared in mid air.  I wish to God I had a camcorder or camera with me at the time.  Proof is always better with a photo or picture.I hope you check this out or at least find this as interesting as I do.  ((name deleted))((FOLLOW-UP REPORT FROM SAME WITNESS))It was more than likely less than a minute.I stopped my van in the street to watch it.  I did see it though.  I am not some nut case who thinks green men are invading.I was driving my vehicle and noticed the object through the windshield on my left hand side (the front left side).  It was very bright and was traveling extremely fast.  It was at this point I stopped the van (there wasn't any traffic in my lane).  As I watched the object soar through the sky, I tried to see if it could be one of Langley's aircraft, but the object disappeared as it was traveling from NE to NW.   There was no trail that I saw behind it, it just disappeared mid air.  I was shocked.  I still can't believe Isaw it all.  This did however occur and I immediately called Langley AFB/NASA to ask if there was any type of testing or flights in the air.  They assured me there were none.  I spoke with 2 people there and told them what I had observed.  I also contacted the local news to check on the possibility of a meteor orif perhaps other people had phoned in about the object as well.  They said I was the first so far but they would check it out.  No meteor reporting so far.Anyway, you can choose to believe what you want, but I did see this happen.  I really wish I could have captured the whole thing on film for irrefutable proof, but that just isn't the case.Thank-You again for your time.((END FOLLOW-UP))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25081.html](http://www.nuforc.org/webreports/reports/025/S25081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oneonta (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Disk shaped object discovered in photograph.I went for a drive to take some landscape photo's for some paintings I am working on. The clouds were beautiful so I decided to take random photos of the sky for later study. After downloading them to my computer tonight, I have discovered a dark oval shaped object in one of the photographs which I did not notice at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72323.html](http://www.nuforc.org/webreports/reports/072/S72323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
