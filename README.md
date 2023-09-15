@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:46 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Laredo (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>In the fall of 1976, three of us saw a grayish oval ufo with lighted windows hovering very low above some trees.This took place in October or November of 1976.  All three of us (my mother, my cousin and I) were born and raised in the Laredo. I had come to Laredo to visit my family, as I had been living in Mexico since 1956.   My cousins knew I was interested in UFOs and that I believed there was life in other planets.  They told me that there had been a lot of sightings recently in Laredo with people calling in to tv & radio stations etc. about it. That afternoon, my cousin drove my mother and me to her house.  She parked her car on Davis St. looking north to let us out and then she started yelling, "The thing! The thing!" I looked at her and said, "What thing?"  She then pointed straight ahead and again repeated the same words.  I looked towards where she was pointing and a short distance away, hovering right above the trees was The  Thing.  It was dusk and I could see clearly the oval shaped ufo with lighted windows all around it.  As my cousing changed shifts to drive toward! s it, it zipped away in an instant.  One minute it was there, the next it was gone.  We were very excited about our experience which I have never forgotten and still tell people about it, especially because it was such a close encounter.  It wasn't like way up in the sky and is it or isn't it.  We know what we saw.   At that time it didn't occur to any of us to report it. Now I wish I had.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83412.html](http://www.nuforc.org/webreports/reports/083/S83412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Larkspur (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Object seen in the eastern sky that was originally slightly smaller but with a planetary brightness which travelled up and away and diminshed in brightness than changed direction downward at a 45 degree angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31495.html](http://www.nuforc.org/webreports/reports/031/S31495.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
