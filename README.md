@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 15 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately approx 4 hpurs - approx 4 hpurs minutes.</sub><blockquote><sub>toddler speaks of Space men and Space craftI have two sons born 14mths apert, the event took place, in the Kitts Green area, Birmingham, England on a bright day.  My husband took the eldest son to the local shop, should have been away about 20 minutes. He did not return until about four hours later we were getting worried over the two of them.  Then he returned and we wanted to know where he had been, his reply was to the shop.  He did not realise how long he had been away.  Then my son started talking about where he had been, he described somemen and what I realised later was very much like the inside of a space ship.  He did say what the men had done but to be honest I cant remember that bit. This child was too young less than 3 years old at the time so he had no prior knowledge to draw from.  It has been on my mind ever since and I am glad that I have told you now at least I have shared the experience.  He was not harmed in any way but was always intelligent as a child.  Shortly after their return we saw an object in the sky it was a cigar shape at first but then it turned and was a cicular shape as you imagine a ufo really it turned and was gone in a flash.((NUFORC Note:  Date and time are approximate.  NUFORC has received many reports that are similar to this one.  We do not understand how young children, who apparently have had little or no exposure to the UFO phenomenon, can apparently possess seemingly detailed knowledge about the specifics of the subject.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16452.html](http://www.nuforc.org/webreports/reports/016/S16452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two green lights were witnessed by myself and my coworker in Palm Bay, Florida on September 15, 2009.I was on my way home from work at approx. 9:45pm. I was talking with my co worker over the phone. Just as I was crossing the top of the I-95 overpass on Palm Bay Rd., I looked over and saw two green lights in perfect alignment with each other, motionless in the sky over a section of woods off to the east of I-95.  The objects did not appear to be moving and were about 200-300 feet off the ground. I immediatly asked my co worker if she was seeing the same thing.  She replied with a no.  I then turned down Hollywood Blvd, where the object was,  It then quickly darted over I-95 and then stopped over the highway and then again slowly began to move west. At this point my co worker who was still on the phone with me now began to see one of the green lights above Emerson Drive, which is west of I-95 and 3 miles west of where I was. The other green light was not in sight for about 1 minute and then my co worker began to see the second light as well.  I lost sight of the object and then my worker said the object was out of her sight as well after about 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72466.html](http://www.nuforc.org/webreports/reports/072/S72466.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [790](http://www.nuforc.org/webreports/reports/164/S164668.html)
-- [789](http://www.nuforc.org/webreports/reports/164/S164798.html)
-- [788](http://www.nuforc.org/webreports/reports/164/S164652.html)
-- [787](http://www.nuforc.org/webreports/reports/164/S164656.html)
-- [786](http://www.nuforc.org/webreports/reports/164/S164655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
