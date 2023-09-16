@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Concord (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large craft seen hovering over trees along Route 2 in Massachusetts.My sister and I were heading east bound toward Boston on Route 2 in Massachusetts. Over the trees I saw a large craft hovering noiselessly. It had a gray 'hull' with a large white glowing dome on the top. There appeared to be portholes around it. The glow was so bright it illuminated the trees underneath it. I should have stopped because we were passing by and my sister was in the car reading and did not look up until I  started yelling 'Did you see it?!? Did you see it?!?' By that time, the saucer was obscured by the trees, but she did see the very bright light. I turned around as soon as I could to come back for a second look but it was gone. I know other people must have seen this. There was quite a bit of traffic on Route 2 at the time. Since then I have occaisionally snooped around on the net to see if anyone else reported a similar occurance or to see if Hanscon AFB is up to anything strange since Concord is quite close to it. I have yet to see anything but I know I am not crazy, and I KNOW what I saw was bizarre. I would like to provide photos of the area where I saw it and also to draw a picture of the saucer (I am an art school drop out).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05005.html](http://www.nuforc.org/webreports/reports/005/S05005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two slow, very high flying dark oval objects moving in unisonOn Friday,September 16th, 2011.  While at work in Scarborough  I had decided to go out for a quick smoke outside at 4:49pm.Looking high in the sky to the south .Way, way up there high in the sky.Were two dark somethings crossing the sky.I could NOT identify them with the naked eye.As they looked kind of distorted in movement  Instantly after 30-40 seconds watching them.I ran back into my workplace and retreived my camera.Being back outside less than 30 seconds.Looking up, I could still see them moving across.I then started to photographed them as they crossed the sky togther in unison.They moved from east to the southwest towards Lake Ontario.After taking six pictures and looking.I lost sight of them moving directly southward  These were very high in the sky to be birds.Not to mention the movements were very slow.In examining the photographs.They do not look like birds or even black jets.I had also noticed earlier that day 10:05am.Some military aircraft presence in the same area over the lake.Added in additional observation :  That September has become a hot month in UFO sightings like August.This I have noticed since 2003.It does really make one wonder ?   What's up ?   If one takes a a moment to look up !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84131.html](http://www.nuforc.org/webreports/reports/084/S84131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
