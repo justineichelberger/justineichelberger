@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bricktown (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Star like but much brighter moving back and forth fading in and out. Definitely not a starI was outside facing the east at 230am.  I was looking at the sky and at first I thought it was a star but it was much brighter.  I noticed it would move back and forth and fad.  It was much brighter then a star.  I went back outside around 530am and it was still there and I could really notice it was moving up and down back and forth.  When I went back out at 6am, it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148884.html](http://www.nuforc.org/webreports/reports/148/S148884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple red lights moving across the sky in what looked like a formation.At about 9:00 PM, on the night of 9/16/2017, as I walked onto my deck, I noticed red  lights in the sky moving North.  They looked like red orbs with a less prominent white light at the bottom.  They emerged from a cloud in a straight line either two or three side by side. They disappeared after entering another cloud.  It looked like a caravan of some kind.  Sometimes there would be a gap in the formation and sometimes only one light would emerge from the cloud.  The last one I saw was a single light.  This went on for about 15 minutes and there had to be over twenty or thiry of these lights.  They were moving at about the altitude and speed (maybe a little slower) of a small aircraft.  They were flying into the flight path of landing aircraft and I was glad no aircraft were landing at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136199.html](http://www.nuforc.org/webreports/reports/136/S136199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
