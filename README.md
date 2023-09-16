@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:04:51 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two slow, very high flying dark oval objects moving in unisonOn Friday,September 16th, 2011.  While at work in Scarborough  I had decided to go out for a quick smoke outside at 4:49pm.Looking high in the sky to the south .Way, way up there high in the sky.Were two dark somethings crossing the sky.I could NOT identify them with the naked eye.As they looked kind of distorted in movement  Instantly after 30-40 seconds watching them.I ran back into my workplace and retreived my camera.Being back outside less than 30 seconds.Looking up, I could still see them moving across.I then started to photographed them as they crossed the sky togther in unison.They moved from east to the southwest towards Lake Ontario.After taking six pictures and looking.I lost sight of them moving directly southward  These were very high in the sky to be birds.Not to mention the movements were very slow.In examining the photographs.They do not look like birds or even black jets.I had also noticed earlier that day 10:05am.Some military aircraft presence in the same area over the lake.Added in additional observation :  That September has become a hot month in UFO sightings like August.This I have noticed since 2003.It does really make one wonder ?   What's up ?   If one takes a a moment to look up !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84131.html](http://www.nuforc.org/webreports/reports/084/S84131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pocatello (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Glowing light swoops down lands atop mountain emits bright lights then chased off by 6 silent helicopters with green lightsI watched a ball of light that had a aura of light blue light glowing around it come down fast at 45 degree angle with very small comet like tail it swooped like a Nike symbol stopped 4,000 ft up or so started glowing even brighter then it took off over top of Chinese peak mountain. 5 minutes later I look over and it’s either landed or hovering just above the mountain rite next to a bunch of antennas on the mountain glowing super bright an now had a glowing fireball of light to the side of it. About 10 mins went by of it pulsing glowing. Then all the sudden glowing balls dimmed out and 6 to 8 helicopters with green lights on them popped up out of no where they must have came from other side of mountain they went back and forth in the general area of where the ufo was sitting for less then 5mins then all helicopters took off in line formation to the west but the odd thing was I did not hear a single helicopter I was watching them fly around multiple helicopte! rs but did not hear any noise at all.It was rather odd contact me via email if needed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164678.html](http://www.nuforc.org/webreports/reports/164/S164678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
