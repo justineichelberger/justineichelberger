@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:19:59 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Another day, another sighting.Every night, myself and friends have witnessed a bright light in the western sky.  This light is bright, pulsating, emits energy, changes shapes.It hovers from 2 - 15minutes at a time then disappears , reappears.  Sometimes it takes off very quickly.It disappears when planes approach.  Every night it is something different.Three nights ago, there was an object much higher in the sky. It had blue, red and white, rotating lights. It hung in the sky for 30 minutes.  (I can say I got a very negative feeling as I watched this. It actually scared me and I have never felt with the object I see every night) Suddenly, lower in the sky, the large , bright object appeared.  Then moved to the north, disappeared and reappeared I have tried to talk to as many people as I can to educate myself.  I have tried to do everything I can to get someone to help me figure this out .I keep posting this on FB and everyday more and more people say they have seen it for months. NO one files reports.All of these things have been viewed with binoculars.  Mu pictures are on a tripod.The video will be sent as soon as I get it converted .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102106.html](http://www.nuforc.org/webreports/reports/102/S102106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spruce Grove (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My observation of colored, star-size lights near the horizon while leaving in the morning for work.There are star size lights that appear stationary for a time, then move or wink out.I have observed tints of red, blue and green.  The lights disappear as dawn breaks.I have observed these colored lights on at least four occasions.At work, it is my job to unlock exits in our building on the third floor.  One morning at 7:10 am in June, I was attracted to a light slightly above the horizon and just beneath a construction crane two blocks away. My first thought was that it was a plane because the light was bright.  It seems stationary and I at first was convinced it was conventional aircraft.  After looking at it for several minutes, the light just disappeared. I thought perhaps the craft had entered a cloud bank, but later realized there were no clouds present.  The mysterous bright light just exploded into nothingness.It is my belief I am being prepared to see yet more of these objects.  At this stage I am curious and seem to accept them naturally without drawing many conclusions.((Initials deleted))((NUFORC Note:  Stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65709.html](http://www.nuforc.org/webreports/reports/065/S65709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
