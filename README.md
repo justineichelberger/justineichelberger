@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pocatello (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Glowing light swoops down lands atop mountain emits bright lights then chased off by 6 silent helicopters with green lightsI watched a ball of light that had a aura of light blue light glowing around it come down fast at 45 degree angle with very small comet like tail it swooped like a Nike symbol stopped 4,000 ft up or so started glowing even brighter then it took off over top of Chinese peak mountain. 5 minutes later I look over and it’s either landed or hovering just above the mountain rite next to a bunch of antennas on the mountain glowing super bright an now had a glowing fireball of light to the side of it. About 10 mins went by of it pulsing glowing. Then all the sudden glowing balls dimmed out and 6 to 8 helicopters with green lights on them popped up out of no where they must have came from other side of mountain they went back and forth in the general area of where the ufo was sitting for less then 5mins then all helicopters took off in line formation to the west but the odd thing was I did not hear a single helicopter I was watching them fly around multiple helicopte! rs but did not hear any noise at all.It was rather odd contact me via email if needed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164678.html](http://www.nuforc.org/webreports/reports/164/S164678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Concord (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large craft seen hovering over trees along Route 2 in Massachusetts.My sister and I were heading east bound toward Boston on Route 2 in Massachusetts. Over the trees I saw a large craft hovering noiselessly. It had a gray 'hull' with a large white glowing dome on the top. There appeared to be portholes around it. The glow was so bright it illuminated the trees underneath it. I should have stopped because we were passing by and my sister was in the car reading and did not look up until I  started yelling 'Did you see it?!? Did you see it?!?' By that time, the saucer was obscured by the trees, but she did see the very bright light. I turned around as soon as I could to come back for a second look but it was gone. I know other people must have seen this. There was quite a bit of traffic on Route 2 at the time. Since then I have occaisionally snooped around on the net to see if anyone else reported a similar occurance or to see if Hanscon AFB is up to anything strange since Concord is quite close to it. I have yet to see anything but I know I am not crazy, and I KNOW what I saw was bizarre. I would like to provide photos of the area where I saw it and also to draw a picture of the saucer (I am an art school drop out).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05005.html](http://www.nuforc.org/webreports/reports/005/S05005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
