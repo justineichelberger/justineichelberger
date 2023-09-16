@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown object in the sky that did not move.My daughter and I we heading home from school and she noticed in the Southwestern sky what appeared to be two planes.  She said that one was odd as it did not appear to be moving and we could clearly see the other plane moving with contrails behind it.I pulled over in a parking lot to observe the sky.  She pointed out that the object appeared to be facing downwards and stationary with small V shaped contrails that came together as the object came to a point.  We could still see the other plane moving to the right of the object.It was odd sight as we continued looking at the object it then went back from a dot to what we had first seen an object facing downwards with the same small V shaped contrails behind it.  I continued home in the hopes of viewing from my home but trees we blocking that area in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122026.html](http://www.nuforc.org/webreports/reports/122/S122026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hollywood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright neon green light, lit the whole cloudy north sky for a second.I just saw the whole north sky light up a neon green for a second.  I was in the CVS parking lot on yucca.  I told the door guy at the bar across the street if he saw anything.  He said no, but he would ask if anyone else saw it. 30 mins later he called me, introduced me to a man, who also saw it driving on the 101 freeway at melrose. (thats about 2 miles away)  The man said he saw it twice, it lit up, and then came back. It lit up the clouds like it was something in the clouds reflecting light, and was not the hollywood bowl, much to bright to be a firework, or L.E.D. billboard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83970.html](http://www.nuforc.org/webreports/reports/083/S83970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
