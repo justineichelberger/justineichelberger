@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fortuna (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFOs in a formationI witnessed 9 oval shaped orange lights come over the mountains in a straight line formation and up into the sky at a speed of about of an air plane,  they then, one by one went higher into the air and disappeared slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148883.html](http://www.nuforc.org/webreports/reports/148/S148883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>a fire ball no sudden movements moving vertical slowlythis craft was like a fire ball it just kept goin  straight up until you couldnt see it didnt move in any diretion exept for going verticly up four people witnessed this ufo according to reports this craft has also been spotted over the city of manchester  england.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52606.html](http://www.nuforc.org/webreports/reports/052/S52606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
