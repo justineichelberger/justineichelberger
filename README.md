@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cromwell (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flickering blue light and other unknown colors. looks like its above rocky hill or in that direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102127.html](http://www.nuforc.org/webreports/reports/102/S102127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Cigar-shaped craft hovers then vanishes near Redding Muni AirportAround 14:45 on Friday Sept 16, as I turned onto Airport Rd from HWY 44 (east of Redding proper), an object appeared to be hovering over the south end of the Redding Muni airport runway. As we have heavy helicopter traffic, I thought nothing of it until I noticed the driver in the truck in front of me pointing it out to his passenger.  When I got to the airport entrance, I noticed that it was still in the same location but was actually a bit off to the east of the airport.  The car behind me had pulled off to the side of the road and the driver got out to look at it as did the people in the truck two cars in front of me.  I quickly grabbed my iPhone to get some pictures, all the while checking to ensure the object had not moved. I snapped four shots of the object within approximately 500 yard section of Airport Rd and when I looked back after taking them, the object had vanished.  I then pulled over to scan the horizon to see which direction it had gone, but it was nowhere to be seen.  I checked my phone pics to ensure I actually captured the object, but though I had captured the correct area of the sky in which the object was located, there was nothing in any of the photos!  The object was probably about the size of a 737 or a DC-10, roughly cigar shaped with what appeared to be a slight dome above the center of the craft, and no visible wings or tail.  It appeared to be a dull sandy gray color with no other discernible markings.  The fact that it hovered for so long is even more impressive than its sudden disappearance given its apparent size.Because of all the fire bombers and military aircraft heading in and out of the airport, I would normally be inclined to think it was one of "ours"; however, I know of none of our aircraft (not a Chinook or an Osprey) which can simply vanish in front of one's eyes!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129978.html](http://www.nuforc.org/webreports/reports/129/S129978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
