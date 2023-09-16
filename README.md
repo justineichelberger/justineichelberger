@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:44 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lewis center (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Slow moving object with lights vanishedLooking through foyer window seen very slow moving bluish grey object with a couple of colored lights, then it disappeared, just vanished.  I looked for clouds or anything else in the sky and could see nothing but the normal night sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/129/S129970.html](http://www.nuforc.org/webreports/reports/129/S129970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lansing (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 9:30 &continous - 9:30 &continous minutes.</sub><blockquote><sub>Flashing lights in the western sky; over Lansing, MI 9:30 PM  and continuning at 10:06 PMDark clear starry night.  Looking due west around 9:30 PM we saw something that looked like it was a flashing star.  We got our high powered binoculars it looked like the international space station.  It was flashing red, blue, green, and white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72338.html](http://www.nuforc.org/webreports/reports/072/S72338.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
