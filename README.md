@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Georgtown/Idaho Springs (between) (Clear Creek) (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : obseved a very reflective ufo over a mountian pass it moved across my field of vision was able to record with video camera. good footage.i was looking for the mir space station and space shuttle disengaging.  I thought that i was observing this as a bright light low on the southwestern horizion, and made a comment about it to the driver of the vehicle i was in.  I reached in to the back seat to retrive my 8mm video camera when i turnd around the sight was gone, this seemd strange since star light fades out, any way i kept looking in the same area when i saw movement next to the mountain on my left.  I could see somthing in the air above the side of the mountain only because the trees were reflected off the bottom of the craft.  as i begain to video tape and try to get it in focus which was difficult because the camera was new to me and i had it on auto focus, and had to take it off auto focus.while all this was going on it flew over us at what i estamete was a 1000ft then it stopped above and to the right rear of my field of vision and it flew back into the light of the morning sun and was once again lighted brightly, and i was able to focus and begin recording.you can see the saucer shape and see it travel very quickly away and over a hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02603.html](http://www.nuforc.org/webreports/reports/002/S02603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>crystal clear blue sky background. no other objects in the sky. Went outside on my deck to observe a high flying eagle, hawk or other large bird of prey, so I thought initially. First thing I saw was a dot in the relative NW sky. Immediately, I went inside to get my highest powered binoculars, told my wife I had seen a high flying bird, I assumed since there is little to no mechanical air traffic over US and the "bird was hovering". When I looked through the eyepiece, instantly I became excited and called upon my wife to join me in my joy of the object. Brilliant copper gleaming definitely metalic large oval sphere, like a egg but with short midway wing flanges. Size perhaps like small fighter jet, but way up in sky. After hovering, object took off high speed across to the Southern horizon away from me, no smoke trail or other exhaust, no noise at any time, no wobble. moved like a balloon, but with apparent hover and direction. Perhaps a new prototype our government is employing in our war on terrorism. Perhaps an alien craft, from a mother ship sent down to NE seaboard to investigate the recent occurence and the lack of air travel in our country. Either way, I enjoyed the emotion I was feeling. Perhaps I'll never know what it was but it does make me feel good, in my unrelentless search of the heavens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19561.html](http://www.nuforc.org/webreports/reports/019/S19561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
