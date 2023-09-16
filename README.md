@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Union (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>crystal clear blue sky background. no other objects in the sky. Went outside on my deck to observe a high flying eagle, hawk or other large bird of prey, so I thought initially. First thing I saw was a dot in the relative NW sky. Immediately, I went inside to get my highest powered binoculars, told my wife I had seen a high flying bird, I assumed since there is little to no mechanical air traffic over US and the "bird was hovering". When I looked through the eyepiece, instantly I became excited and called upon my wife to join me in my joy of the object. Brilliant copper gleaming definitely metalic large oval sphere, like a egg but with short midway wing flanges. Size perhaps like small fighter jet, but way up in sky. After hovering, object took off high speed across to the Southern horizon away from me, no smoke trail or other exhaust, no noise at any time, no wobble. moved like a balloon, but with apparent hover and direction. Perhaps a new prototype our government is employing in our war on terrorism. Perhaps an alien craft, from a mother ship sent down to NE seaboard to investigate the recent occurence and the lack of air travel in our country. Either way, I enjoyed the emotion I was feeling. Perhaps I'll never know what it was but it does make me feel good, in my unrelentless search of the heavens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19561.html](http://www.nuforc.org/webreports/reports/019/S19561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cromwell (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>flickering blue light and other unknown colors. looks like its above rocky hill or in that direction</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102127.html](http://www.nuforc.org/webreports/reports/102/S102127.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
