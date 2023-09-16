@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Green Bay (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple red lights moving across the sky in what looked like a formation.At about 9:00 PM, on the night of 9/16/2017, as I walked onto my deck, I noticed red  lights in the sky moving North.  They looked like red orbs with a less prominent white light at the bottom.  They emerged from a cloud in a straight line either two or three side by side. They disappeared after entering another cloud.  It looked like a caravan of some kind.  Sometimes there would be a gap in the formation and sometimes only one light would emerge from the cloud.  The last one I saw was a single light.  This went on for about 15 minutes and there had to be over twenty or thiry of these lights.  They were moving at about the altitude and speed (maybe a little slower) of a small aircraft.  They were flying into the flight path of landing aircraft and I was glad no aircraft were landing at that time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136199.html](http://www.nuforc.org/webreports/reports/136/S136199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown object in the sky that did not move.My daughter and I we heading home from school and she noticed in the Southwestern sky what appeared to be two planes.  She said that one was odd as it did not appear to be moving and we could clearly see the other plane moving with contrails behind it.I pulled over in a parking lot to observe the sky.  She pointed out that the object appeared to be facing downwards and stationary with small V shaped contrails that came together as the object came to a point.  We could still see the other plane moving to the right of the object.It was odd sight as we continued looking at the object it then went back from a dot to what we had first seen an object facing downwards with the same small V shaped contrails behind it.  I continued home in the hopes of viewing from my home but trees we blocking that area in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122026.html](http://www.nuforc.org/webreports/reports/122/S122026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
