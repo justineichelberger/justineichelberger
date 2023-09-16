@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:19:59 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:04:51 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Spruce Grove (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My observation of colored, star-size lights near the horizon while leaving in the morning for work.There are star size lights that appear stationary for a time, then move or wink out.I have observed tints of red, blue and green.  The lights disappear as dawn breaks.I have observed these colored lights on at least four occasions.At work, it is my job to unlock exits in our building on the third floor.  One morning at 7:10 am in June, I was attracted to a light slightly above the horizon and just beneath a construction crane two blocks away. My first thought was that it was a plane because the light was bright.  It seems stationary and I at first was convinced it was conventional aircraft.  After looking at it for several minutes, the light just disappeared. I thought perhaps the craft had entered a cloud bank, but later realized there were no clouds present.  The mysterous bright light just exploded into nothingness.It is my belief I am being prepared to see yet more of these objects.  At this stage I am curious and seem to accept them naturally without drawing many conclusions.((Initials deleted))((NUFORC Note:  Stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65709.html](http://www.nuforc.org/webreports/reports/065/S65709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Scarborough (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two slow, very high flying dark oval objects moving in unisonOn Friday,September 16th, 2011.  While at work in Scarborough  I had decided to go out for a quick smoke outside at 4:49pm.Looking high in the sky to the south .Way, way up there high in the sky.Were two dark somethings crossing the sky.I could NOT identify them with the naked eye.As they looked kind of distorted in movement  Instantly after 30-40 seconds watching them.I ran back into my workplace and retreived my camera.Being back outside less than 30 seconds.Looking up, I could still see them moving across.I then started to photographed them as they crossed the sky togther in unison.They moved from east to the southwest towards Lake Ontario.After taking six pictures and looking.I lost sight of them moving directly southward  These were very high in the sky to be birds.Not to mention the movements were very slow.In examining the photographs.They do not look like birds or even black jets.I had also noticed earlier that day 10:05am.Some military aircraft presence in the same area over the lake.Added in additional observation :  That September has become a hot month in UFO sightings like August.This I have noticed since 2003.It does really make one wonder ?   What's up ?   If one takes a a moment to look up !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84131.html](http://www.nuforc.org/webreports/reports/084/S84131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
