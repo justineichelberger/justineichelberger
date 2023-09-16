@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Glad Stone (Canada) (MB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Last night I was driving home from work to the small town of Glad Stone. On the way home, I looked up into the sky and say a strange formation of lights, or, perhaps it was one single object. I pulled over to the side of the road and got out. I observed the object for about four minuets. The object, or objects made no noise and were in the formation of a "V". It had 7 orange/redish lights that formed the "V". From what I could see, there was no electrical interference because my Blackberry still worked. The object moved slowly in a SSE direction. I did not watch it until it was out of sight, I was much too frightened.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58780.html](http://www.nuforc.org/webreports/reports/058/S58780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lakeside (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A six lighted wedge flying north to south in the western sky.It was six lights in a wedge shape, looked like the same formation I seen in Phoenix Arizona a few years back.Tonight it was moving from north to south in the western sky.About 45 degrees above the horizon. The background was a clear sky with lots of stars. It did not change shape, it was white lights that fluxuated to orange.It moved slowly across the sky.There was a coast guard helicopter flying in the same direction but very low and faster.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31528.html](http://www.nuforc.org/webreports/reports/031/S31528.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
