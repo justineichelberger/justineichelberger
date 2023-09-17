@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:29 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Clarkridge (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large bright light at tree line, with prism light emitting, extremely bright.  Fell behind the tree line.  Then returned blinking red and white alternating.  Then two white and red lights appeared and quickly moved westward to disappear.  Certainly not traditional aircraft and void of all sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136204.html](http://www.nuforc.org/webreports/reports/136/S136204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Warsaw (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange spheres traveling east to west on a beautiful clear nightAt approximately 9:00pm on Saturday, September 17, I was coming home from a business trip and had just pulled into our driveway.  As soon as I turned in going west, I noticed off to my left six orange spheres in the sky.  They seemed to be traveling in formation in an off kilter rectangle and two of them trailing behind.  My husband was just pulling his car into the garage too, and I yelled at him to look up in the sky.  We both stood there watching and then I grabbed my cell phone to take pictures, but the flash was on, and I didn’t think to turn it off.  As soon as they moved past our two story house, we ran around the side to continue watching them, but they had already disappeared.  We stood outside for awhile, and about 5 minutes later, six more of them came through on the same path in a straight line formation.  Again, I tried to take pictures, not realizing the flash would be a problem.  My husband said as he was watching the second group that one of them seemed to disperse ash or vapor below, and just like the first group, they faded away not too far past our house.  I didn’t notice because I was busy trying to take pictures.  It was a beautiful, clear night with lots of stars in the sky, and a very eerie quiet scene.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84065.html](http://www.nuforc.org/webreports/reports/084/S84065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
