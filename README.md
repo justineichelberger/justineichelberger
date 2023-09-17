@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Geneva (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two bright amber lights flying in diagnol formation over downtown under a full moonTwo very bright amber colored lights in diagonal formation, one on the lower left and the other on the upper right.  Light was seen by others hours before moving above the lake in figure eight motion.  When I saw the lights, the sky was clear and bright due to a full moon.  I was standing on a patio in the middle of town with approximately 30-50 people, who all saw the same thing.  It flew right over us and they appeared to be half the size of the moon and were very bright and silent.  There is no way to tell exactly what they were. After they did figure eights they went back into formation, headed west and got smaller and then dissapeared.  I do not believe that there is a man made craft that can fly in such a motion.  They were moving slowly, so I got in my car with a friend to try to chase them down, but they were no where to be found.  These objects have been seen in this area by others over the last couple of weeks, during different hours of the night.  I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46339.html](http://www.nuforc.org/webreports/reports/046/S46339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hinsdale (unincorporated area) (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i feared for my lifewell to be exact it looked like a slanted borg ship it was black with a lot of little lights it was a clear sky. me and my friens were walking past a bi pond and i stopped to look at something in the sky i had never seen anything like it. now im not really quick to believe silly things so joking around i said to my friend that doesnt look like a plane i looks like a ufo and with in that one second of me saying that it switched dirrection and came atraight for us i just turned and said run we got to a buiding only to find it was rite obove the buiding we could not leave. and the sound was so loud that is how we knew it was still therenow it is 2 in the morning and me and my frieand are frantically knocking on doors in the apartment building so we could use a phone finally the noise had died down and we saw a car thruogh the window of the building and we ran to it. after we were safe her and i went in front of my house to see if we could see anything but we did not. i have never been so scared in my life i really thought i was going to die. my friend cant remember anything about that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53690.html](http://www.nuforc.org/webreports/reports/053/S53690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
