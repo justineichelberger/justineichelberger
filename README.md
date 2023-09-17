@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swindon (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very bright white disk shaped object hovered then shot upwards in an arcLooking out of my window whilst watching a football match saw a bright white oject which I think was disk shaped, it happened so quickly. As it caught my eye it hovered for about 2 seconds and then shot upwards at tremendous speed in an arc towards the north. It left a slight trail as it did so. And was gone in a second.No sound was heard and the window was wide open.It was no shooting star it was way too big. Hope someone else saw this as my friends think I'm mad.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25113.html](http://www.nuforc.org/webreports/reports/025/S25113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Arizona (location unspecified) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>•	White rectangular shape flying lower then normal , thought maybe a drone , but it disappears clear sky’s where did it go((NUFORC Note:  Source of report does not indicate the time, date, location, or duration of the alleged incident.  We have not been able to contact her via e-mail or telephone.  Hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136203.html](http://www.nuforc.org/webreports/reports/136/S136203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
