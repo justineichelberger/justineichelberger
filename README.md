@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Approximately in the NW direction from the front of my house at approximately 30 degrees elevation, I saw a single large (much larger than passenger jet lights) bright white disc appear, and then disappear as though being occulted.I looked in the same vicinity the following night to see if there were a large star in that area again, and there was not.For reference, a star about the magnitude of Venus was directly overhead at that time.  Please tell me the name of that star.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122159.html](http://www.nuforc.org/webreports/reports/122/S122159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Several, individual blinking lights, in afternoon San Francisco sky."Lights" appeared to be satellites, but satellites are not usually seen at 4:30 PM, on a sunny day.  These objects blinked erratically, and would appear for a few minutes then disappear, then re-apppear at some other portion of the sky. Four of these objects approached each other and formed a diamond shape;  three objects formed a straight line, the center object moved forward (forming a wedge) then the remaining two followed suit; two objects moving on parallel tracks (but in opposite directions)  stopped when aligned; then moved off in the same direction. An object would approach another,circle then move away in a different direction.  Some of these objects appeared to change and/or emit a red and blue colour (when seen through 10x50 binoculars).  All objects were viewed directly overhead.  7 witnesses, 5 adults, age range 28 to 48, two minors, aged 14 and 11.  Once again we have (admittedly crude) video, a copy of which will be sent to Mr. Davenport.((NUFORC Note:  We spoke briefly with the witness, and he sounded quite credible to us.  We have corrected the date here.  The incident occurred on Sunday, 17SE00.  He was apparently witness to an event at 1600 hrs. on the same date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14170.html](http://www.nuforc.org/webreports/reports/014/S14170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
