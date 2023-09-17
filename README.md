@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:45 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hazelwood (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>More or less triangular shaped object. Moving east to west, turned wo move west to east. Slow moving. Appeared small, but it was hard to tell.I was returning from a tour of one of the buildings I patroll as a security guard. I was walking across the parking lot, west to east. Something in the sky caught the light from the city below. It was more or less triangular, with a very slight taper to a point in the rear. There were no lights on the object, and it made no sound. It was apparently traveling east to west and was in the process of making a u-turn to go west to east. I watched it as far as I could see it as it was only a darker patch in a dark sky. I lost sight of it somewhere over Lambert International Airport, wich lies east of the place where I work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09885.html](http://www.nuforc.org/webreports/reports/009/S09885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Winchester (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Small continuous light moving slowly across the horizon.Came outside in my back yard and noticed a spherical light on the horizon. It floated slowly North to South following the horizon. In my opinion it was not a plane or helicopter because it had no flashing lights and moved way too slow. Then instead of moving horizontally it started to drift down past the horizon out of sight. The odd thing is I tried to record video of the object with my phone but even though I could clearly see it, it couldn't be seen through my phone camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159408.html](http://www.nuforc.org/webreports/reports/159/S159408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
