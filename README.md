@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Vermont (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Central Illinois Lights- Military Maneuvers?Double orange light seen in southern sky.  Quickly disappeared behind some trees.  Low engine sound reported (auditory).  Light reappeared high in southern sky much farther away and then went out.  In the south-western sky another orange light appeared.  The light appeared and went out again.  Not long after, another orange light appeared in the western sky a long distance away before finally disappearing.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58789.html](http://www.nuforc.org/webreports/reports/058/S58789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Atwater (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>TRIANGLE UFO'S ARE REALLY IN THE SKYHeading East on old 224 (waterloo rd).  My family all own motorcycles and decided to to take an evening cruise.  My wife to the left of me pointed up to the sky.Amazed at what I was seeing I slowed my bike down to almost a crawl.  My father and step-mom were behind my wife and I, and my father in-law behind them.  What i saw was a black triangular object blocking out the stars and sky. It was moving incredibly slow.there were white lights at each corner,then in marvel another soon floated behind the first just as slow.(same lights) no flashing,just solid.  I actually passed under them going 5 miles per hour.I would guess 5,000 ft. up and the size bigger than a football field. I'm reporting this now because I didn't that night.  I felt this needed to be said,  It has weighed on me for a little over a year.  to top it off my step-mom behind us seen them vanish with speeds of the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73848.html](http://www.nuforc.org/webreports/reports/073/S73848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
