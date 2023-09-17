@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Warsaw (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange spheres traveling east to west on a beautiful clear nightAt approximately 9:00pm on Saturday, September 17, I was coming home from a business trip and had just pulled into our driveway.  As soon as I turned in going west, I noticed off to my left six orange spheres in the sky.  They seemed to be traveling in formation in an off kilter rectangle and two of them trailing behind.  My husband was just pulling his car into the garage too, and I yelled at him to look up in the sky.  We both stood there watching and then I grabbed my cell phone to take pictures, but the flash was on, and I didn’t think to turn it off.  As soon as they moved past our two story house, we ran around the side to continue watching them, but they had already disappeared.  We stood outside for awhile, and about 5 minutes later, six more of them came through on the same path in a straight line formation.  Again, I tried to take pictures, not realizing the flash would be a problem.  My husband said as he was watching the second group that one of them seemed to disperse ash or vapor below, and just like the first group, they faded away not too far past our house.  I didn’t notice because I was busy trying to take pictures.  It was a beautiful, clear night with lots of stars in the sky, and a very eerie quiet scene.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84065.html](http://www.nuforc.org/webreports/reports/084/S84065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Approximately in the NW direction from the front of my house at approximately 30 degrees elevation, I saw a single large (much larger than passenger jet lights) bright white disc appear, and then disappear as though being occulted.I looked in the same vicinity the following night to see if there were a large star in that area again, and there was not.For reference, a star about the magnitude of Venus was directly overhead at that time.  Please tell me the name of that star.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122159.html](http://www.nuforc.org/webreports/reports/122/S122159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
