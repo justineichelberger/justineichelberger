@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hinsdale (unincorporated area) (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>i feared for my lifewell to be exact it looked like a slanted borg ship it was black with a lot of little lights it was a clear sky. me and my friens were walking past a bi pond and i stopped to look at something in the sky i had never seen anything like it. now im not really quick to believe silly things so joking around i said to my friend that doesnt look like a plane i looks like a ufo and with in that one second of me saying that it switched dirrection and came atraight for us i just turned and said run we got to a buiding only to find it was rite obove the buiding we could not leave. and the sound was so loud that is how we knew it was still therenow it is 2 in the morning and me and my frieand are frantically knocking on doors in the apartment building so we could use a phone finally the noise had died down and we saw a car thruogh the window of the building and we ran to it. after we were safe her and i went in front of my house to see if we could see anything but we did not. i have never been so scared in my life i really thought i was going to die. my friend cant remember anything about that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53690.html](http://www.nuforc.org/webreports/reports/053/S53690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Davie (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright flashing lightsLarge hoovering object with blue and red flashing lights.  Stayed in one location flashing red then blue then red again.  No movement, but the flashing was very bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92840.html](http://www.nuforc.org/webreports/reports/092/S92840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
