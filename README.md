@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:21 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing green orbMy two buddies and I were sitting on my (1/4 mile long) driveway out in the countryside of Houston, TX. (more specifically Cypress)   It was about midnight and we were completely sober.  I say this because every time I recount the story people ask me if we were on anything, but I remember specifically we had JUST cracked out first beers when in the distance, I'd say 300-500 yards away we saw a green light appear in the sky to the North of our position.  It seemingly appeared out of thin air.   ((deleted)) I said as I pointed it out to my two friends.  The green light moved diagonally down and to the right (getting closer to the ground), passing over a radio tower in the distance.  It suddenly came to an abrupt halt in mid-air.  It hovered in place for maybe 2 or 3 seconds before it zoomed off northwards.  It disappeared again BEFORE it went over the horizon line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81500.html](http://www.nuforc.org/webreports/reports/081/S81500.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swindon (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Very bright white disk shaped object hovered then shot upwards in an arcLooking out of my window whilst watching a football match saw a bright white oject which I think was disk shaped, it happened so quickly. As it caught my eye it hovered for about 2 seconds and then shot upwards at tremendous speed in an arc towards the north. It left a slight trail as it did so. And was gone in a second.No sound was heard and the window was wide open.It was no shooting star it was way too big. Hope someone else saw this as my friends think I'm mad.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25113.html](http://www.nuforc.org/webreports/reports/025/S25113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
