@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:44 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nephi (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Went to set up the GPS base station for the survey crews in morning at 7:00am.  It took 3 of us to set up the antenna tower 40 min. while we were waiting for the chopper to pick us up I noticed an object southeast emmitting a soft glowing cicular light slowly travelling up the mountain towards us.  It was 2 miles out aprox. it then stopped and stayed stationary for about 15 to 20 min. in the same place.Realizing that this was something we never saw before I took a picture of it with my digital camera. We also noticed far accross the valley 2 more at the exact same altitude in a triangular formation with eachother.The helicopter picked the 2 of us up-1 man was left back and he noticed that after the helicopter took off the objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46922.html](http://www.nuforc.org/webreports/reports/046/S46922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mehlville (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white lights in circlular position with two larger lights in center and five smaller lights to outside.I was leaving my apartment at 5:30 am. and noticed bright lights in the eastern sky.  They appeared very close and very bright.  It was very cloudy and you could not see a craft but the lights were so bright they shown through the clouds.  They were in a circle with two larger bright lights in the middle.  There were 5 smaller lights around the outside.  They were flashing.  At one point the  one light appeared to be moving in the eternity symbol position. I put my things in the car and grabed my cell phone.  By the time I aimed the cell phone it disappeared.  I have always been an extreme skeptic but this was real. I circled the neighborhood in about a mile radius to see if there were any advertisemnts that would use such high powered lights but found nothing.  It seemed to be about the size of half a football field, it is hard to judge. It was very large.  There was no sound at all.  The lights were white. I am still a skeptic but I cannot deny what my eyes s! aw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83991.html](http://www.nuforc.org/webreports/reports/083/S83991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
