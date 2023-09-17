@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:27 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Boksburg (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two lights diagonal from each other traveling across the night skyThe lights were about 1cm apart heading from north west to south east.There was a slightly brighter light below and a dimmer light diagonally up to the right of the brighter one, the distance apart seemed to remain the same from when we first saw it to when it went outta sight</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52507.html](http://www.nuforc.org/webreports/reports/052/S52507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Havre De Grace (MD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>The object captured in a photograh appeared to be a silver disk/saucer above the Chesapeake Bay.I was in Havre De Grace Maryland to see the Concord Point lighthouse. I took several pictures of the Concord Point lighthouse.  Later that day I downloaded the pictures I had taken.  I selected one of the pictures of the Concord Point lighthouse and printed the photograh on a photo quality printer.  I noticed that above the lighthouse, over the Chesapeake Bay was an object in the sky.  It stood out in the brilliant blue sky. It looked like a metallic object.  When I cropped the picture to get a closer look, it looked pictures I've seen of objects identified as a flying saucer.  I had taken another picture from the same location approximately 3 seconds later.  The object was no where to be seen.  There is a couple in both photograhs to indicate the short span in time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52679.html](http://www.nuforc.org/webreports/reports/052/S52679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
