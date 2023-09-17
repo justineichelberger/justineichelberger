@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Alamogordo (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fire ball suddenly shoots up right angle and amazing speeds.This is 2 instances of the same type ufo, the first one occured late 2010 around 10pm. I was leaving the house when a light cought my eye, i stared at it for a moment and it was getting rather large very quickly, it seemed it was headed straight for me, i actualled yelled at a family member for fear. by the time they got out the door, the fireball had grown , holding arms length the size of a pinky nail. At that moment it shot straight up at a right angle and amazing speed, it left a short light trail behind it turning into a star like object and left our atmosphere, this thing traveled so fast it was crazy.I had called my friend at that moment and he saw it also! On the other side of town, he was just as estatic as me.  The object was traveling NE when it was in the fireball stage.The second incident was Sept 17th 2011.  Same type ufo, I did not witness this one, but the same friend that witnessed the last one saw this one.  His girlfriend and her son was sitting outside aroud 9pm and they noticed and yelled to my friend to come outside.  Same description this time the fireball was traveling SE.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84081.html](http://www.nuforc.org/webreports/reports/084/S84081.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nephi (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Went to set up the GPS base station for the survey crews in morning at 7:00am.  It took 3 of us to set up the antenna tower 40 min. while we were waiting for the chopper to pick us up I noticed an object southeast emmitting a soft glowing cicular light slowly travelling up the mountain towards us.  It was 2 miles out aprox. it then stopped and stayed stationary for about 15 to 20 min. in the same place.Realizing that this was something we never saw before I took a picture of it with my digital camera. We also noticed far accross the valley 2 more at the exact same altitude in a triangular formation with eachother.The helicopter picked the 2 of us up-1 man was left back and he noticed that after the helicopter took off the objects were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46922.html](http://www.nuforc.org/webreports/reports/046/S46922.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
