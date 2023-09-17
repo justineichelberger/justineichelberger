@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:44 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:31 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Todos Santos, bcs (Mexico) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1:20 - 1:20 minutes.</sub><blockquote><sub>4:00 A.M. a large white light was seen above the tallest mountain east of Todos Santos at Lat.23.30 (Tropic of Cancer) and Lon. 110.WThere is too much to describe.  We have a video tape with a duration of more than one hour.  It was shot with a Sony 8mm CCD-Trv 46 with Night Shot on. This was shot hand held and although there is a lot of footage, much is out of focus or in process of zooming. The video is one uninterrupted take with the cameraman trying to follow the movement and the camera trying to auto focus. At times the objct appears to be a sphere that is transmitting various colors of light and is more organic in nature than metallic.  Other times it appears to have a triangular shape, but it is difficult to say because it is transmitting so much light. At times the light eminating from the object was so bright that it illiminated the mountain top. At a point in time approximately 45 minutes into the take the viewers saw a dark smaller object rise from the mountain top and enter the bottom of the glowing sphere.  Upon entering the sphere seemed brightened intensely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09791.html](http://www.nuforc.org/webreports/reports/009/S09791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangular object with three red lights was sighted and videotaped to our Northeast, heading North very swiftly.  This object was flying about a mile or two over the treeline to the Northeast.  The treeline being about 50 to 60 yards from us.  The object at first looked to be a line of red light, but when seen through the viewfinder of the camcorder, had three distinct red lights.  This is the fourth triangular object videotaped over Sonora, CA since May and the only one to be seen with all red lights, and the only one flying North over Lyons Bald Mountain.  Object flew in a straight line without deviating from its course.  No sound was associated with the object whatsoever.((NUFORC Note:  One of several reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39403.html](http://www.nuforc.org/webreports/reports/039/S39403.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
