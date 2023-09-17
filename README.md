@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 16 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Troy (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright green light that turned orange and was gone.I was looking outside laying in bed and I seen this bright green light and it dashed vertical across the sky then it flashed turned orange and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103001.html](http://www.nuforc.org/webreports/reports/103/S103001.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Hazelwood (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>More or less triangular shaped object. Moving east to west, turned wo move west to east. Slow moving. Appeared small, but it was hard to tell.I was returning from a tour of one of the buildings I patroll as a security guard. I was walking across the parking lot, west to east. Something in the sky caught the light from the city below. It was more or less triangular, with a very slight taper to a point in the rear. There were no lights on the object, and it made no sound. It was apparently traveling east to west and was in the process of making a u-turn to go west to east. I watched it as far as I could see it as it was only a darker patch in a dark sky. I lost sight of it somewhere over Lambert International Airport, wich lies east of the place where I work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09885.html](http://www.nuforc.org/webreports/reports/009/S09885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [361](http://www.nuforc.org/webreports/reports/164/S164761.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164678.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164659.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164681.html)
-- [357](http://www.nuforc.org/webreports/reports/164/S164889.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
