@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:31 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 17 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sonora (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangular object with three red lights was sighted and videotaped to our Northeast, heading North very swiftly.  This object was flying about a mile or two over the treeline to the Northeast.  The treeline being about 50 to 60 yards from us.  The object at first looked to be a line of red light, but when seen through the viewfinder of the camcorder, had three distinct red lights.  This is the fourth triangular object videotaped over Sonora, CA since May and the only one to be seen with all red lights, and the only one flying North over Lyons Bald Mountain.  Object flew in a straight line without deviating from its course.  No sound was associated with the object whatsoever.((NUFORC Note:  One of several reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39403.html](http://www.nuforc.org/webreports/reports/039/S39403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Geneva (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two bright amber lights flying in diagnol formation over downtown under a full moonTwo very bright amber colored lights in diagonal formation, one on the lower left and the other on the upper right.  Light was seen by others hours before moving above the lake in figure eight motion.  When I saw the lights, the sky was clear and bright due to a full moon.  I was standing on a patio in the middle of town with approximately 30-50 people, who all saw the same thing.  It flew right over us and they appeared to be half the size of the moon and were very bright and silent.  There is no way to tell exactly what they were. After they did figure eights they went back into formation, headed west and got smaller and then dissapeared.  I do not believe that there is a man made craft that can fly in such a motion.  They were moving slowly, so I got in my car with a friend to try to chase them down, but they were no where to be found.  These objects have been seen in this area by others over the last couple of weeks, during different hours of the night.  I have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46339.html](http://www.nuforc.org/webreports/reports/046/S46339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [382](http://www.nuforc.org/webreports/reports/164/S164671.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164676.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164675.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164677.html)
-- [378](http://www.nuforc.org/webreports/reports/164/S164890.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
