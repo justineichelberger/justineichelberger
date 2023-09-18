@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pitman (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Sat night, 9/17/11 Pitman and Washington twp NJ, light comes down to earth and then shoots back up on an angle.While sitting outside around the fire, I was facing the eastern sky when I saw a bright, white fast moving object come straight down from the sky below the trees.  It was not a smooth decend, but more like bumps, but very, very fast.  I yelled about it when I saw it, but no one else did, and while others start to observe the eastern sky, suddenly the light came back up in a straight ascend into the ten o'clock position, and it looked green this time to me, but white to the others. Again it was bumping, very, very quickly. It was about 1-2 minutes between sightings.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84000.html](http://www.nuforc.org/webreports/reports/084/S84000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Grafton (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white light zig-zags and dissapearsMe and some friends were taking a buddies jeep four wheeling in a field the day after a rainstorm.My friend got his jeep stuck in the mud so we had nowhere to go but to try to get it out and we were there for a long time.It was a very large open area.As it was getting dark we all saw this bright white light on the horizon,it was slowly moving towards us then it stopped in mid air,did a zig-zag and dissapeared into the night sky.Idont think a plane,jet,helicopter,or any of the modernday vehicles can manuvere like that and to this day we all have never forgot what we saw that night.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40874.html](http://www.nuforc.org/webreports/reports/040/S40874.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
