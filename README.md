@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Rochester (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Semi-egg shaped object floating above local highway 20-25 feet in the air.I was driving on one of our highways, 390 south, when from far away I could see something ahead in the sky.  It looked like a helicopter possibly but was kind of small.  As I got closer, there were birds flying around but the object was stationary in the sky.  Even closer I could see that the object was indeed not moving and was just hovering 20-25 feet above the center lane of the highway, about 1 mile north of the Lehigh Station Road exit.  I drove right under the object, and kept trying to stare at it until it was above my windshield and I could not see it anymore.  It was metallic and may have even shined in the sun light.  Its shape was almost like a rounded jacks piece, or one of those hand-held massagers that has the three prongs at the bottom.  I immediately called my friends to explain what I just saw and that I would not have called if it was not something I thought was important.  I later contacted various news stations in the area, and they confi! rmed with me on September 21, 2010 that at least one other had seen a shape similar on September 20, 2010, and that two city police officers had also seen the object.  over the weekend in an adjacent county (about 30 minutes west) witnesses claimed that there was an object hovering over the highway and cars were actually pulling over because they thought it was a plane trying to land on the highway for an emergency.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77933.html](http://www.nuforc.org/webreports/reports/077/S77933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Maize (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>10+ twinkling lights move over countryside in circular formationThis evening, my daughter and I were out on the patio, when all the sudden we noticed 10+ little twinkling lights moving in a circular formation across the sky.  I have grown up around airplanes and these were NOT planes, the lights were all moving independently of each other.  They did produce a sound that I would say is similar to a jet but duller and delayed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113679.html](http://www.nuforc.org/webreports/reports/113/S113679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
