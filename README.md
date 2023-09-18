@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winter Haven (FL) reported seeing craft that fit the description of some '' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Multiple star like lightd in the sky flashing red and green all over the skyline and some shot across the sky very fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84007.html](http://www.nuforc.org/webreports/reports/084/S84007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Lima (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a battleship size ufo that was outlined with lights but was transparent at the same time.around 11pm. my brother and I went out to feed our horses. we had gotten home really late. It was a clear sky with a full moon. You could see in the dark because the moon shined so bright. We were at the back of the barn when we heard a low pulsating engine sound . We felt a light vibration through the air. We noticed that the horses in the pasture were acting really nervous and would not calm down. So we started to look up in the sky to see what was making the sound. Off to our left (East) this HUGE slow moving ship was traveling Southward. This ship had to be at least a half mile long minimum. The only way to describe it : It looked as though it was some type of battleship or city. The outlines were in various colored lights but of colors not even imagineable. Even though you could see the outline of ship you could still see the stars on the other side of it .(Transparent) Even though it was slow the lights seemed to stream as if it was going really fast.It never stopped but continued at a slow rate. There's nothing that I am aware of that is that BIG and can travel that slow. After watching it for about 5-8 mins at least, we could still see this thing down by the Wapak area which is 20-25 miles from us. After it was around that area it went immediately straight up and was gone. It was the most beautiful thing I have ever witnessed and wish it will happen again sometime. Also about a year later we saw a huge bright red orb around the same location where the previous ship left. Noone ever believes me when I tell them, but we both saw it and we just stood in awe of it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32557.html](http://www.nuforc.org/webreports/reports/032/S32557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
