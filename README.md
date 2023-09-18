@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:30 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:41 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Atlantic City (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>There was a white light in the sky over the ocean, I thought it was a plane but it had no blinking light it travel for five minutes in the sky and then disappeared.  It was very light clouds in the sky over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148958.html](http://www.nuforc.org/webreports/reports/148/S148958.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holbrook (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5 - 10 - 5 - 10 minutes.</sub><blockquote><sub>9/18/08, 8:10 p.m..Looming cirle of four large very bright lights (white, tinged with blue and red)Driving down dark roadway and noticed in the sky what I thought was two planes passing very close, almost on top of each other.  Plane pass just below a cirle of four very bright lights.  Cirle of lights did not move as plane passed and in comparasion, cirle of lights was extremely large.  This cirle of lights moved off to the left and stayed in same spot.  Could not see actual outline of "craft" as lights were big and bright and what stays with me is how large it was and that it was just sitting there.  Saw other planes in the sky and could easily make out their shape.  Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65758.html](http://www.nuforc.org/webreports/reports/065/S65758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
