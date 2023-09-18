@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:41 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holbrook (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5 - 10 - 5 - 10 minutes.</sub><blockquote><sub>9/18/08, 8:10 p.m..Looming cirle of four large very bright lights (white, tinged with blue and red)Driving down dark roadway and noticed in the sky what I thought was two planes passing very close, almost on top of each other.  Plane pass just below a cirle of four very bright lights.  Cirle of lights did not move as plane passed and in comparasion, cirle of lights was extremely large.  This cirle of lights moved off to the left and stayed in same spot.  Could not see actual outline of "craft" as lights were big and bright and what stays with me is how large it was and that it was just sitting there.  Saw other planes in the sky and could easily make out their shape.  Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65758.html](http://www.nuforc.org/webreports/reports/065/S65758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2/3 visible of a triangle with a murky white haze.A chevron with a murky white haze and u could just barely see through it. I pointed it out and 6 of my friends looked up to see it. It went slowly about 2 inches across the sky.It was a straight chevron forming a 90 degree angle at the front center</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37285.html](http://www.nuforc.org/webreports/reports/037/S37285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
