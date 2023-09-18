@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Van Buren Township (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was traveling on the interstate on my way to work at 4:30 am when I noticed these bright white circular lights in the sky.  I didn’t think much of it because I know that there’s an airport about 15 miles away from where I was.  As I got closer I started thinking to myself that I’ve never seen a plane flying that close to the ground nor have I ever seen a plane with 5 white lights on it especially that bright.  Planes also have blinking red lights on them as well and this object didn’t.  When I got closer to the lights I noticed a few cars pulled off on the side of the interstate to get a good look at it.When I got as close as I was going to get to the lights that’s when it hit me that I was looking at a UFO.  There were five bright lights in a perfect circular pattern hovering stationary right off the interstate.  I quickly pulled my phone out and took the best picture I could.  The objects stayed in the same spot for as far as I could see until I got off the interstate.I called my coworker who starts his shift an hour after me and takes the same way to work.  I describe to him exactly where and what I saw and asked if he seen anything, but he said that he didn’t see any lights in the sky around that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/148/S148929.html](http://www.nuforc.org/webreports/reports/148/S148929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winter Haven (FL) reported seeing craft that fit the description of some '' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>Multiple star like lightd in the sky flashing red and green all over the skyline and some shot across the sky very fast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84007.html](http://www.nuforc.org/webreports/reports/084/S84007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
