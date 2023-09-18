@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 18 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sherman Oaks (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Chevron-shaped flying boomerang with dim running lights on the bottom.The other evening, Friday September 18, 2015, we were in our backyard with friends, in Sherman Oaks, CA.  My friend was looking at the evening sky.  She is an interior designer.  She is quite visual and I am a painter and a teacher.  She said, what is that?  I looked up and we saw a chevron shaped flying something.  It looked like a boomerang with running lights along the bottom.  There may have been four or five lights on each arm of the thing.  The lights were extremely dim, bluish in color, but difficult to describe almost like eyeballs not really lights..  It was completely silent.  The only sound was us screaming at each other.  It was something real.  Maybe a military flying thing, but why would they be flying in Sherman Oaks, unless they were landing in Van Nuys?  Maybe a drone, but it looked like nothing either of us had ever seen before.  It was hard to tell how large it was.  I thought it was larger and higher than my friend.  But it had to have been quite high to pass over the tall trees.  My husband also saw it out of the corner of his eye.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122135.html](http://www.nuforc.org/webreports/reports/122/S122135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Lyndhurst (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright, color changing first magnitude object hovers and dances for half an hourSaw a bright venus like object in the west, north west at 40 degrees.  It caught my eye because it moved to and fro, darting at times behid trees.  There was no wind, no clouds, just clear skys.  The bright object emmited colors of red, green and white.  I have waited until today to report because I had hoped to see a planet or star in the same position on the following nights, but that was not the case.  In fact, I saw the same light in the northern sky, at 22:00 hourst tonight.  Same bright, color changing light, moving and swaying around and around.  These objects are of the first magnitude.  No sounds, electrical problems or other related phenomena.((NUFORC Note:  We suspect the witness was observing the very bright star, seen currently in the western sky during the evenings.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39433.html](http://www.nuforc.org/webreports/reports/039/S39433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [421](http://www.nuforc.org/webreports/reports/164/S164759.html)
-- [420](http://www.nuforc.org/webreports/reports/164/S164758.html)
-- [419](http://www.nuforc.org/webreports/reports/164/S164790.html)
-- [418](http://www.nuforc.org/webreports/reports/164/S164887.html)
-- [417](http://www.nuforc.org/webreports/reports/164/S164796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
