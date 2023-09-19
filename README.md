@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:48 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Onawa (IA) reported seeing craft that fit the description of some 'Changing' over a period of approximately football game - football game minutes.</sub><blockquote><sub>a light that separated into three other ones, then a cross.  Over 50 whitnesses!!, at fooball game.It was at my varsity football game, when i was standing at the sidlines when i see something out of the corner of my eye, a light.  Now this had to was very bright to see because of the fooball game lights.  Its was a light that was flashing, i didnt think much of it until it split into 3 sepret lights then disopeard and reapered in the same spot but in a cross.  Then it happened again in a different place.  There where about 50 whitnesses sense it was at a foot ball game.  That night i did some research about local sightings and on this sight i found a 2 year old report of the same thing that happened hear in Onawa!!! i coundn't beleive it!  all i can say is that theres something freaky goin on here! lol</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31675.html](http://www.nuforc.org/webreports/reports/031/S31675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Crete (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>52 yr. old woman saw 6 lights in field in crete illinois. kids with flashlights?I am a 52 year old woman having trouble sleeping and was watching late night t.v. when a light shone through my kitchen window.  I got up and peered out the window and thought  I saw kids with 6 lights possibly flashlights playing in the field across the street.  I called the police because there have been several break ins in my neighborhood lately.  When they arrived to the field they had no evidence of anything.  Very concerned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84057.html](http://www.nuforc.org/webreports/reports/084/S84057.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
