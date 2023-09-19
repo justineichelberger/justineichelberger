@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elmira/Pine City (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovercraft followed car and shot into spaceWas driving around the hills when I noticed a strange object hovering in the sky following me.  When I got closer to the city, it rapidly shot up into space.  White to reddish in color .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149197.html](http://www.nuforc.org/webreports/reports/149/S149197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oxford (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Craft seemed to be observing, very low.Took the dog outside with a friend, walked out back and heard something like a helicopter whirring. We both looked up and saw what looked like a saucer about 25 feet wide maybe 6 feet tall. At the angle we saw it from, the craft was a large half circle with red lights that gave off a blue aura on either side. My pit tried to pull my friend and I towards the craft but didn't seem scared, only curious.  The craft was very low and hovered for a moment as if it was observing, then left quickly behind the tree line surrounding our building.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149106.html](http://www.nuforc.org/webreports/reports/149/S149106.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
