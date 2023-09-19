@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:48 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Crete (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>52 yr. old woman saw 6 lights in field in crete illinois. kids with flashlights?I am a 52 year old woman having trouble sleeping and was watching late night t.v. when a light shone through my kitchen window.  I got up and peered out the window and thought  I saw kids with 6 lights possibly flashlights playing in the field across the street.  I called the police because there have been several break ins in my neighborhood lately.  When they arrived to the field they had no evidence of anything.  Very concerned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84057.html](http://www.nuforc.org/webreports/reports/084/S84057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lovell (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>triangle shapes hovering over Kezar Lake at sunset.Myself and 4 others were on top if a mountain watching the sun set.  Over Kezar Lake we noticed two triangular very dark shapes literally hovering like a kit in the wind.  However, these objects were several hundreds of feet in the air.  One of the black shapes went left about 30 yards a literally dissipated right in front of our eyes.  The second object still hovering did the exact same thing in a slightly different direction.  We all literally watched the second object in motion go from solid mass into a light grey partially see through and then gone right before our very eyes.Has anyone else seen this before?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72496.html](http://www.nuforc.org/webreports/reports/072/S72496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
