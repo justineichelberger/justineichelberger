@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Oxford (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Craft seemed to be observing, very low.Took the dog outside with a friend, walked out back and heard something like a helicopter whirring. We both looked up and saw what looked like a saucer about 25 feet wide maybe 6 feet tall. At the angle we saw it from, the craft was a large half circle with red lights that gave off a blue aura on either side. My pit tried to pull my friend and I towards the craft but didn't seem scared, only curious.  The craft was very low and hovered for a moment as if it was observing, then left quickly behind the tree line surrounding our building.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149106.html](http://www.nuforc.org/webreports/reports/149/S149106.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hyndman (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright white lights spotted over Hyndman Pa area! Bedford County Pa.Was outside in the yard at 9:04 pm to watch the ISS cross over. Had my 10x50 Swavorski   ((Swarovski)) binoculars trained on the space station when as I was watching the ISS approach from the NNW suddenly right over head there appeared a 3 bright white lights together almost looked like 3 small stars but they was not moving they all appeared from a little tiny dot of white light and morphed into 3 big dots of brilliant white light and as I watched them they disappeared as quickly as they appeared.  My son was with me but he did not see them right away. They appeared and then were gone in seconds.  No sound at all they were very bright however.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72468.html](http://www.nuforc.org/webreports/reports/072/S72468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
