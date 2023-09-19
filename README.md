@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 22;30 - 22;30 minutes.</sub><blockquote><sub>iT looked like a big star twinkling.Thru binaculars it had red green, and white lites blinking like a disco lite.  In the distance where two smaller objects that blinked in color and did funny manuvers like a worm going verticle in the sky.  My husband and I watched till 11:30PM Talked to neighbors and nobody saw it.  Then on the next eveing the big disc was back almost in the same spot.  Every night we would see it close to the original site . We thought it was a planet but couldn't understand the flashing lights.  On Sept.23rd,98 we saw what appeared to be a star explode in to a red fireball and disapear.My husband is a retired chemical engineer and couldn't give any clue to what we were seeing.  We live on a small lake and alot of strange lites and noises usually in the evening around 10pm on.  We have seen 2 bright lights in the sky that  looked like headlites but did not shine on  the ground .  What ever these strange stars are come from the north and moves east.  This all started Sept. 19th.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04540.html](http://www.nuforc.org/webreports/reports/004/S04540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Whitehall (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Strange disappearing planesSitting on my front porch with my 6 year old son and I noticed a flash in the sky that seemed unusually smaller than a plane, I watched it for about ten seconds before determining that it was unusual and ran in the house to grab my 560x zoom Sony night shot that was ready to go from my daughters dance recital the previous week.I see small planes, helicopters and commercial jets all the time around my area but something about this one just seemed strange and small considering the distance it was.  Very close.Upon watching the footage through my LCD television I noticed another one near the bottom of the screen, going from right to left, that I had not seen while filming.  Then a third one that is hard to see near the right midsection of the cloud.I don't know what they are, but they are not planes.  Do planes usually fly that close to one another in or around clouds?  And they just seem to disappear.http://youtu.be/_f8YQCOj-Ic</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/109/S109062.html](http://www.nuforc.org/webreports/reports/109/S109062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
