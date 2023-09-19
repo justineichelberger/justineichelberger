@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Ashville (2 miles south of) (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Weird brown triangular objectI was working on the computer that morning and it was a nice day out..all of the sudden, the house creaked as if a HUGE gust of wind hit it from the east side..then it stopped and I heard a sound that sounded like heavy rain or hail..then it stopped..I looked outside during this to see how windy it was and it was just a light breeze the whole time and it was sunny..after the hailing sound stopped, an object appeared outside my window..I was at an akward position, so I couldn't judge the distance except that it wasn't near my window..it was a brown object that was shaped like two isosoles (sp?) triangles with the points pointing downward and each of them had one of their tips conect with the other shape's tips..The object slowly moved diagonally down from East to West..I thought maybe it was a bat, but the bats we get here are as small as field mice and this was MUCH larger..also, I like bats, so I would've seen the head of it and it's feet or wing shape and I would've thought "Oh, how cute!!"..I got a good look at this thing and it wasn't a bat..it had smooth flat edges from what I could see..it also couldn't be a leaf because the nearest tree is accross the street (around 150 feet) and the leaves were still green..((NUFORC Note:  Date may be approximate, although witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28117.html](http://www.nuforc.org/webreports/reports/028/S28117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellicott City (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 white lights large distance from each other over Ellicott City MDExact same as item described in the Annapolis, MD, report a few days earlier - Two egg or circle light shaped crafts hovering way up in the sky.  Pretty good distance between the two.  Was absolutely still and no noise.  Hovered for almost an hour, then just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122082.html](http://www.nuforc.org/webreports/reports/122/S122082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
