@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Little Falls (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Thought I saw a satellite right above me until it stopped and making turns in different directions.Directly above.  Thought it was a satellite until it stopped and moved almost opposite direction.  Would stop periodically and change direction.  This repeated for about 10 minutes above me.  Then b-lined it northwest and made a L-turn west where it finally came to a stop and would move around and stop again and again like it did when it was above me.  During this whole time it was changing colors from green, red, white, and yellow. Also noticed 3 different aircraft moving towards it when the clouds started coming.  My girlfriend saw it with me, I called my parents and they saw it.  I also called my brother who lives almost a half hour away and he didn't know what to think when he finally saw it after my directions on finding it.  It was about in the  8 o'clock direction from the big dippers handle.  It was very high in the sky.  Like I said I thought it was a satellite but clearly it was not.  I lost sight due to clouds moving in.  I did take pictures with a 30 second shutter speed when it was out on the west until the clouds moved in.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136241.html](http://www.nuforc.org/webreports/reports/136/S136241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Onawa (IA) reported seeing craft that fit the description of some 'Changing' over a period of approximately football game - football game minutes.</sub><blockquote><sub>a light that separated into three other ones, then a cross.  Over 50 whitnesses!!, at fooball game.It was at my varsity football game, when i was standing at the sidlines when i see something out of the corner of my eye, a light.  Now this had to was very bright to see because of the fooball game lights.  Its was a light that was flashing, i didnt think much of it until it split into 3 sepret lights then disopeard and reapered in the same spot but in a cross.  Then it happened again in a different place.  There where about 50 whitnesses sense it was at a foot ball game.  That night i did some research about local sightings and on this sight i found a 2 year old report of the same thing that happened hear in Onawa!!! i coundn't beleive it!  all i can say is that theres something freaky goin on here! lol</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31675.html](http://www.nuforc.org/webreports/reports/031/S31675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
