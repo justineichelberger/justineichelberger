@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:44 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orange lights in sky over PittsburghSeptember 20, 2012  I live in the suburbs of Pittsburgh, PA in the Borough of Castle Shannon, which is south of the city.On September 19, 2012, while talking on the phone in my sunroom, at around 10:00 p.m., I saw two, round, orange lights in the sky coming from the south east.  It looked so unusual because they were traveling so close to one another.  At first I thought it was a double reflection in the glass of my glass door.  This door is on the right side of my sunroom.  One light was following the other, moving at a slow steady pace.  The best I could describe them is two full moons, the size of which is when the moon is higher in the sky and not at the horizon.  These lights however were about as high as a low flying airplane going overhead.At first I thought maybe they were two airplanes heading towards the airport since they were in the part of the sky of the air traffic pattern I see so often.   However, the two lights were moving towards the north, which would be the direction of downtown Pittsburgh and not the airport.  I opened the glass sliding door to possibly hear a jet engine, but there was no sound at all.  It was a very clear night and you could see a lot of stars.I quickly hung up the phone and grabbed my camera which was close by.  I then went to another sliding door which faces the backyard to take pictures.  By this time it was directly over my backyard at about a 65 degree angle.  I didn’t have any lights on in the room I was in, so I frantically thought I was snapping pictures when I realized I was in video mode and was turning my camera off and on.  I then turned on the outside light to see my camera settings and then started taking a video clip.  The two lights were starting to fade in the distance and they were now looking white and not orange with my naked eye.I then went to my computer and started to search for any information I could find to see if anyone else saw this.  It was not reported in the news.Today I called KDKA, one of the local TV stations to see if anyone else reported seeing the two orange lights in the sky and they said no, I was the only one.  They would not be able to take me seriously unless they had more than one call.I checked a compass to see what the approximate directions the two lights traveling. To my best ability the lights I saw came from the southeast sky on the compass reading 27/150 traveling northwest on the compass reading 60/340.I would like to know what exactly I saw that night.  It was really strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92940.html](http://www.nuforc.org/webreports/reports/092/S92940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bernville (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>oval light to the right of jupitar and 15 min. after to the left of jupitar  the first one was a white oval thing it came down diagonally and stopped. it shot up in the air and there was a white funnel following it. it was to the right of jupitar. and the second was almost like it but to the left of jupitar 15 min. after the first one((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72406.html](http://www.nuforc.org/webreports/reports/072/S72406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
