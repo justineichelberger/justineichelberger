@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hyndman (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright white lights spotted over Hyndman Pa area! Bedford County Pa.Was outside in the yard at 9:04 pm to watch the ISS cross over. Had my 10x50 Swavorski   ((Swarovski)) binoculars trained on the space station when as I was watching the ISS approach from the NNW suddenly right over head there appeared a 3 bright white lights together almost looked like 3 small stars but they was not moving they all appeared from a little tiny dot of white light and morphed into 3 big dots of brilliant white light and as I watched them they disappeared as quickly as they appeared.  My son was with me but he did not see them right away. They appeared and then were gone in seconds.  No sound at all they were very bright however.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72468.html](http://www.nuforc.org/webreports/reports/072/S72468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was following a contrail which was not the usual contrail, it had a very robust signature and a glowing aspect to it. It was heading south to north and all of the sudden it blew up?((NUFORC Note:  Missile launch from Vandenberg AFB.  Please see article.  PD))((BEGIN ASSOCIATED PRESS ARTICLE ABOUT LAUNCH))Air Force Test Missile Out WestFri Sep 20, 1:25 AM ETVANDENBERG AIR FORCE BASE, Calif. (AP) - An Air Force missile test Thursday provided a spectacular light show seen over California and much of the West, as far away as Utah and New Mexico.The colorful contrail was seen soon after the unarmed Minuteman III intercontinental ballistic missile blasted off at 7:36 p.m. from an underground silo at the Vandenberg military base north of Santa Barbara."The smoke went up in spirals as the sun was setting and turned into an orange, amber color. It was like a flower going into bloom pretty quickly," said Simon Cox, who saw it from a restaurant terrace in Santa Barbara.The missile traveled about 4,200 miles in about 30 minutes, striking a predetermined target at the Kwajalein Missile Range in the western chain of the Marshall Islands, the Air Force said.Vandenberg spokeswoman Kelly Gabel said clear conditions were responsible for the spectacular light show."We do this two or three times a year, but because the weather was so perfect we decided to launch it early," Gabel said. As a result, people were still awake to see it, and although the sun had set, sunlight below the horizon glinted off unspent fuel particles and water droplets."Suddenly we're getting calls from people as far away as New Mexico who saw it and want to know what it is," Gabel said.The mission was directed by the 576th Flight Test Squadron at Vandenberg and the 341th Space Wing and the 341st Space Wing, from Malmstrom Air Force Base in Montana.The purpose was to test launch systems and the missile's accuracy and reliability.((END ARTICLE BY ASSOCIATED PRESS))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25158.html](http://www.nuforc.org/webreports/reports/025/S25158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
