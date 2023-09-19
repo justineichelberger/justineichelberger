@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It was small , but HOT in color and pulsed for about 4-5 burts then disappeared, reapeared once more in a new directionWe were on vacation in Myrtle Beach at a very large campground. Several of us from diferent area of the country meet there a couple of times a year. It happend to be a very nice clear night. There was over 10 adults in ages from 54-72 sitting out talking and enjoying the nice evening. All of a suden out over the ocean several miles out I saw this light. It was very HOT in color and looked as though it wa moving very fast on a horizonal line with sevral pulse bursts. I hollard and one other person saw it. I was excited as I had never seen anything like this before.As everyone was looking (7-10 people) it happend once again and in a different direction. Most of the people there saw it that time. Even other campers cam by and asked if we saw it. My first UFO.... I hacve travel the world, ex military and a Government employee for over 25 years. I have never seen anything like this and probably never will again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25778.html](http://www.nuforc.org/webreports/reports/025/S25778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elmira/Pine City (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Hovercraft followed car and shot into spaceWas driving around the hills when I noticed a strange object hovering in the sky following me.  When I got closer to the city, it rapidly shot up into space.  White to reddish in color .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149197.html](http://www.nuforc.org/webreports/reports/149/S149197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
