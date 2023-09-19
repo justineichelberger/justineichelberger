@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:01 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Marion (IA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i was on hole 2 at hunters ridge and i saw a shiney silver shaped suacer the top part was spinning and the bottom part was spinning a different direction. it went side to side very quickly and then dissappeared.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25188.html](http://www.nuforc.org/webreports/reports/025/S25188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Garden Grove (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Around 6:30 PM I was walking through a Vons Pavilions parking lot when I looked up and saw 4 black objects near the ground.  3 of those objects turned out to be crows, but one flew steady at about 10 feet from the ground down towards a field.  It flew at about 2 mph, as I ended up walking right by it.  It was a black rectangle with a uneven dome on it in the middle.  It had small panels on its ends that were angled straight down.  At no time the object made sound.  It flew ahead of me crossing a main street where the field continued across the street.  I saw it until it disappeared from haze and/or fog in the field.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149862.html](http://www.nuforc.org/webreports/reports/149/S149862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
