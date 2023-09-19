@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:45 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Three glowing triangular objects moved from east to west at a high rate of speed, silently and in perfect formation.The two of us, a lawyer and a software engineer, observed three glowing triangles zoom across the sky (east to west) from one horizon to the other.  The objects moved quickly.  My best guess is that they took 15 seconds to move across the sky. During this time, they moved in a straight line, leaving no trails, and stayed in perfect formation.  The objects were colored, as best I can recall, light yellow.  They moved silently.  After they had disappeared, I checked the time on my computer (it's synced up with GMT) and it was 2:51 am pacific daylight time.  We discussed the incident afterwards and both agreed that we had never seen anything like it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09867.html](http://www.nuforc.org/webreports/reports/009/S09867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hanover (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Hanover, Pennsylvania, 8/19/09 @ 19:45.  Bright white light in cloudless sky approximately 20,000 ft.  Light pointed down towards ground in a conical shape, with illumination extending approximately 2000 feet.  Point of light clearly visible for approximately 15 seconds then disappeared as if it entered a cloud.  Conical illumination remained visible for approximately another 30 seconds then disappeared.  Commercial aircraft in the area at the time of the sighting.((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72404.html](http://www.nuforc.org/webreports/reports/072/S72404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
