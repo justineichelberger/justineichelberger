@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:56 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brilliant white light west of AlbuquerqueWhen leaving the gym tonight at 19:28 I noticed an obscenely brilliant white light due west roughly 30 degrees above the horizon and recently-set sun.  For a moment I was filled with the Holy S*#! factor but then calmed as I realized it was probably a high-altitude balloon.  (Many years ago I saw something similar and checked it out in binoculars and saw the distinct upside-down teardrop translucent balloon shape.) About 10 minutes later I noticed it taking on an orangish hue and it quickly faded red and dark as the sun went farther below the horizon.I'm 100% convinced it was just a balloon but I wanted to submit this report to help clarify any others you may receive.I am an amateur astronomer and have a background in physics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46388.html](http://www.nuforc.org/webreports/reports/046/S46388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Keystone Heights (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was heading to the bar with my friend, who was the driver.  On a back road we came up on a local compactor waste facility approx. 4 acre clearing fenced in.  It was night time and we saw a region of space about 25 feet off the ground and about 10 feet in diameter flashing rapidly like a few dozen camera strobes.  We slowed down as we passed it and turned around.  It was gone.  The flashes seemed to be the bottom of an object we couldn't see.  The flashing was literally like camera strobes in no particular pattern we could recognize.  We parked in front of the gate after it had disappeared and decided to go home.  The flashes lit up the ground and surroundings.  There was no noise other than the imagined noises from the flashes triggering a false noise in our heads as if you see a gun shot on tv without sound.  It was very real.  My buddy will tell you the same thing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130882.html](http://www.nuforc.org/webreports/reports/130/S130882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
