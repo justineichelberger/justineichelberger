@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:41 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Danvers (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two oblong objects (whitish/orange hue) travelling straight then stopped, did some figure eight swirls around each other and disapperedOn 9/20/2012 (Thursday), at approximately between 12:20 am to 12:40 am, I was standing in the parking lot of a local bank at Endicott Plaza in Danvers, Massachusetts looking at the stars.  I then observed the following:  what I thought were two shooting stars…they were two distinct objects that appeared to be almost cloudy, wispy but oblong…they had no outstanding color but were appearing to be whitish or even having an orange hue…..the objects were travelling from a Western to Eastern direction and were parallel at one point…however, all of a sudden they both stopped mid-flight and did some sort of figure-eight swirls around each other, stopped, and then went Southward very rapidly and ultimately disappeared.  I didn’t think shooting stars did that…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92911.html](http://www.nuforc.org/webreports/reports/092/S92911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We seen three lights moving in fast formations above the apartment across from us. They were at first in a straight line but very quickly moved into a triangle formation. They were moving very fast in perfect formation of a triangle. The triangle was spinning in a circle but staying in unison almost perfectly from what we could tell. Then the lights went dim until my camera could not register them and the night sky went black and about two minutes ago they reappeared as I'm typing this . There's no way a plane or helicopter could move like what I seen . I have a short video too but it isn't very clear. The light just went out out of nowhere one at a time . Idk how to explain it .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164781.html](http://www.nuforc.org/webreports/reports/164/S164781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
