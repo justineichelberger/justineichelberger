@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 19 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Putney (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>VANISHING BRIGHT WHITE LIGHT WITH CONE SHAPED MIST IN PUTNEY, VERMONT((NUFORC Note:  Missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72453.html](http://www.nuforc.org/webreports/reports/072/S72453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was Sunday morning and it was like 3:14.  I've had just finished delivering newspapers with my brother,something I do everyday.  So as I was getting out of the car I stoped and looked up to watch the northern lights.  And as I was watching I saw what looked balloons like 8 of it and was yellowish like the size of a basketball if you were to see it from were I was standing.  At first I thought it was one of the group of birds I had saw earlier. But as it got closer saw it can't be balloons it's to dark to be able to see a balloon.  I told my brother look a ufo I was joking and he said those are just balloons and went inside the house.  Well I kind of started to believe too that it were baloons, until it went a little higher and I could still see it.  Then I said to myself if those were balloons you'd probably couldn't see it from here, then I was 100% sure it was balls of light.  So as the ball of lights went bit higher coming from the opposite direction was anoth! er balls of lights same everything except it was reddish it kind of met up with the other ball of lights and sort of circle each other then both went higher and higher in the sky then it started to look like stars then stoped for like 15 second then it started to line up perfectly and then started to move toward the center of the sky. And when it got there the northern lights started to make its way to the lights and started surrounding it 10 seconds later when the nor the lights was gone the balls of light was gone too....September/20/2015</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122081.html](http://www.nuforc.org/webreports/reports/122/S122081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [519](http://www.nuforc.org/webreports/reports/164/S164792.html)
-- [518](http://www.nuforc.org/webreports/reports/164/S164788.html)
-- [517](http://www.nuforc.org/webreports/reports/164/S164768.html)
-- [516](http://www.nuforc.org/webreports/reports/164/S164793.html)
-- [515](http://www.nuforc.org/webreports/reports/165/S165160.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
