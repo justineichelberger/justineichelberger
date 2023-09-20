@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:48 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birdsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brilliant blue and red square shaped object massive size no sound vary low to the groundNoticed a a flashing like out side of your living room area.  When I noticed it was flashing blue/red/white/purple.  I got up to try and get a better look of it outside the window.  I saw it south east it was moving East toward Pottstown direction.  When I got up to see a better look it had turned a white and moon type of yellow.  But too close to be the moon or any stare because it was moving through the trees.  Plus, the other witness that I was with say it first moving in the East direction.  I ran out side and at that point only could see the blue and red flashing light then lost it though the trees.  This object was low to the ground and to big to be a airplane or a helicopter.  I would guess that the object could have not bin more then 4 miles.  There was no sound just brilliant flashes of blue and red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122116.html](http://www.nuforc.org/webreports/reports/122/S122116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Woodland (WA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Saucer shaped craft at roof level just hovering, round windows along the side and dome in the middle.My roomate and I were riding on a greyhound bus on Interstate 5.  We were going home for a visit from college in Portland Oregon to Longview Washington.  Right before entering Woodland Washington we passed a huge freshly plowed field.  In the middle of this huge field was a two story farmhouse. I was just casually looking at the view when I saw a saucer shaped disc hovering at roof level of this home. It was brown, saucer shaped with a dome in the middle. It appeared to be as long as the roof of the house. Along the side of this craft there were windows, round ones and at one end of it a "fin"? or something slightly projecting upward like a tail or a shark fin.  It just hovered there at roof level and moved ever so slightly.  Underneath this craft there was some turbulence like the bushes appeared to be swaying bath and forth. I told my roomate about this and told her were to look and she took one long stare, turned to me and said....... "If you tell anybody about this I will deny it!" This scene lasted the entire time it took to pass from view. I never did tell anybody for years.  It still haunts me to this day so to tell someone who will listen is a cleansing moment for me.  I am truly not alone.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32318.html](http://www.nuforc.org/webreports/reports/032/S32318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
