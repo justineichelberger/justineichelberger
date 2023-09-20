@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Venice (NE) reported seeing craft that fit the description of some 'Other' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>Large, flying "T".While camping at Two Rivers state rec area, my stepmom, neighbor & myself saw what appeared to be a flying capital "T".  The "T" was in all red lights and flew upright, so that the crossing of the "T" was at the top.  It flew in past the campsite from the west, headed a mostly eastward direction.  It was quite large, possibly as large as a commercial jet, standing on it's tail.  It flew silently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31716.html](http://www.nuforc.org/webreports/reports/031/S31716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Tipp City (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>An object , reported in Project Blue Book, followed us  for about one half mile then shot straight into the night sky.I was with a friend when we spotted lights that seemed to be floating to the ground. The light disappeared behind a grouping of trees.  As we continued down the road the lights reappeared in the road, one half mile in front of us. We were unable to discern the shape, as we were looking directly into three bright white lights framed by two larger red lights. The five lights spanned the two-lane road country road.  As we stopped and turned away from the lights, the object moved quickly in our direction. As we approached a more populated area the object shot straight up into the night sky.  We reported this sighting to the county sheriff’s office.  Two local papers, the Journal Herald (no longer in print) and the Dayton Daily News, picked up the story from the police report and published reports from our interview.My friend was called out class, both of us being high school seniors, and interviewed at length by uniformed U.S. Air Force, Project Blue Book officers.   I was later called of class and interviewed by the same officers. In addition to the interviews, the investigating officers conducted some type of radiation test in the area where we reported seeing the object. They indicated to me that they were able to record a higher than "background" radiation count.This object was observed by one of our teachers who later reported to my friend and I that she also saw a bright light shoot straight into the sky.  She was on a road, over looking Tipp City, approximately three miles due east of our position.An official Project Blue Book report was filed.((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41244.html](http://www.nuforc.org/webreports/reports/041/S41244.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
