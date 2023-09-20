@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:31 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Sunflower (MS) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1995 Blue cylinder object flies over car stops and darts off with great speed.It was about 9:00pm When i went to pick up my ex-girlfriend in Idinanola MS, from Sunflower MS. I was staying with my gradfather for the weekend so i could take her to a dance function at her school.  It was a cool night but foggy in places along the major highways and on the back roads.  On my way i see what looks to be a blue light flash across the high way.  Even though it was foggy you could not miss it, it was half a mile away but high enough to fly over the grain silos that were off in the distance.  I thought nothing more of it and went on with my bussiness.  I had picked up my ex-girlfriend and had forgotten her gift.  We still had time before we needed to be there so I drove back to my grandfathers. On the way back however I saw the light once again but this time it flew over the right side of my car not more than 60ft off the ground.  Then it stop very suddenly, then shot off into the distance with great speed.  All i could see was a blue light however when this light traveled it was as if it were a cylinder shape.  This time it really bugged me and to make sure i was losing it i ask my ex-girlfriend if she saw "it". She said yes. We arrived at my grandfathers house and told him what we saw.  He had also seen somethinng from out side his front window.  I asked him what color it was and he said blue, and it moved very fast.  He also said that it wasn't the first time he's seen something like that.  He had seen this before twice as a child and three time growing up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62474.html](http://www.nuforc.org/webreports/reports/062/S62474.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Danvers (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two oblong objects (whitish/orange hue) travelling straight then stopped, did some figure eight swirls around each other and disapperedOn 9/20/2012 (Thursday), at approximately between 12:20 am to 12:40 am, I was standing in the parking lot of a local bank at Endicott Plaza in Danvers, Massachusetts looking at the stars.  I then observed the following:  what I thought were two shooting stars…they were two distinct objects that appeared to be almost cloudy, wispy but oblong…they had no outstanding color but were appearing to be whitish or even having an orange hue…..the objects were travelling from a Western to Eastern direction and were parallel at one point…however, all of a sudden they both stopped mid-flight and did some sort of figure-eight swirls around each other, stopped, and then went Southward very rapidly and ultimately disappeared.  I didn’t think shooting stars did that…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92911.html](http://www.nuforc.org/webreports/reports/092/S92911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
