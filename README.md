@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Palm Harbor (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Cylinder Shaped Object moving Very fast with a purple underglow  My friend and i were walking down the street and we were really exausted and sat down for a second. right when i sat down i looked up and i see this cylinder shaped object moving at impossible speeds. the object was slightly curved probably because it was so high in the atmosphere. It also had 2 purple spots on the bottom of the object (engines?) made no sound at all. my friend saw the same.((NUFORC Note:  Witness provides only e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60259.html](http://www.nuforc.org/webreports/reports/060/S60259.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object(s) in night sky Bothell, WA, Nov 20, 8:45PM.((NUFORC Note:  We suspect that report is a hoax.  Date is flawed, and source has failed to respond to our e-mailed messages.  We have changed the date.  PD))At about 22:45 in Bothell, WA, I was on my back deck and saw numerous objects (I believe 6) fly overhead.  They had no lights but were clearly visible I'm assuming due to the city lights below.  They looked silverish-gray but that is probably the city light reflecting off them.  They were in a "V" formation.  One in front, two directly behind the first, and 3 behind the two.  The row with three, the one on the far right was off centered however.  Appeared to be pulling away from the others but I can't be sure as I only saw the objects for a few seconds before they went over the tree line.  There was no sound at all.  I cannot give an exact altitude but I'm guessing 1000-2000 feet due to the speed across the sky.  Basically west to East.  If they were at 10,000 feet they would have been the size of jumbo jets and going at least mach 4 or 5 so my assumption is much lower altitude.  Again, no sound at all which is not possible if it was a low-flying (or high flying) formation of jets. I cannot guarantee they were separate objects as it's a pitch black night sky, but it appeared they were, as one was out of formation.  My first thought was maybe a big drone but the speed was too fast and the off-centeredness does not make sense. I'm sure others saw what I saw too as it's a populated area.  Very strange and never seen anything like it.((CORRECTION FROM WITNESS))Sorry it was 22:45 (10:45 pm)...give or take 10 mins((END CORRECTION))((2ND CORRECTION FROM WITNESS))Sorry it was 9/20.  A few hours before I sent the email.  I live by an International airport and within 25 miles of two Boeing airports so I see a lot of aircraft flying around.  Also seen Blue Angels many of times and it did look like an Angel formation, very close together.  But if what I saw was military aircraft, judging by the size they would have been around 10,000 feet, flying very fast and there would have been sound.  Was completely silent.((END CORRECTION))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113732.html](http://www.nuforc.org/webreports/reports/113/S113732.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
