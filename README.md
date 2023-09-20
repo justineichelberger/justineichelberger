@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:25 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:54 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Brookfield (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I just pulled in my driveway from getting coffee, and I noticed this bright star to the southeast of my house.  It was a bright, rotating, pulsing, white and red light.  At first when I saw it, it was just white.  Then, after I watched it for a couple minutes, the red started, too.  It was towards Midway airport.  This was not a plane.  I've worked at O'hare airport for over 10 years, so I'm familiar with airplanes.  I took a picture with my cellphone.  It was far away.  However, I knew if I could get it, I could crop the picture.  Then, I could see it better.  And, I got it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131072.html](http://www.nuforc.org/webreports/reports/131/S131072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Hartville (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two chevron shaped objects traveling together at low speed over rural Wright County, MOThe date is approximate, but was in September, 1972.  Witness #1, a 50 year old male, stepped outside to smoke an after dinner cigarette, but almost immediately returned to the house to have myself and the other witness, his 52 year old wife, step outside to look at something in the sky.  I was 17 at the time and living with them.The three of us went outside and Witness #1 directed our attention to two bluish-gray chevron or boomerang shaped objects low on the horizon.  They were identical in size, color and shape with one exception explained below.  Instead of being parallel to the horizon, both objects were perpendicular to it.The objects appeared to be about 1 mile north of us traveling west at very low speed, perhaps 5 mph or less.  The lead object was perhaps 500 to 1,000 feet in front of the second object.  We did not hear any sound from the objects, but I did not expect to since they appeared to be about a mile away.Witness #1 went back into the house and returned with a pair of 10 X 50 binoculars.  All three of us had a turn viewing the objects with them.  I noticed while viewing through the binoculars the top third of the second object was blinking into and out of sight (similar to a fluorescent bulb immediately after being turned on) at the rate of about once per second.  I was left with the impression the second object was experiencing mechanical problems or some sort of malfunction and was being escorted or possibly towed by the first object as the distance between them never deviated.After watching the objects for several minutes, they both disappeared behind some trees and we never discussed the incident again.((NUFORC Note:  Witness indicates that date of sighting is approximate.  One of several seemingly high-quality reports from the same source, who describes himself as a public employee, who had a great deal of responsibility.  We suspect tha the witness is a very good observer.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75760.html](http://www.nuforc.org/webreports/reports/075/S75760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
