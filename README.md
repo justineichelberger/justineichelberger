@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bristol ct light 1 minute small, white light seen during marching band practice by one memberSmall, white light/dot seen moving slowly up in a vertical motion.  It paused above a cloud for around ten seconds then shot straight up out of view.At least 10 jetplanes were seen that night in the area, including one military.Seen during a High School marching band practice by one member.((NUFORC Note:  We have amended the time above, in order to reflect a nighttime sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136255.html](http://www.nuforc.org/webreports/reports/136/S136255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Oak Lawn (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO Flying thr whole street of Cicero above traffic as high as planes fly.I was driving from 111th & Cicero to 103rd & Cicero in Oak Lawn.  While I was driving I saw a white light coming down Cicero that looked like the ISS.  It had no blinking lights. I watched it and the red traffic light too at around 107th & Cicero it was moving at about the Sam speed as the other planes in the sky.  At one time I thought it wad a star because it looked to be not moving.  It went over head I stuck my head out window it had 2 white lights close to each other.  I did not hear any sound from it going over head.  It was weird.  If it was a plane they didn't have any blinking lights on.  It was just flying over the street Cicero going down it like it was interested in the cars going down the street.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130086.html](http://www.nuforc.org/webreports/reports/130/S130086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
