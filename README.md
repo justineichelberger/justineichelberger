@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:47 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Martin County (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Multiple craft in shape of triangle perform high speed flyby at high altitude.I was walking my dog down the street when I had seen what looked like a star, then I realized it was more than one dot. I then realized it was moving towards me at a very high altitude. I first thought it was a flock of birds flying in a V formation. The triangle then disappeared into the clouds for 2 to 3 seconds, thats when I ruled out the bird idea because of how tight the formation was, how high the formation was, and how fast the formation was. This formation traveled all the way across the sky in a matter of 10 to 25 seconds. The formation did not stop and go, it just kept flying almost stright south. As a pilot in training, I am fairly familliar with the way certain aircraft act. This or these objects did not have any strobes or red/green lights on wing tips. The objects also did not make any noise at all what so ever. I am a huge aviation fanatic, and my friends tell me I'm obsessed with military aircraft. I have never seen or heard of anything like this before in my entire life. Looking up into the sky, if you hold your hand up, it appeared to be about two to four inches in length.The object looked like this .. ..   ..     .. . . . .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65815.html](http://www.nuforc.org/webreports/reports/065/S65815.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Paris (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw two orange orbs in the NE sky.  Moved close together and moved in a circle.   Split apart, disappeard.  1 single flew over me, no noise((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102451.html](http://www.nuforc.org/webreports/reports/102/S102451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
