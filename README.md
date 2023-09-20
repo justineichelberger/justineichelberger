@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:56 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Maybrook (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a large UFO fly over my house.Around 10:30 PM my sister and I saw a large craft fly over our house. It was low enough to nearly hit the antenna off the roof. It was about 30 feet long and 20 feet wide. It was an octagon shape with a small tail. It had a white light on each end. It made an extremely loud noise that we heard, but my mother didn't. I was UFO watching when it happened. The UFO was moving about 50 mph.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17606.html](http://www.nuforc.org/webreports/reports/017/S17606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brilliant white light west of AlbuquerqueWhen leaving the gym tonight at 19:28 I noticed an obscenely brilliant white light due west roughly 30 degrees above the horizon and recently-set sun.  For a moment I was filled with the Holy S*#! factor but then calmed as I realized it was probably a high-altitude balloon.  (Many years ago I saw something similar and checked it out in binoculars and saw the distinct upside-down teardrop translucent balloon shape.) About 10 minutes later I noticed it taking on an orangish hue and it quickly faded red and dark as the sun went farther below the horizon.I'm 100% convinced it was just a balloon but I wanted to submit this report to help clarify any others you may receive.I am an amateur astronomer and have a background in physics.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46388.html](http://www.nuforc.org/webreports/reports/046/S46388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
