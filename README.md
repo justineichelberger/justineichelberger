@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Wilberforce (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5:09 - 5:09 minutes.</sub><blockquote><sub>Over 40 passengers!I saw a UFO and it was a shape of a flying saucer, but, it had a tail that had a red light that didn’t blink. The most incredible thing that I noticed was that it had passenger windows on it; on my side I could see at least fifteen windows. I flew perfectly, I was happy at first, but, then I got scared because of being by myself. I was in college so the next morning I tried to tell everyone and they thought I was crazy. I even told my mom, in which, she passed a few weeks later. So if I wouldn’t lie to my mom, then, why would I lie now to anyone? I’m an artist and I can draw exactly what I seen. The scary part about this is, not that only one or two passengers can walk on earth as I heard in the pass, in which, I didn’t believe. There can be at least fifty aliens on earth at one time. If anyone has seen this structure / UFO please tell me so I can feel better. Email me at  ((e-address deleted)).((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66389.html](http://www.nuforc.org/webreports/reports/066/S66389.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Maybrook (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I saw a large UFO fly over my house.Around 10:30 PM my sister and I saw a large craft fly over our house. It was low enough to nearly hit the antenna off the roof. It was about 30 feet long and 20 feet wide. It was an octagon shape with a small tail. It had a white light on each end. It made an extremely loud noise that we heard, but my mother didn't. I was UFO watching when it happened. The UFO was moving about 50 mph.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17606.html](http://www.nuforc.org/webreports/reports/017/S17606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
