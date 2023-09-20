@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:48 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Keystone Heights (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was heading to the bar with my friend, who was the driver.  On a back road we came up on a local compactor waste facility approx. 4 acre clearing fenced in.  It was night time and we saw a region of space about 25 feet off the ground and about 10 feet in diameter flashing rapidly like a few dozen camera strobes.  We slowed down as we passed it and turned around.  It was gone.  The flashes seemed to be the bottom of an object we couldn't see.  The flashing was literally like camera strobes in no particular pattern we could recognize.  We parked in front of the gate after it had disappeared and decided to go home.  The flashes lit up the ground and surroundings.  There was no noise other than the imagined noises from the flashes triggering a false noise in our heads as if you see a gun shot on tv without sound.  It was very real.  My buddy will tell you the same thing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130882.html](http://www.nuforc.org/webreports/reports/130/S130882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Birdsboro (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brilliant blue and red square shaped object massive size no sound vary low to the groundNoticed a a flashing like out side of your living room area.  When I noticed it was flashing blue/red/white/purple.  I got up to try and get a better look of it outside the window.  I saw it south east it was moving East toward Pottstown direction.  When I got up to see a better look it had turned a white and moon type of yellow.  But too close to be the moon or any stare because it was moving through the trees.  Plus, the other witness that I was with say it first moving in the East direction.  I ran out side and at that point only could see the blue and red flashing light then lost it though the trees.  This object was low to the ground and to big to be a airplane or a helicopter.  I would guess that the object could have not bin more then 4 miles.  There was no sound just brilliant flashes of blue and red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122116.html](http://www.nuforc.org/webreports/reports/122/S122116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
