@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We seen three lights moving in fast formations above the apartment across from us. They were at first in a straight line but very quickly moved into a triangle formation. They were moving very fast in perfect formation of a triangle. The triangle was spinning in a circle but staying in unison almost perfectly from what we could tell. Then the lights went dim until my camera could not register them and the night sky went black and about two minutes ago they reappeared as I'm typing this . There's no way a plane or helicopter could move like what I seen . I have a short video too but it isn't very clear. The light just went out out of nowhere one at a time . Idk how to explain it .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164781.html](http://www.nuforc.org/webreports/reports/164/S164781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Wilberforce (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5:09 - 5:09 minutes.</sub><blockquote><sub>Over 40 passengers!I saw a UFO and it was a shape of a flying saucer, but, it had a tail that had a red light that didn’t blink. The most incredible thing that I noticed was that it had passenger windows on it; on my side I could see at least fifteen windows. I flew perfectly, I was happy at first, but, then I got scared because of being by myself. I was in college so the next morning I tried to tell everyone and they thought I was crazy. I even told my mom, in which, she passed a few weeks later. So if I wouldn’t lie to my mom, then, why would I lie now to anyone? I’m an artist and I can draw exactly what I seen. The scary part about this is, not that only one or two passengers can walk on earth as I heard in the pass, in which, I didn’t believe. There can be at least fifty aliens on earth at one time. If anyone has seen this structure / UFO please tell me so I can feel better. Email me at  ((e-address deleted)).((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66389.html](http://www.nuforc.org/webreports/reports/066/S66389.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
