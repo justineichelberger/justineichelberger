@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 20 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>LARGE TRIANGLE SHAPED OBJECT OVER THE METROCENTER IN PHX,AZ. ON 09/20/00 AT APPROX. 2100, MYSELF(((name deleted)) AND ((name deleted))OF THE METROCENTER SECURITY PHX,AZ.,WERE STOPPING A RECKLESS DRIVER IN THE LOT #4 PARKING AREA. AFTER WE HAD STOPPED THE DRIVER AND WERE TALKING TO HIM MYSELF(LT SAYED)AND ((name deleted)) NOTICED A VERY LARGE TRIANGLE SHAPED OBJECT WITH THREE BRIGHT WHITE LIGHTS ON THE LEFT SIDE AND TWO ON THE RIGHT,NONE AT THE POINT OR REAR. THE OBJECT CAUGHT OUR ATTENSION BECAUSE IT WAS BLOCKING THE MOON LIGHT AS IT PASSED BY. THE OBJECT WAS AT A HIGH ALTITUDE AND STILL APPEARED ENORMOUS. IT WAS MOVING VERY SLOW. IT APPEARED TO BE DRIFTING. THERE WAS NO SOUND.THE COLOR APPEARED TO BE BLACK.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15746.html](http://www.nuforc.org/webreports/reports/015/S15746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Monaville (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At an airshow could see craft in distant sky drifting very slowly.Photos taken, showing a craft in the shape of the number 3, shining in the sun and rotating very slowly.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113724.html](http://www.nuforc.org/webreports/reports/113/S113724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [510](http://www.nuforc.org/webreports/reports/164/S164781.html)
-- [509](http://www.nuforc.org/webreports/reports/164/S164780.html)
-- [508](http://www.nuforc.org/webreports/reports/164/S164778.html)
-- [507](http://www.nuforc.org/webreports/reports/164/S164779.html)
-- [506](http://www.nuforc.org/webreports/reports/164/S164782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
