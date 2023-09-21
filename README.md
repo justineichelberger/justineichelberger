@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>unknow over Grand Junction coSaw a object in the western sky about 20:30 it was orange in color it was heading east .  I observed it for several minuets .   I  then seen it turn to the  north . I called my two brothers out and they saw it too.  It was going at a fast rate of speed about 1000 mph. I went in to the house and  got  a pair of binoculars. I went into the back yard and by the time I could find it, it was almost out of sight.There were no flashing lights, at the same time that we saw this there were at least three airplanes in the night sky and we could see their lights flashing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65818.html](http://www.nuforc.org/webreports/reports/065/S65818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ellesmere (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3bright lights fading in and out and moving quickly.i saw 1 light behind some clouds which was hazy then bright, then another two which did a 90-degree right turn and back which was really quick movement like someone with a torch,then two went out then back on really bright behind these clouds.  they seemed to fade in and out.  i saw one plane to the north east of the clouds but this all happened over 5or so minutes,  it was to bright for planes and to stationary well.  the cloud line was really high in the sky.  The sighting was between Ellesmere [Shropshire] and Whitchurch..((NUFORC Note:  For some strange reason, the witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130133.html](http://www.nuforc.org/webreports/reports/130/S130133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
