@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three reddish lights in formation, two bobbing around in front of the the thirdSeptember 21st, 2016 Cicero, NY  21:07   Three reddish lights flying in close formation, heading NNE.  Estimated altitude 1,000-2,000 feet.  Two smaller lights in front, a larger one in the rear.  The two front lights moved side to side, "bobbing" back and forth, the rear light stayed on one linear course.  There was no flashing or blinking, but the rear light intensified for about 2 seconds.  All three continued NNE until no longer visible.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite responsible and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130111.html](http://www.nuforc.org/webreports/reports/130/S130111.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Corvallis (OR) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange F-16 Operations In Corvallis, Oregon.I know that low flying jet fighters are an indicator of UFO activity.  This past Sunday I saw 2 low flying F-16's doing low steep-banked turning flight patterns over the skies between Corvallis and Philomath, Oregon.  We NEVER have fighter activities around here.  Sometimes Air Guard A-10's will do a flyover at Oregon State University football games on SATERDAY's.  This was a SUNDAY and we never have fighter craft around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31758.html](http://www.nuforc.org/webreports/reports/031/S31758.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
