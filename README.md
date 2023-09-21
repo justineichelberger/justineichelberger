@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:06 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Thessaloniki (Greece) () reported seeing craft that fit the description of some 'Other' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>There was a star over a skyscraper. During the 4 hours, this star wasn't moving. Suddenly the craft from white went to blue and then disappeared.There was a star over a skyscraper. It looked strange to me and to my brother when this star wasn't moving. Any extra-terrestrial life wasn't seen from so away. About 4 hours later the craft went to blue. Then it exploded and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07922.html](http://www.nuforc.org/webreports/reports/007/S07922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Ilooked up saw circular object with 3 whitish lights on the outside one big red in the middle and went away strangely in an instant.I was at a soccer practice and I had just taken a short break when I looked up at the moon and saw this big circular object in the sky. It had 3 whitish yellowish lighhts and a center red light that was fairly big. I couldn't believe my eyes. I then saw it fly upward at very high speeds and it was gone bfrore I knew it. It looked approximately 20 feet from edge to edge. I noticed when it flew away it didn't fly away like i thought it would, smoothly. It flew kind of in sections, like  it would fly then stop and suddenly appear 10 ft. away. It was the most amazing thing I had ever seen.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32940.html](http://www.nuforc.org/webreports/reports/032/S32940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
