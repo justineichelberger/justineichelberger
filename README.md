@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hudsonville (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw 3-ish lights hovering, saw flashes of light (like lightning) did not move for 5 minutes,  no noise, turned and moved, not quickly.  When it turned I saw a red light, but it was soon slow.  Not sure....still a little shaken</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136267.html](http://www.nuforc.org/webreports/reports/136/S136267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Red oval object traveling at a high rate of speed.I had just woke up and I opened up my bedroom window and then went to my kitchen window and opened it up to get the airflow going.As I opened up the kitchen window, I saw a red object going from the southeast to the northwest at a high rate of speed.This object was about a half a mile away and approximately 500 feet off the ground. It was maybe 20 feet in length and 5 feet in height This object was traveling from civilian air space to over military airspace and made no sound at all. However, I did hear one out of place sound as this passed by. I heard what sounded like a hawk.If this was a hawk, it was big, fast and glowing. The glow was not a solid glow. In other words there was more than one light. Maybe about five lights from front to back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92968.html](http://www.nuforc.org/webreports/reports/092/S92968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
