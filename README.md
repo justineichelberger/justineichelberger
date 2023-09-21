@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clinton (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>We observed a oval shaped greenish object in the sky.  It was quickly moving from west to east.  It moved so fast that it seemed to look like it left a tracer of light.  It moved into view as we were driving on Lake City Hwy.  It moved in and out of view in 3 seconds.  As we turned a corner the sky opened up and I saw it again very briefly move across the sky and out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149644.html](http://www.nuforc.org/webreports/reports/149/S149644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Chatfield (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I WAS ABDUCTED INTO AN AIRCRAFT AND USED FOR EXPERIMENTS BY UNKNOWN BEINGS.I WAS DRIVING HOME FROM WORK AND AS I DROVE ONTO THE FARM TO MARKET RD  I SUDDENLY SAW A BEAUTIFUL WHITE/OPAL AIRCRAFT. IT HAD A CURVING NEON PURPLE TAIL THAT TOUCHED THE GROUND. I HAD JUST PHONED HOME AND TOLD MY FAMILY I WAS ON MY WAY AND I LOOKED AT THE CLOCK BECAUSE WE WERE SUPPOSE TO MEET AT MY HOME AND GO OUT TO DINNER FOR MY HUSBAND'S BIRTHDAY.AT EXACTLY 7:30 PM I LOOKED AT THE CLOCK. SUDDENLY IT FELT LIKE I WAS BEING SUCKED OUT OF MY CAR BY SOME POWER THAT WAS COMING FROM THAT AIRCRAFT. IT DID A REALLY STRANGE THING. FOR SOME UNKNOWN REASON I PARKED MY CAR ON THE SIDE OF THE ROAD AND LOCKED THE DOORS.THE NEXT THING I REMEMBER I WAS GETTING BACK INTO MY CAR AND IT WAS APPROX. 8:30 PM. I HAD A SPLITTING HEADACHE AND MY EYES FELT LIKE THEY WERE BURNING FROM THE EXPOSURE TO THE BRIGHT LIGHTS OF THE AIRCRAFT AND INSIDE THE AIRCRAFT.AT THAT MOMENT I KNEW I HAD BEEN ABDUCTED AND TAKEN INSIDE THE CRAFT.WHEN I ARRIVED HOME I TOLD MY FAMILY WHAT HAD HAPPENED. THEY ACTED AS IF THEY DIDN'T TAKE THIS SERIOUS.AT THE RESTAURANT I SAW A VOLUNTEER FIREMAN AND I ASK HIM IF HE HAD HEARD OF ANY UNUSUAL THINGS IN THE SKY. I CALLED THE SHERIFF'S DEPT. AND THEY SAID THEY HAD HAD  NO SUCH REPORTS. AS TIME WENT ON I BEGAN TO REMEMBER WHAT HAPPENED TO ME. I REMEMBER BEING INSIDE A ALMOST COMPLETELY STEEL ROOM.IT LOOKED VERY STERILE.IT HAD LOTS AND LOTS OF CABINETS AND AN EXAM TALE IN THE CENTER OF THE ROOM.I REMEMBER TWO MALE FIGURES WITH OBLONG WHITE HEADS AND BIG EYES. THEY WERE PROBING MY BODY AS IF THEY WERE TAKING BLOOD AND BODY SAMPLES FROM ME. I COULD NOT MOVE, I JUST LAID QUIETLY ON THE TABLE. IT WAS ALMOST LIKE I WAS AN EXPERIMENT. THEY NEVER TALKED TO ME THEY JUST LOOKED AT EACH OTHER AND WROTE STUFF DOWN. I REMEMBER THE MORE DOMINANT MAN DID THE WRITING WITH HIS RIGHT HAND. I TRIED TO MOVE BUT IT WAS LIKE MY BODY HAD BEEN GIVEN SOMETHING TO MAKE IT HELPLESS.I DON'T REMEMBER HOW I GOT INTO THE CRAFT OR HOW I GOT DOWN. I JUST REMEMBER THIS PULLING FORCE THAT PULLED ME TOWARD THE CRAFT.I TELL PEOPLE AND THEY LAUGH AT ME. I HAD NOT BEEN DRINKING OR TAKING ANY TYPE OF DRUGS OR MEDICATION THAT WOULD CAUSE ME TO HULLICINATE. I KNOW WHAT HAPPENED TO ME AND I OFTEN WONDER WHO THEY WERE? WILL THEY BE BACK FOR ME? WHAT PURPOSE DID I FULFILL IN THEIR EXPERIMENT ON THE HUMAN BEING? THESE QUESTIONS REMAIN UNANSWERED. BUT I KNOW I WAS ABDUCTED INTO THE AIRCRAFT AND I WAS RELEASED.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42034.html](http://www.nuforc.org/webreports/reports/042/S42034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
