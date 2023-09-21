@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:46 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Chatfield (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I was driving home from work and had just talked to my daughter on the cell phone. I looked at the clock and it said 7:30pm I told her I would be there in about 20 minutes( I was running late for my husbands birthday dinner.) All of a sudden I felt some sort of magnitism drawing my attention. I looked up in the sky and saw a oval shaped object sitting still in the sky. It was beautiful,it looked like an eferdescent opal color. It had a bright neon purple tail that went all the way to the ground. For some reason I pulled my car off to the side of the road and I locked my car and suddenly I was inside the object. the inside was a clean,sterile,cool room made of stainless steel. It had cabinets on the wall and it looked immaculate. There were two beings. they had big white heads and black eyes. They were actually tall and were both male and had on long white lab coats. I remember I was laying on a stainles steel table and they were examining my body. They took body fluids,blood,urine,saliva among other things. The next thing I really remember is walking back to my car with a splitting headache. I looked at the clock and it said 8:30pm  my daughter had left several messages checking on me. When I arrived at the restaurant I was still shaken and felt weak. I didnt want to say what had happened to me. but I wanted to know what had really happened. I saw one of the area firefighers and I ask him if anything had been reported in the sky. He said no. I called the sheriffs dept and kep getting the same answers..nothing unusual had been reported.  When i got up the next morning I went to my neighbors house and before I could tell her what happened she told me she had seen a flying saucer and it scared her really bad.  She described it to a t. The lady is now deceased. Many people heard the story and I had reported it on the internet somewhere the next couple of days. This was truly a real true and non fictional happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68834.html](http://www.nuforc.org/webreports/reports/068/S68834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three reddish lights in formation, two bobbing around in front of the the thirdSeptember 21st, 2016 Cicero, NY  21:07   Three reddish lights flying in close formation, heading NNE.  Estimated altitude 1,000-2,000 feet.  Two smaller lights in front, a larger one in the rear.  The two front lights moved side to side, "bobbing" back and forth, the rear light stayed on one linear course.  There was no flashing or blinking, but the rear light intensified for about 2 seconds.  All three continued NNE until no longer visible.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be quite responsible and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130111.html](http://www.nuforc.org/webreports/reports/130/S130111.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
