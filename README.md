@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:56 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Laconia (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Disk seen hiding in cloud hovering over cityAt 3:00 on a sunny afternoon I was driving my car up Pine St. hill.  The view in my windshield showed a small wispy cloud, within the mist I saw the edge of a Disk for about 3 seconds, it disappeared when it changed the angle of flying and the reflection off the shiny sides could no longer be seen. It's angle was  /  , at about 1000 feet up.   I got home within 5 minutes, got binoculars and scanned the area of the cloud formation. At 3:10 the disk was in the same area, and could only be seen when the sun shined off it, about 3 seconds each time. There were 3 quick flashes as it moved and became invisible once again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46528.html](http://www.nuforc.org/webreports/reports/046/S46528.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Salvo (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Over Salvo, N.C. - Disc shaped objsct moving in circles, forward & backward on the drop of a dime, Very high in sky. No sound.While on the deck of my rental home (beach side)& looking south,  I was looking very far up into the sky & I was watching what I thought was a plane/jet very high up.  No clouds were near to where I was watching this craft move.  It was moving straight across the sky at about the pace a jet would move & was moving bay side towards the ocean.  I then saw it move in a circular motion & then forward again.  After moving forward for another 10-15 seconds it then backed up without turning & then moved forward again.  This happened very fast.  Normally a jet will make a sound, this was silent. I was amazed at the motion & at that point I realized this was not a plane or jet.  I watched for another 20 seconds & the object just vanished.  I kept looking waiting to see it again but it never returned.  There were no clouds for it to go behind. * that evening our neighbors, my friend & I saw more in the sky - I am filing another event report for that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92995.html](http://www.nuforc.org/webreports/reports/092/S92995.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
