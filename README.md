@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Eagle (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>at approx. 20:25 pm tonight while traveling east on state hyw. 59 from Palmyra to eagle, WI. with my family wherew hyw Z intersects hyw 59 I looked to the north east and saw an extremely bright light in the sky ( this would have been located approx 2 miles north of eagle, Wi. at the time   I brought it to the attention of my wife and kids.     we all watched this light and my wife joked that  it was a ufo.  It was much larger in size than any airplane lights would be   looked to be about 1/4 mile above the ground and extremely bright like a large star or planet reflecting - but it was obvious that it was in our atmosphere not far away. As we watched it while driving down the highway  it appeared to be stationary and solidly bright( extremely bright white ) .  Suddenly it dissappeared as if a switch was shut off - it did not fly off it just shut off the light so to speak    both my oldest son and I witnessed it dissapeared as my wife did not happen to be looking at it at that very moment but was supprised to see it gone so quickly.  As we scanned the sky for it we saw a plane flying in it's general direction and were able to see just how much larger than a planes lights it actually was. Has anyone else reported this sighting?  please let me know. Sincerely,  ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39414.html](http://www.nuforc.org/webreports/reports/039/S39414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Christchurch (New Zealand) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2-3hrs then saw same thin - 2-3hrs then saw same thin minutes.</sub><blockquote><sub>strange light seen in christchurch skies possible a UFOwell on 09/21/05 in Christchurch, New Zealand in the north in the sky, what i saw was a light, i was looking up at the sky and it was the only thing i had noticed. i thought it was a star and i had then carried on txting someone on my phone, i then looked back up at it and had realised it had moved quite far away, i started closely looking at it and realised it had a orb like glow around it and was moving! i couldnt keep my eyes of it so i jst kept staring, the movement of it was up and down and side to side, and as i was looking at it i noticed it was too low to be a star but then noticed it was too high to be a plane but i knew it was in the atmosphere, the light also on the object runed around every once in a while aswell which i thought quite strange as if it were spinning in the sky. later on i went to look at it again as i went inside to contact people about it and such, i then returned out later and it had disappeared keeping in mind that there were no clouds in the sky. exactly a week from that time i saw the same thing in the sky, but i then noticed there were 2 other lights in the sky but one happend to be a helicopter and one was a small aeroplane, they were both circling the area where the light was but after i had seen the helicopter lights and aeroplane lights the the 'ufo' had gone.it has not been a week since the last sighting but im hoping it will return again on the 10/05/05.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46653.html](http://www.nuforc.org/webreports/reports/046/S46653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
