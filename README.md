@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:43 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ellesmere (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3bright lights fading in and out and moving quickly.i saw 1 light behind some clouds which was hazy then bright, then another two which did a 90-degree right turn and back which was really quick movement like someone with a torch,then two went out then back on really bright behind these clouds.  they seemed to fade in and out.  i saw one plane to the north east of the clouds but this all happened over 5or so minutes,  it was to bright for planes and to stationary well.  the cloud line was really high in the sky.  The sighting was between Ellesmere [Shropshire] and Whitchurch..((NUFORC Note:  For some strange reason, the witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130133.html](http://www.nuforc.org/webreports/reports/130/S130133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright top shaped light spinning very rapidly flashing green, blue and red.Around 9:20 pm on September 21, 2013 i was sitting out back of my sister's apartment and noticed a blinking light in the sky towards the west of Rapid City, SD.  My sister had binoculars and I looked through the binoculars and the light appeared to be spinning very very fast.  It was so fast it was leaving a trail of the colors green, red and blue.  It appeared to be top shaped and stayed in the same spot.  We continued to watch it for about 30-40 minutes until it started drifting further to the west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102531.html](http://www.nuforc.org/webreports/reports/102/S102531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
