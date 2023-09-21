@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:42 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Corvallis (OR) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange F-16 Operations In Corvallis, Oregon.I know that low flying jet fighters are an indicator of UFO activity.  This past Sunday I saw 2 low flying F-16's doing low steep-banked turning flight patterns over the skies between Corvallis and Philomath, Oregon.  We NEVER have fighter activities around here.  Sometimes Air Guard A-10's will do a flyover at Oregon State University football games on SATERDAY's.  This was a SUNDAY and we never have fighter craft around here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31758.html](http://www.nuforc.org/webreports/reports/031/S31758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Horsham (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>HI SPEED OBJECT.REFERENCE; OBJECT ATMOSPHERE VERY FAST SPEED/MOVEMENT. STANDARD OBSERVATION, UPPER ATMOSPHERE, EASTERN TIME-22:15 VISIBLE LIGHT-INCANDESCENT-DULL, SINGLE POINT, NO VARIATION.  NO TRAIL, NO SOUND.OBSERVATION SOUTH TO NORTH, STRAIGHT LINE, 3 Sec. ESTIMATE. NO VISUAL / BACKGROUND REFERENCE.  ALTITUDE, UNDETERMINED.  POINTS OF REFERENCE ESTABLISHED TO BE CALULATED.  OBSERVATION AREA KNOWN FLIGHT PATH, AIRPORT-PHILA.  OBSERVATION OF AIRCRAFT AT THE SAME AREA, HI;LOW, MINIMUM 9 SEC., ACROSS SAME POINTS.((NUFORC Note:  We express our gratitude to the gentleman who submitted the report, and to the Pennsylvania State agency, for which he works.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113782.html](http://www.nuforc.org/webreports/reports/113/S113782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
