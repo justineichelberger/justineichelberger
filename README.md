@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ridgecrest (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Red oval object traveling at a high rate of speed.I had just woke up and I opened up my bedroom window and then went to my kitchen window and opened it up to get the airflow going.As I opened up the kitchen window, I saw a red object going from the southeast to the northwest at a high rate of speed.This object was about a half a mile away and approximately 500 feet off the ground. It was maybe 20 feet in length and 5 feet in height This object was traveling from civilian air space to over military airspace and made no sound at all. However, I did hear one out of place sound as this passed by. I heard what sounded like a hawk.If this was a hawk, it was big, fast and glowing. The glow was not a solid glow. In other words there was more than one light. Maybe about five lights from front to back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92968.html](http://www.nuforc.org/webreports/reports/092/S92968.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Orion Nebula () reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>I found a cigar shaped item on google earth sky, near the Orion Nabula at the lower right side. You must magify.Image NASA/STScl Pointer Dec -5 digrees 23'37.91"  RA 5h35m12.48 I am interested in what it is.Please report findings to me.Thank you.  ((NUFORC Note:  We have not looked at it.  Probably not a genuine UFO, however, we suspect.  If someone would like to look at the image, if you can find it, we invite comment.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58856.html](http://www.nuforc.org/webreports/reports/058/S58856.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
