@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:42 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 21 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Horsham (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>HI SPEED OBJECT.REFERENCE; OBJECT ATMOSPHERE VERY FAST SPEED/MOVEMENT. STANDARD OBSERVATION, UPPER ATMOSPHERE, EASTERN TIME-22:15 VISIBLE LIGHT-INCANDESCENT-DULL, SINGLE POINT, NO VARIATION.  NO TRAIL, NO SOUND.OBSERVATION SOUTH TO NORTH, STRAIGHT LINE, 3 Sec. ESTIMATE. NO VISUAL / BACKGROUND REFERENCE.  ALTITUDE, UNDETERMINED.  POINTS OF REFERENCE ESTABLISHED TO BE CALULATED.  OBSERVATION AREA KNOWN FLIGHT PATH, AIRPORT-PHILA.  OBSERVATION OF AIRCRAFT AT THE SAME AREA, HI;LOW, MINIMUM 9 SEC., ACROSS SAME POINTS.((NUFORC Note:  We express our gratitude to the gentleman who submitted the report, and to the Pennsylvania State agency, for which he works.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113782.html](http://www.nuforc.org/webreports/reports/113/S113782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clinton (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>We observed a oval shaped greenish object in the sky.  It was quickly moving from west to east.  It moved so fast that it seemed to look like it left a tracer of light.  It moved into view as we were driving on Lake City Hwy.  It moved in and out of view in 3 seconds.  As we turned a corner the sky opened up and I saw it again very briefly move across the sky and out of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149644.html](http://www.nuforc.org/webreports/reports/149/S149644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [429](http://www.nuforc.org/webreports/reports/164/S164710.html)
-- [428](http://www.nuforc.org/webreports/reports/165/S165182.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164765.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164775.html)
-- [425](http://www.nuforc.org/webreports/reports/159/S159494.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
