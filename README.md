@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:24 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1970, an anonymous witness in Whitby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Whitby Ontario Canada 1:30 am saw a flashing light  moving in diferent directions and at different speedsl was 13 years old and l was trying to find different stars in the night sky for a school project.l was laying on the back of my dads new Ford fastback with my books out.  My brother came home from a date and laid out beside me and began to help me star gaze,after about half an hour he said what is that pointing north(we were laying heads to the east feet west)l looked and saw a flashing light moving across the sky about the speed of the space station, when the light was directly over us it stopped,flashed several times then traveled directly west then stopped and again sat there and flashed on and off a few times, then the light moved directly east crossed its own path and moved the same distance as it did west,east, the light stopped again flashed on and off,then moved back to its original path,sat and flashed then starting back on its path south at the same speed then began to speed up within seconds was going so fast it turned into a solid light and was gone.  l have never and will probably never see something go so fast!!!  l think about it quite often because l cant explain it maybe you can?((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88783.html](http://www.nuforc.org/webreports/reports/088/S88783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fredericksburg (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Metallic, cigar-shaped object, no wings, reddish-orange color, silently travelled in a South/Southwest direction over my house.I was walking South towards my house and noticed something moving in the air above me and slightly to my right.  I saw an object, cigar or cucumber in shape, traveling in a South to Southeast direction passing over my house.  It appeared to be metallic, was shadowed on it's left (East-facing) side and was reddish/orange in color on it's right (West-facing) side which was illuminated by the afternoon sun.The object made absolutely no noise, had no visible wings, left no evidence of a vapor or exhaust trail, had no lights or landing gear.  It resembled a fuselage of a passenger jet sans any type of wing fore, mid or aft and travelled at a constant altitude, velocity and direction.  It was obviously being propelled through the air, pointed/narrow end first.I could not easily tell the altitude of the object with no point of reference, but in comparison to the sun's disk, I would estimate it to have been approximately one half (1/2) of it's diameter.  There was a ceiling of clouds which did not obscure the object and it seemed to me to be well below them.It's speed was impossible to judge based on the fact that I could not tell the objects altitude, but it passed from directly overhead through approximately 45° in roughly 6 seconds until it became obscured by the roof of my house.  At this point I ran inside to get to the South-facing bay window of my house to view the object along with my fiancee'.  This took approximately 4 seconds, but as we reached the window, neither of us could see anything in the air whatsoever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93064.html](http://www.nuforc.org/webreports/reports/093/S93064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
