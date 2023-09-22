@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Garden city (GA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Round " Ball shape in the skyThis came from my two teenage boys that were at the high school practicing before a football game. They noticed a white round "ball" looking shape far up in the sky. It looked to have glowed with a shadow around it. It was a pretty sunny day with very little clouds in the sky. A few other ball players along with one of the coaches noticed the "thing" in the sky. When they ran to tell the other coaches, it disappeared.We have Gulftream Aerospace in the area but no aircraft was in the area at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31760.html](http://www.nuforc.org/webreports/reports/031/S31760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ladson (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>Fire call runs into a UFOI was on my way to a fire call at the station and I was coming down treeland drive and it appeared to hover over my vehicle. I saw 2 of them.  I heard like humming sounds.  I immediatly turned around and went home, I ran into my house thinking I was dreaming splashing water on my face, my lights flickered. I peeked my head back out the window and saw the "UFO"'s again. they were hovering over the interstate. In deed it freaked me out. I still think its a ufo. I looked on the news for it today and did not see anything, Im guesing I was the only one untill I walked over to my neighbors and she describes what she heard last night.  I describrb what I saw and we quickly put the clues together.  I did not finish my response to the fire that night.  I was in shock of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65853.html](http://www.nuforc.org/webreports/reports/065/S65853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
