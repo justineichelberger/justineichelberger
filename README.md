@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Funks Grove (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Large oval shaped object radiating green tint then bursting with speed into an orange hue.During an astronomy visit, to Funks Grove south of Bloomington-Normal Illinois; several students and one professor witnessed a large oval with a luminous dark green tint hovering over a small corn field. Upon noticing the object facing north moved at first very slowly, and then with a almost radiant burst, the green tint faded into an almost brilliant orange. Upon this the object moved at an astounding speed and a small faint noise was heard. The object then proceeded to head South-east and then vanished from line a sight due to the speed and velocity in which it traveled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58898.html](http://www.nuforc.org/webreports/reports/058/S58898.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Garden city (GA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Round " Ball shape in the skyThis came from my two teenage boys that were at the high school practicing before a football game. They noticed a white round "ball" looking shape far up in the sky. It looked to have glowed with a shadow around it. It was a pretty sunny day with very little clouds in the sky. A few other ball players along with one of the coaches noticed the "thing" in the sky. When they ran to tell the other coaches, it disappeared.We have Gulftream Aerospace in the area but no aircraft was in the area at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31760.html](http://www.nuforc.org/webreports/reports/031/S31760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
