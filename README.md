@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norristown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright red and orange, large with clear edges light ball.I was standing on the backyard of my house. I've noticed a red, large, round light moving from behind the tree from west towards the east.  It was a very bright red ball with a hint of the orange and yellow inside.  The shape of it was slightly elongated towards the direction it was moving to. Initially it was moving slow and it was large and clear.  I would compare the size of it to the soccer ball held on the stretched out arm. There was no sound. It started moving faster with growing distance.  By the time I ran into the house and grabbed my phone if was disappearing.  I took a short video but it seems like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149061.html](http://www.nuforc.org/webreports/reports/149/S149061.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winfield (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big bright object over winfield had spinning lights sat in one spot for 5 seconds  then  took off faster then anything i have ever seenI am night security in kelowna I work on westside road i look directly across the okanagan lake at winfield which would be just over the hill.It was cloudy out that night so i cant tell you the exact shape but i think it was like a disk it was very bright kind of came out of nowhere stayed in one spot for about 5-6 second then took off to the left so fast it left a white streak like a jet but way faster and from a stand still. As for the size i cant say the clouds were  so lit up it made it seem big huge like ten times the size of a large airplane.It looked like there was lights spinning on the bottom different colors i thought it might be a helicopter but it took of so fast in the blink of an eye?  Also a few nights later on my side of the lake i saw a white ball of light fly over the trees very low and fast it flew out of my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53673.html](http://www.nuforc.org/webreports/reports/053/S53673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
