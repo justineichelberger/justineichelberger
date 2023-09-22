@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arnstein (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We seen an bright orange shimmering  sphere travelling south under cloud cover at night for 3 minutesIt was Sept. 22/13, at 7:45 p.m., just driving into Arnstein, Ontario, from the south, my wife and I observed a bright orange orb like object coming from the north at a slow rate of speed. The sky was cloudy with intermittent rain.  I pulled over off the highway and managed to get some video and still pictures of it as it passed over us and headed south.  It seemed to have a  shimmering corona around it.  We watched for approximately 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102918.html](http://www.nuforc.org/webreports/reports/102/S102918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving object heading South to Northeast.The object entered my view moving from the South heading Northeast. The object moved left to right several times , moving very fast which made me rule out a plane that was just too high to make out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39424.html](http://www.nuforc.org/webreports/reports/039/S39424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
