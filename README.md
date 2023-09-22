@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:38 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lititz (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Many red objects flying in different directions for about 4 minutes and then disappearingIt was around midnight and we were driving home and noticed red lights in the sky, I didn't think anything of it because I was driving but my husband said STOP and I stopped right in the middle of the road and could not believe what I was seeing.  I couldn't stay in the middle of the road so I turned into a neighborhood and parked,got out and looked up.  We watched 1-3 flying objects turn into about 9 and they all flew in different directions.  As we stood there I made sure to watch closely to see if they were falling or flying and they certainly were flying.  After about a minute they started disappearing,however 4 of them remained for another 3 minutes.  2 of the objects stayed very close together,the other 2 were not very far behind.  We watched them just disappear and stood there for a few minutes in disbelief.  Yes we live near LANCASTER AIRPORT, I know what aircraft looks like in the day and at night and this was not a PLANE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102506.html](http://www.nuforc.org/webreports/reports/102/S102506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Gibraltar (Mediterranean Sea) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>22nd September 2006  gibfocus  main headline Close encounters of the Gibraltarian kind  Return to Main News Page Search news section:Eerie reports have reached gibfocus of suspected UFOs in Northern Spain. Two Gibraltarians claim to have both witnessed what appeared to be a large red flying object zooming across the sky to be met by other bright lights that formed around it whilst on holiday in northern Spain. While the witnesses did not manage to capture any images on camera, they say they are sure what they saw matches similar reports of UFOs in the area published in the Spanish Press. The witnesses wish not to be named, but are said to be well-known, reputable persons who 'do not let their imaginations take over'.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52609.html](http://www.nuforc.org/webreports/reports/052/S52609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
