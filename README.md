@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in White City (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5:00 am - 5:00 am minutes.</sub><blockquote><sub>when it deposited the object into the maounten the bottom one flashedOk it started at pizza hut in Medford there were 2 light slowly drifting apart from each other above Mt McGloflin a few hours later there were five lights in a formation three in a row virtacle line heading east with two lined up in the middle an illustration: * *   *   * * this is the formation that the crafts were in after awile on of the crafts ejected somthin into the mountain, my radio woudnt work while this was happening so i'm guessing there was some electric interferance involved</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14260.html](http://www.nuforc.org/webreports/reports/014/S14260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norristown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright red and orange, large with clear edges light ball.I was standing on the backyard of my house. I've noticed a red, large, round light moving from behind the tree from west towards the east.  It was a very bright red ball with a hint of the orange and yellow inside.  The shape of it was slightly elongated towards the direction it was moving to. Initially it was moving slow and it was large and clear.  I would compare the size of it to the soccer ball held on the stretched out arm. There was no sound. It started moving faster with growing distance.  By the time I ran into the house and grabbed my phone if was disappearing.  I took a short video but it seems like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149061.html](http://www.nuforc.org/webreports/reports/149/S149061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
