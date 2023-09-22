@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Westfield (VT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Westfield Vermont facing 210 degrees sw.  3 red/orange circle shaped lights in triangle formation followed by 5 more in a diamond shape.  The were moving diagonally in an L shape up in the sky disappearing one by one.  Formations varied and started from low to the SE to high to the SW.  Some made spastic movements sometimes in unison with about 4 lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143235.html](http://www.nuforc.org/webreports/reports/143/S143235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in White City (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5:00 am - 5:00 am minutes.</sub><blockquote><sub>when it deposited the object into the maounten the bottom one flashedOk it started at pizza hut in Medford there were 2 light slowly drifting apart from each other above Mt McGloflin a few hours later there were five lights in a formation three in a row virtacle line heading east with two lined up in the middle an illustration: * *   *   * * this is the formation that the crafts were in after awile on of the crafts ejected somthin into the mountain, my radio woudnt work while this was happening so i'm guessing there was some electric interferance involved</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14260.html](http://www.nuforc.org/webreports/reports/014/S14260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
