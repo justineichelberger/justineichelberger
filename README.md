@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:45 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Winfield (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big bright object over winfield had spinning lights sat in one spot for 5 seconds  then  took off faster then anything i have ever seenI am night security in kelowna I work on westside road i look directly across the okanagan lake at winfield which would be just over the hill.It was cloudy out that night so i cant tell you the exact shape but i think it was like a disk it was very bright kind of came out of nowhere stayed in one spot for about 5-6 second then took off to the left so fast it left a white streak like a jet but way faster and from a stand still. As for the size i cant say the clouds were  so lit up it made it seem big huge like ten times the size of a large airplane.It looked like there was lights spinning on the bottom different colors i thought it might be a helicopter but it took of so fast in the blink of an eye?  Also a few nights later on my side of the lake i saw a white ball of light fly over the trees very low and fast it flew out of my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53673.html](http://www.nuforc.org/webreports/reports/053/S53673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rifle (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately minute - minute minutes.</sub><blockquote><sub>Brillant Large LightI looked up and seen a big bright light... I thought Venus... then thought... ' Venus is setting now... it shouldn't be overhead at this time...'then it faded away very quickly... as though moving directly away into the night sky.Pretty much as report on your website, as follows.Occurred : 8/1/2005 22:10 (Entered as : 08/01/2005 22:10) Reported: 8/1/2005 7:57:56 PM 19:57 Posted: 9/2/2005 Location: Jackson, MI Shape: Light I wonder... if we'll ever know about these sightings????   I mean...people have been seeing these things for a long time now... and there still isn't any viable answer yet given.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46521.html](http://www.nuforc.org/webreports/reports/046/S46521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
