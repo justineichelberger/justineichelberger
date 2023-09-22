@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Albuquerque (near) (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately An hour or so - An hour or so minutes.</sub><blockquote><sub>Circle shape to the west  staying mostly in one spot as light fades it gets harder to see.  Smaller than the moon but way bigger than aCircle white shaped object to the west  staying mostly in one spot as the light fades it is getting harder to see.  It is smaller than the moon but way bigger than a star.  Right now it is still there. ((NUFORC Note:  We assume an error in the date, which should be 09/22/2012, we believe.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92988.html](http://www.nuforc.org/webreports/reports/092/S92988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Philip (SD) reported seeing craft that fit the description of some 'Disk' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Saucer craft landed near us.On this lovely fall day 2 friends and I were searching for old bottles in a remote pasture where a homestead once stood.  We were there several hours.  Around three o'clock a HUGE silver saucer craft glided silently down from the sky and followed the contours of the hills landing on the other side of the hill from us, probably 1/2 to 1 mile away.  We could not see the craft from where we were standing. At first we were scared and then about 20 minutes later, when nothing happened, we decided to "live and let live" and went on searching for bottles.  About an hour and half later we heard three electronic beeps from the other side of the hill.  It was then we decided to leave. The next day a friend of ours told us he had seen the craft come down near our property from his place on the other side of town (about 10 miles away) and wondered if we had seen it. As far as I know this siting was never reported.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50245.html](http://www.nuforc.org/webreports/reports/050/S50245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
