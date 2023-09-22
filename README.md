@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Memphis (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Manuevering bright objects in the western sky, leaving short contrails, disappearing and reappearing.I was going from Childress Texas northwest to Memphis Texas when I saw a small bright circle in the western sky above the setting sun.  It was very bright like a star.  It just hung there for a few minutes.  Then it disappeared.  Soon it reappeared then I saw a short tail from it like it was a jet beginning to leave a contrail,however it was very short and then disappeared.  Then I saw another one and the same thing happened.  A long light appeared like a small cloud then it bloomed into a long streak, however it could not have been a cloud that developed so quickly then it evaporated.  I watched this activity until I made a turn and then it went behind a cloud.  I have seen the shiney sphere before not not doing manuevers.  I had decided it was a weather balloon until it left a trail behind and started moving in and out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39437.html](http://www.nuforc.org/webreports/reports/039/S39437.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Livingston (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Star gazing while waiting on my dog.  Size of a star, moving slower than a plane, no noise, could see  blatant small reflection from the moon, looked like a moving star and I watched it fade quickly into the black sky.  This was not a plane, no blinking lights, no colored lights and was up in space!  This is the second time I've witnessed something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130126.html](http://www.nuforc.org/webreports/reports/130/S130126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
