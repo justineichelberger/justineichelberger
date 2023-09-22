@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:55 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 22 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Pedro Sula (Honduras) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shining object slowly crossing daytime sky disapeared behind a cloudI got a call from my sister whhile travelling from office to home (my sister was at that time 15 Km aprox South West from me) she told me to look up at the sky that something shiny was moving towards my direction, I looked up from my car for some seconds and saw nothing in the zenith above me and told her that it was probably and iridium flare, I hug up and kept driving 2 minutes later when I reached a red traffic ligth and while waiting for it to turn green facing Noth East I saw the object described by my sister moving in a SW --> NE direction and was amazed and exited because it was something I have never seen before (I'm an avid sky watcher and never miss meteor showers and I live less than 5 Km from an airport with a military base, so I´m used to see planes of all shapes and colors). the object had the size of a tylenol caplet at an arm lengt and it was at some 15 to 20 degrees above the horizon and at the speed it was moving I estimate that it would have crossed the sky in about 5 to 10 minutes (way too slow for an airplane). About the shape and color I first belived it was something White and cigar shaped but then I noticed the sun shining on it an I realized it had a polished aluminum color and was disc shaped. I observed the object for about 2 to 3 minutes before it went behind a cloud and never came back on the other side. It migth be of wheigt to include That I have a 20 20 vision and that I whent ot a military High school and in my last year I received advanced observer training in an artillery batalion.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52663.html](http://www.nuforc.org/webreports/reports/052/S52663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Albuquerque (near) (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately An hour or so - An hour or so minutes.</sub><blockquote><sub>Circle shape to the west  staying mostly in one spot as light fades it gets harder to see.  Smaller than the moon but way bigger than aCircle white shaped object to the west  staying mostly in one spot as the light fades it is getting harder to see.  It is smaller than the moon but way bigger than a star.  Right now it is still there. ((NUFORC Note:  We assume an error in the date, which should be 09/22/2012, we believe.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/092/S92988.html](http://www.nuforc.org/webreports/reports/092/S92988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [428](http://www.nuforc.org/webreports/reports/164/S164875.html)
-- [427](http://www.nuforc.org/webreports/reports/164/S164767.html)
-- [426](http://www.nuforc.org/webreports/reports/164/S164699.html)
-- [425](http://www.nuforc.org/webreports/reports/164/S164878.html)
-- [424](http://www.nuforc.org/webreports/reports/164/S164716.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
