@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:44 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>A triagle in orbit flys long way with six to eight light then disappears.I was watering the plants and notice I could see  two satellite in orbit, A min later I seen a triangle flying in orbit, but it was flying long ways (Going North to South) with out six to eight lights on it, Then it was gone.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65864.html](http://www.nuforc.org/webreports/reports/065/S65864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dalton (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>3 spinning lights in the sky, 2 appeared to be spinning clockwise and 1 counterclockwise, we thought we saw a 4th light for moment, the lights reminded me of the bag lanterns ppl sometime release, though theses lights seemed to far away and too large to be that, eventually i had too get back to responsibilities and could no longer witness the lights that still remained in the sky, i should also mention that though the lights seemed separate they still looked like they stayed in a triangular formation and could possibly been part of one thing rather than 3 separate.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136342.html](http://www.nuforc.org/webreports/reports/136/S136342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
