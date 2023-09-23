@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sandy (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Triangular shaped, with an extremely white light all the way around it's borders.A friend and I were stargazing in her back yard, sitting in some lawn chairs.  I had my head tilted back, watching a satellite that had just passed out of view.  Into my filed of sight entered an extremely bright light.  I told my friend, "Look at that bright satellite!", which was ridiculous because it was way too bright to be a satellite.  It looked to be extremely high, and was moving at about the same speed of a satellite, faster than any jet could go.  It was lit up with an extremely bright white light.  Upon looking at it closely, it appeared to be a triangular shaped craft with the white light around it's borders.  It was going from the northwest to the southeast above Salt Lake county.  It started going behind a tree...I told my friend I was going to get up to check it out before it went behind the Wasatch Range (mountains), but before I could even get out of my seat, it took off at a rate of speed so fast that it basically vanished before my eyes, and I made sure I didn't take my eyes off of it.  It was one of the most intense colors of bright white I have ever seen, no strobe or any other colors.  My friend was going to report this, but never found the time, so I thought I'd do it, that's why it's coming in late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14514.html](http://www.nuforc.org/webreports/reports/014/S14514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mildmay (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangle shape, very bright light, hovering above tress for 10 mins, no sound.Bright light in sky hovered above trees no sound stayed above trees for a good 10 min. got pictures of it on cell phone Triangle shape I believe there were three other red lights 1 very bright light no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59427.html](http://www.nuforc.org/webreports/reports/059/S59427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
