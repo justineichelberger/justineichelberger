@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Satellite that apparently was something else.I saw a light very high that appeared to be a satellite moving across Ursa major constellation, it was moving west to east. I continued tracking it moving east, then it took a 90 degree turn hard to the south, picked up speed and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72563.html](http://www.nuforc.org/webreports/reports/072/S72563.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was on Delta flight 1307 from Richmond to Atlanta.  I was sitting on the left side of the plane in a window seat.  About seven minutes prior to landing I saw an object outside the plane.  It was moving at a good speed and passed under the wing.  It seemed close to the airplane but not close enough to hit the plane.  It had a circular, aqua colored top that appeared hard and a light, silver colored, narrow cylinder coming out of the bottom of it.  In terms of size it was not larger than the wing of the plane.  I’ve Googled weather balloons and it was definitely not a balloon.  I told the people beside me I saw something weird and they started joking around and making reference to the X-Files show.  I laughed out of nervousness.  I reluctantly asked the guy behind me when we landed if he happened to see anything odd from the plane and he said he said he saw it as well and that it freaked him out and that he was just going to pretend he didn’t see it.  He said he was ex military and it was definitely not a stealth probe.  He agreed to go to the pilot afterwards with me.  We told the pilot and the flight attendant at the front of the plane what we saw.  The pilot said it was probably a balloon (which it was not) or a tower on the ground (which it was not) and that they would "check it out."   The other witness and I were surprised that they didn’t ask for our names or info.  Let me state that I have never believed in UFOs, etc. prior to this.  I don’t know if this is something being tested by our government or another country or if it was really other-worldly.  I can only describe what I saw.((NUFORC Note:  We spoke via telephone with this witness, and she seemed to us to be exceptionally eloquent, and objective in her description of the sighting.  We suspect that she is a highly reliable witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93024.html](http://www.nuforc.org/webreports/reports/093/S93024.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
