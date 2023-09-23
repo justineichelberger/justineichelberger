@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:30 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in LLangollen & Wrexham (UK/ North Wales) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>no planes or helicoptors in the area not 11 in row thats for sure & the lights diffrent colour to planes & helicoptors11 lights were spotted by my girl friend Lisa one after anther she then told me to look me Pete & then I seen the orange white lights at cefn mawr near Wrexham & llangollen north wales, years ago planes & helicoptors used to fly past but 15 or 16 years ago its all stopped you get 3 at the most now so this shows ufo were in the area clearly at the time, they were heading slowly like in line one after anther the 11 ufo lights sighted north wales united kingdom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58907.html](http://www.nuforc.org/webreports/reports/058/S58907.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Enon (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a very bright white sphere in atmosphere. It traveled SW to NE across sky. No flashing lights indicative of commercial or military aircraft. It was too low and too big for satellite. Not a meterorite or shooting star.  No sound at all.  No contrail. I watched it until it was farcenough in atmosphere tonlose sight of it.  The distance it traveled across the sky tells me that it was very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149364.html](http://www.nuforc.org/webreports/reports/149/S149364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
