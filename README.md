@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dillsburg (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Star like object in sky, swinging sideways and dipping up and down with many colored lightsMy son called me and told me to go to the top of our street as he had been watching this object in the sky before he headed home.  We watched the object for quite some time and it kept swaying back and forth, then it would dip down and come back up.  There were several colors of lights, yellow, blue, green and red.  It slowly moved across the sky and became lower in the sky where it became obscured by trees.  We were looking at it through a very good pair of binoculars and the lower it went in the sky you could see that it was oblong and you could clearly see the different colored lights.  I went in around 9:30 p.m.,  however my son drove out to another location to see it better and he watched it for at least another hour where he said it slowly went across the sky, then just dropped down behind the mountain. Several aircraft were in the area and looked like one actually circled the object and came around. I am a college graduate employed by a state agency and my son is currently going to college.((NUFORC Note:  Arcturus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102579.html](http://www.nuforc.org/webreports/reports/102/S102579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Durham (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>i was out in my back garden looking for shooting stars when i saw a star so i thought move across the sky.it looked like a shooting star but lasted longer, not as bright and then curved round before dissapearing. it travelled in an east-north east to west-south westly direction. it was too fast for a satellite and it was wrong direction for aeroplanes. helecopters don't fly that high and usually have flahing lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39443.html](http://www.nuforc.org/webreports/reports/039/S39443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
