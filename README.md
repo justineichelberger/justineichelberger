@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Selbyville (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red lights in the sky.Eye witnessed large red circles appear in the sky, divide, then disappear approximately 4-5 times.  Witnessed again as typing message.  Circular red/orange Light appeared in the sky, split and multiples into several other same colored circular lighs.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122208.html](http://www.nuforc.org/webreports/reports/122/S122208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>8 separate craft, super fast.Walking outside Bowling Green ((company name deleted)) during break, and looking up at the stars, then 8 orange or yellow orb shaped craft started crossing the sky.  They were in perfect line formation in series of 3 the 2 offset then 3 offset.  The one on the inside of the pair of 2 and the one on the very last of the set of 3 were zig zagging as all 8 shot across the whole sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130712.html](http://www.nuforc.org/webreports/reports/130/S130712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
