@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw alot of lights and helicopters etc , after.I had a feeling to look at my window thank god i always keep my iphone with me and i can get to the camera very quickly i will surely share my video.((ADDENDUM FROM WITNESS))I am very serious and it was took outside the window there was atleast 30 planes and helicopters also i saw what was tooken in the video and i dont believe it looks any diffrent from the way i saw this than in the video. i am a firm alien belever and if u wish to contact me you can i listed my number an ill give it to you again let me remind you im am 15 but i dont like hoaxes  . Again i think it is important to say that i had a feeling in my stomach like butterflies . Also if you have any more questions just ask.((END ADDENDUM))((ADDENDUM #2))Also it was pm and yes i did the see the objects flare up . I will start trying to get more things like this on tape. Also this isnt the first thing i saw that looked strange to me.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93025.html](http://www.nuforc.org/webreports/reports/093/S93025.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Olathe (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Satellite that apparently was something else.I saw a light very high that appeared to be a satellite moving across Ursa major constellation, it was moving west to east. I continued tracking it moving east, then it took a 90 degree turn hard to the south, picked up speed and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72563.html](http://www.nuforc.org/webreports/reports/072/S72563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
