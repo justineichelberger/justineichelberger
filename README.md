@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Northglenn (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large sherical object with no light emission hovering in the sky visible during lightning flashes in background and above it..Some friends were driving in separate cars northbound on Huron St. from 104th Ave to 112th Ave. It just started to rain and there was lightning and clouds north of us.  During a large multiple flash sequence of high altitude lightning, my friend and I saw a large grayish white spherical object with a black crescent shape at the four o’clock position on the sphere.  It was a perfect sphere, like a giant cue ball in the sky.  The sphere appeared to be 2-3 times larger than a full moon.  It was due north of me and about 45 degrees above the horizon.  My first thought was that this was a hot air ballon, but much larger and without any basket below.  No one would be piloting a balloon at this time in the evening.  It emitted no light other than a dull reflection of the surrounding lightning.  When we arrived at our destination, I asked my friend if he saw this object, and to my surprise he said he also saw it and thought it was awesomely amazing.  I’m an amateur astronomer with over 40 years of telescope experience and ten years of astrophotography experience. It’s hard to say how long this object stayed in the location, because I was driving and could not pull over to observe it.  I turned east and lost track of the object behind buildings.  It was only visible during the lightning flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137075.html](http://www.nuforc.org/webreports/reports/137/S137075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Clinton (MS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Just seen a fireball in the sky I thought at first it was a plane going down.  But then realized I had just seen my first real meteor falling to earth.  It was the coolest thing ever.  I've seen shooting stars, but never a meteor with fire behind it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible meteor?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113845.html](http://www.nuforc.org/webreports/reports/113/S113845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
