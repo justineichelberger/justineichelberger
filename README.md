@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dalton (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>3 spinning lights in the sky, 2 appeared to be spinning clockwise and 1 counterclockwise, we thought we saw a 4th light for moment, the lights reminded me of the bag lanterns ppl sometime release, though theses lights seemed to far away and too large to be that, eventually i had too get back to responsibilities and could no longer witness the lights that still remained in the sky, i should also mention that though the lights seemed separate they still looked like they stayed in a triangular formation and could possibly been part of one thing rather than 3 separate.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136342.html](http://www.nuforc.org/webreports/reports/136/S136342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Six strange lights in the sky.My mother and I were watching tv when my mom said to me "What is that?" I looked over and saw out my window what looked to be fireballs in the sky. They each lit up one at a time. There were a total of five going horizontally. They stayed there for about five seconds. We ran out to my back porch to see if we could see what it was but it was gone. Then we saw another, what looked to be a fireball, light up again and then disappeared. When i got to work the next day, i told my story to some co-workers then i found out that two other people that i work with saw the same thing. I have no idea what i was seeing that night. The police were called to find out if anyone reported stranged lights in the sky, but no one placed a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31787.html](http://www.nuforc.org/webreports/reports/031/S31787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
