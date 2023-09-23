@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:30 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Enon (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I observed a very bright white sphere in atmosphere. It traveled SW to NE across sky. No flashing lights indicative of commercial or military aircraft. It was too low and too big for satellite. Not a meterorite or shooting star.  No sound at all.  No contrail. I watched it until it was farcenough in atmosphere tonlose sight of it.  The distance it traveled across the sky tells me that it was very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149364.html](http://www.nuforc.org/webreports/reports/149/S149364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Louisa (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>It happened the same day the space shuttle reported its UFO . I think it was the 23ed sept. I went to my sister house and I was telling them about the shuttle reporting a UFO on the news. Thay were jokeing with me about it. One of my sisters and I went unto the back deck. The sun was setting a few clouds in the sky  I told my sister I was going to look for UFOs.  In the back of the house is a hill and way above the hill there was a Big white bright light appeared then fed out  then fated back got real bright then fated back out I thought it was a plane but it stayed in the same area for about 20 min or longer  I went and got My sister's mother-in law to come and see it. and ran around to the front of the house to get my husband to come and look  he saw it we set and watched it until we did not see it anymore there would be 3 or 4 min  between siteings . It would fade in and get real Bright then fede away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52660.html](http://www.nuforc.org/webreports/reports/052/S52660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
