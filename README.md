@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:19:57 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:04:57 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mildmay (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Triangle shape, very bright light, hovering above tress for 10 mins, no sound.Bright light in sky hovered above trees no sound stayed above trees for a good 10 min. got pictures of it on cell phone Triangle shape I believe there were three other red lights 1 very bright light no sound</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59427.html](http://www.nuforc.org/webreports/reports/059/S59427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beckley (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two lighted upsidedown V's in sky side by side with UFO craft at tip.I am a very intelligent person.  I was driving home from work on the interstate and I looked up during a turn toward the right going into another interstate (intersection) and saw 2 bright upside down V shapes that were glowing bright white that were very thin - at the TIP of the upsidedown V - was a dark or dark grey sort of aircraft looking either oval or oblong shaped.  The upsidedown V lights were coming from each craft and they were one aligned above the other to the right and they did not move. They were just hanging in the sky and looked to be about 100 feet up to the V tip and 100 feet down -  they stayed in the same place and had NO exhaust coming from the craft other than the lighted upsidedown V's .   It was truly amazing and if I had had a camera - I would have definitely took a picture.  Other drivers were looking also and everyone just kept driving.  Never saw the craft or lights again from that time on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46798.html](http://www.nuforc.org/webreports/reports/046/S46798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
