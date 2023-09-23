@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>8 separate craft, super fast.Walking outside Bowling Green ((company name deleted)) during break, and looking up at the stars, then 8 orange or yellow orb shaped craft started crossing the sky.  They were in perfect line formation in series of 3 the 2 offset then 3 offset.  The one on the inside of the pair of 2 and the one on the very last of the set of 3 were zig zagging as all 8 shot across the whole sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130712.html](http://www.nuforc.org/webreports/reports/130/S130712.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in LLangollen & Wrexham (UK/ North Wales) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>no planes or helicoptors in the area not 11 in row thats for sure & the lights diffrent colour to planes & helicoptors11 lights were spotted by my girl friend Lisa one after anther she then told me to look me Pete & then I seen the orange white lights at cefn mawr near Wrexham & llangollen north wales, years ago planes & helicoptors used to fly past but 15 or 16 years ago its all stopped you get 3 at the most now so this shows ufo were in the area clearly at the time, they were heading slowly like in line one after anther the 11 ufo lights sighted north wales united kingdom</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58907.html](http://www.nuforc.org/webreports/reports/058/S58907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
