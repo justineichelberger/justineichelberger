@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:34 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cuba (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Six strange lights in the sky.My mother and I were watching tv when my mom said to me "What is that?" I looked over and saw out my window what looked to be fireballs in the sky. They each lit up one at a time. There were a total of five going horizontally. They stayed there for about five seconds. We ran out to my back porch to see if we could see what it was but it was gone. Then we saw another, what looked to be a fireball, light up again and then disappeared. When i got to work the next day, i told my story to some co-workers then i found out that two other people that i work with saw the same thing. I have no idea what i was seeing that night. The police were called to find out if anyone reported stranged lights in the sky, but no one placed a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31787.html](http://www.nuforc.org/webreports/reports/031/S31787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Northglenn (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large sherical object with no light emission hovering in the sky visible during lightning flashes in background and above it..Some friends were driving in separate cars northbound on Huron St. from 104th Ave to 112th Ave. It just started to rain and there was lightning and clouds north of us.  During a large multiple flash sequence of high altitude lightning, my friend and I saw a large grayish white spherical object with a black crescent shape at the four o’clock position on the sphere.  It was a perfect sphere, like a giant cue ball in the sky.  The sphere appeared to be 2-3 times larger than a full moon.  It was due north of me and about 45 degrees above the horizon.  My first thought was that this was a hot air ballon, but much larger and without any basket below.  No one would be piloting a balloon at this time in the evening.  It emitted no light other than a dull reflection of the surrounding lightning.  When we arrived at our destination, I asked my friend if he saw this object, and to my surprise he said he also saw it and thought it was awesomely amazing.  I’m an amateur astronomer with over 40 years of telescope experience and ten years of astrophotography experience. It’s hard to say how long this object stayed in the location, because I was driving and could not pull over to observe it.  I turned east and lost track of the object behind buildings.  It was only visible during the lightning flashes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137075.html](http://www.nuforc.org/webreports/reports/137/S137075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
