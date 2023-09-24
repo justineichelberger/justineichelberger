@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:21 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Leicester (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The ball of light just hovered above the motorway.We were driving to work and saw this ball of light. It looked like it was hovering over the M1 motorway between junction 21 and 20. We saw it as we came out of Countesthorpe which is south of the city Leicester. It would have been about 2 - 3 miles infront of us. We are not sure what this is but an explanation would be good.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39453.html](http://www.nuforc.org/webreports/reports/039/S39453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gray Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside with my husband smoking a cigarette looking at the stars and noticed them moving slowly.  I told my husband and by the time he looked up they were forming a triangle pattern.  When the triangle pattern was made they stayed that way for a few seconds and then all darted off at a high rate of speed into different directions.  They just looked like stars.  If I hadn't been paying attention it would most likely go unnoticed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143074.html](http://www.nuforc.org/webreports/reports/143/S143074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
