@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:49 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A big colorful oval shaped vessel slowly descending, while spinning and moving forward. No noise what so ever.  i could have touched itI was working tonight at chase at easton office center, when I decided to go for a walk. I went through the back door and walked behind the building.  I was playing with my phone when i saw some thing colorful in the SKY.  I ran to get a closer look, and went to the side of the building.  There's a sidewalk there and i was on it. It was about 10:33pm. Mifflin High School is Behind Chase.   I saw this big ballon like thing. It was colorful, bright spinning and going down at the same time.   I though my eyes were playing tricks on me  but NO!! It was slowly descending.  This white guy saw it too, he just gave me a blank stare.  It landed near Mifflin High school in the field, and I then lost sight of it.  I went back inside. I put all the chase cameras on that spot to see..if it rises again.  But after my shift ended 15 minutes later at 11pm, I drove to Mifflin high school and tried finding the same spot i saw it land.  I hopped the fence and went to the baseball field, nothing was there but the ground was hot and it was like 60 DEGREES outside.  I HAVE NO ((deleted)) IDEA WHAT I SAW..BUT IT WASNT A PLANE OR A HELICOPTER.  I DONT THINK THEY CAN SPIN , GO DOWN AND MOVE FORWARD AT THE SAME TIME.  IT WAS ALSO HUGE.  I should have recorded it on my phone..or jumped the fence at that 2nd and just went to it!!  But i was too scared.  I'm going go to the same spot tomorrow night, with my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102611.html](http://www.nuforc.org/webreports/reports/102/S102611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>rectangle object with plus and minus symbols was not seen until pix was enlarged.WE WERE WATCHING AN ANNUAL HOT-AIR BALLOON EVENT ON SATURDAY MORNING. THERE WERE HUNDREDS OF PEOPLE OBSERVING AS THE BALLOONS ENDED THEIR FLIGHTS AND WERE LANDING IN VARIOUS PLACES AROUND THE NEIGHBORHOOD. I TOOK PICTURES OF AN EAGLE BALLOON. AT THE TIME WE DIDN'T NOTICE ANYTHING UNSUAL (APPARENTLY NO-ONE ELSE DID, EITHER).  AT A LATER DATE AS I WAS DOWNLOADING PICTURES FROM THE SONY HANDHELD CAMCORDER ONTO MY LAPTOP,  WE NOTICED A SMALL DARK RECTANGULAR OBJECT UP AND TO THE RIGHT OF THE EAGLE-HOT-AIR-BALLOON.  CURIOUS, WE ENLARGED IT REPEATEDLY.  WE SEE A DARKER BAND THROUGH THE CENTER BUT ARE MOST INTERESTED IN THE PLUS'S AND MINUS'S AROUND THE PERIMETER OF THE OBJECT.  THEY ARE MOST VISIBLE WHEN WE CHANGE THE ANGLE OF THE COMPUTER SCREEN. WE HAVE TRIED TO GET THE SAME RESULT WITH OTHER PIX, BUT CAN'T.((NUFORC Note:  Witness provides e-address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47123.html](http://www.nuforc.org/webreports/reports/047/S47123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
