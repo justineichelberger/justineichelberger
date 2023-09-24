@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Onion Creek (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>WAITING ON ((name deleted)), THE FAMILY DOG,  I LOOKED UP JUST AS A VERY BRIGHT FLASH HAPPENED.  IT WAS ON A NORTH-SOUTH PATH, HEADED NORTH...THE SKY WAS PARTLY CLOUDY AND ENGULFED IN HEAVY TWILIGHT.. THE ULTRA BRIGHT FLASH WENT OUT IN A COUPLE OF SECONDS  BUT ONE COULD STILL SEE A SLIGHT TRACE CONTINUING.  IT DID NOT SEEM TO FIT THE ISS FLIGHT PATH FOR THIS EVENING..((NUFORC Note:  Iridium 37 at 19:21 hrs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136344.html](http://www.nuforc.org/webreports/reports/136/S136344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shiny objects over North Bay.Witnessed multiple lights hovering near Corte Madera bayside hill.  I first noticed it and then had a neighbor coming up the road view it with me.  We watched these lights for about 10 minutes in eastern sky.  We both came to an agreement that these were not airplanes.  Seemed to be over the Bay .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124154.html](http://www.nuforc.org/webreports/reports/124/S124154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
