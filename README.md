@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Midwest City (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three lights in the shape of a triangle traveled west to east across the sky.  The lights were a redi orange color.  Either three craft in a triangle shape or a large craft.  Very dark and cell camera wouldn't catch the lights I'm the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113867.html](http://www.nuforc.org/webreports/reports/113/S113867.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orem (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Wow, I’m shocked to my core due to an event that occurred while I was driving on the freeway, I looked up and saw a green hovering light come down from the air, it proceeded to dart off the edge of the sky almost instantly,  this craft went from one side of the sky to the other in a matter of less than a second.  Can someone please try to explain this to me and how this could be physically possible?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149008.html](http://www.nuforc.org/webreports/reports/149/S149008.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
