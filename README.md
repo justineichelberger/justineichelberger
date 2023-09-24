@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Smithport (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>BLUE ALIEN SIGHTED IN PENNSYLVANIA CORNFIELD On Tuesday, September 24, 1996, two children--a girl and a boy, age 9--spotted a weird-looking entity in a cornfield "about a hundred yards" from their school in the mountains of western Pennsylvania.  According to Mrs. Beverly C., the girl's grandmother, the kids saw the creature at 1 p.m.  The alien was moving through a clearing in the cornfield near their elementary school, located north of Georgeville, Marchand and Smithport in Indiana County, 75 miles northeast of Pittsburgh.The creature "was striding across the clearing, moving its arms back and forth like a soldier marching would," Mrs. C. said. Her granddaughter described the creature as "four feet tall, and his arms were long on his body" and had "three fingers but not unusually long."  A most unusual feature was a tube-like appendage lying on top of its head and dangling down in the rear.  Its skin color was "the blue of a clear sky" and "a black thing that appeared to be an eye but low where a nose should be." Mrs. C. said her granddaughter and the boy had the creature in view for about nine minutes but did not hear any unusual sounds associated with the entity.In a followup communication, she reported that two other children at the same school had just reported seeing a similar sky-blue creature "in the same spot sometime in the spring."  (Email Interview) (Editor's Note: There was a UFO flap in the Path Valley, near Chambersburg, between March 3 and March 20, 1996, about 100 miles southeast of northern Indiana County.)Reported from:  http://ufoinfo.com/roundup/v01/rnd01_31.shtml ((NUFORC Note:  Our gratitude to the individual who submitted this report, and to UFORoundUp for making the material available.  NUFORC is not able to confirm the report, based on the material from other sources.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22759.html](http://www.nuforc.org/webreports/reports/022/S22759.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Elk Neck (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Strange object in sky disappearsMy son and I were driving to his before school program on Old Field Point Rd. When I was driving I looked up at the sky and noticed something shiny and I thought it was a blimp since they are very common in our area.  When I looked up at the sky again the object was gone, my son said did you just see that.  I didn't realize he was looking at the object as well. I said to him yes did you just see that, and he said where is it.  It just disappeared,  I wasn't paying attention to the speed of the craft or did I notice what shape it was I just figured it was a blimp but it was small and my son said it looked like it was oval.  There were no clouds in the sky and it was right over Elk Nek Elem.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102584.html](http://www.nuforc.org/webreports/reports/102/S102584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
