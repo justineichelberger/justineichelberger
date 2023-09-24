@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 23 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Delco (NC) reported seeing craft that fit the description of some 'Flash' over a period of approximately home - home minutes.</sub><blockquote><sub>i seen one circle in the air and then three little one's came up and they where flashing and going back and forth in sky four about 45min.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46469.html](http://www.nuforc.org/webreports/reports/046/S46469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Midwest clear sky unidentified flashing objectA very clear night right before the clouds came i seen a flashing brite white light, flashed every second and would be in further position in sky when it would reappear i thought i may have been mistaken until it made a circular turn In mid flight and went in a total different direction!...i know planes have flashing blue and red lights and i have NEVER seen a plane move like that....ever!  I knew no one else would believe me, i quickly went to grab my phone to record..behold, low battery warning wouldnt allow it...so dissapointing.  For now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102613.html](http://www.nuforc.org/webreports/reports/102/S102613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [407](http://www.nuforc.org/webreports/reports/164/S164756.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164818.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164714.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164877.html)
-- [403](http://www.nuforc.org/webreports/reports/164/S164715.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
