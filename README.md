@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:49 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lisbon (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Griswold, CT, strange lights and shapes.I stayed up late as usual.  As I went to turn off my television, around 4am, I looked out the window and I seen a very bright light.  It looked strange so I went into the bathroom and looked outside the window and noticed a circle shape with a prism like light coming from it with white being the body and green to red going upwards. I awake my husband and I grab the binoculars and opened the window. I was in amazement , the second I looked threw the lens, I seen what looked like the white circle was actually a lot of separate at least 1,000+ desperate lights all close together forming the circle shape I was seeing.  Then all of a sudden one separated from the bunch then floated back and once again out and back. Then it finally moved away and started spreading out in a downward position like a triangle. Once again with the green and red. The multiple lights that where in the circle shape moved back and forth to and from the separated light. It is 5:22am and it is ! still there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We suspect a sighting of one of the three bright planets in the E sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93038.html](http://www.nuforc.org/webreports/reports/093/S93038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A big colorful oval shaped vessel slowly descending, while spinning and moving forward. No noise what so ever.  i could have touched itI was working tonight at chase at easton office center, when I decided to go for a walk. I went through the back door and walked behind the building.  I was playing with my phone when i saw some thing colorful in the SKY.  I ran to get a closer look, and went to the side of the building.  There's a sidewalk there and i was on it. It was about 10:33pm. Mifflin High School is Behind Chase.   I saw this big ballon like thing. It was colorful, bright spinning and going down at the same time.   I though my eyes were playing tricks on me  but NO!! It was slowly descending.  This white guy saw it too, he just gave me a blank stare.  It landed near Mifflin High school in the field, and I then lost sight of it.  I went back inside. I put all the chase cameras on that spot to see..if it rises again.  But after my shift ended 15 minutes later at 11pm, I drove to Mifflin high school and tried finding the same spot i saw it land.  I hopped the fence and went to the baseball field, nothing was there but the ground was hot and it was like 60 DEGREES outside.  I HAVE NO ((deleted)) IDEA WHAT I SAW..BUT IT WASNT A PLANE OR A HELICOPTER.  I DONT THINK THEY CAN SPIN , GO DOWN AND MOVE FORWARD AT THE SAME TIME.  IT WAS ALSO HUGE.  I should have recorded it on my phone..or jumped the fence at that 2nd and just went to it!!  But i was too scared.  I'm going go to the same spot tomorrow night, with my camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102611.html](http://www.nuforc.org/webreports/reports/102/S102611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
