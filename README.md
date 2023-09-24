@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fountain Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>coming out of the black Angus restaurant in fountain valley, two objects in the sky over the fountain valley high school one large other one smaller.  Bright Blue, with a red top too large to a drone.  very bright vibrant colors helicopter was checking it out it went up super fast and down super fast.  little one just moved around took off another direction. trees and houses were blocking most of the view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130168.html](http://www.nuforc.org/webreports/reports/130/S130168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Leicester (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>The ball of light just hovered above the motorway.We were driving to work and saw this ball of light. It looked like it was hovering over the M1 motorway between junction 21 and 20. We saw it as we came out of Countesthorpe which is south of the city Leicester. It would have been about 2 - 3 miles infront of us. We are not sure what this is but an explanation would be good.Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39453.html](http://www.nuforc.org/webreports/reports/039/S39453.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
