@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Corte Madera (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Shiny objects over North Bay.Witnessed multiple lights hovering near Corte Madera bayside hill.  I first noticed it and then had a neighbor coming up the road view it with me.  We watched these lights for about 10 minutes in eastern sky.  We both came to an agreement that these were not airplanes.  Seemed to be over the Bay .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124154.html](http://www.nuforc.org/webreports/reports/124/S124154.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lisbon (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Griswold, CT, strange lights and shapes.I stayed up late as usual.  As I went to turn off my television, around 4am, I looked out the window and I seen a very bright light.  It looked strange so I went into the bathroom and looked outside the window and noticed a circle shape with a prism like light coming from it with white being the body and green to red going upwards. I awake my husband and I grab the binoculars and opened the window. I was in amazement , the second I looked threw the lens, I seen what looked like the white circle was actually a lot of separate at least 1,000+ desperate lights all close together forming the circle shape I was seeing.  Then all of a sudden one separated from the bunch then floated back and once again out and back. Then it finally moved away and started spreading out in a downward position like a triangle. Once again with the green and red. The multiple lights that where in the circle shape moved back and forth to and from the separated light. It is 5:22am and it is ! still there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  We suspect a sighting of one of the three bright planets in the E sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93038.html](http://www.nuforc.org/webreports/reports/093/S93038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
