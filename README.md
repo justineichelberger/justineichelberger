@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:47 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Midwest clear sky unidentified flashing objectA very clear night right before the clouds came i seen a flashing brite white light, flashed every second and would be in further position in sky when it would reappear i thought i may have been mistaken until it made a circular turn In mid flight and went in a total different direction!...i know planes have flashing blue and red lights and i have NEVER seen a plane move like that....ever!  I knew no one else would believe me, i quickly went to grab my phone to record..behold, low battery warning wouldnt allow it...so dissapointing.  For now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102613.html](http://www.nuforc.org/webreports/reports/102/S102613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lisburn (Antrim) (Northern Ireland) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I AM A PHOTOGRAPHER, WHEN OUT SHOOTING A CALENDAR LAST WEEK I SEEM TO HAVE PICKED AN OBJECT UP IN THE BACKGROUND, I ONLY NOTICED THE NEXT DAY, NOW WE NORMALLY HAVE MILITARY CHOPPERS HERE AND EVERYWHERE BUT THIS DONT LOOK LIKE ANYTHING I HAVE SEEN. CAN YOU LET ME KNOW WHAT YOU THINK , I HAVE NOT MESSED ABOUT WITH THE PIC , THIS IS WHAT I FOUND ON THE IMAGE, THANK YOU  ((name deleted))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58981.html](http://www.nuforc.org/webreports/reports/058/S58981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
