@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:18 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>rectangle object with plus and minus symbols was not seen until pix was enlarged.WE WERE WATCHING AN ANNUAL HOT-AIR BALLOON EVENT ON SATURDAY MORNING. THERE WERE HUNDREDS OF PEOPLE OBSERVING AS THE BALLOONS ENDED THEIR FLIGHTS AND WERE LANDING IN VARIOUS PLACES AROUND THE NEIGHBORHOOD. I TOOK PICTURES OF AN EAGLE BALLOON. AT THE TIME WE DIDN'T NOTICE ANYTHING UNSUAL (APPARENTLY NO-ONE ELSE DID, EITHER).  AT A LATER DATE AS I WAS DOWNLOADING PICTURES FROM THE SONY HANDHELD CAMCORDER ONTO MY LAPTOP,  WE NOTICED A SMALL DARK RECTANGULAR OBJECT UP AND TO THE RIGHT OF THE EAGLE-HOT-AIR-BALLOON.  CURIOUS, WE ENLARGED IT REPEATEDLY.  WE SEE A DARKER BAND THROUGH THE CENTER BUT ARE MOST INTERESTED IN THE PLUS'S AND MINUS'S AROUND THE PERIMETER OF THE OBJECT.  THEY ARE MOST VISIBLE WHEN WE CHANGE THE ANGLE OF THE COMPUTER SCREEN. WE HAVE TRIED TO GET THE SAME RESULT WITH OTHER PIX, BUT CAN'T.((NUFORC Note:  Witness provides e-address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47123.html](http://www.nuforc.org/webreports/reports/047/S47123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairport (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 large lights in the sky with a orange glow.  At first thought to be a plane flying very low and quite, however they joined together to make just one circle of light, and then again split into 2...what is odd is that they were low to the ground for the size and also hovered. I had thought perhaps I could not get a clear picture of the second one (I was trying to convince myself that they did not join together) because of tree tops and clouds in the sky.  Got to my drive way and looked up...it was one of the clearest evening skys all summer.  They just vanished into the sky as if they turned off all lights, puff and gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Time is unknown to us.  We have applied an artificial time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84126.html](http://www.nuforc.org/webreports/reports/084/S84126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
