@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lancaster (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>My uncle went outside to smoke a cigarette and he happened to spot the formation of the orange lights.  They flickered as they gliding through the sky and they went left to right. They ended up fading away once they went behind the trees.  My uncle ran to go get us and we freaked out and tried to record.  i got it but its very faint and i only got the last one. the last one stopped in the sky and went up to go over a tree.  Soon after, we all heard sirens from an alarm system and cop sirens.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130177.html](http://www.nuforc.org/webreports/reports/130/S130177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Onion Creek (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>WAITING ON ((name deleted)), THE FAMILY DOG,  I LOOKED UP JUST AS A VERY BRIGHT FLASH HAPPENED.  IT WAS ON A NORTH-SOUTH PATH, HEADED NORTH...THE SKY WAS PARTLY CLOUDY AND ENGULFED IN HEAVY TWILIGHT.. THE ULTRA BRIGHT FLASH WENT OUT IN A COUPLE OF SECONDS  BUT ONE COULD STILL SEE A SLIGHT TRACE CONTINUING.  IT DID NOT SEEM TO FIT THE ISS FLIGHT PATH FOR THIS EVENING..((NUFORC Note:  Iridium 37 at 19:21 hrs.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136344.html](http://www.nuforc.org/webreports/reports/136/S136344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
