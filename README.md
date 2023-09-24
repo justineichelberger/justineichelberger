@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:43 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mokena (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright Light  observed for 15 minutes SW sky near Mokena Illinois.A bright light in the SW sky appeared to be in the direction of Channahon Illinois from the point where my house is in Mokena.  I watched it for 15 minutes as I sat by my front door.  It appeared to be moving somewhat towards my direction but very slow which I thought was an incoming airplane to Midway Airport.  After 4 to 5 minutes of watching the object it appeared to stop.  I focused my eye with a rooftop edge as I sat on my front door stoop to help me judge if it was moving or not and from my judgment it was not.  Approximately another 4 minutes went by and the object appeared to drift very slowly to the right dimming on occasion.  At one point it dimmed to nothing but within 15 seconds or so it came back in the exact position it disappeared.I’m pretty familiar with the flight patterns of airplanes over my home, this wasn’t on any normal path to Midway and why it caught my attention other than being very bright.At this point I ran inside my house for my digital camera returned and snapped 4 photos.  Like any other photo ever taken of objects at night they usually come out dark but the light was very visible along with outlines of the rooftops.  I lightened them up as much as I could and blew –up a few photos also.When first observed it appeared to look like a very bright star in the SW sky at about 30 degrees above the horizon.  The exact size is unclear from my observation point but as indicated it looked like a bright star.  It changed from an oval dot to an un-described shape, perhaps in a cylinder form.  If one was to look at a piece of rice three feet in front of them that is the shape it would turn into.  Its brightness would dim and then become bright with a hint of a red glow now and then.The last few minutes it stayed bright and settled below the rooftops to where I could no longer observe it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102620.html](http://www.nuforc.org/webreports/reports/102/S102620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fountain Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>coming out of the black Angus restaurant in fountain valley, two objects in the sky over the fountain valley high school one large other one smaller.  Bright Blue, with a red top too large to a drone.  very bright vibrant colors helicopter was checking it out it went up super fast and down super fast.  little one just moved around took off another direction. trees and houses were blocking most of the view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130168.html](http://www.nuforc.org/webreports/reports/130/S130168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
