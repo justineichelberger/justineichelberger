@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mountain Home (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Was on the phone looking across the park behind my home.  Looking southeast toward Twin Falls, ID, when I noticed an orange orb.  I didn't pay much attention to it at first because of the high volume of air traffic.It grabbed my full attention when the single sphere split into 4 smaller spheres.  Once my brain registered what I witnessed they vanished with no sound, or any type of visual evidence.  What a strange occurence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122244.html](http://www.nuforc.org/webreports/reports/122/S122244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portland (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 white cigar shaped crafts.  Daytime.2 white cigar shaped aircraft flying opposite directions.  No wings visable.  No sound.  No contrails.  Clear skies.  Unsure of altitude.  Other witness looked up and asked what are those?  Caught my attention and we began conversing.  Didnt look like planes. My  Dad was a pilot, so very familiar with identifying specific aircraft in sky at many altitudes.  Had witnessed the same days before, just one craft...  But figured light was playing some sort of optical illusion.  They were flying at a normal aircraft speed it seemed, but dissapeared into sky quicker than a normal aircraft would.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113942.html](http://www.nuforc.org/webreports/reports/113/S113942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
