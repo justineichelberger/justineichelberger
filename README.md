@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Guymon (west of) (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We were travelling West out of the panhandle of OK into NM.  We were still in OK when we saw a white ball hanging in the sky.  The sun was setting and the round object never moved. We drove on at 70+ mph, and ended up stopping twice, about 30 min. apart, to observe it with binoculars and take pictures. As the sun went away, the object turned orange and then grey against the night sky, but always seemed to be the same distance away from us.  It was not riding the air currents or moving in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113890.html](http://www.nuforc.org/webreports/reports/113/S113890.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>object changing shapes and colors over houstonMy dogs kept barking so I went outside a check it out.I would never had saw this if I didnt go outside but  I look up it was so noticeable.  I saw this blinking light it was changing colors from a bright white to a blue red color and it just stood there for like 15 min i got my telescope   I  saw this object was changing shapes and colors and then it started to move weird.It look like a cigar then change like a giganitic dome shape salad bowl.   When it left it shot off fast as hell...  I mean I never seen anything move that fast it was like it disapered when the dogs stop barking it so silent not a sound in the sky..  I wish I had my camera but it was 1:00 am and my telescope was right there close to the back door..   wow it was amazing I probably will never see anything like this((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78017.html](http://www.nuforc.org/webreports/reports/078/S78017.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
