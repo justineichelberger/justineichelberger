@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>About 8:30 pm I witnessed a large black triangle silently fly NW-SE near the Venice Fl. Airport.  I have seen B2 stealth bombers fly before, and this craft appeared larger and more equilateral than that, although the sighting lasted only a few seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149177.html](http://www.nuforc.org/webreports/reports/149/S149177.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 16:28 - 16:28 minutes.</sub><blockquote><sub>Ufo Danced over Tia from a distance it looked still but i put the zoom on the camera and wallahMy Doughter and I went out to take a morning pic of the moon for her mom when we noticed a brilliantly bright star Exept the light coming off It was weird So I told my Doughter to Zoom all the way in and we got a suprize . she took the first 2 I took the last .It freaked me out because the backround was still .youll see theres one that kinda looks like the ship topped for a second and theres some kind of cloud over it .Now on Cam its not that bright but if you adjust your contrast and brightness you can learly see a Black Spere with some kind of energy at the bottom and 2 rotating lights . keep in mind that with the naked eye it just looked lkike a really bright star this thing was way way far away . and it did a spectacular airshow untill Dawn.I live really close to TIA and it was directly above it miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58943.html](http://www.nuforc.org/webreports/reports/058/S58943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
