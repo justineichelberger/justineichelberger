@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:07 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tabor City (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two orange lights sat stationary then maneuvered separately at different speeds, behind a tree-line.A month ago, I saw a glowing orange orb moving really quickly across the sky. It then maneuvered in a way that I’ve never seen, disappearing behind a tree-line. I’m able to quickly identify things in the sky. I didn’t know what this was. I also didn’t report this original event.&#8232;&#8232; My wife and one of my children have witnessed the same or similar object in the sky, on separate occasions.Last night, around 9pm, I noticed two orange lights in the distance. I originally thought they might be planets, because they weren’t moving and looked different than the stars. I kept watching. One of the objects moved very quickly from its stationary position and was quickly out of sight. There was a tree-line near me that obstructed my ability to continue tracking it. The second object began to move slowly, in a direction similar to the first and was quickly out of sight.I thought that the event was very strange.  I went into the house and sat down. 5-10 minutes after I sat down, the house was buzzed by a low flying, fast moving, jet.  It was followed by a second low flying jet.  Based on the sound, I could tell that the jets were moving towards where the orange lights had been.  This could have been a coincidence, but was also strange.I spent 9 years in the military, stationed on an airbase.  I’m very familiar with aircraft in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149211.html](http://www.nuforc.org/webreports/reports/149/S149211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Mt. Prospect (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we could actually see the faces of grey type creatures looking back at us.Walking with my two brothers and three friends we stopped on the corner of S Wapella ave and W. Evergreen Ave in Mt. Prospect.  We saw a saucer shapped craft just above the trees.  I looked as though it was two saucers on top of one another at first glance, but it was actually one with large windows though the middle. We looked at it for several minutes and we could actually see the faces of grey type creatures looking back at us.  We ran to a friends house on South Wapella Ave.  It seemed to follow us.  My brothers and thier friends went into the house.  My older brother locked me out so I tried to run home to Dresser drive.  I saw it go towards Mt. Prospect Country Club and then lost it due to the trees. We all got a very good look at it.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65296.html](http://www.nuforc.org/webreports/reports/065/S65296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
