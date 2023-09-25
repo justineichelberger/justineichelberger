@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pueblo (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Pueblo UFO on 25Sep14 was a weather balloonYeah, it was a weather balloon to the south of Pueblo, about 20 degrees from horizontal.  I could clearly see it through a Leoupold 40x spotting scope.  Saw the shape, sun reflecting from it and a tether/cord hanging from the bottom apex.  Didn't move much.  Sun went down far enough and it was hardly visible.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114239.html](http://www.nuforc.org/webreports/reports/114/S114239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Blaine (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 large very bright objects seen flying over blaine over the course of 4 minI was on the phone when I saw 2 flying objects clearing the trees in my back yard they were very bright and traveling North, North West some space separated the two objects but they were traveling the same or close to same path I yelled for my roommate to come look he also saw these objects as they got far from view.A few moments later a 3 object appeared over the same area the others did traveling the same direction   These objects were large very bright and made no noise at all at this time I went in the house to grab my camera as I did my roommate yelled as a 4th cleared the trees traveling again in the same direction as the first 3 had I did get 2 pictures of the objects although they are not very clear and the object was getting farther away</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102628.html](http://www.nuforc.org/webreports/reports/102/S102628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
