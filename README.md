@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wilmington () reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Around 4:30 am, saw three flashes of blue light approximately 10 seconds apart at first I thought perhaps a transformer blew at a refinery but the light was too blue like I have never seen.  Did anyone else see this reminded me of close encounters of the third kind it's the only thing I can compare it too.  I'm being serious!  This is not fake its for real I did not see a a UFO though  Just the sky light up in neon blue three times in a row never ever seen that in my life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122295.html](http://www.nuforc.org/webreports/reports/122/S122295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Guymon (west of) (OK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>We were travelling West out of the panhandle of OK into NM.  We were still in OK when we saw a white ball hanging in the sky.  The sun was setting and the round object never moved. We drove on at 70+ mph, and ended up stopping twice, about 30 min. apart, to observe it with binoculars and take pictures. As the sun went away, the object turned orange and then grey against the night sky, but always seemed to be the same distance away from us.  It was not riding the air currents or moving in any way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113890.html](http://www.nuforc.org/webreports/reports/113/S113890.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
