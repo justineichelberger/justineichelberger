@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:07 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:19 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Mt. Prospect (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we could actually see the faces of grey type creatures looking back at us.Walking with my two brothers and three friends we stopped on the corner of S Wapella ave and W. Evergreen Ave in Mt. Prospect.  We saw a saucer shapped craft just above the trees.  I looked as though it was two saucers on top of one another at first glance, but it was actually one with large windows though the middle. We looked at it for several minutes and we could actually see the faces of grey type creatures looking back at us.  We ran to a friends house on South Wapella Ave.  It seemed to follow us.  My brothers and thier friends went into the house.  My older brother locked me out so I tried to run home to Dresser drive.  I saw it go towards Mt. Prospect Country Club and then lost it due to the trees. We all got a very good look at it.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65296.html](http://www.nuforc.org/webreports/reports/065/S65296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wilberfoss, York (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue/white fanning light, which closed to a point and gradually faded to ground levelSeen during an unforcast lightening storm, which subsequently stopped after light was seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09912.html](http://www.nuforc.org/webreports/reports/009/S09912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
