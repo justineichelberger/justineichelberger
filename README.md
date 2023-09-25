@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 24 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Trinidad (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately :01 - :01 minutes.</sub><blockquote><sub>2 large white lights moving N/NE. (We were facing North) Each light was about the size of Mars in the night sky.  There was no sound, no colors, no strobes.  The lights moved together as if each was a wing tip on the ends of a single object.  The object (lights) moved behind a hill and out of our view.  If I held my thumb up at arms length, the lights were right on each side of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46611.html](http://www.nuforc.org/webreports/reports/046/S46611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tabor City (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two orange lights sat stationary then maneuvered separately at different speeds, behind a tree-line.A month ago, I saw a glowing orange orb moving really quickly across the sky. It then maneuvered in a way that I’ve never seen, disappearing behind a tree-line. I’m able to quickly identify things in the sky. I didn’t know what this was. I also didn’t report this original event.&#8232;&#8232; My wife and one of my children have witnessed the same or similar object in the sky, on separate occasions.Last night, around 9pm, I noticed two orange lights in the distance. I originally thought they might be planets, because they weren’t moving and looked different than the stars. I kept watching. One of the objects moved very quickly from its stationary position and was quickly out of sight. There was a tree-line near me that obstructed my ability to continue tracking it. The second object began to move slowly, in a direction similar to the first and was quickly out of sight.I thought that the event was very strange.  I went into the house and sat down. 5-10 minutes after I sat down, the house was buzzed by a low flying, fast moving, jet.  It was followed by a second low flying jet.  Based on the sound, I could tell that the jets were moving towards where the orange lights had been.  This could have been a coincidence, but was also strange.I spent 9 years in the military, stationed on an airbase.  I’m very familiar with aircraft in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149211.html](http://www.nuforc.org/webreports/reports/149/S149211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/164/S164749.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164876.html)
-- [360](http://www.nuforc.org/webreports/reports/164/S164874.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164752.html)
-- [358](http://www.nuforc.org/webreports/reports/164/S164750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
