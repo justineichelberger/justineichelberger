@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 16:28 - 16:28 minutes.</sub><blockquote><sub>Ufo Danced over Tia from a distance it looked still but i put the zoom on the camera and wallahMy Doughter and I went out to take a morning pic of the moon for her mom when we noticed a brilliantly bright star Exept the light coming off It was weird So I told my Doughter to Zoom all the way in and we got a suprize . she took the first 2 I took the last .It freaked me out because the backround was still .youll see theres one that kinda looks like the ship topped for a second and theres some kind of cloud over it .Now on Cam its not that bright but if you adjust your contrast and brightness you can learly see a Black Spere with some kind of energy at the bottom and 2 rotating lights . keep in mind that with the naked eye it just looked lkike a really bright star this thing was way way far away . and it did a spectacular airshow untill Dawn.I live really close to TIA and it was directly above it miles away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58943.html](http://www.nuforc.org/webreports/reports/058/S58943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting ,Nottingham England.Bright light eventually appeared to grow and change shape b4 vanishingWhilst putting my son to bed on Sunday night (25th Sept 2005) I noticed a bright light in the sky, which I initially thought was a star. After watching it for a few seconds I saw that it was moving erratically throughout the sky and was too bright for a 'normal' star. Also, the sky was not yet dark.After watching it move around the sky for a couple of minutes, the object suddenly appeared to grow in size and vanish. At this point, an aeroplane comes into view. I captured the latter end of this on our video camera. When playing this on our TV, we can clearly see that at the point the object appeared to grow and change it becomes a spherical shape with a rotating circle running around the middle of it. It is far larger in size at this point and it also moves at some speed after this, which probably explains how it 'vanished'. We often see planes in the sky, as we are on a flight path, so the appearance of the plane is not unusual. It's almost as if the 'UFO' saw the plane and wanted to get out of its way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46527.html](http://www.nuforc.org/webreports/reports/046/S46527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
