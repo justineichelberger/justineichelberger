@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fountain Hills (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>rotating colored light on a mountain topWhile traveling south on hwy 87 at approximately 22:30 hours and just north of Fountain Hills AZ I first spotted what looked like a police stopped vehicle ahead of me a couple miles when I came to Sycamore Creek and Hwy 87 at the Log Coral Wash area.  As I approached I then noticed the lights were not a police vehicle but a stationary light on a hill that was changing color from red to green then blue.  I could see the outline of the top of the hill and knowing the area well there are no roads that take you to the top of this hill.  I pulled over to get a video of the light and it appeared to be sitting on the ground as I could see the outlines of boulders around it.  I recorded this for approximately 30 seconds with the light changing colors and you can see vehicles tail lights below it on the highway. This area is approximately near mile marker 212-213 on Hwy 87</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159608.html](http://www.nuforc.org/webreports/reports/159/S159608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elgin (IL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 lights flew silently over Elgin Illinois at 22:153 dim white lights circular in shape on the bottom or back of craft.It made no sound as it flew over Elgin, Illinois from North to South.This was unlike any aircraft i've ever seen.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52668.html](http://www.nuforc.org/webreports/reports/052/S52668.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
