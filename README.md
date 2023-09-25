@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Bright objects in NE SkyIn the Northeast Sky, Southeast of KC Mo. Two large (size of a bright star) moving together towards the Northeast.  Became one bright bright light.  Saw commercial aircraft fly under the formation (commerial craft was at cruising alt). Object seperated and continued for about 20 seconds before dimming.  Objects was much larger then commercial craft Weird…((NUFORC Note:  Date may approximate, although the witness does not indicate that fact.  We assume that the sighting was a nighttime event, but the witness indicates 10:00 o'clock in the morning.  Witness elects to remain totally anonymous, and we have no way to contact him/her to confirm facts of the sighting.  If the date is correct, the sighting could not have been caused by the ISS and Space Shuttle in formation.  STS-112 was launched on the afternoon of October 07, 2002.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39504.html](http://www.nuforc.org/webreports/reports/039/S39504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fountain Hills (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>rotating colored light on a mountain topWhile traveling south on hwy 87 at approximately 22:30 hours and just north of Fountain Hills AZ I first spotted what looked like a police stopped vehicle ahead of me a couple miles when I came to Sycamore Creek and Hwy 87 at the Log Coral Wash area.  As I approached I then noticed the lights were not a police vehicle but a stationary light on a hill that was changing color from red to green then blue.  I could see the outline of the top of the hill and knowing the area well there are no roads that take you to the top of this hill.  I pulled over to get a video of the light and it appeared to be sitting on the ground as I could see the outlines of boulders around it.  I recorded this for approximately 30 seconds with the light changing colors and you can see vehicles tail lights below it on the highway. This area is approximately near mile marker 212-213 on Hwy 87</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159608.html](http://www.nuforc.org/webreports/reports/159/S159608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
