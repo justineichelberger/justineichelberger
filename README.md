@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Franklin (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30m - 30m minutes.</sub><blockquote><sub>Recently my mother and myself have witnesst a white light with red and blue lights flashing around it.We have witnesst it together and separately on diferent nights.WE would like to know if any one else has seen anything in S,W NC. N,E GA.or N,E SC.Please respond. Thank you.It stared when my mother say alight in the eastern part of the horizon at12:30am. she told me about it and I told her to tell me if she say it again know matter what time.A few nights later she called me at 12:00am to let me know it was back.I drove to her house and we watched what appeared to be a bright wight light with red and blue lights strobeing around the center,it moved very slowly from left too right then it slowly vanished.I believe the date was 09/22/99.We have also seen it on separate occasoins in much the same way.Also looking at it through a telascope was like looking at a prisem it's indiscirbable.WE would realy like to know if any one else has seen something similar in this area.Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09918.html](http://www.nuforc.org/webreports/reports/009/S09918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>disc shape but molded its shape like a jelly fish,it glowed orange reddish lights it flow up and down hovering for about 6 sec then went up and down again it did this for about 4 to 5 mins then flew up and just vanished there is video footage of the same object that i saw on another website video was taken dec 16 2009((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/077/S77999.html](http://www.nuforc.org/webreports/reports/077/S77999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
