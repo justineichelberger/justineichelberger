@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:19 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wilberfoss, York (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blue/white fanning light, which closed to a point and gradually faded to ground levelSeen during an unforcast lightening storm, which subsequently stopped after light was seen</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09912.html](http://www.nuforc.org/webreports/reports/009/S09912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Reddish Pink Bright Light Moving Over Downtown NE MinneapolisAs I was driving northbound on 35w at 1:58am 2 miles south of downtown, a reddish pink glowing ball intensified and became very bright over the NE downtown area. It was moving horizontally, then a small red light came out from the main bright light, and went downward. The bright reddish/pink light faded out into a yellowish color as it travelled eastward horizontally. This light appeared too bright to be some sort of drone, and it's elevation was approx 1,000 ft to 2,000 ft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164744.html](http://www.nuforc.org/webreports/reports/164/S164744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
