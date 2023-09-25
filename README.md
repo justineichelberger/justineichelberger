@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Nottingham (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO sighting ,Nottingham England.Bright light eventually appeared to grow and change shape b4 vanishingWhilst putting my son to bed on Sunday night (25th Sept 2005) I noticed a bright light in the sky, which I initially thought was a star. After watching it for a few seconds I saw that it was moving erratically throughout the sky and was too bright for a 'normal' star. Also, the sky was not yet dark.After watching it move around the sky for a couple of minutes, the object suddenly appeared to grow in size and vanish. At this point, an aeroplane comes into view. I captured the latter end of this on our video camera. When playing this on our TV, we can clearly see that at the point the object appeared to grow and change it becomes a spherical shape with a rotating circle running around the middle of it. It is far larger in size at this point and it also moves at some speed after this, which probably explains how it 'vanished'. We often see planes in the sky, as we are on a flight path, so the appearance of the plane is not unusual. It's almost as if the 'UFO' saw the plane and wanted to get out of its way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46527.html](http://www.nuforc.org/webreports/reports/046/S46527.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two Bright Orange Craft Flying In FormationI walked out onto balcony to smoke and two bright orange fireballs flying, one following the other, as if intelligently controlled, however no sound was apparent.  Both craft traveled in a northwest direction at approximately 5000 to 6000 feet elevation.  Both craft disappeared after passing our 90 degree aspect.  These we're NOT conventional aircraft, as I am an ex-military air defense artillery gunner and a trained observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114086.html](http://www.nuforc.org/webreports/reports/114/S114086.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
