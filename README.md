@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 25 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Two Bright Orange Craft Flying In FormationI walked out onto balcony to smoke and two bright orange fireballs flying, one following the other, as if intelligently controlled, however no sound was apparent.  Both craft traveled in a northwest direction at approximately 5000 to 6000 feet elevation.  Both craft disappeared after passing our 90 degree aspect.  These we're NOT conventional aircraft, as I am an ex-military air defense artillery gunner and a trained observer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114086.html](http://www.nuforc.org/webreports/reports/114/S114086.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large triangular shaped object  followed by smaller round lights in changing formations.On Sept. 25, 2006 in Port Angeles,WA. At approx. 8:37 pm.. we were kicked back in the yard looking up at the stars when we saw a extremely large triangular shaped object with 6 large circular lights, one on each corner and one in between each corner... they were a dull orange color. The object was moving at a fast pace from the NE to the SW from as far as we could see in both directions and for approx. 5-10 seconds when it disappeared over the Olympic Mountains.	Within minutes after the first sighting, we witnessed a second group of lights (maybe a 1/8 the size of the large triangular  object) approx. 5-6 travelling at a high rate of speed in the same direction, also orange in color. They looked like they were bouncing off each other in a irregular formation... Approx. 10 minutes later we witnessed another group traveling East to West...in a strait line with the outer ones weaving in towards the center and another one moving back out taking turns in some sort of pattern .... the second and third set of objects were much larger than the planes we saw flying over.	Between the second and third set of lights we saw another unknown object flying from a  Westerly to Easterly direction.....that looked like a backwards shaped hang glider... moving very fast.. the bottom of the object was yellowish  in color and silent. we took photos with a 35mm camera and we are hoping they turn out.((NUFORC Note:  We spoke with this witness via telephone, and he sounded to be exceptionally capable as a witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52636.html](http://www.nuforc.org/webreports/reports/052/S52636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [412](http://www.nuforc.org/webreports/reports/164/S164743.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164881.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164879.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164745.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164736.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
