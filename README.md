@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:46 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:51 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A Sphere of light was seen hovering next to the Stratosphere building in Las Vegas.I was driving on a road aligned toward the las vegas boulevard, this was a small street. I was heading East toward the Las Vegas Blvd. the road that I was on is probably 200 yards in length, it is a residential road.As I drove down the road, I was able to see The Stratosphere Hotel and Casino, this is a very tall building. nothing out of the ordinary at first as i turned onto this road that headed East. Maybe halfway down, I noticed a large sphere, golden and radiant, it looked like the light from a lighthouse shining directly at someone, but with a perfect bright sphere shape. This sphere was hovering in place perhaps 2/3s of the height of the Stratosphere building. slightly to left of the building from my perspective, which would make the sphere be on the North side of the building, 2/3s of the way up. I wasnt sure what it was and immediately it peaked my curiosity as soon as I saw it, it didnt really change in brightness from what i could tell, I was in a moving car. As soon as i got to the end of the street, i turned right (South) and the stratosphere was now being blocked by a commercial building across the street that i turned right onto. When i saw the stratosphere again, maybe 20 ft after made the turn, the sphere was gone.I also noticed a black helicopter heading toward the stratosphere from the North, and it looked like it was flying around the same height of where the sphere was. There should be a point made that there is no way that the helicopter could have been the sphere i saw, because the helicopter was MILES North of the Stratosphere, headed TOWARD the Hotel.  I did not see the bright sphere again.this was around 6pm, and in las vegas it is still very bright at 6pm, so it would make no sense for a massive light to just be hovering around buildings, especially that close to one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65923.html](http://www.nuforc.org/webreports/reports/065/S65923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rio Del Mar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Flashing Objects hovering over the ocean near Santa Cruz, CA.It was about 11:00 pm on Friday, September 26,2014 and I was visiting a friend when we decided to go out on the patio that over looks the ocean.  My friend was the first to notice it and when I first seen it, I thought it was a small plane or helicopter. I was mistaken!! When looking at the object through binoculars it was very clear to me that the triangle shaped object was no plane or helicopter.  It had lights flashing around in different colors almost like a disco ball would. It stayed in the same general area but moved it quick random movements (front2back, zig zagging, left2right). I am a huge skeptic when it comes to ufo and what have you but this incident really has me thinking twice.... should we be scared??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114072.html](http://www.nuforc.org/webreports/reports/114/S114072.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
