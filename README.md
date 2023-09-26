@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Grand Island (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately current - current minutes.</sub><blockquote><sub>7 identical clusters of multicolored lights.  5 are still, and 2 move rapidly across the sky. Photos captured.I just returned home from working the 3-11 shift.  Looked up on this clear, star-filled night to notice what I first thought was a star or a plane in the north sky, but it was a "cluster" of multi-colored flashing lights; not moving.  When looking around the sky, I noticed 5 more of these identical flashing clusters, not moving.  They are at about the same height in the sky, and form a very large circle across the sky. Two more such objects are flying quickly across the sky.  I got my camera with a 500mm lens, and captured the 6 lights, kind of in the shape of a stealth fighter.  I called my friend, who lives a few miles away, and asked him to go outside and look at the sky, and he readily spotted both the still objects, as well as the rapid-flying ones.I love sky watching, and have NEVER seen anything like this. Do you have any idea? Will send photo later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113920.html](http://www.nuforc.org/webreports/reports/113/S113920.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Goleta (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Jet with landing lights traveling sideways.I was finishing dinner at the backyard table with my son and a friend's  son.  At 36* elevation looking NNE a flying object was traveling approximately 500 mph at 30K ft. or the radial ratio equivalent at an unknown altitude.  The trajectory was east, just touching on south.  This is directly toward Pt. Mugu from my location in Goleta.  The object had a front and rear light of equal brightness magnitude -5, brighter than Venus at maximum, amber in color.  There was no noise associated with the object.  At first it looked like a low flying jet with landing headlights traveling sideways.  I did not observe any flashing lights or the red and green wing lights so obvious to anyone on a flight path.  It did seem as though there were smaller lights in between the two large ones but I couldn't really tell.  The object ( lights) faded away after about one minute.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130248.html](http://www.nuforc.org/webreports/reports/130/S130248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
