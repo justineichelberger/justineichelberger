@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three moving craft near Lowry.Three craft came into formation, moved in different directions, hovered, then flew into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65912.html](http://www.nuforc.org/webreports/reports/065/S65912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Thiells (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>was out side and I saw a circular object with blinking red and white lights.I was out side and I saw a circular object with blinking red and white lights. I looked and it came close slowing down in the distance and then speeding up. You could make out the circularity of it, and could not miss the blinking red & white lights.((NUFORC Note:  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19655.html](http://www.nuforc.org/webreports/reports/019/S19655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
