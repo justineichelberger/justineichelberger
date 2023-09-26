@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:46 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Powdersville (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Spectacular light sightings above the clouds over the highwayI first saw flashes of light then I saw four round shaped objects forming a square.  They were moving down the highway as I was driving down the highway.  They would converge into one light in the middle and then they would spread back out into four separate crafts of light.  All were round shaped and moving very fast.  They were very low, just behind the clouds which were overhead.  It all seemed to be emanating through the clouds as they moved very sporadically and very fast.  It constantly changed from going from four separate discs of light forming a square to converging as one single light.  There was no sound, just plenty of spectacular movement.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159629.html](http://www.nuforc.org/webreports/reports/159/S159629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three moving craft near Lowry.Three craft came into formation, moved in different directions, hovered, then flew into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65912.html](http://www.nuforc.org/webreports/reports/065/S65912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
