@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Ankeny (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped craft (20-30ftlength of side) with a light at each corner, hovered motionless 40-50feet over a farmhouse.I was driving on Hwy 35 north from Ankeny Iowa to Ames. About 5-7 miles north of Ankeny I casually looked over to the right side of the road at what appeared to be a farmhouse. As I was approaching the farmhouse I saw what looked like lights for the farmhouse but as I approached the farmhouse I saw something that looked nothing like a typical pole light. First no light was illuminating any kind of pole that would be holding it up. Second I saw that the three lights were unusually distant from each other(about 20-30ft?)and arranged in a perfect triangle. Also the lights were higher than nearby oak or elm trees leading me to think that it was about 40-50ft high above ground. but the most astonishing detail was that the lights didn't appear to be pointing strait down but rather out and down at an angle. This allowed some kind of surface around the light to be illuminated, showing the outline of the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14277.html](http://www.nuforc.org/webreports/reports/014/S14277.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rice Lake (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 105.0 - 105.0 minutes.</sub><blockquote><sub>stationary flashing lights in skyStationary flashing lights, flashing red, blue , green and yellow, flashing rapidly.  One disapeard as quick as it appeared.  Could not hear any sound like that of any aircraft in our area.((NUFORC Note:  Possible sighting of "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93096.html](http://www.nuforc.org/webreports/reports/093/S93096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
