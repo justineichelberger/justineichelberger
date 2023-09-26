@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:07 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:14 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Palo Alto (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>four lights,wierd hovering sound flying over siliconI heard a weird long noise like a hover craft would in a movie kind of like the jetsons, it took to long to be a regular airplane so i went to see what it was, and it was four flashing light on each corner flying slowy north western side. then later, there was other air crafts going in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78020.html](http://www.nuforc.org/webreports/reports/078/S78020.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yountville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very bright light seemed to dim out and appear in another part of the lower Eastern sky. Seemed to grow brighter then dim, then appear in another part of the sky.  It seemed to zig-zag when it reappeared. It seemed to be over the Travis AFB.  This lasted for about 30 minutes.  I used my binoculars but could only focus on it a couple times as it jumped around.  It was stationary and very bright, then dimmed, then gone, then appeared in another part of the clear night sky.  I have never witnessed this in 40 plus years of sky watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138320.html](http://www.nuforc.org/webreports/reports/138/S138320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
