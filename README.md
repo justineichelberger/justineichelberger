@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Almeria (Spain) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>very bright orange light in the sky.bright circular orange glow in the sky. due south of almeria spain. similar to a flair yet far too bright and much too high. was stationary at first then moved slowly sideways then upwards then dropped for approx five seconds then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78009.html](http://www.nuforc.org/webreports/reports/078/S78009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Copper color light moving over Anaheim CA skyObject came out of nowhere into the same path as other aircraft traffic, at first it moved towards us like an aircraft but then the color of the UFOs lights did not match those of an aircraft. It had a copper color to it and was very bright in color!   At first it moved like an aircraft but it did not match any shape to any type of aircraft.  The object moved in the sky, but then it came to a stop and started to hover at that same time it proceeded to move up like an elevator would.  I am more then positive it was not a helicopter because the altitude of the aircraft was just too high. And living in the city of Anaheim I can say, "I've seen my share of helicopters!"   Then its lights then started to dim in the same sense as a flame would do when struck with air.  It did that for about a minute disappearing and then reappearing while moving just a little to the side, before completely disappearing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93097.html](http://www.nuforc.org/webreports/reports/093/S93097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
