@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Las Cruces/Soccoro (between) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unexplained column of light on I 25 in New MexicoMy late husband and I were driving from Tucson, AZ to Albuquerque, NM on I25 on September 26, 1977. We were north of Las Cruces, NM  and south of Soccoro, NM when a bright beam of light suddenly appeared over our car. We immediately assumed it was a helicopter from the US Border patrol.  We pulled to the side of the road, expecting a patrol car to come up for identifications. We turned off our motor and sat in the car for a few minutes. No vehicle of any kind appeared.  Having recently returned from two years in South Korea with the US Army, we were very aware of the sounds of flying vehicles. We then realized that we did not hear the sounds which are made by a helicopter. As it was early in the morning, there was no other traffic in either direction.  We got our of the car and looked up at the light. A bright column extended as far up as we could see and we could not determine a source or end of the light. The beam surrounded us to about three feet complete! ly around the car. Again, the most amazing aspect was absolute silence. Not even the air was disturbed so no wind. We stool there fascinated by the sight when suddenly the light simply vanished. And no sound of a flying vehicle departing. We got back in our car and continue our trip to Albuquerque. There was no unaccounted for time other than the 15-20 minutes we observed the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161734.html](http://www.nuforc.org/webreports/reports/161/S161734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright lights moving unlike a plane or helecopterPort Charlotte, Fl    between 8 and 8:30 pm  While traveling north east at 25 MPH on Veterans Highway we observed 2 bright white lights at about the 10:00 position  at a little over tree top level. At first we thought they were helicopters search lights. They then turned towards us and arched around to about the 1:00 position. At this time they appeared to be the lights on the wings of a plane. I remember thinking the plane was going to land on the road. At about this same time a third white light appeared. I though it was the tail of the plane but was surprised not to see the flashing red lights of a plane. The lights then turned back towards the10:00 position and the 3 lights became 1. It disappeared off in the distance very quickly. The total time from sighting to it disappearing was 20 – 30 seconds.  The lights were bright and did not blink, they were all white. The weather was clear with a few clouds and a full moon. The lights were not near the moon and we could not make out any object in the sky other than the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58960.html](http://www.nuforc.org/webreports/reports/058/S58960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
