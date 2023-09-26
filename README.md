@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:14 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Yountville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Very bright light seemed to dim out and appear in another part of the lower Eastern sky. Seemed to grow brighter then dim, then appear in another part of the sky.  It seemed to zig-zag when it reappeared. It seemed to be over the Travis AFB.  This lasted for about 30 minutes.  I used my binoculars but could only focus on it a couple times as it jumped around.  It was stationary and very bright, then dimmed, then gone, then appeared in another part of the clear night sky.  I have never witnessed this in 40 plus years of sky watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138320.html](http://www.nuforc.org/webreports/reports/138/S138320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange orange lights in sky over oregon city flying north to south.6 Strange Orange lights in sky moving from north to south for apx. 2 minutes than disappeared.  It was silent, there was one aircraft in the air flying the opposite direction and appeared to be below the spheres.  Me, my family and 5 of our nieghbors were outside and all witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72627.html](http://www.nuforc.org/webreports/reports/072/S72627.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
