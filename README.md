@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oregon City (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange orange lights in sky over oregon city flying north to south.6 Strange Orange lights in sky moving from north to south for apx. 2 minutes than disappeared.  It was silent, there was one aircraft in the air flying the opposite direction and appeared to be below the spheres.  Me, my family and 5 of our nieghbors were outside and all witnessed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72627.html](http://www.nuforc.org/webreports/reports/072/S72627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Las Cruces/Soccoro (between) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unexplained column of light on I 25 in New MexicoMy late husband and I were driving from Tucson, AZ to Albuquerque, NM on I25 on September 26, 1977. We were north of Las Cruces, NM  and south of Soccoro, NM when a bright beam of light suddenly appeared over our car. We immediately assumed it was a helicopter from the US Border patrol.  We pulled to the side of the road, expecting a patrol car to come up for identifications. We turned off our motor and sat in the car for a few minutes. No vehicle of any kind appeared.  Having recently returned from two years in South Korea with the US Army, we were very aware of the sounds of flying vehicles. We then realized that we did not hear the sounds which are made by a helicopter. As it was early in the morning, there was no other traffic in either direction.  We got our of the car and looked up at the light. A bright column extended as far up as we could see and we could not determine a source or end of the light. The beam surrounded us to about three feet complete! ly around the car. Again, the most amazing aspect was absolute silence. Not even the air was disturbed so no wind. We stool there fascinated by the sight when suddenly the light simply vanished. And no sound of a flying vehicle departing. We got back in our car and continue our trip to Albuquerque. There was no unaccounted for time other than the 15-20 minutes we observed the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161734.html](http://www.nuforc.org/webreports/reports/161/S161734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
