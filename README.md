@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:41 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Coachella (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I'm a security guard for a Country Club and I was standing in a maintenance yard using nvg goggles looking up to the sky noticed 8 objects flying over me.  The objects look as bright as a star.  I was trying to keep track on them with the nvg goggles heading  east to west  within one minute.  The flying objects were side-by-side to each other doing different types of formations.  At one point I noticed that the flying objects were in a square form shape and breaking up from each other and going back to each other very fast.  I tried to see them without the nvg goggles and I was unable to locate them with my eyes.  I use the nvg goggles again and saw them again disappear further and further away from me heading west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130229.html](http://www.nuforc.org/webreports/reports/130/S130229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Incredibly fast moving craft with bright lights over Charlotte County, FLI saw a cigar shaped object moving at an incredible rate of speed from east to west. I was traveling north on I-75 in Charlotte County, Florida.  I saw the object cross the highway about ½ mile ahead.  At first I thought it was an Air Force fighter jet because of the speed. It had a whit light in the front and a green light in the back. If it was any kind of airplane then I should have seen a red navigational light since I was on its port side.The object raced across the sky then I lost sight. Twenty seconds later I was driving on an overpass and I saw the object make a sharp left turn and loop north.  As it made this maneuver it became 2 objects with bright white lights.  As I descended the overpass I lost sight again.The location was highway marker 175 on Interstate 75.  The time was 8 PM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58962.html](http://www.nuforc.org/webreports/reports/058/S58962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
