@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:43 on 26 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Port Charlotte (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>bright lights moving unlike a plane or helecopterPort Charlotte, Fl    between 8 and 8:30 pm  While traveling north east at 25 MPH on Veterans Highway we observed 2 bright white lights at about the 10:00 position  at a little over tree top level. At first we thought they were helicopters search lights. They then turned towards us and arched around to about the 1:00 position. At this time they appeared to be the lights on the wings of a plane. I remember thinking the plane was going to land on the road. At about this same time a third white light appeared. I though it was the tail of the plane but was surprised not to see the flashing red lights of a plane. The lights then turned back towards the10:00 position and the 3 lights became 1. It disappeared off in the distance very quickly. The total time from sighting to it disappearing was 20 – 30 seconds.  The lights were bright and did not blink, they were all white. The weather was clear with a few clouds and a full moon. The lights were not near the moon and we could not make out any object in the sky other than the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58960.html](http://www.nuforc.org/webreports/reports/058/S58960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Coachella (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I'm a security guard for a Country Club and I was standing in a maintenance yard using nvg goggles looking up to the sky noticed 8 objects flying over me.  The objects look as bright as a star.  I was trying to keep track on them with the nvg goggles heading  east to west  within one minute.  The flying objects were side-by-side to each other doing different types of formations.  At one point I noticed that the flying objects were in a square form shape and breaking up from each other and going back to each other very fast.  I tried to see them without the nvg goggles and I was unable to locate them with my eyes.  I use the nvg goggles again and saw them again disappear further and further away from me heading west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130229.html](http://www.nuforc.org/webreports/reports/130/S130229.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [410](http://www.nuforc.org/webreports/reports/164/S164731.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164738.html)
-- [408](http://www.nuforc.org/webreports/reports/164/S164739.html)
-- [407](http://www.nuforc.org/webreports/reports/164/S164882.html)
-- [406](http://www.nuforc.org/webreports/reports/164/S164740.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
