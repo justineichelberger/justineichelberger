@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 Flashing Lights In Tinley Park1 pm sunny & clear with hardly a breeze, doing yardwork, I noticed 2 lights in the sky quite high up. They remained together but there was some movement or flashing?? I could not make it out clearly but thought it could have been 2 balloons and perhaps they were turning, with one side being reflective to cause the flash I was seeing. The speed  was minimal, they seemed to be floating along but so high up and no clouds to tell if they were going with a breeze or not. They came from the northeast and drifted southwest. I had time to run in the house, get my camera and take one photo before the trees obscured my view. I was surprised the photo shows 2 lights of different colors,one round and one more oval, and something darker between them that is difficult to make out due to the distance.I also witnessed the 3 red lights in Tinley Park a few years ago and reported it. There were a few sightings of 3 red lights forming a triangle. My friend and I watched this one night. Then a few months later many people saw the same thing occuring on Halloween night. So many people were outside and saw it, Perhaps its this time of year we should be looking at the skies again in Tinley Park!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66077.html](http://www.nuforc.org/webreports/reports/066/S66077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Keystone (SD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO photographed near Keystone, South Dakota.I took this photo a while back. We had a family reunion in South Dakota. I didn't realize that was in the shot, I was just trying to  get all of Mt. Rushmore in the picture. Once i pulled my eye away from the view finder, i noticed it. I told my family to quickly turn and see it. The object was there for another good 3-8 seconds. It flew away really quickly but it was just barely slow enough to remain visible as it traveled, until it was out of sight. It seemed to be emitting some sort of aura, but it was difficult to tell because it was such a hazy day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56090.html](http://www.nuforc.org/webreports/reports/056/S56090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
