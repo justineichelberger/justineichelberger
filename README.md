@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Manhattan Beach (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>I was actually surfing just south of the Manhattan Beach pier & sitting on my board. There was an object that caught my eye. I thought it was a small drone at 1st. It was about 50-80 ft above me but had NO propellers & made no noise. I thought maybe a plane or a bird but it didn't move for about 5 seconds. Then it moved to the side and back. It slightly dropped a couple feet. Then stood still. I was pretty confused on what it was. Then after about 20 seconds I watched it take a fast dive into the water about 15 feet from me. It splashed in & I saw the trail of bubbles sink down with it. It never came back up. I thought maybe someone else would've noticed but I was the only person out surfing. Maybe someone on the beach was controlling it and accidentally crashed it but no one was looking in my direction. There were only 2 couples on the beach as it were. Idk exactly what I saw but I did see it very clearly. It was disk shaped, dark gray, looked smooth as silk not metal. It moved unlike any aircraft that man can create & seemed to be able to navigate its way through the water.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164728.html](http://www.nuforc.org/webreports/reports/164/S164728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white light witnessed during blood moon event.Event occurred while outside to view the supermoon/lunar eclipse.  Large stationary orb spotted and began to move slightly.  Orb then shot up quickly, disappearing into the clear sky.The light was very bright and spherical with no apparent features to discern from.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122336.html](http://www.nuforc.org/webreports/reports/122/S122336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
