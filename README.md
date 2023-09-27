@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:06 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:03 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Orleans (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multiple crafts videoed flying over Cape Cod Bay at night.I saw a strange plane or craft flying low over trees on the outer cape in the town of Eastham.  I proceeded to Cape Cod Bay to check on the direction of craft and if it was a plane.  The craft flew out of my sight but I noticed many other lights (crafts? Orbs ? ) flying over the tip on Race Point in Province Town.  This event lasted for a long while.  I filmed the lights from a tripod with my DSLR for a couple minutes.  Amazing light show.  They dipped and flew across Cape Cod Bay at very low altitudes just skimming the water.  The footage is from a distance but the crafts are clearly visible as it was a very clear night.  Very Strange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149279.html](http://www.nuforc.org/webreports/reports/149/S149279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Castleton (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-ish lights flying in the sky.When I pulled into the hospital parking lot last night I looked out of my car window and noticed in the sky a large number of orange-ish round lights flying west at a fairly fast speed.  There was one light per object.  They kept coming up from the horizon from the east, flying upwards and west at various altitudes and not in any particular formation.  It was eerie because they dominated the sky.  It was very quiet.  This took place at Community Hospital North and was witnessed by one other person that I am aware of.  I estimate over the 15 minutes that I stood there observing that there were about 40-50 lights total that eventually flew off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113982.html](http://www.nuforc.org/webreports/reports/113/S113982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
