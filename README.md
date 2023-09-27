@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:46 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white light witnessed during blood moon event.Event occurred while outside to view the supermoon/lunar eclipse.  Large stationary orb spotted and began to move slightly.  Orb then shot up quickly, disappearing into the clear sky.The light was very bright and spherical with no apparent features to discern from.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122336.html](http://www.nuforc.org/webreports/reports/122/S122336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red/green/white/blue flashing lights seen on circular or disk shaped object by couple in vancouver B.cfiance was outside smoking a cigarette, looked up at the stars and noticed an object floating with multi colour lights, at first glance she thought it was a star and then noticed it ws to bright and then started moving from right to left and appeared to becoming closer, first she steadied herself against a wall to ensure it wasnt just her moving and that it was the object moving, then she came inside and got me and i went out with the iphone. once i came outside i noticed a circular object floating with many colours, red blue green and white lights, then it got foggy really fast, faster than usual and we could still see the object because of the brightness and then it dissaperead into the fog or clouds... it seemed like it was unusually high to be fog and wehn i first arrived it was a clear night and you could see the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113956.html](http://www.nuforc.org/webreports/reports/113/S113956.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
