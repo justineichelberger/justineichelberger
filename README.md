@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 45</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159962.html](http://www.nuforc.org/webreports/reports/159/S159962.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chanhassen (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Numerous stationary objects that flash red, blue and white.  Several observed at one time over many nights.  Still happening.Over the last two weeks we have observed several stationary objects, that rapidly flash lights.  The colors appear to be Red,Blue and White. It mostly resembles a police with it lights on.  The objects are stationary and visible for hours.  These have been witnessed by myself and my girlfriend on several occasions now.  I also was telling a family member about them a night prior while in Byron MN and we were able to find one in the sky at that location as well.  The flashing colors and stationary position are obvious.  There are lots of aircraft that pass where I live due to MPLS international Airport being close.  I first noticed one about 2 weeks ago and as I grew more sky aware and curiousity have observed up to 4 at one time over the different nights.  There is currently one to the north of my location as I type it. It is why I'm reaching out.  I found a video on youtube of a news casts that describes these similar objects as well.  I have included that link ! to better describe exactly what we have been observing.  http://www.youtube.com/watch?v=pijFz88PxL0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114051.html](http://www.nuforc.org/webreports/reports/114/S114051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
