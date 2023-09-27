@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:03 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Castleton (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange-ish lights flying in the sky.When I pulled into the hospital parking lot last night I looked out of my car window and noticed in the sky a large number of orange-ish round lights flying west at a fairly fast speed.  There was one light per object.  They kept coming up from the horizon from the east, flying upwards and west at various altitudes and not in any particular formation.  It was eerie because they dominated the sky.  It was very quiet.  This took place at Community Hospital North and was witnessed by one other person that I am aware of.  I estimate over the 15 minutes that I stood there observing that there were about 40-50 lights total that eventually flew off into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113982.html](http://www.nuforc.org/webreports/reports/113/S113982.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A triangular-shaped aircraft moved very smoothly from North to South. It had very dim lights on the front 2 sides of the triangle &gt;. First I thought it was the formation of geese or some other birds but soon realized from the straight line smooth motion it was UFO. It moved behind the trees too soon for me to be able to take the picture/movie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164724.html](http://www.nuforc.org/webreports/reports/164/S164724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
