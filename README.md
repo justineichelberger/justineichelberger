@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:55 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Reddish orange fire flame dancing in night skyI saw what looked like olympic burning flame dancing in dark sky I watched it for around thirty minutes and thought at first there had bern Explosion but no strange fire dancing in sky. I took video and it looked Circular but my eyes saw flame and still picture looked Like flame. I pulled over on side of highway to look at it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159604.html](http://www.nuforc.org/webreports/reports/159/S159604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Blue flashing light Bozeman!It was a cloudy night.  Got home just off of west Babcock in Bozeman.  My girlfriend and I got out of car and looked up. I couldn’t believe my eyes.  Maybe it was a plane the first few seconds but no.  This flashing consistent blue very bright light peering through the clouds.  A disk or cigar of such.  Something out of a science fiction book.  Anyways, it was flashing for who knows how long but I observed it for 6 minutes before it stopped.  At one point the flashing was suspended and it turned back on constant.  And then continued to flash again for a few minutes.  At one point it appeared the light altered into a slight tint of green but I couldn’t tell really.  Anyways I contacted my best friend and brother.  They ran outside and saw it as well.  There were a total of 4 witnesses to my knowledge, but I am sure many of the Bozemanites in town witnessed it as well.  If you are reading this tonight from Bozeman, this is most likely the same sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143287.html](http://www.nuforc.org/webreports/reports/143/S143287.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
