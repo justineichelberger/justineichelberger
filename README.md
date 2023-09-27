@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:55 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Modena (NY) reported seeing craft that fit the description of some '' over a period of approximately 20:05 - 20:05 minutes.</sub><blockquote><sub>orange/red sphere. ..hovering the tree  lineIt was orange/red sphere.  It was hovering  right in my yards tree line ...it was moving very slow.  I could almost reach it ...it was that close.  I was a little  creeped out.  I have never  saw anything  like this before.  And then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122353.html](http://www.nuforc.org/webreports/reports/122/S122353.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Reddish orange fire flame dancing in night skyI saw what looked like olympic burning flame dancing in dark sky I watched it for around thirty minutes and thought at first there had bern Explosion but no strange fire dancing in sky. I took video and it looked Circular but my eyes saw flame and still picture looked Like flame. I pulled over on side of highway to look at it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159604.html](http://www.nuforc.org/webreports/reports/159/S159604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
