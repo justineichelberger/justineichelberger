@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:54 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 orbs over MCRD San DiegoI'm a Marine Sergeant, while being posted for the Boot Camp Challenge held in MArine Corp Recruiting Depot this morning I looked up at the sky  and saw 3 perfectly spaced orbs flying horizontally flickering and moving at a fast pace and then slowing down dramatically. At one point the front orbed moved to the back and the other two starting swaying up and down right next to it in the same pattern.  Before they disappeared they started shuffling from positions to positions and and then traveled higher in the sky. Now I understand the airport is right next to the installation and planes are constantly flying around the area, but there wasn't no blinking FAA lights to them which military jets also have.  Being a recruit training site there is no UAV operations being conducted there and no 3 pilots whether UAV or manned can pilot the way these orbs were traveling.  I was always a skeptic until this morning and I seriously apologize to all those that believed before me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113979.html](http://www.nuforc.org/webreports/reports/113/S113979.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>multiple bright objects in the sky like meteorsI don't want to sound crazy, I saw multiple very bright objects, much like meteors traveling very fast from the north to the south west sky, i did not hear any sound, the sun was too bright to follow them, some of the objects created something like a flying ribbon effect, there were airplanes flying nearby at a lower altitude than the objects, I did not have a camera to take pictures I really don't know what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113970.html](http://www.nuforc.org/webreports/reports/113/S113970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
