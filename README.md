@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Keystone (SD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>UFO photographed near Keystone, South Dakota.I took this photo a while back. We had a family reunion in South Dakota. I didn't realize that was in the shot, I was just trying to  get all of Mt. Rushmore in the picture. Once i pulled my eye away from the view finder, i noticed it. I told my family to quickly turn and see it. The object was there for another good 3-8 seconds. It flew away really quickly but it was just barely slow enough to remain visible as it traveled, until it was out of sight. It seemed to be emitting some sort of aura, but it was difficult to tell because it was such a hazy day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56090.html](http://www.nuforc.org/webreports/reports/056/S56090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Midland (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately present - present minutes.</sub><blockquote><sub>Light in eastern direction at 0350 am, light has slowly moved closer to us (west) and also moved to the south...smaller light left the bigger light, as soon as the smaller light cleared the bigger light, its light went out.  The big one appears to be rotating around.  Moving very slowly.  It is still out there, have been observing it since 3:50 am.((NUFORC Note:  Sighting of Venus, currently very prominent in the eastern sky, at the time indicated by the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122310.html](http://www.nuforc.org/webreports/reports/122/S122310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
