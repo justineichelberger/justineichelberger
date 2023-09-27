@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>multiple bright objects in the sky like meteorsI don't want to sound crazy, I saw multiple very bright objects, much like meteors traveling very fast from the north to the south west sky, i did not hear any sound, the sun was too bright to follow them, some of the objects created something like a flying ribbon effect, there were airplanes flying nearby at a lower altitude than the objects, I did not have a camera to take pictures I really don't know what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113970.html](http://www.nuforc.org/webreports/reports/113/S113970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chincoteague Island (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>After the eclipse, while the blood moon was ending, my friend and I saw a chevron shaped aircraft move to the right in a zig zag motion.  The aircraft itself was glowing white, but it left a sorta blue trail as it moved.  The trail was also in a zig zag shape.  It appeared right below the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122393.html](http://www.nuforc.org/webreports/reports/122/S122393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
