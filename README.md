@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Silver objects flying near the sunI was laying at the pool of my apartments.  I flipped over to lay on my back and put my hand up to the sky to cover the sun when I noticed a small, bright silver flying object going across the sun at a pretty quick pace too fast for any airplane).  I thought it could be anything as it went very quickly out of sight.  I kept my hand up to see if I'd see it again and for the next half hour or so I continued to see these, all staying very close to the sun, not seeing more than three at a time.  I called my boyfriend to go outside and see if he saw any and he did.  He called his father who liveds in Tualatin to go outside, and he saw them too.  They never stopped flying around the sun but we went inside because the sun eventually hurt our eyes.  We would have taken pictures, but it wouldn't work because the sun was too bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72638.html](http://www.nuforc.org/webreports/reports/072/S72638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Conway (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 moving lightsI was coming at 7:45 pm from the grocery store.  I was walking to my apartment carrying a water pack so I stopped to rest and looked up when I saw 3 lights twinkling just like an airplan, but were moving erraticaly.  As if they were 3 separate objects.  They were fast and looked extremely close to me.  I took video because it is not the first time of sighting these kind of lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136406.html](http://www.nuforc.org/webreports/reports/136/S136406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
