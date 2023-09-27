@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:37 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object falling from the sky with white trail of smoke.We first noticed a white smoke trail while driving down US Hwy 1 headed north.  Then we saw an object falling fast towards the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143304.html](http://www.nuforc.org/webreports/reports/143/S143304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bartlett (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Quite bright RED lights above an Irving Gas station on 302, BartlettI was leaving a rented condo for a trip back to work in the Boston area.  There is a procedure to that for leaving:  Making sure I'm cleaning up after a quick breakfast, shutting off water and heat, etc.  Upon departure I checked the north facing deck on the ground floor for signs of my stuff and looking at the weather.  Dark outside at 5:30. Planning to leave at six.  Cloudy conditions with a cloud base probably at 3500 feet, which obscures mountain tops in the area.  Looking across the river valley (Saco), there was a dense mist, cloudy fog.  Between the layers was a bright red light.  I had on 2.5 cheater glasses, and went back in to get a 1.00 glasses.  I noticed another dim light breaking to the R of the 1st.  It increased in brilliance to the same intensity.  Both hovered over Rt 302.  two minutes to the same intensity.  Then a 3rd, same increase over two min.   watched for minutes, and then they winked out slowly.  I've never seen anything but bright ! white lights there at an intersection BELOW that area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164694.html](http://www.nuforc.org/webreports/reports/164/S164694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
