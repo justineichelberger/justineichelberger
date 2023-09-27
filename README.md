@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chanhassen (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Numerous stationary objects that flash red, blue and white.  Several observed at one time over many nights.  Still happening.Over the last two weeks we have observed several stationary objects, that rapidly flash lights.  The colors appear to be Red,Blue and White. It mostly resembles a police with it lights on.  The objects are stationary and visible for hours.  These have been witnessed by myself and my girlfriend on several occasions now.  I also was telling a family member about them a night prior while in Byron MN and we were able to find one in the sky at that location as well.  The flashing colors and stationary position are obvious.  There are lots of aircraft that pass where I live due to MPLS international Airport being close.  I first noticed one about 2 weeks ago and as I grew more sky aware and curiousity have observed up to 4 at one time over the different nights.  There is currently one to the north of my location as I type it. It is why I'm reaching out.  I found a video on youtube of a news casts that describes these similar objects as well.  I have included that link ! to better describe exactly what we have been observing.  http://www.youtube.com/watch?v=pijFz88PxL0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114051.html](http://www.nuforc.org/webreports/reports/114/S114051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Silver objects flying near the sunI was laying at the pool of my apartments.  I flipped over to lay on my back and put my hand up to the sky to cover the sun when I noticed a small, bright silver flying object going across the sun at a pretty quick pace too fast for any airplane).  I thought it could be anything as it went very quickly out of sight.  I kept my hand up to see if I'd see it again and for the next half hour or so I continued to see these, all staying very close to the sun, not seeing more than three at a time.  I called my boyfriend to go outside and see if he saw any and he did.  He called his father who liveds in Tualatin to go outside, and he saw them too.  They never stopped flying around the sun but we went inside because the sun eventually hurt our eyes.  We would have taken pictures, but it wouldn't work because the sun was too bright.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72638.html](http://www.nuforc.org/webreports/reports/072/S72638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
