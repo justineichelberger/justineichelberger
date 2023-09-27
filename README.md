@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chincoteague Island (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>After the eclipse, while the blood moon was ending, my friend and I saw a chevron shaped aircraft move to the right in a zig zag motion.  The aircraft itself was glowing white, but it left a sorta blue trail as it moved.  The trail was also in a zig zag shape.  It appeared right below the full moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122393.html](http://www.nuforc.org/webreports/reports/122/S122393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Light' over a period of approximately 15 s - 15 s minutes.</sub><blockquote><sub>isaw a red small light NE kuwait city sky suden is on than it gos off then came back moor brighter it wasnt moving than it turn off iwait for 2 min  thats all nothing and that all what i saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39506.html](http://www.nuforc.org/webreports/reports/039/S39506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
