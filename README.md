@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:26 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greenwood (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>15-20 UFOs flying at different altitudes and multiple angles changing paths quickly.Saw 15-20 UFOs flying at different altitudes moving all directions with flickering yellow lights every 4-5 seconds</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114057.html](http://www.nuforc.org/webreports/reports/114/S114057.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Port Richey (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Unique Flying Boomerang Seen !Keep in mind what I saw broke out of the dimension of space itself, was red only to the fact that the red part of the ufo was only like an outlined cartoon drawing, drawn with a red marking pen.  It was huge, moved quickly, and was a distint Boomerang shape. The Boomerang shape moved just like a boomering would be thrown in a cartoon drawing.  Flat, with no dimension to it.  When I saw it, I thought, a flying red tiger.  It did startle me at first. But it never hurt me, or landed either too.So what did I see?  Does it matter.  Not really!  My self I am just an average person with a penchant for Jesus, and his Father God Almighty!  I have been seeing the "lights in the sky" since age 8.  And you know what, depite my faith, I still see these "objects" around us almost daily.  Thank You ((name deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46660.html](http://www.nuforc.org/webreports/reports/046/S46660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
