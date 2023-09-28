@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Marstons Mills (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Black void in the sky moving at a fast pace, this is the 3rd sighting in a year......4 Days ago I posted my experience to this web page. It was the 24th and I saw for the second time in a year an unusual black void in the sky above my home on Cape Cod.There were  no stars within the black phenomena even though it was a particularly starry evening. It was as if there was a jet black blob that changed shape from an oblong to a kidney shape up above. My dogs were trembling as if there was a thunder storm in progress. It was the strangest thing I had ever seen and to see 2 similar occurences in the same year that effected my dogs the same way each time was really weird. OK!! Now it's getting creepy because less than an hour ago I saw it again.This time it was moving very fast as it crossed the horizon. I was alone(no dogs) and it was most definitely the same object or whatever it is , as the 2 times before.It is not a starry night at all and it is overcast. This time it stuck out like a sore thumb against the clouded sky. The object was traveling Southwest and was moving at a fair clip, which is totally different from the way I observed it the last 2 times, when it was barely moving at all. This is a strange thing and I would love to know what it is. I know that there is an Air Force Base less than a few miles from my house but it's no plane that's for sure, because it is a massive area. I can't estimate the size because I have no idea of how high above it is.  Anyway, any ideas? I'm stumped and determined to get a picture worth sharing with everyone. Has anyone else seen this before? I would be grateful for any information.Thanks again ((name deleted)), MA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31916.html](http://www.nuforc.org/webreports/reports/031/S31916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White Crescent shaped objects spotted.Heading down 377 Northbound just before coming Bear Creek in outer Fort Worth Texas (I am unsure of the exact name of the town) I spotted 2 white crecent shaped objects flying in the sky to my 9 o clock. Objects flew straight in unison until they disappeared. About a minute later I noticed to my 11 o'clock another group of 4 flying at the same speed until they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52731.html](http://www.nuforc.org/webreports/reports/052/S52731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
