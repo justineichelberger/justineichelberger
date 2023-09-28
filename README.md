@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:41 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:49 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Akron (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Wx:CAVU/dark/calm.  3rd one had halo of red around yellow/orange lite. It dropped a "flare" that burned out 1/3 way down.3 aircraft Not in formation Same flight path: CAK, AKR, CLE  LOTS OF LIGHTS  ABOUT 6000'  NO SOUNDS  #3 dropped a flair that burned out 1/3 the way to the ground.When each reached CLE or Lake Erie the lights were no longer visible/out.((NUFORC Note:  Report was submitted by a pilot with greater than 10,000 hours of flight time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102771.html](http://www.nuforc.org/webreports/reports/102/S102771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beresford (Canada) (NB) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>On Sept. 28th, Two stationary, brightly blinking lights appeared approx. 10 kilometers east northeast. Stationary for about 10 minutes.Gentlemen,  I live in Beresford, New Brunswick, Canada.  Our community is on the southern shore of the Bay of Chaleur.  This morning, before sunrise (approx. 5:15am), I was on my patio having a cigarette looking east/northeast towards the bay.  High in altitude I noticed a blinking light.  At first glance, I thought nothing much as a passenger airline corridor is directly overhead (transatlantic fligts).  But I soon realized what I saw was not a jet's navigational beacons.  The light would become very bright (I would say 3-5 times the brightness of Venus at dusk/dawn), stay on for approx. 2 seconds and fade out. Intervals would be approx. 5 seconds, then the sequence would start over. What struck me was the fact the light was stationary. Insofar as altitude is concerned, it is somewhat hard to tell. I would venture a guess as being 35000 - 40000 feet and 5-10 kilometers east north-east.After observing this phenomenon for approx. two minutes, I noticed another blinking light, the 1st to my twelve o'clock, the second to my 10:30-11 o'clock. The second light was just as bright, would flash for about the same period of time, however the interval between blinking was closer to 10-15 seconds. These two lights remained stationary, maintaining their respective sequence. These lights were not a reflection, as sunrise is approx 7:00 am.This lasted for about 6-7 minutes (from the time I noticed), then the sequence stopped abruptly.As a matter of confirmation: these were definitely not navigational beacons.  We see a good 30-40 flights daily pass overhead.  Further, we can clearly hear the jets as they pass through.  There was no sound whatsoever from these two lights, and hey were both located in the flight corridor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52677.html](http://www.nuforc.org/webreports/reports/052/S52677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
