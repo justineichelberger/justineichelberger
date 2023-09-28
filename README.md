@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:49 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Copley (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports 2 "white UFO's w/ red & green spinning lights"  hovering N & NW of Allentown, PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00853.html](http://www.nuforc.org/webreports/reports/000/S00853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morristown (MN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>am not quite sure what I saw on Saturday.  it was very odd.  I was laying back in my reclining chair on Saturday at the campground looking up at the dark blue sky.  It happened to be very dark blue due to the lenses being polarized on my sunglasses.  I was turning my head left to right making the sky brighter and darker depending on how the lenses were polarized.During this time, I saw what I originally thought to be 5-6 birds flying from North-East to South-West pretty high up.  It looked like they might have been seagulls as I could make out darker areas in the front and back.  Not having my glasses, I removed the sunglasses to see if I could identity what kind of birds they were.  Once I took the polarized sunglasses off they completely dissapeared.  Put the sunglasses back on and they were back again! Then the "birds" passed above some clouds which were much, much higher and were temporarily hidden behind the clouds.  The clouds they went behind were either Stratocumulus or Altocumulus clouds (6500' to 20,000').  No way I would have been able to see small birds at that altitude.  They also appeared to be "rolling" as they flew by.  And they did fly by very fast.  This all happened withing a matter of 10-15 seconds.  They went from one horizon to the other, apparently at a greater altitude than I originally thought and were not visible to the naked eye.  It was quite unsettling.   There were 5-6 for sure, and all flying in a "formation" or pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149349.html](http://www.nuforc.org/webreports/reports/149/S149349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
