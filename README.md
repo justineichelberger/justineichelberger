@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Williams (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright motionless chevron shaped light and two orange orbs.I was driving to a job site during the early morning hours of September 28, 2007.  I was traveling west on California Highway 20 when my attention was drawn to a bright light approximately 45 degrees above the horizon.  The bright light was positioned to the south of my location.  My first thought was the light was the sunlight reflecting off a high flying jet as the sunrise had not yet occured.  However, it soon became apparent the light was not moving.  I then pulled off the road and noted two other cars parked with the occupants of these cars looking toward the light.  The light appeared bright and had the shape of a chevron or "V" shape.  Directly below and to the left of the light(southeast of my position)  were two small orange orbs.  The height of the light and the orbs could not be determined but it was above the broken cloud cover.  I observe the light to remain motionless for approximaely 5 minutes.  It then rotated slighly and exposed a diffused red light on what appeared to be the rear area of the craft.  I continued to observe the light for an additional 5 minutes before leaving.  The two other cars and their occupants had left prior to my departure. I continued to observe the light as I drove towards my job site only loosing site of it when I arrived at the job site.  The surrounding mountains prevented viewing the light from my job site location.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58990.html](http://www.nuforc.org/webreports/reports/058/S58990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Volo (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Traveling single file,NE to SW, bright orange light disappearing into the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149292.html](http://www.nuforc.org/webreports/reports/149/S149292.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
