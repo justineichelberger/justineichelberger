@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Muskego (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bright flashesWhole sky lit up with flashes like flourescent lights turning on. 2X with approx 3 seconds between each flash. I was unable to keep looking because I had to look at the road. Very brilliant white flash that wasn't lightning! (only light fluffy clouds and a nearly full moon)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39519.html](http://www.nuforc.org/webreports/reports/039/S39519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown Object  making  unbelievable turn over RichmondI was travelling west on I-64 on my motorcycle near Richmond (RIC) Airport when I noticed a craft which I presumed to be a military jet at approximately 10-12 thousand feet come from behind a big cloud formation. It was heading SSW.  After a short distance, it turned back the way it came.  It didn't bank like a jet, It turned almost immediately around and headed back to the cloud. I watched for the next 5 miles for it to reappear but, it never did.  When I got to I95 heading south I saw a larger plane seemingly flying past this particular cloud formation. Not sure of what I saw here.((NUFORC Note:  Witness indicate a date of October 28, 2007, which is illogical.  We have amended the date above, to indicate a date of September 28, which makes more sense.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59054.html](http://www.nuforc.org/webreports/reports/059/S59054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
