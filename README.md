@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Port Richey (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Unique Flying Boomerang Seen !Keep in mind what I saw broke out of the dimension of space itself, was red only to the fact that the red part of the ufo was only like an outlined cartoon drawing, drawn with a red marking pen.  It was huge, moved quickly, and was a distint Boomerang shape. The Boomerang shape moved just like a boomering would be thrown in a cartoon drawing.  Flat, with no dimension to it.  When I saw it, I thought, a flying red tiger.  It did startle me at first. But it never hurt me, or landed either too.So what did I see?  Does it matter.  Not really!  My self I am just an average person with a penchant for Jesus, and his Father God Almighty!  I have been seeing the "lights in the sky" since age 8.  And you know what, depite my faith, I still see these "objects" around us almost daily.  Thank You ((name deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46660.html](http://www.nuforc.org/webreports/reports/046/S46660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Williams (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright motionless chevron shaped light and two orange orbs.I was driving to a job site during the early morning hours of September 28, 2007.  I was traveling west on California Highway 20 when my attention was drawn to a bright light approximately 45 degrees above the horizon.  The bright light was positioned to the south of my location.  My first thought was the light was the sunlight reflecting off a high flying jet as the sunrise had not yet occured.  However, it soon became apparent the light was not moving.  I then pulled off the road and noted two other cars parked with the occupants of these cars looking toward the light.  The light appeared bright and had the shape of a chevron or "V" shape.  Directly below and to the left of the light(southeast of my position)  were two small orange orbs.  The height of the light and the orbs could not be determined but it was above the broken cloud cover.  I observe the light to remain motionless for approximaely 5 minutes.  It then rotated slighly and exposed a diffused red light on what appeared to be the rear area of the craft.  I continued to observe the light for an additional 5 minutes before leaving.  The two other cars and their occupants had left prior to my departure. I continued to observe the light as I drove towards my job site only loosing site of it when I arrived at the job site.  The surrounding mountains prevented viewing the light from my job site location.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58990.html](http://www.nuforc.org/webreports/reports/058/S58990.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
