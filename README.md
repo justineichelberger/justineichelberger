@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fredericton (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a disk-like object flying flawlessly through the sky with a series of six or seven red lights....My boyfriend and I were walking back from seeing a movie and it was around midnight. We had stopped to look at the little dipper in the sky when he said "Did you see that falling star!" I was dissapointed that I hadn't seen it, and then he said "Holy Sh*t! What's that! Look!!"  I looked up to where he was pointing and it was obviously some shaped like a disk (saucer), we saw the curve to it perfectly, and it had a series of six or seven red lights on it. It was flying through the sky somewhat slowly, but we had to run to keep up with it so we wouldn't loose it behind some trees. There were NO clouds out except for a few that were obvious to the eye, but there were none around the object. We couldnt hear anything that would have made it an airplane and it was moving too flawlessly to be an airplane. We watched it for nearly a minute, and then it just dissappeared. It was so beautiful!((NUFORC Note:  We suspect the witness may mean approximately midnight on the evening of 28SE01.  We have changed the time here.  Please see other report for 2355 hrs. on 28SE01.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19677.html](http://www.nuforc.org/webreports/reports/019/S19677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Copley (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man reports 2 "white UFO's w/ red & green spinning lights"  hovering N & NW of Allentown, PA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00853.html](http://www.nuforc.org/webreports/reports/000/S00853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
