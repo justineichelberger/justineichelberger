@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:47 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Crofton (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four red balls of light in Northwestern sky in KentuckyWe were driving down the Pennyrile Parkway heading North through Crofton, Kentucky and towards Madisonville, Kentucky when off to our left (west) there was a long red streak of light that suddenly became four red round balls of light spaced apart at an angle that looked to us to be approx. 50 feet apart. Then they stayed in view for approx. 10 seconds and all together vanished at once. We saw the trail first it seems, before we ever saw the objects. There was another incident a couple of years ago that happened in Sargo, Kentucky that I would like to talk about if contacted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14316.html](http://www.nuforc.org/webreports/reports/014/S14316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whittier (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Large light and small light over Southeast L.A. CountyAt 6:40 p.m. on Saturday evening, September 28, 2013, I was parked on Whittier Blvd b/t Painter Avenue and Strub Avenue, when I noticed far in the distance a large but bright white light hovering high in the sky. I estimate the large light was approximately 10-15 miles away, to the northwest of my location, which would possibly place it closer to Los Angeles International Airport. For about 10 minutes, I simply watched it hover in the sky. During this time, I noticed a helicopter flying towards the northwest in the general direction of the light, but the helicopter was flying far below where this object was located in the sky, and it did not appear that the helicopter had seen or was targeting the object. At approximately 6:50 p.m. the large light began to drift slowly towards the north. Then, a second, very small white light suddenly appeared above the first light, and appeared to be moving towards the larger object. At this point, I was distracted by a small crowd of people, but I did take the time to point out the large light to a couple near me, who did indicate that they did see it as well. I looked up again a couple of minutes later, at approximately 6:55 p.m., and both objects had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102764.html](http://www.nuforc.org/webreports/reports/102/S102764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
