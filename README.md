@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Boomerang shaped craft glides across the sky early in the morningAt approximately 4:15-4:30AM I was in my front yard, leaning against my car parked in the driveway smoking a cigarette. The sky was very clear that night and there were hardly any clouds out, making the stars and neighboring planets exceptionally visible. As I gazed up at the stars, a boomerang shaped object glided at a moderate speed across my field of vision. Its altitude was much lower than that of a commercial airliner and was closer to the height a helicopter would be flying at. It was a very quiet night and yet when the object flew by, there wasn’t even the smallest audible sound. The object did not have lights and was rather dark but I followed it with my eyes until I couldn’t see it anymore. I was so convinced that what I saw was a UFO, I quickly ran inside and woke up my parents to tell them of my encounter. It was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72650.html](http://www.nuforc.org/webreports/reports/072/S72650.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Muskego (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Bright flashesWhole sky lit up with flashes like flourescent lights turning on. 2X with approx 3 seconds between each flash. I was unable to keep looking because I had to look at the road. Very brilliant white flash that wasn't lightning! (only light fluffy clouds and a nearly full moon)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39519.html](http://www.nuforc.org/webreports/reports/039/S39519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
