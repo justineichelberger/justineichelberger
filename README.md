@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 27 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bozeman (MT) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Blue flashing light Bozeman!It was a cloudy night.  Got home just off of west Babcock in Bozeman.  My girlfriend and I got out of car and looked up. I couldn’t believe my eyes.  Maybe it was a plane the first few seconds but no.  This flashing consistent blue very bright light peering through the clouds.  A disk or cigar of such.  Something out of a science fiction book.  Anyways, it was flashing for who knows how long but I observed it for 6 minutes before it stopped.  At one point the flashing was suspended and it turned back on constant.  And then continued to flash again for a few minutes.  At one point it appeared the light altered into a slight tint of green but I couldn’t tell really.  Anyways I contacted my best friend and brother.  They ran outside and saw it as well.  There were a total of 4 witnesses to my knowledge, but I am sure many of the Bozemanites in town witnessed it as well.  If you are reading this tonight from Bozeman, this is most likely the same sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143287.html](http://www.nuforc.org/webreports/reports/143/S143287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fredericton (Canada) (NB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a disk-like object flying flawlessly through the sky with a series of six or seven red lights....My boyfriend and I were walking back from seeing a movie and it was around midnight. We had stopped to look at the little dipper in the sky when he said "Did you see that falling star!" I was dissapointed that I hadn't seen it, and then he said "Holy Sh*t! What's that! Look!!"  I looked up to where he was pointing and it was obviously some shaped like a disk (saucer), we saw the curve to it perfectly, and it had a series of six or seven red lights on it. It was flying through the sky somewhat slowly, but we had to run to keep up with it so we wouldn't loose it behind some trees. There were NO clouds out except for a few that were obvious to the eye, but there were none around the object. We couldnt hear anything that would have made it an airplane and it was moving too flawlessly to be an airplane. We watched it for nearly a minute, and then it just dissappeared. It was so beautiful!((NUFORC Note:  We suspect the witness may mean approximately midnight on the evening of 28SE01.  We have changed the time here.  Please see other report for 2355 hrs. on 28SE01.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19677.html](http://www.nuforc.org/webreports/reports/019/S19677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [464](http://www.nuforc.org/webreports/reports/164/S164733.html)
-- [463](http://www.nuforc.org/webreports/reports/164/S164725.html)
-- [462](http://www.nuforc.org/webreports/reports/164/S164724.html)
-- [461](http://www.nuforc.org/webreports/reports/165/S165566.html)
-- [460](http://www.nuforc.org/webreports/reports/164/S164732.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
