@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:44 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange-colored bright lights or dots high in SE sky; 8-10 pairs moving slowly, independently in Z formationI live on the southeastern outskirts of Lexington KY.  High in the southeastern sky around 10:25 pm, were 8 – 10 sets of orange/amber colored bright lights or dots.  In pairs of twos in a Z shaped formation, they moved slowly but not in unison (the pairs did not seem to be like headlights).  Some disappeared and reappeared, moving slowly up/down or sideways, but not down; others were constant.  By the time I pulled out of traffic, there were only two independent ones left, and they were fading.  They just faded out one by one. I observed all of this for about 8 minutes (while driving and stopping on road.  (The orange dots were already in the sky when I noticed them, so do not know how long they were totally visible). When I first saw lights in the sky as making a 90 degree left turn, I thought it was fireworks up in the sky, but quickly realized nothing had been shot upward and nothing was falling back down, as in fireworks.  (Fireworks were a concern to me since my dog would keep me awake all night if she heard one firework.)  Personal demographics;  Very educated, professional Caucasian female, work in high-level technology and would never believe I would be filing a report like this.  Until you see something entirely unexplained, it is hard to fathom.  I am early sixties, working full time as a partner in a start-up nation-wide technology/cyber security business. I will email a graphic separately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102818.html](http://www.nuforc.org/webreports/reports/102/S102818.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Oswego (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Group of ten or more orange fireballs across Oswego, IL sky on 9/28/12My Wife's Description: A group of about ten of these bright yellow orange lights traveling horizontally across the sky over Oswego tonight before they fizzled out one by one? It was about 9:30pm. I caught two of them on camera.My Description: They were not lanterns, they were moving across the sky at a high rate of speed and they were clearly in the stratosphere.  They were bright orange and much larger than any airplane light or weather balloon.  They actually shimmered like balls of flame.  We could see them from the horizon as we turned the corner onto our street.   We watched for ten minutes as one by one they moved across the sky until they went past and then we couldn't see their light any longer.We turned off both our cars in the driveway so we could hear if their was any sound emanating from the objects and they were totally silent.There were three teenagers across the street watching the same thing.  I've never seen anything like it.  They moved irregularly, but fast.  They did not glow of a normal light.  They were more like glowing embers with a red core that you could see more clearly as the orange/yellow would fade, until finally when they were just past "overhead", they disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93153.html](http://www.nuforc.org/webreports/reports/093/S93153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
