@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>White Crescent shaped objects spotted.Heading down 377 Northbound just before coming Bear Creek in outer Fort Worth Texas (I am unsure of the exact name of the town) I spotted 2 white crecent shaped objects flying in the sky to my 9 o clock. Objects flew straight in unison until they disappeared. About a minute later I noticed to my 11 o'clock another group of 4 flying at the same speed until they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52731.html](http://www.nuforc.org/webreports/reports/052/S52731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Palestine (IN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A dozen fireballs seen in sky near New Palestine, INI went outside to lock my chicken house shortly after 8 p.m.  Walking back to the house I noticed a very bright fireball in the SSW moving silently to NNE.  Then two more followed.  I thought that was all but then another came moving in the same direction and two of the former ones seemed to stop and come back toward the last one.  I called my husband to come out and we saw about seven more.  There could have been more before I saw the first one.  I took a photo with my phone and my husband tried to see it with binoculars but he was unable to identify anything.  They looked like fire and were not nearly as high as the planes that were going over, and it totally silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102774.html](http://www.nuforc.org/webreports/reports/102/S102774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
