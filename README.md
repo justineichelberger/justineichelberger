@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A ball of light moving very quickly.I’m not even sure if it was a UFO.  I was looking out at the western sky and I thought I saw a shooting star, because it was going so fast.  Then the object suddenly stopped and spun around in a circle about 3 times and quickly flew off in the direction that it came.  This object seemed fairly close.  I would say about 500-1000 ft. easy.  It seemed to be getting bigger as it circled around.  This is about as much information that I can provide.  The object was moving very fast.  I could hardly keep up with its movements.  It took off toward the northern sky section.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78049.html](http://www.nuforc.org/webreports/reports/078/S78049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lexington (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Orange-colored bright lights or dots high in SE sky; 8-10 pairs moving slowly, independently in Z formationI live on the southeastern outskirts of Lexington KY.  High in the southeastern sky around 10:25 pm, were 8 – 10 sets of orange/amber colored bright lights or dots.  In pairs of twos in a Z shaped formation, they moved slowly but not in unison (the pairs did not seem to be like headlights).  Some disappeared and reappeared, moving slowly up/down or sideways, but not down; others were constant.  By the time I pulled out of traffic, there were only two independent ones left, and they were fading.  They just faded out one by one. I observed all of this for about 8 minutes (while driving and stopping on road.  (The orange dots were already in the sky when I noticed them, so do not know how long they were totally visible). When I first saw lights in the sky as making a 90 degree left turn, I thought it was fireworks up in the sky, but quickly realized nothing had been shot upward and nothing was falling back down, as in fireworks.  (Fireworks were a concern to me since my dog would keep me awake all night if she heard one firework.)  Personal demographics;  Very educated, professional Caucasian female, work in high-level technology and would never believe I would be filing a report like this.  Until you see something entirely unexplained, it is hard to fathom.  I am early sixties, working full time as a partner in a start-up nation-wide technology/cyber security business. I will email a graphic separately.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102818.html](http://www.nuforc.org/webreports/reports/102/S102818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
