@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:46 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:50 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>UFO might have been invisible to the naked eye but my digital camera got it!!!I was not aware of the UFO's appearance at the time this picture was taken but noticed it on 10-21-08 while I was reviewing my pictures for editing and filing.These are copies of the original which I still have. I also have the whole file of pictures that I took on that day to show that there were no clouds in the sky or any foreign material on the camera lens. The edited ones are enlargements out of the original.The picture was taken outside on a sunny, cloudless, clear, warm day at 10:41am MDT on 09/29/2008 with my NIKON COOLPIX 8700 digital camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66365.html](http://www.nuforc.org/webreports/reports/066/S66365.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Eighty Four (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Possibly 3 all white objects spotted in washington county PennsylvaniaI was driving with my husband in the passenger seat and my mother in law in the back seat.  I noticed out of the corner of my eye an object in the sky.  I got everyones attention and we all looked while driving down the road.  I was driving so I couldn't look for long so my husband probably got the best veiw of it.  I noticed one at first.  It was all white. It had no flashing lights or any other colors.  At first it looked stationary but the longer we looked we could tell it was slowly moving.  After looking for a couple minutes I noticed an airplane directly above us and with that we compared the speed of the airplane to the unknown objects to verify our sighting.  When we were about 2 minutes from our house, I spotted another one, this could be a second object or it could be the same one from before.  This object we watched go behind this big black cloud and we spotted another one in unison with the one that disappeared into the clouds.  I've never witnessed anything like this in my life so that's how I knew it was strange and out of the ordinary.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143623.html](http://www.nuforc.org/webreports/reports/143/S143623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
