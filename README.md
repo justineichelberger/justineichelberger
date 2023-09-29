@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lihue (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green light moves in akward movementsWhile driving down the 51 east - 1 mile past the Lihue airport, there was a green light (single light) moving Westbound which appeard to be 5,000 ft or above- moving in right to left motions, zig zagging along, then dissapearing into the clouds- It was traveling slow- but in uniqe patterns- It was about as big as a geen boat light- non-blinking- non-glowing((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59101.html](http://www.nuforc.org/webreports/reports/059/S59101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Daytime (sunset) sighting of an object that looked similar to a space station.September 29, 2016 7:15 PM EDT.I stepped out on my back deck to enjoy a break in the summer heat and heard a large airliner pass by overhead in a north-easterly direction, which is a normal route out of Atlanta Airport.  The airliner probably had not reached its cruising altitude but was above 15,000 feet.  I could hear and see it very well.As I watched the airliner travel away from me I noticed another craft that was west of the airliner traveling to the southeast and was quite a bit higher than the airliner.  The craft looked as if it were descending directly at me in a nose down fashion.The setting sun reflected brilliantly from the craft in a golden color, which made it difficult to know exactly what color it was.  If I had to guess the color was probably silver.  At first it looked like the International Space Station with two sets of solar panels extending from each side making it look similar to a bi-plane.The reflected sun light radiated around the craft revealing a solid object, at this point its direction of travel was due east.  After a few seconds the object changed course to due south as it approached where I was standing.  It travelled south slowly away from my position but the appendages similar to bi-plane wings or solar panels had changed and appeared to be on the west or right side of the object.I called my daughter out to see the object.  Her first reaction was “it’s a plane”.  I sort of disputed that by saying “where’s the wings”.  She said “well it doesn’t seem to have any”.  At that point the object was cigar shaped with appendages on its right side.  We watched it continue south and I looked away to come inside the house and my daughter said it disappeared.  I looked one last time and didn’t see it.Summarizing: the object had physical shape, brilliantly reflected the setting sun producing a gleaming effect, made no noise, had no blinking lights, traveled in very steady manner, changed direction and shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130423.html](http://www.nuforc.org/webreports/reports/130/S130423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
