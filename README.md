@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Palmdale (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three triangular shapes with green lightsOn Sep 29, 2020 around 630 pm, we were driving southbound on Hwy 14 just north of Edwards Air Force Base in Palmdale, CA. My husband and I saw small green lights, he thought there were two sets but I saw three, what could have been fast flying synchronized objects larger than my grandson’s drone.  They flew across from the northbound side to the southbound in an angled approach about 20-30 feet off the pavement.  They flew directly across our windshield view and then flew over toward the passenger side window where they appeared to hover for an instant before they took off.  I told my husband I felt like I was being stalked. We were so surprised, and it happened so quickly that even though my cell phone was in my hand (holding it for directions) I didn’t have a moment to think about trying to get a photo. The next exit said Edwards Air Force base so either UFOs were checking us out, or the Air Force was practicing some kind of maneuvers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159883.html](http://www.nuforc.org/webreports/reports/159/S159883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plymouth (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Sphere shaped object very similar to a star very close to it, only larger and brighter.A sphere that looked exactly like the star next to it only slightly larger. Was in the eastern sky moving what appeared to be straight up. The sphere faded 3 or 4 times until it dissolved and faded into the unknown distance. PS IT WAS CRAZY!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46614.html](http://www.nuforc.org/webreports/reports/046/S46614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
