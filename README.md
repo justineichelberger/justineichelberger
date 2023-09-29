@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 28 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:46 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Unknown Object  making  unbelievable turn over RichmondI was travelling west on I-64 on my motorcycle near Richmond (RIC) Airport when I noticed a craft which I presumed to be a military jet at approximately 10-12 thousand feet come from behind a big cloud formation. It was heading SSW.  After a short distance, it turned back the way it came.  It didn't bank like a jet, It turned almost immediately around and headed back to the cloud. I watched for the next 5 miles for it to reappear but, it never did.  When I got to I95 heading south I saw a larger plane seemingly flying past this particular cloud formation. Not sure of what I saw here.((NUFORC Note:  Witness indicate a date of October 28, 2007, which is illogical.  We have amended the date above, to indicate a date of September 28, which makes more sense.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59054.html](http://www.nuforc.org/webreports/reports/059/S59054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>UFO might have been invisible to the naked eye but my digital camera got it!!!I was not aware of the UFO's appearance at the time this picture was taken but noticed it on 10-21-08 while I was reviewing my pictures for editing and filing.These are copies of the original which I still have. I also have the whole file of pictures that I took on that day to show that there were no clouds in the sky or any foreign material on the camera lens. The edited ones are enlargements out of the original.The picture was taken outside on a sunny, cloudless, clear, warm day at 10:41am MDT on 09/29/2008 with my NIKON COOLPIX 8700 digital camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66365.html](http://www.nuforc.org/webreports/reports/066/S66365.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [415](http://www.nuforc.org/webreports/reports/164/S164717.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164868.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164871.html)
-- [412](http://www.nuforc.org/webreports/reports/164/S164723.html)
-- [411](http://www.nuforc.org/webreports/reports/164/S164708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
