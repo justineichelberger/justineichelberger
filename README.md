@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:48 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rockford/Belvidere (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>On our way to Belvidere from Rockford, we witnessed the first two objects.  Orange balls of light, one at horizon level, the other at approx 35°  Objects would dim and disappear, then light up again. After roughly 5-6 minutes, they seemed to mimic normal aircraft with flashing lights, then would return to the orange sphere and slowly rise until out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136441.html](http://www.nuforc.org/webreports/reports/136/S136441.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange lights in ArizonaSaw lights while talking to friend on phone. Finally realized my tablet was in the truck. I turned on tablet and started recording it.  After it disappeared, I played the video back and noticed that you can see the lights move upward at a fast rate of speed.  Sorry for quality, my tablet is 4 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114088.html](http://www.nuforc.org/webreports/reports/114/S114088.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
