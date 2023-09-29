@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge rectangular shaped object in the night sky with 4 bright white lights, two on top and two on the bottom with flashing red lights.I was sitting outside having a smoke with my roommate, I look up to the night sky when I saw what looked like a plane hovering extent, but I could not locate the any plane engine sounds or noise. I turn to my roommate and asked him What kind of planes look like that.  He couldn't recall any kind of plane that had four extremely bright white lights on the belly of the plane/craft.  The two of the white lights were on top then the other two lights were down lower making the shape of a rectangle.  We watched it hover for a second when two bright red lights started flashing at us.  The UFO started flying away to the left when in the next second it was suddenly on the right side of the Sky where we watched it gain speed then change its course now flying straight up.  We watched it until we couldn't see the tiny red lights any more</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93157.html](http://www.nuforc.org/webreports/reports/093/S93157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fiery object looking like craft in movie "it came from outer space" or comet-like with fiery tail observed traveling in nw direction from nashville, tn. it traveled in horizontal fashion at very high altitude approx same as airliner cruising altitude. seemed to move slowly but was probably very fast due to high altitude. observed 5 minutes till faded in distance.one object observed and appeared at first to be a fiery comet-like object-yellow-gold in color--object was totally immersed in the fire-not separated. it traveled at an angle from me so that i could observe the tail of the fire, but gradually became a circle of light as the distance increased from my position. i only observed the object travelling across 1/4 of the sky as i didn't see it until i happened to look up after leaving the post office. the best way to describe what the object actually looked like is to compare it favorably to the object that crashed in the movie "it came from outer space" or the objects in "war of the worlds" but the first movie is the closest. i must also state that the object never came down, but travelled horizontally the entire time observed. it appeared to move very slowly but was actually moving very fast. the great altitude was deceptive when judging speed. i am an insurance agent and a lifelong resident of nashville. i am 52 years old and have had three sightings in my life: 1st 1957--2nd 1987--3rd the current report.duration of sighting was 5 minutes.there was no contrail-just a small fiery tail.((NUFORC Note:  Please see report from Memphis, TN, for 07SE99 at 0405 hrs..  Similar event.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09997.html](http://www.nuforc.org/webreports/reports/009/S09997.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
