@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cherry Spring (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>light crosses sky in 4-5 secondsWe were observing the night sky at Cherry Springs Park, an official dark skies astronomy state park.  We observed many satellites that night.  However, we saw a light, whose size and appearance resembled a satellite.  It was a tiny speck going across the sky, about 40 degrees up.  The strange part is that I have NEVER seen a satellite cross the sky as fast as this did.  It crossed the entire sky in a matter of 4 to 5 seconds from north to south.  I have seen meteors, satellites, the space station.  Again, I have never seen anything cross the sky so fast. Wondering what it could have been...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59022.html](http://www.nuforc.org/webreports/reports/059/S59022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Provo (UT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>huge rectangular shaped object in the night sky with 4 bright white lights, two on top and two on the bottom with flashing red lights.I was sitting outside having a smoke with my roommate, I look up to the night sky when I saw what looked like a plane hovering extent, but I could not locate the any plane engine sounds or noise. I turn to my roommate and asked him What kind of planes look like that.  He couldn't recall any kind of plane that had four extremely bright white lights on the belly of the plane/craft.  The two of the white lights were on top then the other two lights were down lower making the shape of a rectangle.  We watched it hover for a second when two bright red lights started flashing at us.  The UFO started flying away to the left when in the next second it was suddenly on the right side of the Sky where we watched it gain speed then change its course now flying straight up.  We watched it until we couldn't see the tiny red lights any more</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93157.html](http://www.nuforc.org/webreports/reports/093/S93157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
