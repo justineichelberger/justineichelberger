@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tonawanda (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>object passed overhead low in atmosphere silently with red and white lights around perimiter and orange tail glow. 5th sighting of thisSeen stationary several times before directly below orions belt but passed over the house silently this time with several lights and an orange trail behing it.  Aprox. twice the size of a passenger jet.  Also have seen this object stationary in another part of the sky and one other time moving earlier this summer.  Ligts change from orange glow to flashing red and white, and also go out at times revealing the shape of the craft.  Once saw two helicopters moving to its location but it disappeared before they could intercept it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102733.html](http://www.nuforc.org/webreports/reports/102/S102733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Media (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>During Astronomy Lab course at Delaware County Community College. Students were looking at the constellation Cassiopeia when left of the center star in the constellation, 2 other stars appeared.  Top one began at magnitude 0 and gradually increased to magnitude -3, other star began at magnitude 1 and increased to magnitude 0 then they both dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46628.html](http://www.nuforc.org/webreports/reports/046/S46628.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
