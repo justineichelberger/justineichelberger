@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange lights in ArizonaSaw lights while talking to friend on phone. Finally realized my tablet was in the truck. I turned on tablet and started recording it.  After it disappeared, I played the video back and noticed that you can see the lights move upward at a fast rate of speed.  Sorry for quality, my tablet is 4 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114088.html](http://www.nuforc.org/webreports/reports/114/S114088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Pickett (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>bright, flashing strobe lights - lined up vertically -across the sky - then one group of four yellow colored lights in a horizontal rowWe saw three groups of white strobe lights that were vertical and went across the sky from the northwest to the northeast.  They moved very fast. Then about five minutes later we saw them in the northwest again.  Flashing quickly and moving very quickly.  Then 10 minutes later we saw one bright yellow light and then another underneath it.  And then within a minute, four very bright yellow lights in a horizontal row (this was in the northwest sky).  Amazing.  Any idea what this was?  Can anyone please help explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39555.html](http://www.nuforc.org/webreports/reports/039/S39555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
