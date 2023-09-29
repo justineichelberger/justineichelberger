@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:41 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Jesus Christ enlighten us.Red and white bluish blinking hovering above anchorage, Alaska.  Viewing at Chugach foothills park looking at Direction North West.  Light is double size of big dipper stars.  Sighting time 21:20 on 09/29/2012  Jesus Christ enlighten us!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93186.html](http://www.nuforc.org/webreports/reports/093/S93186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cherry Spring (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>light crosses sky in 4-5 secondsWe were observing the night sky at Cherry Springs Park, an official dark skies astronomy state park.  We observed many satellites that night.  However, we saw a light, whose size and appearance resembled a satellite.  It was a tiny speck going across the sky, about 40 degrees up.  The strange part is that I have NEVER seen a satellite cross the sky as fast as this did.  It crossed the entire sky in a matter of 4 to 5 seconds from north to south.  I have seen meteors, satellites, the space station.  Again, I have never seen anything cross the sky so fast. Wondering what it could have been...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59022.html](http://www.nuforc.org/webreports/reports/059/S59022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
