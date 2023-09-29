@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Gunnison area (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Headed west on Highway 50.  About 16 miles east of Gunnison CO saw large circular white light to the south, headed west at about 60 mph.Coming down Monarch Pass and watched a unusual cloud formation to the south of Pass. Roughly 16 miles east of the town of Gunnison I saw a bright light to the south above the skyline of the mtns.  Way to big to be a star as there were a few stars visible behind it.  Seemed to big and bright to be an airplane. woke wife to see it, which she really didnt care. kept watching while driving and seemed to be moving about same speed 60mph.It was headed west.  Stopped in gunnison to gt some coffee and proceeded on.  Light was still visible to the SW ahead.  Seemed to actually be dropping in altitude from the skyline of mtns.  lost sight of it a few times when i got to blue mesa resevoir area. last saw it at about the easterly bridge area.  Seemed like it went down (landed maybe?)around big blue creek area. dissapeared. didnt see it anymore after that.  Sometimes i would see a airplane flying by to the south and i could plainly see flashing lights,and they were much smaller in! size.  Weird.  the speed is what gets me because it seemed to be going same speed as us.  just slighty ahead and SW. I think there is a fancy lodge up in that area somewhere. Theres just no way it could have been a helicopter because of brightness ,size,no flashing lights and speed. seems to slow for a chopper. I dont kmow, but it was to me unexplainable. wife did see it numerous times also. i would keep waking her, saying what is that? she would look say i dont know and go back to sleep. it kind of looked like a large star in the sky with maybe just very slight flickering.distance was kinda hard to tell but probably within 10 to 15 miles from us? hard to say. Thanks</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102831.html](http://www.nuforc.org/webreports/reports/102/S102831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bismarck (ND) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Sept 29, 2011   3 dot triangle form fast moving, group for 8-10 seconds, no sounds no strobes no idea.On Sept 29th 2011 I was in my backyard just thinking and pacing around, while I spend my time outside I often look at the stars.  While I was looking up this time (I was looking west) I saw 3 dim yellow dots (they looked like average stars) in the form of a slight obtuse triangle.  They were not blinking like strobe lights, they were solid dim lights.  These dots were in perfect form flying the exact same speed (which was about 3x as fast as airliners usually fly).  They flew NW until I could no longer see them due to trees and houses.  The whole encounter lasted 8-10 seconds and had heard no sounds of jets or planes, all was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84284.html](http://www.nuforc.org/webreports/reports/084/S84284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
