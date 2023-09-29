@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Stephen (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On the evening of September 29, 2011, my Husband and I took our dog outside for a walk.  As we always do we went over to the driveway and looked up at the stars.  It was a clear night, so we were able to see many.  We were heading back inside when my husband turned around and said “look”.  When I looked to the right I saw between 10 to 12 lights blinking in the night sky a little above the trees.  I was amazed.  There was no sound of planes in the sky and they were not there just 5 seconds before.  We went up to the fence in the side yard to get a better look.  As 4 blinking objects went to the left we saw a “falling star” that did not seem like a usual falling star. It was slow and in the sky longer than others we have seen.  As the 4 blinking objects continued to the left we heard two Air Force jets booking it.  We looked and they were heading in the direction of where the 4 blinking objects went.  We waited for a little while and continued looking in the ! sky and we saw another falling star in the same area and path that the one took before.  We stayed out for a little while longer looking up at the sky to see if the Air force jets would go back over and I saw another falling star heading from right to left.  We stayed out for about another 10 minutes watching the sky before we went inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84241.html](http://www.nuforc.org/webreports/reports/084/S84241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lihue (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green light moves in akward movementsWhile driving down the 51 east - 1 mile past the Lihue airport, there was a green light (single light) moving Westbound which appeard to be 5,000 ft or above- moving in right to left motions, zig zagging along, then dissapearing into the clouds- It was traveling slow- but in uniqe patterns- It was about as big as a geen boat light- non-blinking- non-glowing((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59101.html](http://www.nuforc.org/webreports/reports/059/S59101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
