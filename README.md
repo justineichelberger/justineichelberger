@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:46 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 29 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bardstown (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>2 Triangular shaped craft moving overhead separated and moving at a slow rate of speed with no audible noise.  They moved together pretty much at the same rate of speed and pattern.  The nuderneather of both craft we’re covered with lights  lit up like a “Christmas tree.”  They did not blink.  I watch them until they disappeared in the distance.  I have never seen anything like this in my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149372.html](http://www.nuforc.org/webreports/reports/149/S149372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Bellevue (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>saw perfectly sphered shaped white object tracking very visibly across slowly accross the skyWe were looking up at the sky and saw a sphere shaped form tracking a pattern such as an airplain would take.  Moved slowly.  Perfectly formed.  Not moving fast.  Very visible.  Unlike anything I ever saw.  We just watched it track across the sky.  It felt very weird watching this as it was something I couldn't explain.  It was white in color, not silver or what I would ever think a UFO would look like.  It definitely was not a cloud.  Too perfectly formed and against a blue sky and in too much of a perfect pattern.  Then it just disappeared from sight. It didn't go behind a cloud, it just disappeared.  I felt I had to say something as it still leaves me with a strange feeling.  Thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84231.html](http://www.nuforc.org/webreports/reports/084/S84231.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [357](http://www.nuforc.org/webreports/reports/164/S164712.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164862.html)
-- [355](http://www.nuforc.org/webreports/reports/164/S164860.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164856.html)
-- [353](http://www.nuforc.org/webreports/reports/159/S159958.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
