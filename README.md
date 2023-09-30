@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Hohonfels (Germany) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 840.0 - 840.0 minutes.</sub><blockquote><sub>Hohenfels training facility USAEURO  Three NCO's watched a strange pulsating light in the night sky.  They remarked to each other about it then went to bed in sleeping bags as we were in training at a military camp.The guard told the story the next day.  He said as soon as the NCO's went to bed he saw the craft in the revine to the west of our position.Not knowing what to do he hopllered for anyone.Only the next day would one of the NCO's report he heard him holler but could not get up.He was a seasoned military man and this behavior was abnormal.The next thing the guard related was three beings exited the craft and came towards him saying "in his mind don't be afraid we don't want to hurt you".The guard became hysterical and threw an aiming stake at the three objects.The next thing he relayed was one of the beings was behind him so he ran away about one quarter mile to another training site.Trying to get some of the other members there to come back with him with no success they calmed him and said wait until daylight.He did so and came back to our position at daylight and said he saw a silver cigar shaped craft in the revine and thought to himself we all must be dead.He ran back to the previous position and relayed the information to them.Still they would not come with him to our position.We awoke to find no guard on duty and at the same time saw the guard aproaching us from the hill crying saying I thought you were all dead.That is where the story began for me.This guard was exited from our company and the commanding Colonel said since only one person saw the actual event he couldn't file an official report.The tracked 13 ton vehicle I drove was completely fried as far as electronics  go.I have no doubts I will ever know what happened this night but wish I could.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55147.html](http://www.nuforc.org/webreports/reports/055/S55147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was standing on a balcony and was facing north/east.  I saw a circular shape to the upper right side of my vision.  It was much larger than a star, and was a very vidid, white light.  As it got my attention, I focused on it.  Just then, after being stationary for a very brief moment,  it darted from being in the upper right of my vision to the lower left.  Initially I thought I was witnessing a falling star, but I automatically knew that it was much too large.  The speed at which the object left the upper right side of my vision and darted down to the lower left was way to fast to have been any type of aircraft.  Also, the intensity of the light never changed.  It was if it moved from the upper right to the lower left within a second and then just disappeared or blacked out.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39571.html](http://www.nuforc.org/webreports/reports/039/S39571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
