@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:47 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Portal (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I want to talk to the East Dublin couple to compare notesAs I reported earlier I have watched it for months, not until it flew over did I decide to come forward. I do not have video of it coming over me but would have been a show stopper. I feel strongly the thing in this video is what went over my house. I just posted the video on youtubehttp://www.youtube.com/watch?v=oqTWDx8nNlU YouTube - Portal Georgia UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61419.html](http://www.nuforc.org/webreports/reports/061/S61419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in North Harringay (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>The Thing that landed in the United Kingdom.Is this Britans Roswell?  Reports of a UFO having crash near a school in a British town started circulating recently  and even made the local paper.  There were even photos included  and a description of the events  told.  However the newspaper reports went on to reveal it was all a hoax for the local school to provide a a topic for a creative writing day for the children of the School and the jolly local police man even joined in.. http://www.tottenhamjournal.co.uk/news/ufo_crashes_into_north_harringay_primary_school_playground_1_2825363   People were soon posting comments to the news article online and even joking about people taking it for real.So all seems fine and happy but there is an undercurrent going on that is not being reported and people secretly point out errors and false facts in the article, photos and other details..Initial reports of it having been a real UFO have subsided with talk of people being pressured to change their stories or silenced with threats of loss of income, Benefits, job and home.Reports of 12 inch to 6 inch tall dolls or figures being moved in an ambulance have slowly gone quiet and hushed along with mentions of them having elongated heads. One report which has not been substantiated is that one of the figures had a USA flag on the arm of its  clothing.People point out how there are financial cuts going on everywhere in the United Kingdom and no money exists in schools to stage such acts for the children, when jobs, staff and building cuts are taking place.Police officers in the United kingdom are not allowed by law to take part in uniformed in such staged events.A parent is claimed to have  built the UFO , staged the crash and pretended to be a forensic  officer all in double quick time just to help the children have a creative writing day.People comment of disinformation going on and posted online.  Some say the school angle was staged to cover what really landed elsewhere and during all the attention on the school the real event site was cleared.People point out that on a slow news day the reports made the local paper yet strangely regional TV and newspapers  were quiet. So just what really did happen what really did crash?  People now won't  talk or only tow the official line after all Jobs and homes are hard to come by in the United Kingdom right now.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102958.html](http://www.nuforc.org/webreports/reports/102/S102958.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
