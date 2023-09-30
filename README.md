@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:23 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159957.html](http://www.nuforc.org/webreports/reports/159/S159957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Illuminated satellite like object that turned multiple times at extremely high altitudeUnknown single craft at extremely high altitude multiple lights? (illuminated) in southeast sky, travelling southwest when first noticed, I thought it was a satellite crossing the sky until it turned multiple times (similar to a helicopter) but proceeded in same general southwest course. I would estimate altitude of 30-thousand feet. After watching for 5-minutes I ran inside to get binoculars but when I got back out two minutes later I could not find it. I continued watching the sky for another hour but could not find the object again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149342.html](http://www.nuforc.org/webreports/reports/149/S149342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
