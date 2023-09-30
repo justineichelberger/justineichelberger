@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Flying object in the background of our video in video class flies 100 yards in less than 1/2 a secondWe were taking a video in video class and we didnt see it, and when we went back through the footage and slow down the frames, in 1/2 of a second, an unidentified flying object flew 100 yards. There's no way an airplane would be that low to the ground, and we have video footage, and no bird can fly 212 mph.  The flight pattern was an arc towards the atmosphere..we have video!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78140.html](http://www.nuforc.org/webreports/reports/078/S78140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>I was finishing up working on my wife car when I notice Two white lights in the sky right next to each other. I ran inside to get my wife so she could see em ,the lights were blinking stayed in the same spot for about 15 minutes or so , then stared to move north in the sky it didn't make any noise. This lights wasnt a plane etc. These lights where too bright. After it disappeared the dogs throughout the neighborhood were howling strange. It was odd like as if they were howling circle around me but from a distance from me. I've never seen anything like this. 2 circle slowly blinking big bright lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159666.html](http://www.nuforc.org/webreports/reports/159/S159666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
