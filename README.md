@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:45 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:23 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orland Park (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two red lights of undetermined origin over Orland Park, IL (USA)In the southern sky, saw two red lights in a line, not quite aligned north to south but oriented just a bit to the northeast-southwest of that line. As the lights moved in the sky, their movement relative to each other was independent though related, and they seemed to stay at the same altitude. They were spherical in shape and very prominent in the night sky. They did not blink or emit any noise or other light. They were first observed in an area south of my position but gradually moved to the north and east, re-orienting to a more northwest-southeast line relative to each other. The movement did not match the observed movement of a balloon or blimp. If unpowered, the wind that night should have carried them away. Unable to make out any more detail using binoculars.(NUFORC Note:  All reports of the two sightings (23:15 hrs., 30SE05, and 01:10 hrs., 01OC05) from Illinois will be passed along to Dr. Mark Rodighier, Director of the CENTER FOR UFO STUDIES, Chicago, as well as to Mr. Dave Marler, State Director of the MUTUAL UFO NETWORK for the State of Illinois, who will pass them along to his Field Investigators in the Chicago area.  We would be most grateful if witnesses to this event would please submit a detailed report of their sighting, using the ONLINE REPORT FORM on our website, and we will pass those reports along to those two investigators above.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46771.html](http://www.nuforc.org/webreports/reports/046/S46771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jonesboro (AR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 143</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159957.html](http://www.nuforc.org/webreports/reports/159/S159957.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
