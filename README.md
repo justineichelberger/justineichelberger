@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 Red light ufo's passing across sky 9/ 30/05 from west to east and 3 red lights ufo's on 10/1/05 w/ ext. video2 round smaller Red flashing lighted objects were in the Sky as I was leaving my home late on Friday evening going from a west to an easterly direction on a moonless, very clear night. I video taped only about 2.5 minutes as I had to go into the house after watching them with neighbors, family and friends, for about 4-5 minutes, find my camera, a usable tape, etc. Each one went from about 50 degrees in the westerly sky to about 110 degrees from horizontal in the eastern sky. One left by almost instantaneously shooting about 5 to 7 degees across the sky the other appeared to go straight up quickly getting smaller quickly and vanishing in an upward fashion. I saw the other 3 objects at 1:10 am on 10/1/05 also and have extensive non-digital video tape on them,( I witnessed a low very large, bright Ufo last November on a cold moonless evening in the northwestern sky for 2 minutes in 2004. All incidences were reported by me to local police each time. ((personal information deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46904.html](http://www.nuforc.org/webreports/reports/046/S46904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mt. Vernon (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 119</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149666.html](http://www.nuforc.org/webreports/reports/149/S149666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
