@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:33 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Phoenix (AZ) reported seeing craft that fit the description of some 'Flash' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>I was finishing up working on my wife car when I notice Two white lights in the sky right next to each other. I ran inside to get my wife so she could see em ,the lights were blinking stayed in the same spot for about 15 minutes or so , then stared to move north in the sky it didn't make any noise. This lights wasnt a plane etc. These lights where too bright. After it disappeared the dogs throughout the neighborhood were howling strange. It was odd like as if they were howling circle around me but from a distance from me. I've never seen anything like this. 2 circle slowly blinking big bright lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159666.html](http://www.nuforc.org/webreports/reports/159/S159666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ulaanbaatar (Outer Mongolia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>UFO over Ulaanbaatar, MongoliaI live in Ulaanbaatar, Mongolia. At 19:10 i was going to internet cafe by bus.It took 20 min's travel from home. Then, i use look up at the sky, very interested in astronomy, at 19:35 i thought it was airplane, but it wasn't. That thing was flashing high intensity light, like on n off. I know it wasn't airplane, because airplane don't flashes their light at day light... Then i observed very carefully it was also ejecting some kind of black smoke thing, and that smoke thing was very dim.After 2 minutes later, UFO disappeared.  I had experience, i checked her trajectory, suddenly UFO appeared again, this time UFO ejecting light flares, and light was off.when i looked carefully, it was huge disk and colored silver.... i was surprised and happy...after 2 minuts later UFO starts her light on and off again... then UFO accelerated suddenly fast, like instantenous, smth... then it disappeared very very fast........... so , i decided to aprove my sight, i called to the local airport for ask about any plane that currently landing, they say NO, then i called to the military (RADAR control tower) they also said NO !!!! it was trully UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46662.html](http://www.nuforc.org/webreports/reports/046/S46662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
