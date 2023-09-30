@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aurora (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright blue green streaking light above Aurora, CO at approx 1:13 am.Driving west bound on Moline St and crossing Colfax ave in Aurora, CO and saw a very bright blue green light streaking through the sky.  I thought is was a shooting star but this was much bigger and the blue green light came out of nowhere, just appeared right above me and shoot down western sky.  This happened at approximately 1:13am.  It was so bright I'm sure that the cars on the street saw this too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122517.html](http://www.nuforc.org/webreports/reports/122/S122517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Morrowville (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Fast, noiseless, highly reflective object seenEarlier this afternoon, I was standing on the deck of my house (east side) when I happened to look up and see a bright, shining (looked like polished aluminum) seemingly spherical object moving from east to west across the sky.  The duration of the sighting was limited because the object was near the sun, making it necessary for me to use the eave of the house as a sun-block--which, in turn, meant that the object dropped beneath the roof of the house within perhaps 15-20 seconds.  By the time I could run to the other side of the house, I could no longer see it. In regards to the object itself, a number of things struck me as strange.  First, its shape: Unlike the many airliners that traverse the sky overhead, at altitude, during the course of any given day, this object had no wings that I could discern.  Second, and also quite unlike an airliner, the object made no sound whatsoever.  Third, it appeared to be moving at a rate well above that of an airliner. This is speculation on my part, but I would estimate--given what I would take to be the rough altitude of the object (20-30,000 ft.), and given its angular speed--that the object, whatever it was, was moving well in excess of the speed of sound.  This would seem to point to a military aircraft of some type...but, again, the object made no noise at all, and it is my experience that all jet-propelled aircraft, almost regardless of their altitude, make noise audible to people on the ground. As for myself: I am 23 years old, and a graduate of Harvard University.  I'm currently at home, visiting my parents on their farm 2 miles east of the small town of Morrowville, KS.  I am a licensed pilot with an instrument rating.  My hearing is excellent, and my vision is 20/20 with glasses (which I was wearing at the time of the sighting).  Btw, the sky was clear during the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09987.html](http://www.nuforc.org/webreports/reports/009/S09987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
