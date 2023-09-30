@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>I was standing on a balcony and was facing north/east.  I saw a circular shape to the upper right side of my vision.  It was much larger than a star, and was a very vidid, white light.  As it got my attention, I focused on it.  Just then, after being stationary for a very brief moment,  it darted from being in the upper right of my vision to the lower left.  Initially I thought I was witnessing a falling star, but I automatically knew that it was much too large.  The speed at which the object left the upper right side of my vision and darted down to the lower left was way to fast to have been any type of aircraft.  Also, the intensity of the light never changed.  It was if it moved from the upper right to the lower left within a second and then just disappeared or blacked out.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39571.html](http://www.nuforc.org/webreports/reports/039/S39571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Delray Beach (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights moving in formation at high rates of speedOn Tuesday night I first saw five separate lights flying north to south in linear formation.  A couple of the lights flew erratically.  They were flying at extremely high altitudes at a very high rate of speed.  Thirty minutes later there was another formation, consisting of around 8 lights, which flew in a v formation.  There were a few lights in this formation that were also flying erratically.  Neither formation was perfect, each were clearly formed of individual craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114128.html](http://www.nuforc.org/webreports/reports/114/S114128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
