@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Summit (IL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was sitting in the back seat of my mom's car at the Summit Amtrak station waiting for my sister's train to arrive.  It was approximately 8:30 when I saw two flashing red lights in the northwest sky.  I saw the two flashing red light for about 2 min.  The lights were pulsating and moving at the same time.  They moved upward in the sky then came down on an a left angle and dissapeared.  I tried to show my mom but she couldn't see it with the reflection of the street light on her front window.(NUFORC Note:  All reports of the two sightings (23:15 hrs., 30SE05, and 01:10 hrs., 01OC05) from Illinois will be passed along to Dr. Mark Rodighier, Director of the CENTER FOR UFO STUDIES, Chicago, as well as to Mr. Dave Marler, State Director of the MUTUAL UFO NETWORK for the State of Illinois, who will pass them along to his Field Investigators in the Chicago area.  We would be most grateful if witnesses to this event would please submit a detailed report of their sighting, using the ONLINE REPORT FORM on our website, and we will pass those reports along to those two investigators above.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46704.html](http://www.nuforc.org/webreports/reports/046/S46704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Flying object in the background of our video in video class flies 100 yards in less than 1/2 a secondWe were taking a video in video class and we didnt see it, and when we went back through the footage and slow down the frames, in 1/2 of a second, an unidentified flying object flew 100 yards. There's no way an airplane would be that low to the ground, and we have video footage, and no bird can fly 212 mph.  The flight pattern was an arc towards the atmosphere..we have video!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78140.html](http://www.nuforc.org/webreports/reports/078/S78140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
