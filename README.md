@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Illuminated satellite like object that turned multiple times at extremely high altitudeUnknown single craft at extremely high altitude multiple lights? (illuminated) in southeast sky, travelling southwest when first noticed, I thought it was a satellite crossing the sky until it turned multiple times (similar to a helicopter) but proceeded in same general southwest course. I would estimate altitude of 30-thousand feet. After watching for 5-minutes I ran inside to get binoculars but when I got back out two minutes later I could not find it. I continued watching the sky for another hour but could not find the object again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149342.html](http://www.nuforc.org/webreports/reports/149/S149342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Marlboro (NJ) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Stationary bright lights, then sudden fast movement following us from Holmdel, Marlboro, and  Manalapan.On Sept. 30, 2001 at around 8:48pm, traveling on Rt. 520W leaving Holmdel approaching Marlboro my family and I observed a very bright stationary light in the sky.  It caught our attention because it was raining and of course cloudy and we knew it could have not been a star or the moon. When we first sighted it this bright light seemed to be about 2 miles West of us.  As we got closer to it, it seemed to be like the U.F.O. that we always see in the movies, disc like and with many very bright lights around it.  When we finally reached it we passed right under it and seemed to almost look like an airplane except the bottom of the 2 wings each had 3 square windows with very very bright lights.  At first we were joking in the car "oh look that looks like an U.F.O." and we laughed.  After we passed this object (which was still stationary) about 1/2 mile, we see this object make a semi-circle turn faster than anything I ever seen fly.  All of the sudden this object is again in front of us.  Now we are getting a little scared because this object kept following us.  Every time we made a turn and or passed trees, we would think that we would lose it, or IT lose us and the object again would speed up and catch up to us.  Now we are really scared so we used our cell phone to call the relatives whose home we had just left in Holmdel.  But could you imagine calling your brother-in-law and telling him "we think we are being followed by an U.F.O, please stay on the line until we get home".  We lost connection but then we called our relatives back and they stayed on the line until we got home.  As soon as we pulled into our driveway in our home in Manalapan this object disappeared and we didn't see it again.  After 45 mins. of contemplating whether to report this to the police or not, because of course they are going to think that I'm crazy, I finally called the police and they said "we have so many air force activity right now that it was probably something related with the air force.  I'm not an U.F.O. believer nor d! isbeliev er, never cared, I'm a woman with no interest in science or science fiction.  I just want to know what the heck was that?.  Can someone please tell me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19699.html](http://www.nuforc.org/webreports/reports/019/S19699.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
