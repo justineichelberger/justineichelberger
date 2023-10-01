@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lynnwood (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large fireball sightingAt 5:45 a.m.(PST), I was traveling northbound on I-5 when I witnessed a large, bright yellow fireball, with blue edges, shooting across the sky. I was unable to distinguish its distance from me because it appeared out of nowhere and vanished within about 5 seconds.((NUFORC Note:  Probable meteor.  Many other reports.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25347.html](http://www.nuforc.org/webreports/reports/025/S25347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brampton (Canada) (ON) reported seeing craft that fit the description of some 'Changing' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>dark object moving very straight, high and fast across whole sky. small object look but moving too fast to be a high planedark ro black object at dusk sun had set. looked like a bird very high up at first. saw small changes in shape but too high to say what it looked like. then I thought it is was a balloon or very large black garbage bag but it was very high and there was not much of a wind. it moved very straight and with a constant and fast speed like a helicopter but was too high and no sound. saw it move across for about 75% of the sky in a very straight line till it was no longer visible due to the distance.  The person with me also agreed that whatever it was looked and acted very strange a not like something we can recognise that it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149408.html](http://www.nuforc.org/webreports/reports/149/S149408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
