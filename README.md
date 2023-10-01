@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was in a parking lot, close to Waters Ave. and Anderson Rd., facing East, one mile North of Tampa International Airport.  The air traffic is always heavy but has its dull moments.  During a slow moment of air traffic I saw what I thought it first to be a flock of birds in a wedge or chevron formation.  Within a second or two I realized it was not birds.  It was a fuzzy, white mist like boomerang with the ends of the leading edges curved inward like a comma. I tried to pull my phone out of my pocket for a picture but couldn't take my eyes off of it. As it passed to the south, I had to jog to the north in the parking lot.  I was losing my line of sight for the warehouse roof to my right/south, but still didn't get a picture.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122477.html](http://www.nuforc.org/webreports/reports/122/S122477.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it lasted for about one minuteRed in color lasted for about one minute then it disapeared it was in the east sky everyone though it was a star but I said I thought it was UFO jokingly then it was gone..(NUFORC Note:  All reports of the two sightings (23:15 hrs., 30SE05, and 01:10 hrs., 01OC05) from Illinois will be passed along to Dr. Mark Rodighier, Director of the CENTER FOR UFO STUDIES, Chicago, as well as to Mr. Dave Marler, State Director of the MUTUAL UFO NETWORK for the State of Illinois, who will pass them along to his Field Investigators in the Chicago area.  We would be most grateful if witnesses to this event would please submit a detailed report of their sighting, using the ONLINE REPORT FORM on our website, and we will pass those reports along to those two investigators above.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46705.html](http://www.nuforc.org/webreports/reports/046/S46705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
