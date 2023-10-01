@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bayfield (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large light object in sky with lightning storm and huge beam of light from below in  southern ColoradoAt 5:30 AM We whitnissed a huge flat oval shape of light estimated to be thirty miles across. We were about twenty miles south and watched it hang approximatly 2000 yards up, off the ground. It had a large white beam of light coming down out of it and spoted on the ground. It appeared to create its own "storm" of wild weather with lightning blasting off the top and in a very hard wind from west to east the lightning spilled away from the object off the east.The sky was very cloudy but had low clear cieling and the object was just above thecloud layer.  The intensity of the light seemed to throb bigger and smaller. This all happened the morning of October 1st,1998.I later made notes and a sketch. I am a commercial artist from dallas texas. I have only now come across this web site or I would have reported sooner. I saw this from a camp site I was in located in Northern, New Mexico. After seeing this thing later that morning I looked at the map to see where it could have been. I called the police station in Bayfield colorado as it seemed that was where it occured. I spoke with an officer an after a brief discription and query as to "has anyone else called in " he stopped me and described the same thing only he said he was in his patrol car underneath it, He was just outside the town of bayfield. I later called the airprot control tower in Durang as I thought certain ly they had it on radar. It was huge. They said nothing. Istayed in touch with the officer but not much ahs come of it. My question to you is did anyone else see this or do you have any other reports from that day and location??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15643.html](http://www.nuforc.org/webreports/reports/015/S15643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Gilbertsville (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>This picture was taken by my mother, in approx 1984, at Kentucky Lake.  I am the bigger child, and the other two are my brother and sister.  I was 4 or 5 and they were 2-3 years old.  None of us three noticed the thing in the sky at the time and until my mom passed recently, none of us ever would have.  A friend brought it to my attention not long ago after the funeral.  That is all I really know.  We are just curious if anyone can explain the thing or why it is in both pictures.  They were taken about 5 mins apart on the same day.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144568.html](http://www.nuforc.org/webreports/reports/144/S144568.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
