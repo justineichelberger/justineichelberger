@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Wilmington (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Patterned disks over southern california sky.Observed one silver circular object in the sky above us.  The single disk separated into two equal sized disks, same size as the original.  All of this happening while moving north-west in a slow but constant speed.  The second circular disk was following the first closely in a straight line.  After passing some clouds, observed two smaller disks on the front left and front right of the first disk.  Still moving in a straight line heading north-west, again observed two smaller disks emerging from the second trailing circular object.  The two new smaller objects then moved to the back left and back right of the second trailing circular disk.  The position of the disks were like a convoy with the two large circular disks in the center and four smaller disks on the front and back.  The objects continued on their straight line flight towards north-northwest.  Until the objects could no longer be seen.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61169.html](http://www.nuforc.org/webreports/reports/061/S61169.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1959, an anonymous witness in Jacksonville (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Late 1959, bright lights from a hovering object of unknown shape making a zed-zid zed-zid electrical sound.I've always wanted to recount this as it is one of those unexplained things from childhood that I've never forgotten. I was 5 years old and we were moving bit by bit into our new house. I was "helping" my mom take things out to the car. She was going to take me with her to the new house that evening and I was excited about getting to play in all the new rooms. I remember going out the back door with something in my hand that I was going to take to the car. Mom was still inside the house. There was a very, very bright light. I looked up and there, hovering above the house, was this huge object that just seemed to be made up of very white, bright lights. I have no idea what shape it was and could not see anything but the lights. It was silent except for a strange electrical sound -- zed-zid, zed-zid -- and started to slowly move away from the house. I remember screaming and running inside, terrified and crying. I don't know how articulate I was in trying to get my mother to look outside and see if it was gone. She didn't see anything and couldn't understand why I was so upset. I refused to go outside again that night and lost all interest in going to the new house to play.((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42619.html](http://www.nuforc.org/webreports/reports/042/S42619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
