@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:25 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:41 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Anamosa (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>large quiet  craft, covered with blackness, and "stars" to not be noticed, moving slowly southwest to north north east.I was in seventh grade. I had a great love for the stars. each night I would stare at the stars. As I nightly looked out my window from my bed, I knew what I should see when I  looked. The night in question, when I lay down, I looked to my friends, the stars, there was a wrongness. The stars I expected were not there. I was mighty confused, but as I continued to look I saw that stars north of the wrongness were disapearing, and stars south of the wrongness were appearing. I realised that the stars I saw, that were wrong, were moving as a group, in a north north east dirrection. The "group" was moving, very slowly, blocking out the stars in an enormous area. I heard no sound from it. The "group" was made up of large, small, dim, and brighter "stars". as if it were camafloging a huge craft from the casual observer. I would not have noticed, but I looked out the same window, at the same time, every night. And I looked to the stars as a consistant. I was extreamly excited, I ran to another window, but It was covered and could not see out. Now, I would try to get pictures, then, I went back to bed. I didn't even go outside. The next day I told my seventh grade english teacher, Mr ((name deleted)). He told me I was dreaming. That it was not true. But I knew what I saw. But because I choose to not be laughed at, I did not tell any one else. Till now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14110.html](http://www.nuforc.org/webreports/reports/014/S14110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Pawling (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large oval craft with lights above house on north side of Route 55 between Pawling and Freedom Plains, NY, late 1980's.it was bigger than a football field, hovering over a house on the north side of Route 55 between Freedom Plains and Pawling. It had lights all over the underside.  People I told later said it was a "laser show" that had been talked about in a local paper.  It was a Tuesday night and they said they were shown every Tuesday night.  I have not to this day been able to ascertian whether any other witnesses exist but I continue to think about it.((NUFORC Note:  Witness indicates that date of incident is approximate; provides a paucity of contact information.  This sighting may have been of the triangular-shaped craft that were seen by many witnesses in the Hudson Valley during this time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42143.html](http://www.nuforc.org/webreports/reports/042/S42143.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
