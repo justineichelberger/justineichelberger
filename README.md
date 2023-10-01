@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:23 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>dim lightsAt 6:30 am I saw a group of 12 to 15 lights traveling south.  it was in a loose "V" formation.  The lights were dim and roundish and faded from the center out to appear fuzzy at the edges.I could not judge the size or distance. but would estimate at less than 500 feet above me and 30 to 40 feet in diameter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93324.html](http://www.nuforc.org/webreports/reports/093/S93324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw 4 helicopters following something in Vancouver, BC.Not really sure what I saw happening, but I saw 4 un-marked black helicopters following a craft of some kind.  Didn't look like another helicopter or airplane that the helicopters were chasing or following.  It really struck me as odd.  It was the middle of the afternoon, a clear day. I watched the activity until all of the helicopters disappeared behind a hillside covered with trees.  I was at sea level, so I lost sight of everything.  Could have been nothing, but didn't look normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114949.html](http://www.nuforc.org/webreports/reports/114/S114949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
