@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:48 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:46 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Wheaton (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighted in Wheaton, MDI was in my car, stopped at a traffic light at the intersection of Veirs Mill Road and University Blvd.  Suddenly I noticed what looked like an airplane above the car in front of me, just a few feet above the road.  I thought that it might crash onto Veirs Mill Road!  It was moving slowly as it crossed the road, which caught my attention, as I'd never seen anything like this before .  I saw 3 white lights on the bottom of the aircraft, no red/yellow/or green lights, just 3 white ones.  The craft looked to be triangle in shape, and not very tall.  it looked like a flat triangular object. To the west of me (on University Blvd) were 2 radio communication towers.  I watched this aircraft fly slowly towards the 2 towers.  It made a sharp right turn and faced the towers.  There it hovered for a few seconds, as if it was trying to maneuver the craft around the towers.  The aircraft lifted straight up and then flew over the towers.  It then made another sharp right turn (which I didn't think was possible with modern aircraft) and flew several feet.  It then made another sharp left turn and took off quickly into the night sky.  This all happened within a matter of a few minutes, while I waited for the light to change.  I wanted to get out of my car and ask the folks around me if they saw it too.  But I was dumbstruck by the whole thing, so I didn't get out and ask anyone.  I did keep pinching myself while watching this and telling myself that I wasn't dreaming.  After I got home I told my husband about it.  He fully believed what I was telling him because, as he told me, "I know that you don't believe in aliens and UFOs...so for you to say that you saw something like this, I believe that you did."  Of course, others thought I was nuts and asked if I had been drinking or was stoned.  I was neither of these things, but I know what I saw.  I'm not saying that it was a spacecraft filled with little green men, but it was something weird.  I brushed it off as some kind of highly-classified aircraft based out of Andrews Airforce Base, which is in the Washington-area.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52508.html](http://www.nuforc.org/webreports/reports/052/S52508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rye (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Orange balls in the skyWe saw an orange ball floating slowly through the sky, then a while later we saw a ton of blinking lights in the air. Then after that a cloud lit up. After that we saw four orange balls in place lighting up one by one in a row, they faded away one by one also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31999.html](http://www.nuforc.org/webreports/reports/031/S31999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
