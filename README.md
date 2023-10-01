@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 30 September 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:25 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sept. 30th 2005 Red Lights Sighting 11:18pm Tinley Park, ILSept. 30th 2005 Sighting 11:18pm Tinley Park, IL i was walking with my g/f an was headed west.  we had turned the corner an were headed north when i noticed a red dot in the high east sky.  for some odd reason i had turned an looked west an saw 2 more bright an big red dots headed in the third red dots direction.  as the 2 other red dots approached i paused to see if i could detect a blue or white flashing to see if it was a plane or not.  then we had noticed its flight pattern was wavey. almost like you would when you were sking an wanted to slow down your desent down a hill. it then continued from low west, to high east fading out... anyone else happen to catch this, or explain it. i just know it was almost the exact thing that i saw oct 31, 04((NUFORC Note:  All reports of the two sightings (23:15 hrs., 30SE05, and 01:10 hrs., 01OC05) from Illinois will be passed along to Dr. Mark Rodighier, Director of the CENTER FOR UFO STUDIES, Chicago, as well as to Mr. Dave Marler, State Director of the MUTUAL UFO NETWORK for the State of Illinois, who will pass them along to his Field Investigators in the Chicago area.  We would be most grateful if witnesses to this event would please submit a detailed report of their sighting, using the ONLINE REPORT FORM on our website, and we will pass those reports along to those two investigators above.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46649.html](http://www.nuforc.org/webreports/reports/046/S46649.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Anamosa (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>large quiet  craft, covered with blackness, and "stars" to not be noticed, moving slowly southwest to north north east.I was in seventh grade. I had a great love for the stars. each night I would stare at the stars. As I nightly looked out my window from my bed, I knew what I should see when I  looked. The night in question, when I lay down, I looked to my friends, the stars, there was a wrongness. The stars I expected were not there. I was mighty confused, but as I continued to look I saw that stars north of the wrongness were disapearing, and stars south of the wrongness were appearing. I realised that the stars I saw, that were wrong, were moving as a group, in a north north east dirrection. The "group" was moving, very slowly, blocking out the stars in an enormous area. I heard no sound from it. The "group" was made up of large, small, dim, and brighter "stars". as if it were camafloging a huge craft from the casual observer. I would not have noticed, but I looked out the same window, at the same time, every night. And I looked to the stars as a consistant. I was extreamly excited, I ran to another window, but It was covered and could not see out. Now, I would try to get pictures, then, I went back to bed. I didn't even go outside. The next day I told my seventh grade english teacher, Mr ((name deleted)). He told me I was dreaming. That it was not true. But I knew what I saw. But because I choose to not be laughed at, I did not tell any one else. Till now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14110.html](http://www.nuforc.org/webreports/reports/014/S14110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [417](http://www.nuforc.org/webreports/reports/164/S164695.html)
-- [416](http://www.nuforc.org/webreports/reports/164/S164698.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164700.html)
-- [414](http://www.nuforc.org/webreports/reports/164/S164701.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
