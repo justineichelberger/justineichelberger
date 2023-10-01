@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two triangular shaped craft with white and red lights going Northeast.I am an Army (Officer),and Navy (air) veteran and am now working for the Department of Defense. I have accredited BS and MS degrees and assure you that this is true.I do not smoke inside my home. I took a smoke break outside about 20:30. It was dark outside and the sky was clear backlit by the lights from the city of Richmond. I am about 10 miles from the airport so it is not unusual to see planes in the distance. I noticed through the trees what appeared to be stationary lights in the sky. After observing for several minutes, the lights started to move toward me from the West to East. It passed almost directly overhead at about 500 feet. There were two crafts. Both were shaped like triangles. The lead craft had two outboard white strobing lights and a light on the front. It also had what looked like fluffy whit lights inboard of the strobes. These were definitely not FAA regulation navigation beacons. The second craft had the triangular shape following below the first and to the rear of the first craft. This one only had a red light in the middle of its silhouette. There was absolutely no noise. They were proceeding very slowly and eventually turned North in the distance.The local newspapers later reported that strange lights were seen in the sky. This is the first time I have told this story.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40678.html](http://www.nuforc.org/webreports/reports/040/S40678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle... very dim lights, no noise, around all outer edges, moving slowly, very low... went out of sight over UNCW campus((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84264.html](http://www.nuforc.org/webreports/reports/084/S84264.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
