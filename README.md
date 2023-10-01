@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:41 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:53 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Pawling (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large oval craft with lights above house on north side of Route 55 between Pawling and Freedom Plains, NY, late 1980's.it was bigger than a football field, hovering over a house on the north side of Route 55 between Freedom Plains and Pawling. It had lights all over the underside.  People I told later said it was a "laser show" that had been talked about in a local paper.  It was a Tuesday night and they said they were shown every Tuesday night.  I have not to this day been able to ascertian whether any other witnesses exist but I continue to think about it.((NUFORC Note:  Witness indicates that date of incident is approximate; provides a paucity of contact information.  This sighting may have been of the triangular-shaped craft that were seen by many witnesses in the Hudson Valley during this time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42143.html](http://www.nuforc.org/webreports/reports/042/S42143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>One of the bright stars moved north, curved upward, flew in a wide arc, then accelerated up into the cosmos.I am fifty years old now.  At the time of the sighting I was fourteen.  The year was 1966.  I don't remember the day but it was before Columbus Day.  It was dark out and a was getting chillier as the night progressed.  I was playing hide-and-seek with lots of other kids from the neighborhood.  There were twelve of us playing.  During a break in the play I lagged behind the others, who'd changed their minds about the present game but couldn't decide on another game.  I was on the Madison Street side of the Madison and Eagle crossroad, and had just gotten up from leaning on the fire hydrant.  I was different from my friends because I liked (and still do) to look at the sky.  This night was very clear.  The street lights weren't as bright as they are now, in 2002.  Besides, there were very large, old trees still standing. At this time of autumn almost half the leaves were gone.  The stars were very bright that night.  I almost forgot my friends as they were now past the middle of the block away from my position.  I was comparing the stars to the constellations I learned about in school and admiring their beauty, when one of them moved.  I thought it might be like other stars I'd seen move before.  Only, the other stars I saw before would stop after only a short movement.  This star didn't stop.  It moved north for seven to nine of my quick paces as I followed it, and then it arced up!  The arc was wide as the star continued north.  Then I had to stop.  The star was moving up, first in a curved line, then a diagonal line, then it rose straight up.  The only star that was moving, remained very bright until it quickly picked up increasing speed and disappeared into the cosmos, leaving an envy in me for wherever it was going and a dread, knowing that if I told any one about what I'd seen, the taunting and ridicule I'd get would probably mess with my already weak confidence.  It took me this long to say something.  This was my first sighting.((NUFORC Note:  Time and date are approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21125.html](http://www.nuforc.org/webreports/reports/021/S21125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
