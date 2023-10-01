@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prineville (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>bright white light the size of a distant star that made eratic movements, and complete stopsOn Oct 1st, 2nd, and 3rd, my 2 hunting partners and i observed in the west a white light which looked like any other star in the night sky,then it  would move in a straight line to out left.  It would then hold its position for 10 or 15 seconds before moving in a straight line upward, where it would hold again, 10 or 15 seconds. Then in would move downward in a arc .  It would continue these movements,  left or right, up or down, in curving arcs, with pauses in betweeen movements. Some up or down movements also traveled at around a 45 degree angle. WE observed this pinpoint of white light 3 nights in a row, well after darkness had set in.  Each night it would be off to the west in the same vicinity but a slightly different spot. It always appeared to be the same size as the stars were.   Two of us are retired , the third is a copy machine repairman. With binoculars a faint reddish glow would appear on the edge</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15440.html](http://www.nuforc.org/webreports/reports/015/S15440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>blue,red,green,and bright white light hovering over field near Thornburg Va food lion.leaving lake Anna, on the way to 95 exit, cars stop in front of me on road next to food lion. at first shocked and confused why the cars stopped. my friend with me said " look over there" when i looked i saw a bright light hovering over a field above a tree line. the lights changed colors from blue, to green, to red and when descending from sky a very bright white. it hovered in very weird directions that i have never seen a plane be able to do. it would fly in a up down but diagonal direction. it landed behind trees about 4 times, i parked and watched it for about 30 min. it was hovering slow. dont know what happend to it after that but i know other cars saw it to.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80587.html](http://www.nuforc.org/webreports/reports/080/S80587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
