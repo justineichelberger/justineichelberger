@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:23 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1984, an anonymous witness in Gilbertsville (KY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Unsure - Unsure minutes.</sub><blockquote><sub>This picture was taken by my mother, in approx 1984, at Kentucky Lake.  I am the bigger child, and the other two are my brother and sister.  I was 4 or 5 and they were 2-3 years old.  None of us three noticed the thing in the sky at the time and until my mom passed recently, none of us ever would have.  A friend brought it to my attention not long ago after the funeral.  That is all I really know.  We are just curious if anyone can explain the thing or why it is in both pictures.  They were taken about 5 mins apart on the same day.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144568.html](http://www.nuforc.org/webreports/reports/144/S144568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>dim lightsAt 6:30 am I saw a group of 12 to 15 lights traveling south.  it was in a loose "V" formation.  The lights were dim and roundish and faded from the center out to appear fuzzy at the edges.I could not judge the size or distance. but would estimate at less than 500 feet above me and 30 to 40 feet in diameter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93324.html](http://www.nuforc.org/webreports/reports/093/S93324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
