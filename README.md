@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:49 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Spotsylvania (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>blue,red,green,and bright white light hovering over field near Thornburg Va food lion.leaving lake Anna, on the way to 95 exit, cars stop in front of me on road next to food lion. at first shocked and confused why the cars stopped. my friend with me said " look over there" when i looked i saw a bright light hovering over a field above a tree line. the lights changed colors from blue, to green, to red and when descending from sky a very bright white. it hovered in very weird directions that i have never seen a plane be able to do. it would fly in a up down but diagonal direction. it landed behind trees about 4 times, i parked and watched it for about 30 min. it was hovering slow. dont know what happend to it after that but i know other cars saw it to.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80587.html](http://www.nuforc.org/webreports/reports/080/S80587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Valley City (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a star shaped object travelling south that stopped, changed colors, and sped off dissapearing in the night sky.My neighbor and I were outside in my driveway talking and my wife came out to see if I wanted to come in and watch the news on TV. My neighbor commented on what a clear night it was. As I looked up to comfirm his observation I saw an object that looked like a star moving from north to south high in the sky. I asked my wife to go in the house and get my binoculars while I kept the object in sight. I found the object with the binoculars and, of course, it looked bigger. Then, all of a sudden, it stopped, turned crimson red and zipped off in the same direction(south) changing color from crimson red to bright red to bright yellow to bright white then suddenly vanishing.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20740.html](http://www.nuforc.org/webreports/reports/020/S20740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
