@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:49 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Valley City (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a star shaped object travelling south that stopped, changed colors, and sped off dissapearing in the night sky.My neighbor and I were outside in my driveway talking and my wife came out to see if I wanted to come in and watch the news on TV. My neighbor commented on what a clear night it was. As I looked up to comfirm his observation I saw an object that looked like a star moving from north to south high in the sky. I asked my wife to go in the house and get my binoculars while I kept the object in sight. I found the object with the binoculars and, of course, it looked bigger. Then, all of a sudden, it stopped, turned crimson red and zipped off in the same direction(south) changing color from crimson red to bright red to bright yellow to bright white then suddenly vanishing.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20740.html](http://www.nuforc.org/webreports/reports/020/S20740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bayfield (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Large light object in sky with lightning storm and huge beam of light from below in  southern ColoradoAt 5:30 AM We whitnissed a huge flat oval shape of light estimated to be thirty miles across. We were about twenty miles south and watched it hang approximatly 2000 yards up, off the ground. It had a large white beam of light coming down out of it and spoted on the ground. It appeared to create its own "storm" of wild weather with lightning blasting off the top and in a very hard wind from west to east the lightning spilled away from the object off the east.The sky was very cloudy but had low clear cieling and the object was just above thecloud layer.  The intensity of the light seemed to throb bigger and smaller. This all happened the morning of October 1st,1998.I later made notes and a sketch. I am a commercial artist from dallas texas. I have only now come across this web site or I would have reported sooner. I saw this from a camp site I was in located in Northern, New Mexico. After seeing this thing later that morning I looked at the map to see where it could have been. I called the police station in Bayfield colorado as it seemed that was where it occured. I spoke with an officer an after a brief discription and query as to "has anyone else called in " he stopped me and described the same thing only he said he was in his patrol car underneath it, He was just outside the town of bayfield. I later called the airprot control tower in Durang as I thought certain ly they had it on radar. It was huge. They said nothing. Istayed in touch with the officer but not much ahs come of it. My question to you is did anyone else see this or do you have any other reports from that day and location??</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15643.html](http://www.nuforc.org/webreports/reports/015/S15643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
