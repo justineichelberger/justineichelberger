@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:46 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Rye (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Orange balls in the skyWe saw an orange ball floating slowly through the sky, then a while later we saw a ton of blinking lights in the air. Then after that a cloud lit up. After that we saw four orange balls in place lighting up one by one in a row, they faded away one by one also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31999.html](http://www.nuforc.org/webreports/reports/031/S31999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Bangor (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very bright light to the west appeared spotlighting the ground followed by a fighter jet from the west that race and circled for 45 minTo the west I seen a bright light appear and then disappear several times.  After a few moments the object was beaming a ray of light off and on.  This went on for a few minutes.  My first thought was that it was a helicopter looking for marijuana crops, but thought it was odd to be looking at night for them.  After several minutes, a fighter jet from the west raced to its location flying low and circled for about 45 minutes afterwards.  The light had disappeared with the arrival of the jet.  For the next hour after that, I watched doughnut shaped chemical trails blow across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138553.html](http://www.nuforc.org/webreports/reports/138/S138553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
