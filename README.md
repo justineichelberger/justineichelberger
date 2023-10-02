@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:20 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:50 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bettendorf (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Heavy Blue Light beamed down and chased family in house, simular to 50 foot wide search light.At 19:55 hour 10-02-98 a heavy blue light beam traveled straight down from the sky to cover the back patio, where my son and and wife were. the sudden silent heavy blue light scared them as it appeared out of no where.  this light was a strange light as it did not cast any shadows but was so bright that it hurt their eyes. They both ran into the house an called me to help them!  I grab a weapon and headed for the back yard where I found nothing but a semi cloudy night with a hazy moon and some bright stars showing through them.. They were both shaking with fear and it took several hours of my telling them it was just a reflection of the light from a police car going by. But I know police spot lights don't come from the sky and are not a heavy florescent blue that casts no shadows. This was just a strange experience that I can not really explain so I thought it might be worth reporting to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04494.html](http://www.nuforc.org/webreports/reports/004/S04494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in VA/Atlantic Coast (aboard USN ship) (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO out at seaDuring a routine weather observation, aboard a Naval vessel during flight ops, I witnessed an object to my east moving at an extreme speed and changing directions rapidly before disappearing. We were about 100 miles off the coast of southern Virginia. It was a white light about 4 times the size of a star. Imagine an airplane at night with it's lights not blinking, but flying a about 5,000 mph. Moving at a 45 degree angle frome east to west it abruptly changed course(it made a right angle) and disappeared.  I am a Meteorologist for the Navy and observe the sky on a nightly basis. I have never seen anything like this. It was not caught on our radar. It appeared to be about 5-7 miles away, but I suspect it was much farther away than that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59141.html](http://www.nuforc.org/webreports/reports/059/S59141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
