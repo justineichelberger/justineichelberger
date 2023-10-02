@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:47 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:20 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed orb of light flashing through mutiple colors about the size of a large pea held at arms length.  Estimated 1.5 miles distance.  Light changed to strobbing orb at a rate of 140 beats per minute or so.  Ran inside to get my binoculars and observed the object moving slowly off to the North until it disappeared from view.  I have seen a similar object at fairly close range in the same area several years ago with an additional witness.((NUFORC Note:  Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59059.html](http://www.nuforc.org/webreports/reports/059/S59059.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bettendorf (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Heavy Blue Light beamed down and chased family in house, simular to 50 foot wide search light.At 19:55 hour 10-02-98 a heavy blue light beam traveled straight down from the sky to cover the back patio, where my son and and wife were. the sudden silent heavy blue light scared them as it appeared out of no where.  this light was a strange light as it did not cast any shadows but was so bright that it hurt their eyes. They both ran into the house an called me to help them!  I grab a weapon and headed for the back yard where I found nothing but a semi cloudy night with a hazy moon and some bright stars showing through them.. They were both shaking with fear and it took several hours of my telling them it was just a reflection of the light from a police car going by. But I know police spot lights don't come from the sky and are not a heavy florescent blue that casts no shadows. This was just a strange experience that I can not really explain so I thought it might be worth reporting to you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04494.html](http://www.nuforc.org/webreports/reports/004/S04494.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
