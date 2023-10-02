@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 1 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Greenup (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>This has happened more than once! We saw a orange circle of light moving slowly through the sky, shooting about two inches to the human eye then turned bright red, right before our eyes we saw it disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46658.html](http://www.nuforc.org/webreports/reports/046/S46658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Neacroft (Christchurch) Bournemouth (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of flashing lights spottedIt was on Monday 2nd October 2008, around 20:00. My father was outside our house having a cigarette and he spotted these lights flying above our house. They were in clusters, flashing green and orange and were moving quite quickly. They came in groups and followed each other and it lasted around 5 minutes. We cannot figure out what they are. We are pretty sure they were not balloons or anything as they were moving too quickly and they were definately not planes as there ware too many lights close together. I promise you on behalf of myself and my family this is not a prank. I also captured some of the lights on mobile phone. The quality is not great but you can see the lights and their formation, and it was not edited I can assure you. Please could you take this seriously as we would like to know more about what they were if you could find any information.My email is ((deleted))    If you would like my house telephone number for contact please email me, or if you would like the video footage which I hope you will.I have also watched the Jamie Maussan  UFO conference 2005 and a lot of the video footage is very similar to mine.If you do watch the video, please can you ignore the video commentary as my mother was claiming it was some big scam as she did not believe they were UFOs, but maybe it was a scam I do not know.Again, please believe me on this one, I promise you the video and this story is 100% true.Many thanks ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66038.html](http://www.nuforc.org/webreports/reports/066/S66038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [760](http://www.nuforc.org/webreports/reports/164/S164691.html)
-- [759](http://www.nuforc.org/webreports/reports/164/S164949.html)
-- [758](http://www.nuforc.org/webreports/reports/165/S165127.html)
-- [757](http://www.nuforc.org/webreports/reports/164/S164817.html)
-- [756](http://www.nuforc.org/webreports/reports/164/S164873.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
