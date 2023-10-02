@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>10 silent, red craft traveling in a line, shifting precisely to avoid somethingTraveling from east to west, 10 craft traveled at high speed equally spaced.  They passed in front of Cassiopeia, glowing red with a pink radiant center.  At one point, they shifted position, one by one, much like in the 1980's video game "Centipede" when it was avoiding an obstacle.  The look of the individual 'craft' was reminiscent of what was recorded during the Phoenix Lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114219.html](http://www.nuforc.org/webreports/reports/114/S114219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Galena (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>10/02/10 - Galena, Illinois a triangular shaped object flying low, straight, silent with constant lights on each corner. Lasting 20 SECOn October 2, 2010 my fiancé and I were on a weekend vacation in Galena, Illinois.  We were outside enjoying the night when all of a sudden I noticed something different in the sky.  I was startled and unable to identify the object. It was completely quiet and pretty low in the sky.  It also seemed to be traveling in a straight line at a slow speed.  The object was shaped like a triangle with constant lights shining on each corner. It seemed like the center was black or dark and maybe transparent.  I grabbed my fiancé and had him look up as well.  And we both had no Idea what we were looking at. It lasted about 20 seconds. We both stood up to see and it better and it flew over the house and trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78400.html](http://www.nuforc.org/webreports/reports/078/S78400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
