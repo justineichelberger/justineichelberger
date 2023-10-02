@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Metairie (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Object over New Orleans streaked out of sight in a flash followed with a sonic boom.This morning at 1:30 am I walked outside my house with a friend and he made a comment about how clear the sky was. When I looked up we both saw a bright flash of light and something streaked across the sky toward the southeast followed by what could only have been a sonic boom. It happened so fast we were both stunned. We couldn’t believe what we saw. If it were something man made it was incredibly fast. It disappeared out of sight too fast for us to see what it was. It looked like a shooting star only going out of the atmosphere. Flash streak BOOM!((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59062.html](http://www.nuforc.org/webreports/reports/059/S59062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>10 silent, red craft traveling in a line, shifting precisely to avoid somethingTraveling from east to west, 10 craft traveled at high speed equally spaced.  They passed in front of Cassiopeia, glowing red with a pink radiant center.  At one point, they shifted position, one by one, much like in the 1980's video game "Centipede" when it was avoiding an obstacle.  The look of the individual 'craft' was reminiscent of what was recorded during the Phoenix Lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114219.html](http://www.nuforc.org/webreports/reports/114/S114219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
