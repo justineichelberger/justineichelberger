@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pompton Plains (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two orange fireballs silently glided overhead seperatelyI saw a round orange fireball silently glide across the sky and then disappear.  Then about 1 minute later a second round orange fireball following the same path as the first one silently glide across the sky.  The second one disappeared into a cloud.  Neither object blinked or flashed but just stayed solid in color.  The sky was dark, but planes were flying at a much higher level in the sky, but not close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114185.html](http://www.nuforc.org/webreports/reports/114/S114185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two chevron-shaped objects flying in formation spotted over Maple Valley, WA.I was taking out the garbage on Tuesday, October 2nd (although it may have been Tuesday, September 25th I'm not 100% sure although I am leaning towards the 2nd) at my home in Maple Valley, WA.  It was 7:50pm.  I heard a very low rumbling noise (not unlike airplanes at extreme altitude), looked up and noticed two craft moving from the Southwest to the Northeast.It was too dark to see any shape.  They were two chevron or triangle-shaped craft with white lights on each point and a red light just aft of the leading white light.  The white lights were constant while the red light would blink very, very slowly (maybe once every 5 seconds or so).If they were silent I would have absolutely ran inside to get my camera but the noise led me to believe military craft of some sort, maybe B-2 Spirits.  (Someone who worked on the B-2 for eleven years told me that is not the navigational lighting pattern of the B-2).One was directly in front of the other.  The total sighting from above my house until they were past the tree line to my north was approximately two minutes.I'm sure it was military of some sort but I am an aviation fan and this isn't any navigation lighting configuration I've seen.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93462.html](http://www.nuforc.org/webreports/reports/093/S93462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
