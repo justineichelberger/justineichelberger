@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Stanford (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO Over Stanford University's Hoover TowerOn Thursday, October 2, 2014, at 4:53pm, Pacific Daylight Time, I snapped the photo above of Stanford University's Hoover Tower from within the Stanford Quad. I was unaware of anything unusual at the time, and was not aware of the strange object which appears in the photo between the two left-most trees. I first saw both the photo as a whole, and the strange object in the photo, when I offloaded the photos from my camera onto my home computer on Saturday, October 4, 2014. The camera which took the photo is an Olympus Model VR-320, "HD 12.5x Super Wide, 14 Megapixel", although I had it set on a relatively low resolution, so as to save space and be able to snap more photos during my trip to California.((NUFORC Note:  Bird with wings folded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114252.html](http://www.nuforc.org/webreports/reports/114/S114252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Meriden (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>bright blue disk with two bright red lights, hovering and moving back and forth in the sky until it disappeared.My boyfriend and I were sitting on our front porch when we saw a blue disk with two red lights enter into our field of vision from the right, acsending at the same speed and angle as an airplane.  After a moment, it stopped and hovered in the sky, then began to move toward us, then away a few times, then hovered again, and moved up and down a few times. I pulled out my phone to take a video but by then it had disappeared.  Airplanes were also in the sky at the time, but this object appeared slightly larger and its lights were much more vibrant. It moved with far more precision than an airplane as well.  It was a very shocking sight for us both, neither of us had ever seen anything like it in the sky before, and we cannot think of any other explanation for it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102896.html](http://www.nuforc.org/webreports/reports/102/S102896.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
