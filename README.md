@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dover (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 round red & orange lights in the sky	My father and I enjoy watching the space station when it passes over our property. On the night of October 2, 2019 the station passed over at 7:13 pm. Around 20 till 8 Dad decided to take his dog inside the house. My step-son was outside with me at approximately 7:45 when we both saw 4 lights traveling very slowly (to us) in a row.  As the lights got closer they got larger.  They were red on the bottom and orangey-red on the top.  They made no sound whatever.  For help in your understanding,  I’m going to number them 1, 2, 3 and 4.	My step-son ran into the house to get my dad and my husband to come out and see this, and they did.  The lights came from what I perceive as the north-west, going in a southerly direction.  Numbers 1 and 2 stopped and numbers 3 and 4 flew sideways and caught up with the first two, forming a perfect square and hovered there for about 20 seconds.  By this time they appeared about the size of a saucer that is put under a cup.  There was absolutely no sound coming from them.  After hovering there, number 1 raised up and flew west. Number 2 raised up and flew west also, but in a more northerly direction. The other two raised up and disappeared. I would estimate that all four had disappeared from view within 3 seconds. I cannot explain what I saw any more than this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153193.html](http://www.nuforc.org/webreports/reports/153/S153193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Egg' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Oct. ?,2002, Santa Fe, NM, egg or football shaped object discovered after downloading photoI did not "see" this craft in real time, only after I downloaded digital photos I had taken that morning of the Santa Fe train station that I discovered the "object" above the building!((NUFORC Note:  Date is approximate.  No photos forwarded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31741.html](http://www.nuforc.org/webreports/reports/031/S31741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
