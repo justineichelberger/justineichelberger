@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:25 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light (looked as big as Jupiter), drifted/ moved NW to SE, appeared to be low in the sky, and disappeared by fading away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164806.html](http://www.nuforc.org/webreports/reports/164/S164806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kalispell (MT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Group of 5 (perhaps 7) faint, diffuse, eliptical white lights, traveling quite quickly north to south.  Relatively low altitude; discerned from change in perspective of chevron shape.I was out on my deck observing the sky prior to retiring for the night.  I was looking more or less directly overhead at the constellation Cygnus when motion caught my eye.  Turning to my right, I witnessed 5 (or perhaps 7) faint, diffuse, eliptical white lights in a distictly "V" shaped formation, traveling quite rapidly from north to south approximately 45-50 degrees above the horizon.  I had them (it?) in view for approximately 5 seconds before they dissapeared behind a neighbor's tree.  They appeared to be relatively close, at a low altitude as I could see a definate change in perspective of the "V" as it first approached and then receded across the sky.  Viewing conditions that night were excellent with no cloud cover at all and no wind.  There was absolutely no sound whatsoever associated with this sighting.  The ambient noise level was very low with no road traffic or other neighborhood noise present.  A cold chill ran down my spine, the hair on the back of my neck stood up and I was absolutely stunned.  It took a couple of hours of lying in bed before I finally fell asleep (totally out of character for me).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10171.html](http://www.nuforc.org/webreports/reports/010/S10171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
