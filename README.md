@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Galena (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>10/02/10 - Galena, Illinois a triangular shaped object flying low, straight, silent with constant lights on each corner. Lasting 20 SECOn October 2, 2010 my fiancé and I were on a weekend vacation in Galena, Illinois.  We were outside enjoying the night when all of a sudden I noticed something different in the sky.  I was startled and unable to identify the object. It was completely quiet and pretty low in the sky.  It also seemed to be traveling in a straight line at a slow speed.  The object was shaped like a triangle with constant lights shining on each corner. It seemed like the center was black or dark and maybe transparent.  I grabbed my fiancé and had him look up as well.  And we both had no Idea what we were looking at. It lasted about 20 seconds. We both stood up to see and it better and it flew over the house and trees.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78400.html](http://www.nuforc.org/webreports/reports/078/S78400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Decator (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>floated silently above our truckOn the evening of 10/3/98 my husband and I picked up a load from Dallas, Tx. and were on on way to Laredo, Tx. I had just gotten in the bed in the sleeper compartment of the truck when my husband asked me to come up front and look at this weird light coming at us. By the time I got up and put my glasses on it was getting very close to us. It was a triangle shaped craft and was very dark in color. I would say black or very dark green. It was silent and only about 1,000 feet above our truck, that we had pulled over to the side of the road. We were on hwy. 278. and just after the sighting, I got the name of the small town and wrote it down, along with the time and date. We have had several sightings and I would be so excited or should I say scared that I wouldn't even think to write any information down. I did have a camera and camcoder with me but I was so excited that I didn't even think about picking one on them up. I said that I would if we ever had another sighting. This is not an easy thing to do when your scared. The craft started off being off to our left and then came toward our truck and then passing right over the top of us. There was no sound from it what so ever. It floated over us and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05247.html](http://www.nuforc.org/webreports/reports/005/S05247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
