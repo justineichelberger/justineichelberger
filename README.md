@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:15 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bayfield (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying triangle in Bayfield, COOkay, this is kind of cheesy beacuse I didnt actually see the thing my father did, but there is no doubt in my mind that he really did.  We live in a very small town, and my father had to dive my mother to a hospital in nearby Durango.  On his return he pulled to the side of the road to observe a triangular craft with "blinking red and blue lights underneath", and making no sound as it passed closely over his car.  My father would never lie to me, especially on such a dramatic night, with my mother's condition and all. So why am I, a non-witness telling you this ten months after the fact?  I actually forgot about what he told me until I was watching some show on TV about aliens and they showed a triangular craft, reminding me.  I went on the internet to research it and came across this site.  Thought I would go ahead and report the sighting for him, because my dad would never do such a thing, and I just thought it might be helpful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32412.html](http://www.nuforc.org/webreports/reports/032/S32412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hanna (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large light flashed across sky very fast, too low to be a meteor and too fast to be a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149512.html](http://www.nuforc.org/webreports/reports/149/S149512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
