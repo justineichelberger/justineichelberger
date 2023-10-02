@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:20 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Neacroft (Christchurch) Bournemouth (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cluster of flashing lights spottedIt was on Monday 2nd October 2008, around 20:00. My father was outside our house having a cigarette and he spotted these lights flying above our house. They were in clusters, flashing green and orange and were moving quite quickly. They came in groups and followed each other and it lasted around 5 minutes. We cannot figure out what they are. We are pretty sure they were not balloons or anything as they were moving too quickly and they were definately not planes as there ware too many lights close together. I promise you on behalf of myself and my family this is not a prank. I also captured some of the lights on mobile phone. The quality is not great but you can see the lights and their formation, and it was not edited I can assure you. Please could you take this seriously as we would like to know more about what they were if you could find any information.My email is ((deleted))    If you would like my house telephone number for contact please email me, or if you would like the video footage which I hope you will.I have also watched the Jamie Maussan  UFO conference 2005 and a lot of the video footage is very similar to mine.If you do watch the video, please can you ignore the video commentary as my mother was claiming it was some big scam as she did not believe they were UFOs, but maybe it was a scam I do not know.Again, please believe me on this one, I promise you the video and this story is 100% true.Many thanks ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66038.html](http://www.nuforc.org/webreports/reports/066/S66038.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2-6 orbs of light intersect, then "bounce," reverse direction, turn, then "bounce" again for >15 minutes.On 2 October, 2015, I was sitting in my living room at about 7:15 PM.  I sat facing French doors.  The curtains were drawn and there was a clear view of the night sky.  I noticed lighted orbs “dancing”  in the sky.  I went outside to observe them more clearly.  Here is what I saw:  Two orbs moved across the sky.  They were heading towards each other then, once they intersected, they both headed back in the reverse direction.  Soon there were three orbs, then 4, then 5, then 6.  Again, the orbs would head in the same direction, intersect, then reverse direction (or “bounce”).  The number of orbs visible at any one time varied from 2-6.  The orbs stayed in almost continuous motion.  However, at times the orbs seemed to stop and hover in a loose pattern for a moment, only to resume the “bounce” activity.  I did not notice any distinct shapes formed by the orbs.  The only clear cut pattern was the “bounce” activity that remained consistent.  There was no noise in my area before, during or after the sighting.  I shot still and video photography with my I-Phone.  I managed to capture images of the activity as described above.  At one point, I asked my husband to observe the activity.  He observed it for a moment and was non-plussed.  After a few minutes, I suspended observation and went inside.  The orb activity continued for an unknown amount of time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125682.html](http://www.nuforc.org/webreports/reports/125/S125682.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
