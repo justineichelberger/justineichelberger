@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hanna (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large light flashed across sky very fast, too low to be a meteor and too fast to be a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149512.html](http://www.nuforc.org/webreports/reports/149/S149512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Stanford (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO Over Stanford University's Hoover TowerOn Thursday, October 2, 2014, at 4:53pm, Pacific Daylight Time, I snapped the photo above of Stanford University's Hoover Tower from within the Stanford Quad. I was unaware of anything unusual at the time, and was not aware of the strange object which appears in the photo between the two left-most trees. I first saw both the photo as a whole, and the strange object in the photo, when I offloaded the photos from my camera onto my home computer on Saturday, October 4, 2014. The camera which took the photo is an Olympus Model VR-320, "HD 12.5x Super Wide, 14 Megapixel", although I had it set on a relatively low resolution, so as to save space and be able to snap more photos during my trip to California.((NUFORC Note:  Bird with wings folded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114252.html](http://www.nuforc.org/webreports/reports/114/S114252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
