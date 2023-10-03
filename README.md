@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lyndon Station (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange lights zooming about the northern sky.  appearing and dissapearing and reapearing and making crazy directional changesTraveling north on Hwy HH my mother, wife, and I spotted moving orange lights in the northern sky.What started as four hovering lights in the north sky, (much bigger than planets or planes, but still seemingly in the distance) soon multiplied into 8 that began traveling in formation from west to east and up and down. 3 than split and traveled back east fast like shooting stars and came to a halt.  Shortly after the group in the east disappeared.  The group in the west remained and travelled back to the center of the sky where it to disappeared.We thought the show was over but a minute or so after ten 2 orange lights  in the center of the northern sky flashed on like a light switch.  From there, they all traveled different directions and turned off like a lite switch seconds latter.These lights do not float like chinnese lanterns or move like any airplane.  They change direction 180 degrees instantly.  All this was seen from my windshield travelling down hh and hwy z from Lyndon station to Adams.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136559.html](http://www.nuforc.org/webreports/reports/136/S136559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Playa del Rey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object was hoovering over ocean.near los angeles international airport.the object was a glowing red.  It started to move north up the california coast.  I also called the airport to let them know, what i had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159710.html](http://www.nuforc.org/webreports/reports/159/S159710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
