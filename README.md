@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:16 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 10, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Long green tail alternating fireball and not lasting 2-3 seconds moving left to right facing southWas walking south down Clinton street between Atlantic and  state streets.  My girlfriend pointed at the sky and we both saw an object moving left to right with a long bright green tail.  The object was intermittently switching between a fireball and not.  It was definitely lower than the moon in the sky.  If I was to reach out and point at it I would guess the tip of my finger to have been 6' off the ground or slightly less.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/114/S114181.html](http://www.nuforc.org/webreports/114/S114181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright orb and strange craft flying over Vancouver, WaMy two teenage boys and I were sitting in living room watching tv and there was a bright, sporadic blinking white light (big) that flew low and above our house - I'm still shaking I'm so amazed, it flew away in a straight line then sideways then down, maybe a couple miles away where it hovered for about ten minutes. Then it disappeared.   But before it did, we saw 3 more crafts that came after it am followed in that same direction.   At first glance they looked like planes but they flew so close we could see their pentagon type of shape and there was ZERO sound. Planes make sound, these were completely silent!!   I have never posted on a sight like this before.  I truly can't believe what just happened. ((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93293.html](http://www.nuforc.org/webreports/reports/093/S93293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
