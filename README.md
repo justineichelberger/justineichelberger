@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 2 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Decator (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>floated silently above our truckOn the evening of 10/3/98 my husband and I picked up a load from Dallas, Tx. and were on on way to Laredo, Tx. I had just gotten in the bed in the sleeper compartment of the truck when my husband asked me to come up front and look at this weird light coming at us. By the time I got up and put my glasses on it was getting very close to us. It was a triangle shaped craft and was very dark in color. I would say black or very dark green. It was silent and only about 1,000 feet above our truck, that we had pulled over to the side of the road. We were on hwy. 278. and just after the sighting, I got the name of the small town and wrote it down, along with the time and date. We have had several sightings and I would be so excited or should I say scared that I wouldn't even think to write any information down. I did have a camera and camcoder with me but I was so excited that I didn't even think about picking one on them up. I said that I would if we ever had another sighting. This is not an easy thing to do when your scared. The craft started off being off to our left and then came toward our truck and then passing right over the top of us. There was no sound from it what so ever. It floated over us and just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05247.html](http://www.nuforc.org/webreports/reports/005/S05247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 10, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Long green tail alternating fireball and not lasting 2-3 seconds moving left to right facing southWas walking south down Clinton street between Atlantic and  state streets.  My girlfriend pointed at the sky and we both saw an object moving left to right with a long bright green tail.  The object was intermittently switching between a fireball and not.  It was definitely lower than the moon in the sky.  If I was to reach out and point at it I would guess the tip of my finger to have been 6' off the ground or slightly less.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/114/S114181.html](http://www.nuforc.org/webreports/114/S114181.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [321](http://www.nuforc.org/webreports/reports/164/S164813.html)
-- [320](http://www.nuforc.org/webreports/reports/164/S164805.html)
-- [319](http://www.nuforc.org/webreports/reports/164/S164803.html)
-- [318](http://www.nuforc.org/webreports/reports/164/S164814.html)
-- [317](http://www.nuforc.org/webreports/reports/164/S164806.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
