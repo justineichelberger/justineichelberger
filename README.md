@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Volinda (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman & 4 neighbors witness "bright red light moving slightly across the sky."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00875.html](http://www.nuforc.org/webreports/reports/000/S00875.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burlington (VT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 low flying brightly lit and quiet objects in sequence, taking the same flight patter.A cylinder came over the lake, with lights all the way around it as if the lights were shining through windows.  It also had smaller red lights around the circumference.  It was flying much lower than a usual airplane, and was quiet.   About 10 minutes after this, we saw another flying object taking the same flight pattern.  It had a large bright rectangular light in the front, and was just as low and quiet.  But as it got closer, we could see that the entire underbody was lit up, and that it was more the shape of a normal small plane. About 15 or 20 minutes later, there was another flyijng craft.  This was an airplane, and was noticeably louder, higher (even though landing), and taking a different flight pattern to reach the airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46948.html](http://www.nuforc.org/webreports/reports/046/S46948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
