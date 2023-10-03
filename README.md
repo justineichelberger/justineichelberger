@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sandy Hook/Stevenson (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Large lit object cruising at very low altitude over Rt 34 in CT at night - no airport immediately nearbyWitnessed while driving NW on RT 34 in CT between the Stevenson Dam and Great Ring Road.Object was floating at a low altitude over Route 34, it was very large, and had many white lights along the sides.  Lights were steady - not flashing.  It was way too low and noiseless to be a 747 jet, and moving too slowly and silently.  It looked like it was only a couple hundred feet up over the treetops.  The shape was hard to describe, it looked rather rectangular when in front of us - like a big floating platform -  then appeared to be more triangular as we passed underneath and looked back to try to get a better look.We turned into Great Ring Road and then tried to get a better look at it, but it was gone.  There were plenty of planes in the sky at the same time - at normal altitudes though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143360.html](http://www.nuforc.org/webreports/reports/143/S143360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Villa (IL) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright stationary red light on a partially cloudy night in an area of the sky in which no stars were visable. This was not a star/planet or a plane. The light was in the Northeasterly sky and did not appear to move. The light was reddish in color and did not vary in intensity. I would say it was at least twice as bright as the second brightest object in the sky and it appeared in an area of the sky that had cloud cover which obscured all other stars.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46794.html](http://www.nuforc.org/webreports/reports/046/S46794.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
