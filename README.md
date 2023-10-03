@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:52 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waterbury (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>Two bright glowing objects that were parallel to each other lasting several hours and then disappeared.I noticed two bright glowing objects parallel to each other in the sky that appeared to stay stationary throughout the night, however they had disappeared by early morning and were not present the following night.At first I thought they may have been stars, but they were abnormally bright and large.  Fog wasn't present.  It was rather dry.Another person in my household (my father) has told me about these two bright objects he saw the same night, so I can confirm there was something there out of the norm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102921.html](http://www.nuforc.org/webreports/reports/102/S102921.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Pompton Plains (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Consecutive slow moving silent orange objects, may have been on fire.2 very slow moving, orange flickering light sources. It looked like a flame and was flying slightly lower than an air craft.  One drifted in a straight line, then appeared to die out. Shortly after, another followed in the exact path and also seemed to die out in the distance. It reminded me of flying lanterns, but the movement was too perfect of a pattern to be a coincidence.  Both were silent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114183.html](http://www.nuforc.org/webreports/reports/114/S114183.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
