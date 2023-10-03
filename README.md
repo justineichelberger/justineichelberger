@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Playa del Rey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object was hoovering over ocean.near los angeles international airport.the object was a glowing red.  It started to move north up the california coast.  I also called the airport to let them know, what i had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159710.html](http://www.nuforc.org/webreports/reports/159/S159710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About 7 flying objects above New York Sky.I was watching the Giants game on TV and before the commercial break, the TV station blimp showed the Manhattan skyline from above and my boyfriend and I saw at least 10 objects flying above the city.  I first thought they're blimps or helicopters but they're traveling too fast and were emitting multiple colors of lights as they fly around.  I then went to the window where I can see the skyline and saw one flew by above the empire state building.  Did anyone see it?  It was around 10:22pm on 3 October 2010.  If you have that night's Giant's game recorded you can clearly see them flying around along with 1-2 helicopters.  I would greatly appreciate it if someone let me know if they've seen it too like us.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78138.html](http://www.nuforc.org/webreports/reports/078/S78138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
