@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:52 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cherry Hill (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three white objects in triangle formation hovered, then objects flew away from eachother at high speed.At 8:15 pm on 10/03, I saw a triangle shape made of three distinct objects hovering in the sky. I was driving at the time, and eventually slowed down to make special note of this object. It hovered for over a minute, followed by the objects flying off into seperate directions. This quickly told me it was not a solid triangle with three lights. I could only track one of them flying to the west which shot off at high speed. The objects themselves were all circle/ball shaped with a large bright white center. They all had small blinking red lights around this central white area. They were as big as a dime held at arms length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46805.html](http://www.nuforc.org/webreports/reports/046/S46805.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waterbury (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately Several Hours - Several Hours minutes.</sub><blockquote><sub>Two bright glowing objects that were parallel to each other lasting several hours and then disappeared.I noticed two bright glowing objects parallel to each other in the sky that appeared to stay stationary throughout the night, however they had disappeared by early morning and were not present the following night.At first I thought they may have been stars, but they were abnormally bright and large.  Fog wasn't present.  It was rather dry.Another person in my household (my father) has told me about these two bright objects he saw the same night, so I can confirm there was something there out of the norm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102921.html](http://www.nuforc.org/webreports/reports/102/S102921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
