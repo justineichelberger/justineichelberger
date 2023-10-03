@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:51 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Chesterfield (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Very attractive and amazing.I went out to take the trash out and I used to be a Boy Scout, so each night I look up in the sky each night.  I was outside my grandparents house I was looking northeast the object was hovering over my house about 20 feet to 25 feet away and there were 50 lights under the belly of the boomerang shaped craft and for about 3 minutes and (I have no witnesses) it was very bright and then all the Sun is Charlotte and sky went back for the side and I'm sure way like a bullet was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122520.html](http://www.nuforc.org/webreports/reports/122/S122520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Volinda (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Woman & 4 neighbors witness "bright red light moving slightly across the sky."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00875.html](http://www.nuforc.org/webreports/reports/000/S00875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
