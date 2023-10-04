@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 3 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 4 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Villa (IL) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright stationary red light on a partially cloudy night in an area of the sky in which no stars were visable. This was not a star/planet or a plane. The light was in the Northeasterly sky and did not appear to move. The light was reddish in color and did not vary in intensity. I would say it was at least twice as bright as the second brightest object in the sky and it appeared in an area of the sky that had cloud cover which obscured all other stars.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46794.html](http://www.nuforc.org/webreports/reports/046/S46794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>looks like a starship out of SciFi movieNotice a small light in the sky holding stationary at the 12 o'clock pos.  Took a look with my binoculars it didn't look to be spherical got the 4 1\2" telescope and looked at it.  It looks like it has structure shapes and it was triangle shape with some reflective surfaces. While trying to lock on to this object with the scope noticed a red dot (not illuminated but looked to painted red) off to right of the main objects.  The main object behaved like a balloon but looked nothing like any balloon I have ever seen thru my scope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114320.html](http://www.nuforc.org/webreports/reports/114/S114320.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [347](http://www.nuforc.org/webreports/reports/164/S164954.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164811.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165109.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164816.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165111.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
