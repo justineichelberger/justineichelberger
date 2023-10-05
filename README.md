@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>10 shapes were flying about a mile outside of Ohare field.At about 4:30 pm my wife was getting our kids in the car to leave when we heard our neighbors yelling, look up there! There were 10 what looked like balls of light at this distance moving around what I estimate to be a mile or so up. Higher than the planes are at that distance from the airport. They then formed into a hourglass shape or two triangles and remained that way for about 5 min. Then changed again to a inverted L shape and started to travel east twordes the lake.They then changed again to two rows of two or  five on top of five with the outside two being farther north than the others. They stayed this way until out of site about 15 min time total. Approx. 5 minutes later two more came directly north to south past us at a much closer distance ( still one on top of the other) so we could see the shape was a triangle or possibly diamond. We know of no one else who saw this on Sat. which we find incredible.((NUFORC Note:  Witness provides no internet contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25457.html](http://www.nuforc.org/webreports/reports/025/S25457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.006666666666666667 - 0.006666666666666667 minutes.</sub><blockquote><sub>There was a lone craft in the sky,that seemed pretty high. I am not familar with the exact height/Locations of things>  According to the actual flight standerds>, but it was traveling at a fast pace.  It was an orange cheveron shape flying East to west at a fast rate... Meaning faster than any "normal" craft.I'm certainly not sure if it was a new technoligy or not, But yet again I have a hard time understanding just how an craft from this planet could could go so very fast without gravity damage.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46998.html](http://www.nuforc.org/webreports/reports/046/S46998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
