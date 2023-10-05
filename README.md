@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Irregular Air Traffic - IdentifiedI had just gotten to work and was outside with a co-worker having a smoke and admiring the clouds, bullshitting about the weather and the season when she noticed it first and asked what it was.  She thought it was a single craft but i was quick to notice it was 2 separate craft in a tight formation, to my surprise they were 2 Boeing B-1B Lancers.  The nearest bases are Barnes Air National Guard 103rd Fighter Wing (F-15s) and Westover Air reserve Base housing the 43rd Airlift wing.  If I recall correctly there are no B1 Wings on the East coast.  The Bombers were flying high at typical airliner height, with no after sound, heading from East to West. This is not a UFO reporting but like my description just irregular air traffic</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122566.html](http://www.nuforc.org/webreports/reports/122/S122566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Des Plaines (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>10 shapes were flying about a mile outside of Ohare field.At about 4:30 pm my wife was getting our kids in the car to leave when we heard our neighbors yelling, look up there! There were 10 what looked like balls of light at this distance moving around what I estimate to be a mile or so up. Higher than the planes are at that distance from the airport. They then formed into a hourglass shape or two triangles and remained that way for about 5 min. Then changed again to a inverted L shape and started to travel east twordes the lake.They then changed again to two rows of two or  five on top of five with the outside two being farther north than the others. They stayed this way until out of site about 15 min time total. Approx. 5 minutes later two more came directly north to south past us at a much closer distance ( still one on top of the other) so we could see the shape was a triangle or possibly diamond. We know of no one else who saw this on Sat. which we find incredible.((NUFORC Note:  Witness provides no internet contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25457.html](http://www.nuforc.org/webreports/reports/025/S25457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
