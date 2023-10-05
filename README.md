@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 4 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Peoria (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>looks like a starship out of SciFi movieNotice a small light in the sky holding stationary at the 12 o'clock pos.  Took a look with my binoculars it didn't look to be spherical got the 4 1\2" telescope and looked at it.  It looks like it has structure shapes and it was triangle shape with some reflective surfaces. While trying to lock on to this object with the scope noticed a red dot (not illuminated but looked to painted red) off to right of the main objects.  The main object behaved like a balloon but looked nothing like any balloon I have ever seen thru my scope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114320.html](http://www.nuforc.org/webreports/reports/114/S114320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellington (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Irregular Air Traffic - IdentifiedI had just gotten to work and was outside with a co-worker having a smoke and admiring the clouds, bullshitting about the weather and the season when she noticed it first and asked what it was.  She thought it was a single craft but i was quick to notice it was 2 separate craft in a tight formation, to my surprise they were 2 Boeing B-1B Lancers.  The nearest bases are Barnes Air National Guard 103rd Fighter Wing (F-15s) and Westover Air reserve Base housing the 43rd Airlift wing.  If I recall correctly there are no B1 Wings on the East coast.  The Bombers were flying high at typical airliner height, with no after sound, heading from East to West. This is not a UFO reporting but like my description just irregular air traffic</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122566.html](http://www.nuforc.org/webreports/reports/122/S122566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [365](http://www.nuforc.org/webreports/reports/164/S164820.html)
-- [364](http://www.nuforc.org/webreports/reports/164/S164848.html)
-- [363](http://www.nuforc.org/webreports/reports/164/S164807.html)
-- [362](http://www.nuforc.org/webreports/reports/165/S165018.html)
-- [361](http://www.nuforc.org/webreports/reports/164/S164808.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
