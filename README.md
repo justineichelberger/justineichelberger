@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:47 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange round light moving over cityWe saw a bright glowing round orange light in the sky which moved in a southern direction, gaining height before disappearing suddenly. I am a retail manager and my boyfrind is an electronic engineer and we were doing dishes when i noticed the light,called my boyfriend who suggested i video it on my mobile phone(which i did).exactly one month later on November 2nd 2008 my mum called me and described seeing the same light but moving in a northerly direction over her house - she had not seen the video yet our desciptions were virtually identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66683.html](http://www.nuforc.org/webreports/reports/066/S66683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Culver City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>SILVERY OBJECT SEEN HOVERING HIGH-ALTITUDE OVER CULVER CITY, CALIFORNIAWhile filming the motion picture "Click" at Sony Studios in Culver City, CA, several eye witnesses (including myself) (all witnesses were Union and Non-Union Background Actors, Sony Studios employees, and crew members of various motion picture and television series productions) seen a metallic object in the sky. The conditions that day were clear/blue skied/sunny. The object hovered over the studios about 25,000-30,000 feet. A military-type aircraft also flying high-altitude, flew past this object. The object did not move for more than two (2) hours. Finally, all eyewitnesses were asked to proceed inside Studio 26 to perform with several Hollywood personalities. The object was silvery and shiny...as the sun reflected this object to be seen by many of the eyewitnesses. I did not initially spot this object. I was asked to go outside by another person to observe this object. I have no idea if this object was reported by another eyewitness and/or if a report was filed. Because we were on location at Sony Studios, there was NO record of any filming relating to or concerning aircraft or aerospace films--especially at the altitude of this object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47977.html](http://www.nuforc.org/webreports/reports/047/S47977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
