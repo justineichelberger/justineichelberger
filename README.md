@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Coatsville (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>watching a blue jay. wife noticed metallic globe-like object in sky. moved slowly west to southeast...changed shape...changed from transparent to white...we watched object until it disappeared over the treeline...too high for a balloon; if a balloon the morning was too windy for it to hover...neighbor witnessed it and showed me pics of objects off N. Carolina coast last week...very, very similar</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149504.html](http://www.nuforc.org/webreports/reports/149/S149504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mckinney (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>While walking our dog around the neighborhood we noticed a bright spherical shape/light moving slow in a strange path and about as high as a plane would be. I managed to record it for about 2 minutes on my Galaxy S10 phone before it seemed to zip away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165097.html](http://www.nuforc.org/webreports/reports/165/S165097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
