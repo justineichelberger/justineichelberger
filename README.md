@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:47 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Jerome (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4hrs. - 4hrs. minutes.</sub><blockquote><sub>Diamond shaped craft shifts to Cylinder over ArizonaMy sister called and woke me up, saying a U.F.O. hade been seen due east. I grabbed my video camera, and filmed at first what looked diamond shaped, but clear, then three hours latter it turned into a cylinder shape, with a moving black line through the midle. it stayed by some clouds for another hour or so.((NUFORC Note:  Anonymous report.  We have no way to contact this witness, in order to request a copy of the tape.  It would be unusual for a UFO to hang around for some 4 hours, and only one report to be submitted.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14863.html](http://www.nuforc.org/webreports/reports/014/S14863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Aberdeen (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange round light moving over cityWe saw a bright glowing round orange light in the sky which moved in a southern direction, gaining height before disappearing suddenly. I am a retail manager and my boyfrind is an electronic engineer and we were doing dishes when i noticed the light,called my boyfriend who suggested i video it on my mobile phone(which i did).exactly one month later on November 2nd 2008 my mum called me and described seeing the same light but moving in a northerly direction over her house - she had not seen the video yet our desciptions were virtually identical.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66683.html](http://www.nuforc.org/webreports/reports/066/S66683.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
