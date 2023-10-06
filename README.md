@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:41 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Kirkland Lake (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>2 silver disk appeared for a few seconds and took off like a bat out of hell  Someone else saw it but got laughed at on Facebook.  So I don’t know if he reported it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165196.html](http://www.nuforc.org/webreports/reports/165/S165196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>On Saturday at around 21:30 I got a text from my wife saying words to the effect of 'you'll never believe but the lights are back in the sky again.((NUFORC Note:  We have no idea who submitted this report.  PD))Apparently my son was outside smoking a cigarette once again and he ran inside once more and called out to my wife to come outside and see the lights again.Of course following the spectacle of the previous weeks sightings she did just that and according to what they showed me on video and pictures low and hold the same light sighting we saw the previous week were back again.  Orangey-red dots in the sky almost motionless but moving none the same.However this time they were travelling from a different direction from what we saw on 30/09/2012 and not the 29/09/2012 as it was after midnight as I stated my apologies.  Anyway last time they were coming from a northeast direction travelling eastward this time however they were travelling from a southwest travelling northeast wards.  It was estimated that there were about 20 visible dots at different times.  Some  of the dots ascending for about 2-3 seconds before disappearing completely.  The others intermittently disappeared and then re-appeared before disappearing altogether after observing them for about 2-4 minutes.The amazing thing is we searched just like we did last week to see if anyone else had reported seeing any sightings.  And just like we found the images of the sightings posted from Holland and Britain last week which was almost identical to what we saw.  The photos we have of the sightings on Saturday 06/10/2012 are once again almost identical to the image of the photo taken in Holland and Britain.Going to upload our pictures so you can make of them what you want.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Witness does not indicate the location of the sighting.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93420.html](http://www.nuforc.org/webreports/reports/093/S93420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
