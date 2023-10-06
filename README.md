@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:04 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:59 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>looked like a plane flying when a red light moved in different directions and disappearedAppeared to be a plane heading north with white and red marker lights. All the sudden it started moving erratically. It made sudden moves left, right, weird circles then dropped out of site.  It then reappeared approaching MAFB from the north and made a sudden turn to the left and disappeared. In all the years of telescope observing,  I never saw anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149531.html](http://www.nuforc.org/webreports/reports/149/S149531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>the object,while lit, flew faster than any plane I've ever seen.I looked in the sky as I was driving down a semi-lit street, and saw a bright light flash from one side of the object to the other. The light bent on the object as if it were curved or raindropped shape, and as if the object was spinning or turning. When the light got from one side to the other, the back side of the object was facing me and as it did, the object dimmed and shot at LEAST 20 miles across the sky and disappeared...... It was a crystal clear night, so it didn't disappear into any clouds.... I instantly called my house to tell my fiance what I saw, as soon as I began to say hello, the weirdest noise shot through my cell, she told me she heard it on her phone too.  I was only 1 mile from home. The noise sounded like radio frequency, but was only a second long.((NUFORC Note:  We spoke with this witness via telephone, and found him to be quite credible.  He felt quite certain that the sighting had not been caused by an observation of an advertising light streaking across the sky.  Conditions were clear, with no clouds.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32089.html](http://www.nuforc.org/webreports/reports/032/S32089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
