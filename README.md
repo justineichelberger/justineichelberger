@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in West Columbia (SC) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>ORANGE GLOWING OBJECT SEEN IN NIGHT SKYONE OBJECT OBLONG ORANGE GLOWING HAD A TAIL  IN A COUPLE OF PHOTOS IT MOVED SIDEWAYS UP DOWN THEN DISAPPEARED  FOR TWO PHOTOS IT WAS ABOVE THE TREE LINE IN MY HOUSING COMMUNNITY IN ONE PHOTO OF THE OBJECT YOU CAN SEE THE ROOF OF MY NEIGHBORS HOUSE</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93388.html](http://www.nuforc.org/webreports/reports/093/S93388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Picardie (France) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>im aint a ufo guy, but there is a alluminated patch of light witch keeps moving lEft then right  Left then right.  its definatly not a plane its been moving too fast with an alluminated  colur.  im currently in picardie france.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/102/S102978.html](http://www.nuforc.org/webreports/reports/102/S102978.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
