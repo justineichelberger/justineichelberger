@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:47 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chaska (MN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silver tear drop shape object moving at a high rate of speed from north to south.I was in my front room sitting on the floor playing with my daughter.  We have a big window that faces west.  At 14:40 I looked out the window and saw a silver object, tear drop shape move across the sky from north to south.  It appeared to be moving at a high rate of speed.  I had a full view of it for approximately 2 second and then was partially obstructed by a small 15' tree we have in our front yard.  The object was still visible due to leaves being off this tree.  The whole incident lasted approximately 5 seconds.  We do have commercial airlines that typically fly from west to east into Mpls/St.Paul Airport.  We also have a small community airport in the city of Eden Prairie which is east of where I live.  Those planes are easily identified due to low elevation they are in for landing or take off.  It definitely was not a commercial or private aircraft.  I also called the Carver Co. Sheriffs office to see if there were any other reports, there were non! e nor did I file a report.I am in the medical field currently on disability due to on the job injury.  I was not on any pain medication at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78194.html](http://www.nuforc.org/webreports/reports/078/S78194.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Angleton (5 miles north) (TX) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vertical, symmetrical key-shaped or awl-shaped, terrestrial (?) craft, as outlined by 8-to-10 red lights.Vertical, key-shaped UFO, with red lights ONLY on perimter. Length (horizon up) 3 units (estimated 90 feet) by 2 units (estimated 60 feet) with upper part shaped like bulge of car key (or awl-head), and lower part shaped like tapered area of key -- the shape of the the craft estimated by border of 8-to-10 red, pulsating lights on perimeter.  Lights were red and pulsed.  Time: 08:35 p.m. Central.  Conditions: Clear.  Sun completely down, (dark), clear, excellent visibility.  Observed UFO headed South-Southwest, bearing about 190 degrees, almost paralleling Texas State Highway 288 (about 45 miles due south of downtown Houston).  Altitude: Estimated 1000 feet.  Speed: Estimated 150-to-200 mph.  Obserbed UFO on west side of highway, then move gently to east side of highway, then gently back to west side of highway -- where it maintained (apparently) a steady 190 degree course.  This course would have brought it just west of the Brazoria County Airport, located at North 29.06.35, West 95.27.47.  Followed (at about 70 mph) the UFO for about 5 minutes -- keeping it in sight until its higher speed out-distanced me.  Typical lighting configuration for aircraft (green light, red light) NOT seen -- only red lights on perimeter.  Important -- this UFO's description is based on its VERTICAL appearance.  Have never before seen any aircraft with this type of configuration.  In short, it is aerodynamically impossible for this craft to have been flying using conventional flight systems.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10135.html](http://www.nuforc.org/webreports/reports/010/S10135.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
