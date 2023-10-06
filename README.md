@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:47 on 5 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Culver City (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>SILVERY OBJECT SEEN HOVERING HIGH-ALTITUDE OVER CULVER CITY, CALIFORNIAWhile filming the motion picture "Click" at Sony Studios in Culver City, CA, several eye witnesses (including myself) (all witnesses were Union and Non-Union Background Actors, Sony Studios employees, and crew members of various motion picture and television series productions) seen a metallic object in the sky. The conditions that day were clear/blue skied/sunny. The object hovered over the studios about 25,000-30,000 feet. A military-type aircraft also flying high-altitude, flew past this object. The object did not move for more than two (2) hours. Finally, all eyewitnesses were asked to proceed inside Studio 26 to perform with several Hollywood personalities. The object was silvery and shiny...as the sun reflected this object to be seen by many of the eyewitnesses. I did not initially spot this object. I was asked to go outside by another person to observe this object. I have no idea if this object was reported by another eyewitness and/or if a report was filed. Because we were on location at Sony Studios, there was NO record of any filming relating to or concerning aircraft or aerospace films--especially at the altitude of this object.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47977.html](http://www.nuforc.org/webreports/reports/047/S47977.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I went out to my car from from work for a quick break. I was walking back inside at around 0514. Looked up at the satrs as I do most nights that I'm outside. So I know generally where the stars are located at what times. It looked as if there were more stars than usual this morning. Very bright white. Seemed as if 2 bright white lights side by side but connected. But glowing round. Thinking dang thats a bright star. But seemed about the right size and distance. Then it started moving east or northeast I believe. About the speed of a 20-40 passenger craft. A bit slower maybe. Then sped up to much faster than a prop plane. Then seemingly changed from 2 bright white lights to one glowing firery rust orange ball of light that zoomed farther away and then straight up to where I could faintly see because of its altitude, and then seemed to evaporate almost. Then nothing. No sound throughout this ordeal. Ive seen plenty of planes and jets at night. Plenty of stars.! Plenty of sattelites growing up on a lake in the Forrest. This was none of those.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150074.html](http://www.nuforc.org/webreports/reports/150/S150074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [416](http://www.nuforc.org/webreports/reports/164/S164851.html)
-- [415](http://www.nuforc.org/webreports/reports/164/S164822.html)
-- [414](http://www.nuforc.org/webreports/reports/165/S165097.html)
-- [413](http://www.nuforc.org/webreports/reports/164/S164815.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165105.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
