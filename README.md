@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Walton (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Busy night in the sky above northern KYWe pulled in the drive and my wife and daughter got out while my son and I finished his movie, about ten minutes. When we got out my wife was lying back on the steps and I asked if she feel asleep. She said know those stars are moving here, here and here. I looked up in the southwest sky but almost directly overhead and sure enough whatever it was was moving. But not real fast. It hovered then moved with purposes toward a nearby light. First a light would bean out it followed and left a small light trail. There were three main stars with two or three around them in the sky, but the middle one was the brightest and most active so we focused on it. We went inside and got our binaculars and telescope. The binaculars gave us a look at everything going on but like from a distance. Details couldn't be made out. But it was hard to stay focused because it kept moving. The telescope was almost useless. It was almost too loe for it, but one time I got a good look at it. It was round with a flat gray surface. After an hour we came in with sore necks and tired kids but as I type this it is still going on. I didn't know where or who to report this to, so I googled and found this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59124.html](http://www.nuforc.org/webreports/reports/059/S59124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in May's Landing (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>seen in the distance, lights that went around the craft in a strob,circeler around it. was hovering for about 3 min's and went stright up and disaperd.seen in the distance, lights that went around the craft in a strob,circeler around it. was hovering for about 3 min's and went stright up and disaperd.((NUFORC Note:  We wonder whether the witness might have observed an advertising light.  We assume the sighting occurred near the residence of the witness, and have entered that location above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10139.html](http://www.nuforc.org/webreports/reports/010/S10139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
