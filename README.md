@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Central Falls (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 star like circles together. 3 of the objects started moving away in a straight line at very high speeds.  The 4th light moved slowly in the opposite direction and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149598.html](http://www.nuforc.org/webreports/reports/149/S149598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in  (ID) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Stationary Intermediate white flashing light seen in Idaho MountainsI was in southern Idaho camping in a remote mountainous area where there were no towns, buildings or lights of any kind.  I was about 6500 feet elevation and as far as I knew I was the only one camping for many miles.  I had a campfire going at the edge of a large open meadow. It was about 8pm and I saw a bright white light in the night sky above me and a little to my left.  The light was bright then it would dim down to where it was completely dark. The light would appear again around 30 seconds later, then dim down each time.  After a dozen times of it doing this I started timing it, but the flash of light was intermediate....at least 30 seconds to a minute before it would flash again.  The light did not appear to be moving as I positioned its location using trees and a star.  I ruled out a helicopter or any conventional aircraft as they have lights that are either on constantly or flashing. there was no light at all on this object other than the one bright flash of light, then it dimmed down to darkness.  There was no spotlight going to the ground either.  Two of the flashes though were very bright...maybe 3 or 4 times brighter than the others. After 30 minutes of so it had moved just east of me as short ways.  After another 10 minutes it stopped altogether.  There was no noise. When the light dimmed down just before going off I thought I could very briefly see the reflection of the object.  It was elongated, but not real long.  No wings either and the light was on the end facing me.  There were no other colors than white.  I had a powerful spotlight, but I didn't want to turn it on out of concern that I might get a "visitation".  Seriously it was amazing to watch, but I was glad when it was finally gone.  I don't why it was there except for it wanting to watch my campfire.  With one more burst of light it moved on in an easterly direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122619.html](http://www.nuforc.org/webreports/reports/122/S122619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
