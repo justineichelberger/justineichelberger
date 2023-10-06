@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:40 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Greeneville (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On Sunday October 6, 2013, a co-worker and myself were standing on the porch looking in the sky, because a single engine biplane was overhead.  The biplane was making an unusual sound that wasn't familiar to me.  While I was watching that biplane, to the right I noticed a very bright silver metallic craft.  My co-worker said what is that?  I replied, I had no idea.  It was moving in a circular motion towards the clouds.  It had some sort of wings/blades on the craft, but I never have seen anything so bright or shiny silver in the sky, and I never saw anything move that way.  The craft then moved off into the clouds.  My co-worker and I work with mentally handicapped people, and we have no experience with aircraft.  We were just looking at the sky.  There was no sound from the craft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103291.html](http://www.nuforc.org/webreports/reports/103/S103291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Chaska (MN) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Silver tear drop shape object moving at a high rate of speed from north to south.I was in my front room sitting on the floor playing with my daughter.  We have a big window that faces west.  At 14:40 I looked out the window and saw a silver object, tear drop shape move across the sky from north to south.  It appeared to be moving at a high rate of speed.  I had a full view of it for approximately 2 second and then was partially obstructed by a small 15' tree we have in our front yard.  The object was still visible due to leaves being off this tree.  The whole incident lasted approximately 5 seconds.  We do have commercial airlines that typically fly from west to east into Mpls/St.Paul Airport.  We also have a small community airport in the city of Eden Prairie which is east of where I live.  Those planes are easily identified due to low elevation they are in for landing or take off.  It definitely was not a commercial or private aircraft.  I also called the Carver Co. Sheriffs office to see if there were any other reports, there were non! e nor did I file a report.I am in the medical field currently on disability due to on the job injury.  I was not on any pain medication at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78194.html](http://www.nuforc.org/webreports/reports/078/S78194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
