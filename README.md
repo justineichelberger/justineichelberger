@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:04 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I went out to my car from from work for a quick break. I was walking back inside at around 0514. Looked up at the satrs as I do most nights that I'm outside. So I know generally where the stars are located at what times. It looked as if there were more stars than usual this morning. Very bright white. Seemed as if 2 bright white lights side by side but connected. But glowing round. Thinking dang thats a bright star. But seemed about the right size and distance. Then it started moving east or northeast I believe. About the speed of a 20-40 passenger craft. A bit slower maybe. Then sped up to much faster than a prop plane. Then seemingly changed from 2 bright white lights to one glowing firery rust orange ball of light that zoomed farther away and then straight up to where I could faintly see because of its altitude, and then seemed to evaporate almost. Then nothing. No sound throughout this ordeal. Ive seen plenty of planes and jets at night. Plenty of stars.! Plenty of sattelites growing up on a lake in the Forrest. This was none of those.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150074.html](http://www.nuforc.org/webreports/reports/150/S150074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>looked like a plane flying when a red light moved in different directions and disappearedAppeared to be a plane heading north with white and red marker lights. All the sudden it started moving erratically. It made sudden moves left, right, weird circles then dropped out of site.  It then reappeared approaching MAFB from the north and made a sudden turn to the left and disappeared. In all the years of telescope observing,  I never saw anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149531.html](http://www.nuforc.org/webreports/reports/149/S149531.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
