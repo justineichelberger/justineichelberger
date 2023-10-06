@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Inwood (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:5 - 0:5 minutes.</sub><blockquote><sub>BIG DIPPER HAS LOOSE STARat 5:50 i came out of my house to go fishing i looked up at the stars and saw the big dipper faceing south i saw a star go from stand still move east then dissapper from sight in to deeper space.((NUFORC Note:  We wonder whether the witness may have seen an orbitting satellite come out of the Earth's shadow into sunlight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25492.html](http://www.nuforc.org/webreports/reports/025/S25492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Sedalia (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two orange pulsing lights, seemingly connected, and hovering in skyDriving southeast just outside of Sedalia, on a country road, I saw what looked like an orange light flashing in the sky.  As we went further down the road, I realized that there were really two lights, one stacked on top of the other vertically.  One was always brighter than the other, and when one got brighter, the other dimmed. This happened again and again, but not flashing, more like pulsing, the lights never quite disappearing.I told my husband to pull over so we could have a better look.  About a minute later, I couldn't find it in the sky, and realized it had jumped quite a distance from the west to the east, but I never saw it move. About three or four minutes later, it was back to where it originally started from. It then suddenly seemed to turn and disappear south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59119.html](http://www.nuforc.org/webreports/reports/059/S59119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
