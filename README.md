@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fes (Morocco) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looking off balcony at night sky curious because of what I had witnessed in recent days.  Noticed small streak of light like falling star followed by object that looked like a star began slowly moving accross sky.  It was as if a star was at a stand still and then slowly started propelling off into the horizon. I was truly startled by this sight which also occured during Ramadan in this islamic country.  I started asking the locals I was with if they knew what I may have seen, the only thing they could come up with was the possiblity that it was related to the religious time we were in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53453.html](http://www.nuforc.org/webreports/reports/053/S53453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was outside smoking a cigarette when I looked down to the end of my street and saw a pulsing light.  I wasn't sure if I should walk down to get a further look because it seemed so far away.  Basically I watched it pulsate and gleam while it moved back and fourth from behind a tree at the end of the street.The light also would glow very brightly, go back into itself, then glow brightly again. Not to positive on what it could have been, or even how far away it was.  It disappeared after about two minutes, so I disregarded it as a possible helicopter or airplane.The light suddenly came back slightly to the right of where it was moving before.  It then became very bright and simply vanished no more than a second later.  Not in a shooting off type of vanishing, just simply went away.Nothing to my knowledge could make that light, and move in the way that it did.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84356.html](http://www.nuforc.org/webreports/reports/084/S84356.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
