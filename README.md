@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:45 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright orange rectangles that turned into a blinking, hovering light, followed by a line of blue and red planes with triangles.I was smoking and bsing with my good friends when we noticed what seemed to be an aircraft with its high beems pointed at us. It then made and obviouse curve and turned into 3 reeectangular lights that made a small line. Imediately after it turned again, it was a single blinking light. We watched it for another half minute or so, when we noticed that its speed was accelerating. Then out of nowhere, it has lights that swirl around it similar to an atom and its electrons. At the same this was happening, we were being approached by several airplane sounding crafts that had blue and red lights. One of the ufo's flew directly above us, and we could see triangular light patterns on the bottom of the craft. There were approximately 15 of these in a line flying NNE. After we thought all this excitement was over, not even five minutes later did a Military Jet fighter start zooming through the sky, like it was chasing them, It did a few curves and even broke the sound barrier. My smoke and light seemed over, so we all stepped inside. 1 minute later, a huge flash of light lit up the back window, so we checked and there was that same flying thing that we saw at the start, and this time it wasnt flying in a straight line, it zigzaged slightly. Shortly after, i got very pale and sick, i dont know why, maybee the chicken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39673.html](http://www.nuforc.org/webreports/reports/039/S39673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Inwood (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:5 - 0:5 minutes.</sub><blockquote><sub>BIG DIPPER HAS LOOSE STARat 5:50 i came out of my house to go fishing i looked up at the stars and saw the big dipper faceing south i saw a star go from stand still move east then dissapper from sight in to deeper space.((NUFORC Note:  We wonder whether the witness may have seen an orbitting satellite come out of the Earth's shadow into sunlight.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25492.html](http://www.nuforc.org/webreports/reports/025/S25492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
