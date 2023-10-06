@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Elk Grove Village (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Traveling towards O'Hare/Chicago, Huge Low Flying 3 Tiered Inverted Triangle Flying ObjectsI was traveling North on Rohlwing Road (53) when I saw brillant white lights in formation like an inverted 3 tiered triangle. All appeared stationary traveling East towards Chicago.  The span was enormous! I thought are they planes going to land at O'Hare but then I thought how can they have a tiered formation and all of a sudden on the right side tier, more lights appeared as if they were switched on.  I stopped and all of a sudden the second level tier light shot off from the left side and as fast as a blink of an eye was immediately to my left.  It glowed bigger and had a red hue and then all of a sudden it vanished like the light went out.  I looked to my right and the formation had changed, still tiered but so low. I can not believe that this is not in the paper and I am sure many people had to have seen this as it was so low and so big! I have never in my 48 years ever seen anything that moved so quickly in my life as I saw when that light left the tier and moved to my left.  I am not sure of the distance but it covered so many miles in less than a blink of eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78217.html](http://www.nuforc.org/webreports/reports/078/S78217.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Central Falls (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 star like circles together. 3 of the objects started moving away in a straight line at very high speeds.  The 4th light moved slowly in the opposite direction and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149598.html](http://www.nuforc.org/webreports/reports/149/S149598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
