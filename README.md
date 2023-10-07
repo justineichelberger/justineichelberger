@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Just seen a slow bright light moving in the southeast N.M. Sky.  Heading downwords with a look of air flow over a bullet.  A long triangle that stayed let, then finally dissipated.  Then 2 minutes later seen flashing jet lights heading toward diminishing light.  Never ever seen this.  Was slow moving.((NUFORC Note:  Launch of Falcon 9 rocket out of Vandenberg AFB.  Anonymous report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143412.html](http://www.nuforc.org/webreports/reports/143/S143412.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Anchor Point (AK) reported seeing craft that fit the description of some 'Flash' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Unidentified flashing lights hovering 15 degrees above horizon, in west north west directionTwo close groups of flashing lights are in view about 15 to 20 degrees aboce the horizon to the west northwest of the Anchor River Airpark in Anchor Point.  Each cluster has continuous white flashing lights with intermittent red and green flashing lights.  At first it looked like an on coming aircraft, however it did not appear to be moving.  There is no sound.  Time 10:10 flashing lights remain, may be slowly moving in a more northerly direction at the same elevation.  10:30 Gradual movement to the north and lower on the horizon appears to be more distant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130501.html](http://www.nuforc.org/webreports/reports/130/S130501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
