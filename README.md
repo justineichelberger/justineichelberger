@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Object was not moving,but flashing different colors(blue,red,white and maybe yellow,1 object was seen.It lasted for aprox one hour until clouds cover the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07786.html](http://www.nuforc.org/webreports/reports/007/S07786.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pleasant Hill (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw 6 very bright lights perfectly spaced apart and they werent moving, when we cam back to were they were 5 min later they were goneAs we were comming home, we went across a hill and looked over in the distance. We saw 6 really bright lights. They were just sitting there. We went down that road towards the light and when we went as far as we could go, the trees were blocking it.So we went back up to the hill were we first saw the lights, and when we got back up there, the lights were gone. It was very mysterious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32105.html](http://www.nuforc.org/webreports/reports/032/S32105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
