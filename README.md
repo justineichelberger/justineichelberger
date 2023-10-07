@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norwell (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Moving West to East and then turning north a series of identical very bright objects with pencil thin lights would appear out of nowhere one at a time and after making the turn the bright light would fade to dark at the same time a new object would appear in the exact place the other one started.  This happened about 8 times.  All objects followed the exact path of the last and would fade out at the same spot leading to the next one starting.   This happened 8 perfectly spaced times before no others followed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149729.html](http://www.nuforc.org/webreports/reports/149/S149729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Urbandale (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Formation of  white lights moving in a random pattern in a northwesterly directionWas standing on my deck when i observed 6 white lights that did not change color in a circular pattern, equidistant from each other moving in a counterclockwise direction, then a clockwise direction very slowy.i would say that the altitude was less than 2000 feet. The pattern then changed to a v formation moving northwest very slowly.I went around my house to follow the lights and my neighbors parents were in the driveway unpacking their car.I asked the gentleman if he observed the lights also. He confirmed them and was as puzzled as I to what it could be.There was no sound associated with them. They continued Northwest in movement and we lost sight of them because of trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32293.html](http://www.nuforc.org/webreports/reports/032/S32293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
