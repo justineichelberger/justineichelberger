@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two glowing orange balls of light traveling in a southern direction dropping "flares" and continuing south.North of our Apartment in the sky about 1500 feet in the air 2 orange glowing balls of light were traveling towards us.  They both seemed to flicker orange and brighter on the outside and darker on the inside.  As they came directly over the top of our Apt. they made no noise so my girlfriend and I knew it wasn't a plane or helicopter.  The 2nd orange ball seemed to actually speed up a little to catch the ball in front of it just for a moment.  Then it appeared that both of them started shooting "flares" several at a time out of the orange balls.  The lead ball started with maybe 2-3 balls and then the 2nd ball did the same.  It seemed as the "flares" were falling from the orange balls that the orange glow became dimmer and also it appeared that they were brighter from the "front" of the ball then the back side.  As they continued in the sky towards the south they seemed to keep the same altitude but eventually left our field of vision.The sky was clear with no clouds on a brisk cool night.  Between 50-60 degrees out.  We both stood there in disbelief as to what we actually just witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66107.html](http://www.nuforc.org/webreports/reports/066/S66107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160110.html](http://www.nuforc.org/webreports/reports/160/S160110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
