@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Goose Creek (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I took my dog outside to go to the bathroom and I noticed lights up in the sky - a row of them.  They were blue-white lights - very bright.  I thought it has to be a plane and I watched to see where it would go.  It didn't move - it stayed in one spot in the sky for about 10 minutes.  The sun was just coming up, but I could make out that it was shaped like a hamburger with a row of circle lights actoss the middle.  There were sirens and lights flashing about this same time, so I thought the police knew about it and were looking at the same thing I was.  I got my daughter out of bed so she could see it too and she called the family next door.  We all watched it ascend straight up!  We never heard it make any noise.  As it went up higher, it appeared to change shape.  It looked like a diamond. The next mornign, I looked up ion the same spot and there it was again, only this time it was much higher up.  It looked like it was coming straight down and wobbling side to side.  I called the police to report it and when the officer arrived it had moved back up higher into the sky.  He said it looked like a star to him.  It is very frustrating to not have people believe you.  I'm just glad I wasn't the only one who saw it.I am a ((age deleted)) year old elementary school teacher.  I have my Master's ((deleted)).  My daughter is((deleted)).  Our next door neighbors saw it too.  The mom is in her 30's.  Her brother and sister ((deleted))  Her little girl is ((deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10146.html](http://www.nuforc.org/webreports/reports/010/S10146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Norwell (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Moving West to East and then turning north a series of identical very bright objects with pencil thin lights would appear out of nowhere one at a time and after making the turn the bright light would fade to dark at the same time a new object would appear in the exact place the other one started.  This happened about 8 times.  All objects followed the exact path of the last and would fade out at the same spot leading to the next one starting.   This happened 8 perfectly spaced times before no others followed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149729.html](http://www.nuforc.org/webreports/reports/149/S149729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
