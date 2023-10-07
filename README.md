@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Approximately 20 white and red balls of light flew from the west heading east above our neighborhood.It was a clear evening around 7:30pm.  I was walking in my neighborhood, about 20 round white and red balls of light kept appearing in the west, flying above the tree tops heading towards the east.  They were silent I could not hear any sound from them.  They had an intelligent playful presence about them flying in a line then beside each other in a V formation but always towards the east.I am 53 years old currently a full time mom I have a BA degree in Social Work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93402.html](http://www.nuforc.org/webreports/reports/093/S93402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Melbourne Village (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>approx 20 min. after a large military transport passed over, six disk shaped,bright white objects in a wide v formation.they were at aboutthe same altitude as the jet(fairly low)but,made absoutly no noise.They all flew north to south a normal route for milatary aircraft as we are located very close to the coast line and approx. 35 miles south of Patrick A.F.B. andKenndy Space Center. The disk appeared to be individual craft about the size of a modern fighter plane rather,Speed approx. 2oo to 300 MPH,clear sky,no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25486.html](http://www.nuforc.org/webreports/reports/025/S25486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
