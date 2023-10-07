@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Melbourne Village (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>approx 20 min. after a large military transport passed over, six disk shaped,bright white objects in a wide v formation.they were at aboutthe same altitude as the jet(fairly low)but,made absoutly no noise.They all flew north to south a normal route for milatary aircraft as we are located very close to the coast line and approx. 35 miles south of Patrick A.F.B. andKenndy Space Center. The disk appeared to be individual craft about the size of a modern fighter plane rather,Speed approx. 2oo to 300 MPH,clear sky,no clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25486.html](http://www.nuforc.org/webreports/reports/025/S25486.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Richardson/Garland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>4 lights in sky 10/7/19The sky was pretty clear last night as I was able to see all the stars etc... I was looking up at the sky and noticed 4 very dim lights EXTREMELY high in the sky (you really had to focus to see those 4 lights (50% visible) seemed like they were in space that's how far it looked like they were) and it was moving south I would say.  Those 4 lights were REALLY far apart from each other but symmetrically aligned and was moving diagonal then straight and then again diagonal.  Those 4 lights were in perfect sync with each other and the lights were all horizontal and not a triangular form or anything.  After it passed the moon, they disappeared.  I really was spooked out and had goosebumps.  My buddy did not believe me at all. It's hard for anyone to believe until they see it for themselves and I KNOW WHAT I SAW LAST NIGHT... definitely were not planes or anything,  I am 110% positive as they are more blinking lights and would be one big solid light from down here.  I saw! 4 lights .    .    . like this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149618.html](http://www.nuforc.org/webreports/reports/149/S149618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
