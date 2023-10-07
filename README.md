@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 6 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in May's Landing (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>seen in the distance, lights that went around the craft in a strob,circeler around it. was hovering for about 3 min's and went stright up and disaperd.seen in the distance, lights that went around the craft in a strob,circeler around it. was hovering for about 3 min's and went stright up and disaperd.((NUFORC Note:  We wonder whether the witness might have observed an advertising light.  We assume the sighting occurred near the residence of the witness, and have entered that location above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10139.html](http://www.nuforc.org/webreports/reports/010/S10139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Leadville (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO One:  Driving up Battle mountain (HW 24) from Minturn to Leadville, I was taking photos on my phone of the rainbow around the sun.  When I returned home and downloaded the photos to the computer, I saw a green circle shaped orb that changed locations in several shots, including being beside my car.UFO Two:  During the same drive, I took several photos from the moon roof.  In the last shot, over Leadville, I saw a black shape in the photo and when I blew it up it appeared to be a disk shaped UFO.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114388.html](http://www.nuforc.org/webreports/reports/114/S114388.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [355](http://www.nuforc.org/webreports/reports/164/S164821.html)
-- [354](http://www.nuforc.org/webreports/reports/164/S164951.html)
-- [353](http://www.nuforc.org/webreports/reports/164/S164826.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165108.html)
-- [351](http://www.nuforc.org/webreports/reports/164/S164828.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
