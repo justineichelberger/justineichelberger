@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>bright white light in sky off Ocean Beach, San Francisco, CA changed color to red and moved slowly NorthI saw bright light out apt. window in sky off Ocean Beach,in San Francisco, CA betwen Vicente and Wawona St.  I first thought it was a plane but it did not move and stood in same spot for 20 minutes before it changed from a bright white light to red and back again and started to move North before disappering behind a tree.I saw the exact same light two nights ago - but it did not change color but got smaller before disappearing.My apt is aprox. 2 miles from beach.  I observed with naked eye and bicnoculars.  I am a regular civilan with no special expertise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66108.html](http://www.nuforc.org/webreports/reports/066/S66108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Hobbs (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Just seen a slow bright light moving in the southeast N.M. Sky.  Heading downwords with a look of air flow over a bullet.  A long triangle that stayed let, then finally dissipated.  Then 2 minutes later seen flashing jet lights heading toward diminishing light.  Never ever seen this.  Was slow moving.((NUFORC Note:  Launch of Falcon 9 rocket out of Vandenberg AFB.  Anonymous report.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143412.html](http://www.nuforc.org/webreports/reports/143/S143412.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
