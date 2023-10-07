@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vadnais Heights (MN) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Blue Green Light Shape in MN Western SkySaw a blue and green undefined oval blob like shape in the western sky for a few seconds. Approximately 60 degrees from the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149803.html](http://www.nuforc.org/webreports/reports/149/S149803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Jacksonville (in Mandarin) (FL) reported seeing craft that fit the description of some 'triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Triangualar shaped object hovering in place.VERY close to the road,and this was a busy highway with people in front and behind.At night.Slow rotation.It was stelth black in shape of a triangle hovering extremly close to the highway to theleft of us.It was right above some trees and a street light turning slowly clockwise.A red light was at each corner and a large white light was in the center.There were other lights smaller and scattered.It was definately an equalateral triangle.For some reason when we were driving by I noticed it and pointed it out to the others and they saw it but would not admit it was unusual.I kept saying it was something not ever seen around here .Strangely everyone in the car began to refuse to look at it as if it were not there,but I knew it was,and started getting agitated with me and telling me to hush.When I had first pointed it out to my friend he got really frightened or excited and tried with me to show the people in the front but then he got all quiet.When I asked why he had stoped he just told me it must be something else like a street light.I have perfect 20 20 vision and that thing was only as far away as a hundred feet.Im also an artist and have a photographic memory,i know !i saw something.The people in the car with me seemed to be in denial the whole time.Now when I mention it to them they dont even remember what happened,they look at me like Im nuts.I even triedto talk to them the next day after it happened and they had no idea or memory.I was 15 then and have no history of hallucinations.This DID happen.P.S. I can give a vivid drawing but I dont know how to send it,would you contact me please?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02284.html](http://www.nuforc.org/webreports/reports/002/S02284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
