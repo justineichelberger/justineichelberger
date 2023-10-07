@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New York City (Queens) (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Hovering flashing circular lights in the skyI tend to look out my window every morning and notice these lights at a distance.La Guardia Airport is close so there is quite air traffic.  However these lights were first 3 then 5, they managed to just stay hovering.  You would think they were helicopters but no sound what so ever was made.I am not one to believe in strange being but this odd.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149620.html](http://www.nuforc.org/webreports/reports/149/S149620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in saint peters (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a cloked wedge shaped craft it was slow moving with no sound.I was in my backyard I live in a subdivision my house is surrounded by other houses. I happend to look in the sky and exactly were I looked something caught my attention. I noticed what looked like a a wedge shape in the sky it was translucent sort of like the predator movies I could see it but only because it wasnt comp invisible.  It was moving slowly just like an airplane would move.I heard no sound It just slowly hovered. it was about cloud hight.I tried to get my phone out to take a picture but due to it being so hard to see and it having some sort of cloaking technology I lost sight of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159876.html](http://www.nuforc.org/webreports/reports/159/S159876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
