@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:52 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hanover (MD) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 77</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160110.html](http://www.nuforc.org/webreports/reports/160/S160110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Monticello (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three fireballs repeated approx. every 30 sec. apart just south of MonticelloI was driving on Springboro Rd. driving north toward Monticello from Ind. 18 at about 8:30 P.M. when I noticed three fireballs to the northeast of my location. They appeared in quickly one after another, about a half second between each, in an area approx a moon's width apart. The fireballs were a bright orange color, similar to a road flare, and lasted about five seconds, with the first one to appear being the first one to go out and so on. I continued to watch the area of sky where the lights appeared and continued to see the same three fireball cycle continue for the next 5 to 7 minutes,with the cycle repeating, about every thirty seconds, until I was directly west of the fireballs. I guessed, based on a cell phone tower that the fireballs were in front of, that the fireballs were located approx. 3 to 4 miles southeast of Monticello at a height of 2,000 to 4,000 ft. There were aircraft in the area that I feel were military but these aircraft were all to the west of my location and were doing some kind of training activities with each other, which is a common thing to see at that time on Thursday nights. This is not the first time I have seen the fireballs, but it is the first time I have been certain it was not a naturally occuring fireball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39788.html](http://www.nuforc.org/webreports/reports/039/S39788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
