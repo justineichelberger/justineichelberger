@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Perth (Western Australia) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>1 mile away on the other side of the Canning River at 1:30amI was talking with my friend one Saturday night on his balcony overlooking the Canning River in Perth, Western Australia. I was sitting on a chair with my bach to the wall, while I was facing the view which happened to be the night sky with the river below. My friend was facing me, that is why he didn't see it.A few degrees above my line of sight, the UFO apeared. I guess it was about a 1 mile away directly infront of me. As soon as it appeared it shot in a curve to the right and slightly up and vanished. I believe I saw it from behind. It moved incredible fast and with no sound. It wasn't just some ball of light, it was quite detailed, as I said before, I think I saw it's behind, which to me was a dimond shape but I think it would have been a triangle if I had seen a top profial. On the 2 wing extremes of the UFO were 2 large white lights which made me think of the Lockhead Blackbirds jets, but the lights weren't blinding. In the middle of the object was a dull red colour. I estimate the UFO was about 15m wide and 4m tall, I couldn't see how long it was. The Perth flight paths are over my house and were I saw the UFO. My friends house also shows from its balcony a side on view the planes decending to Perth International and Domestic Airports a few km's away. You can also see the head lights of the planes from the eastcoast comming from the horizon over the Darling ranges in the east of Perth until they get closer and closer and then bank to a side on view for their decent to the Airport. I say all this because I am completly familiar with the air traffic around Perth, what it looks like day and night, the speeds they can go, their movability and the sound all the different aircraft make. You can easily hear a passenger Jet 1 mile away as well as a lier Jet, What I saw made no sound, even at the impossible speed it moved. My friend stopped talking and had to ask what I was looking at, a was lost for words, I never said it was Aliens but to me it is still a UFO (because I have no Idea what it was). I must admit my reaction was a lot more low key then I would have thought I'd have. The sight didn't frighten me at all, and I'm astonished at the fact that it has made very little impact on me at all, maybe its my way of pretending it didn't happen, I can't explain it so I'vce ignored it up until now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32717.html](http://www.nuforc.org/webreports/reports/032/S32717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Semi-cloaked huge light ball in Santa Rosa emmits light swirls  in circular pattern facing earth ,then upwards then vanished.A glowing stationary light seen in the sky emitted contrail like light swirl of white  light similar to starlight.  The lights lasted approx. 20 mins.  The lights Seemed to switch from the light source facing toward earth and then  in a v shape upwards.  When observed it was apporox 25,000 ft altitude and approx 50 ft in diameter.((NUFORC Note:  Launch of Falcon 9 rocket from Vandenberg AFB.  PD))((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143400.html](http://www.nuforc.org/webreports/reports/143/S143400.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
