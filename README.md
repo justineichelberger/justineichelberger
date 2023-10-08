@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:48 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a large triangular shaped craft with no engine sound, no lights, no exhaust trail, cloaking against the night sky over Denver.At approximately 8:30 PM on 10/8/19 I went out on my east-facing balcony to get some fresh air.  Beautiful clear starlit night.  I looked up and to my amazement I saw a triangular shaped black craft gliding silently coming from the north and heading south about 5,000 feet up.  There was no sound, no lights and no visible exhaust trail.  My eyes were fixated on it.  It appeared to be cloaked and blended into the night sky, but because it was moving, I could see its shape as it blocked out the stars.  I am estimating that it was less then a mile away and it appeared to be large in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149725.html](http://www.nuforc.org/webreports/reports/149/S149725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>flying object with static orangish lights moving from right to left at great speed without a trail or sound.I was walking to my car after leaving the methadone clinic that I subscribe to at about 6:30am, I was reading a newspaper when something caught my right eye.  I dont know how to gauge how high it was flying but if you were to hold a penny up at arms length thats how big it was. Maybe 10 to 15 thousand feet high.  It was still dark outside from the waning night which helped me to see its orange light that it was emitting.  The lights on it were static and I could not tell how many lights it had because of how fast it was travelling.  I had taken an astronomy class last summer so I know that it was not a meteor.  It was so quiet but so fast.  There was no smoke or sound I caught it in my right eye almost all the way to the right of the sky and in about 4-5 seconds it had travelled all the way to the left and disapeared from my sight.  I had asked myself about 15 times if I was really seeing this and I know that what ever it was I was not "seeing things".  I do! nt expect anyone to believe me, so many people have cried wolf who can you believe? Also I go to the methadone clinic and do not have other witnesses so I know I will not be taken seriously but I just want someone with some insight to tell me if everything that I described is true then I might have the answer that most other people are dieing to know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72766.html](http://www.nuforc.org/webreports/reports/072/S72766.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
