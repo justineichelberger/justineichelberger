@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Marshall (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Very noticeable big bright light that was able to move in a strange manner unlike the aircraft that was flying towards light.To the West in close proximity to Battle Creek airport, I thought I was looking at a very bright star.  The light became bigger and moved to the left and then up, which really caught my interest.  I then noticed a airplane in the same area approaching the light.  The airplane got rather close and then went off course to descend away from the light towards airport to the right of the light.  I know it is the airport because I have seen Battle Creek Airshow from my home.  As the plane was descending, the light moved right, then up, and finally moved left where it stayed for quite some time.  I tried recording on my phone but my phone does not have good resolution. Through the binoculars there appeared to be three light attached to one another.  I cannot be so sure on the shape of the light, but it did appear triangular.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122633.html](http://www.nuforc.org/webreports/reports/122/S122633.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Grosse Pointe Woods (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 lights seen over Lake St. Claire in Michigan.We were driving along in the Car on our way back from the Movie theatre heading south, and two lights became visible in the night sky. The Lights left an extremely thick trail of smoke behind them and dissappeared. The trail left behind it was almost parrallel to the ground but slanted toward the earth some. The objects looked like they fell into the lake and one of the objects was spiriling as it appeared to fall. We drove south until we reached the edge of Lake St. Claire, when a third smaller light shaped like the others appeared in the night sky. This third light was within feet of where the others went down, however the trail this light left was perpendicular to the earth and appeared to be going straight into the lake and then dissappeared. The lights appeared to be oarange, blue, and a yellowish color. The lights dissappeared, but the trails were visible from miles away from, where the event occured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52834.html](http://www.nuforc.org/webreports/reports/052/S52834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
