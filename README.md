@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was leaving my bushwick apartment in brooklyn around 6:45 am, when something high in the sky caught my attention.  It was moving in and out of the clouds and it look's like a white sphere glowing very bright and moving and doing manuvers that no plane or helicopter I seen can do.  It just hover back and forward for about 20 minutes before shooting very fast straight up into the sky, don't know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114358.html](http://www.nuforc.org/webreports/reports/114/S114358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Defiance (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five white lights that merged into oneI was driving North on State Route 637 and I saw 5 small white points of light in the North.  There were 4 white lights shaped like the points of a box with one white light above the top.  As I got closer to the lights, suddenly all 5 whites became one light.  It started moving East.  I turned on a side road to take a picture with my phone and the light was nowhere to be found.  The entire experience was visible for approximately 10 minutes.  All the lights were round in shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149626.html](http://www.nuforc.org/webreports/reports/149/S149626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
