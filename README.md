@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I woke up and saw a bright orange light hovering outside my window.I woke up at approximately 2 am after hearing my uncle cry out because he had pain related to a recent surgery.  Upon waking I saw these lights hovering outside my window a few feet away. I grabbed my cell phone and snapped a picture before attending to my uncle, when I went back to my room, the lights were gone.  We have a barn right outside the house; the UFO was near the barn. We have a light attached to the outside of the barn.  A few days later my father went to change the light bulb in that light, and it was shattered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79220.html](http://www.nuforc.org/webreports/reports/079/S79220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>10/08/14  cylindrical light stationery light west of Jackson, TN.  Sky was clear of clouds.  Too small & still to be traces of planes.I was departing Jackson, Tennessee, turning NW onto U S Hwy 412.  Cylindrical shaped light in western sky close to sunset.  After about 15 minutes on my drive toward Bells, Tennessee,  light was no longer there.  Sky conditions were clear.  Only obstacle to view it were treetops.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114318.html](http://www.nuforc.org/webreports/reports/114/S114318.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
