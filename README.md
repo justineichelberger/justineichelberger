@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Grosse Pointe Woods (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 lights seen over Lake St. Claire in Michigan.We were driving along in the Car on our way back from the Movie theatre heading south, and two lights became visible in the night sky. The Lights left an extremely thick trail of smoke behind them and dissappeared. The trail left behind it was almost parrallel to the ground but slanted toward the earth some. The objects looked like they fell into the lake and one of the objects was spiriling as it appeared to fall. We drove south until we reached the edge of Lake St. Claire, when a third smaller light shaped like the others appeared in the night sky. This third light was within feet of where the others went down, however the trail this light left was perpendicular to the earth and appeared to be going straight into the lake and then dissappeared. The lights appeared to be oarange, blue, and a yellowish color. The lights dissappeared, but the trails were visible from miles away from, where the event occured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52834.html](http://www.nuforc.org/webreports/reports/052/S52834.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Stockport (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My son and I were on porch at dusk and saw what looked like perhaps planes making trails in sky but realized they weren't moving to our naked eye except through the photos I took, being white light circles and only two of three made trails and close up in photos they looked like ufo type aircrafts, not planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159831.html](http://www.nuforc.org/webreports/reports/159/S159831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
