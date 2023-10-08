@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:55 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving thru Valley Station myself and my daughter seen 3 lights above a tree.  The lights were green with small white lights to the sides.  They shot off and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149645.html](http://www.nuforc.org/webreports/reports/149/S149645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Gampola (Sri Lanka) () reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>We saw one red light and five strange creatures on the mountain top.We can see the mountain "Ambuluwawa" top from our garden.  It was the highest moutain in our area and it has huge rocks all over it.   We have climbed the mountain before and it was very difficult due to thick forestsand rocks.On that day we were coming home around 7.00 p.m. and on top of the mountain we saw a red light moving here and there.  So we stopped and watched it for a while.  I was with my parents and brother, and we called my grandparents and aunt also.  That light became yellow, green, blue and orange time to time. it went up into the sky so fast and came back.  This happend several times and we went inside after watching this for about 1/2 an hour.The next day morning my brother was watching the mountain since it was school holidays, and he shouted aroung 9.00 a.m. in the morning.  We ran there and we saw 5 strange creatures moving on top of the mountain. We have seen people there earlier as tiny dots but these creatures were about 8-12 feet tall. Since we have been there earlier we compared them with the trees there.  We couldn't see their faces clearly but they were not human for sure.  They were much more taller than humans. After about 20-30 minutes they went around the mountain which is impossible for humans because that part of the mountain has only huge rocks.  According to our knowledge there was only one way to climb that mountain.This mountain is visible to everyone because it was the biggest mountain in Gampola.Other than this incident many friends of mine have told me that they have seen strange lights on top of this mountain.Eventhough I was a small girl at that time I still can remember that incident very well. It always goes through my mind just like a film.  I always believed in extraterrostrial life and I will believe them till the end of my life.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94179.html](http://www.nuforc.org/webreports/reports/094/S94179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
