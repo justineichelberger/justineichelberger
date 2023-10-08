@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silent Objects over Anchorage Alaska while northern lights were out.Approx. 0130 10/8/10 noted silent moving objects in sky on clear night with very dim white lights flying in a V formation, then changing positions, seen by the naked eye for several miles, later approx. 10-15 mins. a silent triangle shaped object with constant white lights on corners of triangle (3 white lights in number)with flashing red light in center, flying silently and slowly in same direction east towards mountains.  Noted aurora/northern lights where seen about same time as objects.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78321.html](http://www.nuforc.org/webreports/reports/078/S78321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was leaving my bushwick apartment in brooklyn around 6:45 am, when something high in the sky caught my attention.  It was moving in and out of the clouds and it look's like a white sphere glowing very bright and moving and doing manuvers that no plane or helicopter I seen can do.  It just hover back and forward for about 20 minutes before shooting very fast straight up into the sky, don't know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114358.html](http://www.nuforc.org/webreports/reports/114/S114358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
