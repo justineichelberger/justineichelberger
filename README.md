@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jackson (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>10/08/14  cylindrical light stationery light west of Jackson, TN.  Sky was clear of clouds.  Too small & still to be traces of planes.I was departing Jackson, Tennessee, turning NW onto U S Hwy 412.  Cylindrical shaped light in western sky close to sunset.  After about 15 minutes on my drive toward Bells, Tennessee,  light was no longer there.  Sky conditions were clear.  Only obstacle to view it were treetops.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114318.html](http://www.nuforc.org/webreports/reports/114/S114318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pasco (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately doesn't stop - doesn't stop minutes.</sub><blockquote><sub>Multiple colored lights at high altitude, stationary spot in skyThis object is stationary over the pasco area hasn't moved in over a month, it is at high altitude and is blinking red, green and yellowish white. The blinking lights can be clearly seen.  This object is visible from many miles around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84419.html](http://www.nuforc.org/webreports/reports/084/S84419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
