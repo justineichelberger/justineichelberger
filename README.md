@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 7 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Pleasant Hill (MO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw 6 very bright lights perfectly spaced apart and they werent moving, when we cam back to were they were 5 min later they were goneAs we were comming home, we went across a hill and looked over in the distance. We saw 6 really bright lights. They were just sitting there. We went down that road towards the light and when we went as far as we could go, the trees were blocking it.So we went back up to the hill were we first saw the lights, and when we got back up there, the lights were gone. It was very mysterious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32105.html](http://www.nuforc.org/webreports/reports/032/S32105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I saw a large triangular shaped craft with no engine sound, no lights, no exhaust trail, cloaking against the night sky over Denver.At approximately 8:30 PM on 10/8/19 I went out on my east-facing balcony to get some fresh air.  Beautiful clear starlit night.  I looked up and to my amazement I saw a triangular shaped black craft gliding silently coming from the north and heading south about 5,000 feet up.  There was no sound, no lights and no visible exhaust trail.  My eyes were fixated on it.  It appeared to be cloaked and blended into the night sky, but because it was moving, I could see its shape as it blocked out the stars.  I am estimating that it was less then a mile away and it appeared to be large in size.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149725.html](http://www.nuforc.org/webreports/reports/149/S149725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [345](http://www.nuforc.org/webreports/reports/164/S164916.html)
-- [344](http://www.nuforc.org/webreports/reports/164/S164855.html)
-- [343](http://www.nuforc.org/webreports/reports/165/S165181.html)
-- [342](http://www.nuforc.org/webreports/reports/164/S164858.html)
-- [341](http://www.nuforc.org/webreports/reports/164/S164906.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
