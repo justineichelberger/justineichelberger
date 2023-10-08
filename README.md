@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:03 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>i have 20/20 vision.  it was a clear day in berkeley.  i was lying in a lawn of the university watching planes from oakland airport flying over.   i saw a small flash very high up, perhaps as far out as something in orbit.  the object continued to flash about every half second.  it was much too high for an airplane or any jet i have seen.  it moved slowly accross the sky flashing a white light every half second that was visible in daylight.  it wasn't sun light that made the flash-it did not change in quality regardless of the position of the craft and the flash was metered rather than one long continuous reflection or a series of random ones.  i watched it for about 3 minutes.  finally it seemed to move farther away from the earth and i could see it no more.  it was not an airplane((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39683.html](http://www.nuforc.org/webreports/reports/039/S39683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Driving thru Valley Station myself and my daughter seen 3 lights above a tree.  The lights were green with small white lights to the sides.  They shot off and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149645.html](http://www.nuforc.org/webreports/reports/149/S149645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
