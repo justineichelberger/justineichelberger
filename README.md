@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ukiah (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20160.0 - 20160.0 minutes.</sub><blockquote><sub>"Bright-Star or Something Else"!Last night I noticed a bright light flashing like a "giant-star", above a mountain range and I mentioned it to my family, my husband & my son, for whom was in the car. They both saw it too & my son, also mentioned that his friend had seen the same thing for the last 3 days. Then, when I told my daughter the same story, she said that she also saw it for the last 2 week's.((NUFORC Note:  Probable star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66147.html](http://www.nuforc.org/webreports/reports/066/S66147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Madison (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>star-like shape in sky moved in triangular patterns for about 15 minutes before stopping-2 witnessesI hesitated to even report this because I didn't want anyone to think I was crazy, but I saw the event with my housemate, so I have someone to corroborate.  It's not much to report as far as a craft goes, because it was so far away it looked like a star; however , it's movements made it a craft of some kind.  It moved in a triangular pattern for quite awhile.  I mostly wanted to know if there were other reports from the same time.  Please contact me if so.  I tried to film it on my digital camera, but because it was night, I'm not sure how well it came out yet.  It's location was approximately 40 degrees up into the northern sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59184.html](http://www.nuforc.org/webreports/reports/059/S59184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
