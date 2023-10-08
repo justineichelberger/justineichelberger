@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:43 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 8 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Newark () reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Big white orange changing size fire ballMy wife and I seen a huge orange and white light on the southern horizon.  At first we thought it was the moon because of the tree line.  The object decreased in size until it disappear.  The color of the object went from bright white to orange.  Neither my wife nor I have seen anything like it before.  We will be more vigilant in the future.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103071.html](http://www.nuforc.org/webreports/reports/103/S103071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Las vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was sitting on chair in  back yard I have a glass table there was no sound.  I then saw a bright white light tracking across the table.  I looked up and a light which appeared to be hazy yet bright was shooting low and across the sky.  Then it was out of sight line, it was totally silent, I could hear crickets in yard.  It was traveling much faster then an airplane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149659.html](http://www.nuforc.org/webreports/reports/149/S149659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [413](http://www.nuforc.org/webreports/reports/164/S164933.html)
-- [412](http://www.nuforc.org/webreports/reports/165/S165198.html)
-- [411](http://www.nuforc.org/webreports/reports/165/S165006.html)
-- [410](http://www.nuforc.org/webreports/reports/164/S164909.html)
-- [409](http://www.nuforc.org/webreports/reports/164/S164859.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
