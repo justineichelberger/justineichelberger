@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caledon (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Silent triangular craft moved slowly east with steady white lights on each pointOn Tuesday morning the 9th of October 2012 at 5:25am, in Caledon, ON, Canada, the youngest boy (2yo) woke up crying in the room where he slept and I went in to lay down with him in the room next to let our oldest boy sleep.  We laid down in bed but he wouldn’t be comforted so I sat up with him facing the window. It was dark outside and there I saw a craft flying slowly, what seemed like just beyond and above the treetops.  The trees are about 20-25 meters high and the craft was at about 30 degree angle off the ground.  I would estimate it to have been at an altitude of about 50-250 meters depending on the distance which was about 200-500 meters away.It was hard to see but I think the physical craft was triangular in shape, solid body, having a single steady white light on each point in the triangle.  One flashing light was in the middle, don’t remember the color, and yet another flashing light. The craft flew eastward and I viewed it south of me.It’s hard to estimate the size of the craft as I’m not sure exactly how far away it was, if it indeed was 200 meters away then I would say about 5-10 meters on each triangle side. If it was 500 meters away then it would be much bigger of course. The sighting duration was about 3-5 seconds after which it was behind trees and out of sight.The 2 yo was still crying so it was hard to hear if there was any sound, I couldn’t hear any, even as the boy took new breaths during which he wasn’t crying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93438.html](http://www.nuforc.org/webreports/reports/093/S93438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large, bright, orange, fireball-like sphere seen in San Antonio TX night skyOn Saturday 9 OCT 2010, at approximately 942 p.m. CST, while travelling S/SE-bound in Northwest San Antonio, TX (by Shavano Park), my significant other and I witnessed an unidentified object in the night sky. The sky was clear and the weather was calm; it was not raining, snowing or foggy.The object was a single, large orange ball of light with a slight trail (also orange in color).  It darted from the right to the left in a 45 degree angle and did not emit fragments or particles.  The duration lasted approximately three to five seconds and the object was somewhat low in the sky.We have seen many meteors before and this did not appear to be a meteor.  The object was obviously not commercial or military aircraft, did not resemble a lightning ball and was definitely not an emergency flare.  The object was rather large but definitely smaller than the moon and appeared to be within our atmosphere.  The object entirely disappeared and did not fizzle out, burn up or make impact; it was spherical and disappeared as such, without fragmenting.   The object did not emit any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78284.html](http://www.nuforc.org/webreports/reports/078/S78284.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
