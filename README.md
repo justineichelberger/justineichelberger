@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port St. John (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately HOURS - HOURS minutes.</sub><blockquote><sub>Lights that look like lightning but isn't - flash in a uniform pattern in 3 different places in the sky as if they're communicating!!!!Lights in the sky that look like lightning, but isn't - flash in a uniform pattern in 3 different places in the sky as if they're communicating!!!!!  Each night it is the same pattern, not only in sequence, but shape.  Takes up a large swatch of the sky.  Definitely intelligent & definitely not manmade.  Just south of NASA out over the ocean but really not anywhere near NASA.  There was a plane going by don't think it had anything to do with it.  There is also an airport on Merritt Island but don't think it's related either.  There is NO SOUND coming from the "lightning."  This goes on for hours at a time, several nights for a week but not every night, but always at night.  See photos for how similar each flash is…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122663.html](http://www.nuforc.org/webreports/reports/122/S122663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Center Barnstead (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two sightings within 10 min.- yellow/gold orbs w/ragged redish perimiter, hover & chngd:3 bright dots triangle, back to orb, vanishedAbout 7:05 pm a yellow gold orb with ragged looking redish tinged circumference traveling in evening sky over Lower Suncook Lake in Barnstead N.H.  Moving slowly and looked shaky, and not in a straight line.  First noticed through open upper deck screened doors of our lake facing camp. Because it looked strange and not like a plane or a shooting star we rushed downstairs and outside. It was easy to follow in the clear sky.  Looking up and through the pine trees as it passed from directions South to Southeasterly toward the area of the sky where the (full?) moon was rising then vanished  Approximately, 3.5 minutes time.Second sighting off lower deck of same camp at  7:14 pm.  Same as above.  Took picture with cell phone.  Captured partial photograph of it- just a small section of the  redish/gold tinged circumference.  It hovered and suddenly changed shape into three bright white dots looked like the corners of a triangle, then returned back to orb shape and colors and vanished.   Approximately, 1.5 minutes time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84446.html](http://www.nuforc.org/webreports/reports/084/S84446.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
