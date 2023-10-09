@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright Light seen zig-zagging down in Miami, Florida 10/10/14Caught my eye immediately from my bedroom as I was watching a video on computer, have double doors in bedroom, saw what I thought at first sight a shooting star, then I realized that no shooting star looks like that, what I saw was a very bright light such as a shooting star, but bigger and it zig-zagged down all the way!  I was in complete awe!  Never seen anything like it.  I still don't know what to make of it.  But I know what I saw.  I was so excited, thought for sure there would be reports of others seeing it this morning but can't find one ??  I am on the east side by the bay and this was viewed from the west side.  Amazing.....never thought I'd see this in my life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114416.html](http://www.nuforc.org/webreports/reports/114/S114416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hartland (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>U.F.O.'s becoming more Frequent in Lake Country Area5 disk shaped objects with green and red blinking lights  They would come in close where i could see them and then go farther away where i could barely see them with my binoculars.  It started out just being 1 ufo and then 4 more appeared as i stood there watching them.I go out almost every night looking for them.  The last few nights I've seen quite a few strange objects flying around.  Normally I will spot them just after dark or a little after midnight. Something BIG is about to happen...I can feel it in the air. (THIS IS JUST MY OPINION)((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93459.html](http://www.nuforc.org/webreports/reports/093/S93459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
