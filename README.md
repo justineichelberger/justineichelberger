@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three red disks flying from west to east in a staggered formation, spanning the sky in five seconds at a high altitude.My father and I were sitting on the back deck of his mobile home.  We were looking up at the sky, basically because it's so dark there and the stars are so bright.  Suddenly, out of the west, three disk shaped bright red objects entered the western horizon and within five seconds they spanned the entire sky into the eastern horizon.  They flew in a staggered formation at an extremely high altitude.  I'm very familiar with all military jets, especially stealth aircraft and I've never seen anything like this.  I'm 53 and have served two tours of duty in Vietnam as a Civil Affairs Specialist.  I presently am the CEO and Administrator of a ((medical)) facility in Sidney, Ohio.  I'm also a registered nurse.  Not that any of that matters.  The sighting is what it is.  Weird and wonderful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35514.html](http://www.nuforc.org/webreports/reports/035/S35514.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Caledon (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Silent triangular craft moved slowly east with steady white lights on each pointOn Tuesday morning the 9th of October 2012 at 5:25am, in Caledon, ON, Canada, the youngest boy (2yo) woke up crying in the room where he slept and I went in to lay down with him in the room next to let our oldest boy sleep.  We laid down in bed but he wouldn’t be comforted so I sat up with him facing the window. It was dark outside and there I saw a craft flying slowly, what seemed like just beyond and above the treetops.  The trees are about 20-25 meters high and the craft was at about 30 degree angle off the ground.  I would estimate it to have been at an altitude of about 50-250 meters depending on the distance which was about 200-500 meters away.It was hard to see but I think the physical craft was triangular in shape, solid body, having a single steady white light on each point in the triangle.  One flashing light was in the middle, don’t remember the color, and yet another flashing light. The craft flew eastward and I viewed it south of me.It’s hard to estimate the size of the craft as I’m not sure exactly how far away it was, if it indeed was 200 meters away then I would say about 5-10 meters on each triangle side. If it was 500 meters away then it would be much bigger of course. The sighting duration was about 3-5 seconds after which it was behind trees and out of sight.The 2 yo was still crying so it was hard to hear if there was any sound, I couldn’t hear any, even as the boy took new breaths during which he wasn’t crying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93438.html](http://www.nuforc.org/webreports/reports/093/S93438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
