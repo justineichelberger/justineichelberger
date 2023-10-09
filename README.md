@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:47 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Large, bright, orange, fireball-like sphere seen in San Antonio TX night skyOn Saturday 9 OCT 2010, at approximately 942 p.m. CST, while travelling S/SE-bound in Northwest San Antonio, TX (by Shavano Park), my significant other and I witnessed an unidentified object in the night sky. The sky was clear and the weather was calm; it was not raining, snowing or foggy.The object was a single, large orange ball of light with a slight trail (also orange in color).  It darted from the right to the left in a 45 degree angle and did not emit fragments or particles.  The duration lasted approximately three to five seconds and the object was somewhat low in the sky.We have seen many meteors before and this did not appear to be a meteor.  The object was obviously not commercial or military aircraft, did not resemble a lightning ball and was definitely not an emergency flare.  The object was rather large but definitely smaller than the moon and appeared to be within our atmosphere.  The object entirely disappeared and did not fizzle out, burn up or make impact; it was spherical and disappeared as such, without fragmenting.   The object did not emit any sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78284.html](http://www.nuforc.org/webreports/reports/078/S78284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast object with 2 or 3 bright lights in the form of a triangle going 3x the speed of a regular aircraftThere were 7 or 8 regular planes in the night surrounding the  SILENT object, and it looked like two or three very bright lights in the form of a triangle flying and going about 3x the speed of the planes over the airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114390.html](http://www.nuforc.org/webreports/reports/114/S114390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
