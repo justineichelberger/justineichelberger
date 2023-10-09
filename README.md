@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Laytonville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10/9/15 at 9 pm in western sky near Laytonville, CA, a cluster of flashing red, orange, green and white flights observed.This evening in the western sky, my husband and I saw a cluster of connected lights flashing red, orange, green and white.  The lights hovered in one spot then moved left to right, up and down. It bounced all around the area.  Then it disappeared from sight.  At first we thought it might be a star and due to atmospheric conditions it might just appear to be moving.  After watching it hover and behave so erratically and the flashing lights, we felt that no star could do this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122676.html](http://www.nuforc.org/webreports/reports/122/S122676.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in McLean (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Small but VERY BRIGHT oval shaped object flying moving very fast (no sound) horizontally approximately 50 feet above ground.Very bright white light, oval-shaped (width longer then height only about 8" x 16")), object with a bit of blue on periphery, zoomed horizontally from East to West approximately 50 feet above ground level.I was on the phone on my backyard deck.  (Told person I was talking to that I think I just saw a UFO.  Yard is clear then tall, mostly dense trees.  Yard is about 135 ft. This object was very bright and it seemed as though it was stationery at first and then zoomed to the left / West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149767.html](http://www.nuforc.org/webreports/reports/149/S149767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
