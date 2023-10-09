@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:28 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Meadville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>strange lights over meadvilleMy girlfriend and i were sitting on the front porch and at about 1030 i saw a air shaped craft with green and yellow light go in a zig zag motion and 10 minutes later we saw 2 crafts circling each other the we saw a v formation pretty cool!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78347.html](http://www.nuforc.org/webreports/reports/078/S78347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Laytonville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10/9/15 at 9 pm in western sky near Laytonville, CA, a cluster of flashing red, orange, green and white flights observed.This evening in the western sky, my husband and I saw a cluster of connected lights flashing red, orange, green and white.  The lights hovered in one spot then moved left to right, up and down. It bounced all around the area.  Then it disappeared from sight.  At first we thought it might be a star and due to atmospheric conditions it might just appear to be moving.  After watching it hover and behave so erratically and the flashing lights, we felt that no star could do this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122676.html](http://www.nuforc.org/webreports/reports/122/S122676.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
