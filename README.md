@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving down the 91 freeway, we saw this orange ball of fire, then it moved and it left a tail of fire (I’m calling fire because it was redish/orange like fire).  Then the light disappeared off the sky and came back on, but this time it was normal white lights and it seemed like a round shape object with three round lights on the bottom.  The object then expanded/threw sort of like throwing nets in the sky and were lid up and then it retracted them.  After that, the lights went off and disappeared of the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136652.html](http://www.nuforc.org/webreports/reports/136/S136652.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright Light seen zig-zagging down in Miami, Florida 10/10/14Caught my eye immediately from my bedroom as I was watching a video on computer, have double doors in bedroom, saw what I thought at first sight a shooting star, then I realized that no shooting star looks like that, what I saw was a very bright light such as a shooting star, but bigger and it zig-zagged down all the way!  I was in complete awe!  Never seen anything like it.  I still don't know what to make of it.  But I know what I saw.  I was so excited, thought for sure there would be reports of others seeing it this morning but can't find one ??  I am on the east side by the bay and this was viewed from the west side.  Amazing.....never thought I'd see this in my life.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114416.html](http://www.nuforc.org/webreports/reports/114/S114416.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
