@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:37 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>cigar shaped bright fluorescent light over nashvilleI was at work by the nashville airport and I saw a bright fluorescent light that was round and then it shrunk to a cigar shape and started moving.  It was far off and really bright. No stream or sound and way faster than the planes flying over.  It disappeared and then reappeared within minutes.  It went over a plane but was way above itand then I saw a bright flash from it again and then it went away from where I was then disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103343.html](http://www.nuforc.org/webreports/reports/103/S103343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving down the 91 freeway, we saw this orange ball of fire, then it moved and it left a tail of fire (I’m calling fire because it was redish/orange like fire).  Then the light disappeared off the sky and came back on, but this time it was normal white lights and it seemed like a round shape object with three round lights on the bottom.  The object then expanded/threw sort of like throwing nets in the sky and were lid up and then it retracted them.  After that, the lights went off and disappeared of the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136652.html](http://www.nuforc.org/webreports/reports/136/S136652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
