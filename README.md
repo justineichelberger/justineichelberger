@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:47 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast object with 2 or 3 bright lights in the form of a triangle going 3x the speed of a regular aircraftThere were 7 or 8 regular planes in the night surrounding the  SILENT object, and it looked like two or three very bright lights in the form of a triangle flying and going about 3x the speed of the planes over the airport.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114390.html](http://www.nuforc.org/webreports/reports/114/S114390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Port Orange (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Three red disks flying from west to east in a staggered formation, spanning the sky in five seconds at a high altitude.My father and I were sitting on the back deck of his mobile home.  We were looking up at the sky, basically because it's so dark there and the stars are so bright.  Suddenly, out of the west, three disk shaped bright red objects entered the western horizon and within five seconds they spanned the entire sky into the eastern horizon.  They flew in a staggered formation at an extremely high altitude.  I'm very familiar with all military jets, especially stealth aircraft and I've never seen anything like this.  I'm 53 and have served two tours of duty in Vietnam as a Civil Affairs Specialist.  I presently am the CEO and Administrator of a ((medical)) facility in Sidney, Ohio.  I'm also a registered nurse.  Not that any of that matters.  The sighting is what it is.  Weird and wonderful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35514.html](http://www.nuforc.org/webreports/reports/035/S35514.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
