@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:52 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Norwell (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>3 orange spheres/orbs flying in succession due east toward ocean, no soundAs I was driving down my road, I noticed an orange light (resembling flames) in the sky.  I turned around and went back and parked in my driveway, where I observed 3 orange spheres or orbs flying east.  They made no sound and the light was steady.  They were flying in succession, not together.  The total time of observation was 8 minutes.  I attempted to get a video of it on my iPhone but it's not the best quality.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114504.html](http://www.nuforc.org/webreports/reports/114/S114504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>One very bright and large object with thin tail and bright dots attached on both sides of tail.My son and I were walking the dog late at night.  When walking toward our house, diagnally from our house we both saw a large very bright light too bright and big we thought to be a star.  We continued to look up at it and it appeared to lower itself some.  We started to walk more quickly towards our house with the dog arm in arm as we sensed it was a UFO.  Then my son took pictures with his cell phone and we didnt feel afraid.  It looked like a very, very bright large star, but with what appeared to be a thin long tail that was bright with some small bright dots  clung to the tail.  I said to me it resembled a firefly.  It was north-east to our house, which we are west in the county.  My son thought it had changed formation((NUFORC Note:  Possible star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84449.html](http://www.nuforc.org/webreports/reports/084/S84449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
