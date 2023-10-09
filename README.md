@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Port Charlotte/Punta Gorda area (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Blue object seen in the Port Charlotte Florida area.Port Charlotte, Florida. On the night of October 9th, 2002, at about 11:45 EST, while walking the dog, I noticed a blue colored object moving across the sky very fast. There were no blinking lights or any other colors on the object, just a solid dull blue color. When I first noticed the object it was almost directly in my line of sight (I was basically looking straight ahead, then noticed it) and was at about 50º in the eastern sky. I really don't know how far away it was, but if I had to guess I would say it was maybe 2 miles away at an altitude of between 5,000 and 8,000 ft. This object was about the size of an asprin at arm's length. There were two commercial jets in the area at the time. One jet had passed directly over head about 30 to 45 seconds before I saw the object, at about 15,000 feet, if I had to guess. The other jet passed over about 45 seconds to a minute after I saw the object, at about 70º, and and altitude of approximately 10,000 feet. All three were headed in a southerly direction. More than likely both jets were headed to Southwest Florida International. This object did not leave any type of trail nor did it descend at any time; instead it kept a steady path across the sky, parallel to the ground. I could not hear any noise from the direction of the object, however the faint sound of the first jet that passed over could still be heard during the sighting. I could really appreciate the speed of the object when the second jet passed over. The jet seemed like it was just crawling across the sky compared to it. I was able to view the object for a total of about 6 to 8 seconds. The conditions were completely clear at the time. I really couldn't make out any definite form or shape but if I had to label the object as resembling any distinct shape, I would lean toward it being more ball shaped than anything else. It definitely did not appear cigar or tube shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26026.html](http://www.nuforc.org/webreports/reports/026/S26026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Port St. John (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately HOURS - HOURS minutes.</sub><blockquote><sub>Lights that look like lightning but isn't - flash in a uniform pattern in 3 different places in the sky as if they're communicating!!!!Lights in the sky that look like lightning, but isn't - flash in a uniform pattern in 3 different places in the sky as if they're communicating!!!!!  Each night it is the same pattern, not only in sequence, but shape.  Takes up a large swatch of the sky.  Definitely intelligent & definitely not manmade.  Just south of NASA out over the ocean but really not anywhere near NASA.  There was a plane going by don't think it had anything to do with it.  There is also an airport on Merritt Island but don't think it's related either.  There is NO SOUND coming from the "lightning."  This goes on for hours at a time, several nights for a week but not every night, but always at night.  See photos for how similar each flash is…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122663.html](http://www.nuforc.org/webreports/reports/122/S122663.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
