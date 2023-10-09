@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Before I was going to bed last night, i caught this out our skylight.  I thought it was the moon but it was fluttering. After a closer look and seeing the moon was in the opposite sky as where this was, and planes flying what looked to be way under it, i decided to snap a few pics.  The first 2 pics i took from inside the house out the skylight which has a screen.  I then went outside and took a clearer one. It deffinetly was not the moon, nor a plane or helicopter as it was hovering around same area fluttering away.  The area in the sky would be from about Gateway to Prince's Bay in Staten Island.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84462.html](http://www.nuforc.org/webreports/reports/084/S84462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Delmar (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>2nd consecutive night sighting this strange light.  Appears to be a star, but matches no stars according to numerous star maps.  I have some skill in reading astronomical maps as well. This light appears in colors of white, red, green, and blue.  Periodically gives off a burst pattern around the actual light itself.  It will disappear then reappear after short amounts of time, and doesn't change position. Located in the south southeastern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114374.html](http://www.nuforc.org/webreports/reports/114/S114374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
