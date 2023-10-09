@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Delmar (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>2nd consecutive night sighting this strange light.  Appears to be a star, but matches no stars according to numerous star maps.  I have some skill in reading astronomical maps as well. This light appears in colors of white, red, green, and blue.  Periodically gives off a burst pattern around the actual light itself.  It will disappear then reappear after short amounts of time, and doesn't change position. Located in the south southeastern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114374.html](http://www.nuforc.org/webreports/reports/114/S114374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two lights, one white, one blinking red, travelling at the same speed  showed as its profle a triangular UFO-lights etched shape of itOn the night of October 9th 2019 at 21:00 EST, I witnessed a UFO at the Northland Public Library (300 Cumberland Drive, Pittsburgh, PA 15237).  The sky was clear and the moon was out (past full moon stage). I have frequented this library day and evening for the past 20 years and I’m familiar with the typical lights present at night. As I was walking to my car from the closed library, I noticed two lights at about 45° approaching from the Eastward direction travelling Westward.  The lights were separated a little less than 3° ; the top light was white while the bottom one was a red blinking light.  I wondered if they were stationary or moving so I got into my car and used the oil change reminder sticker on my inside windshield to measure; yes they were moving slowly and moving in together at the same speed. I got out of the car to observe and try to take a picture/video. After a minute, this slowly travelling object showed its profile to me; it was a triangular! -shaped UFO with lights (portal lights?) highlighting the whole shape of the UFO a total of about 1° width. The edges were not sharp, they were curved. After it passed, I hurried and drove to an adjacent church where I could get a better view. From this vantage point, I saw it calmly proceed in the Westward direction toward the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149709.html](http://www.nuforc.org/webreports/reports/149/S149709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
