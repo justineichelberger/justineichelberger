@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:47 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Adams County (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silent orange UFO spotted traveling in the sky, then changing direction.My 1 friend, husband and myself were looking at the sky, when we saw an orange ball of light flying overhead.  It was going West, and made no noise.  It seemed to travel faster than a plane.  We observed it for about 1-2 minutes.  Trees blocked my sight from where I was sitting, but my husband and friend still saw it.  Another friend was coming out of the house, and she said "did you see that?  It was   swirling around",  then my other friend said "it just changed direction!"  It then flew North, and we lost sight through the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78313.html](http://www.nuforc.org/webreports/reports/078/S78313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>cigar shaped bright fluorescent light over nashvilleI was at work by the nashville airport and I saw a bright fluorescent light that was round and then it shrunk to a cigar shape and started moving.  It was far off and really bright. No stream or sound and way faster than the planes flying over.  It disappeared and then reappeared within minutes.  It went over a plane but was way above itand then I saw a bright flash from it again and then it went away from where I was then disappeared again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103343.html](http://www.nuforc.org/webreports/reports/103/S103343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
