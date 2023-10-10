@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:24 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muskego (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Five bright red lights in the sky that flew fast and slowly faded away.Five bright red lights up in the sky in a formation.  One by one they faded away, and they flew much faster than any plane I've ever seen.  It was not any type of aircraft I've ever seen.  They were too low to be a satellite and too bright to be any type of plane.  There is no other explanation to these lights.((NUFORC Note:  We suspect an evening sighting, and have changed the time above to reflect that possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114422.html](http://www.nuforc.org/webreports/reports/114/S114422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Centreville (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Aliens check out local high school football game.My husband, 15-yr old stepson and I were traveling east on Union Mill Road going to a local high school football game when I spotted the object.    Traffic was backed up and parking was a nightmare so we were driving very slow.      My stepson and I saw the object hovering above a housing development located at Union Mill Road and Sequoia Lea Road - across the street from Centreville High School.  (my husband did not see it   he was concentrating on the road)   The object was hovering very low, around 500 feet and was motionless and silent for the majority of the viewing.    The object was arranged in a 3-spoke type configuration much like a Mercedes Benz symbol and the spokes appeared to be in equal distance from one another.   Each of the three spokes was completely lined with white lights and in the middle of the spokes was a red light.   The lights were constantly on while the object was still.    The object was very large.    It appeared to be much larger than the homes it was hovering over.     We drove past the object, but in our hunt for a parking spot passed back by the sighting spot twice.   After driving past the object was obscured by trees.    After turning around and heading back towards the site the first time, my stepson and I both saw the object rising up and the white lights were cycling off and on in a pattern around the object (like the lights were chasing one another) and the red light was also blinking.     After turning around and heading back towards the site, the object was not visible.((NUFORC Note:  We have inquired of the witness whether the lights might have been from an advertising display, but we have not heard back from the party.  PD))((FOLLOW-UP COMMUNICATION FROM WITNESS))No, my incident was not an advertising campaign.    One, there are no businesses anywhere within about 3/4 mile from where the sighting occured.  The sighting was over a rather large subdivision, and I have yet to see someone put sky beams in their yard!   There was definitely something above those houses.   I thought you would be interested, but I see that you are not.    That's fine.((END))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32230.html](http://www.nuforc.org/webreports/reports/032/S32230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
