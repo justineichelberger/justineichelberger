@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hollywood (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was standing outside on Sunset Blvd. at Vine and looked straight up which I normally do not do. I saw three bright white lights in a perfect triangle moving slowly to the south east, following Sunset Blvd.  At first I thought it was a low airliner but there was no sound and no landing lights.  I called to the security guard to have another witness.  We both saw the lights, then they split up with two moving slowly to the east and the other to the west.  Then they appeared to stop and very slowly fade from sight (about 4 minutes)  I kept my eyes on them (the two that turned east) as long as I could and they just faded to nothing.The triangle of bright white lights that I saw appeared to be very low in comparison to an airliner flying over head.  The triangle appeared to be an equilateral triangle.  The brightness of each light was about that of the planet Venus. The size was of each was about 3 times the size of Venus.  When I first saw it,  the triangle appeared to be just to the right over another highrise that is across the street.  That highrise has about 20 floors and the triangle was easily as big as the top of the building from my perspective.  I was standing next to the highrise I work in and felt a tingling on my neck and a thought popped into my head to look up.  So I looked straight up the side of the building with my head all the way back and just at that moment the lights came into view.  I thought "that plane looks low" then I realized that a plane would have flashing lights and a more elongated triangle with the front point farther away than the back two.  But this thing had all the lights equally spaced like a formation.  I slowly moved from left to right and passed the top of the building across the street in about 20 seconds. I then called to the security guard who came out in time to see the triangle and then a few seconds later the lights on the triangle separated with two lights going left and one going right.  The lights that went left stayed the same distance apart and rotated slightly.  The security guard said "Thats wierd" and went back inside as I watched the lights that went left slowly fade to nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04668.html](http://www.nuforc.org/webreports/reports/004/S04668.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Asker (Norway) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped turn into V-shape (upside down) and vanish in the sky in a second,Hello.This is my report on what I did see 10.october 2014 in Norway- Location:  Asker   I did send in this report to ufosnw.com and now I send a copy of the link to my report for you to read.  (It is to much for me to write again so I just send you the link to the report alredy existing on internet.I also made a drawing as you can see in the link. Here is the link. http://www.ufosnw.com/newsite/woman-sees-cigar-shaped-ufo-change-to-v-shape/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125751.html](http://www.nuforc.org/webreports/reports/125/S125751.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
