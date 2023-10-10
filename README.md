@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:48 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tremonton (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Witnessed blue glowing Chevron craft in the sky over Tremonton, Utah.My husband and I stepped on to the back patio of our townhouse while he smoked a cigarette.  We both were admiring the stars when we both witnessed a blue glowing light in the shape of a Chevron in the sky.This was not an airplane and was very high in the sky and was very, very large.  As a former member of the US  Air Force I'm very aware of what planes look like in the sky.  Also as the daughter of a Navy Seal I am very much aware of what planes look like and sound like.  It hovered in one spot for about 20 to 25 seconds above the mountains before disappearing out of sight.  It made absolutely no noise like a normal aircraft would.  I was six weeks pregnant at the time and miscarried the very next day.  It was something we had never seen before or since and have never forgot.  I had three more miscarriages after this always in the first trimester.  I have often wondered if this encounter affected my fertility somehow after having three completely normal pregnancies.  All of my miscarriages were exactly six months apart from each other which I found very strange.  It's strange to go from having all healthy pregnancies to losing one after another after this sighting.  Eventually I h! ad my tubes removed after the fourth to prevent any future miscarriages or pregnancies.  My doctor was unable to tell me why I miscarried because I was healthy and had no fertility issues.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144442.html](http://www.nuforc.org/webreports/reports/144/S144442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Higginsville (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>illuminated triangular craft, flying at high speed from South to NorthI had seen a craft as described by the police outside of St.Louis on 10/10/96. I remember the date because it was the morning of my birthday, and I was coming home from a poker game. Since I had to drive, I had had no alcoholic beverages, otherwise I wouldn't of believed it. And I had noted the time of the event. As I was walking around the back of my home, I caught an object out of the corner of my eye. It was triangular and the entire craft was illuminated, about as brite as a yard lamp. When I noticed it, it was about 45* above the southern horizon. I would guesstimate 20,000-25,000 feet. it traveled north to the end of my field of view at approx 10* above the northern horizon. The entire event took less than 3 seconds. The craft would of been vissible to travelers along I-70, 13hwy, 20hwy, 24hwy and route 10, in the counties of Lafayette and Ray in Missouri. My home is approx 46 miles East of Kansas City, 6 miles north of I-70, and 12 miles south of the Missouri River, and 20 miles east of Marshal Missouri. Whiteman AFB (home of the B-2) is approx 28 miles SSE. My background is as a L.P.N. for the dept of mental health. Army Reserves 1985-1993 as a combat medic and L.P.N. and participated in Desert Storm in the 159th MASH attached to 3rd AD/7th Corp</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11959.html](http://www.nuforc.org/webreports/reports/011/S11959.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
