@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:43 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:21 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I live Colonie, New York, a suburb of Albany.  I live within 4 miles of the Albany International Airport. Many  takeoff’s and landings come over my house, so I have a habit of looking up to watch the planes.On the morning of  October  10, 2008  at approx 6 am, I went outside on my deck to have coffee and a cigarette. It  was still dark outside but to the east I could see the sky was beginning to brighten.There had been  times at night when I would be out with the dogs and  had seen satellites  move across the sky.  This  morning as I sat there I could see to the North a bright light moving south. At first I just thought it to be a plane getting ready to land with its lights on. As it came closer  it was moving at a good rate of speed and seemed to accelerate quiet fast. When it got overhead, it took off light a shot for a short distance and stopped dead . It then took off  north east for a short time and then went south again, again accelerating for another short time and again stopped and turned back  and then went south again.That’s w hen I lost it in the trees.In the beginning it appeared to be round in shape like a star, but when it was over head, it had more of  an oblong shape to it.  The size only looked like a bright star, so it was hard for me to tell how high it was in the sky.I had never seen anything this ever. It was truly an experience for me and I wanted to share this with someone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66162.html](http://www.nuforc.org/webreports/reports/066/S66162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Bermuda NAS () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>saw fast moving blip on the radar scope thin went outside and saw it again.Wile I was stationed at the Navel station Bermuda as an air traffic controler on the mid shift I and one other controler observed a verry fast moving blip on our 150 mi. radious radar screen.This rader screen is used for overhead and center to center hand offs too and fromus and other centers.This conserned us because of the potential mid air accidents,we delt with both civilian and military aircraft.At about an hour into my shift I observed this blip moving extreamly fast.It traveled about 25 to 35 mi. per sweep of the radar.I notised it at the 150 mi limit watched it for two sweeps when I told my supervisor he observed it for one sweep then told me to go outside to see if I could see any thing.I saw it move from the east to the west for an instant then turn to the south instantly and continue south untill it went out of sight.When I went back inside the radar room my supervisor confermed the same thing.At this point I was told not to say anything ,that it just did't happen.((NUFORC Note:  Date and time are approximate.  I met this individual at a highway rest stop, and he was intrigued by the license plate number on my automobile, "UFOCNTR."  He began describing a sighting he had experienced in Bermuda, while working as a military air traffic controller.  We were impressed with his apparent sincerity, and with his ability to recount the incident in detail.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20939.html](http://www.nuforc.org/webreports/reports/020/S20939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
