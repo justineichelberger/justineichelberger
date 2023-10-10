@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>pulse of green streaking through sky very quicky for short duration.I was on a sunset boat trip from Santa Barbara,.  I looked up and saw a green flash/pulse streak across the sky, it was similar to seeing a shooting star but was rich in  green colour.  I am an airline pilot and have never seen such a phenomena before.  Another guy on the boat witnessed it.  Very strange, would love to hear some possible explanations, military test area?  Pulse engine technology?  Or a strange shooting star?((NUFORC Note:  Possible meteor?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114529.html](http://www.nuforc.org/webreports/reports/114/S114529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Cumberland (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2:45 - 2:45 minutes.</sub><blockquote><sub>Hovering and flashing light in night sky seen for 45 minutes.At around 2am I laid down to sleep and noticed a bright light in the sky that should have been moving if it were an airplane or satellite.  Instead, it flashed/shimmered in one spot.  Sometimes the flash would be on the right side and then on the left later.  It just hovered in the same spot in the sky.  After about 45 minutes of watching it I finally fell asleep.  Initially, I thought it was a dying star, but it was exponentially brighter than anything else in sky.  Additionally, the flashing/shimmering wasn’t on side, then the other, not all over it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136697.html](http://www.nuforc.org/webreports/reports/136/S136697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
