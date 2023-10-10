@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:49 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:43 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Metallic UFO above Pensacola FloridaFirst thought to be a white or silver balloon but as we watched it over the course of an hour it appeared to be above the clouds or at least most of them, A hurricane had just missed us but we had maybe 30 mile per hour winds still moving the clouds along and this object remained where it wanted to be up and down appearing to get closer to the ground or maybe chnnging its shape because the clouds always were under it and we only lost sight once the sun went down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159880.html](http://www.nuforc.org/webreports/reports/159/S159880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I live Colonie, New York, a suburb of Albany.  I live within 4 miles of the Albany International Airport. Many  takeoff’s and landings come over my house, so I have a habit of looking up to watch the planes.On the morning of  October  10, 2008  at approx 6 am, I went outside on my deck to have coffee and a cigarette. It  was still dark outside but to the east I could see the sky was beginning to brighten.There had been  times at night when I would be out with the dogs and  had seen satellites  move across the sky.  This  morning as I sat there I could see to the North a bright light moving south. At first I just thought it to be a plane getting ready to land with its lights on. As it came closer  it was moving at a good rate of speed and seemed to accelerate quiet fast. When it got overhead, it took off light a shot for a short distance and stopped dead . It then took off  north east for a short time and then went south again, again accelerating for another short time and again stopped and turned back  and then went south again.That’s w hen I lost it in the trees.In the beginning it appeared to be round in shape like a star, but when it was over head, it had more of  an oblong shape to it.  The size only looked like a bright star, so it was hard for me to tell how high it was in the sky.I had never seen anything this ever. It was truly an experience for me and I wanted to share this with someone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66162.html](http://www.nuforc.org/webreports/reports/066/S66162.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
