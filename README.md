@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colts Neck (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large black triangle.  Lights on corners.  Aiming down.  Round.White.  Made almost no noise.  Very slow moving.  I froze.  Took too long to get out my phone to take a pic.  When I did, it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114515.html](http://www.nuforc.org/webreports/reports/114/S114515.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. Louis County (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Howering bright object moving slowly around St. Louis.I have noticed a large stationary light hovering in and around St. Louis County.  I first observed the object driving south on interstate 170 towards interstate 64/40.  The Object appeared over the municipality of Brentwood.  It was not an aircraft and it was a solid large white light.  It was not a satellite and was too low in the sky to be a planet. It was however bright like a planet.  I checked astronomical charts and there does not appear to be a planet in this location.  If you are driving due south it would be at the 11:oo O'clock position.  I observed this object for a number of days in this general vicinity.  Sometimes the object is in the same relative spot and at other times it is nearby but in a very different location.On a number of occasions I observed the object moving very slowly to the west.  Again it appeared bright, it had no flashing lights.  At times the object seemed to blink out and then reappear.  This was not due to clouds as I observed it on clear evenings. On one occasion during this same week I observed the object moving to the west as I proceeded west on I-64 heading towards chesterfield, MO.  I noticed the object hovering over Chesterfield Mall and moving very slowly west.  I was able to keep a visual on the object until I reached my home in Chesterfield.  I tried to observe the object with binoculars.  That really did not help clarify what it was. It stayed more or less stationary over chesterfield for a couple of hours. It eventually disappeared.  Once again I thought maybe it was a bright planet but it did not seem to set.If I had to hazard a guess, I heard about NSA spy drones or stationary objects that are collecting data and it is possible it could be one of those.  It did not dart off or make any erratic movements. I have noticed it in early evening for several weeks.  It does move to the naked eye so that is why I am discounting that it might be a planet.  When I tried to look at it with binoculars I also had my wife and kids look at it as well.  They had no idea what it was.  I am a native St. Louisian and have lived in this region my whole life.  I am familiar with the flight patterns around Lambert and Spirit of St. Louis airports.  It is not an aircraft.I have noticed a lot of high altitude spraying early in the mornings and in early evenings.  I have noticed these bright slow moving lights in various other locations around St. Louis.  They stick out because they are way too bright to be stars and do move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103298.html](http://www.nuforc.org/webreports/reports/103/S103298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
