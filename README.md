@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lake Macquarie (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>RED LIGHT WITH OTHER RED FLASHING LIGHT, ONE OBJECT5 OBJECTS, SOME MOVING FASTER THAN OTHERS SOME STOPPING BRIEFLY, MOVING AS THOUGH IN A LARGE LINE TO COVER A LARGE AREA, NO NOISE, APPEARANCE AS A CONSTANT RED LIGHT WITH SECONDARY FLASHING LIGHT, NO OBVIOUS SHAPE VISIBLE, POSSIBLY 3 TO 5 METRES IN SIZE. OCCURANCES WERE ABOUT THREE OCCASSIONS OVER A FEW MONTHS.HAVE ALSO SEEN FAST YELLOWISH CONSTANT LIGHT OBJECT APPEARING ROUND MOVING VERY FAST. A FLASHING WHITE LIGHT ONCE FOLLOWED ME  TRAVELLING IN A MOTOR VEHICLE, WHEN I STOPPED THE CAR IT ALSO STOPPED. IT STAYED A DISTANCE OF ABOUT 2000 METRES. I DROVE AWAY. I RETURNED A FEW MINUTES LATER WITH FRIENDS BUT IT HAD MOVED AWAY BEING JUST VISIBLE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07052.html](http://www.nuforc.org/webreports/reports/007/S07052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>pulse of green streaking through sky very quicky for short duration.I was on a sunset boat trip from Santa Barbara,.  I looked up and saw a green flash/pulse streak across the sky, it was similar to seeing a shooting star but was rich in  green colour.  I am an airline pilot and have never seen such a phenomena before.  Another guy on the boat witnessed it.  Very strange, would love to hear some possible explanations, military test area?  Pulse engine technology?  Or a strange shooting star?((NUFORC Note:  Possible meteor?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114529.html](http://www.nuforc.org/webreports/reports/114/S114529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
