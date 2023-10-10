@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:28 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in London (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>No sound, one light in front tip of triangle and moved extremely slowly.It was just after our Thanksgiving meal and we were all situated in the living room and I sat directly looking out the front window looking west, when I noticed a bright yellow white light in the distance and as everyone else was talking, I just focused my attention on this light that was approaching very very slowly from the west by now I started to tell everyone that this light which by now was getting brighter and brighter had everyone's attention.  We all headed out to front driveway and as we did this large black triangle almost the color of the night sky but we could all make it out flew directly over the house no sound no markings and moving almost at a crawl.  Couldn't measure the height it was flying but it seemed extremely low.  Its width was at two house properties wide maybe over a 100 feet and at least that from back to front.  It continued on in the same direction heading east till was gone from our view.I always believed it was a UFO and I'm sure there were skeptics in family before this happened but not after.  I was a teen then and that memory that night still comes up in conversation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131866.html](http://www.nuforc.org/webreports/reports/131/S131866.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>An extremely bright green triangle appeared in the sky.  It was hovering for a moment and flew in a straight line at a very rapid rate of speed until it faded and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149735.html](http://www.nuforc.org/webreports/reports/149/S149735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
