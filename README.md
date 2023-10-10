@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:23 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:49 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Albert (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On Wednesday October 10 2012 at 8:17 pm in Mount Albert Ontario I saw a triangle shaped UFO.  It had a single light on each point and it stayed slowly hovering in place over the corner of the small town.  I was driving in my car when I saw this and I wasn’t sure what it could be so I turned towards it.   After slowing down to a stop directly underneath it I was able to see the solid black body. This was 150 m off of Mount Albert road and highway 48.I was on the phone with my dad at the time and was shocked in what I saw.  I immediately let him go but was unable to get a picture with my phone.  The triangle began to move away slowly, I had my window down and it made no noise and no sound at all.  I began to follow it but it increased in speed and then just disappeared.I watched this for roughly about 30 seconds one thing I know for sure is that it was NOT an airplane and it was NOT a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93461.html](http://www.nuforc.org/webreports/reports/093/S93461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Metallic UFO above Pensacola FloridaFirst thought to be a white or silver balloon but as we watched it over the course of an hour it appeared to be above the clouds or at least most of them, A hurricane had just missed us but we had maybe 30 mile per hour winds still moving the clouds along and this object remained where it wanted to be up and down appearing to get closer to the ground or maybe chnnging its shape because the clouds always were under it and we only lost sight once the sun went down.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159880.html](http://www.nuforc.org/webreports/reports/159/S159880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
