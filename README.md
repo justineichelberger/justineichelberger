@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:35 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Prospect (CT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>10/10/21 at 22:00 I saw a large lit up object only 50’ above our car. Continued to keep flashing every minute until it slowed down.My mom was driving and saw a light flashing in the sky and asked me what it was. I looked out the window and it flashed and lit up the whole sky for maybe 1 second. I didn’t get a good look the first time, but then it flashed again and it looked only 50’ above us and slowing down. It looked round like a saucer but more like a mushroom with a very short stalk. It also had a lot of windows all over it and when it flashed it looked like all the lights were on in the object and it was almost flashing by accident. Like all the lights were on inside but you could only see when the outside flashed every minute. It started to slow down a bit and there were cars behind us so we couldn’t slow down all the way. I took a video on my phone and at about 15 seconds in you can see the sky light up. It’s not a great video though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164937.html](http://www.nuforc.org/webreports/reports/164/S164937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange shape shifting craft of pure light energy.It was my birthday and at about 10PM I was walking outside my house when I noticed a curious light formation in the sky. The shape was indescribable, it had a form that shifted with time, first a circle, now a trapezoid, etc... It appeared to be pure light energy. It was zooming around high in the sky at incredible speeds, it then seemed to fly up and out of Earth's atmosphere.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25709.html](http://www.nuforc.org/webreports/reports/025/S25709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
