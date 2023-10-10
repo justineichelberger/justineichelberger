@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 9 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:23 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hartland (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>U.F.O.'s becoming more Frequent in Lake Country Area5 disk shaped objects with green and red blinking lights  They would come in close where i could see them and then go farther away where i could barely see them with my binoculars.  It started out just being 1 ufo and then 4 more appeared as i stood there watching them.I go out almost every night looking for them.  The last few nights I've seen quite a few strange objects flying around.  Normally I will spot them just after dark or a little after midnight. Something BIG is about to happen...I can feel it in the air. (THIS IS JUST MY OPINION)((NUFORC Note:  Source elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93459.html](http://www.nuforc.org/webreports/reports/093/S93459.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Albert (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On Wednesday October 10 2012 at 8:17 pm in Mount Albert Ontario I saw a triangle shaped UFO.  It had a single light on each point and it stayed slowly hovering in place over the corner of the small town.  I was driving in my car when I saw this and I wasn’t sure what it could be so I turned towards it.   After slowing down to a stop directly underneath it I was able to see the solid black body. This was 150 m off of Mount Albert road and highway 48.I was on the phone with my dad at the time and was shocked in what I saw.  I immediately let him go but was unable to get a picture with my phone.  The triangle began to move away slowly, I had my window down and it made no noise and no sound at all.  I began to follow it but it increased in speed and then just disappeared.I watched this for roughly about 30 seconds one thing I know for sure is that it was NOT an airplane and it was NOT a helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93461.html](http://www.nuforc.org/webreports/reports/093/S93461.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [383](http://www.nuforc.org/webreports/reports/164/S164920.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164917.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164939.html)
-- [380](http://www.nuforc.org/webreports/reports/164/S164971.html)
-- [379](http://www.nuforc.org/webreports/reports/164/S164979.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
