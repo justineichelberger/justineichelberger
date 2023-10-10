@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Stafford (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A man emerges from a beam of light that shines on a grassy field at night and he runs towards the Texas Instruments parking lot.It was an early evening in October in Stafford a suburb of Houston, Texas. Night time comes early in the fall as I was driving on airport blvd.I had exited airport blvd off the southwest fry.  Airport Blvd. is a short road that runs from the frwy to Murphy road.  I was on my way to have a conversation with my ex-wife about our son.  We were to meet at the Casa Ole restaurant located on Murphy Rd.  To the right of airport Blvd is Texas Instruments a large computer chip manufacturer.  Half way down the street there is a grassy area between the road and the T.I. parking lot. T.I. has workers 24 hours a day so anyone starting at 6:00 PM would be coming in to work the second shift.  I was driving east, the stars were bright, the sky was clear.  Halfway down the street right over the grassy area a beam of bluish, purplish light appeared on the ground from about 30 feet in the air.  I heard no sound, saw no craft.  My gaze was on the beam of light, suddenly a man appears on the ground and runs toward the T.I. parking lot.  My eyes follow him at first then as I gaze to where the beam of light was; it is gone.  This all happened so quickly I put it out of my mind and went and had the meeting with my ex-wife and never thought about it again until I started to hear people share their stories on coast to coast radio.  I many years later concluded that this person worked at T.I. and was given a ride to work.Now I am sharing my story on your site. Thanks for allowing me to do so.((NUFORC Note:  Date probably is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87933.html](http://www.nuforc.org/webreports/reports/087/S87933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Lake Macquarie (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>RED LIGHT WITH OTHER RED FLASHING LIGHT, ONE OBJECT5 OBJECTS, SOME MOVING FASTER THAN OTHERS SOME STOPPING BRIEFLY, MOVING AS THOUGH IN A LARGE LINE TO COVER A LARGE AREA, NO NOISE, APPEARANCE AS A CONSTANT RED LIGHT WITH SECONDARY FLASHING LIGHT, NO OBVIOUS SHAPE VISIBLE, POSSIBLY 3 TO 5 METRES IN SIZE. OCCURANCES WERE ABOUT THREE OCCASSIONS OVER A FEW MONTHS.HAVE ALSO SEEN FAST YELLOWISH CONSTANT LIGHT OBJECT APPEARING ROUND MOVING VERY FAST. A FLASHING WHITE LIGHT ONCE FOLLOWED ME  TRAVELLING IN A MOTOR VEHICLE, WHEN I STOPPED THE CAR IT ALSO STOPPED. IT STAYED A DISTANCE OF ABOUT 2000 METRES. I DROVE AWAY. I RETURNED A FEW MINUTES LATER WITH FRIENDS BUT IT HAD MOVED AWAY BEING JUST VISIBLE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07052.html](http://www.nuforc.org/webreports/reports/007/S07052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
