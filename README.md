@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Asker (Norway) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Cigar-shaped turn into V-shape (upside down) and vanish in the sky in a second,Hello.This is my report on what I did see 10.october 2014 in Norway- Location:  Asker   I did send in this report to ufosnw.com and now I send a copy of the link to my report for you to read.  (It is to much for me to write again so I just send you the link to the report alredy existing on internet.I also made a drawing as you can see in the link. Here is the link. http://www.ufosnw.com/newsite/woman-sees-cigar-shaped-ufo-change-to-v-shape/</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125751.html](http://www.nuforc.org/webreports/reports/125/S125751.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colts Neck (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large black triangle.  Lights on corners.  Aiming down.  Round.White.  Made almost no noise.  Very slow moving.  I froze.  Took too long to get out my phone to take a pic.  When I did, it was too dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114515.html](http://www.nuforc.org/webreports/reports/114/S114515.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
