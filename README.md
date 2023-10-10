@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:24 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Round Rock (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>An extremely bright green triangle appeared in the sky.  It was hovering for a moment and flew in a straight line at a very rapid rate of speed until it faded and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149735.html](http://www.nuforc.org/webreports/reports/149/S149735.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Muskego (WI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>Five bright red lights in the sky that flew fast and slowly faded away.Five bright red lights up in the sky in a formation.  One by one they faded away, and they flew much faster than any plane I've ever seen.  It was not any type of aircraft I've ever seen.  They were too low to be a satellite and too bright to be any type of plane.  There is no other explanation to these lights.((NUFORC Note:  We suspect an evening sighting, and have changed the time above to reflect that possibility.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114422.html](http://www.nuforc.org/webreports/reports/114/S114422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
