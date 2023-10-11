@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Meteor lights up the skies over Dallas, crashes somehere to the south.I was driving south on I635 in Dallas.  Straight ahead of me and about 45 degrees above the horizon a spot of light appeared, streaking straight down toward the ground.  Then it flashed brightly as if it had exploded, but then continued on its dowaward path unitl it got within about 15 degrees of the horizon.  At that point it faded out and disappeared.This entire event lasted only about a second. I just happened to be looking the right way when it appeared.  The object was white in color and left a straeking trail behind it.  There were aircraft in the skies over Dallas, and this light was much brighter than the lighes of air traffic and was traveling much faster.I almost expected to next see an explosion on the horizon, but there was none.  At first I feared that might be a rogue ICBM.  (Shows you what kind of times we live in now.)  When I saw no explosion on the horizon, I decided it must have been a meteor.Thinking it must have been a huge meteor, I turned on the AM news station to see if there were any news reports of the incident.  There were none.  I thought that I would certainly read accounts in the newspaper of many people observing the object--especially since it was so brightly visible in the middle of a big city.Surely scientists must have detected such a large object entering the earth's atmosphere.  And surely earthquake sensors must have detected the impact.  But over the next few days I saw no media reports at all.It may have crashed into the earth in the next county, half a state away, or into the Gulf of Mexico.  It was not a flying saucer, but it was certainly unidentified, so that makes it a UFO.  I have looked at reports posted on this site and I'm amazed that nobody else near Dallas has reported seeing this bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25710.html](http://www.nuforc.org/webreports/reports/025/S25710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Light traveling at very high rate of speed across the morning sky.The early morning sky was crystal clear.  No clouds or ceiling present.  A light moving at an extremely high rate of speed entered my field of vision from the north- west quadrant of the sky.  It continued at a rapid pace at an even altitude for approximately 12 to 15 seconds before it left my field of vision as it headed in a southerly direction.  My first impression was that it was a shooting star.  However, I am perplexed as I have seen many shooting stars before and they have never been that clear nor have been flying in such an even pattern.  There was no discernable noise and the luminosity of the object was in fact very similar to the brightness of the stars in the morning sky.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39749.html](http://www.nuforc.org/webreports/reports/039/S39749.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
