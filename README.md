@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:43 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cottage Grove (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Craft with two white lights in Minneapolis Approach Pattern that moved down and not forward then disappered behind the tree line.We were just finishing eating dinner when I saw a strange formation of lights out the window.  I have aspirations to become an aerospace engineer and pilot and know alot about aviation so I can recognize my aircraft. This craft was totally out of the Minneapolis approah pattern and was fairly large looking.  It consisted of simply two bright white lights that blinked in a few second intervals.  The craft was directly in the KMSP approach pattern and was high above the houses at first. After just a few seconds the two lights dropped down fast until they went below the trees and houses just behind our house.  I know that this was not an aircraft as it made no noise and had no other lights besides these two lights.  It also moved down without moving forward.  After it was no longer visible I went down to our computer and went to liveatc.net, there I tuned Minneapolis approach and listened a while until I heard a transmission to a Compass Airways jet telling it to take caution in a certain zone of the approach.  I then looked up that zone in my FAA Minnesota Aviation Charts book and saw that it happened to be near where I saw the craft.  I also just a few minutes later heard them telling the planes to look for a certain traffic that I either missed the name of or they didn't know what it was.  All this seems to point to a UFO in our area on 10/11/10 that was near the KMSP approach pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78299.html](http://www.nuforc.org/webreports/reports/078/S78299.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wall Lake (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>strange ((deleted--sighting)) in the sky in sac county iowa.I saw 4 bright orange light apear on after another ant the disapear in the the same order that they showed up. This only took about 5 seconds, but they were lined up in a straight line (north to south) straight above my car. Then about 2 minutes later the same thing happened but this time the lights were west to east and a little north of of my car.  This was the strangest ((deleted profanity)) that i have ever seen. The whole time the lights didnt move from where they showed up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46950.html](http://www.nuforc.org/webreports/reports/046/S46950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
