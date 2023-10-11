@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:54 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wall Lake (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>strange ((deleted--sighting)) in the sky in sac county iowa.I saw 4 bright orange light apear on after another ant the disapear in the the same order that they showed up. This only took about 5 seconds, but they were lined up in a straight line (north to south) straight above my car. Then about 2 minutes later the same thing happened but this time the lights were west to east and a little north of of my car.  This was the strangest ((deleted profanity)) that i have ever seen. The whole time the lights didnt move from where they showed up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46950.html](http://www.nuforc.org/webreports/reports/046/S46950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beaverdam (Canada) (NB) reported seeing craft that fit the description of some 'Changing' over a period of approximately all night - all night minutes.</sub><blockquote><sub>aprox 6 hoursthe first one we see is a very bright oval shape wich gets very close the other ones are oval and triangle shape they have red blue green orange red pulsating lights which come down of a kite tibe thing way up in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103171.html](http://www.nuforc.org/webreports/reports/103/S103171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
