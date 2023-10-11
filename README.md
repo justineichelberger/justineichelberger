@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 10 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Higginsville (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>illuminated triangular craft, flying at high speed from South to NorthI had seen a craft as described by the police outside of St.Louis on 10/10/96. I remember the date because it was the morning of my birthday, and I was coming home from a poker game. Since I had to drive, I had had no alcoholic beverages, otherwise I wouldn't of believed it. And I had noted the time of the event. As I was walking around the back of my home, I caught an object out of the corner of my eye. It was triangular and the entire craft was illuminated, about as brite as a yard lamp. When I noticed it, it was about 45* above the southern horizon. I would guesstimate 20,000-25,000 feet. it traveled north to the end of my field of view at approx 10* above the northern horizon. The entire event took less than 3 seconds. The craft would of been vissible to travelers along I-70, 13hwy, 20hwy, 24hwy and route 10, in the counties of Lafayette and Ray in Missouri. My home is approx 46 miles East of Kansas City, 6 miles north of I-70, and 12 miles south of the Missouri River, and 20 miles east of Marshal Missouri. Whiteman AFB (home of the B-2) is approx 28 miles SSE. My background is as a L.P.N. for the dept of mental health. Army Reserves 1985-1993 as a combat medic and L.P.N. and participated in Desert Storm in the 159th MASH attached to 3rd AD/7th Corp</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11959.html](http://www.nuforc.org/webreports/reports/011/S11959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Somerset? (WI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge pulsating red light over I-94.  High overhead, moving eastI was driving west-bound on I-94 in Wisconsin, near the Minnesota border, at 6:10 in the morning.  Saw what I thought was a blinking white airplane light.  It was suddenly surrounded by a red light - reminded me of a flare or fireworks.  My first thought was I was seeing an engire fire on the plane.  The red glow disappeared from around the white blinking light.  It continued blinking and was again surrounded by the red ball of light.  I saw the red light 4 times before I lost view of it.  I gathered it was going east, as I watched it out of my windshield the entire time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10199.html](http://www.nuforc.org/webreports/reports/010/S10199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [495](http://www.nuforc.org/webreports/reports/164/S164910.html)
-- [494](http://www.nuforc.org/webreports/reports/164/S164966.html)
-- [493](http://www.nuforc.org/webreports/reports/164/S164956.html)
-- [492](http://www.nuforc.org/webreports/reports/164/S164937.html)
-- [491](http://www.nuforc.org/webreports/reports/164/S164938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
