@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Doylestown (PA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO shaped like a plane that is parked over the top of a house (Bucks County Flap)Around the time of the Bucks County, PA, flap, I had several UFO sightings.  This was my 3rd sighting around that time.  I was driving home from work and was heading towards Route 611 on Almshouse Rd.  It was dark outside and I saw an enormous UFO.  It looked like a 737 plane with its lights off and it was parked directly on top of a house.  It looked like the UFO was attached to the roof of the house and the sky was blocked out in between the roof and the UFO.  I looked in the rearview mirror as I passed it and it was still there.  The house was in a development that was on a large hill surrounded by  trees.  I could see it from the driver's side window.  Time seems to stop whenever I see the UFO's and there is no noise. The three sightings that I had in Bucks County were three different shapes.  I seem to see UFO's when I'm driving alone.  I hope other people in the area saw this UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149770.html](http://www.nuforc.org/webreports/reports/149/S149770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Casa Grande (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>amber lights over I-10 near Casa Grande Az.My daughter and i saw a diagonal formation of three amber lights and one single amber light above. We were on I-10 heading from Tucson to Phoenix. Just before Casa Grande we saw them to the west for about 10 minutes then disapeared.  They reappeared about 20 miles later passing by Sacaton, they again disapeared after seemingly moving towards the ground. Then about 20 miles later as we crossed the Gila River before getting into Phoenix and they were there again this time the top light moved from right to left of the formation over next 10 minutes. Then one by one starting with top one they faded out.  We did not see anything on the way back to Tucson.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46943.html](http://www.nuforc.org/webreports/reports/046/S46943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
