@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Three Rivers (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While dirving to work this monday morning the 11th of October I spotted two jets flying toward the horizion. Becouse of the rising sun the jet contrails had a pinkish orangish color to them. I looked lower at the horizon line and I spotted two objects of the same color.At first I only saw the two jet contrails as they head toward the rising sun. They had a pinkish orangish color to them, My wife was driving behind me in our second car. I rolled down my window and pointed out in that direction. As I did I spotted two round star like objects about 10 or 20 degrees above the horizon. They had the same color about them as the jets. I do not belive that these were stars or planets, as we drive this route every day and just about the same time. As soon as I could I pulled over and took some pictures with my digital camera. If you are interested I can send you a copy. I have been an amateur astronomer sin 1970 and I have been interviewed by Linda Moulton Howe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10156.html](http://www.nuforc.org/webreports/reports/010/S10156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pearl Harbor (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving light in the sky South of Peal HarborI work second shift and since work was finished early my Chief told us to head on home.  I rode my back from the shop to my barracks I reside in.  I arrived home and stepped off my bike to store it in the bike room.  I happen to look to my south and noticed a light in the sky.  It was moving in some zig-zag motion.  This caught my attention so I watched further.  The light seemed to move in a straight horizontal motion till it dropped almost completely straight down with a slight angle.  The light moved fast.  As the light dropped it disappeared.  It vanished basically out of thin air. That was the last of it I saw. The whole incident lasted about 2 seconds.  It moved to fast for a helicopter or airplane of any I know of.  If you ask me what it is I couldn't tell you.  I have never seen anything like it before.  Maybe it is something you could explain.  I'm no professional in that matter.  I've seen Unsolved Mysteries. I've watched the movie Fire In The Sky.  I can't explain it, but figured I could at least fill you in and maybe someone else saw it to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46942.html](http://www.nuforc.org/webreports/reports/046/S46942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
