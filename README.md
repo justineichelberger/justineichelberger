@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a large bright light sitting stationary in the sky. Within our atmosphere. Not a star. It did not move or change shape and was too high to be a helicopter, plus it had no flashing lights on it at all. It was just a very bright light shinning in the sky.My friend and I were on our way home from a friends house last night when I noticed this light. At first I thought it was just a star but noticed that it was much brighter and closer than a star. We watched it as we were driving in hopes of seeing it move or show indication of being a known aircraft ( flashing lights, movement etc.) but to no avail. As we continued to watch it we began to realize that it seemed to be to high up to be a helicopter but could possibly be a plane. But then again there was no movement or flashing lights. It looked like a star was sitting inside the earths atmosphere. I am reporting this only to add to the possible reports that must have been reported and to hopefully find out what it was.((NUFORC Note:  If the witness was looking to the east, he probably was looking at Venus.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10196.html](http://www.nuforc.org/webreports/reports/010/S10196.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Three Rivers (MI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While dirving to work this monday morning the 11th of October I spotted two jets flying toward the horizion. Becouse of the rising sun the jet contrails had a pinkish orangish color to them. I looked lower at the horizon line and I spotted two objects of the same color.At first I only saw the two jet contrails as they head toward the rising sun. They had a pinkish orangish color to them, My wife was driving behind me in our second car. I rolled down my window and pointed out in that direction. As I did I spotted two round star like objects about 10 or 20 degrees above the horizon. They had the same color about them as the jets. I do not belive that these were stars or planets, as we drive this route every day and just about the same time. As soon as I could I pulled over and took some pictures with my digital camera. If you are interested I can send you a copy. I have been an amateur astronomer sin 1970 and I have been interviewed by Linda Moulton Howe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10156.html](http://www.nuforc.org/webreports/reports/010/S10156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
