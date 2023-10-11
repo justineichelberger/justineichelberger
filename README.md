@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:58 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:56 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Six Spheres of light move into my vision over the 92 Albuquerque Balloon Fiesta,then vanish straight up.We had just moved to Albuquerque and were attending the 1992 Balloon Fiesta. I had been photographing balloons all morning. At 10:00 the Fiesta was winding down; only a few balloons were still aloft. Then it happened,two spheres of light about the size of 5 magnitude stars, moving from east to west moved into my line of vision & stopped directly over head. Two more followed,then two more. They too stopped & remained motionless for a short period. Then all 6 began maneuvering independently in straight lines with no given pattern,right,left,backward,forward. It was all happening directly overhead,well above balloon altitude. I took 6 photos using a 35-105 zoom lens,5 of the photos included balloons for scale reference. The 6th without balloons. All 6 spheres reduced in size,as if going straight up until they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16635.html](http://www.nuforc.org/webreports/reports/016/S16635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Montara (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Boomerang shaped lit up at the neds and center of the boomerang.I was awakened by a my room being lit up through the sky light.  After wards I went out side and gathered neighbors as witnesses.  First there was one, then six.  They were bright white and shaped like boomerangs lit up at the ends and center of the boomerang.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04538.html](http://www.nuforc.org/webreports/reports/004/S04538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
