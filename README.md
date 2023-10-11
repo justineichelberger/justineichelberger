@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Pearl Harbor (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fast moving light in the sky South of Peal HarborI work second shift and since work was finished early my Chief told us to head on home.  I rode my back from the shop to my barracks I reside in.  I arrived home and stepped off my bike to store it in the bike room.  I happen to look to my south and noticed a light in the sky.  It was moving in some zig-zag motion.  This caught my attention so I watched further.  The light seemed to move in a straight horizontal motion till it dropped almost completely straight down with a slight angle.  The light moved fast.  As the light dropped it disappeared.  It vanished basically out of thin air. That was the last of it I saw. The whole incident lasted about 2 seconds.  It moved to fast for a helicopter or airplane of any I know of.  If you ask me what it is I couldn't tell you.  I have never seen anything like it before.  Maybe it is something you could explain.  I'm no professional in that matter.  I've seen Unsolved Mysteries. I've watched the movie Fire In The Sky.  I can't explain it, but figured I could at least fill you in and maybe someone else saw it to.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/046/S46942.html](http://www.nuforc.org/webreports/reports/046/S46942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Meteor lights up the skies over Dallas, crashes somehere to the south.I was driving south on I635 in Dallas.  Straight ahead of me and about 45 degrees above the horizon a spot of light appeared, streaking straight down toward the ground.  Then it flashed brightly as if it had exploded, but then continued on its dowaward path unitl it got within about 15 degrees of the horizon.  At that point it faded out and disappeared.This entire event lasted only about a second. I just happened to be looking the right way when it appeared.  The object was white in color and left a straeking trail behind it.  There were aircraft in the skies over Dallas, and this light was much brighter than the lighes of air traffic and was traveling much faster.I almost expected to next see an explosion on the horizon, but there was none.  At first I feared that might be a rogue ICBM.  (Shows you what kind of times we live in now.)  When I saw no explosion on the horizon, I decided it must have been a meteor.Thinking it must have been a huge meteor, I turned on the AM news station to see if there were any news reports of the incident.  There were none.  I thought that I would certainly read accounts in the newspaper of many people observing the object--especially since it was so brightly visible in the middle of a big city.Surely scientists must have detected such a large object entering the earth's atmosphere.  And surely earthquake sensors must have detected the impact.  But over the next few days I saw no media reports at all.It may have crashed into the earth in the next county, half a state away, or into the Gulf of Mexico.  It was not a flying saucer, but it was certainly unidentified, so that makes it a UFO.  I have looked at reports posted on this site and I'm amazed that nobody else near Dallas has reported seeing this bright object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25710.html](http://www.nuforc.org/webreports/reports/025/S25710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
