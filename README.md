@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:39 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Drexel (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>blue white streak in sky, 2 orange orbs splitting. seems like it landed.Saw what appeared to be 2  orange orbs split.  One became the other.  Before I also saw a streak of blue and white trail dash across the night sky.  There was a helicopter in the area and I'm sure they saw this too.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103148.html](http://www.nuforc.org/webreports/reports/103/S103148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Boise (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>started out looking like cop lights, then it slowly flew upwards as it flashed super bright, I've heard about ten jets take off since!so my wife and I were having a late night smoke in our back yard and I commented on how it was a beautiful clear night and you could see the stars perfect! she asks me, "what's that flashing bright star one there?"  I turned to see a bright flickering light that was extremely low compared to all the other stars in the sky.  I grabbed some binauculars to see it closer and it started out flashing red and blue just like a cop car then it moved and we captured video!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143459.html](http://www.nuforc.org/webreports/reports/143/S143459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
