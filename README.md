@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:54 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:49 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beaverdam (Canada) (NB) reported seeing craft that fit the description of some 'Changing' over a period of approximately all night - all night minutes.</sub><blockquote><sub>aprox 6 hoursthe first one we see is a very bright oval shape wich gets very close the other ones are oval and triangle shape they have red blue green orange red pulsating lights which come down of a kite tibe thing way up in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103171.html](http://www.nuforc.org/webreports/reports/103/S103171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Camden (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately still going - still going minutes.</sub><blockquote><sub>South East direction in sky blue, red, white flashing lights but in a stationary position.  I have seen this numerous times and it does change its position.  Has anyone else seen this.  Some nights its closer then others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149754.html](http://www.nuforc.org/webreports/reports/149/S149754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
