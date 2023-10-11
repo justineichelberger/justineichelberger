@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:41 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Light traveling at very high rate of speed across the morning sky.The early morning sky was crystal clear.  No clouds or ceiling present.  A light moving at an extremely high rate of speed entered my field of vision from the north- west quadrant of the sky.  It continued at a rapid pace at an even altitude for approximately 12 to 15 seconds before it left my field of vision as it headed in a southerly direction.  My first impression was that it was a shooting star.  However, I am perplexed as I have seen many shooting stars before and they have never been that clear nor have been flying in such an even pattern.  There was no discernable noise and the luminosity of the object was in fact very similar to the brightness of the stars in the morning sky.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39749.html](http://www.nuforc.org/webreports/reports/039/S39749.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Pampa (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two triangular objects, lit up by three main lights and other lights in between, moving simotaniously to the East over Pampa Tx.There were two crafts moving in a very smooth, slow manner.  Seemed to be closer than an airplane would be.  I listened for a sound of an airplane or helicopter but could not hear anything.  They seemed to be so close for not making a sound.  They were moving to the east. They were moving simotaniously.  There were three very bright, clear lights in the shape of a triangle with blinking lights in between.  Both crafts looked the same.  They were very close together yet moving at the same time keeping the same distance apart from each other. Then they slowly moved out of my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52898.html](http://www.nuforc.org/webreports/reports/052/S52898.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
