@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 11 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Millerton (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 104</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162105.html](http://www.nuforc.org/webreports/reports/162/S162105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was a large bright light sitting stationary in the sky. Within our atmosphere. Not a star. It did not move or change shape and was too high to be a helicopter, plus it had no flashing lights on it at all. It was just a very bright light shinning in the sky.My friend and I were on our way home from a friends house last night when I noticed this light. At first I thought it was just a star but noticed that it was much brighter and closer than a star. We watched it as we were driving in hopes of seeing it move or show indication of being a known aircraft ( flashing lights, movement etc.) but to no avail. As we continued to watch it we began to realize that it seemed to be to high up to be a helicopter but could possibly be a plane. But then again there was no movement or flashing lights. It looked like a star was sitting inside the earths atmosphere. I am reporting this only to add to the possible reports that must have been reported and to hopefully find out what it was.((NUFORC Note:  If the witness was looking to the east, he probably was looking at Venus.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10196.html](http://www.nuforc.org/webreports/reports/010/S10196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165070.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165118.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165121.html)
-- [346](http://www.nuforc.org/webreports/reports/164/S164942.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165113.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
