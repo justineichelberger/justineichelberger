@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white circles of light on one side, red light on trailing edge of other side. Amazing flight patterns.These were two strange objects cavorting in the sky in Irvine/Foothill Ranch area - Bright white rings of light on one side, red light on trailing edge of other side.  Amazing flight patterns... Capable of sharp turns and twists, followed by periods of hovering.  Flight pattern reminiscent of those hydro-plane toys that have become popular, except that these two were much larger and capable of flying above the cloud layer (600'). If this is some kind of hoax or toy, then damn, I want one for myself!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59225.html](http://www.nuforc.org/webreports/reports/059/S59225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Leeman (Australia) () reported seeing craft that fit the description of some 'Cone' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Cone shaped, with 4 huge lights and one at the point of the cone, shot fire ballsit came out from behind one of the sand dunes just out of town, it's lights were a lime green color which blinded us. it then saw us standing there and they started shooting great fire balls at us and thats what started the fires around here, we ran under a cave and it flew off, we haven't seen it again since.((NUFORC Note:  Duration of event is unknown to us.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26541.html](http://www.nuforc.org/webreports/reports/026/S26541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
