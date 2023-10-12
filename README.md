@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:01:08 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Australia (rural) () reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>This was a very close encounter with  unidentifiable flying phenomenon.At dusk I saw an object hovering about 40 metres behind and above my house. It was orange (with flames) but was not on fire. The shape from the side view was  something like a van, with the side open. Later, when it turned, the back was squarish.I was looking into the object's interior and through the flames could see what appeared like moving anthropoid type shapes. Below at the back of the object a row of deep red lights moved forward and back repetitively.The craft was quite silent.After minutes the object began to move forward (south) for some metres then did a right turn, (west). When it turned I could no longer see the flames. Coloured lights were on the back and I watched it travel slowly across the undulating (rural) country during which time I rang my brother who lived in that direction, to advise him to go outside to watch for the object.A wide band of fairly dense cloud had come up from the western horizon and the object went behind the cloud, disappearing from sight. The sighting had lasted seven minutes.Note: At the beginning of the sighting I heard children's voices calling out so they may have seen the object but they were called inside by their club leader.I have a history of contact and have also done considerable research plus investigation of other witnesses' sightings over many years, also have friends who will vouch for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64414.html](http://www.nuforc.org/webreports/reports/064/S64414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright white circles of light on one side, red light on trailing edge of other side. Amazing flight patterns.These were two strange objects cavorting in the sky in Irvine/Foothill Ranch area - Bright white rings of light on one side, red light on trailing edge of other side.  Amazing flight patterns... Capable of sharp turns and twists, followed by periods of hovering.  Flight pattern reminiscent of those hydro-plane toys that have become popular, except that these two were much larger and capable of flying above the cloud layer (600'). If this is some kind of hoax or toy, then damn, I want one for myself!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59225.html](http://www.nuforc.org/webreports/reports/059/S59225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
