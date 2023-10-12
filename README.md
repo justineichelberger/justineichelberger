@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:01:08 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blackshear (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw what appeared to be a meteor in night sky.Monday, Oct 12th 2015, I saw what appeared to be a beautiful meteor fly through the sky.  I was at a local track stargazing at around 11:12 PM when this happened.  It was a large fiery ball with a trail of light that flew nearly directly over me and disappeared behind trees to my right.  It was beautiful.  But no one else in my area has seemed to have witnessed it.  It seemed to be very close to earth, or either it was very large. It wasn't your average shooting star. It appeared to be well within our atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122806.html](http://www.nuforc.org/webreports/reports/122/S122806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Australia (rural) () reported seeing craft that fit the description of some 'Other' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>This was a very close encounter with  unidentifiable flying phenomenon.At dusk I saw an object hovering about 40 metres behind and above my house. It was orange (with flames) but was not on fire. The shape from the side view was  something like a van, with the side open. Later, when it turned, the back was squarish.I was looking into the object's interior and through the flames could see what appeared like moving anthropoid type shapes. Below at the back of the object a row of deep red lights moved forward and back repetitively.The craft was quite silent.After minutes the object began to move forward (south) for some metres then did a right turn, (west). When it turned I could no longer see the flames. Coloured lights were on the back and I watched it travel slowly across the undulating (rural) country during which time I rang my brother who lived in that direction, to advise him to go outside to watch for the object.A wide band of fairly dense cloud had come up from the western horizon and the object went behind the cloud, disappearing from sight. The sighting had lasted seven minutes.Note: At the beginning of the sighting I heard children's voices calling out so they may have seen the object but they were called inside by their club leader.I have a history of contact and have also done considerable research plus investigation of other witnesses' sightings over many years, also have friends who will vouch for me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64414.html](http://www.nuforc.org/webreports/reports/064/S64414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
