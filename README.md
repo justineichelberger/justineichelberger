@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A shiny object that was sitting still in the sky then suddenly disappeared.I was driving on Hwy 53 from Calhoun to Rome, when I noticed an object just sitting still in the sky, reflecting the sun, as I start into a curve the reflection goes away but returns as I go through the curb and the object remains.  All of a sudden, it's gone.  There were no clouds in the sky for it go behind, it just vanished.  It was close to a power substation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136710.html](http://www.nuforc.org/webreports/reports/136/S136710.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Viet Nam (jungles of) () reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Lights in the NamWell, I'm a Vietnam War Veteran and I've kept this to myself for some time. Back in the Nam I was part of a LRRP unit. LRRP stands for Long Range Recon Patrol and it consisted of a team of 6 men. a Team Leader, Asistant Team Leader, Medic, Engineer, Weapons Specialist, and Radioman. I was out with my team in IV Corps in the Vietnam Jungles. We had humped through the boonies all day and we set up an NDP (Night Defensive Perimeter). We took turns sleeping and keeping watch. At about 01:45 I heard movement ahead. My bro Levin heard it too. We woke up the other 4 men and we all readied ourselves for the upcoming contact. Suddenly we saw it... an alien. In real life. My stomach sank as I saw the creature. It looks like the modern alien... a grey human with a long face and large black eyes. It gave off an eery glow. Anyway, my friend Boltach raised his weapon and fired. He hit the being in the head with a short controlled burst. A brilliant blue syrupy fluid splattered the trees behind the alien. Just then we saw a dull light in the sky. Back then, we had a device called a Starlight scope. Only special operations had them. It is a lot like night vision. I focused in on the light in the sky and at that moment two more lights appeared. They formed the shape of a perfect triangle. The light at the top circled the two below in a figure 8 and zipped off. The remaining two seemed to collide and both zip off in the same direction as the first light. That night two other LRRP teams in our AO (area of operations)reported in the same activities. We called into HQ and they said they were having radio problems and would be offline for the rest of the night. We linked up with the other 2 teams for security reasons and shared our encounter with them. 4 of the other men with me on my team that night were later killed in various engagements in the war and I haven't been able to get in contact with anyone from the other teams. Only me and Levin are still around. I hope you can come up with other stories and vets who have reporting UFOs in the Nam. Out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40776.html](http://www.nuforc.org/webreports/reports/040/S40776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
