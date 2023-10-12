@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:29 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hilliard (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Diamond\Top UFO with all red panels.My wife and I saw a diamond\top something in the sky over Hilliard.  It had panels on the side\bottom of it that were all red and rotating clockwise.  It was heading Northeast at the speed of a plane but there was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103184.html](http://www.nuforc.org/webreports/reports/103/S103184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Jamestown (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Neon green orbs playing in the sky, followed by 3ft white figure on the groundIt was Saturday, October 12, 1996.  There was no moon, but the sky was clear and the stars were very bright. My friend “M” and I were watching SNL when my younger brother “B” came racing inside.  “Come out now!” he told us. “You’ll see what we’ve been trying to tell you about.”  He, my other brother “K,” and their friends had been trying to get me to believe in their accounts of nighttime UFO activity.  I was a skeptic and, frankly, thought they were full of crap.But I followed them outside and down the long front lane (about a quarter-mile on flat farmland) and looked towards the sky.  Sure enough, there were three glowing orbs of neon-green light high in the sky, at least 10,000+ feet up.  They hung suspended, motionless; but soon began to loop around each other, as if playing.  One would drop a few hundred feet straight down, in a matter of a half-second; then zoom in one direction, stop on a dime, and reverse in the other.  All the while, the other two orbs would be doing the same thing, only in differing speeds and directions.  I swear, it was like they were playing.Call it what you want.  I don’t call it much of anything; but I can’t deny that whatever they were, they weren’t of human origin.  Side note: my brother “K,” waiting for us to meet him at the end of the lane, was looking past me and saw a whitish/gray figure, about 3 feet high, run from one field to the other across the portion of lane I had just passed.  He and his friend “D,” who’d also been waiting outside for us, were the only ones who saw this.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138154.html](http://www.nuforc.org/webreports/reports/138/S138154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
