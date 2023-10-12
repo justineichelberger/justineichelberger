@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Milpitas (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Sorry about this, but I just filed a report about the white dots over Milpitas and I believe I got the day wrong.   I reported Wednesday, but I believe the sighting might have been Tuesday.  I remember wishing I had my glasses but my glasses were in my truck, which was in the shop on Tuesday.Like I said I thought they were spider webs until seeing the NYC videos.  It registered in memory but not clearly. so this makes the report somewhat questionable but what can you do with a 58 year old memory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78394.html](http://www.nuforc.org/webreports/reports/078/S78394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Circular Star disappearing and reappearing in different locations in the skyIt looked like a circular star.It would disappear in a flash and then reappear in a different locations. It would hover in place and then move too slowly to be a plane or a helicopter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159994.html](http://www.nuforc.org/webreports/reports/159/S159994.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
