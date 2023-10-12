@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Festus (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 large orange lights hovering near each other.  Moving up and down, side to side.  Zoomed & disappeared, seemingly realizing us noticing them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103179.html](http://www.nuforc.org/webreports/reports/103/S103179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.2833333333333333 - 0.2833333333333333 minutes.</sub><blockquote><sub>Gold hazy &quot;being&quot; hovering (like standing on edge of craft) while over apt building in NW Austin - amber lights on edges.Austin, TX Oct. 12, 2013 3:08:40 A.M.My window faces to the South.  There are no lights out that way, so it is very dark since we are tucked into a dense ranch.  Being that my window is on the top floor of a 3rd story apartment, I can see above the tree lines.In the wee hours the morning of the 12th, I peeked out the window to check my van and weather before I went to sleep.  I was startled by a bright amber light about 1/2 a block away - maybe closer.  I opened the window to get a better view.The light was still and silent.  I even waved at it, and then I went to get my cell phone to video it.  When I returned, it was still there, and that shocked me.  I had half expected it to have left. I fumbled to see how to operate my new device, and eventually took a short video, but I was not sure if it was working.  I forgot about the light and the video till today.Had I seen what the video showed, I would have camped out to see "them" leave!  In the video, it shows several amber lights with white tinier ones behind the main one.  Off to the left - there were more, and I cannot help but think I was so concerned as to whether the cell was taking video, I did not see the entire picture of the outside sky.  I recall turning the camera right to left to pan, as my window is rather narrow, but it lasted only 17 seconds.  Now that I can see it, it appeared to be above and beyond my building hovering!  It sure looks like there is a hazy bright gold figure (full of light) just left of center of the "main amber light" in gold.(I would like to upload it if I can figure how to do that too.  I took a second video tonight for a perspective as to how dark it is out there!)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103333.html](http://www.nuforc.org/webreports/reports/103/S103333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
