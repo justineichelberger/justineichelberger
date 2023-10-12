@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:39 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Festus (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 large orange lights hovering near each other.  Moving up and down, side to side.  Zoomed & disappeared, seemingly realizing us noticing them.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103179.html](http://www.nuforc.org/webreports/reports/103/S103179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Barryville (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Very bright, very clear boomerang sighting in New York.My friend and I were staying at a friend's cabin on a 60 acre property set off 1/2 mile into the woods.  The night was very clear, so clear we could see the Milky Way and the small satellites that circle the earth.  We turned off all of the lights in the cabin and stood out in a field to take long exposure photographs of the sky. We rarely get to do this kind of activity, because we live in the city.  At some point, as my friend was leaning down to setup another shot and  I was staring up at the night sky amazed by the amount of stars that could be seen with the naked eye, the UFO appeared above us.  It was shaped like a boomerang and twirled quickly, silently across the sky. It was huge.  From my perspective, I would say it appeared to be about 5 feet wide, but I sensed it was very high in the sky and could only imagine the true size to be much, much larger.  And the shape was very sharp, I knew immediately it was made by an intelligent being.  It glowed green, like the color of a glow stick, and it seemed that there were markings on the boomerang: a circle near the terminus of each "wing" and three thin lines on each side where the "wings" met at the center.  The craft appeared, spun across the sky from east to west, and then disappeared in a second/second and 1/2; however, I saw so much detail because I was already staring at the sky when the craft appeared.  My friend also saw the craft, but only the brightness of it, since she was looking up through her camera.  Her glimpse was of the UFO's brightness and the last instant of it's appearance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114969.html](http://www.nuforc.org/webreports/reports/114/S114969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
