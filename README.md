@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball sighting early morning 10/13/00This was told to me by a coworker.  She shared it with me on Friday the 13th, but was too "scared" to report herself.  She was sitting on a fifth floor balcony at work at 6:45 am smoking a cigarette when she saw an orange fireball in the western sky.  no estimation of distance.  The fireball lit up, was stationary at the time...not moving, was huge, then disappeared but left a "vapor trail like an airplane" for a small distance, then fireball appeared again, stationary.  This happened three times...fireball, trail, fireball, trail, fireball, trail, fireball; was heading south.  Then disappeared completely.  She was shaken by the incident.  Was not an airplane or helicopter.  I questioned her at length.  She was very sure of what she saw and she is a very credible witness.  We are aware of the fireball sightings of later that night, but thought it important to include this early sighting for the record.((NUFORC Note:  The author of the report is correct.  There were many sightings later that evening, many reported to the FAA by airline pilots.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14700.html](http://www.nuforc.org/webreports/reports/014/S14700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I'm not sure of the exact time it happened, but it was dark.  I had just stepped outside to smoke a cigarette.  I saw a bright light shooting down from the sky toward the ground.  It disappeared behind the houses that were in my view.  I expected to hear a crash, but there was no sound.  It was fast and silent. Shooting star?  Not sure.  There were several commercial jets flying their usual flight paths higher and slower than this object, so they surely must have seen it.  I am curious to see if there will be other reports during the same evening and what they saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136782.html](http://www.nuforc.org/webreports/reports/136/S136782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
