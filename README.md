@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:50 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Clayville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ufos moving in a puzzle formationMy sister yelled to me to come outside I saw 4 objects flying in the sky ran back in to get my phone cam & managed to get a recording of them. The phone turned off & then the objects vanished into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149861.html](http://www.nuforc.org/webreports/reports/149/S149861.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looking W-NW from Palm Desert looking toward Palm Springs, a very large and bright white hovered, moved up and to the north toward Joshua Tree, turned red, drifted back to the west again and went up from 30 degrees above the horizon to 35 degrees above horizon.  Turned back to very bright cool white.  Turned back to red and dove NW or away from our view point down below the horizon in less than 1-2 seconds.  Entire event lasted less than a minute and a half.  The light intensity was far brighter and larger than the top of the tram light.  As bright as an incoming commercial jet liner that is descending and coming directly at you as they do from east to west where we live.  This was 30 degree and up from the horizon, well over the top of mount San Gorgonio (sp?) to the north west.  Over the mountains that direction sets Joshua Tree to the north and Edwards AFB and Mohave to the north west.  I have seen missile launches at dusk from our location from Vandenburg, further to the west.  This was my first UFO experience.  I managed to get both my wife and adult son out to see it for the final 20-30 seconds to witness me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114524.html](http://www.nuforc.org/webreports/reports/114/S114524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
