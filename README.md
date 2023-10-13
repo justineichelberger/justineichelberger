@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:52 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Glasgow (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange Orange Orb over Glasgow, Scotland, UKSaw an Orange Orb shaped object for the past week on 3 separate occasions and was observing this on 3 occasions for around 5 minutes on each occasion.All sightings were at night, 2 nights were clear skies and tonight's sighting was partly cloudy.It came from East and went west then North before heading up becoming smaller to the naked eye.No sound came from this object but on 2 occasions other witnesses noticed this and stood to observe until out of sight.No warning beacons like from a helicopter or an aircraft were visible just an orange light that glowed brightly then dulled.Just wondered whether this has been the 1st reporting from this area or whether anyone else has noticed this and if possible could I be notified of this for my area so I can keep records.No state of paranoid activity whilst observing but just some jitters due to unknown source and sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93525.html](http://www.nuforc.org/webreports/reports/093/S93525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mountain Home (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very bright red, green, white lights traveling south in an erratic manner directly over Hicks CreekFirst observed object through a floor to ceiling window in our home looking out toward the southeast.I could not see any particular shape other than the object had very bright red, green, and white lights that were not flashing.  At first I thought it was a helicopter about 600-800 feet away but very soon realized that it was not making any noise.  I went outside and walked a couple of hundred feet to the top of the hill to get a clear and unobstructed view.  It appeared small being approximately 10-20 feet across only based on the spacing of the lights.  The object was moving erratically both vertically and horizontally in very quick movements traveling generally due south over Hicks Creek at about 20 M.P.H.  Its altitude varied from 100 feet to 300 feet while traveling.  During its flight, it would appear to fly in reverse and then again go forward.  It would do this very quickly without making any kind of noise.  I watched this craft continue flying and changing altitude as it passed over the university campus south of my viewing location and continued in a southerly dir! ection until it was far enough away I could no longer see it which would have been several miles.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94067.html](http://www.nuforc.org/webreports/reports/094/S94067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
