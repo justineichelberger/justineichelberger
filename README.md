@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Madison (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>There was a strange triangular object in the sky over route 90 heading east. We were outside in the hot tub and saw it. Sometime between 8-9 pm It was fast and low like life flight. Was not far away at all and had no sound. We get helicopters going by all the time and hear them every time. We can even hear life flight when inside our house and we were outside.   Was the height of life flight but zero sound and not following normal path to hospital. Also appeared faster then life flight Sky was clear.Did have white lights. Shape seemed off for life flight too.Also no red and white flashing like life flight Was definitely also not a plane with the height, shape, and speed and no sound.Unfortunately, we were too busy being dumbfounded to stop an video it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164957.html](http://www.nuforc.org/webreports/reports/164/S164957.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Evergreen Park (IL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Several bright copper-colored lights moving across the sky.As I was walking out the front door with a friend, I saw three bright copper-colored lights moving in the sky. They were in somewhat of a group but seemed to be flying independently, not flying in a straight line or parallel, only in the same general direction: southwest to northeast.  We then realized there were more coming as we saw them through the trees. Once I realized how strange this all was, I was screaming to my husband who was coming out of the house to walk the dogs. He looked and was just as freaked out as my friend and me.  He ran to the back door and called to the kids and their friends as I ran to the neighbors' house.  There were approximately 12 of us who witnessed the lights which seemed to be an extremely bright copper or a reddish hue, with an axis coming out of the bottom and top.  They weren't too slow, but were not going extremely fast and seemed to be perhaps only a few hundred feet up.  It was completely cloudy out so they couldn't have b! een that high.  They were definitely going  in the same direction as if following each other.  The first few seemed to slow down a bit until the others caught up a bit more.  Cannot find any news about it or anything else.  My husband walked the dogs afterwards and saw two different groups of two people walking.  When he asked them if they saw the lights, they said YES and were really freaked out as well.  The objects did NOT make any sounds.  All I got on my phone camera was a very bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93543.html](http://www.nuforc.org/webreports/reports/093/S93543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
