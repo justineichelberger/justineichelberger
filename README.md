@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was looking for the low clouds to move so I could take a picture of the full moon at 11:25pm CST. I saw a large,low-flying disc flying North near the bottom of the clouds. There was no sound,and I didn't se any lights. I was a shiny silver color. I was able to get a few pictures, and they appeared like a shadow of what I saw through the viewfinder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150280.html](http://www.nuforc.org/webreports/reports/150/S150280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Staten Island (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fast moving strange light.I was driving down street eastbound about 1/4 mile from beach towards ocean when me and my passenger noticed a strange blue light low over water traveling north for a couple of miles then instantly turning back south for a couple of miles.  This was repeated 4 times in a straight line then the light turned red and was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114520.html](http://www.nuforc.org/webreports/reports/114/S114520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
