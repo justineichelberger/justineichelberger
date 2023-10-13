@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO sighting - detailed - close upI was standing outside and looked up to see the most magnificent engineering feat my eyes have had the pleasure of witnessing.  The structure, design, and detail I was able to see with the moon out as bright with the angle it hit it was amazing.  The engines had a green matte color and emitted not light pollution outside of the doughnut shaped engine looking halos. I could see louver like plates seemingly used to disperse heat possibly.  I saw little of the top only the side and rear as it made a slight roll to the right and into the distance above the treeline.  The UFO was about 500 ft away at most and the size of about 24,000 sq ft+ .  I pulled my cell phone out to take video and when I did my eyes were blinded by the light of my phone screen.  I used the phone to record but I got no video just all black. I recored another video for a control video thirty minutes after since I was seeing no footage and I could see the clouds where the object was.  I was not a believer before I saw one and now I can say I have a new interest indeed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136780.html](http://www.nuforc.org/webreports/reports/136/S136780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Mission (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was driving to the hospital after work to visit my dad.  Suddenly, about 3 blocks ahead of me a disc-like object appeared.  It arrived at a rapid speed then slowed once it was above the neighborhood homes.The object rotated counterclockwise.  It displayed a set of windows evenly spaced around its body.  It seemed to have traveled as low as a few miles above the homes.  Once it tracked across several homes, it flew off as rapidly as it had descended.This sighting was not shared with anyone for fear I would be ridiculed.  I finally shared the event with my husband after we both saw a flying object in Brazoria County, Texas, 1990.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107741.html](http://www.nuforc.org/webreports/reports/107/S107741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
