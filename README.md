@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I'm not sure of the exact time it happened, but it was dark.  I had just stepped outside to smoke a cigarette.  I saw a bright light shooting down from the sky toward the ground.  It disappeared behind the houses that were in my view.  I expected to hear a crash, but there was no sound.  It was fast and silent. Shooting star?  Not sure.  There were several commercial jets flying their usual flight paths higher and slower than this object, so they surely must have seen it.  I am curious to see if there will be other reports during the same evening and what they saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136782.html](http://www.nuforc.org/webreports/reports/136/S136782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in robertsdale (AL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My husband and I decided to talk a walk on the bike trail and around the school. You can see the sky clearer by the school and I started to get a very eerie feeling. I couldn't stop starting at the sky and noticed I was seeing a lot of triangle star patterns. But when I looked closer I could see multiple black triangular ships all over the sky at least 10. We went home and I wanted to show my children who are teenagers. It was like they where hidden in plain sight. For someone to glance up, you can't see it. When I was pointing up to show my children the triangle patterns. DIRECTLY over our house one appeared and was a visible UFO. It was so close just above the roof and the trees. It was a different shape more round and moving south. It was so close to us and it was like it was creating its own light. There was no sound coming from it, and it was silent all around us. It was like everything was still. I panicked told my husband and saw it fly off in the dis! tance. Then I stayed outside starring up and see another rounded one appear below one of the triangular ones. I realized I was seeing flashes in the sky and hearing a metal noise also. The vibration in the atmosphere was like static. A very eerie and amazing experience. I come from the wright patt area and I am used to seeing some things but this was nothing like that and it was like it wanted to show itself to us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159930.html](http://www.nuforc.org/webreports/reports/159/S159930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
