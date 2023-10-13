@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:15 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ship Bottom (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Small, black triangle shaped object  flying silently and slowly overhead olong NJ beach.Sometime in mid-October of 2002, I was sitting on the open porch of a rental house just decompressing from a long day of work, when I looked up at stars directly overhead. (The house is just 3 houses from the Atlantic Ocean). I observed a small black isosceles-triange shaped object. It was approximately 40 feet long. It had one solid white light on each corner of the triangle. I would estimate it to be about 400 feet above my head. It was cruising very slowly, in a due south direction, I would estimate it to be about 20 mph. It did not make a sound. I watched it continue in a completely straight path until I could not see it any longer. I am still bothered to this day by what I saw that night.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49394.html](http://www.nuforc.org/webreports/reports/049/S49394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Merriam (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangular, almost hovering but very slow movement, 5 bright lights, no soundI was driving near my house just after dark (7:20pm) and a strange light formation caught my eye. At first I thought it may be a helicopter because it was just barely moving (almost hovering), but then I realized it was much too large and made no sound.  There were 5 large and equal size bright lights that formed an elongated triangle shape.  Although the lights were bright, they didn't seem to shine in a beam but they did illuminated the boy of the object.  It seemed to be moving very slowly, or almost pivoting at an upward angle. I re-focused on the road and hit the brakes, but when I looked up it was gone. I scanned the area for another 10 minutes and never saw it or any aircraft again. I estimate the object to have been 500-1000 feet off the ground and about the size of a medium to larger size passenger jet. The entire event lasted around 15 seconds...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84544.html](http://www.nuforc.org/webreports/reports/084/S84544.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
