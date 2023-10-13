@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 12 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Circular Star disappearing and reappearing in different locations in the skyIt looked like a circular star.It would disappear in a flash and then reappear in a different locations. It would hover in place and then move too slowly to be a plane or a helicopter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159994.html](http://www.nuforc.org/webreports/reports/159/S159994.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Ship Bottom (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Small, black triangle shaped object  flying silently and slowly overhead olong NJ beach.Sometime in mid-October of 2002, I was sitting on the open porch of a rental house just decompressing from a long day of work, when I looked up at stars directly overhead. (The house is just 3 houses from the Atlantic Ocean). I observed a small black isosceles-triange shaped object. It was approximately 40 feet long. It had one solid white light on each corner of the triangle. I would estimate it to be about 400 feet above my head. It was cruising very slowly, in a due south direction, I would estimate it to be about 20 mph. It did not make a sound. I watched it continue in a completely straight path until I could not see it any longer. I am still bothered to this day by what I saw that night.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49394.html](http://www.nuforc.org/webreports/reports/049/S49394.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/164/S164962.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164944.html)
-- [382](http://www.nuforc.org/webreports/reports/164/S164950.html)
-- [381](http://www.nuforc.org/webreports/reports/159/S159994.html)
-- [380](http://www.nuforc.org/webreports/reports/159/S159897.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
