@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:15 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:26 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Merriam (KS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Triangular, almost hovering but very slow movement, 5 bright lights, no soundI was driving near my house just after dark (7:20pm) and a strange light formation caught my eye. At first I thought it may be a helicopter because it was just barely moving (almost hovering), but then I realized it was much too large and made no sound.  There were 5 large and equal size bright lights that formed an elongated triangle shape.  Although the lights were bright, they didn't seem to shine in a beam but they did illuminated the boy of the object.  It seemed to be moving very slowly, or almost pivoting at an upward angle. I re-focused on the road and hit the brakes, but when I looked up it was gone. I scanned the area for another 10 minutes and never saw it or any aircraft again. I estimate the object to have been 500-1000 feet off the ground and about the size of a medium to larger size passenger jet. The entire event lasted around 15 seconds...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84544.html](http://www.nuforc.org/webreports/reports/084/S84544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Weldon (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and my brother was coming home from a friend's house and we saw a red flashing light what liked to be over a friends house.  After a few minutes we determined that is was not that's when my brother went into the house.  I stayed and lit a cigarette while I was watching this light it started to move left and right very fast witch I thought was strange.  It then started to come toward me and I then thought it was a plane.  I was about to walk into the house and everything changed.  I did not look up but all around was a red light and it was blinking red and bright red in a perfect circle about 40 feet across would be my best guess.  I then held my hand out so see this light light my hands and that's when I looked up.  It was a sphere and it had low humming sound.  At that time I was not afraid so kept watching it then made a different sound and started to lower just above my grand mother home and a yellow light came on under it and started to move close to me that scared so I ran under the branches of the tree in our front yard.  The light stopped moving so I ran to the front door while still watching this object.  I then open the door taking my eyes off for just a second to tell my mom to look at this when looked back it was gone never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107107.html](http://www.nuforc.org/webreports/reports/107/S107107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
