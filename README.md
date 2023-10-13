@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:46 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My encounter with a UFO was very horrifying at the time, but now it I realize how truly amazing the experience was.Me and my friend were sitting on the porch, listening to the radio having a snack. When all of the sudden, bright lights from above flashed, and cought our attention. As we looked up towards the sky, we saw a triangular shape aircraft hovering over us and our porch.Then a bright light shined down on us, the heat all around us intensified, and it was very hot. Then the beam of light flickered, and the UFO took off, and in a matter of seconds, it was out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16666.html](http://www.nuforc.org/webreports/reports/016/S16666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Vandenberg Village (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Platinum color saucer weaving through fog/mist in hills by ocean object vanished into small white spark as soon as I pointed it outI have no history of mental illness and I have been fully evaluated by various psychiatrists by undergoing numerous tests.  I was deemed completely clear of any mental health ailments with a note of my extremely high level of intelligence.My mother and I had just left Vandenberg AFB to spend the day together since this was her only day off in the entire duration of a week or so of our temporary stay on base for her assignment.   Approximately one hour into the drive away from the base, I had just gained sight of the ocean.  I glance over to admire the view of the ocean, green hills, accented with swirls of mists and fog only to find a peculiarity within my vision.  A platinum colored saucer gracefully glided along weaving between the mists and fog.  I couldn't believe my eyes, but I had to because what I was seeing was real.  It was right in front of me. I am very observant, especially of detail.  I watched it's every movement.  I was amazed by how it was attempting to subtlety blend in with the mist and fog on the middle to low section of the hills that was but a few hundred meters from the ocean.  As soon as I said, "Look Mom, a UFO!", about a millisecond before she turned to look, I saw a bright, but small! , white spark replace what was the saucer, and then its entirety to include the spark vanish immediately in such haste.  I was rather disappointed she didn't get to see it with me as I remain alone in my sighting as far as I know. There were other vehicles driving on the road with us and I am curious to know if any of them saw the craft.  I have told only a few people about the occurrence, but they remained indifferent.  I imagine I was then placed in their minds with other countless stories of UFO observers that society deems as a figment of the imagination.  To this day, I think of that beautiful, platinum spectacle gracefully flowing with the mists.  How could I not forget such brilliance and wonder floating carefully through my favorite scenery of mists, sunlight, wind, and hills by the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84436.html](http://www.nuforc.org/webreports/reports/084/S84436.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
