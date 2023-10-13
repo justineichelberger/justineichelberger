@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:49 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tamarac (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I was in north university st is  amayor st in fl , i couldn't believe my eyes as i was waiting for the red ligth to turn green, notice something cilinder shape with the red light in the bottom it seems it was in top of the cars the they were oposittive of my direccion it was a beutifull blue sky and the ufo was like a new metal material didn't move that much unfortunely the light change and have to turn because of my surprise didn'y notice if others people of cars were aware of it I will guess yes and there was a lot of cars . very starnge experience</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53019.html](http://www.nuforc.org/webreports/reports/053/S53019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tulsa (OK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball sighting early morning 10/13/00This was told to me by a coworker.  She shared it with me on Friday the 13th, but was too "scared" to report herself.  She was sitting on a fifth floor balcony at work at 6:45 am smoking a cigarette when she saw an orange fireball in the western sky.  no estimation of distance.  The fireball lit up, was stationary at the time...not moving, was huge, then disappeared but left a "vapor trail like an airplane" for a small distance, then fireball appeared again, stationary.  This happened three times...fireball, trail, fireball, trail, fireball, trail, fireball; was heading south.  Then disappeared completely.  She was shaken by the incident.  Was not an airplane or helicopter.  I questioned her at length.  She was very sure of what she saw and she is a very credible witness.  We are aware of the fireball sightings of later that night, but thought it important to include this early sighting for the record.((NUFORC Note:  The author of the report is correct.  There were many sightings later that evening, many reported to the FAA by airline pilots.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14700.html](http://www.nuforc.org/webreports/reports/014/S14700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
