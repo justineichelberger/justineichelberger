@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:52 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mountain Home (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very bright red, green, white lights traveling south in an erratic manner directly over Hicks CreekFirst observed object through a floor to ceiling window in our home looking out toward the southeast.I could not see any particular shape other than the object had very bright red, green, and white lights that were not flashing.  At first I thought it was a helicopter about 600-800 feet away but very soon realized that it was not making any noise.  I went outside and walked a couple of hundred feet to the top of the hill to get a clear and unobstructed view.  It appeared small being approximately 10-20 feet across only based on the spacing of the lights.  The object was moving erratically both vertically and horizontally in very quick movements traveling generally due south over Hicks Creek at about 20 M.P.H.  Its altitude varied from 100 feet to 300 feet while traveling.  During its flight, it would appear to fly in reverse and then again go forward.  It would do this very quickly without making any kind of noise.  I watched this craft continue flying and changing altitude as it passed over the university campus south of my viewing location and continued in a southerly dir! ection until it was far enough away I could no longer see it which would have been several miles.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94067.html](http://www.nuforc.org/webreports/reports/094/S94067.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tamarac (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>I was in north university st is  amayor st in fl , i couldn't believe my eyes as i was waiting for the red ligth to turn green, notice something cilinder shape with the red light in the bottom it seems it was in top of the cars the they were oposittive of my direccion it was a beutifull blue sky and the ufo was like a new metal material didn't move that much unfortunely the light change and have to turn because of my surprise didn'y notice if others people of cars were aware of it I will guess yes and there was a lot of cars . very starnge experience</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53019.html](http://www.nuforc.org/webreports/reports/053/S53019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
