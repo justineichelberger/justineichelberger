@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:50 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Palm Desert (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Looking W-NW from Palm Desert looking toward Palm Springs, a very large and bright white hovered, moved up and to the north toward Joshua Tree, turned red, drifted back to the west again and went up from 30 degrees above the horizon to 35 degrees above horizon.  Turned back to very bright cool white.  Turned back to red and dove NW or away from our view point down below the horizon in less than 1-2 seconds.  Entire event lasted less than a minute and a half.  The light intensity was far brighter and larger than the top of the tram light.  As bright as an incoming commercial jet liner that is descending and coming directly at you as they do from east to west where we live.  This was 30 degree and up from the horizon, well over the top of mount San Gorgonio (sp?) to the north west.  Over the mountains that direction sets Joshua Tree to the north and Edwards AFB and Mohave to the north west.  I have seen missile launches at dusk from our location from Vandenburg, further to the west.  This was my first UFO experience.  I managed to get both my wife and adult son out to see it for the final 20-30 seconds to witness me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114524.html](http://www.nuforc.org/webreports/reports/114/S114524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Walls (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>While camping out on the 13th of oct anround 9:00 to 11:00 pm saw a light travling North to South. the object stayed in view for a period of maybe 1.5 min to 2.5 min.  I work as an aircraft mechanic.  The light was pulsing over a 2 second intervles.  The light wasnt a flash, it was a slow rise to bright and slow discharge to off, I looked for navigation (red/green) lights and a beacon and or strobes, none were visible. there were aircraft flying above the altitude of the object and also below this object.  I live near an airport and could see other flight paths.  I have no idea what this object was, because I could not see a silhouette of the object, due to the dark background of the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103504.html](http://www.nuforc.org/webreports/reports/103/S103504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
