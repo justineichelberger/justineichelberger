@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Littleton (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Whatever this was,  it was at a high altitude. It did not move or change form while I was watching anyway. It was not a plane.Leaving my apartment building.  Felt my vision being pulled upward.  Saw a stationary metallic disk high in the sky.  I watched for a few mintues, but it didn't change or move. The sky was clear at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25607.html](http://www.nuforc.org/webreports/reports/025/S25607.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cibecue (west of) (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright yellow light moving slowly thru skies of eastern arizonaSeen one light moving thru the sky slowly, Flying east until it vanish from sky, the light had no other visible light except for the one bright light, was seen while driving home from hunting,hiking, that same night we seen three jets had to be stealths flying real low right over town of cibecue making no noise, 15 minutes after bright light was seen in sky, these three jets makeing no noise flying east aswell glided right over the town, following eachother at hunderd yards apart or less, they were real low came out right above mountains & change directions in a north east direction and disappeared behind the mountains they were low as the mountaintop, did this have anything to do with bright light moving thru the sky is it military craft do they know what it was, a similar light was seen friday nite oct.14,11 this one above the town, these are not first sightings in this town or in this area of eastern arizona on the white mountain apache rezervation, near showlow,Az. the skies come to life at night with jets and Ufo and other bright lights moving thru the sky, i have seen twice a metallic object moving thru the sky, and, once, at night a light turn on and off  three times it turn on and off and comeing back on a very bright light in the sky southwest of the town of cibecue, this is not the first ufo sighting i had. Even helicopters at night and day what does military know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84638.html](http://www.nuforc.org/webreports/reports/084/S84638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
