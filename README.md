@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Brite light seen over reno,nv. This is the 2nd time I have seen this light and it's not a shooting star.This is the second time I have seen this light. The first time I saw it was 2 months ago late at night.  It came from the south and was going north.  The first time I thought it was a shooting star but it held a constant elevation.I saw the same thing again tonight.  This is no shooting star and it make no noise at all.  The light is so bright and looks just like a star light, pure white and it stays on course without any elevation change at all. Has any one else seen this light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72859.html](http://www.nuforc.org/webreports/reports/072/S72859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New Berlin (WI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge white surging strobe lightsTwo strobes seen north of National Ave over Racine Ave-near old Prospect Hill school - generated a electrical surge noise with each flash - huge very white star flashing balls of energy</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114811.html](http://www.nuforc.org/webreports/reports/114/S114811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
