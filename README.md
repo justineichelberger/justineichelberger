@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:40 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>My best friend had just picked me up around 7 because it was getting dark, we were on 410 at a stoplight when this greenish circle of light was moving at a steady pace straight downward, we are both looking at it asking each other if we're seeing it, when it just stops for a second and dissipates, disappeared, vanished out of nowhere.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123803.html](http://www.nuforc.org/webreports/reports/123/S123803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Corcoran (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>CIRCULAR "FOOTPRINT FOUND IN CATTAIL AREAI HAVE FOOTAGE OF AN AREA IN SOME HIGH CATTAILS (ROUND) AT THE REAR OF OUR HOME.  I AM JUST REPORTING ITS EXISTENCE.  IT IS ABOUT 40 YARDS ROUND.  I HAVE PHOTOS AND VIDEO FOOTAGE.  NEITHER MYSELF OR MY NEIGHBOR HAVE ANY EXPLANATION OF THIS.  IT'S JUST INTERESTING.  I DO KNOW ABOUT CROP CIRCLES, AND HOW TO MAKE THEM, BUT WE CERTAINLY DID NOT WASTE TIME DO SO!  THIS WAS MADE EITHER BY WEATHER, OR BY SOME SORT OF OTHER PHENOM.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  We have looked at the photo, and we believe that the cattails probably were flattened by wind.  We suspect that the area is not a formal or genuine crop circle.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84577.html](http://www.nuforc.org/webreports/reports/084/S84577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
