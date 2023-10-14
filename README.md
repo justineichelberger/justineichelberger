@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Betty Creek (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I am truly not a hoaxer.  Merely trying to get some information about an inc. that occurred around 1968.  October 14th.  In the Betty creek area. Please it is very important that I find out.  3 days prior to my bearth. Strange things was happening to my parents.  And my uncle and his wife..  my father told me that several lights and sounds shook the house.   And a cat that was very intent on listening to their stories of ufos.  My father told me that the night before I was born.  The front door of the house was trying to be jetted off the hinges violently from the out side.  My dad and uncle jerked the door open to find the cat standing at the door.  On the night I was to be born my father took my mother to the hospital.  My uncle called him and told him all hell was breaking loose at home several lights high winds and the house was being shook.  All this stopped the second I was born.  I asked my dad about it but he said.  Talk to your uncle.  but he refuses to have anything to with me on this acount.  Please get in touch with me. ((NUFORC Note:  We have encouraged the source of this report to have his uncle submit a report.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119213.html](http://www.nuforc.org/webreports/reports/119/S119213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man sees  very large "three fingers wide" obj move slowly across sky from N to SW. Had 4 lights in triangular pattern. Faint hum.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00905.html](http://www.nuforc.org/webreports/reports/000/S00905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
