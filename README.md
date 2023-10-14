@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 13 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Mission (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was driving to the hospital after work to visit my dad.  Suddenly, about 3 blocks ahead of me a disc-like object appeared.  It arrived at a rapid speed then slowed once it was above the neighborhood homes.The object rotated counterclockwise.  It displayed a set of windows evenly spaced around its body.  It seemed to have traveled as low as a few miles above the homes.  Once it tracked across several homes, it flew off as rapidly as it had descended.This sighting was not shared with anyone for fear I would be ridiculed.  I finally shared the event with my husband after we both saw a flying object in Brazoria County, Texas, 1990.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107741.html](http://www.nuforc.org/webreports/reports/107/S107741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Crafts were heading due north. They're was a single file line of approx 50. Strangest and weirdest thing we have ever seen. There were airplanes travelling in the other direction, at lower altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/159/S159944.html](http://www.nuforc.org/webreports/reports/159/S159944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [395](http://www.nuforc.org/webreports/reports/164/S164957.html)
-- [394](http://www.nuforc.org/webreports/reports/164/S164953.html)
-- [393](http://www.nuforc.org/webreports/reports/159/S159946.html)
-- [392](http://www.nuforc.org/webreports/reports/160/S160025.html)
-- [391](http://www.nuforc.org/webreports/reports/159/S159938.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
