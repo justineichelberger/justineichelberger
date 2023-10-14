@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:47 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:26 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Las Vegas, UFO sighting?Traveling west on Craig in N.Vegas Nevada, my girlfriend and I witnessed a very large and bright, glowing sphere traveling at fairly high speed in a steep trajectory, emerging over Sunset Mountain.  Somewhat like a rocket launching, but with a glowing trail of exhaust and no visible fire coming from the rear.  It was just after dark, there were some clouds visible, but they were not glowing, even though they were in the same area and plane as the object.The object traveled at a constant trajectory for approximately 10 seconds, then appeared to slow dramatically, emitted a bright aura, somewhat like a firework just before the big 'pow,' then appeared to change trajectory and disappear straight up into the clouds.  It didn't vanish suddenly.  It was more like it faded out.  Like a flashlight in the fog.The glowing trail remained for about 10-15 minutes.  It was extremely bright.  It did gradually dissipate.  As it did, it emitted several different colors around the edges of the trail. (Blue, green, purple) The moon was south of us, the object west.  They were not close together.I am not a Trekkie or UFO freak, I am only reporting what I saw.  Living near Nellis AFB I have seen many aircraft ranging from the Stealth, to F15's to single props.  I have never seen anything as large as this, or traveling in such a manner.   The glowing trail and sudden trajectory change to me is unexplainable.  The nearest thing I have seen is a space shuttle launching, but this was much different. There was no visible ship, just a very bright corona/aura. What the hell would the space shuttle be doing in Pahrump, Nevada?  Did anyone else see this?  It wasn't late and Vegas is a big town.  Surely someone else saw this other than my girlfriend and I.  Is there an explanation other than an UFO?((Vandenberg rocket launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25590.html](http://www.nuforc.org/webreports/reports/025/S25590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Abilene (KS) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Man sees  very large "three fingers wide" obj move slowly across sky from N to SW. Had 4 lights in triangular pattern. Faint hum.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00905.html](http://www.nuforc.org/webreports/reports/000/S00905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
