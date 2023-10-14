@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>North east sky.  Flashing rhythmic red green and gold.  Not moving.((NUFORC Note:  Star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66230.html](http://www.nuforc.org/webreports/reports/066/S66230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in South Huntington (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>South Huntington, Pa 10/14/65 Disc with orange/yellow lightsReturning from a High School football game (Trafford HS vs S. Huntington Pa.), I was a 7th grader at the time.  In the car was my me mom, dad, brother, cousin & friend.  I had the window down a bit.  I heard a loud sound and looked to my right.  I was sitting ft seat by the door, mom in the middle & dad was driving.  I saw a large spinning disc with orange/yellow lights around it.  My dad pulled over as did several cars in front of us & behind us to watch this thing.  About a minute...then it dropped down and took off in seconds was out of sight.  It was hovering above a field.  A neighbor said she called the Air Force to report it and was told it was a weather balloon.  Nope...never believed that.  I have always remembered this.  After a trip to Roswell, I decided to report this siting.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130317.html](http://www.nuforc.org/webreports/reports/130/S130317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
