@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:53 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two silver triangular craft performing extreme nautical maneuvers in unison high in the air in a blue cloudless sky.I left my house at about 10:00 a.m., on my way to pick up a friend. Recently there have been (more than usual) very loud military aircraft flying overhead, and I heard one.  I stopped on the walkway to see what kind of plane it was, and saw a jet, a military F-15 or something (small 1 or 2 man plane), flying loudly from right to left.  It had probably just taken off from Hickam AFB.  It flew out of sight, and I looked at the sky to see if there were any more, though I didn’t hear any. Then I saw something kind of sparkling and thought it was another one, only this time much higher in the sky. I watched it and could see that there were two seemingly identical but separate objects, flying together in exact and tight formation, both bright shiny silvery and thin triangular/arrowhead shaped, and flying very fast and very high in tight, eccentric circular movements. I first thought they might be two birds flying together, but they were so high up and so large that they would have had to be giant pterodactyls or some other mythical giant silver birds. No, they were definitely not birds. I watched them for about two minutes and they could not have been military jets, as no aircraft I had ever seen or heard of could perform such maneuvers at those heights and speeds. I kind of waved my hands in front of my eyes to make sure I wasn't seeing things and was sure that I wasn't hallucinating or delusional. I  was, however, a bit startled. I had not been drinking or taking drugs. I went back into the house, as I had forgotten to take an item with me. When I returned to the walkway, they were gone or out of sight. I am currently retired after working the past 26 years as a medical transcriptionist. I had never previously seen a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84547.html](http://www.nuforc.org/webreports/reports/084/S84547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ufo sigting in redondo beach  on a sunday afternoonI  live in redondo beach  off artesia and lawndale i went to cvs store on Hawthorne and Manhattan beach went i was coming back i stop at the stop sign which divides redondo beach blvd and artesia my eyes catch a gleam on the sky and when i  look up i saw a round shape object i hate to repeat what other people say but it was a silver or metallic thing just standing there not moving  it was reflecting light from the sun that's when i know that it was not a cloud  and the reason that i now that it was not moving was that i could see clouds moving toward it i saw it until the clouds move in i would like to know if anybory else saw it  please report to confirm  what i saw as you would know you feel sily whent you tell others even my husband((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59358.html](http://www.nuforc.org/webreports/reports/059/S59358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
