@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:49 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Franklin (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flashing light object jets straight into air and continues climb.The other witness and I were outside and we observed a flashing,bright object, emitting a trail(very large) circular in shape going straight up. It looked like a stream of light in a way with a continued climb. We did not think it was a plane or military jet because there are no military air force bases in that area(the object looked at least 10 miles away).((NUFORC Note:  Witness indicates that date of the event is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44679.html](http://www.nuforc.org/webreports/reports/044/S44679.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two silver triangular craft performing extreme nautical maneuvers in unison high in the air in a blue cloudless sky.I left my house at about 10:00 a.m., on my way to pick up a friend. Recently there have been (more than usual) very loud military aircraft flying overhead, and I heard one.  I stopped on the walkway to see what kind of plane it was, and saw a jet, a military F-15 or something (small 1 or 2 man plane), flying loudly from right to left.  It had probably just taken off from Hickam AFB.  It flew out of sight, and I looked at the sky to see if there were any more, though I didn’t hear any. Then I saw something kind of sparkling and thought it was another one, only this time much higher in the sky. I watched it and could see that there were two seemingly identical but separate objects, flying together in exact and tight formation, both bright shiny silvery and thin triangular/arrowhead shaped, and flying very fast and very high in tight, eccentric circular movements. I first thought they might be two birds flying together, but they were so high up and so large that they would have had to be giant pterodactyls or some other mythical giant silver birds. No, they were definitely not birds. I watched them for about two minutes and they could not have been military jets, as no aircraft I had ever seen or heard of could perform such maneuvers at those heights and speeds. I kind of waved my hands in front of my eyes to make sure I wasn't seeing things and was sure that I wasn't hallucinating or delusional. I  was, however, a bit startled. I had not been drinking or taking drugs. I went back into the house, as I had forgotten to take an item with me. When I returned to the walkway, they were gone or out of sight. I am currently retired after working the past 26 years as a medical transcriptionist. I had never previously seen a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84547.html](http://www.nuforc.org/webreports/reports/084/S84547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
