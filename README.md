@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:53 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:25 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Ufo sigting in redondo beach  on a sunday afternoonI  live in redondo beach  off artesia and lawndale i went to cvs store on Hawthorne and Manhattan beach went i was coming back i stop at the stop sign which divides redondo beach blvd and artesia my eyes catch a gleam on the sky and when i  look up i saw a round shape object i hate to repeat what other people say but it was a silver or metallic thing just standing there not moving  it was reflecting light from the sun that's when i know that it was not a cloud  and the reason that i now that it was not moving was that i could see clouds moving toward it i saw it until the clouds move in i would like to know if anybory else saw it  please report to confirm  what i saw as you would know you feel sily whent you tell others even my husband((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59358.html](http://www.nuforc.org/webreports/reports/059/S59358.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Surprise (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Streak in sky changes directionI was watching the night sky for shooting stars when an object, about 40000 feet in the sky, streaked across the sky from the north and made a sweeping turn to the west. It entered into my view from the edge of the roof of my house. So its appearance was constant, unlike a meteor that generally appears out of nowhere as it enters the earth's atmosphere. This object was within our atmosphere. I did not believe that it was a meteor because meteors generate a straight line as they pass and dissapear. This object changed direction. I was amazed that the speed it was travelling was similar to a meteor. It turned west and dissapeared out of sight. Not sure if anyone else saw this object. The object also generated a small propulsion tail as if it was powered. Maybe someone knows what it was. I find it hard to believe that we have technology to travel at this type of speed. Probably thousands of miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59266.html](http://www.nuforc.org/webreports/reports/059/S59266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
