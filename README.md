@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Bernardino (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw one sphere moving westward through the San Bernardino Valley at a high rate of speed, then it slowed drastically and hovered.  Disappeared thereafter.  Color:  White/round object Observer:  55 year female, works for County of San Bernardino in Rialto, CA</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84529.html](http://www.nuforc.org/webreports/reports/084/S84529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1964, an anonymous witness in Bettendorf (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately Don't remember - Don't remember minutes.</sub><blockquote><sub>I was 10 years old I was laying in my bed and I heard and felt a buzzing and vibration.  I looked out my bedroom window and I saw something shaped like a manta ray.  I remember being so scared and then I was in this bright white room.  I saw beings hovering around me and I heard in my head don't worry we are not here to hurt you.  Then I saw some overhead equipment and I felt a pain in my right shin ever since then it have had very strange an vivid dreams they say you can't read in dreams well I can and it isn't always English or any other language.  I have been told that I speak a strange language in my sleep. I have something hard under my skin on my right shin have had it since that night.  I still feel like I go somewhere two or three times a month at night. I have never spoke of this even to my wife of 38 years.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/108/S108126.html](http://www.nuforc.org/webreports/reports/108/S108126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
