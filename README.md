@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Walnut Creek (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright "searchlight" as the sun set	Two friends and I were at the Unity Center in Walnut Creek about to go into the sancuary when a strange "searchlight" caught our eye.  It was very high up and looked similar to a helecoptor searchlight, yet many times brighter and there was no motor sound.  It weaved back and forth slightly.  As we watched it, a small plane flew through the beam and was fully illuminated by it.  The beam of light was intensly bright, yet diffused over a broad area.  At the end was a bright, indigo blue line of "smoke".  Another friend came rushing up and said she had seen it from her car where she watch it move straight up with the bright light at the back of the craft.  As we watched, the light suddenly dimmed and dissappeared.The blue line remained bright and visible as the sky dimmed with the setting sun.((Vandenberg rocket launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25598.html](http://www.nuforc.org/webreports/reports/025/S25598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Albion (IN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large stationary craft Northwest of AlbionI was approaching the intersection of 100 S and 50 W. when a woman turned in in front of me and pulled up next to the field where I could see her looking at something.  I looked over to the field and noticed a large stationary craft at quite a distance north northwest of Albion IN.  I went north to see if I could get a closer clearer image for a picture, but when I came through the trees it was gone (maximum of 2 minutes.  The sky was clear blue with silver cast and I had 180 degree field of vision and there was no trace of it despite looking all across the sky over the next ten minutes. Size was difficult to tell based on distance but I know it was at least as big as 2 Goodyear blimps.  Color was hard to tell but I could discern metallic silvery white with some red orange but that could have been sun reflecting off the top.  The shape was like two ovals connected at the end creating 2 levels.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130624.html](http://www.nuforc.org/webreports/reports/130/S130624.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
