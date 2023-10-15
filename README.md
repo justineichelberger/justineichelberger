@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Manistee (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Saucer shaped, moved north to south directly above the street, no sound, moon was to the eastThe craft was on a course of north to south,  moon was to the east and clearly visible, craft was very similar to the one Bob Lazar spoke about.  Craft was a yellowish white in color, no flashing light's, there was no sound at all, however it did make my hair slightly stand up.  I was walking up the hill on Pine St, about half way up, something made me turn and look to the north,  the street is around 25 feet wide, and the craft's diameter was wider than the street.  The craft was approximately 250 feet over my head, my estimation of speed would be around 700 MPH.  Since then I spent 39 years in the Military, I know aircraft when I see them, this Craft was a Saucer.  I saw no window's, no humanoids.  Never talked much about it, and not at all for about 25 years.  I have had two other encounters since that time.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60814.html](http://www.nuforc.org/webreports/reports/060/S60814.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>THE UFORight, this has taken a long time to publicly come out with it, but I feel that i have to. some time near october, 1999, me and my brother were walking home, at night, when we encounterd it, flying above us, it was huge! all we could do was stare at it, we must of lokked like two gormless idiots, i can remember the details on the underside. it was concave on the bottom, so i have a tendancy to belive it wasn`t the aroura project, and it looked green, like the little green track things on a mother board. it was silent, and mostley black. I would like to know if there are any reports of a ufo sighting in Stocksbridge, S.Yorkshire, around October, 1999.((NUFORC Note:  Date is approximate.  We have assigned an arbitrary date in October 1999.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17048.html](http://www.nuforc.org/webreports/reports/017/S17048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
