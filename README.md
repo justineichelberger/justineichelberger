@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>Spectrum colored lights move across the sky and from them emerges a white light.In October of 1993 I was walking from the Library Building towards Rhine Hall on the campus of Cincinnati Bible College and as I looked up and towards my left (which meant I was looking towards the Ohio River and the Northern KY area)  I saw a UFO.  I saw what appeared to be the seven colors of the spectrum emerge from nowhere and briefly move across the sky southwestward in a pattern that I can only liken to a chalkboard line maker moving across a chalkboard.  If you were in grade school in the 1970’s and 1980’s as I was you may remember your teacher placing chalk in several wire holders attached to a piece of wood she would use to make lines on a chalkboard.  Imagine the colors of the spectrum being drawn on a chalkboard and that is basically what I saw.The colored lines emerged from nowhere and briefly moved across the sky and then abruptly stopped.   From them shot a bright white light that moved across the sky in a southwestwardly direction.  The whole sighting took a couple of seconds at the most.((NUFORC Note:  Date in October 1992 is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81529.html](http://www.nuforc.org/webreports/reports/081/S81529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that came closer to photographer with each camera flash; green, orange and violet haze around the orb.Several dogs at a nearby kennel started barking in a defensive manner.  We went to the backyard to see why they were barking and a bright, hovering light was seen in the sky.  It radiated green, orange and violet auras.  As we began to take pictures, it appeared to be moving closer to our location with each camera flash and then would fall back when the flashes stopped.  I would have reported this sooner if I would have know about this website.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68660.html](http://www.nuforc.org/webreports/reports/068/S68660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
