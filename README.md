@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rifle (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Ultra high speed lights caught on slow motion camera in the middle of the day.I have worked for the Colorado Department of Corrections for 18 years. While waiting for my daughters school bus on the afternoon of October 15 I was taking pictures of the clouds in front of the sun. I had accidentally hit slow motion video record on my phone.I was unaware of the objects until I watch the video a day later.In the video there are tiny bright lights the travel across the screen at an ultra high speed. In the video you will see a reflection of the sun that is blue green in color with a purple colored shadow.  That is obvious.The first light comes from the sun's approximate 4:00 position and continues away from the sun at the 10:00 position.  The second leaves the sun at the 12:00 at the same time the first leaves the sun.  The third is at the sun's 7:00 a few frames later.  When you look at the speed at which these things are moving keep in mind it is in slo-mo at 240 fps.  I don't think you could see these with the naked eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123110.html](http://www.nuforc.org/webreports/reports/123/S123110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Columbia (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0:03:00 - 0:03:00 minutes.</sub><blockquote><sub>Mulitiple sightings of the same UFO.My friend and I were sitting outside in my driveway around twilight.  We then saw what looked like a moving star coming from the north, but we didn't really recognize it as a UFO and disregarded it.  We then saw it again coming from the west and then thought it was an airplane coming in to land, so once again we diregarded it.  Next my friend, brother, and I went for a walk around 19:30-20:00. We noticed it again coming from north.  We kidded about it for a second with my brother saying we were wizards and moving the star, but then we realized it was abnormal. It wasn't a plane.  It had no blinking lights, no sound, moved swiftly, and looked like a star.  We stood and watched for about 3-4 minutes in shock. It started to get brighter and then suddenly began to shrink and turn into a light tint of red.  Then it just disappeared into nothing but the black sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84552.html](http://www.nuforc.org/webreports/reports/084/S84552.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
