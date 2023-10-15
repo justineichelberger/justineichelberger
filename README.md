@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 14 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Newport (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two red orbs the first one came down the beach line up in the sky at night and then it just went straight up into the sky and disappeared within a second and then the second Red Orb follow the beach line and look like it was coming right at us and then went straight up into the sky and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136798.html](http://www.nuforc.org/webreports/reports/136/S136798.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lutsen (MN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Silver-white circles of light moving in circles parallel, then re-occurring vertical rectangles that glowed brightly then faded x3.From a porch on a hill looked across Caribou Lake and saw multiple silver-white circles (like stars but larger) moving in widening circles and parallel to one another across the horizon.   They moved slowly west then returned.  Repeated the movement then as they went low on the western horizon suddenly a large golden glow appeared directly above the hill across our bay.  It glowed gold, almost flame-like, then disappeared.  Nothing for a few minutes then the golden glow returned, a bit to the west.  When I stared at it, it appeared to be 3 vertical rectangles of golden light perfectly parallel to one another.  After a 10 second glow, it disappeared.  Reappeared once farther to the west.  During this gold glow action, the silver/ white round lights that I first mentioned continued to move in circles on the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122871.html](http://www.nuforc.org/webreports/reports/122/S122871.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [385](http://www.nuforc.org/webreports/reports/164/S164967.html)
-- [384](http://www.nuforc.org/webreports/reports/164/S164976.html)
-- [383](http://www.nuforc.org/webreports/reports/164/S164964.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165119.html)
-- [381](http://www.nuforc.org/webreports/reports/164/S164972.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
