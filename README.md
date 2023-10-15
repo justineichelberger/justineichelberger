@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:17 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lutsen (MN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Silver-white circles of light moving in circles parallel, then re-occurring vertical rectangles that glowed brightly then faded x3.From a porch on a hill looked across Caribou Lake and saw multiple silver-white circles (like stars but larger) moving in widening circles and parallel to one another across the horizon.   They moved slowly west then returned.  Repeated the movement then as they went low on the western horizon suddenly a large golden glow appeared directly above the hill across our bay.  It glowed gold, almost flame-like, then disappeared.  Nothing for a few minutes then the golden glow returned, a bit to the west.  When I stared at it, it appeared to be 3 vertical rectangles of golden light perfectly parallel to one another.  After a 10 second glow, it disappeared.  Reappeared once farther to the west.  During this gold glow action, the silver/ white round lights that I first mentioned continued to move in circles on the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122871.html](http://www.nuforc.org/webreports/reports/122/S122871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>While driving home from work on Ritter ave going south turning west on 16th street and at the corner of Community Hospital East, I saw 10 to 12 round orange light hovering above hospital.  I yelled to my husband and 2 sons in the car with me to look at the lights.  My husband pulled over in parking lot of closed shoe store, we all got out of the car, and orange circles formed "V" shape in the sky and disappeared.  My youngest son was afraid and wanted to go home.  We have never had another encounter.  There where no noises and I called hospital next day and they have no info on lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/126/S126221.html](http://www.nuforc.org/webreports/reports/126/S126221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
