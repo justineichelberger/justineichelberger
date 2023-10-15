@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:24 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Aztec (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw many oval lights zigzagging in the night sky and then disappear.Driving on a county road around midnight above Aztec, another person and I saw 9 or 10 bright oval lights appear in the south sky flying in formation.  Suddenly all of them began zigzagging sporadically all over the sky.  Then they all stopped still for a moment and then quickly sped off individually in the same direction and then they all suddenly disappeared in an instant.  Shockingly, I stopped my car on the road jumping out screaming, “What was that!  What is happening!  What is it!”  The other person in my car saw it and reacted the same as I did.  Whatever they were, it was not normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145810.html](http://www.nuforc.org/webreports/reports/145/S145810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Wilmington (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Moon sized object "grew" to fill entire sky, then disappearedIn October 1969 I was riding my bike home from a friends house after having dinner there, so I know the time was around 6 or 7PM…shortly after total darkness.  The exact day of the month I can not recall.I happened to look up at the sky as I was riding and saw what I first thought was the moon, but then noticed it seemed brighter and orange-ish in color…and was featureless. (no dark spots or “man in the moon”)  Almost immediately  it grew until it filled the entire sky, then disappeared completely. The effect was like the moon was falling and I remember ducking! I stopped riding and continued to watch the sky, wondering what I had seen. Suddenly it was back…in the same position as the first time, only a green-ish color this time. Again it quickly grew until it filled the whole sky, then disappeared again just like before.I was a bit scared at this point (I was 14 at the time) and rode home quickly, telling my mother what I had seen as soon as I got in the house. About 10 minutes later a report came over the radio (local AM station) saying that “strange lights you may have seen in the sky” were “atmospheric testing”. At that time you accepted what you heard on radio or TV as fact, so case closed.Later in life I often wondered what sort of “atmospheric testing” it could have been and why I had never heard anything more about it. I have since searched the internet extensively and can find no mention of any type of testing that could produce this sort of phenomena,  I was tempted to make this report after reading a very similar report dated 2/20/70 in Ft. Dix, NJ, which is only about 60 miles from my sighting location in Wilmington, DE. The NJ report says “date approximate” so I wonder if their sighting could have actually been 4 months earlier, as I’m fairly certain of the month and year.I would love to hear if anyone else witnessed this as the Ft Dix report is the only other mention of this I can find anywhere!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79110.html](http://www.nuforc.org/webreports/reports/079/S79110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
