@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>It was mat black and moved very slow West towards the Hudson RiverI was walking South on 7th Ave and when I approached 16th Street I noticed the craft moving West over the tops of buildings down 14th Street.  It stood out because of how slow it was moving and very level.  The shape was sort of tear dropped but flat on the bottom. I would say it was about the size of a helicopter without a tail. The color was a mat black and I could not tell if it had any windows. It seemed to be about 100 feet above the tallest of the buildings on that block which is about 20 stories. The weather was clear and it was easy to see a great distance. Since it was moving so slow I really tried to see if there were props like a helicopter and there was nothing. I pointed it out to two people and they said it looked bizarre, they could not tell what it was either. They walked away not seeming too interested in fact, no one seemed to care about it or  notice it. It continued over the buildings and out over the Hudson River and then just slowly ascended upwards. Before it was over the Hudson I watched it's level in relation to the buildings and as far as I could tell it was moving in a straight line until it was out over the river.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65034.html](http://www.nuforc.org/webreports/reports/065/S65034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellisville (MS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Formation of red lights flying over Ellisville MississippiRed lights flying in a loose formation from west and then turning north.  There were no blinking lights and no sound.  They seemed to be flying low and very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122847.html](http://www.nuforc.org/webreports/reports/122/S122847.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
