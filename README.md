@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:24 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellisville (MS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Formation of red lights flying over Ellisville MississippiRed lights flying in a loose formation from west and then turning north.  There were no blinking lights and no sound.  They seemed to be flying low and very slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122847.html](http://www.nuforc.org/webreports/reports/122/S122847.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Aztec (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Saw many oval lights zigzagging in the night sky and then disappear.Driving on a county road around midnight above Aztec, another person and I saw 9 or 10 bright oval lights appear in the south sky flying in formation.  Suddenly all of them began zigzagging sporadically all over the sky.  Then they all stopped still for a moment and then quickly sped off individually in the same direction and then they all suddenly disappeared in an instant.  Shockingly, I stopped my car on the road jumping out screaming, “What was that!  What is happening!  What is it!”  The other person in my car saw it and reacted the same as I did.  Whatever they were, it was not normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145810.html](http://www.nuforc.org/webreports/reports/145/S145810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
