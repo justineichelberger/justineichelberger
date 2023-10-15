@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately stationary - stationary minutes.</sub><blockquote><sub>appears to be round shaped object with distinctive rotating lights green/red/blue and whiteOne round shaped object hovering stationary with distinctive rotating red/blue/green and white lights. Object never left the one spot only moved in a bouncing motion from time to time… stayed there… the first night we saw it was Oct. 6th, 2011 at approximately 10 pm the second citing was Oct. 15th, 2011 at approximately 11:15 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84555.html](http://www.nuforc.org/webreports/reports/084/S84555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Germany (Czech border) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It's not the only time !!I was stationed in Germany in 1972-1974. Every 60 days our Army Unit would spend 30 days at Camp May near the Chech border. Tho we would run jeep patrols everyday, one patrol would stay the night on the border and watch the other side.My group who I was in charge, it was our turn to stay the night on the border. Tho it was cloudy, there were breaks in the clouds that the moon could make it easy to see. I went outside to check the guard that was on rear duty of our hut. As the guard and I were talking all of a sudden a green glowing round ball came out of the clouds and making no noise at all. We were very stunned at first at what we saw. It just glowed off and on and not making any sound at all. It didn't last long, but at the Chezch border and Germany thats something you wouldn't expect to see. We both went inside the shack to check with the radar guys to see if they picked anything up BUT of course not.We didn't report it or say anything about it, because who would believe us..((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30421.html](http://www.nuforc.org/webreports/reports/030/S30421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
