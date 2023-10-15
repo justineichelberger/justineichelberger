@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Germany (Czech border) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It's not the only time !!I was stationed in Germany in 1972-1974. Every 60 days our Army Unit would spend 30 days at Camp May near the Chech border. Tho we would run jeep patrols everyday, one patrol would stay the night on the border and watch the other side.My group who I was in charge, it was our turn to stay the night on the border. Tho it was cloudy, there were breaks in the clouds that the moon could make it easy to see. I went outside to check the guard that was on rear duty of our hut. As the guard and I were talking all of a sudden a green glowing round ball came out of the clouds and making no noise at all. We were very stunned at first at what we saw. It just glowed off and on and not making any sound at all. It didn't last long, but at the Chezch border and Germany thats something you wouldn't expect to see. We both went inside the shack to check with the radar guys to see if they picked anything up BUT of course not.We didn't report it or say anything about it, because who would believe us..((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/030/S30421.html](http://www.nuforc.org/webreports/reports/030/S30421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Rifle (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Ultra high speed lights caught on slow motion camera in the middle of the day.I have worked for the Colorado Department of Corrections for 18 years. While waiting for my daughters school bus on the afternoon of October 15 I was taking pictures of the clouds in front of the sun. I had accidentally hit slow motion video record on my phone.I was unaware of the objects until I watch the video a day later.In the video there are tiny bright lights the travel across the screen at an ultra high speed. In the video you will see a reflection of the sun that is blue green in color with a purple colored shadow.  That is obvious.The first light comes from the sun's approximate 4:00 position and continues away from the sun at the 10:00 position.  The second leaves the sun at the 12:00 at the same time the first leaves the sun.  The third is at the sun's 7:00 a few frames later.  When you look at the speed at which these things are moving keep in mind it is in slo-mo at 240 fps.  I don't think you could see these with the naked eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123110.html](http://www.nuforc.org/webreports/reports/123/S123110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
