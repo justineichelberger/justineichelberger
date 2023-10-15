@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A bright light that came closer to photographer with each camera flash; green, orange and violet haze around the orb.Several dogs at a nearby kennel started barking in a defensive manner.  We went to the backyard to see why they were barking and a bright, hovering light was seen in the sky.  It radiated green, orange and violet auras.  As we began to take pictures, it appeared to be moving closer to our location with each camera flash and then would fall back when the flashes stopped.  I would have reported this sooner if I would have know about this website.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68660.html](http://www.nuforc.org/webreports/reports/068/S68660.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Portales (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Close encounter with non-human/meta human.My sister and I had a very strange close encounter with a non-human.  We were cutting through an alley to get to the local playground, and came upon a meta-human digging in a trash can.  She (seemed female) had a tall, lithe, figure, and a reptilian tail was visible out of the back of her/its long coat.  It did not see us at that moment, and we witnessed it pull a milk cartoon out of the trash can, and began consuming the entire milk carton, tearing at the paper and eating it.  Then, she/it saw us, turning her head, we saw her emerald green slitted eyes, and sharp teeth, when she hissed at us.  We ran, afraid she would chase us.  I have a clear memory of this event, and to my knowledge, it did occur, in the Fall of '76.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115564.html](http://www.nuforc.org/webreports/reports/115/S115564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
