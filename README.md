@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Oak Creek (CO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>follow-up information concerning flying pencil shaped object; original posting date 02/02/04"we saw a glowing green pencil shaped object going from south to north. it moved out from behind one hill only to disappear behind another. the "pencil" was long side oriented to the earth (not pointed up and down). The date is a rough guess. Maybe it was up to a year later than what I listed. Its tough to remember exactly."  The text above, in quotes, is what I posted on 02/02/04.  I realize now that I left out some pertinent information, per web master comments.  The location was south-southwest of Oak Creek, CO.  My father was elk hunting, and I was tagging along.  We were parked on what I think was a forest service road or maybe a county road (dirt) in the mountains.  At the time, we lived on the Front Range, not in Routt County. We were organizing camping gear in the back of my father’s pick up (no camper on truck) when we both noticed the "green pencil" shaped object moving in the direction noted in my earlier report.  It was very dark, basically pitch black, and the only other lights around were from the vehicles, and the RVs of some other hunters also parked along this road.  As previously reported, the object was completely silent.  As far as I know, none of the other hunters saw the object, as all appeared to be inside campers and RVs for the night.This is a serious site, and I think editorial comment is not mainly what is being sought of reporters.  I must mention, however, that this was the weirdest thing I have ever seen.  After the object disappeared, heading north, my father and I were both dumbstruck for several moments.((NUFORC Note:  Date of event may be approximate, although the source does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58853.html](http://www.nuforc.org/webreports/reports/058/S58853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Indialantic (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unbelievably Close to the Ground SurfaceAs I recall, I was in 9th grade at the time of the sighting.  My and a neighbor were walking along the Atlantic coastline, just north of Indiatlantic, Florida, just before dusk.  A large came out of nowhere and hovered near us, perhaps as near as 800 feet away.  The object, as I recall, was oval in shape, with lights around the perimeter.  The size of the object was perhaps 300 feet in length.  My friend and I watched for perhaps two minutes, before the object moved unbelievably fast out of sight over the Atlantic Ocean.  Both my friend and I were extremely scared of what we saw and ran for cover immediately after the sighting.  We reported the incident to the local radio station which had received other sighting reports.I have watched a number of UFO show on television, but never have I seen in incident where one had been sighted as close to the ground as the one that we saw that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93886.html](http://www.nuforc.org/webreports/reports/093/S93886.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
