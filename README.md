@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:44 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Spanaway (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>cloud inhalerit seemed as it was invisable. it moved thru the clouds 10 times faster than the clouds. looked like it was sucking the clouds thru it and shooting them straight out of three holes in the bottom. it was heading north for about 1 min (in that time it traveled approx 4-5 miles) then it slowed down and headed southeast towards Mt. Rainier. after 30 more sec. couldnt see anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50191.html](http://www.nuforc.org/webreports/reports/050/S50191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Richmond (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object paces commercial jetliner then leaves at great speedI was just starting work when I looked up at the sky.It was a bright clear day.No coud cover and unlimited visability.I was looking at a commmercial jetliner in flight headed east toward Dayton OH.It`s position was west of my location.The plane was clearly visable including the wingtips and tail.There wasa a sphere that paced the plane.First on one side and then moving around the back and the to the other side.The object stayed far enough away as to clearly see the air space between it and the plane.It never was further forward of the plane than the tips of the wings.The object appeared to be no bigger than the diameter of the planes fusilage.I watched it for several minutes while it hovered around the plane.It took off at great speed to the west.It took no more then a few seconds to be over the horizon and gone from sight.Wright Patterson AFB is a 45 minute drive from here.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33139.html](http://www.nuforc.org/webreports/reports/033/S33139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
