@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in North Wilkesboro (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>before the face disappeared the circle and the smile shifted the face was real close to the smileI saw something drawing a face in the sky but I could not see it or hear any sounds  It had a fancy navigation system  It flew in degrees and angles to form the face It navigated 360 degrees to form a circle for the face then it navigated 180 degrees inside the circle to form a smile then it flew in a straight line to form the nose then it flew at an angle to form the ears the top of the ear was drawn in a straight line but at an angle then it moved in a circular motion to draw the rest of the ears The smoke it drew the shapes and lines did not fade or disappear the entire time it was drawing the face the ears were attached to the outside of the circle there was no break in them after if finished the face I saw it it was a bright silver colored craft moving in a straight I saw it for less than 10 seconds then it disappeared then the face disappeared sad to say I was the only one to see it((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84670.html](http://www.nuforc.org/webreports/reports/084/S84670.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Langley (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>round dark black vibrating solid object looking south towards early eve sky caught it in some pictures -it was there then goneI was taking pictures on my cell phone of the early evening sky line.  I took 6 pictures in a row. on the third picture I could see the object in the sky with my own eyes and the camera (this lasted like 3 secs) it was black and round kinda vibrating then I took the picture and looked around right after to see it and it was completely gone away. took  3 more pictures it was still gone vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114576.html](http://www.nuforc.org/webreports/reports/114/S114576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
