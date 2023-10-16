@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:29 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Plymouth (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large quiet moving object that has dim star like lights that formed a triangle like shape.Star like lights that formed a large elongated triangle. At each end was a dim star like light and three in the back. It moved slowly, quietly and was very large. The descrpition of a signting on your front page matches mine exactly, except my sighting, the object was moving slowly. {It was the April 27 2001 sighting with a drawing to go along with his story.} It is eery because I felt the same way, as if it was sneaky. I can't believe I noticed it, because it is as if it is camouflaged in the night sky. I just so happen to look up and notice three stars movng and thought that is odd, so I drove closer, and got out of my car and really took a good look at it. It was relatively low, very quiet, and seem to be very large. At this time, I became nervous, because I knew that what I was watching was not of the norm. Then I got back in my car and followed it for a minute, but then it seem to vanish from my view. It really could be very hard to realize it was there unless you were looking at there at the right time, but once I realized that this was definetly a moving object, it really kind of scared me, because of the size and the whole thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19881.html](http://www.nuforc.org/webreports/reports/019/S19881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Woodward (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>'Oklahoma lights' become objects. Shut down electrical system on pickup.While driving east on a country road,one night in october '93, we saw what we first thought was a bright star. Watching, we realized it was coming closer at a fast pace. The headlights went out on our truck and the motor died. We got out of the truck and stood beside it watching as the light stopped directly south of us in a field. After awhile, the light 'winked' out. Windows, lit from within began rotating in a clockwise fashion. Some sort of huge object slowly 'swallowed' the lighted object from west to east, very dark and silent. The lighted object appeared again, the one we first saw. It took off at about a 45degree angle to the west,southwest at an encrediably fast speed till it was too far to track, just disappeared into a pinpoint somewhere up among the stars. Then a second light came in ,same direction, from the east, and stopped right where the first one did. It did not 'wink' out however, just sat there a few seconds, then shot off at that high rate of speed at about a 70 degree angle into the west, southwest sky as if in pursuit of the first one. Everything was absolutly silent the whole time. After all this was over, the lights worked on the truck again and it started right up. We have never known just how long we stood there watching.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18860.html](http://www.nuforc.org/webreports/reports/018/S18860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
