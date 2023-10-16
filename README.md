@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Woodward (OK) reported seeing craft that fit the description of some 'Disk' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>'Oklahoma lights' become objects. Shut down electrical system on pickup.While driving east on a country road,one night in october '93, we saw what we first thought was a bright star. Watching, we realized it was coming closer at a fast pace. The headlights went out on our truck and the motor died. We got out of the truck and stood beside it watching as the light stopped directly south of us in a field. After awhile, the light 'winked' out. Windows, lit from within began rotating in a clockwise fashion. Some sort of huge object slowly 'swallowed' the lighted object from west to east, very dark and silent. The lighted object appeared again, the one we first saw. It took off at about a 45degree angle to the west,southwest at an encrediably fast speed till it was too far to track, just disappeared into a pinpoint somewhere up among the stars. Then a second light came in ,same direction, from the east, and stopped right where the first one did. It did not 'wink' out however, just sat there a few seconds, then shot off at that high rate of speed at about a 70 degree angle into the west, southwest sky as if in pursuit of the first one. Everything was absolutly silent the whole time. After all this was over, the lights worked on the truck again and it started right up. We have never known just how long we stood there watching.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18860.html](http://www.nuforc.org/webreports/reports/018/S18860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Single round black sphere hovering with white clouds in the background.Sometime near 6:00pm.  A dark round circle shape in the south western part of the sky.  In view for about 6-8 minutes.  Appx. 4500 feet up hovering slowly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78418.html](http://www.nuforc.org/webreports/reports/078/S78418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
