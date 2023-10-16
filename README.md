@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 15 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1961, an anonymous witness in Indialantic (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unbelievably Close to the Ground SurfaceAs I recall, I was in 9th grade at the time of the sighting.  My and a neighbor were walking along the Atlantic coastline, just north of Indiatlantic, Florida, just before dusk.  A large came out of nowhere and hovered near us, perhaps as near as 800 feet away.  The object, as I recall, was oval in shape, with lights around the perimeter.  The size of the object was perhaps 300 feet in length.  My friend and I watched for perhaps two minutes, before the object moved unbelievably fast out of sight over the Atlantic Ocean.  Both my friend and I were extremely scared of what we saw and ran for cover immediately after the sighting.  We reported the incident to the local radio station which had received other sighting reports.I have watched a number of UFO show on television, but never have I seen in incident where one had been sighted as close to the ground as the one that we saw that day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93886.html](http://www.nuforc.org/webreports/reports/093/S93886.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Caswell (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>it was not a air craft it moved to slowit was over tree lines here at my brother house.i watched it in one location moving around then it jump to another location.then bout 45 minutes later a jet flew by low an then some thing like a white streak of long light came down from the sky.the object over the tree line went down towards the ground.three minutes later we here police cars an sirens coming from both sides of the main road.lights on object where turning red,orange like colors an moving from spot to spot like it was telloporting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78417.html](http://www.nuforc.org/webreports/reports/078/S78417.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [838](http://www.nuforc.org/webreports/reports/165/S165184.html)
-- [837](http://www.nuforc.org/webreports/reports/164/S164960.html)
-- [836](http://www.nuforc.org/webreports/reports/164/S164959.html)
-- [835](http://www.nuforc.org/webreports/reports/164/S164974.html)
-- [834](http://www.nuforc.org/webreports/reports/164/S164981.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
