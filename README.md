@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Langley (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>round dark black vibrating solid object looking south towards early eve sky caught it in some pictures -it was there then goneI was taking pictures on my cell phone of the early evening sky line.  I took 6 pictures in a row. on the third picture I could see the object in the sky with my own eyes and the camera (this lasted like 3 secs) it was black and round kinda vibrating then I took the picture and looked around right after to see it and it was completely gone away. took  3 more pictures it was still gone vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114576.html](http://www.nuforc.org/webreports/reports/114/S114576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wheaton (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Moving point of light in vicinity of Wheaton/Glenmont MetroI live near Cloverly, MD.  On 10/15 at around 6:47 A.M. I left the house to drive my husband to the Wheaton/Glenmont Metro Station.  I was traveling south on Layhill Road, and approaching Middlevale Lane, a side street on the left, when I noticed a bright point of light above the trees on my right side.  It was about the same size and magnitude as Venus, except it was in the southwest sky.  I saw that it was moving and wondered if it was a satellite, because it was a steady brightness and there were none of the navigation lights or beacons normally associated with an airliner.However, it didn’t behave like I would expect a satellite to.  The point of light moved slowly from left to right above the horizon, stopped, resumed moving and then stopped again.  Though I was very interested in watching it some more and looked as long as I dared, Layhill Road descends sharply into a basin at this point and I lost sight of it behind the trees.  I went on and left my husband at the Metro station, drove back, turned around at Bel Pre Road and retraced the route again, just for curiosity’s sake.  This time the light was gone, and the clock in the car now read 7:05.I hesitated to report this as a UFO, even though it struck me as really odd.  I know that out of the thousands of man-made objects orbiting Earth, occasionally one catches the light.  A little research turned up an Iridium flare in my area (Iridium 45), which would have been visible from that position at 6:43 AM at an azimuth of 165° (SSE), and an altitude of 40° from the horizon.  I have to consider that as a possible explanation, however, if I left home at 6:47, then I passed by later than the time of the flare, which only is visible for a few moments.  I have not found any other satellite passes that coincide with that date, time and location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59296.html](http://www.nuforc.org/webreports/reports/059/S59296.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
