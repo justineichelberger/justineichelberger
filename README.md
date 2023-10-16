@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:08 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Caswell (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>it was not a air craft it moved to slowit was over tree lines here at my brother house.i watched it in one location moving around then it jump to another location.then bout 45 minutes later a jet flew by low an then some thing like a white streak of long light came down from the sky.the object over the tree line went down towards the ground.three minutes later we here police cars an sirens coming from both sides of the main road.lights on object where turning red,orange like colors an moving from spot to spot like it was telloporting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78417.html](http://www.nuforc.org/webreports/reports/078/S78417.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tulcea (Danube Delta) (Romania) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately undefinite - undefinite minutes.</sub><blockquote><sub>Danube Delta - Romania - A group of five flashing lights hovering in the airDear Sirs, My name is ((name deleted)), I am 33 and I live in Bucharest, Romania. Two days ago on 16 October 2000, I was coming together with other 7 friends from a trip in the Danube Delta, which is located in Romania on the river Danube at the end towards the Black Sea near the city of Tulcea. At about 19:00 h local time, we all witnessed a luminous light phenomena which none of us could explain. Before presenting the event, please note that I personally am a very skeptical person in what concerns the UFO. I red a lot about that and I really believe that it is very unlikely that our planet has ever been visited by aliens. Nevertheless, at the above mentioned hour, while we were travelling by boat on the river Danube we all saw a group of five flashing lights hovering over the Danube Delta. I would like to mention that clearly those lights were not stars and they were not attached to any visible artificial object. The size of the group of lights I believe was measurable in kilometers. I would not want to bore you with a long and probably irrelevant story; the fact is that I have the event recorded on a videotape. My intention is to ask for your advice in how can I have this tape studied by experts providing that I keep the copyright. Thank you in advance, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14596.html](http://www.nuforc.org/webreports/reports/014/S14596.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
