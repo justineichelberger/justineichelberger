@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:03:00 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Irwin (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Right above my neighbor's house at 1st I thought it was the moon but dinners I see the moon is Shannon in an opposite direction a ghost to the back of house and I see that now I go back to the for and I definitely see it's a moon shape right on top of my neighbors house and it's a bright white light then I notice the light turning around and you see shadows coming from the light then the light proceeds to get bright again and as you can see the object spin in turn and spin in or on some canna axis you see dark shades and you could see some color in there and it you so alarming can a spooky but it's what I say</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149903.html](http://www.nuforc.org/webreports/reports/149/S149903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Multicolored strange object over ChicagoWe saw a bright, swift moving light above our roof.  Different colors, such as red, blue, white, with a bit of yellow and green flashed across it. Its movements were remarkable, as it seemed to move abruptly left to right, up and down, in a zigzag motion, and in between it just hovered.  It's still visible, although it seems to be leaving, as it has grown dimmer and harder to see the different color flashes. It's up far too high in the air to be a helicopter.  When it was closer, the flashing lights seemed to be moving in such a way as to indicate a disk shape.((NUFORC Note:  Possible twinkling star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47019.html](http://www.nuforc.org/webreports/reports/047/S47019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
