@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Johnson City (TN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Silver, slowly rotating, pole shaped object - broad daylightSaw cylindrical shaped silver object at significantly high altitude, approximately over Gray, TN, during daylight hours with excellent visibility.  Object appeared to stand still in the sky, and flash intermittently. I watched the object for approximately 45 seconds to try to determine what I was looking at.  I called my wife out of the house to check out whatever it was. We both watched the object remain completely unmoving in the clear, cloudless sky, for at least a minute.  Without a good reference to scale, the guess of altitude was maybe 10,000ft, and about 3 miles distant from our point of observation, towards the WNW.  I was interrupted by a cell phone call, during which, my wife retrieved a pair of binoculars for closer inspection.   She observed a silver, telephone pole shaped object that rotated slowly, with no other apparent movement, laterally or vertically.  The flash came from one side of the object reflecting the sun as it spun very slowly.  Shewatched the object for several minutes while I returned inside.  I finished my call and returned outside to find my wife clearly astonished by what we had both seen. She handed the binoculars to me, and when I turned to where the object had been, it was gone.  She was confident that it was not a mylar balloon, (too long, skinny), nor any aircraft that was easily recognizable (no wings, not moving, no rotor).  In that general direction lies the regional airport, and possibly even the approaches to Knoxville airport.  My only possible explanation was atmospheric distortion of a flight climbing out of Knoxville, or maybe a weather balloon.  I almost called the regional airport tower to see if they would confirm, but decided not.  After 2 days, my wife and I are still talking about it, so anybody out there who may have seen it, or knows what it was, feel free to post.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93674.html](http://www.nuforc.org/webreports/reports/093/S93674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Golden Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large Circular Bright Pulsating Light Changed Color from Red to Green to YellowA very large circular VERY BRIGHT PULSATING LIGHT THAT CHANGED COLOR FROM RED TO GREEN TO YELLOW / IT WAS UP IN THE AIR FOR FIVE MINUTES / IT NEVER MOVED / WAS ONLY IDLE.  AFTER FIVE MINUTES IT COMPLETELY DISAPPEARED.  Appeared in the sky South East of golden Valley, AZ, over the Black Mountains toward the Laughlin, NV / Bullhead City, AZ area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130653.html](http://www.nuforc.org/webreports/reports/130/S130653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
