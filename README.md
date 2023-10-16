@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 lighted object performing loops and shooting up and down over lake at nightPerson observing:  a Ph.D. in psychology; not a believer in alien visitations.  While driving north toward Reno, I observed a bright light flying south over Washoe Lake.  I assumed it was a plane taking off from the Reno airport.  It made a couple maneuvers that were not possible for even a small plane.  It suddenly dropped low and then shot up at a steep angle.  It had 3 white lights that changed to 3 red lights, no flashing lights.  The object then did a loop.  It was too low for any craft I know of, even single person craft to make a loop, so I tried to pull over.  There was a lot of traffic on the road so by the time I pulled over there were trees or bushes between me and the craft.  I also observed at least 3 other cars pulled over on the right side of the road.  It was difficult to see because of the trees; but i could still see the lights as it flew up and down at the south end of the lake.  I drove up to the first off ramp and turned around.  As I was! heading south, it flew by heading north and I did not see it again.  There were still 2 cars pulled off after I continued back north on my way.  I did not hear engine noise, but there was also background noise from the traffic.  I would have noticed the distinct sound of a helicopter and I think there were lulls in traffic that I could have picked up the sound of a small plane engine.  Planes from the airport were clearly visible and completely different from the "craft" lights I could see which were much brighter, lights were white and had no flashing lights at all.  Planes from airport were much higher, lights looked yellower and had blinking lights and flew in a straight line.  I was a skydiver and have had a lot of experience with small planes.  I have no explanation for what I observed.  It appeared too large to be a drone or any remote controlled craft I've seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114630.html](http://www.nuforc.org/webreports/reports/114/S114630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately currently - currently minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122853.html](http://www.nuforc.org/webreports/reports/122/S122853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
