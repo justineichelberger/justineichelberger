@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hot Springs (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was entering Wind Cave National  Park from the south end when I got out of my vehicle to get some fresh air from my long drive. I looked up in the sky to the south east and saw three white lights in a vertical triangle formation. The object hovered in the sky for approximately 7 seconds,  and then the lights faded out slowly in a counter clockwise direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150363.html](http://www.nuforc.org/webreports/reports/150/S150363.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Casa Grande (near) (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>upt of 4 ambers lights at once that seemd to join up at one point glowed bright at times then dimmerSecond sighting   We were out imaging galaxies and other nebula this night 5 miles south of the Vekol rd turnoff from Interestate 8 Between Casa Grande Arizon and gila Bend arizona. I am an amatuer astonomer.The first sighting happend around 8:30 Pm I noticed 3 lights together red green and blue and I asked the person with me if he had seen it just to the west very near our positon about 1 mile south of vekol rd I saw it a second time and it was very bright It appeared to be more of a whitish color and I had seen a structure that was lit up seemed to be light in color almost white only for 5 seconds I yelled to the person with me and he didi see it briefly until it winked out   Second sighting:  There were several amber orb sighted due east and they moved north At first there were 3 then another appeared briefly total of 4 then that one blinked out then another then teh reaming 2 seemed to combine...From that time on singles were seen for another 2.5 hours and also one appeared to the north west I observed them with binoculars they seemed to be multicolored Colrso in motion so to speak  But from a distance they appeared Amber in color and seemed to at times get really bright and then dim</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72907.html](http://www.nuforc.org/webreports/reports/072/S72907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
