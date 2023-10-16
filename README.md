@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Multiple Lights moving outside our Colorado house for the 2nd night in a row.This was the second night in a row we witnessed these lights. My fiance filed one on the 15th. We only noticed the one ufo then, but had speculated there may have been more than one. Last night we witnessed at least 3. The light was once again very subtly moving and changing colors (I saw purple/green/red at various times). There was an instance where a plane or jet flew over the object and it then began to rapidly change colors. I also noticed the light rotate to a point where I was able to make out a bit of a shape. I saw a triangle, though my perception honestly could have been off. I took some video with my phone. This was a particularly starry night. I didn't think I'd be able to catch anything since normally my iPhone can't pick-up the stars at night as the camera is only so good. It did catch this light though and the movements I was catching was truly extraordinary. It was blinking/flashing and moving at speeds/in directions I've never seen any norma! l aircraft moved. It almost looked like something you would see in a video game/computer. Almost like a mouse cursor moving. The main light we saw was to the southwest. At some point while I was recording this light, my fiance alerted me to another UFO just to the Southeast at a bit of a higher elevation. This light was a bit more stationary, but had many similarities to the light I was recording. After we had gone back inside, about an hour later at 2:30 AM, my fiance called me into the kitchen to show me another light to the northeast of our house. I took some more video from my office window at the back of the house and once again I captured it doing some more movements. Unsure what these are but at least one of them gave us the distinct impression that it was investigating or searching for something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149905.html](http://www.nuforc.org/webreports/reports/149/S149905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hot Springs (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was entering Wind Cave National  Park from the south end when I got out of my vehicle to get some fresh air from my long drive. I looked up in the sky to the south east and saw three white lights in a vertical triangle formation. The object hovered in the sky for approximately 7 seconds,  and then the lights faded out slowly in a counter clockwise direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150363.html](http://www.nuforc.org/webreports/reports/150/S150363.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
