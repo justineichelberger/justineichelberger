@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:08 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:29 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tulcea (Danube Delta) (Romania) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately undefinite - undefinite minutes.</sub><blockquote><sub>Danube Delta - Romania - A group of five flashing lights hovering in the airDear Sirs, My name is ((name deleted)), I am 33 and I live in Bucharest, Romania. Two days ago on 16 October 2000, I was coming together with other 7 friends from a trip in the Danube Delta, which is located in Romania on the river Danube at the end towards the Black Sea near the city of Tulcea. At about 19:00 h local time, we all witnessed a luminous light phenomena which none of us could explain. Before presenting the event, please note that I personally am a very skeptical person in what concerns the UFO. I red a lot about that and I really believe that it is very unlikely that our planet has ever been visited by aliens. Nevertheless, at the above mentioned hour, while we were travelling by boat on the river Danube we all saw a group of five flashing lights hovering over the Danube Delta. I would like to mention that clearly those lights were not stars and they were not attached to any visible artificial object. The size of the group of lights I believe was measurable in kilometers. I would not want to bore you with a long and probably irrelevant story; the fact is that I have the event recorded on a videotape. My intention is to ask for your advice in how can I have this tape studied by experts providing that I keep the copyright. Thank you in advance, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14596.html](http://www.nuforc.org/webreports/reports/014/S14596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Plymouth (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large quiet moving object that has dim star like lights that formed a triangle like shape.Star like lights that formed a large elongated triangle. At each end was a dim star like light and three in the back. It moved slowly, quietly and was very large. The descrpition of a signting on your front page matches mine exactly, except my sighting, the object was moving slowly. {It was the April 27 2001 sighting with a drawing to go along with his story.} It is eery because I felt the same way, as if it was sneaky. I can't believe I noticed it, because it is as if it is camouflaged in the night sky. I just so happen to look up and notice three stars movng and thought that is odd, so I drove closer, and got out of my car and really took a good look at it. It was relatively low, very quiet, and seem to be very large. At this time, I became nervous, because I knew that what I was watching was not of the norm. Then I got back in my car and followed it for a minute, but then it seem to vanish from my view. It really could be very hard to realize it was there unless you were looking at there at the right time, but once I realized that this was definetly a moving object, it really kind of scared me, because of the size and the whole thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19881.html](http://www.nuforc.org/webreports/reports/019/S19881.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
