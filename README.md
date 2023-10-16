@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:48 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Granite shoals (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Triangle shaped craft with V shaped lights underneathMy 28 year old daughter and I were sitting on the back deck of our house at approximately 9:15 PM.  It was a clear, moonless evening and we were looking at the stars and discussing what we could see in the night sky.   We were facing south. I saw what I first thought were large birds flying in formation coming over the tree line from west to east.  We both then noticed that it wasn’t birds but instead, it was very softly glowing formation of green/yellow lights in a flat V shape.  The lights were sort of shaped like a boomerang.  There was one light at the point followed by three lights down the right side and two lights down the left side. As it passed almost directly over us we both noticed that it was actually a large craft. We could see the faint outline of the edges and the craft was dark and matched the color of the night sky. It moved slowly across the sky and it made no noise.  It was flying low - between 500 to 1000 feet and it appeared to be about the size of a 747 airplane.  It took about 10 seconds to pass out of view behind the trees to the west. We both clearly saw it and neither of us could come up with a good explanation of what it was. I am a 57 year old retired executive from the CPG industry.  I am college educated and would be considered financially well off.  My daughter is a college graduate and is employed full time in Austin, Texas. We were at our second home at Lake LBJ - we do not live here full time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160139.html](http://www.nuforc.org/webreports/reports/160/S160139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Oakham, Rutland (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>OakhamReturning home via bicycle. Saw a bright blue light slowly streaking far overhead.  Observed for 30 seconds before the light vanished, then reappeared once more and vanished once again.  The light was in my opinion far too bright to be an aircraft, and too slow to be a shooting star.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72884.html](http://www.nuforc.org/webreports/reports/072/S72884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
