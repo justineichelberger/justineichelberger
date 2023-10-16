@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:46 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately currently - currently minutes.</sub><blockquote><sub>((NUFORC Note:  No information provided by witness.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122853.html](http://www.nuforc.org/webreports/reports/122/S122853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wooster (OH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge, quiet object over central OhioI took the dog out to urinate about 9:00 pm.  I heard what I can best describe as a quiet, but umbling sound and looked up to see an enormous aircraft heading over the hill that I live on.  It was following Co. Rd. 86 in Wayne Co. Ohio (just west of Wooster) and it wasn't very high in the sky.  There were lights on the object and it was huge.  It appears to have square lights and the back end was squared.  I could not see the front end because it had already passed over me.  As I said, I live on a hill and have a garage that blocked my view of the front of the object because it was flying so low.  It did not make any type of "normal" airplane sound and had no visible wings.  From my perspective, it looked square, but that was the back end.  It was not moving as fast as a normal airplane would move.  I do not -- did not believe in UFOs, but have no explanation for what I saw.  During the period of time that it was passing overhead, my wife reported! that the satellite TV picture was scrambled.  She was inside watching TV.  We live in a rural farm area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93669.html](http://www.nuforc.org/webreports/reports/093/S93669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
