@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:29 on 16 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Savannah (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>At about 8:15 p.m. I noticed two bright stars in the northwestern sky.  What caught my attention was that these were the two brightest objects in that portion of the sky. It was a very clear night with no clouds.  The moon was very bright about 45 degrees above the horizon in the Eastern sky.  It did not take me long to realize that the lights which at first appeared as bright stars, one in front of the other, were actually moving on a straight course across the sky towards the Southeast.  At first I thought the two lights might have been connected.  I ran into the house and got binoculars.  By the time I came out there was only one light directly overhead.  Through the binoculars I could vaguely see some kind of structure illuminated by the single bright light.  As I was watching through the binoculars the light gradually faded out.  I assume the same thing happened to the other light (object) while I was getting the binoculars.  Although the speed across the sky was constant and similar to that of an airplane, there was no noise and no other lights.  It's not unusual to see the flashing lights of an airplane and not hear it.  I'm guessing that the objects were about 10 thousand feet elevation.  Could this have been a pair of stealth fighters going into stealth mode?((NUFORC Note:  The Space Shuttle, followed by the Space Station, passed over Savannah at 20:04 hrs. on October 16, 2002.  Not stealth fighters.  Please see following URL for details: http://www.heavens-above.com/passsummary.asp?lat=32.083&lng=-81.100&alt=12&loc=Savannah&TZ=EST&satid=25544&Date=37537.6666666667&Mag=PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25644.html](http://www.nuforc.org/webreports/reports/025/S25644.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was driving on a back road in Peterborough, On.  As I came over a large hill, I noticed about 5 to 7 balls of light flying up into the sky one after the other in a long curved formation.  They elevated in height very slowly.  It was a slightly foggy and slightly cloudy night.  The objects got very high until they each disappeared one after the other.  Each light was about the size of a star and coloured the same as a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122929.html](http://www.nuforc.org/webreports/reports/122/S122929.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [360](http://www.nuforc.org/webreports/reports/165/S165114.html)
-- [359](http://www.nuforc.org/webreports/reports/164/S164991.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165120.html)
-- [357](http://www.nuforc.org/webreports/reports/165/S165030.html)
-- [356](http://www.nuforc.org/webreports/reports/164/S164977.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
