@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in West Chester (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange black image passed quickly across the sky on a clear autumn night.We (my husband and I) were taking a break from an evening walk in our neighborhood park, when he pointed out a strange black figure passing across the moon.  At first we thought it was just a large bird, but it seemed to come to an eerie, complete standstill for almost 10 sec., rather than circling as a bird would do.  Then it took off so incredibly quickly, that a bird didn't seem likely either.  It also appeared to be way too high to be a bird, too. The object was not a perfect circle, but close.  No lights as far as we could see...as the moon was so bright that night, it just seemed black against it. By the time it disappeared (I'd guess toward the northeast?), we were certain it was not a familiar creature to us, but something much more mysterious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47663.html](http://www.nuforc.org/webreports/reports/047/S47663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Noticed 4 what I thought was stars blinking in a perfect half circle,  I went in got my wife to see cause I never seen anything like it before,  she said that is not stars,  they were moving away (North) from us the we seen 2 air plains alot higher up in the sky then the blinking lights.  I watch them keep blinking and moving father away until I couldn't see them anymore.((NUFORC Note:  Anonymous report.  We have amended the time above, and assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136800.html](http://www.nuforc.org/webreports/reports/136/S136800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
