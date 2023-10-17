@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:52 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rancho Santa Margarita (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Moving bright lights moving in all directions in Southern California.At 9:30 P.M. me and my friend were called to come outside by my friends Dad. We looked into the sky and there were 2 lights bigger and brighter than stars. These white lights were able to change how bright and dim they were. They also had a red light on it that would quickly blink on occasion.These lights were moving in all directions and were able to change direction very fast. These lights would go in circles around each other and drift apart. They would go as high as the moon was and drop to behind the Mountains in about 1 and one half seconds. When planes flew by these lights would dim so much that they could not be seen and as soon as the plane was gone the light would go up and start shining. During this time my cell phone was not able to call or receive calls or messages. My friends house phone that he brought was also having difficulty calling people.The background of this scene was a California suburb with many trees and Mountains in the background. There was also a grey hazy in the sky around this time but it was not very close to the lights. There was at least 11 witnesses and one of them was a police officer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66293.html](http://www.nuforc.org/webreports/reports/066/S66293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chambersburg (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object left no visible exhaust chased by jets leaving white exhaust trailsOne object reflecting sunlight followed by a military jet.  Two other jets were heading toward the object but were further away. The object remained in front of the first mentioned jet and let no visible exhaust.  The object increased the gap between itself and the first mentioned jet slightly as I watched.  All three of the jet aircraft left white exhaust trails. The object and the first mentioned jet were heading south west, one other jet was heading southwest and the third jet aircraft was heading west.  All aircraft and the object were at a very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47058.html](http://www.nuforc.org/webreports/reports/047/S47058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
