@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:29 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:48 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Leland (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three glowing lights moving slowly across the sky.My husband and I were taking our dog out and my husband looked up and called me over to look at these lights.  I went to look and they were in a straight line moving perfectly together.  Three of them. No noise.  No flashing lights.  We stood there and watched for about 5 minutes and then they just vanished.  The objects were round and very bright white with a blue and orange tint around the edges.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84587.html](http://www.nuforc.org/webreports/reports/084/S84587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw 3 different orange pulsating lights one after another go from nothing to really bright to dim and a pulsating effect to just a orange light and moved across the sky from from North to South before turning bright and disappear along with star like objects very high moving across the sky at slow speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130665.html](http://www.nuforc.org/webreports/reports/130/S130665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
