@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:48 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw 3 different orange pulsating lights one after another go from nothing to really bright to dim and a pulsating effect to just a orange light and moved across the sky from from North to South before turning bright and disappear along with star like objects very high moving across the sky at slow speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130665.html](http://www.nuforc.org/webreports/reports/130/S130665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lithonia (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Siver Bright Circle Over Lithonia Georgia Clear SkyOn Saturday, October 17th, in Lithonia, Georgia, while driving on the I20  west, a silver object flashed in the sky, disappeared, and flashed again. This can be seen in the video in upper right of the sky. I noticed the object while driving and went home and checked my dash cam. The time and date is off on my dash cam but this was around 3:45pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160081.html](http://www.nuforc.org/webreports/reports/160/S160081.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
