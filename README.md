@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:47 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in San Anselmo (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Multiple yellow gold orange lights seen by 3 witnessesI am filing this report because I met 2 other witnesses and engaged in a conversation with them as we witnessed multiple yellow gold orange lights in various locations in a cluster or group hovering or floating about in the night sky.  These "lights" would hover at treetop or hilltop level in the southeastern sky coming up and then dipping below the treelines basically coming out of nowhere.  There would be 2 or 3 lights and then there would be 6 to 10 objects a few seconds later in various locations. I saw a string of 7 objects line up in a row at one point.  This is the second time I've had 2 other witnesses with me lately observing this activity.  The other time was on 9-30-14, same 2 witnesses same activity and same mysterious yellow gold lights.  I am baffled as to why there are not more reports or other people noticing this although 2 reports were filed on the night of 11-10-12 that are quite interesting in this same area.  These sightings are occur! ing up to several miles away which also include San Rafael, Ross, Larkspur etc.  I will add that the 3 of us met while out walking the dog and agreed that we were witnessing something unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114955.html](http://www.nuforc.org/webreports/reports/114/S114955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rindge (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Moving light in sky emitting bursts with solid-like ogtagon shape.On Oct. 17, 2020, my husband let our dog out and called me to look at what seemed to him to be an extremely bright star in the sky. I grabbed my cell phone to take a photo and realized when I looked through the camera it was sort of dancing so I switched my setting over to video to start recording. Meanwhile, my husband had gone inside to grab his binoculars(we were both quite curious now. When he looked through them that one light you could see with a naked eye looked like two.  The object (light) was moving around randomly, always staying within a circle that reminded me of the beam of a car’s headlight and emitting off beautiful bursts of light resembling(to me) what looking at samples through a microscope would look like.  I took several videos over the course of an hour.  When I finally came inside I put one of the videos on my computer and pulled still shots from one of the videos and zooming in on them as much as possible. In one of those images, it appears to be a flat octagon object inside the fog. Thinking it was a satellite I looked up images of them online and it does not seem to be the case. I would love to hear if this could be explained, or if it is truly an unexplainable event. I will be paying more attention to the night sky for the object again in the days to come.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160044.html](http://www.nuforc.org/webreports/reports/160/S160044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
