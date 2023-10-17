@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Odd movement and speed of star-sized object in early morning skyI was walking my dog just before sunrise. As we stopped for a few seconds, I looked up at the sky, which is my habit to do. At about 75 degrees up from the horizon, I saw what looked like a small star emerge from another, larger star...this was probably an illusion,as I believe the smaller object simply passed in front of the larger one. But it was this emerging that got my attention. I thought, "Cool...a satellite", as the small object moved from west to east. I then noticed the quality of its illumination, which seemed to be more of a glow as opposed to reflected light or from an incandescent source. I watched it for about 4 or 5 seconds, as it moved at what seemed to be a believable speed for a satellite(don't really know, as I am not familiar with this enough to know for certain), when it came to a complete stop.  While stopped, it remained the size it had been (a bit larger than pin head), so I do not think it was coming more in my direction, but was at a standstill.  If I had held a ruler up to the sky along the path it traveled, it would have gone a few inches over a foot, in a straight line, before stopping. After a second or 2, it bolted in a more northerly direction...this was at about a 30 degree angle to its stopped position, and moving at least 4 times as fast as it had been ( I say this as it appeared to cover as much space going in this new direction in a little over a second as it did when moving in the beginning of my sighting, which lasted 5 seconds).  As it bolted away, it never seemed to get any closer to the horizon, which also struck me as a bit odd.  It remained very visible, and then, it was gone. I will draw an illustration of this event, scan it, and send it via email soon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47046.html](http://www.nuforc.org/webreports/reports/047/S47046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Key Biscayne (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a white, silvery sphere that held stationary, then moved east into the morning skyI observed a silvery white object that appeared high in the blue, but partly cloudy morning sky.  Its position remained fixed, by the rail of my balcony, for several minutes until it began to move steadily east southeast at constant velocity.  The clouds were a mix of TCU, from ~ 5000-10000' at low level and high SCT Cirrus ~ 25000' (my estimates).  The TCUs moved east to west in front of the object, which did not appear to reflect the morning sun, but softly, glowed organically.  Through the binoculars it appeared textured and matted, and too far/ small to appear on the camera.  If this object were at 10000' I would estimate the diameter to be about 5'.  After watching it pass behind a few TCUs, it finally failed to emerge.I considered this may have been a balloon at a level between the lower westerly flow and the higher easterly flow, moving easterly as it rose.  If it was at 10000', I could hazard a guess of ~ 100kts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130692.html](http://www.nuforc.org/webreports/reports/130/S130692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
