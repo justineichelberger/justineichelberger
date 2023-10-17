@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Redmond (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright spheres that was floating in the same spot.  Turning lights on and off seemed like every few minutes.It looked like a large electric sphere that would get brighter than disappear then com back brighter.  It didn't seem to move just float there and turn on lights then turn off did this a few times.  One seemed a lot brighter than the others light and didn't show its self as often.  I tried to zoom in with my camera and the photos wouldnt snap, only after I put the camera down then it would take a picture.  I am updating this it lasted for 45< minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122884.html](http://www.nuforc.org/webreports/reports/122/S122884.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in El Dorado Hills (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Amazing craft bright blue & red 2 nights in a row.2 Days in a row we have seen and have multiple photos of items in the sky the main craft is a very bright red on one side and very bright blue on the other with a white stripe down the middle.  After reviewing the photos there are multiple other odd shaped and colored items or crafts in the photos that we have no idea what they could be.  The main craft will spin and make very fast moves throughout the sky and then it dissapears and will re-appear elswhere in the sky.  We have never seen anything like this and hope to video it if it happens again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84615.html](http://www.nuforc.org/webreports/reports/084/S84615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
