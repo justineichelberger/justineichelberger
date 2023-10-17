@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:49 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Chattanooga (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two triangle objects, one hovering for long period with second coming back in and out, then traveling out together.My home is on a ridge overlooking the river and entire city of Chattanooga.  From the second story, my children and I look at the city lights out the window as they are put to bed.  Today I saw a light I have never noticed before and it did not seem to move.  I watched from one room and never saw the object move.  I thought I was losing it, so I went to the opposite side of the house and looked and it was still there.  At this time I noticed a secondary object appear.  They were both white at that time.  I looked for my husband, couldn't find him, went downstairs and out the front door.  The two objects were still there, only this time moving slowly toward my house and higher as they went.  They moved in unison and the color started changing from one to many colors-- the entire outer rim of the objects were changing colors.  I kept rubbing my eyes thinking my contacts were drying out, but the lights were glowing and changing, and at this point I could see the lights were in triangle shapes around the object.  I couldn't make out the edges of the objects, only the lights.  Then, after they passed my house I lost sight of them because my house blocked my direct line of sight.  When I rediscovered them after running around the house they were much further to the left and had made a major change of direction.  Then there was only one; the second disappeared.  About 15 years ago, I saw a red orb in the middle of the day hovering in Athens, TN, over the interstate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136809.html](http://www.nuforc.org/webreports/reports/136/S136809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Milan (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149895.html](http://www.nuforc.org/webreports/reports/149/S149895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
