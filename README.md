@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:50 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:41 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dahlonega (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 4320.0 - 4320.0 minutes.</sub><blockquote><sub>Formation of lights (possibly connected) moving across sky erratically.Sighted a group of five or six lights moving in formation across the sky over a field.  They seemed to be connected to form some kind of craft, though it was hard to tell unless you looked very closely.  Some of them were colored red and green. The movement was irregular, it almost looked as if the craft was swimming or crawling. Pointed them out to my partner and we watched for a good hour or so.  We returned to the same field for two more nights, and the formation/lights were still there, though the object moved less and the lights seemed dimmer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114925.html](http://www.nuforc.org/webreports/reports/114/S114925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kittery (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 bright orange lights/ fire traveling together in the evening skySaw 2 orange balls of light/fire(?) traveling together in the sky.  I thought of Chinese lanterns, but seemed much too bright.  Moved as though drifting, but a little too fast. Altitude was difficult to determine.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114639.html](http://www.nuforc.org/webreports/reports/114/S114639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
