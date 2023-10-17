@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:29 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Peterborough (Canada) (ON) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was driving on a back road in Peterborough, On.  As I came over a large hill, I noticed about 5 to 7 balls of light flying up into the sky one after the other in a long curved formation.  They elevated in height very slowly.  It was a slightly foggy and slightly cloudy night.  The objects got very high until they each disappeared one after the other.  Each light was about the size of a star and coloured the same as a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122929.html](http://www.nuforc.org/webreports/reports/122/S122929.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Leland (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three glowing lights moving slowly across the sky.My husband and I were taking our dog out and my husband looked up and called me over to look at these lights.  I went to look and they were in a straight line moving perfectly together.  Three of them. No noise.  No flashing lights.  We stood there and watched for about 5 minutes and then they just vanished.  The objects were round and very bright white with a blue and orange tint around the edges.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84587.html](http://www.nuforc.org/webreports/reports/084/S84587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
