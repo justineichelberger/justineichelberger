@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:26 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bybee (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular Shape w/very bright orange light w/2 smaller lights seen on a rural road going home.I am a skeptic.  Still not sure what I saw and wasn’t going to report anything, but after reading about the siting in Gatlinburg not too long ago, I thought maybe I should report it.The time it happened was around 7:30pm in Cocke County on a rural road on October 17, 2016.   There were two lights in the sky.  One very bright (orange in color), the other seemed to be orbiting around it slowly at first.  I thought maybe it was just a satellite and a planet because I am a big star gazer and can identify different objects in the sky fairly well.I kept watching and as I drove close the one very bright star got brighter and there was a third star that appeared which made the triangular shape.  I gasped because the shape was slightly darker than the rest of the sky.The size was unmeasurable.  It was so big.  I have seen a lot of planes fly through our small part of the woods, but nothing like this.My heart sank.  I was so frightened.  It only lasted a moment, and the lights faded leaving only the bright star and the first smaller star dimly lit in the night sky.As I drove, the tree line took over my view.  I kept watching and calculating where the object or stars…things would be in the sky when my car turned in that direction again, but I was unable to locate it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130675.html](http://www.nuforc.org/webreports/reports/130/S130675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spring Valley (WI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Low-flying silver craft, reflecting sunlight,  completely silent, suddenly disappearedMy 10 year old son and I were driving north on City Rd CC between Hwy 72 and Cty Rd G, which is a sparsely populated area of farmland.  The craft appeared directly in front of us flying westward.  It was low flying, silver, and reflecting a lot of sunlight.At first I thought it must be a helicopter, since it was flying so low, but it was more of a cigar-shape.  I pointed it out to my son, and I said, “What is that?”  It then shifted to a north-west direction, then it looked more like a disc.  We both got very excited, because it was obviously not a plane or a helicopter.  As we continued driving, a line of trees blocked our vision for about 5 seconds, and the craft was gone.It was a very clear sky with only a few wispy clouds, and the craft was flying way below where the clouds were.  There was nowhere it could have hid behind.  It was just suddenly gone.  We then saw it again about 30 seconds later several miles away.  It suddenly disappeared again.  It was silent and left no contrails.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136820.html](http://www.nuforc.org/webreports/reports/136/S136820.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
