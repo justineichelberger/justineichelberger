@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:26 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Noticed 4 what I thought was stars blinking in a perfect half circle,  I went in got my wife to see cause I never seen anything like it before,  she said that is not stars,  they were moving away (North) from us the we seen 2 air plains alot higher up in the sky then the blinking lights.  I watch them keep blinking and moving father away until I couldn't see them anymore.((NUFORC Note:  Anonymous report.  We have amended the time above, and assigned an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136800.html](http://www.nuforc.org/webreports/reports/136/S136800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bybee (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular Shape w/very bright orange light w/2 smaller lights seen on a rural road going home.I am a skeptic.  Still not sure what I saw and wasn’t going to report anything, but after reading about the siting in Gatlinburg not too long ago, I thought maybe I should report it.The time it happened was around 7:30pm in Cocke County on a rural road on October 17, 2016.   There were two lights in the sky.  One very bright (orange in color), the other seemed to be orbiting around it slowly at first.  I thought maybe it was just a satellite and a planet because I am a big star gazer and can identify different objects in the sky fairly well.I kept watching and as I drove close the one very bright star got brighter and there was a third star that appeared which made the triangular shape.  I gasped because the shape was slightly darker than the rest of the sky.The size was unmeasurable.  It was so big.  I have seen a lot of planes fly through our small part of the woods, but nothing like this.My heart sank.  I was so frightened.  It only lasted a moment, and the lights faded leaving only the bright star and the first smaller star dimly lit in the night sky.As I drove, the tree line took over my view.  I kept watching and calculating where the object or stars…things would be in the sky when my car turned in that direction again, but I was unable to locate it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130675.html](http://www.nuforc.org/webreports/reports/130/S130675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
