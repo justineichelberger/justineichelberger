@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in El Dorado Hills (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Amazing craft bright blue & red 2 nights in a row.2 Days in a row we have seen and have multiple photos of items in the sky the main craft is a very bright red on one side and very bright blue on the other with a white stripe down the middle.  After reviewing the photos there are multiple other odd shaped and colored items or crafts in the photos that we have no idea what they could be.  The main craft will spin and make very fast moves throughout the sky and then it dissapears and will re-appear elswhere in the sky.  We have never seen anything like this and hope to video it if it happens again.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84615.html](http://www.nuforc.org/webreports/reports/084/S84615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Duluth (around, Lawrenceville exit area) (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving home on the interstate.  I saw a very large bright light in the sky.  I thought it might have been Venus or a plane.  As I got closer I realised it wasn't. Because I was catching up with it and it never moved!  When I was able to see it more closely  its shape reminded me of the bottom half of the space shuttle very similar to a Manta Ray shape .  It had a matte charcoal surface  And their were rows of circular lights on the bottom. I could see a radio tower and it was over and higher than the tower.  I could see the tower and the red lights but there was nothing but air below the object in the sky.  And as for it being Venus, planets are not that large</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04779.html](http://www.nuforc.org/webreports/reports/004/S04779.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
