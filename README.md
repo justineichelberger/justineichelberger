@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Regina (Canada) (SA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>red and white strobing light moving oddly, not a jet, looked far off.I was watching out my bedroom window, facing east when I saw a stobing red and white light. it appeared to jump around but maintained a fairly steady path fron WSW to NEE, I began to watch with binoculars, I could not make out a shape, it slowed and it moved to where I could not see it. What was most interesting as I was watching it through binoculars a jet flew right through my sight line abd appeared to be much larger and closer to me. Was it a sattalite or some other object. I would like to know!((NUFORC Note:  It is not clear to us whether the sighting occurred on the morning or 18OC01, or at midnight on the night of 18OC01.  We will attempt to confirm the date and time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19905.html](http://www.nuforc.org/webreports/reports/019/S19905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bedford (IN) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Craft searching a fieldI was out in the county, going to a spot my friends and I liked to part at.  I was driving around the corner before Devil's Backbone, when I saw it.  At first I thought it was an airplane, the airports only a few miles away, but something about it wasn't quite right.  I pulled off of the road at an observation spot for the backbone, which looks out over a valley.  I could see the craft hovering down there, then it would fly up higher.  I would estimate that it never got higher than a few thousand feet, as I could still make out individual lights.  It almost seemed to be flying a search pattern, it just went back and forth, high and then low.  It seemed to be moving slowly, ground speed wise.  I am pretty familiar with the area where it was, and I know about how much ground it covered.  It took about two minutes to make one pass over the valley, which is only about half a mile across or so.  It flew by seven or eight times, then just took off like a rocket!  It disappeared from my sight in about ten seconds, but there wasn't much noise, I don't know if what I heard was the wind or the craft.  I do know that right before it left, I heard a train approaching the Tunnelton Tunnel, which is very near by.  I could hear the whistle, probably a mile or two from me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20570.html](http://www.nuforc.org/webreports/reports/020/S20570.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
