@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 17 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 cone shaped objects in backyardWhilst outside painting the house with my granddaughter, my granddaughter alerted me to some strange objects floating in the sky.  I proceeded to look in the direction she was pointing and noticed 3 shuttlecock-shaped objects floating slowly through the air above tall bushes in our yard.  They were gold in color with no sound coming from them.  We immediately contacted other family members to describe what we saw.Before any other family members were able to come home, the objects disappeared into thin air.We have not seen those particular objects since but, have seen much more mysterious activity in the following days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131370.html](http://www.nuforc.org/webreports/reports/131/S131370.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Payne (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Hunter with video camera captures round object he's seen before.I am a newspaper reporter who interviewed a man about video footage he shot while hunting a deer on Lookout Mountain.  He said the mystery object had a reflective glare like the metallic exterior of a passenger jet, but it did not move like one. It maneuvered more like a helicopter, although he saw no rotor blades and it suddenly, abruptly went straight up and out of view. This gentleman had no idea what to do with the footage and contacted the local newspaper. He'd seen it 5 years ago and again before this, but this was the first time he had a video camera. I found this website while researching for the story. We reported on numerous UFO sightings in Fyffe, Alabama and strange cattle mutilations that suddenly ended. I, myself, saw what the people were seeing back in 1993. I don't know if it's space aliens, but something freaky is going on here.((NUFORC Note:  Digitized image was forwarded to NUFORC for our inspection.  It appears to be quite indistinct in the digitized version.  We do not know what the witness managed to photograph.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19940.html](http://www.nuforc.org/webreports/reports/019/S19940.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [406](http://www.nuforc.org/webreports/reports/164/S164990.html)
-- [405](http://www.nuforc.org/webreports/reports/164/S164988.html)
-- [404](http://www.nuforc.org/webreports/reports/164/S164982.html)
-- [403](http://www.nuforc.org/webreports/reports/165/S165143.html)
-- [402](http://www.nuforc.org/webreports/reports/164/S164989.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
