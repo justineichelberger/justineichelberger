@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:42 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West Yarmouth (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Orange flickering light (like flame) moved across sky for about forty five seconds over Cape Cod, then vanished.My wife and I stepped outside to see if we could catch the partial lunar eclipse around 10:30pm.  We spotted a flickering orange light in the sky, moving at about the same speed as an airplane, to the west. The flicker looked very much like fire.  My wife suggested that the object might be a sky lantern, but it seemed too bright and too fast, and its course was very straight.  It moved for about forty five seconds, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103346.html](http://www.nuforc.org/webreports/reports/103/S103346.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Bono (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>stationary blue/green orb quickly shot off to the South-SouthwestI was returning to my home and as I made the turn onto my street, I saw a greenish/blue orb stationary for an instant...then shot off quickly Southwest out of my field of view. There was no contrail or any sort of residue trail in the sky. I would have instantly thought it to be a meteor had it not been stationary...I thought it was a slow moving plane with landing lights on since there is an airport nearby in Jonesboro.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32405.html](http://www.nuforc.org/webreports/reports/032/S32405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
