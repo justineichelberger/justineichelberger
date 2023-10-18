@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:43 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:48 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Villa Rica (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was filming the clouds over villa rica because I kept seeing &quot;ufo holes&quot; in the clouds.  I zoomed in on a particularly odd rI was filming the clouds over villa rica because I kept seeing "ufo holes" in the clouds.  I zoomed in on a particularly odd rainbow.  The rainbow had a very large orb nested within the clouds.  It had a large opening at the base and what appeared to be port holes around the top portion of the orb.  It actually looked as if the sunlight was refracting off of gasses that it was emitting.  The colors were pink and teal.  Photos and video secured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143531.html](http://www.nuforc.org/webreports/reports/143/S143531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Miami (Key Biscayne) (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Pale white ball making erratic movements.  Pictures taken.Pale white ball making erratic movements.  It could be optical illusion, but the pictures I took also show the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114840.html](http://www.nuforc.org/webreports/reports/114/S114840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
