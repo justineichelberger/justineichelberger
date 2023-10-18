@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marion (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I think I witnessed a meteorite or meteor streaking through the sky to the north.  the bright light went from looking like a bright start to leaving a trail then broke up as it diminished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130685.html](http://www.nuforc.org/webreports/reports/130/S130685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Vied a light that I thought was an aircraft with landing lights on at first. then I noticed no falshing green or red lights, and the light DID NOT MOVE.I work in Bellevue Washington from 10PM to 10AM nightly. Tonight I went outside for a cigarette at 4:30AM PST. I was looking due east from the roof of the US WEST building on NE 4th street in Bellevue, and I noticed a very bright light in the sky. At first I thought it was an aircraft with landing lights on heading for Sea-Tac Airport. But after watching it for 10 minutes, I realized it was not moving, and there where no other lights with it (i.e. red or green flashing lights, which would indicate some sort of aircraft). This is the first time I have ever seen anything like this. I thought that someone should know.((NUFORC Note:  Report is not inconsistent with Venus, which currently is visible in the eastern morning sky.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10251.html](http://www.nuforc.org/webreports/reports/010/S10251.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
