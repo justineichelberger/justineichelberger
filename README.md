@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:48 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:51 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dublin (Blanchardstown)  (Republic of Ireland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A moving star in the sky, jerking, zig-zaging, etc...I was looking out my bedroom window staring at the stars when suddenly one moved. At first I thought it was satalite but it was zig-zaging, jerking, moving in cercles, and changing direction. I called my father and my brother and we went outside to look at it better. It stoped moving for a while then started moving again. I stayed there wobserving it for another 20 mins befor I went inside again. When I got upstairs I couldn't see it anymore...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04626.html](http://www.nuforc.org/webreports/reports/004/S04626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wolfsville (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>At around  8:15PM eastern time I was outside and all the sudden I heard a really loud noise that sounded almost like a freight train. I looked up and right above me I saw a huge very low flying triangular UFO.It was either in or right above the clouds or it might have had smoke right below it.  The ship had a light blue light on each corner.  It was only there for about 5 seconds before it either flew off, or disappeared in the clouds. It was flying at about 150- 250 feet high.  I saw it and so did two of my friends. The next day I heard that people who lived farther up wolfsville heard the same freight train sound that I did at about the same time  I would estimate it was the size of about one football field.  There is no way this anything normal or even military.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93702.html](http://www.nuforc.org/webreports/reports/093/S93702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
