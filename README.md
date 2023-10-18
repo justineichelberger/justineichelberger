@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:37 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:30 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Detroit/Warm Springs (between, Cascade Mts.) (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : Single small vehicle left main body and followed us in a hovering helicopter fashion for over 45 minutes while we were walking from the west. Then from the East it flew around Forked Butte and came at us less than ten ft. off the snow covered ground.The vehicle then rapidly (popped) approached us from the East and landed ten ft. in front of us, turned out its bright white light and turned on an interior light revealing the semi-transparent red, green & blue lens. The vehicle then exited rapidly and climbed into space and disappeared behinfd Mt. Jefferson. The vehicle emitted sparks from the stern much like a 1930's "Buck Rogers" space vehicle. On Sunday evening at approx. 10 pm Dec. 22, 1981 myself, my 11 yr. old son and another person were "buzzed" by over 12 of these same vehicles. We witnessed them flying up to a larger cigar shaped vehicle and started orbiting around it. The whole system then rose up into the night sky and disappeared. I interviwed Police catain Ellidge ! and Lt. Horton who recieved over a thousand phone calls concerning individuals from Eugene in February 1982. I reported the incident to the FBI. Since then we have studyed in depth the technology we were shown and hence got a U.S. patent ont the technology in 1989. We intend to build and test prototypes soon. Please visit our website to review this technology at http://www.unitelnw.com. The Medford incident may be the same vehicles. I believe they are our own vehicles that we are about to build attempting to return to the correct spacetime departure point. Thank you, Sincerely,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02599.html](http://www.nuforc.org/webreports/reports/002/S02599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Last Friday nite my wife and I traveled back to San Antonio from Victoria,Texas after a High school game.  My daughters are on the dance team and their buses were unloading at a approx. 1:30 A.M. I was talking to a friend of mine as we were standing by the back of his truck,their were low streak looking clouds above us.  We were less than a 1/4 mile from downtown San Antonio.  We happened to be looking up for a moment and saw a turquiose luminous cigar shaped object streak across the sky.  It was as if a neon light    has turned on for a moment and streaked across half the sky above us,then turn off then back on again.  This object was cloud high and confounded the two of us.  We both saw it at the same time but could not say what it was.  ((name deleted)) in San Antonio,Texas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19951.html](http://www.nuforc.org/webreports/reports/019/S19951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
