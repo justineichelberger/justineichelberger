@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:37 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Fort Payne (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Hunter with video camera captures round object he's seen before.I am a newspaper reporter who interviewed a man about video footage he shot while hunting a deer on Lookout Mountain.  He said the mystery object had a reflective glare like the metallic exterior of a passenger jet, but it did not move like one. It maneuvered more like a helicopter, although he saw no rotor blades and it suddenly, abruptly went straight up and out of view. This gentleman had no idea what to do with the footage and contacted the local newspaper. He'd seen it 5 years ago and again before this, but this was the first time he had a video camera. I found this website while researching for the story. We reported on numerous UFO sightings in Fyffe, Alabama and strange cattle mutilations that suddenly ended. I, myself, saw what the people were seeing back in 1993. I don't know if it's space aliens, but something freaky is going on here.((NUFORC Note:  Digitized image was forwarded to NUFORC for our inspection.  It appears to be quite indistinct in the digitized version.  We do not know what the witness managed to photograph.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19940.html](http://www.nuforc.org/webreports/reports/019/S19940.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Detroit/Warm Springs (between, Cascade Mts.) (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : Single small vehicle left main body and followed us in a hovering helicopter fashion for over 45 minutes while we were walking from the west. Then from the East it flew around Forked Butte and came at us less than ten ft. off the snow covered ground.The vehicle then rapidly (popped) approached us from the East and landed ten ft. in front of us, turned out its bright white light and turned on an interior light revealing the semi-transparent red, green & blue lens. The vehicle then exited rapidly and climbed into space and disappeared behinfd Mt. Jefferson. The vehicle emitted sparks from the stern much like a 1930's "Buck Rogers" space vehicle. On Sunday evening at approx. 10 pm Dec. 22, 1981 myself, my 11 yr. old son and another person were "buzzed" by over 12 of these same vehicles. We witnessed them flying up to a larger cigar shaped vehicle and started orbiting around it. The whole system then rose up into the night sky and disappeared. I interviwed Police catain Ellidge ! and Lt. Horton who recieved over a thousand phone calls concerning individuals from Eugene in February 1982. I reported the incident to the FBI. Since then we have studyed in depth the technology we were shown and hence got a U.S. patent ont the technology in 1989. We intend to build and test prototypes soon. Please visit our website to review this technology at http://www.unitelnw.com. The Medford incident may be the same vehicles. I believe they are our own vehicles that we are about to build attempting to return to the correct spacetime departure point. Thank you, Sincerely,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02599.html](http://www.nuforc.org/webreports/reports/002/S02599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
