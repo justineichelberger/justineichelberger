@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:47 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Same as Above.The UFO was moving normally like a helicopter, then it stopped midair, and backed up.  It stopped and dropped straight down.  2 seconds to where we could not see it then we saw it fly to the left at a tremendous speed the just as quick as it went to the left it came right back to the right at a tremendous speed and was gone.  We waited to see if it would come back, and it didn't.  We know when we are seeing surveillance, commercial, police, news, Tourist helicopters, and tourist sky buses in Las Vegas.  I recently move to Las Vegas, and we have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114657.html](http://www.nuforc.org/webreports/reports/114/S114657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One triangular shaped object moving fairly quickly NNW over Winnipeg.One triangle shaped object observed moving NNW over the house.  No sound noticed and 3 non-blinking lights observed underneath.  Estimate the speed at 25% higher than a jet at altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143526.html](http://www.nuforc.org/webreports/reports/143/S143526.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
