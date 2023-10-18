@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Bellevue (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Vied a light that I thought was an aircraft with landing lights on at first. then I noticed no falshing green or red lights, and the light DID NOT MOVE.I work in Bellevue Washington from 10PM to 10AM nightly. Tonight I went outside for a cigarette at 4:30AM PST. I was looking due east from the roof of the US WEST building on NE 4th street in Bellevue, and I noticed a very bright light in the sky. At first I thought it was an aircraft with landing lights on heading for Sea-Tac Airport. But after watching it for 10 minutes, I realized it was not moving, and there where no other lights with it (i.e. red or green flashing lights, which would indicate some sort of aircraft). This is the first time I have ever seen anything like this. I thought that someone should know.((NUFORC Note:  Report is not inconsistent with Venus, which currently is visible in the eastern morning sky.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10251.html](http://www.nuforc.org/webreports/reports/010/S10251.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dublin (Blanchardstown)  (Republic of Ireland) () reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A moving star in the sky, jerking, zig-zaging, etc...I was looking out my bedroom window staring at the stars when suddenly one moved. At first I thought it was satalite but it was zig-zaging, jerking, moving in cercles, and changing direction. I called my father and my brother and we went outside to look at it better. It stoped moving for a while then started moving again. I stayed there wobserving it for another 20 mins befor I went inside again. When I got upstairs I couldn't see it anymore...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04626.html](http://www.nuforc.org/webreports/reports/004/S04626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
