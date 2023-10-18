@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:50 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Medina (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Ohio 10/18/2015 Blurry Object moving NW to SE not of this world, no light just barely visible.October 18, 2015	 	I was outside and took note of the number of aircraft I could see in my field of view was unusual.  Normally I only see 5-10 flashing beacons from aircraft at any given time, but this night I could count 20-30 and it was a very clear night.  As I watched the sky, I took note of a satellite moving overhead from south east to north west.  I was following the movement of the satellite and after watching it for 20 seconds or so, I noticed a blurry object to the left and at a lower altitude appear.  At first I thought it was a meteor entering the atmosphere and at any moment I would see a tail streak across the sky.  There was no tail, no streak, and seemed as though it was behind a cloud.  For a moment I thought that it could have been a reflection from another object on a layer of cloud cover.  However, this was not the case as I had noted that it was a very clear night and the amount of other celestial objects I could see was enormous.  The object was blurry to gray against the sky a! nd had a dim source of light surrounding it.  Almost as if it had its own cloud source or as if the sound barrier was broken for the constant duration. However there was no sonic boom associated with what I was seeing. There was no flashing beacon on it. It occurred to me that it may have been some sort of search light or landing light from another aircraft, but nothing else was near it and again it was very clear with not one cloud in the sky. It was moving in the exact opposite track of the satellite from north west to south east.  It was moving at a very high rate of speed as I could only follow it for about 8 to 10 seconds. I would estimate that the object's altitude was some where in the range of 15,000 to 20,000 ft. The space in which it was contained did not lead me to believe that it was assending or desending, it seemed to maintain its path. I look up and watch the night sky as often as I can, I am very familiar with aircraft as I served in the USAF for 4 years and spent a considerable amount of time watching the aircraft on the flight line every night I was on duty.  This was not an aircraft that I was used to seeing.  I repeated to myself over and over as I watched the object "what is that??!!" and then " what the !*$% is that???."  I was floored because I had never seen anything like it before and it made my hair stand as chills rippled through.  It followed a very straight and direct path and was moving faster than anything I have ever witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122955.html](http://www.nuforc.org/webreports/reports/122/S122955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marion (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I think I witnessed a meteorite or meteor streaking through the sky to the north.  the bright light went from looking like a bright start to leaving a trail then broke up as it diminished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130685.html](http://www.nuforc.org/webreports/reports/130/S130685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
