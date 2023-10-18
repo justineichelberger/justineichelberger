@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:30 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Last Friday nite my wife and I traveled back to San Antonio from Victoria,Texas after a High school game.  My daughters are on the dance team and their buses were unloading at a approx. 1:30 A.M. I was talking to a friend of mine as we were standing by the back of his truck,their were low streak looking clouds above us.  We were less than a 1/4 mile from downtown San Antonio.  We happened to be looking up for a moment and saw a turquiose luminous cigar shaped object streak across the sky.  It was as if a neon light    has turned on for a moment and streaked across half the sky above us,then turn off then back on again.  This object was cloud high and confounded the two of us.  We both saw it at the same time but could not say what it was.  ((name deleted)) in San Antonio,Texas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19951.html](http://www.nuforc.org/webreports/reports/019/S19951.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Regina (Canada) (SA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>red and white strobing light moving oddly, not a jet, looked far off.I was watching out my bedroom window, facing east when I saw a stobing red and white light. it appeared to jump around but maintained a fairly steady path fron WSW to NEE, I began to watch with binoculars, I could not make out a shape, it slowed and it moved to where I could not see it. What was most interesting as I was watching it through binoculars a jet flew right through my sight line abd appeared to be much larger and closer to me. Was it a sattalite or some other object. I would like to know!((NUFORC Note:  It is not clear to us whether the sighting occurred on the morning or 18OC01, or at midnight on the night of 18OC01.  We will attempt to confirm the date and time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19905.html](http://www.nuforc.org/webreports/reports/019/S19905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
