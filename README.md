@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver object without wings or noiseObject was going North to South.  Object was shiny silver and made no noise whatsoever.  The object did not have wings like jet planes that fly over and make noise.  It also let out 2 small puffs of white smoke or something like smoke.  I watched this object till it went out of sight and I did not see any more puffs of smoke.  This object was going about as fast as a jet would go and the sun reflecting off of it is what caught my eye.  I have never seen anything like this in my life(60 years).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93698.html](http://www.nuforc.org/webreports/reports/093/S93698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>green glowing craft moving very fast across entire sky.I was about 10:15 p.m. oct 19 2011 when i was walking to my car outside on the corner of south boulder road and Mcaslin Blvd. in louisville co. at one point i glanced up to the horizon and immediately noticed a bright lime green object flying across the sky north to west. the object appeared to be a small cigar shaped craft emitting a bright green luminescence leaving a long trail behind it that was just a bright as the craft it self. this UFO was moving at an amazing speed. it seemed to cross the entire span of distance that the eye can see in a matter of about 3 seconds. it made no noise and seemed to be flying only a few miles above the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84678.html](http://www.nuforc.org/webreports/reports/084/S84678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
