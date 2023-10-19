@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:20 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Port (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silver object without wings or noiseObject was going North to South.  Object was shiny silver and made no noise whatsoever.  The object did not have wings like jet planes that fly over and make noise.  It also let out 2 small puffs of white smoke or something like smoke.  I watched this object till it went out of sight and I did not see any more puffs of smoke.  This object was going about as fast as a jet would go and the sun reflecting off of it is what caught my eye.  I have never seen anything like this in my life(60 years).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93698.html](http://www.nuforc.org/webreports/reports/093/S93698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Circleville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Driving home we saw a light above some tractors that were prepping the field for next harvest.  Mistaken for a helicopter at first and was just a few hundred feet above the equipment in the field.  We saw one bright light, then a second one appeared next to it. Then one disappeared, and another appeared.  Then the first one and then all three at once. All of this happened quite slowly.  I slowed down to try and get a video, as I did this all 3 lights showed and dissolved inside each other.  This was a sighting of a lifetime and I am so glad my fiancé and I got to share the experience.  I truly want to see this again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149367.html](http://www.nuforc.org/webreports/reports/149/S149367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
