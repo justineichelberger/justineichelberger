@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:11 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:20 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 very large floating reddish orbs in the south eastern sky.  They were not solid in color they appeared to be on fire however were perfectly round in shape.  They hovered for two minutes then floated off to the south very quickly till no longer visible</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122984.html](http://www.nuforc.org/webreports/reports/122/S122984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ansonia (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 lights, triangular, orange & white, hovering/turning/flippingWas walking home and stopped to look at the moon, immediately saw 3 lights in a triangular formation hovering over residential area, fairly close proximity to me.  Color of lights: one white light and 2 orange or vice versa, unsure. Object was suspended in air, turning slowly in all directions, coming closer and moving away.  Lasted about 3 minutes until slowly faded.  Made no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103397.html](http://www.nuforc.org/webreports/reports/103/S103397.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
