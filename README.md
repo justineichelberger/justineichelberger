@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Brule (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>3 objects 1 white 1 red and 1 blue. red and blue pictures show it best zoom in and go hmm whats that!3 objects moving slowy without sound from the west to east at 2-3 am. Ive seen these objects in prior years and this time I have pictures. No formations moving up some down and couldnt hear a sound from them. Very clear nite and no moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59451.html](http://www.nuforc.org/webreports/reports/059/S59451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Crofton (MD) reported seeing craft that fit the description of some 'other' over a period of approximately Approx. 2 hrs. - Approx. 2 hrs. minutes.</sub><blockquote><sub>Summary : I heard a strange noise in kitchen.I thought that my cat knocked over the trash bin again.So I whipped my silk rob on, and walked down to the kitchen.Once I got to the entance of my kitchen I saw them.They were about 5ft. high, and had a palish gray skin tone.At first, I was scared, but then I was amazed that I had "Aliens" in my kitchen.So, I striffled to the left to stand tall beside the fidge.(Also to get a better look.)The "Aliens" studied the way the silerware droor slided back and forth.Surprizingly taking much interest in the droors' operation, since their suppose to be highly advanced.All of a sudden an "Alien" turned and saw me and, I guess I fanited or somthing.Alls I remember is one of the "Aliens" large black eyes.Then I got weak in the knees and fell.A couple seconds later I woke up(later that night found out it was more than just a couple of seconds) but, I wasent face down on the floor.I was on my back, light-headed and confused.Slowly I turned my head and, sa! w three "Aliens".They were facing each other almost like in a small huddle.Then a rush of terror surged through me.I would say I wet my pants but, my pants were not on.I felt a strange feeling of deja vu.Then I passed out.Right before I passed out, I saw above me a disco ball thing with an exacto knife sticking out of it.I woke up again, I was home.And thats all I remember.It's all at the top. </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02768.html](http://www.nuforc.org/webreports/reports/002/S02768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
