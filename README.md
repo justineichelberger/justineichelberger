@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>round lights circling for hours-no noise and quite fast-not spot lights!while taking my dogs out I turned to see a ball of light-which I initially thought was a spot light-put realized there was no beam from the ground-it was circiling in a fashion that was constant but occasionally would change as far as speed and distance-after wtching the activity-I kn ew it was not normal aircraft such as a helicopter-no noise and moving too fast-I then noticed in the distance-many miles away-two more lights moving in coordination of each other-again in a circular type fashion and too fast to be aircraft like helicopter-I took video with my phone-video camera was dead-I witnessed these lights for nearly an hour-the first light disappearing after about 45 min.-my opinion was that it was nothing I had ever seen before and very strange-will have my video camera ready tonight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93715.html](http://www.nuforc.org/webreports/reports/093/S93715.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Buckley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangular objects with blue, white, and red lights, very bright strobes in unison along with bigger white lights at 3 pointsSlow-moving objects, almost due South direction, slightly above low broken cloud cover. Objects approx. one mile apart, one trailing back about 60 degrees off left (East) of other.  As stobes flashed, faint outline appeared to reveal solid triangle, rather than conventional wing.  Altitude guess 1500 feet.  Distinct bright red, blue, white lights in line on trailing edge of both.  No red or green strobes in conventional positions.  No landing light or similar typical arrangement.  Not at all the typical type of arrangement, as I'm accustomed to light airplane traffic from three grass airfields in area, commecial traffic to and from SeaTac, and military traffic to McCord AFB.  Still could be mistaken, but not familiar with this arrangement. No engine noise apparrent.  Commercial flight from SeaTac at approx. 2020 hours with take-off lights and conventional configuration of lights flew over just West of my house, well above other objects' flight altitudes, engine noise very clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19908.html](http://www.nuforc.org/webreports/reports/019/S19908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
