@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:46 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Buckley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Triangular objects with blue, white, and red lights, very bright strobes in unison along with bigger white lights at 3 pointsSlow-moving objects, almost due South direction, slightly above low broken cloud cover. Objects approx. one mile apart, one trailing back about 60 degrees off left (East) of other.  As stobes flashed, faint outline appeared to reveal solid triangle, rather than conventional wing.  Altitude guess 1500 feet.  Distinct bright red, blue, white lights in line on trailing edge of both.  No red or green strobes in conventional positions.  No landing light or similar typical arrangement.  Not at all the typical type of arrangement, as I'm accustomed to light airplane traffic from three grass airfields in area, commecial traffic to and from SeaTac, and military traffic to McCord AFB.  Still could be mistaken, but not familiar with this arrangement. No engine noise apparrent.  Commercial flight from SeaTac at approx. 2020 hours with take-off lights and conventional configuration of lights flew over just West of my house, well above other objects' flight altitudes, engine noise very clear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19908.html](http://www.nuforc.org/webreports/reports/019/S19908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Grovetown (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright star like object with 4 smaller objects below it spread out in a circle  formation with white, red, and blue green lights blinking intermittently.  Would hover up and down, zig zag back and forth.  It rose higher in the sky and the smaller objects closed in around it… then they disappeared.  They was no noise at all and they stayed hovering for over an hour before they left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130721.html](http://www.nuforc.org/webreports/reports/130/S130721.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
