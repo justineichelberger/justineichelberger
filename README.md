@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 18 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One triangular shaped object moving fairly quickly NNW over Winnipeg.One triangle shaped object observed moving NNW over the house.  No sound noticed and 3 non-blinking lights observed underneath.  Estimate the speed at 25% higher than a jet at altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143526.html](http://www.nuforc.org/webreports/reports/143/S143526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bastrop (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO flipping very close to a jetI was mowing my field with my tractor. While watching an airplane cross the sky I noticed something flipping about below the plane.  My mind went straight to thinking it was a bird then logic kicked in on the altitude and I realized it was something abnormal. It flipped around for about 30 seconds and then shot up out of sight.  Within minutes there were 5 jets in the sky, too far away to identify.I saw the same color (metallic) and size of craft however not flipping exactly 3 years ago to the day, Oct 19th 2005.  There was 3 other witnesses and it was very plain to see that it was cigar shaped with high rear fenders like a '57 Chevy!  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66334.html](http://www.nuforc.org/webreports/reports/066/S66334.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165243.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165012.html)
-- [387](http://www.nuforc.org/webreports/reports/164/S164993.html)
-- [386](http://www.nuforc.org/webreports/reports/164/S164994.html)
-- [385](http://www.nuforc.org/webreports/reports/164/S164999.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
