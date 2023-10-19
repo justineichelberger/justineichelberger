@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:48 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:26 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Unknown shape  ( known sound )I feel compelled to report this sighting, as it is constantly on my mind.  I am a very stable person and I keep second guessing myself.It was around 2:00AM and I awoke with a start.  I turned my head over and saw a ( approximately )  10 by 10 black square in my room.  It had bright little specks and it started to change shape moving very fast. It moved past my head and it had a whirring sound like a small face fan that is why I know that I really saw it. (because of the sound )  I quickly turned my head to see where it went, but it was gone.Has anyone else reported anything like this???  Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66406.html](http://www.nuforc.org/webreports/reports/066/S66406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Glowing red orange craft with two small blinking lights behind it // no noise // quick paceGlowing red orange light with two small  blinking red and yellow lights behind it. It seemed fairly close to the ground, the size of your pointer fingernail in the sky above Mt tabor. It made no noise and kept a steady pace while flying over. Originally mistook it as a Paper lantern when it was in the distant before it made its way past me. It seemed to be glowing from inside itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160092.html](http://www.nuforc.org/webreports/reports/160/S160092.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
