@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Auxvasse (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately Photo - Photo minutes.</sub><blockquote><sub>I would like to email Photo's (one only)Caught in Photograph taken by a digital camera.  Cannot enlarge enough, with my computer, for clear image.  But may be enhanced, I don't know</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66338.html](http://www.nuforc.org/webreports/reports/066/S66338.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Turners Falls (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In the clear afternoon sky I saw two bright lights moving in a random motion.It was a bright clear afternoon with only a few small clouds in the sky. It was a couple of hours before sunset. I was walking my dog in front of Sheffield Elementary School when a light in the sky caught my attention.  As I looked up I saw two bright dots of light over the school.  At first I thought it must be a reflection of the sun on a commerial aircraft but I realized that wasn't the case as a watched them.  The two lights were moving in a random motion, gently zigzagging in a South West direction.  I believe the objects were quite high but I cound not be certain.  One of the lights stopped almost directly above me and the other light circled around it and came closer to it and stopped.  After a couple of seconds the 2nd light continued cirling around the 1st and headed in the opposite direction, the 1st light then started going in that direction, again both moving in an oscillating motion.  The 2nd light made a big arc and headed South.  The first light approached the 2nd light and again they both stopped for a couple seconds.  They both started heading South towards Montague Center, they moved further apart from each other and from then on kept moving in a straight line and kept getting higher as they went.  By this time I had walked around to the back of the school and I was looking at them from a completely different angle so I know the brightness wasn't a reflection. As I continued to watch them a commercial jet flew across my field of view.  As I watched them go through a small thin cloud their brightness only dimmed a little, then they went into another cloud and I lost sight of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33159.html](http://www.nuforc.org/webreports/reports/033/S33159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
