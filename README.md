@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 19 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dayton (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A bright white light over Dayton that danced around the sky at incredible speedsMy fiance and I were sitting in our bed, when he looked out our window and spotted bright light in the distance that seemed to be moving strangely.  We stared trying to decide if maybe it was a star or satelite.  It started to move up very fast and side to side at fast speeds. At this point, we knew it was neither.  It was a bright white light with a faint blue light. We stared at it for 10 minutes in disbelief watching it move around irradically.  It eventually dropped down out of our sight.  We are not sleeping well tonight!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72909.html](http://www.nuforc.org/webreports/reports/072/S72909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Kaunas (Lithuania) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>alien encounter [?] .. frog with antennaIt was a rainy night. I heard the drops of rain dropping down one by one before falling asleep. For some reason I woke up because I kept on hearing the drops and something felt  unnatural. I turned the light near the bed on and imediatly froze and fear and shock.What I saw was a frog down on the carpet. I do not know why, but it scared me very much.I was young, 11 or so at the time. I reacted by not moving at first and looking at it for about 10 seconds. It didn't have a specific color. It looked more mechanical than natural green color. It had a small antenni on the head. For some reason I fear of it.I thought that it was intelligent and was directing it's attention to me.I acted slowly to cover myself on the sheets and stayed under the sheets for what left like no more than 15 minutes thinking what I should do. Then I figured I would throw the   bed covers on it and run downstairs to talk to mother. I did that and I woke her up  and explained that there is "something" up there and that I did know what it was.She said that it is probably just a mouse and offered to walk upstairs on the 2nd floor where I had a bed and check the room out. I followed her upstairs because I did not feel comfortable staying alone. The room was empty. I slept in her bed for the next few days.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35599.html](http://www.nuforc.org/webreports/reports/035/S35599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [374](http://www.nuforc.org/webreports/reports/165/S165024.html)
-- [373](http://www.nuforc.org/webreports/reports/165/S165001.html)
-- [372](http://www.nuforc.org/webreports/reports/165/S165000.html)
-- [371](http://www.nuforc.org/webreports/reports/164/S164998.html)
-- [370](http://www.nuforc.org/webreports/reports/162/S162888.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
