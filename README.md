@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:08 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:07 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>UFO Disc covers their  identity behind dark clouds but was later seen from a sharp eye before taking off.On this particular evening it was a dark cloudy, light rain overcast.  I was coming out of my building where I lived on 1 Beaufort Place in New Rochelle, NY a couple of years ago (10/04)walking toward my car when I seen a very bright light beaming from a dark cloud.  There were multiple clusters of dark clouds with gaps in between.  Well I was looking very hard at this one particular dark cloud for at least 30 secnds with this extremely bright light coming from the center.  Then all of a sudden I seen a disc like object shoot upward through the gaps of clouds in a diagonal motion into the evening sky.  I guess this object realized that I saw there light beaming from the dark cloud and took off.  They must of been watching me while I was walking as I began to realize there existence before they took off.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50366.html](http://www.nuforc.org/webreports/reports/050/S50366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tarzana (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spherical object hovering in the sky consistently changing colors from blue, green, and red.I saw an unknown spherical object hovering in the sky.  It consistently changing colors from blue, green, and red. Its movements were too precise to be an airplane or helicopter, plus it was silent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114966.html](http://www.nuforc.org/webreports/reports/114/S114966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
