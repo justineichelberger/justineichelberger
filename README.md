@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:07 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:52 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tarzana (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spherical object hovering in the sky consistently changing colors from blue, green, and red.I saw an unknown spherical object hovering in the sky.  It consistently changing colors from blue, green, and red. Its movements were too precise to be an airplane or helicopter, plus it was silent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114966.html](http://www.nuforc.org/webreports/reports/114/S114966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lakes Entrance (Australia) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>10\20\15  18:OO=600PM          LAKES ENTRANCE VICTORIA SPHERE 5 SECONDS YELLOW ORANGE SPHEREIT WAS ABOUT DINNER TIME ON A SATURDAY NIGHT WHEN I SAW A OBJECT THAT APPEARED OUT OF THE SKY.  THERE WAS A MODERATE CLOUD COVER A BIT MISTY LOOKING AND OUT OF MY LOUNGE ROOM WINDOW OF WHICH IS GLASS SLIDING DOORS, I SAW AN OBJECT THAT WAS A PERFECT CIRCLE AND WAS BRIGHT YELLOW LIKE A REALLY BRIGHT LIGHT AND MADE NO NOISE.  IT HOVERED ALONG THE CLOUD LINE FOR A ABOUT FIVE SECONDS, AND THEN IT WENT UP INTO THE SKY AND DISAPPEARED.  THE OBJECT HAD NOTHING CONNECTED TO IT BUT THE CLOUD WAS VERY LOW THAT DAY AND I THOUGHT I WAS SEEING THINGS BUT IT HAD NO NOISE AT ALL, BUT IT WAS VERY BRIGHT AND I HAD KNOW IDEA WHAT IT WAS EXCEPT MAY BE A UFO,  I DONT KNOW IF ANYONE ELSE WITNESSED IT OR NOT.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125561.html](http://www.nuforc.org/webreports/reports/125/S125561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
