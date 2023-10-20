@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Park City (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>The disc object with bright lights came from the North and disappeared over the mountains to the NorthThis is a revision per our conversation, 10/25/2016, of a sighting of last week.My grand daughter was in her upstairs bedroom around 9:00 pm.  She was looking out of the north window of which she looks out of every night.  Suddenly a disc object flew past the window about 1/2 mile in the night sky.  She was so startled she didn't take a picture, but screamed for me, her grandmother.  I ran in and saw the back of the object go by my bedroom window.  I ran outside, but only saw the object faintly through the trees.  I ran back inside and stood on my bed and watched it leave the area.We then ran down to the car and drove trying to catch up to it or at least get closer.  We live in the mountains and lost it as it went over the mountains to the North.There was no noise.  A plane and helicopter make a noise.Again, it was a disc, bright lights.  It was not an airplane or helicopter.Just about every night we see lights in the North.  Bright lights.  The object we see just sits still and smaller lights fly up to it and then disappears.  We've sat on the front porch with binoculars for a very long time watching this happen and just are in awe.It was a very weird day.  the sky was covered with chemtrails and they were still in the sky that night, which made it very eerie.I will be submitting my information as my grand daughter, ((granddd=aughter's name deleted)), is a minor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130823.html](http://www.nuforc.org/webreports/reports/130/S130823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Martinez (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I saw an object  with a greenish tail trail across the sky  in an easterly direction  in Augusta,Ga area 10/20/03.I seen an object in the sky approx. 8:45 pm. , Mon. Oct. 20, 2003. It looked like a shooting star , but much bigger,almost like a single green colored bottle rocket trailing across your yard.My porch faces a northern direction , and it appeared north heading east.It amased me so much I went into the house to mention it to my brother-in-law.After that I didn't think much about it,until I read the brief report from a Lt. in Durham,NC.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32575.html](http://www.nuforc.org/webreports/reports/032/S32575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
