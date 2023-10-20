@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw what looked like a bright star with 6 beams of light coming from it, then changed red and was goneMy son (26 yrs old ) was on our deck when he noticed this object and called me to look at it!It looked like a bright star at first and it was gliding across from west to east.( never blinking ) After about 30 seconds it became a little more oblong in shape and 6 beams of light extended from it. Two on each side and one from both ends! After a few more seconds it turned from being a bright light with beams to a solid red color and grew small very fast and then it was gone.I have never been a big believer in UFO's but this was something really odd to us (enough for me to report it)I am a male 52 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59355.html](http://www.nuforc.org/webreports/reports/059/S59355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Unknown Triangular craft near HuntsvilleI was traveling home, which is in Scottsboro from Huntsville, after a night meeting. I saw three triangular craft. The craft were flying low and crossed the road in front of me. They were low too not more than 50 feet above the tree tops. I thought they were helecopters until I was right on them. I pulled over for a minute to watch. They did'nt make a sound. They appeared to be black but it was dark. This is not the only time I saw the crafts eithier. I saw them two other times near the same place. The Huntsville area in North Alabama is home to Redstone Arsenal, which is the home of the US Army Missle Command and Marshall Space Flight Center NASA. Maybe the craft I saw belong to the Army or NASA. I  really don't know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17788.html](http://www.nuforc.org/webreports/reports/017/S17788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
