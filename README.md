@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:45 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>10/20/2017 - 8:35 a.m. - Driving on Rt. 32 Southbound toward New Paltz from Rosendale, first observed appox. 1/2 mile North of Horsenden Road while passing Clearwater Park on left.  Object appeared to be white-ish silver moving SSW at high speed (I was driving 55 mph), flying low enough to observe no wings of any kind.  Appeared to be teardrop shaped with point facing direction of travel, no lights but did observe "glint" of light from Sun reflecting off surface of object indicating it was a solid, reflective mass.  That part of Rt. 32 has trees on both sides, object clearly visible while following road then became obscured by trees.  turned onto Horesenden Road, observed once through trees when turned onto road then lost.  Did not see again once tree line ended and had more visible area to observe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136881.html](http://www.nuforc.org/webreports/reports/136/S136881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mishawaka (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A large bright blue light feel out of the sky. It was deffiantly to low to be a UFO, but there was something different about this that did not look man made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150218.html](http://www.nuforc.org/webreports/reports/150/S150218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
