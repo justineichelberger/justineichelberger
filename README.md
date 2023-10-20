@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ottawa (Canada) (ON) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three orange lighting objects came from south to north at the sky all over Ottawa and went away.The sky was dark and clean. I saw three objects flying in the sky to east of Ottawa.  The angle between their position and the zenith was about 50º.  They came from south to north. The first one came around 19:15.  The second one came around 19:25 minutes later and the third one came around 19:28.  There was a very intense orange light that came from their bottom in an oval form.  Each one remained at the sky about 1-3 minutes.  I could not see when the first one had gone, but the second and the third ones went away as if they were getting more distant and their light was dying.  I’m not sure if there were others objects between the first and the second one because I didn’t keep looking at this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93722.html](http://www.nuforc.org/webreports/reports/093/S93722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cali () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Triangular object seen by multiple witnesses in cali, ColombiaI was relaxing in the outside spa area of the Intercontinental Hotel in Cali, Colombia with a friend and several other hotel guests when at 6:30PM I noticed what appeared to be rounded triangle type object at the 1:00 position.  This object was motionless for most of the time, but would occasionally begin vibrating or wobbling intensely.  We also noticed that intensely focused beams of light would shoot out from different positions and for varying distances.  Since I have never before seen an unidentified flying object I alerted the other guests to witness what I was seeing, which they all did and I asked each of them to write their names and contact information down.  My friend used his digital camera to take several photos, which I can send you, although the pictures are not as detailed as what we saw. One of the witnesses had a contact in the Colombian military, but just as he was calling to file a report the object darted off at a fantastic rate of speed.  Although I have no proof, I had the impression that this ship was collecting information.  I know this was not a conventional aircraft nor was it a figment of my imagination since there were multiple individuals who saw the same exact thing, as did I.  I also know that it was not a planet since the lights of Cali obstruct the possibility of seeing any stars or planets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85999.html](http://www.nuforc.org/webreports/reports/085/S85999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
