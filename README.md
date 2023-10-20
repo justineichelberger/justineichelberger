@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Raleigh/Garner (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large Triangle object in sky over North CarolinaThis night in question takes place years ago.  I don’t even know the date, but it must have been from say early October, or until the end of march.  The reason I say this, is because my best friend and I had gone to watch NC State play basketball.  So it was definitely during basketball season.  The year was 1985, or 1986.  The only reason I’m reporting it, is because I see others who have seen similar objects.  I’ve (We’ve) kept it to ourselves all these years.  Oh, we have mentioned it to a few people, but you can imagine what kind of ribbing we took.Anyway, it was after the ball game, and that would have been between 9 and 12 pm depending on what time the game was.  I really don’t remember if it was a 7:00 game or an 9:00 game.   We were on our way back home on 50 highway from Raleigh towards Benson.  We were driving in a small pickup when we noticed a huge black object to our left.  It was really low, if I had to guess, I would say maybe 600 feet or less.  I would guess the object to be at least as long as a football field.    We pulled over and both of us opened our doors, got out, and looked up as this huge triangular object passed over us.  It was solid black, with no discernable lights except for the very tip of the triangle.  The other thing worth mentioning, is that it was slowly rotating as it moved.  Well we stood there and watched this object move from the left to directly overhead moving to the right of us.  Since we were on 50 south, that would have been East to West.  As we looked up, we were both in awe.  It made absolutely no noise whatsoever.  Completely silent.  I think that was the eeriest part of the whole thing.  How could something that huge fly the way it was flying, and make not a bit of sound.  We tried to follow it somewhat, but because it was so low to the ground, it was out of sight in less than 2 minutes. Gone behind the treeline.We’ve often discussed it between ourselves, but not made too many waves.  We never heard anything else, and we figured something that big would have had to be seen and reported by other people.  I know what I saw, and I’ve watched a lot of shows about our military, and never never have seen an aircraft like what I just described.  I’m pretty sure the stealth was not out at that time, but even if it was, it did not fly in the manner with which I witnessed that night.  My main reason for posting this, was to see maybe, just maybe someone else saw the same thing my friend and I did, and about that same time frame.  It would validate my experience somewhat and verify that I was not crazy!!!!((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55054.html](http://www.nuforc.org/webreports/reports/055/S55054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30s - 30s minutes.</sub><blockquote><sub>1 triangle shaped object with 3 lights at the ends going kind of slow.. and then speeding up. The object was completely dark. lights were white with some yellow.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39910.html](http://www.nuforc.org/webreports/reports/039/S39910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
