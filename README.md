@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 20 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cali () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Triangular object seen by multiple witnesses in cali, ColombiaI was relaxing in the outside spa area of the Intercontinental Hotel in Cali, Colombia with a friend and several other hotel guests when at 6:30PM I noticed what appeared to be rounded triangle type object at the 1:00 position.  This object was motionless for most of the time, but would occasionally begin vibrating or wobbling intensely.  We also noticed that intensely focused beams of light would shoot out from different positions and for varying distances.  Since I have never before seen an unidentified flying object I alerted the other guests to witness what I was seeing, which they all did and I asked each of them to write their names and contact information down.  My friend used his digital camera to take several photos, which I can send you, although the pictures are not as detailed as what we saw. One of the witnesses had a contact in the Colombian military, but just as he was calling to file a report the object darted off at a fantastic rate of speed.  Although I have no proof, I had the impression that this ship was collecting information.  I know this was not a conventional aircraft nor was it a figment of my imagination since there were multiple individuals who saw the same exact thing, as did I.  I also know that it was not a planet since the lights of Cali obstruct the possibility of seeing any stars or planets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85999.html](http://www.nuforc.org/webreports/reports/085/S85999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw what looked like a bright star with 6 beams of light coming from it, then changed red and was goneMy son (26 yrs old ) was on our deck when he noticed this object and called me to look at it!It looked like a bright star at first and it was gliding across from west to east.( never blinking ) After about 30 seconds it became a little more oblong in shape and 6 beams of light extended from it. Two on each side and one from both ends! After a few more seconds it turned from being a bright light with beams to a solid red color and grew small very fast and then it was gone.I have never been a big believer in UFO's but this was something really odd to us (enough for me to report it)I am a male 52 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59355.html](http://www.nuforc.org/webreports/reports/059/S59355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [493](http://www.nuforc.org/webreports/reports/165/S165067.html)
-- [492](http://www.nuforc.org/webreports/reports/165/S165007.html)
-- [491](http://www.nuforc.org/webreports/reports/165/S165010.html)
-- [490](http://www.nuforc.org/webreports/reports/165/S165052.html)
-- [489](http://www.nuforc.org/webreports/reports/165/S165014.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
