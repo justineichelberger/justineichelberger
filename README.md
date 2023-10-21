@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Grand Island (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately During eclipse - During eclipse minutes.</sub><blockquote><sub>I wish that I could see them, I aim camera btween the chem trails and the sun and photograph them regularly.I work in this area, this happened during the totality of the Sept.21 solar eclipse.We took a few hrs. off to observe.It started when I was talking to another individual that happened to see a flash of orange to the north.  I had my phone in my hand, so I snapped some shots to the North.  I then turned partially around and continued the conversation.  I began taking snapshots facing the opposite direction over my left shoulder toward the sun.  The sun was under the effect of the 2 minute totality, practically dark.I did not see or hear anything out of the ordinary.  When I got home that evening and started going through the pictures, I could have fainted.  What I filmed and what I was seeing was two totally different things.The chemtrails were blatant that day.  They started that morning and continued until right before the event.  Practically created full cloud cover and darkened the sky.  They continue to this day and I continue to take pictures capturing the spheres on film.  I do not know how to get the word out or where to report the incidents.I have no idea what they are after.  I do know that they are very busy and continues to grow in numbers and frequency.  My last pics were taken just yesterday.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137385.html](http://www.nuforc.org/webreports/reports/137/S137385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright light east of I-75 near West Chester, OhioMy wife and I were traveling south on I-75 near the Tylersville Road exit in West Chester, Ohio at 8:58 pm on Monday, October 21, 2019.  Up ahead in the distance, and to the east of I-75, we saw a bright, round light.  It was not flashing, and it was not moving.  It was too big and too bright to be a star or planet, and since it wasn’t moving, we figured it wasn’t an airplane either.  The nighttime sky had heavy clouds, but it was not raining.  The light lasted about 90 seconds, and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150133.html](http://www.nuforc.org/webreports/reports/150/S150133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
