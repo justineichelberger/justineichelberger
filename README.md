@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:52 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Columbia (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6s - 6s minutes.</sub><blockquote><sub>U-shaped formation of orange gold lights travelling south at high speed.10-21-98 22:42.  After star-gazing for 10-15 minutes my eyes were pretty well adjusted. I had seen only one high altitude jet and no shooting stars or satellites.  I was laying on a cot flat on my back inside a built up commercial/residential area with high background light level.  Very faint cumulus clouds, widely dispersed were present, but not in the section directly overhead where the objects were observed.  Sky was otherwise clear and stars particularly bright this evening.  I observed 12-15 objects travelling at a constant velocity and direction, very nearly due south. Their luminosity was equal among them and remained constant until obscured by tall trees nearby. Color was dim orange/gold. Objects were no more than points of light.  I would estimate the arc they traversed in approximately 6 seconds was no more than 35-40 degrees.  Objects were in a roughly U-shaped formation with the closed end leading. There were no sounds as there had been with the jet earlier.  Size of formation would comparable to 2 finger widths at arms length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04549.html](http://www.nuforc.org/webreports/reports/004/S04549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright light east of I-75 near West Chester, OhioMy wife and I were traveling south on I-75 near the Tylersville Road exit in West Chester, Ohio at 8:58 pm on Monday, October 21, 2019.  Up ahead in the distance, and to the east of I-75, we saw a bright, round light.  It was not flashing, and it was not moving.  It was too big and too bright to be a star or planet, and since it wasn’t moving, we figured it wasn’t an airplane either.  The nighttime sky had heavy clouds, but it was not raining.  The light lasted about 90 seconds, and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150133.html](http://www.nuforc.org/webreports/reports/150/S150133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
