@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:51 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Strange Sighting over albany international airportCheck out this breaking story in Albany New York at   www.fox23.com FBI involved in cameraman's mysterious video capture of missle shaped UFO over Albany International Airport!   At:http://www.fox23news.com/Global/story.asp?S=980142&nav=83rSBuM2 A STRANGE SIGHT IN THE SKIES OVER THE CAPITAL REGION - NO ONE KNOWS YET WHAT IS WAS - BUT IT WAS ENOUGH TO HAVE THE FBI SCRAMBLING TO TAKE A LOOK.ONE OF OUR VIDEOGRAPHERS WAS SHOOTING A PLANE TAKING OFF FROM THE ALBANY INTERNATIONAL AIRPORT - AT THE SAME TIME THE STRANGE OBJECT STREAKED THROUGH THE SKY - IT WAS MOVING SO FAST, HE DIDN'T EVEN SEE IT, UNTIL HE PLAYED HIS TAPE IN SLOW MOTION.WE'RE TOLD THE OBJECT DID *NOT SHOW UP ON RADAR. AUTHORITIES WILL CONTINUE TO ANALYZE THE VIDEO TO FIGURE OUT WHAT THE FLYING OBJECT IS. WE'LL KEEP YOU POSTED</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25734.html](http://www.nuforc.org/webreports/reports/025/S25734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>it was changing colour , zig zag pattern, rapid upward travel.the object was a huge light changing colour from yellow to green to blue.  it was flying in zig zags going down then up very fast. it went on doing the zig zags for about 5 min then it went up and down and kept doing this for another 10 min then it went up really fast and did not come down.((NUFORC Note:  Student report.  May not be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47140.html](http://www.nuforc.org/webreports/reports/047/S47140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
