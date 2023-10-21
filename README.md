@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:01:00 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yukon Territory (rural) (Canada) (YT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle of lights in the Yukon.While packing out on a sheep hunt in the Yukon Territory at 3:00 o'clock in the morning my guild and I saw a cluster of lights moving across the sky at about 20 degrees above the horizon. I told the guild here comes a airplane. He said "that is odd" because we were in the upper part of the Yukon near Mount McDonald and you do not see many airplanes there especially at 3 in the morning. Suddenly the cluster of light stopped dead still in the sky. It appeared to be about 3 miles away. Then it started darting around, up and down, then sideways. Then stopped again. We watched it for about 5 min then it darted around again, then stopped and held steady. Light were red, blue and white. I viewed it through my rifle scope and it was a triangle of 12 lights. Lights where white through the scope and all of equal brightness. As we walked on we could see it for about 30 min. As we walked we entered some willows and lost sight of the object. When we came out it was gone. It was the most unbelievable thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32603.html](http://www.nuforc.org/webreports/reports/032/S32603.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ankeny (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Amber lit triangle passes above Ankeny,IA.I was sitting out on my back deck watching the meteor shower that was just starting in my area.  This was at 12:10am on the 21 of October.As I was laying on my back looking up at the stars I seen a movement, or blur.  It was a faint gray streak or something. I'm not sure.  As I was looked I noticed a very dim amber light, as I focused more; I seen 9-10 very dim amber lights in the shape of a "&gt;".I couldn't believe what I had seen so I sat up, and watched it pass through the sky right above me.As I sat in disbelief, I listened for any noises that might follow what I just seen.  Nothing followed.  Not a single peep of noise.  The lights passed by pretty quickly, lasting about 5-6 seconds.It seemed to very close, or very large.  But no noise at all. Just smooth steady and fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114895.html](http://www.nuforc.org/webreports/reports/114/S114895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
