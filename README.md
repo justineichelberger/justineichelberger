@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright light east of I-75 near West Chester, OhioMy wife and I were traveling south on I-75 near the Tylersville Road exit in West Chester, Ohio at 8:58 pm on Monday, October 21, 2019.  Up ahead in the distance, and to the east of I-75, we saw a bright, round light.  It was not flashing, and it was not moving.  It was too big and too bright to be a star or planet, and since it wasn’t moving, we figured it wasn’t an airplane either.  The nighttime sky had heavy clouds, but it was not raining.  The light lasted about 90 seconds, and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150133.html](http://www.nuforc.org/webreports/reports/150/S150133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Kingstown (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Flew 50 feet in air, one after another, came back towards us, and then went back into the opposite direction.I was walking down the street near the EWG, north kingstown border with my friend late at night. We were walking from another friends house back to his house. It must have been 11pm to 1am. It was a few months ago, i don't remember the date. 3 circles of lights flashed through the sky, extremly fast, and low. About 50 feet in the air. They did not go in a triangle pattern. They flew one after another. Then they came back towards us, as we ran into the woods. Then they went back into the other direction. It was the strangest thing i have ever seen in my entire life. We ran back to my friends house. Two weeks later the same friend and I were in the same area walking a friend back to her house. My friends ran ahead of me, and i saw the lights by myself. On the way back to our house, both my friend and I saw these lights again, but they only flew over us once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54321.html](http://www.nuforc.org/webreports/reports/054/S54321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
