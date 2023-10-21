@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:01:00 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  75</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150293.html](http://www.nuforc.org/webreports/reports/150/S150293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Yukon Territory (rural) (Canada) (YT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle of lights in the Yukon.While packing out on a sheep hunt in the Yukon Territory at 3:00 o'clock in the morning my guild and I saw a cluster of lights moving across the sky at about 20 degrees above the horizon. I told the guild here comes a airplane. He said "that is odd" because we were in the upper part of the Yukon near Mount McDonald and you do not see many airplanes there especially at 3 in the morning. Suddenly the cluster of light stopped dead still in the sky. It appeared to be about 3 miles away. Then it started darting around, up and down, then sideways. Then stopped again. We watched it for about 5 min then it darted around again, then stopped and held steady. Light were red, blue and white. I viewed it through my rifle scope and it was a triangle of 12 lights. Lights where white through the scope and all of equal brightness. As we walked on we could see it for about 30 min. As we walked we entered some willows and lost sight of the object. When we came out it was gone. It was the most unbelievable thing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32603.html](http://www.nuforc.org/webreports/reports/032/S32603.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
