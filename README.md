@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Waterford (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A very large slow moving triangle with bright strobes and no soundAs my wife and I were headed back to our car after having been shopping I looked up and noticed very bright and fast flashing strobes. At first I thought they were planes heading to the Albany airport but then realized they were part of a very large and slowing moving triangle shaped object. It head from East to West then banked very slowly to the southwest and dropped behind the hills and out of sight. I estimate it about 600 feet or so above the ground. During our sighting another person asked what we were looking at and when I pointed up they panicked and left very quickly. There was quite a distance between the strobes, more so than any aircraft I've ever seen. Could not make out any structure between the lights but could tell they were all afixed to the same object as they all moved with each other in one fluid motion.It also had no sound at all. The sky was partly cloudy with stars visible . It was quite interesting but creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32763.html](http://www.nuforc.org/webreports/reports/032/S32763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Holden (LA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Diamond shape with multiple colored lights spinning around it with no sound, strobe light reflections from the ground.I was letting my dog out at around 2:30-2:45 a.m.   She was the only dog out of 3 that was barking. As I opened the door I saw what at first seemed like a helicopter with a strobe light on it with no sound. It was stationary for a few minutes and then it dropped what seemed about 50-100 feet in the air and then it went back up.  After watching it do that for about 2 minutes I ran to get my husband.  When we both came back we saw red, blue, green, yellow and white lights that seemed to rotate around it at a very fast rate of speed and it was moving slowly over the newly cleared land across from us.   It seemed maybe 500 yards away and not far above the tree tops where the clearing ends. We kept seeing a flash of light reflect from the ground and the trees every few seconds. It appeared that the craft was taking pictures of the ground.  My husband went and got my brother to come look at it also. He stayed for a few minutes and then left us, I guess he got spooked. The craft was traveling very slow moving towards the south in a zig zag pattern.  My husband said it looked like a fish swimming in the water.  At one point a small light seemed to approach it and then it went dark, you could still see a silhouette of something there. It almost appeared that something went to look at it and then turned off its lights. The craft eventually got so far away that we could hardly see it anymore.  We left when it was just a dot of light miles away. The sky was crystal clear. There was a meteor shower going on too, several meteorites or just space trash burning up in the atmosphere that was staying visible longer than what seemed normal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59359.html](http://www.nuforc.org/webreports/reports/059/S59359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
