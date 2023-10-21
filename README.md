@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A vertical crescent, parachute looking thing floating through the sky during rush our in San DiegoI was jogging and I saw this wierd thing hover in the air and it looked like it might have been over my neighborhood.  It was more vertical in shape and almost had a crescent moon shape, but like a fetus or a caterpillar.  I kind of thought it was a paraglider, I guess if the shape of that type of chute makes sense, but I couldn't see anything attached to it.  It was also kind of shiny looking and floated away at a rate that was similar to how fast a giant bubble moves through the air. It changed position in the air a few times, so I didn't think it was hard, but it also was traveling across the sky and away, so it wasn't falling like a parachute and I was not hear a cliff, like a paraglider would use which is why it looked that, but couldn't have been, unless there was a motor?  But again, I was close enough in person that I would have seen someting attached to it.  It wasn't THAT high up. There were a ton of other people around, driving cars, coming in and out of their homes.  I guarantee a ton of other people noticed it and probably wondered what it was, but I didn't stop to observe it with anyone else or point it out to people.  I have videos of it where you can see the buzz of traffic and other people around.  It was very obvious there in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160136.html](http://www.nuforc.org/webreports/reports/160/S160136.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Weert (Netherlands) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>light-blue light,  with red light on the right-side point, smaller than the blue light, flying up West-East very fastit was a light-blue light, very bright, with a red light on the right-side point, smaller than the blue light, about one-sixth it's size flying from West to East upward, faster than an airplane and it was also bigger. I did not feel scared, I felt they came with a good heart and I was driving North on the highway so I didn't look very long cause it was busy with many cars. I'm a Public Information Officer and have never seen an UFO before. I am 36 years old and someone who is in contact with God said later that it was from Mars and they live under the ground there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40297.html](http://www.nuforc.org/webreports/reports/040/S40297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
