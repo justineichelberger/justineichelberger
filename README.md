@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in North Kingstown (RI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Flew 50 feet in air, one after another, came back towards us, and then went back into the opposite direction.I was walking down the street near the EWG, north kingstown border with my friend late at night. We were walking from another friends house back to his house. It must have been 11pm to 1am. It was a few months ago, i don't remember the date. 3 circles of lights flashed through the sky, extremly fast, and low. About 50 feet in the air. They did not go in a triangle pattern. They flew one after another. Then they came back towards us, as we ran into the woods. Then they went back into the other direction. It was the strangest thing i have ever seen in my entire life. We ran back to my friends house. Two weeks later the same friend and I were in the same area walking a friend back to her house. My friends ran ahead of me, and i saw the lights by myself. On the way back to our house, both my friend and I saw these lights again, but they only flew over us once.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54321.html](http://www.nuforc.org/webreports/reports/054/S54321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 55.0 - 55.0 minutes.</sub><blockquote><sub>flashing lights, moving objects and odd movements2:15am i stepped outside to smoke a cigarette. I looked to my left (i  was on the balcony) the light was at my 10oclock.  It looked like a star at first, then i seen it drop down to the tree line, then shoot back up near the end of orions belt.  It would periodically shoot left and right, up and down and one time it did a circle formantion.  I watched this light for half an hour when i see a streak of light ( similar to lightning, the sky was clear) shoot across and disappear near the first light. at 3am i see another light, red only flash six times then it was gone. the first light stayed put for another half hour, then me and two others see a ( shadow of sorts) move along the grass and tree. it was quick but we seen it. it scared them enough to go back inside the house. i kept watching and at about 4am the light i first seen shot up and over to west faster than any plane ive ever seen and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93745.html](http://www.nuforc.org/webreports/reports/093/S93745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
