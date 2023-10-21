@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bristol (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>it was changing colour , zig zag pattern, rapid upward travel.the object was a huge light changing colour from yellow to green to blue.  it was flying in zig zags going down then up very fast. it went on doing the zig zags for about 5 min then it went up and down and kept doing this for another 10 min then it went up really fast and did not come down.((NUFORC Note:  Student report.  May not be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47140.html](http://www.nuforc.org/webreports/reports/047/S47140.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Waterford (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A very large slow moving triangle with bright strobes and no soundAs my wife and I were headed back to our car after having been shopping I looked up and noticed very bright and fast flashing strobes. At first I thought they were planes heading to the Albany airport but then realized they were part of a very large and slowing moving triangle shaped object. It head from East to West then banked very slowly to the southwest and dropped behind the hills and out of sight. I estimate it about 600 feet or so above the ground. During our sighting another person asked what we were looking at and when I pointed up they panicked and left very quickly. There was quite a distance between the strobes, more so than any aircraft I've ever seen. Could not make out any structure between the lights but could tell they were all afixed to the same object as they all moved with each other in one fluid motion.It also had no sound at all. The sky was partly cloudy with stars visible . It was quite interesting but creepy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32763.html](http://www.nuforc.org/webreports/reports/032/S32763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
