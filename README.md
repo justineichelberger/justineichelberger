@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:46 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:52 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Reno, NV  Green Spherical Luminous Object over Reno((address deleted)) Blvd.  Had just entered 395 highway going south.  At the same time I began to notice an object entering my field of view from the left, my friend pointed towards it and said "What is that?".  I saw a distinct green circular shape moving at an extremely high speed from the Northeast to a Southwest direction.  It appeared the object was descending, but this could have been an illusion.  It appeared it was low, approx. 500-1000 ft.  (If I held a ruler up in front of my eyes the object would have measured about 1/4" in diameter). There was no sound, like a military jet travelling at high speed might make.  I could not be sure if what I was seeing was propulsion from a craft or not.  It was dark and I could not see any shape other than the large green circle. I would estimate it traveled at least 4 miles in about 3 seconds as I had a view of the whole Reno valley.  It was moving much more rapidly than I would expect an civilian or government aircraft (planes or helicopters) to be traveling at.  After about six seconds, with the object heading toward the Sierra Mountain range, it suddenly and abruptly disappeared, like it simply just blipped out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53021.html](http://www.nuforc.org/webreports/reports/053/S53021.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Columbia (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 6s - 6s minutes.</sub><blockquote><sub>U-shaped formation of orange gold lights travelling south at high speed.10-21-98 22:42.  After star-gazing for 10-15 minutes my eyes were pretty well adjusted. I had seen only one high altitude jet and no shooting stars or satellites.  I was laying on a cot flat on my back inside a built up commercial/residential area with high background light level.  Very faint cumulus clouds, widely dispersed were present, but not in the section directly overhead where the objects were observed.  Sky was otherwise clear and stars particularly bright this evening.  I observed 12-15 objects travelling at a constant velocity and direction, very nearly due south. Their luminosity was equal among them and remained constant until obscured by tall trees nearby. Color was dim orange/gold. Objects were no more than points of light.  I would estimate the arc they traversed in approximately 6 seconds was no more than 35-40 degrees.  Objects were in a roughly U-shaped formation with the closed end leading. There were no sounds as there had been with the jet earlier.  Size of formation would comparable to 2 finger widths at arms length.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04549.html](http://www.nuforc.org/webreports/reports/004/S04549.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
