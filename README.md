@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:46 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Chester (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>very bright light east of I-75 near West Chester, OhioMy wife and I were traveling south on I-75 near the Tylersville Road exit in West Chester, Ohio at 8:58 pm on Monday, October 21, 2019.  Up ahead in the distance, and to the east of I-75, we saw a bright, round light.  It was not flashing, and it was not moving.  It was too big and too bright to be a star or planet, and since it wasn’t moving, we figured it wasn’t an airplane either.  The nighttime sky had heavy clouds, but it was not raining.  The light lasted about 90 seconds, and then it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150133.html](http://www.nuforc.org/webreports/reports/150/S150133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hulett (near) (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Bright silver object with silver trail traveling at high rate of speed.12 miles NW of Hulett, WY on Friday, Oct. 21, 2011 at approximately 7:30 p.m.  I observed a bright silver object traveling from west to east.  The object was traveling at a high rate of speed, much faster than jet aircraft.  The object was in the distance by several miles but very bright and behind the object was a silver trail.  The sky was dark, clear, no clouds or moon and stars were visible.  I observed the object for approximately 10 to 12 seconds as it traveled at a high rate of speed heading east and then it simply blinked and was gone.  I continued to observe the sky in all directions but never saw the object again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84694.html](http://www.nuforc.org/webreports/reports/084/S84694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
