@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unfathomable beauty in the sky in the form of something which I cannot explainWhen I came across the Seattle Space Needle, a formation of people was standing around. In the sky, suddenly I heard a big bang, and as I looked up, at first I saw nothing. I really don't know how to describe what happend next.  A wave of relaxation sprung through my limbs and into my fingers. I could even fell the sting in my finger nails. It felt like when you fall asleep and accidently block the passage of blood to your arm, and a million ants start to crawl up the muscles, chewing away. As this happened, it was as if (and this part will sound most strange) me and this formation of people, suddenly felt the same thing. But not merely felt the relaxation, but felt instead  each other.As if there was a third arm infront of me, I would try to move it, but could not. Another bang interupted the flow and the most beautiful thing I've ever seen appeared infront of me. I could not begin to explain it. I can hardly even remember the shape of it, as if my brain is unable to fathom it's form. I feel strange even typing this. There were five of these things, and they flew perhaps a 1000 feet above us , watching. Seconds later, they were gone. We just looked at each other, as if in denial, looked at each other with this look that I'll never forget, as if we were discusted with the other persons behaviour. As if the moment it happened, we didn't believe it. That is why I write this so late. I hope that others do the same, so that the story goes out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84716.html](http://www.nuforc.org/webreports/reports/084/S84716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Oak Creek (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At 9:30 in the evening on a clear night,we saw five or six objects over the top of the mountain behind our house.The objects zipped around like fire flies changing direction instantly then hovering in one spot.All objects flashed either red and green lights, or red and white lights. There was no jet sound at all. We watched the objects for approximately fifteen minutes as they moved first to the north, then east then west. They changed direction quicker than any plane could. When they left they went different directions.A few momments after they disappeared a single point of light crossed from south east to north west, again with out any noise.As the light disappeared to the north west a passenger jet flew over. That was the first jet sound we heard during this whole time.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  He appears to us to be quite familiar with the area of the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33969.html](http://www.nuforc.org/webreports/reports/033/S33969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
