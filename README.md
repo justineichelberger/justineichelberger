@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:53 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Big shiny saucers hovering over the astro dome in houston for 3 minutes.Big silver saucer shaped crafts seemed to be hovering over the astro dome. they were not spinning but they were slightly moving up and down. The day was pretty clear with some clouds. they looked as big as a football feild. the crafts seemed to have lights but they werent glowing.after about 3 minutes they shot seperate ways and then up until i couldnt see them anymore.((NUFORC Note:  Source elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25737.html](http://www.nuforc.org/webreports/reports/025/S25737.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Evergreen Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Light-filled balloon-like objects [15-25]in the eastern sky drifted northward for about 3min.,stopped for 1min, then disappeared.These round objects of light were observed in the eastern sky at approximately a 45 degee angle from the horizon.  There were about 15-25 of them. They were moving slowly in a nothernly direction.  They seemed to be in a random pattern, and appeared to be almost drifting in the sky like light-filled balloons. They were moving slowly from south to north.  They were not falling.  They seemed to stop for approximately one minute and then they suddenly disappeared. They were larger than a star would be, but much smaller than the moon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84722.html](http://www.nuforc.org/webreports/reports/084/S84722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
