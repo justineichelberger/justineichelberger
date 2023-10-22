@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:02 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sturgeon Bay (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>strange lightsaw light moving in many directions in the skyline they were moving up down and diangolany at speed faster then a plane. it was on lake michigan.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21647.html](http://www.nuforc.org/webreports/reports/021/S21647.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Little Rock (AR) reported seeing craft that fit the description of some '' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>My name is ((name deleted)), I live in Little Rock AR. On Oct.22nd 2005 at approximately 9:10 pm (CDT), I was out on our back patio smoking a cigarette and looking up at the sky about 45 degrees from the horizon in a west north westerly direction.  Right were I was looking, I noticed that a couple of stars blinked on and off.  That immediately caught my attention.  A second later I’m starting to make out a "V" shape in the sky.  I’m first thinking it must be geese, but in a fraction of a second, I realized I’m looking at an incredible object of great size, almost as big as a commercial airliner, almost right on top of me by then.I also am very aware that there is no sound whatsoever, not even the movement of air. The object was "Y"- shaped, traveling at great speed in an east south easterly direction.  I noticed on the bottom of this object, there were round concave or perhaps bulging circles.  I can only estimate the number but i would say approximately 12 of these circles were laid out very symmetrically along the Y. This object had no lights or no self luminescence.  The only way I seen this object is because it was only approximately 150 feet off the ground and the street lights reflecting from its great size allowed me to see these for only 4 seconds at the most, but those 4 sec. have left an impression on me that I'll always remember. After it came over, our two dogs and both neighbors dogs were barking like crazy.  I then ran into the house to get my 3 children.  I was so shook up, I was babbling, trying to explain to them what I had I just seen.I feel really fortunate to have witnessed this phenomenon.  Had I not been where I was and looking up during those 4 seconds I would have never seen this great object.  Like I said earlier there was no sound to alert me to look up.  I was just fortunate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47203.html](http://www.nuforc.org/webreports/reports/047/S47203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
