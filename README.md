@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:46 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:53 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in Berkeley (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Points of light in the night sky in Berkeley followed years later by technological assault in San Jose.In October 1994, about the time of my twentieth birthday, I was in my room on Hillegasse street near the UC Berkeley campus.  I looked out of the window and saw a blip of light moving erratically in the sky.  In a moment, it went away.  I wished that it would reappear, and when I thought this it came back, this time moving in seemingly controlled, deliberate movements, as if it returned because I knew that I wanted it to return.  It seemed as if it had a message for me so I said, “Yes”, obeying it.The sighting seems to be related to an aberration that I heard on my radio, listening to BBC News as I fell asleep the night before I switched on the TV the morning of September 11, 2001 to see the horrors of the disasters in New York City and Washington DC.In November 2001, I was on the light rail in San Jose, when someone technologically assaulted me with a weapon in a pager case.  The weapon flashed rays in my eyes, and the person who assaulted me said, “I forgot”.  The rays reminded me of the acoustic aberration that I heard on the radio that night before the morning of September 11, 2001.   I now know that this person was being used by Fujisankei communications in New York City as a caricature to make money, and by the people of Fujisankei to pass for White people in what is left of South Africa’s apartheid.I have had some difficulty in expressions about seeing and hearing thunderstorms.I have witnessed a more constant point of light in the sky when I was in the Philippines in 2005 and upon my return to the United States in the years since that visit.After the change in the government of Iceland in February, I contacted the Consulates General of Great Britain and Chile in San Francisco, concerning Stonehenge and Easter Island in relation to the 1994 sighting.  Before reaching the consulates, I had only watched Fujisankei on Channel 26, but after my contact I found that Fujisankei was broadcasting on another channel, 60 digital 2, so I have the number two from the rongo-rongo tablets.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70975.html](http://www.nuforc.org/webreports/reports/070/S70975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Big shiny saucers hovering over the astro dome in houston for 3 minutes.Big silver saucer shaped crafts seemed to be hovering over the astro dome. they were not spinning but they were slightly moving up and down. The day was pretty clear with some clouds. they looked as big as a football feild. the crafts seemed to have lights but they werent glowing.after about 3 minutes they shot seperate ways and then up until i couldnt see them anymore.((NUFORC Note:  Source elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25737.html](http://www.nuforc.org/webreports/reports/025/S25737.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
