@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Oak Creek (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At 9:30 in the evening on a clear night,we saw five or six objects over the top of the mountain behind our house.The objects zipped around like fire flies changing direction instantly then hovering in one spot.All objects flashed either red and green lights, or red and white lights. There was no jet sound at all. We watched the objects for approximately fifteen minutes as they moved first to the north, then east then west. They changed direction quicker than any plane could. When they left they went different directions.A few momments after they disappeared a single point of light crossed from south east to north west, again with out any noise.As the light disappeared to the north west a passenger jet flew over. That was the first jet sound we heard during this whole time.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  He appears to us to be quite familiar with the area of the incident.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33969.html](http://www.nuforc.org/webreports/reports/033/S33969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Little River (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Orange Orbs seen in Little River, SCOct. 22, 2014  Report sighting @ Coquina Marina - 4208 Coquina Harbour, Little River, SC 29566. Approx. time 20:45 EST.Description of sighting:  Looked up in the sky after dinner near the outside bar of Clark's resraurant and noticed one large bright orange orb hovering way over the horizon in the sky outside of marina possibly located near the channel or possibly further out above ocean.One orb became two orbs equidistant from the other, then three, then four.  Then four reverted to three then two then one and disappeared.  When asking my Fiance whether she saw the orbs she replied "no" like I was crazy they appeared again and she witnessed the orbs and how they multiplied to four and then disappeared.From more research this looks as if it was a common experience in this area.  Also when locals were questioned some were aware of these glowing orange orbs.  One of the inhabitants of an ocean front Condo in Cherry Grove called Springs Towers had witnessed this occurance on many occasions. Also mentioned under further inquisition were talks of mysterious sonic booms which they called Seneca Booms.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114726.html](http://www.nuforc.org/webreports/reports/114/S114726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
