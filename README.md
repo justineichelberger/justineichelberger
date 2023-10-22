@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:49 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avon (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving light over Avon MassachusettsOn my way to work this morning at about 4:30am as I was exiting rt24 exit 19b in Avon Massachusetts I looked up and saw a bright light. As it came into focus it was the shape of a triangle. It appeared to look like it was a triangular shape white neon tube. It was moving very slowly in an Eastern direction. I immediately slowed and observed. As cars built up behind me I continued off the exit ramp and then turned to see if I could see it and it was nowhere to be found. The whole time I was thinking that I needed to take a picture but for some reason there was some block that physically prevented me from doing this. I am disappointed in myself for not overcoming this and getting out the camera. I feel that the inability to get my camera out was the strangest part. I've never felt like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160133.html](http://www.nuforc.org/webreports/reports/160/S160133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Decatur (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Gray stationary object seen over Tucker area.I saw a dark circular object in the sky over the Tucker, Georgia area as I was waiting to turn onto I-285 in the morning on my way to work (at exactly 7:11 am, still dark out).  I was at the traffic light facing north and noticed the object which appeared to be a great enough distance above the tree line to make me wonder what exactly it was as it did not appear to be a tower, billboard, planet, etc.?  The object was stationary and almost looked like the silhouette of a really tiny planet but obviously within a few miles of my position and not in outer space, at least as far as I could tell.I snapped a couple photo’s with my iphone before the light changed with the thought that I’d relook at the area at another time when it was lighter out and compare my photographs.  I retook the photo this morning (10-23-12) when the sun had started coming up (7:23 am).  I definitely could not see anything in my second photo that could have been the object in my first photo (btw, I am going to try and attach the photos to this word document).In true “UFO Photo” fashion, the picture is grainy and the object looks far off.  For all I know this was some planet or something else obvious.  Either way, I found it interesting and wanted to share.Did anyone else in the Tucker/Decatur area see this thing?  The object I am referring to is the small dark gray circular object in between the two green lights just above where I put an arrow.  The other spots are just reflections on my windshield and stars.  And no, this was not a spot on my window.  I bothered to stick my head outside my window just to double check.Next day photo.  I didn’t see anything that could have been the dark circular object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93805.html](http://www.nuforc.org/webreports/reports/093/S93805.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
