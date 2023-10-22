@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:49 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Heading Southeast, silently, at a high rate of speed at low altitude, two circles side by side which were part of the same structure.My fiancé and I saw at about 8:10PM in Redondo Beach heading Southeast, silently, and at a high rate of speed at low altitude, two circles side by side which were obviously part of the same structure, and were the bottom of a larger rectangular body.  It was faintly lit, and it was only visible for approximately 5 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136923.html](http://www.nuforc.org/webreports/reports/136/S136923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newberry (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 12.0 - 12.0 minutes.</sub><blockquote><sub>Orange and Silver lightI was letting our dog out and had glanced at the wall clock just before letting him out. The time was showing as 20:07. As I opened the screen door of the back porch I noticed an extremely bright orange light. This light seemed to be at an extreme distance and was about 45 degrees off the horizon and a few degrees off of due east. The light was brighter than the stars surrounding it and at first I thought it was Mars, but it was much brighter and the color was orange. I immediately sat down on the porch and braced my back and the back of my head against the wall. In this way, I could maintain my viewing angle without my heading moving. The object was moving at times albeit slowly. From my perspective it seemed to move up and down, as well as back and forth. Over that time I watched it move from almost directly east to a SSE direction and also from 45 degree angle in the sky to about 40 degrees. At the end of the encounter it began to dim out in 3 phases. Not a slow diminishing of its brightness but in phases. The time that I last saw it was 20:20. At 2 points during this viewing, it seemed as if I also saw a smaller, silver undefined shape of something moving around the orange light. This other object was never in my sight more than 2 seconds each time. I cannot rule out that it was not some kind of parachute flare, but it was at a high altitude and lasted for at least 13 minutes that I can attest. I have seen parachute flares in the past and they were much lower and did not burn as long. A flare would not account for the other object I saw though.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160148.html](http://www.nuforc.org/webreports/reports/160/S160148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
