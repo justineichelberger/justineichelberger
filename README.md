@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Huge bright light drops right over the tree tops.I just received a call from a local resident who was witness to an amazing sight just west of Houston on October 22, 2003 at 7:00 p.m. pst. The lady had phoned to see if anyone else in the area had made a report on the object. The lady was on her way back home from Smithers, British Columbia which is about a 45 minute drive from Houston. She had a number of young girls with her as she was bringing them back home from a dance rehearsal which they were attending in Smithers. As she made her way up Hungry Hill, and driving slowly due to the foggy condition and just as the lady was to break out of the fog she noticed a extremely bright white object a head of them and not very high up in the sky. As they motored along the object dropped quickly from the higher altitude to just above the tree tops, still moving towards the west, or in the Smithers direction. (HBCC UFO Note: The witnesses said the white light was so low over the tree tops she thought it was going to hit). She told me her first thought it was an airplane when it was at the higher altitude, but when it dropped so suddenly she ruled that idea out, still not knowing what it was she was observing. The lady went on to say the object/light was huge. Flat like a dinner plate with something hanging from the bottom of it, there was one single green light on the object on the bottom. She mentioned that they were maybe only a half mile away from the object at it's closet point to them. The witness also said at one point the object moved in different directions carrying these maneuvers out very rapidly. The lady said she wanted to stop to take a good look due to her driving the car, but all the young kids in the vehicle were very frightend so she kept traveling along slowly and glancing behind her from time to time until the object/light had disappeared from her sight. There was no sound heard coming from the object, she did say they had the radio on, but it was turned off when they spotted the object and the car window rolled down. Thank you to the witness for the report. Brian Vike, Director HBCC UFO Research Canadian Toll Free UFO Hotline 1 866 262 1989 - Free call.Home - Phone/Fax 1 250 845 2189 HBCC UFO Forum Board http://216.147.50.102/HBCC-UFO/index.php email: hbccufo@telus.net Website: http://www3.telus.net/public/wilbur8/hbcc_ufo_research.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32585.html](http://www.nuforc.org/webreports/reports/032/S32585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bourne (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Star like objectMy son and I were heading out and noticed in the eastern sky what  We thought was a star, however it seemed too large and too low to be a star.After taking a photo of it and zooming on on the shot it appears to be half moon shaped.It remained there for several hours and disapeared when the sun came up.This evening when the sun went down we looked for the object in the Event it was a star and it is gone!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93781.html](http://www.nuforc.org/webreports/reports/093/S93781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
