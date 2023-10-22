@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dover (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>To whom this may concern and please take seriously, We could not contact or find a no. to call.While looking at the northen star on 10/22/03 noticed movement below it.Also shaped like a star from the long distance we looked upon it we knew it wasn't.I'm sure you hear this all but this thing hovered,slowly then zipped back and forth and stopped momentarily and continued to do this for hours.Also it seemed to have something like a halo around it.My partner said the light sometime changed to red and green.3 hours later i went out curious and it was still there but still slowly moving west like before.Then i noticed the other,directly to the east,doing exactly the same as the one i just described.There were 2 of them.The second one not moving as rapidly as the first but still darting back and forth.It wasn't a plane and to my knowledge satellites don't hover and then zig zag all over and then hover again,this movement was far to rapid.Was truly amazing to watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32661.html](http://www.nuforc.org/webreports/reports/032/S32661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Light flashing and moving in circular montion and up and down.  Close tho a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93788.html](http://www.nuforc.org/webreports/reports/093/S93788.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
