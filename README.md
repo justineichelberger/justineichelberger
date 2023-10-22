@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:47 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw a flying Saucer over Lakeland Florida, and also it was reported the next day in the Lakeland Ledger newspaperMy father, his friend, me and my husband were driving home from Red Lobster restaurant on Lake Parker.  When we turned down to Lake Parker drive past the Lakeland High School we saw a saucer/disk flying object in the sky.  It had rotating lights.  We continued on Lake Hollingsworth drive to Cleveland heights boulevard where we travelled south past the cleveland heights high school.  Off of Cleveland heights we parked to drop off my fathers friend.  We parked the car and got out and watched the object for about 15 minutes.  It made no noise. No humming, no sound. We thought this was very unusual. We went inside the friends house for a short time. When we left the friends home, the flying saucer/UFO was gone.  The next day in the Lakeland Ledger Newspaper, their was a headline on the paper which said. "What was that object over LakeLand last night".  This is factual, and documented.  My husband and I are conservatinve people.  We are in our 70's and 80's.  I am not certa! in about the day.  But am fairly certain the event happened in October.  But most likely in the fall.  This narrative summary above is being reported by my son in law with my permission. I wish to remain anonymous.  Please refer to the 1968 Lakeland Ledger files.  Possibly this is on Microfiche?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79344.html](http://www.nuforc.org/webreports/reports/079/S79344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Unfathomable beauty in the sky in the form of something which I cannot explainWhen I came across the Seattle Space Needle, a formation of people was standing around. In the sky, suddenly I heard a big bang, and as I looked up, at first I saw nothing. I really don't know how to describe what happend next.  A wave of relaxation sprung through my limbs and into my fingers. I could even fell the sting in my finger nails. It felt like when you fall asleep and accidently block the passage of blood to your arm, and a million ants start to crawl up the muscles, chewing away. As this happened, it was as if (and this part will sound most strange) me and this formation of people, suddenly felt the same thing. But not merely felt the relaxation, but felt instead  each other.As if there was a third arm infront of me, I would try to move it, but could not. Another bang interupted the flow and the most beautiful thing I've ever seen appeared infront of me. I could not begin to explain it. I can hardly even remember the shape of it, as if my brain is unable to fathom it's form. I feel strange even typing this. There were five of these things, and they flew perhaps a 1000 feet above us , watching. Seconds later, they were gone. We just looked at each other, as if in denial, looked at each other with this look that I'll never forget, as if we were discusted with the other persons behaviour. As if the moment it happened, we didn't believe it. That is why I write this so late. I hope that others do the same, so that the story goes out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84716.html](http://www.nuforc.org/webreports/reports/084/S84716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
