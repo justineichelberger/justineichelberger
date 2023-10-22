@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:47 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Light flashing and moving in circular montion and up and down.  Close tho a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93788.html](http://www.nuforc.org/webreports/reports/093/S93788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Lakeland (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>We saw a flying Saucer over Lakeland Florida, and also it was reported the next day in the Lakeland Ledger newspaperMy father, his friend, me and my husband were driving home from Red Lobster restaurant on Lake Parker.  When we turned down to Lake Parker drive past the Lakeland High School we saw a saucer/disk flying object in the sky.  It had rotating lights.  We continued on Lake Hollingsworth drive to Cleveland heights boulevard where we travelled south past the cleveland heights high school.  Off of Cleveland heights we parked to drop off my fathers friend.  We parked the car and got out and watched the object for about 15 minutes.  It made no noise. No humming, no sound. We thought this was very unusual. We went inside the friends house for a short time. When we left the friends home, the flying saucer/UFO was gone.  The next day in the Lakeland Ledger Newspaper, their was a headline on the paper which said. "What was that object over LakeLand last night".  This is factual, and documented.  My husband and I are conservatinve people.  We are in our 70's and 80's.  I am not certa! in about the day.  But am fairly certain the event happened in October.  But most likely in the fall.  This narrative summary above is being reported by my son in law with my permission. I wish to remain anonymous.  Please refer to the 1968 Lakeland Ledger files.  Possibly this is on Microfiche?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79344.html](http://www.nuforc.org/webreports/reports/079/S79344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
