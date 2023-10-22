@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:45 on 21 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ankeny (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Amber lit triangle passes above Ankeny,IA.I was sitting out on my back deck watching the meteor shower that was just starting in my area.  This was at 12:10am on the 21 of October.As I was laying on my back looking up at the stars I seen a movement, or blur.  It was a faint gray streak or something. I'm not sure.  As I was looked I noticed a very dim amber light, as I focused more; I seen 9-10 very dim amber lights in the shape of a "&gt;".I couldn't believe what I had seen so I sat up, and watched it pass through the sky right above me.As I sat in disbelief, I listened for any noises that might follow what I just seen.  Nothing followed.  Not a single peep of noise.  The lights passed by pretty quickly, lasting about 5-6 seconds.It seemed to very close, or very large.  But no noise at all. Just smooth steady and fast!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114895.html](http://www.nuforc.org/webreports/reports/114/S114895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 distinct colored lights hovering over the city in the daytimeI was driving and seen 3 distinct lights just hovering there in the middle of the sky up ahead. I stopped and took a few pictures of it, my friend was with me and took 2 of the pics. There was nothing around that could have reflected onto the sky and it wasnt during sunset when the sky can have many different colors. I looked at it a few min. later and it looked like it was starting to fade (I had to get back in and continue driving) and that was all I seen of it.((NUFORC Note:  Time is not specified by witness.  We have assigned an arbitrary time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53419.html](http://www.nuforc.org/webreports/reports/053/S53419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [356](http://www.nuforc.org/webreports/reports/165/S165076.html)
-- [355](http://www.nuforc.org/webreports/reports/165/S165046.html)
-- [354](http://www.nuforc.org/webreports/reports/165/S165016.html)
-- [353](http://www.nuforc.org/webreports/reports/165/S165015.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165063.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
