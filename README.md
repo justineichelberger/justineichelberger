@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:25 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Monterey (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 very bright white light larger than planets 2 nearby one another 3 a different location i 2 minutes still then completely fading awayLast night approxiamately 9pm my son, myself and a friend witnessed 3 ufo's 2 were near one another in the night sky very large white lights one was a different location white lights larger The 2 and the other one were so bright and staying still they were all 3 extremely bright and then all 3 faded out and disappeared at the same time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59399.html](http://www.nuforc.org/webreports/reports/059/S59399.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dover (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>To whom this may concern and please take seriously, We could not contact or find a no. to call.While looking at the northen star on 10/22/03 noticed movement below it.Also shaped like a star from the long distance we looked upon it we knew it wasn't.I'm sure you hear this all but this thing hovered,slowly then zipped back and forth and stopped momentarily and continued to do this for hours.Also it seemed to have something like a halo around it.My partner said the light sometime changed to red and green.3 hours later i went out curious and it was still there but still slowly moving west like before.Then i noticed the other,directly to the east,doing exactly the same as the one i just described.There were 2 of them.The second one not moving as rapidly as the first but still darting back and forth.It wasn't a plane and to my knowledge satellites don't hover and then zig zag all over and then hover again,this movement was far to rapid.Was truly amazing to watch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32661.html](http://www.nuforc.org/webreports/reports/032/S32661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
