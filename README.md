@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:50 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:57 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lodi (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 distinct colored lights hovering over the city in the daytimeI was driving and seen 3 distinct lights just hovering there in the middle of the sky up ahead. I stopped and took a few pictures of it, my friend was with me and took 2 of the pics. There was nothing around that could have reflected onto the sky and it wasnt during sunset when the sky can have many different colors. I looked at it a few min. later and it looked like it was starting to fade (I had to get back in and continue driving) and that was all I seen of it.((NUFORC Note:  Time is not specified by witness.  We have assigned an arbitrary time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53419.html](http://www.nuforc.org/webreports/reports/053/S53419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kaneohe (HI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Oval bright red object with yellow flickering light in the middle, moving slowly then stayed still.Object was moving slowly, then stayed still, clearly visible. It was seemed less than a mile up in the sky.  Oval shaped, bright red on left and right with a flickering yellow flame-like light in the middle.I thought it was a hot air balloon, but the flame was in the middle, not below the object.I went to get my son to see it, but could not find him, so I grabbed my camera, but by then the object was too far to see in the camera and then disappeared into a distant cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103523.html](http://www.nuforc.org/webreports/reports/103/S103523.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
