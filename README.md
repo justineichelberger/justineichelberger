@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wentzville (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was outside smoking a cigarette after work, facing North West. I noticed this object, which I thought was a plane at first.  I was looking to see if it had moved.  Placing this object with another object to see if it was going farther away.  It just stayed in the same spot.  During the seventeen minutes of staring at this object I noticed bright green and white spots on the object and two bright lights, and what seemed to be moving up and down.I ran inside to grab binoculars, when I came back the object had moved about three miles more to the North West and farther away.  I looked at it through the binoculars and it was a triangular shape.  The triangle was outlined in bright green and the center was white.  The triangular object was very bright, neon almost.  It kept rotating, but stayed the same shape.  The object appeared to be spinning every few minutes.I went back inside to grab my phone, which took me about 30 seconds.  When I came outside the object was gone.  Nowhere in sight. I know what I saw, I can't grasp what I saw.  I researched any possibility of it being anything other than a UFO and found nothing.  Hoping someone else saw what I saw.Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103469.html](http://www.nuforc.org/webreports/reports/103/S103469.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redondo Beach (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Heading Southeast, silently, at a high rate of speed at low altitude, two circles side by side which were part of the same structure.My fiancé and I saw at about 8:10PM in Redondo Beach heading Southeast, silently, and at a high rate of speed at low altitude, two circles side by side which were obviously part of the same structure, and were the bottom of a larger rectangular body.  It was faintly lit, and it was only visible for approximately 5 seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/136/S136923.html](http://www.nuforc.org/webreports/reports/136/S136923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
