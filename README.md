@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 22 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cameron Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright stationary lights above hill, low in the sky. Disappeared after about 3 minutes.Noticed 3 lights reflected in bathroom window. Went to hallway to see what could be making the reflection. Couldn't locate anything, so I went to the bathroom again and climbed up on toilet to look out window. Saw 3 bright stationary lights, equally separated from eachother over house tops & above hill. Above the level of houses on the hill. Looked like floodlights high above the hill.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59407.html](http://www.nuforc.org/webreports/reports/059/S59407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Avon (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving light over Avon MassachusettsOn my way to work this morning at about 4:30am as I was exiting rt24 exit 19b in Avon Massachusetts I looked up and saw a bright light. As it came into focus it was the shape of a triangle. It appeared to look like it was a triangular shape white neon tube. It was moving very slowly in an Eastern direction. I immediately slowed and observed. As cars built up behind me I continued off the exit ramp and then turned to see if I could see it and it was nowhere to be found. The whole time I was thinking that I needed to take a picture but for some reason there was some block that physically prevented me from doing this. I am disappointed in myself for not overcoming this and getting out the camera. I feel that the inability to get my camera out was the strangest part. I've never felt like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160133.html](http://www.nuforc.org/webreports/reports/160/S160133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [367](http://www.nuforc.org/webreports/reports/165/S165026.html)
-- [366](http://www.nuforc.org/webreports/reports/165/S165011.html)
-- [365](http://www.nuforc.org/webreports/reports/165/S165101.html)
-- [364](http://www.nuforc.org/webreports/reports/165/S165039.html)
-- [363](http://www.nuforc.org/webreports/reports/160/S160229.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
