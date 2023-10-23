@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:37 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Glendale () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star like shapes moving and then forming a conveyor like line in sky.Leaving for work early on Saturday I left my front door and immediately noticed there were much more stars out than normal (maybe 25-40 more) which drew my attention to the sky. I realized not only were there more stars but they were moving erratically back and forth for 2-3 seconds. They drew in closer and then almost instantaneously they formed into a straight line and started moving from the southwest sky towards the Big Dipper (northwest) like a conveyer belt. It reminded me how traffic would look on a freeway in a single lane. They were not equal distance Sparta and moved each at different speedsI tried to keep count but there was more appearing from what looked like nowhere. At least 70-100 total continuously headed toward the Big Dipper and then disappeared into the sky. It took up the entire span of the sky and lasted for 5 minutes. I could tell this was fat and not in our atmosphere. I woke my wife up to see the event as well. After roughly 8-10 min! utes the event ended and I could no longer see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150981.html](http://www.nuforc.org/webreports/reports/150/S150981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellicott City (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>Two white rectangular objects hovering in sky just before sunset.  Two white rectangular objects about 20 - 25 degrees above the eastern horizon.  Noticed three consecutive days between 6:15 and 6:30 pm.  Same distance apart each day.  Objects were stagnant and hovered (no movement in either horizontal or vertical direction).They were not emitting light because they were getting dimmer as it was getting darker indicating they reflecting off light from Sun.  As they were higher up in the sky than trees objects and homes on ground, they were brighter as long as sun set completely in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123124.html](http://www.nuforc.org/webreports/reports/123/S123124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
