@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ellicott City (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately Several hours - Several hours minutes.</sub><blockquote><sub>Two white rectangular objects hovering in sky just before sunset.  Two white rectangular objects about 20 - 25 degrees above the eastern horizon.  Noticed three consecutive days between 6:15 and 6:30 pm.  Same distance apart each day.  Objects were stagnant and hovered (no movement in either horizontal or vertical direction).They were not emitting light because they were getting dimmer as it was getting darker indicating they reflecting off light from Sun.  As they were higher up in the sky than trees objects and homes on ground, they were brighter as long as sun set completely in the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123124.html](http://www.nuforc.org/webreports/reports/123/S123124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prespa region (Macedonia) () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I am writting you this letter because i found out that there has been no report from my country, and there were some events that happend from several years ago that are worth mentioning.I live in Bitola , Macedonia.There were some appearances that i personally saw,some 5-6 yrs ago.There were some reports in the newspapers and TV about people seeing strange lights and objects (not airplains for sure) that appeared in the Prespa Lake area and in the outskirts of town of Stip.I saw the report from Thessaloniki( Solun, as we call it) , and it is 180 km from Prespa region where those events also happened.There might be some coincidence, but i think it happened about 22 23 october this year. There were also apearrances during bombing Jugoslavija that might look suspicious because of the activity that was realy big(warplanes over our heads non-stop),but that was really somethinf different. ((name deleted)), Bitola, MK((NUFORC Note:  We express our gratitude to the gentleman who submitted the report.  We suspect there are many other sightngs that have gone unreported, not only from Macedonia, but from all other countries around the world.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14800.html](http://www.nuforc.org/webreports/reports/014/S14800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
