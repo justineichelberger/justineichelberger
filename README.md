@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:50 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Random lights over the oceanAfter dark, we saw random lights in the sky, directly out over the ocean, going on and off and in different places.  The lights were bright, yellowish, and looked very similar to the landing spotlight of a large airplane. We would see anywhere from 1 to 5 at once, in various random positions, as if a formation of many random aircraft were turning spotlights on and off in no particular patterns or arrangments.  If I had to guess I'd say they were several miles out to sea, but looked as bright as the ones taking off from the Myrtle Beach airport which were much closer. This went on for almost 1 1/2 hours.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69885.html](http://www.nuforc.org/webreports/reports/069/S69885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Nolensville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Military helicopter gives chase at unknown aircraftA miliary UH-60 blackhawk helicopter was hovering above my house, it kept turning various degrees around like it was looking for something, I went inside my house grabbed my camera and started taking pictures, when suddenly a strange craft was at the helicopters 3 oclock position, I stapped a picture of it, withing a milisecond it shot past the helicopter and was gone the helicopter took chase in the direction that the strange object went, I still have the photo and have let only family view it, They find it strange also. Just fyi the helicopter had no markings on it whatsoever. I should know I spent 4 years in the army rapelling and jumping out of them with the 3rd Ranger Batt. Ft. Benning , GA.((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/058/S58330.html](http://www.nuforc.org/webreports/reports/058/S58330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
