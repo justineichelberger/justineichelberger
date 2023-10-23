@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:28 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:37 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Mirada (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single orange glow, very bright orange light traveling across the skyLocation: La Mirada, Orange County California Date: 10/23/04 Time: 11:15pm Witness: 6 people  Full moon around 11:15 pm (PST) saw a single orange light, very bright and glowing. Close to the moon as it traveled across the sky. We were watching it for 3 minutes. Then the orange glowing light stopped and it was just stationary for about 30 seconds. Then, suddenly I saw a plane coming. Looks like a military jet but no sound. It has 3 dim white lights. One on the right wing the other on the left wing. The 3rd light was on the nose of the jet plane. As this jet plane (I'm sure it was a military jet but it didn't make any sound?! And my view was as if i was looking at the bottom of the plane so kinda look like triangle becaue of the 3 dim white lights.)It was moving very fast and as soon as it passed the orange glowing light, (the Orange light was higher than the jet) the orange glowing light started to get smaller and smaller. It was so tiny but i could still see this orange bright light until it disappeared. There were 6 of us who saw this. Me my wife, my two daughters (ages 8 and 6) and my wife's step mom (who saw it first). Amazing! I couldn't sleep. I called 4 city's police dept. to find out if other people reported it, but nothing. I logged in the internet and type in search UFO Reporting and that's how i saw your site. I called your hotline (202) and a recording lead me to this form report. I also went online-chat to talk about it. I have to let somebody know. It was an amazing, unbelievable experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39916.html](http://www.nuforc.org/webreports/reports/039/S39916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Glendale () reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star like shapes moving and then forming a conveyor like line in sky.Leaving for work early on Saturday I left my front door and immediately noticed there were much more stars out than normal (maybe 25-40 more) which drew my attention to the sky. I realized not only were there more stars but they were moving erratically back and forth for 2-3 seconds. They drew in closer and then almost instantaneously they formed into a straight line and started moving from the southwest sky towards the Big Dipper (northwest) like a conveyer belt. It reminded me how traffic would look on a freeway in a single lane. They were not equal distance Sparta and moved each at different speedsI tried to keep count but there was more appearing from what looked like nowhere. At least 70-100 total continuously headed toward the Big Dipper and then disappeared into the sky. It took up the entire span of the sky and lasted for 5 minutes. I could tell this was fat and not in our atmosphere. I woke my wife up to see the event as well. After roughly 8-10 min! utes the event ended and I could no longer see anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150981.html](http://www.nuforc.org/webreports/reports/150/S150981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
