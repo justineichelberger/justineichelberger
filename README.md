@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:49 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:46 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Two Harbors (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>This really happened and I would like an explanation! Read it and believe it.I was getting into our hot tub out off of our deck. As always I look up and enjoy the stars. I've been a star gazer my whole life. I have NEVER SEEN ANYTHING LIKE THIS BEFORE!  The thing was flying across the sky heading due south and off to the east a bit, not directly overhead.  One red light very dim with two sets of two directly behind. the whole thing was very small which I believe to be actually very high in the sky. -Unbelievably- fast and the real thriller is the ((deleted)) thing slowed to almost a stop and took off in another direction. I couldn't believe my eyes. I tried to write it off as a helicopter but I heard NO SOUND. My wife and friend came out shortly after and we hung out for a while. I told them what I saw and I don't think they believe me.  Anyway we soaked in the tub for a while and my wife went in the house. Our friend and I sat for a bit longer and intrigued  I kept watching the sky.  A few meteors throughout about an hour and one thing blew my mind.  It started out like a meteor but in the direct opposite path of the first unexplainable object.  It was a light that appeared and faded out like a meteor but it reappeared and faded and appeared again across the entire sky due north. I of course yelled for our friend to look but she didn't see it. This too was going incredibly fast. O.k. Now I'm starting to freak out a bit.  I've always believed in Carl Sagan about being alone. The real clincher is and this just happened one hour ago is that goddamn red thing went back south again in the exact same path. one red light very dim with two sets of two.  if you weren't looking you wouldn't see it at the same speed and damn near the same path.  It wasn't an aircraft of anything conventional. No disc shapes either. it was too high and way too fast for anything I have ever seen. I have always thought there has to be life out there but now i have NO DOUBT. I would appreciate and explanation of what it was I saw tonight. Duluth has a state of the art airguard base and I bet they know what !  it was or if they don't they BETTER because if what I saw is hostile we are doomed.((NUFORC Note:  We do not know what the first object was, the the intermittent light, which moved from north to south, may have been a tumbling rocket booster in orbit.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53055.html](http://www.nuforc.org/webreports/reports/053/S53055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>We have been seeing the same shaped object over a certain area for a few weeks now.  Numerous people have seen it and also have contacted the local news.We also ahve some video and pictures of the objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84771.html](http://www.nuforc.org/webreports/reports/084/S84771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
