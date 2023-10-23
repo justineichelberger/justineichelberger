@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big Brown Bird in night sky like a huge V no wing movement.So i step outside for a cigarette and start watching the sky facing east.  Suddenly something blurry drifts past my vision.  I turn my head to watch where its going.  It looked almost brown compared to the sky.  It was in the shape of a V.  It flew really low compared to an airplane.  It wasnt as big as a 747 it think theyre called.  But way bigger than a bird. I ran to the other side of the building to confirm but it faded form my sight.  Like it got to far away to see. It was flying south. It had no lights, and no sound.  It seemed to just glide.  It seemed to slow to stay in the air.  For a moment I thought it was my eyes playing a trick on me but it blocked star light as it passed. Im certain I saw something but I still wanna know if anyone else saw it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103548.html](http://www.nuforc.org/webreports/reports/103/S103548.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright white oval of light moving slowly towards groundI was driving west on a main surface street in Baton Rouge when I noticed a large oval of extremely bright white light in the sky to the west of my location.  My initial thought was it was on a tower, but I realized there are no tall radio towers in the area where this light was.  Besides which, I make this trip several evenings a week and had never seen the light.  My next realization was that it was moving, very slowly, appearing to move from west to east (towards me) and coming closer to the ground.  The light appeared to be about 2-3 miles distant, but this is just a guess.  It was not landing lights on an aircraft-I have lived by airports before and am familiar with these.  Plus the light was much larger than landing lights would be, and the airport is in a different direction.  As I drew closer, I started thinking that perhaps it was a series of large bright lights, as opposed to 1 large oval light.  I thought it might be a helicopter, but the light(s) was too wide to be on a helicopter.  By this point I had been watching the light(s) as I drove for approximately 5 minutes.  The light(s) was getting lower and lower.  There was nowhere on its line of decent for a helicopter to land, so if it was a helicopter of some sort, I don't know what it was doing.  Of course, I don't know what a UFO would be doing landing in a residential section of Baton Rouge, either.  At this point I had to make a turn in order to reach my destination, and as I was already late to pick up my daughter, I chose to make the turn and lose sight of the light(s).  When we returned to that road about 5 minutes later, the light was gone.  As I said before, I have lived near airports before--both military and civilian--and did not recognize the shape of the light(s). I was more than a little bit spooked.  The road I was on was not crowded at this time of the evening, but it was by no means empty.  Other people had to have seen the light(s) too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59408.html](http://www.nuforc.org/webreports/reports/059/S59408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
