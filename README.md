@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:29 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:01:07 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Mumbai (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>It glowed with a redlight in the sky. It moved horizontally and vertically a little. It looked like a star but it wasn't one. I just woke up due to cold and while I was about to sleep I looked at it through the window. I don't know when it disappeared. It wasn't a dream or something like that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10308.html](http://www.nuforc.org/webreports/reports/010/S10308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Copenhagen (Denmark) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Rectangular shaped, Silvery, Still on the sky for 3 hours, Finally converted into colorful lightsOn a cloudless night, my mother and her husband made the sighting as reflected in the enclosed images. The area where they live is aproximately 80 km. south of Copenhagen and very scarcely populated. The area do not have any elevated points, nowhere within hundreds of kilometers does the land rise above 15 meters.The craft remained on the sky, absolutely still (3 images) for over 3 hours but finally converted into a series of lights (4th image). No sound was registered. The object could be anywhere from 10 to 100 km's away. According to the witnesses there is absolutely no conventional explanation. To our knowledge, there has been no concurrent reports on the sighting.I have absolutely no doubt of their testimony. My sole intention (in fact) of sending you the 3 images is that you might be able to synthesize them into 1 in order to provide an resolution-enhanced one. I gather that to do that well is a very complicated process.Best regards, Ph</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59803.html](http://www.nuforc.org/webreports/reports/059/S59803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
