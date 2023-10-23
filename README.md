@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:46 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:46 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Silverdale (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Lights in the skySame time, while we were shutting the gate, now we go back to look to see if there are any lights - the last few days have been too foggy, but it was a clear night on the 23rd of October.  we saw the lights that we have been seeing during this month.  Again same brightness of light, and stationary in the sky.  They seem to dim then move then go very bright again.  Both my husband and I both use our film cameras now to capture the images - on closer inspection these lights or craft - whatever they are, seem to be in constant motion, almost like they are pulsations of energy, it is very strange to observe.  I also managed to film the Moon - which was very orange, and two of these lights in the same part of the Sky.  We have seen another light tonight 25th of October - same time as always, I always take my camera, and I have filmed it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103675.html](http://www.nuforc.org/webreports/reports/103/S103675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Big Brown Bird in night sky like a huge V no wing movement.So i step outside for a cigarette and start watching the sky facing east.  Suddenly something blurry drifts past my vision.  I turn my head to watch where its going.  It looked almost brown compared to the sky.  It was in the shape of a V.  It flew really low compared to an airplane.  It wasnt as big as a 747 it think theyre called.  But way bigger than a bird. I ran to the other side of the building to confirm but it faded form my sight.  Like it got to far away to see. It was flying south. It had no lights, and no sound.  It seemed to just glide.  It seemed to slow to stay in the air.  For a moment I thought it was my eyes playing a trick on me but it blocked star light as it passed. Im certain I saw something but I still wanna know if anyone else saw it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103548.html](http://www.nuforc.org/webreports/reports/103/S103548.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
