@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:46 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:50 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dix Hills (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue Trailing Fireball falling out of the sky at incredible speed.Me and my friend were standing in the street by his car when I see his face look up in shock.He tells me to turn around and asks me what the heck that is.It was a blue fireball about the size of my hand with a trail that resembled a huge shooting star as if it was only about 2500 feet away falling out of the sky from west to east at an incredible speed.The most bizarre thing about it was it changed colors from white to blue then orange before it disappeared from sight. I tried to find the landing pint but couldn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114835.html](http://www.nuforc.org/webreports/reports/114/S114835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in North Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Random lights over the oceanAfter dark, we saw random lights in the sky, directly out over the ocean, going on and off and in different places.  The lights were bright, yellowish, and looked very similar to the landing spotlight of a large airplane. We would see anywhere from 1 to 5 at once, in various random positions, as if a formation of many random aircraft were turning spotlights on and off in no particular patterns or arrangments.  If I had to guess I'd say they were several miles out to sea, but looked as bright as the ones taking off from the Myrtle Beach airport which were much closer. This went on for almost 1 1/2 hours.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69885.html](http://www.nuforc.org/webreports/reports/069/S69885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
