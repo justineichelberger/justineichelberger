@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:28 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Livermore () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In my driveway looking up,I noticed what I thought were two planets lined up.I Realized one was moving high in the sky towards my direction.It was very bright.  Suddenly it split into two pin points of light, that rapidly blinked intermittently as it moved, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150119.html](http://www.nuforc.org/webreports/reports/150/S150119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in La Mirada (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Single orange glow, very bright orange light traveling across the skyLocation: La Mirada, Orange County California Date: 10/23/04 Time: 11:15pm Witness: 6 people  Full moon around 11:15 pm (PST) saw a single orange light, very bright and glowing. Close to the moon as it traveled across the sky. We were watching it for 3 minutes. Then the orange glowing light stopped and it was just stationary for about 30 seconds. Then, suddenly I saw a plane coming. Looks like a military jet but no sound. It has 3 dim white lights. One on the right wing the other on the left wing. The 3rd light was on the nose of the jet plane. As this jet plane (I'm sure it was a military jet but it didn't make any sound?! And my view was as if i was looking at the bottom of the plane so kinda look like triangle becaue of the 3 dim white lights.)It was moving very fast and as soon as it passed the orange glowing light, (the Orange light was higher than the jet) the orange glowing light started to get smaller and smaller. It was so tiny but i could still see this orange bright light until it disappeared. There were 6 of us who saw this. Me my wife, my two daughters (ages 8 and 6) and my wife's step mom (who saw it first). Amazing! I couldn't sleep. I called 4 city's police dept. to find out if other people reported it, but nothing. I logged in the internet and type in search UFO Reporting and that's how i saw your site. I called your hotline (202) and a recording lead me to this form report. I also went online-chat to talk about it. I have to let somebody know. It was an amazing, unbelievable experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39916.html](http://www.nuforc.org/webreports/reports/039/S39916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
