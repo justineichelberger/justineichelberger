@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:39 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Everett (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>Single bright light. Got brighter. DisappearedBright light floating slowly down, shot down quickly got brighter then disappeared. Looking west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150159.html](http://www.nuforc.org/webreports/reports/150/S150159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fort Collins/Loveland (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately an hour - an hour minutes.</sub><blockquote><sub>me and two friends were looking into the sky over northern colorado at around 9:30 pm, not even an hour after i saw a large low flying triangle go directly over the house. yes it was a ufo. it was only about 200 feet up. we saw several, 30 or so, lights shooting through space. these werent stars or anything. they were mooving at steady speeds and looked to be turning every once in a while. its not just those though.  if you wait long enough, every time i look in the night sky i see one or two. they are always up there. it looks like a plane at 1st but then the light doesnt flash. and its much much too high up for that. and its faster than any plane ive ever seen. call it what you want. but there are ufo's over us every night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84735.html](http://www.nuforc.org/webreports/reports/084/S84735.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
