@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:41 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 23 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Weehawken (NJ) reported seeing craft that fit the description of some 'other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Summary : Green orb without streaking, incoming over Hudson River between NYC & NJ. A high-speed descent that looked like it was destined to crash, but now flashes of light were seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02785.html](http://www.nuforc.org/webreports/reports/002/S02785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Shepherdsville (KY) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large Amber light, no other light to tell what it wasI thought it was a plane coming in to the airport but the light was Amber in color and it went behind a tree.  The object took a quick right and headed off to the North towards Indiana and faded out of sight.  I seen this same object the night before on 10/22/16 at around the same time but another larger object came out from behind a tree and chased after it.  Larger object had two huge red lights on the rear of it but I couldn't make out exactly what its shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130798.html](http://www.nuforc.org/webreports/reports/130/S130798.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/165/S165088.html)
-- [388](http://www.nuforc.org/webreports/reports/165/S165049.html)
-- [387](http://www.nuforc.org/webreports/reports/165/S165048.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165051.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165023.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
