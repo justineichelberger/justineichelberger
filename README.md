@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:49 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>streaking brilliant lightMy 10 year old son and I were at Walla Walla park in Wenatchee.  The time was approximately 1800-1900 HRS. We were walking to our truck, my son ahead of me.  I saw that he had froze and he was looking up.  I also looked up to see a bright object shooting north, north east direction. There was no tail or smoke.  It was still day light and no clouds in the sky.I am sorry for not noting the time, I did not know of this reporting system until this morning.My sighting lasted 3-5 seconds, longer for my son.  It may have lasted longer but we lost sight of it as it was blocked by Birch Mountain.BIO:  Commissioned police officer, former military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84855.html](http://www.nuforc.org/webreports/reports/084/S84855.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Orange lights were seen hovering over the ocean. These lights created lines of upto 4 lights then quickly dissipating.Orange lights were seen in the sky over myrtle beach.  They were circle in shape an would appear then disappear, there were single double an even a 4 light pattern that were in straight lines.  They would become very bright and feminist within ten seconds, over 20 seperate lights were seen.  The 4 light line came from one single light that then spread out into 4 seperate lights.  All were seen toward the ocean and became larger and higher in the sky as approaching the coast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93853.html](http://www.nuforc.org/webreports/reports/093/S93853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
