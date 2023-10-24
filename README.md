@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:26 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bloomsburg (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving in the car with friends when one of them pointed out what they thought was a shooting star. We all looked up at the 'star' and it turned out to be this big, long string of lights that was moving very rapidly.  We watched it as I drove for about 3 minutes and then all 5 of us suddenly lost sight of it. The craft was very long and looked like a string of Christmas lights, moving perfectly straight through the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160185.html](http://www.nuforc.org/webreports/reports/160/S160185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rochester (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>In the sky about 200 feet in the air was 2 round lights yellow the size of a mini van and they had beams of light coming down to about a foot off fround then as I watched they just kept spinning in circles and more and more kept joing so I ran this was on Chestnut st.  In Rochester, NH.((NUFORC Note:  We attempted to telephone the source of the report, to establish whether it is intended as a serious-minded account, and we were unable to reach the person.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143583.html](http://www.nuforc.org/webreports/reports/143/S143583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
