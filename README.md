@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:47 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:46 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morden, Surrey (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Discs over Morden, Surrey UKI submitted a report last night regarding orange craft seen over Morden by my partner's best friend who called me as he knows I have an interest in the unexplained and therefore would take him seriously and not laugh it off.Tonight, half an hour ago [the time is now 21.30] he called again asking to speak to me and said that this afternoon at 16.00 he saw 5 silver coloured discs in the sky coming from the Rosehill [Carshalton] area travelling towards Mitcham.He has asked that I again report this, which obviously I am.  I have been watching the skies today but haven't seen anything myself.  Our friend is still with panic in his voice and was asking me about crop circles and again about 2012.My own views on 2012 are not for this report database.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72993.html](http://www.nuforc.org/webreports/reports/072/S72993.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Leesville (LA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Flash bright white light at low flying distance pass in middle of a solitary road.I saw a bright white light, it was flying very low and so fast that I could barely keep an eye on it.Left some trace in the air while flying.  I was in the middle of the road there were 2 cars in the street.I know no airplane will fly that low, it passed right in front of my car</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114819.html](http://www.nuforc.org/webreports/reports/114/S114819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
