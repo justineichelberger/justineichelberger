@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Catonsville (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Route 70 east near Baltimore/Howard line saw bright orb, white light dimmed and cigar shaped object visible with lights on under side.Driving west on 70, saw very bright large white light.   It almost seemed like a fireball.  Then white light turned off and underside of large cigar shaped object was visible.  Underside appeared to have several planes or panels dotted with flashing red, white, green lights.  Moved away in opposite direction, could not exit highway to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150117.html](http://www.nuforc.org/webreports/reports/150/S150117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hogansville (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>early afternoon sighting, made 90 degree turnsI noticed a small silver object in the air.  thought it was a jet, no contrail.  It would speed up and slow down, then stopped, dropped in height , resumed speed, made a 90 degree turn and the disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103620.html](http://www.nuforc.org/webreports/reports/103/S103620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
