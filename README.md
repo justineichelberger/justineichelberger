@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:47 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in South Bend (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>triangle craft over South BendMy husband and I along with our two sons were in the hottub looking at the stars when my husband notice a object appear out of the NE sky moving very fast.  It appeared to be triangle shaped craft that had three pulstating lights changing colors from yellow, blue and red.  The craft flew very fast from the NE to SW but not in a straight pattern it was out of sight within 7 seconds.  There were no sounds made by the craft as it flew overhead.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73007.html](http://www.nuforc.org/webreports/reports/073/S73007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in East Haddam (CT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>string of white lights moving slowly in unison (straight line)4 adults witnessed a string of white lights to the West against a dark sky. The lights were moving very slowly right to left, observed for about 30 seconds or less and then slowly faded out. The lights moved in unison together, no movement among themselves. Sky was clear and dark. No blinking was observed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160207.html](http://www.nuforc.org/webreports/reports/160/S160207.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
