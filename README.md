@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright, large object in early morning desert sky Thursday morning.6:20 am Thursday morning, the 24th of October. I was standing in our company’s break room talking to another co-worker when a third co-worker opened the door and told us there was a strange object/light hovering near and above the south side of town. Having some experience with a few sightings before (because my eyes never leave the sky) I ran out and immediately began to compare its movement with a nearby by airliner, houses and trees. According to my co-worker, the object/light started out as being as large as his fingernail.  It moved slowly upward, silently.  By the time he arrived at work and I had gotten outside to see it and it was half the luminosity of Venus which was shining in the predawn light also in the southern sky.  The light from the object began to pulsate and the object began to move in a tight circular pattern.  A commercial airliner began to approach the area from a westerly direction at what I can assume to be a 30,000 foot ceiling.  As the airliner came closer, the object moved sporadically in a straight line heading south, quickly the light flickered and dissipated and finally shot away. 30 minutes later while we were talking about it in the office, a third witness told us that she saw the same object from a different angle. She said that she saw two smaller objects "eject" or "shoot" out from the bottom of the main craft. She pulled her daughter outside to watch. 20 minutes after the craft shot away, the sky was a full military aircraft scrambled in multiple directions and all in the basic area where the object was hovering. A person in our group familiar with Air Force maneuvers mentioned that those aircraft were moving in a scout formation.  We are all familiar with the regular air traffic patterns from L.A., Vegas and Phoenix. None of these six or so aircraft followed those usual patterns. They were all at nearly the same altitude and flying in many different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59433.html](http://www.nuforc.org/webreports/reports/059/S59433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lansdale (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i say 3 red and 3 green lights it moved back and forth and stood still as well it was so weird i cant believe my eyes and i can bet it was UFO.   i also have the video clip too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114824.html](http://www.nuforc.org/webreports/reports/114/S114824.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
