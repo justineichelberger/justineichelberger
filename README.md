@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:04 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lexington (SC) reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Bright light moving slowly, then stopping in mid air. Bright green through binoculars. Returns to same location.My husband and I go outside a lot at night. This week 3 nights we have seen the same bright light show up around the same location. It is a very bright light and low in the sky.  Through binoculars it is a bright glowing green color. It will move very slowly at times from side to side, up and down and back and forth. Sometimes it moves a little faster when moving.  The photographs I took show the object in colors of green, purple, pink and white and in different shapes. When I am outside it doesn't move as much. When I go inside and look at it from the window, it moves a lot more. This goes on for hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93860.html](http://www.nuforc.org/webreports/reports/093/S93860.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Irving (TX) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Triangular object with faint yellow-orange lights on irregular flight path hovered, then descended rapidly and observed as cylindricalTook dog outside for his bathroom break and noticed a strange object overhead on a path from Dallas to Irving (east to west).  At first I thought it was perhaps the space station, as this is sometimes observed just after dark on a clear night.  However, this object had an irregular flight path and came to a complete stop and hovered.  When first sighted, the object appeared triangular with faint yellow-orange lights.  After hovering for a moment, the object suddenly and sharply began to move my direction in a descent and for a brief moment I could observe a large dark cylindrical object dotted with faint yellow-orange lights.  The object appeared to ascend, at which point it became faint again.  The object then moved in a SW direction and was barely visible after another 30 seconds.  The entire event lasted about 3 to 4 minutes and the object traveled about 15 miles in the final 30 seconds, not including elevation changes.  The object made no detectable soun! d.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103566.html](http://www.nuforc.org/webreports/reports/103/S103566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
