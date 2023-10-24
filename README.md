@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:49 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Deerfield Beach (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>White light zooming very fast across the sky.I am a 34 year-old doctor of clinical psychology.  I was walking my two little dogs.  It was after 11pm but before midnight. I saw a light, much bigger than a star, but much smaller than the moon, zooming across the sky. It went east to west, or from north-east to south-west, in a straight line and disappeared into the clouds.  The whole evet was south east to my location. It moved so fast that it crossed about 1/3 of the sky in about 1 second.  It was so fast that I could not notice details about the form of the light.  I was under the impression it was not a perfect circle, but it was really hard to tell.  I would also say it stayed the same size as it zoomed across the sky, but again, I could not be 100% sure.  The light’s color was white, just like the moon.  I continued looking up to the sky for several more minutes but saw nothing else unusual.  There were airplanes going by, slow and steady, with much smaller, blinking lights, and looking nothing at all like the other light I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130826.html](http://www.nuforc.org/webreports/reports/130/S130826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>streaking brilliant lightMy 10 year old son and I were at Walla Walla park in Wenatchee.  The time was approximately 1800-1900 HRS. We were walking to our truck, my son ahead of me.  I saw that he had froze and he was looking up.  I also looked up to see a bright object shooting north, north east direction. There was no tail or smoke.  It was still day light and no clouds in the sky.I am sorry for not noting the time, I did not know of this reporting system until this morning.My sighting lasted 3-5 seconds, longer for my son.  It may have lasted longer but we lost sight of it as it was blocked by Birch Mountain.BIO:  Commissioned police officer, former military.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84855.html](http://www.nuforc.org/webreports/reports/084/S84855.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
