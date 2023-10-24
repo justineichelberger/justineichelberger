@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:51 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Chalmette (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangular shaped orange light in the sky that glided through the air sometimes stopping then disappeared within seconds.  It made no noise.  The event lasted three to five minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130811.html](http://www.nuforc.org/webreports/reports/130/S130811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glen Burnie (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>The White Orb aircraft pulled off Star Wars like maneuvers with warp speed seeming to teleport from the Ursa Major constellation.At approximately 23:15, I was outside smoking a cigarette and looking up at the night sky, like I usually do.  I noticed a white orb shoot from a star which was on the handle of the Big Dipper.  The object was doing zig zag maneuvers, too fast for any known aircraft we the public have knowledge about.  This white orb continually did the same maneuvers in the same area for approximately 3 minutes.  A passenger airline was flying by when all of a sudden, the Orb seemed to warp towards the plane and disappeared.  I've never witnessed any known craft to do such maneuvers.  This is not the only UFO I've seen, but sure is one of the creepiest.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139278.html](http://www.nuforc.org/webreports/reports/139/S139278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
