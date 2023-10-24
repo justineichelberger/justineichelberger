@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:51 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Orange lights were seen hovering over the ocean. These lights created lines of upto 4 lights then quickly dissipating.Orange lights were seen in the sky over myrtle beach.  They were circle in shape an would appear then disappear, there were single double an even a 4 light pattern that were in straight lines.  They would become very bright and feminist within ten seconds, over 20 seperate lights were seen.  The 4 light line came from one single light that then spread out into 4 seperate lights.  All were seen toward the ocean and became larger and higher in the sky as approaching the coast.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93853.html](http://www.nuforc.org/webreports/reports/093/S93853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Catonsville (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Route 70 east near Baltimore/Howard line saw bright orb, white light dimmed and cigar shaped object visible with lights on under side.Driving west on 70, saw very bright large white light.   It almost seemed like a fireball.  Then white light turned off and underside of large cigar shaped object was visible.  Underside appeared to have several planes or panels dotted with flashing red, white, green lights.  Moved away in opposite direction, could not exit highway to follow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150117.html](http://www.nuforc.org/webreports/reports/150/S150117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
