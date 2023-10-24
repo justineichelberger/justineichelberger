@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:47 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hampden (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>bright spot of lightwas driving home from going to Walmart in Brewer Maine on I-395. The object was coming from the east I was going south, it lasted about 45 seconds and then disappeared withouit a trace. I guess it could have been a a spot light or a landing light from a plane, but I don't know what a plane would be doing with it's landing or spot light on at that time of day. It was overcast but not foggy and under the clouds it was clear and not raining.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39971.html](http://www.nuforc.org/webreports/reports/039/S39971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morden, Surrey (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Discs over Morden, Surrey UKI submitted a report last night regarding orange craft seen over Morden by my partner's best friend who called me as he knows I have an interest in the unexplained and therefore would take him seriously and not laugh it off.Tonight, half an hour ago [the time is now 21.30] he called again asking to speak to me and said that this afternoon at 16.00 he saw 5 silver coloured discs in the sky coming from the Rosehill [Carshalton] area travelling towards Mitcham.He has asked that I again report this, which obviously I am.  I have been watching the skies today but haven't seen anything myself.  Our friend is still with panic in his voice and was asking me about crop circles and again about 2012.My own views on 2012 are not for this report database.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72993.html](http://www.nuforc.org/webreports/reports/072/S72993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
