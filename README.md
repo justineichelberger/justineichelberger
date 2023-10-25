@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:18 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mililani (around) (HI) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO by Mililani and Wheeler Army Airbase Hawaii viewed from the freewayI was driving on the freeway heading north and just passed the Ka Uka overpass when I noticed three bright white lights in a chevron or triangular formation off to the right of the freeway.  I thought it was peculiar that a helicopter was so close to the ground and to the freeway.  I thought it was a helicopter because it was hovering in one spot.  I rolled the window down to see if I could hear anything but there was nothing.  I thought the helicopter was low due to the size of the lights, but then a light cloud passed between me and the object and I lost sight for a second or two.  I then realized that the size of the lights and as high as it must have been to be above clouds on a rather breezy and clear night, it must have been huge.  By this time, I had just started to pass and could not keep an eye on it while driving.  About a mile further, I was nearing my exit which is next to Wheeler Army Airbase and noticed some helicopters (blackhawks) in the air and started to wonder if they were going to investigate.  Over the next few weeks, I would drive by and look to see if there were any towers, poles or any other structure that would be a cause or reason for something to be there but there is nothing.  I then Googled  the months of October and November 2008 along with UFO and noticed that another person had posted something around the same date and time that my experience occurred.  I don’t know the exact date but it was around the 20th or 26th of October and around the 9:00pm time frame. I am rather familiar with helicopters due to living on or near a military base my whole life and hearing them on a daily basis.(NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66889.html](http://www.nuforc.org/webreports/reports/066/S66889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Are The Tinley Park Lights coming back for Halloween 2008?I was driving down 159th towards Oak Park Ave. when off to my left over the Forest Preserve I saw a triangular shape hovering above with red lights at each corner.   It stayed as I drove past.  It was not moving...just hanging about.  It was eerily similar to that of the Tinley Park Lights a few years ago and ironically enough it's just a little less than a week before Halloween.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66452.html](http://www.nuforc.org/webreports/reports/066/S66452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
