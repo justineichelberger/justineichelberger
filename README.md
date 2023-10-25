@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>75+ red dots  in the sky over Dayton, OhioMe and my fiancee were coming out of Kroger foods(sugar creek twp.) and started walking to the car.  To the north (Dayton, OH and WPAFB) direction, I first noticed the red lights.  My fiancee noticed after I pointed them out.  There were well over 75  red, slow moving somewhat flickering balls moving across the sky.  They were in no real formation however they did not break the formation they were in what was a scattered but still close to each other group.  The sky was very clear but there are plenty of strip malls, hospitals, restaurants etc in the area so only the brightest stars illuminate.  I tried desperately to catch it on a camera phone pic however it was unable to be captured.  I have the pics saved in my phone and will try to find a way to enhance.  This may have nothing to do with the situation but as this went on I made a phone call to report to a family member.  The phone I was using started to click (a noise it has NEVER done before) while I was on the phone and the objects were still in view.  It has not done that since I left the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103684.html](http://www.nuforc.org/webreports/reports/103/S103684.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wheaton (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>A green and red light warped through the sky faster than any modern aircraft and disappeared.I had just gotten out of my car and was walking toward the front door of my house in Wheaton, IL, at around 10:30 PM when I looked south, up toward the sky, to suddenly see two lights zip across the sky faster than I have seen any craft fly in my life.  I believe this had to be only a single craft, because the two lights appeared to maintain the same distance from each other while flying through the air.  One light appeared to be red and the other green, just like a normal airplane would, but it covered a distance in what must have been less than a second that is physically impossible for any modern craft to travel.  It was there and then it was gone in an instant.  I could not decipher the physical shape of the craft because it was dark out and also because of the speed it moved at. I could see the lights traveling through the air however, and it looked like they left a streak behind them as it flew through the sky, but I think that had more to do with the fact ! that the lights were moving so fast. When I looked over in the direction where I thought the craft had traveled (It seemed to be heading southwest), I saw a bright blue light that was flickering a little. I pulled up an application on my phone to see if it was perhaps a planet or star rather than any physical craft I might have seen. From what I could tell on my phone, it was just Neptune. The craft I had seen warp through the sky was nowhere to be found. It was just gone an instant after I had seen it streak through the sky at impossible speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114782.html](http://www.nuforc.org/webreports/reports/114/S114782.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
