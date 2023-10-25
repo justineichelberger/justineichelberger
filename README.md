@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two shining objects spotted in the day time sky high above St. Louis.There were two objects high in the daytime sky that looked like stars.  They seemed to reflect the sunlight.  They weren't moving, as much as I could tell.  One simply disappeared as I looked at it, the other disappeared moments later.  They were clearly above the clouds and were in close proximity to one another.  Best guess is that they were round,  but they were too high to tell for sure.  My wife witnessed the one, the second one appeared after she got into the car, we witnessed these objects as we were late to getting out 6 month daughter to her first picture session. If anybody has seen the footage from Mexico City a few years back, that's what this reminded me of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47218.html](http://www.nuforc.org/webreports/reports/047/S47218.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Centerville (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>75+ red dots  in the sky over Dayton, OhioMe and my fiancee were coming out of Kroger foods(sugar creek twp.) and started walking to the car.  To the north (Dayton, OH and WPAFB) direction, I first noticed the red lights.  My fiancee noticed after I pointed them out.  There were well over 75  red, slow moving somewhat flickering balls moving across the sky.  They were in no real formation however they did not break the formation they were in what was a scattered but still close to each other group.  The sky was very clear but there are plenty of strip malls, hospitals, restaurants etc in the area so only the brightest stars illuminate.  I tried desperately to catch it on a camera phone pic however it was unable to be captured.  I have the pics saved in my phone and will try to find a way to enhance.  This may have nothing to do with the situation but as this went on I made a phone call to report to a family member.  The phone I was using started to click (a noise it has NEVER done before) while I was on the phone and the objects were still in view.  It has not done that since I left the parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103684.html](http://www.nuforc.org/webreports/reports/103/S103684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
