@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:02 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fortson (GA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Lunar landing as observed through a telescopeExamining picture I took through my telescope this evening of the moon --It looks as though something has landed there.  I observed a large shadow and tall structer and saw in the next frame that the shadow had changed.  pictures and cropped pictures to follow.((NUFORC Note:  We have looked at the photos submitted by the witness, and we can see nothing noteworthy on the surface of the Moon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39963.html](http://www.nuforc.org/webreports/reports/039/S39963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in Wellsville (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object seen hovering nearby. Very bright lights through ports.It was a nice fall evening,  My two youngest children were in the house with me, my teen age son was in the garage working out.  He came into the house and told us to come outsede, there was an object in the sky and the animals were making awful sounds.  We hurried out and saw the object, hovering quite close to the ground and I realized that I didn't hear a s ound.  It had very bright lights shining through the  ports.  I was aware that none of my dogs were at all concerned and were quite.  I went in and tried to call my husband who was at a Kiwanis meeting but didn't get him.  I went back out and it was still there,  Next I went in and called the local troopers and told them to look in our direction and they might see it. I returned outside and it was still there.  Next thing I knew, my son had gone into the house and was returning with a gun, as he was frightened.  AT that point the object came toward us and rose quickly into the sky and just disappeared.  As it left, it appeared to be triangular in shape. I actually made another call, to a friend after I called the troopers.  I told her the horses were making noices.  Later she asked me why I said horses, because we had only one, and I told her it was because all three of the children were hearing noice from the nearby hill, which I did not hear.  This object was large and I would estimate about the size of a football field.  I was not frighened, just excited.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05941.html](http://www.nuforc.org/webreports/reports/005/S05941.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
