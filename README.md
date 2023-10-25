@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wellington (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Red, white and blue flashing lights in the Northern sky above Wellington, Colorado.I glanced out the window at the Northern sky and saw some lights flashing.  At first I thought it was an airplane because of the lights, but then I realized it wasn't moving.  As I watched it longer, I saw that there were red, blue and white lights flashing in a column.  When we first stepped outside, it was at about 30 degrees East from direct North.  45 minutes later, it's at about 60 degrees East from direct North.  It continues to hover there making no sound.  A friend reported seeing a flash of light come off the object heading east at a high rate of speed, and disappearing from the line of sight within seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103681.html](http://www.nuforc.org/webreports/reports/103/S103681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Eden Angola (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At approximately 9: 38 pm. On October 25th 2019. We were exiting the Eden Angola exit off the I-90 West.  We exited on to Eden Evans Center road.  We noticed some strange lights in the sky spinning around counterclockwise, it was sphere shaped and had white lights.  We pulled over and recorded a video and took some pictures.  It was rather dark out but as the cars drove by it lit the object up in the sky and we were able to see it clearly.  We turned on to Versailles Plank Road where we were still able to see the object clearly and the sky.  Then we took a left onto Brant North Collins Road.  We then turned right onto US Highway 62 in the town of North Collins.  It was almost like the object was following us considering the size of the object never changed.  We lost sight of the unidentified oject after approx 20 minutes.  Almost like it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149998.html](http://www.nuforc.org/webreports/reports/149/S149998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
