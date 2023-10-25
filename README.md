@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:51 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hemet (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two triangular UFO's seen over Hemet, CA in the night sky with distortion fieldOn the night of October 25th, 2009 at about 8:45 pm I was outside looking at the stars and to have a cigarette. I noticed what I thought was a big bird in the sky traveling from south to north. I thought to myself that was a really large bird. I stood up and noticed that there were two of them. Then I realized that each object had six lights, 3 on each side and the objects were triangular in shape and had rounded tips. They were very slow moving and made absolutely no sound at all. One of the objects was positioned slightly in front of the other. Then I notice that these objects where completely blocking my view of the stars in that particular area. The sky and stars in that area were distorted and then they suddenly disappeared. The whole event lasted about a minute long.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73013.html](http://www.nuforc.org/webreports/reports/073/S73013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Brighton (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Big sphere hovering over Lake Ontariohttp://www.youtube.com/watch?v=_owCFO79tWg  On the evening of Tuesday the 25th day of October, my friend and I witnessed this object, due south of Salem Ontario which is just a bit west of Brighton Ontario.The object appeared twice once to the west of the original position.  It was quite large.  The light emminating from the object reflected on the night sky above it.  It revealed the clouds above it and reflected off of the lake.In my estimation the object was very close to Rochester New York, USA.  Given the size of the object and it's proximity to the Lake it seemed at least half way across the Lake by guestimation.It remained in the sky until it flashed out.  Some time later it reappeared and then flashed out once again.  The video quality is quite good and a larger file is available that I have uploaded to the You Tube site.I have been unable to contact the other witness.  He is a tad reclusive and won't take any calls.There was a red light to the east, smaller but moving around a bit.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85015.html](http://www.nuforc.org/webreports/reports/085/S85015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
