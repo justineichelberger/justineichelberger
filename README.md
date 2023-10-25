@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:51 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:04 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A dark gray object traveling across the night sky.On 10/25/01 I was up late (1:30 AM). I decided to go out side before going to bed.    I was looking up at the sky, as usual, and I saw what I believe was a UFO. It didn't have any lights on it (that I could see) but I was still able to see it (very clearly) traveling across the sky, low to the horizon. It was kind of a dark gray in color. It was traveling from east to west. It was oval in shape, and appeared to be traveling at about the same speed a plane would, flying at a low altitude. Yet it appeared to be high in the sky. To get an idea of how big it was from my point of view, go out side, stretch your arm out and hold a "quarter" up to the sky, flat side facing you. That's approximately how big the UFO was against the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19955.html](http://www.nuforc.org/webreports/reports/019/S19955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cooper City (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>object with plume of light changed altitude and directionto the north i saw what looked like a plane coming into fort lauderdale airport approx 3000 ft. there was bright orange light coming towards me; object turned to east; i saw oblong form with plume of bright light behind; at this point i pointed the object out to my friend. together we saw oblong shape with plume of light behind coming towards us; then plume disappeared and there was dot of white light gaining altitude very fast basically straight up. normal planes were visible in background. at very high altitude it traveled east, then slow and descended - small white light gaining in size. lost sight as object went to east lower in horizon</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53085.html](http://www.nuforc.org/webreports/reports/053/S53085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
