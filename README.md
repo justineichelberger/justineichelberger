@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 24 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange-Red light over Buckeye, fades away.My fiance had texted me as he got off the 10, heading towards home because he likes me to meet him outside so we can have a cigarette before going in for the evening.  Our house faces South and when he parked his car, he was leaning against it, facing West.  I was standing about a foot away from him and noticed a strange orange-red light that was circular in shape, with a section from the center missing. It was almost as if the light were two seperate pieces and were not stuck all the way together.  I said "What the hell is that?" and he turned to look.There were clouds in the sky, so at first we thought it was possibly a plane and the light was reflecting through the clouds but it slowly faded from view as if on a dimmer switch.  Right after it had faded all the way out, two more lights popped up, right next to where the other had just been.  They shimmered in and then faded out as well, almost as quickly as they had come.Neither of us were sure what we had seen, but with the Luke Boys flying overhead all the time, among with all the other planes we see flying in, we are pretty familiar with our skies.  This was like nothing else.We have witnessed other phenomenon like this, but never as close as this felt.  I am hoping we weren't the only two people to see this, which is one of the reasons why I am reporting this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84910.html](http://www.nuforc.org/webreports/reports/084/S84910.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A dark gray object traveling across the night sky.On 10/25/01 I was up late (1:30 AM). I decided to go out side before going to bed.    I was looking up at the sky, as usual, and I saw what I believe was a UFO. It didn't have any lights on it (that I could see) but I was still able to see it (very clearly) traveling across the sky, low to the horizon. It was kind of a dark gray in color. It was traveling from east to west. It was oval in shape, and appeared to be traveling at about the same speed a plane would, flying at a low altitude. Yet it appeared to be high in the sky. To get an idea of how big it was from my point of view, go out side, stretch your arm out and hold a "quarter" up to the sky, flat side facing you. That's approximately how big the UFO was against the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19955.html](http://www.nuforc.org/webreports/reports/019/S19955.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [446](http://www.nuforc.org/webreports/reports/165/S165033.html)
-- [445](http://www.nuforc.org/webreports/reports/165/S165034.html)
-- [444](http://www.nuforc.org/webreports/reports/165/S165047.html)
-- [443](http://www.nuforc.org/webreports/reports/165/S165062.html)
-- [442](http://www.nuforc.org/webreports/reports/165/S165035.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
