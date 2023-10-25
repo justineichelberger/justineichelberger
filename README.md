@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Four red lights.  Appeared, went into formation and then disappeared.Four red lights.  Dots.  No glare / halo around them. Came from the south and moved north. One by one they appeared.  Eventually all four lined up, equidistant apart.  I thought they were helicopters or something.  No sound.  As soon as they lined up, they disappeared. Very linear in their motion and precise in their line-up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130835.html](http://www.nuforc.org/webreports/reports/130/S130835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two shining objects spotted in the day time sky high above St. Louis.There were two objects high in the daytime sky that looked like stars.  They seemed to reflect the sunlight.  They weren't moving, as much as I could tell.  One simply disappeared as I looked at it, the other disappeared moments later.  They were clearly above the clouds and were in close proximity to one another.  Best guess is that they were round,  but they were too high to tell for sure.  My wife witnessed the one, the second one appeared after she got into the car, we witnessed these objects as we were late to getting out 6 month daughter to her first picture session. If anybody has seen the footage from Mexico City a few years back, that's what this reminded me of.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47218.html](http://www.nuforc.org/webreports/reports/047/S47218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
