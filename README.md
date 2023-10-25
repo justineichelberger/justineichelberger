@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Portage (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish ball flying in the sky.Me and my kids were outside in the back yard when we noticed a bright reddish ball flying thru the sky.  It was traveling slow but lost sight of it when it went below to tree line.   Seemed close but I'm sure it was far away.  Not sure what it was but i have never seen anything like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114795.html](http://www.nuforc.org/webreports/reports/114/S114795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Pocatello (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was looking out my kitchen door when I saw at a distance a bright flickering white light that appeared to have a diamond shape with rounded edges.  It was so high up in the sky that at first I thought it looked like a star,but it moved in an eradic north easterly direction.  The elevation of the object that I saw was to high for an aircraft. I watched the object for app. 10 min. until my husband came home and looked at it to.  He saw the object when came home and told me he had seen an object similar to it about 6 years ago. We watched the object for a few minutes longer and went inside because it was too cold to stay out and watch the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04660.html](http://www.nuforc.org/webreports/reports/004/S04660.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
