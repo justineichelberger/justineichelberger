@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in West Point (NE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange UFO sighting outside our home in West Point, NE.At about 1:34 a.m., we went outside to smoke a cigarette and looked up at the clear night sky and noticed a /\ shaped unknown flying object (UFO) in the sky to the west.  The UFO was flying from the Northwest to the Southeast.  There were seven round shaped lights that were very faint luminescence and barely noticable.  The UFO was moving slowly and was silent and made strange and smooth movements unlike anything we have ever seen before.   After about 30 seconds, the object disappeared from our field of vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149976.html](http://www.nuforc.org/webreports/reports/149/S149976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Decatur (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>It continued on straight path about 100' in air for about 8 seconds.  then went straight up for about 2 seconds and out of sight.It was like a rounded at he edge shaped triangular shaped object. It was about 30 feet long and a little wider.  it was around 100' in the air. The weather was fair as far as I can remember.  What caught my eye was that it wasn't moving fast like a plane while it was travling in a straight path but increased speed in a short time when it headed straight up. I was moving at the time getting ready to relocate in georgia.  I was a minister and my wife is now a med/surgical director at our city's hospital and also teaches nursing in college.  I have no doubt in what    i saw.  I was 30 years old at the time of the sighting and I will never forget it. I would also like to add that there were military craft flying in area several days before event and i not sure about after event.  There was no military craft flying at the time of the sighting  but military traffic was heavy days before. i</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04413.html](http://www.nuforc.org/webreports/reports/004/S04413.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
