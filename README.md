@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:04 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>flying triangle Rapid City South Dakota about 15 minutes after ReportLasted only a few seconds... lights on it were dim.  4 lights total, 3 on the vertex of the triangle with one single point midway (left while looking at triangle).  This looked like fighters flying in formation; however, there where no red or blue lights or strobe effects while looking at the object.  Moreover, there was no sound whatsoever, grew up in the Air Force and seen many demo's performed by the blue angles and thunderbirds... which can be heard over long distances.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84912.html](http://www.nuforc.org/webreports/reports/084/S84912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>FIREBALL CAME STRAIGHT DOWN FROM THE SKY, IT HAD A TAIL GOING STRAIGHT UP LASTED 2 TO 3 SECONDS AND DISAPPEARED.I WAS DRIVING NORTH ON HWY 99 BETWEEN DOWNTOWN AND THE AURORA BRIDGE CLOSER TO THE BRIDGE AND OBSERVED A BRIGHT OBJECT WAS STRAIGHT AND TO MY LEFT AT ABOUT IN THE 10 O'CLOCK POSITION! THE EXACT COLOR I'M NOT SURE BECAUSE IT WAS IN THE TINTED PART OF MY WINDSHIELD. IT CAME STRAIGHT DOWN IT HAD A TAIL IT LASTED 2-3 SECONDS AND TOTALLY DISAPPEARED. I LOOKED AT THE CLOCK IN MY CAR AND SAW 18:15. NO BACKGROUD WAS OBSERVED THE SUN HAD SET IT WAS DARK.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04690.html](http://www.nuforc.org/webreports/reports/004/S04690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
