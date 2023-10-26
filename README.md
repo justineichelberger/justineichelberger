@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:38 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light chased by two jets from airport.Bright white light flashing in the sky and moving at an incredible rate of speed, heading south east from Westport/Waunakee area.  It flew by going south and then just stopped completely in the air, and eventually started heading back north again. Within a few minutes, two F-16-style jets took off from the nearby airport and went after it, but the white light then went straight up into the clouds and didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115110.html](http://www.nuforc.org/webreports/reports/115/S115110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cookstown (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>the object was moving very slow  flashing  red and green lights  other  aircraft were moving going  on there normal route  i looked at it with my  spoting scope  and i seen a  metalic form  zig zaggin  in the sky  i know the differents between a normal air craft  and this one  i seen this thing a few times when i am out deer hunting  can you tell me what is the big secret about the things other people see to why can't the goverment amit it  i would like to know  thanks..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10333.html](http://www.nuforc.org/webreports/reports/010/S10333.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
