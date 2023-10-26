@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:36 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cookstown (NJ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>the object was moving very slow  flashing  red and green lights  other  aircraft were moving going  on there normal route  i looked at it with my  spoting scope  and i seen a  metalic form  zig zaggin  in the sky  i know the differents between a normal air craft  and this one  i seen this thing a few times when i am out deer hunting  can you tell me what is the big secret about the things other people see to why can't the goverment amit it  i would like to know  thanks..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10333.html](http://www.nuforc.org/webreports/reports/010/S10333.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reseda (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>What looked like a star, appeared to be flashing multi-colors and oscillating.I looked up into the night sky and immediately noticed a star, about 10 degrees below the big dipper, was flashing from red to green to blue, very noticable. The colors were so bright I thought it might be a distant blimp putting on a light show. It turned out to be moving accross the sky at the same rate as the other stars, and according to my rangefinder, I was focused at infinite settings, beyond the moon. I shot about 45 minutes of this on video tape. It was, as far as I can tell, a star that was flashing many colors, something I've never seen or heard of before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10408.html](http://www.nuforc.org/webreports/reports/010/S10408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
