@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 25 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oak Forest (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Are The Tinley Park Lights coming back for Halloween 2008?I was driving down 159th towards Oak Park Ave. when off to my left over the Forest Preserve I saw a triangular shape hovering above with red lights at each corner.   It stayed as I drove past.  It was not moving...just hanging about.  It was eerily similar to that of the Tinley Park Lights a few years ago and ironically enough it's just a little less than a week before Halloween.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66452.html](http://www.nuforc.org/webreports/reports/066/S66452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rapid City (SD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>flying triangle Rapid City South Dakota about 15 minutes after ReportLasted only a few seconds... lights on it were dim.  4 lights total, 3 on the vertex of the triangle with one single point midway (left while looking at triangle).  This looked like fighters flying in formation; however, there where no red or blue lights or strobe effects while looking at the object.  Moreover, there was no sound whatsoever, grew up in the Air Force and seen many demo's performed by the blue angles and thunderbirds... which can be heard over long distances.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84912.html](http://www.nuforc.org/webreports/reports/084/S84912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165060.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165058.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165057.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165059.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165053.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
