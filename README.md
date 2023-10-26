@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:51 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:54 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Larsen (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Vast moving bright light traveling west to east at approximately 4 + mach with no sound.Traveling at a very fast speed from west to east in the dawn sky.   Very bright light and it appeared to be round.   It was at a very high altitude with no navigational lights or contrails.  It was probably going mach 4 or above.  No sound was made during the passing.  The sky was clear and no clouds with minimal stars at that time period.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66487.html](http://www.nuforc.org/webreports/reports/066/S66487.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange glowing luminous object zizagging no noise flying lowObserved glowing orange red circular craft about the height of a small plane.  The object made no noise traveled from the west to east.  The object appeared in the north west sky and then made a right angel turn zigzagging as it did and came right over our house.  As the object floated over looking up at it, it was glowing almost luminous and the dim and again the same.  The object traveled east and could be seen in the sky low for a mile or more.  The odd thing was is that it was very cloudy out and windy typical October sky.  The object was well below the clouds and very visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103650.html](http://www.nuforc.org/webreports/reports/103/S103650.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
