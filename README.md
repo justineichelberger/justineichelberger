@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:49 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Westerbork (Netherlands) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Photo of UFO in the Netherlands  Hello  This is a picture taken at 26 october 2003 at the radiotelescope in Westerbork, the Netherlands. http://www.ufoplaza.nl/modules.php?name=News&file=article&sid=1176  Best regards, Wim((NUFORC Note:  Photo on the URL indicated above shows and indistinct, rhomboid-shaped object in distance.  We do not know what the object is.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32725.html](http://www.nuforc.org/webreports/reports/032/S32725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Redmond (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Looked like three stars traveling together in unison, until it was directly overhead.On the evening of October 26th around 9:30 pm, my wife and I were sitting in our hot tub looking up watching the stars when we saw a very large triangular shaped object above us traveling north to south. It was as though it were trying to hide in the stars above us. When it past over our heads, you could see through the center of it. You could put three large full moons easily inside it and still have room left over. It was Huge! There were three points to its shape. There was some kind of illumination on each of the points. There were no lights coming from it and it made no noise. It took about 8 sec from when first saw it to past over us. It was traveling very fast. It was very high in the atmosphere. It looked like it was up with the "stars."</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66486.html](http://www.nuforc.org/webreports/reports/066/S66486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
