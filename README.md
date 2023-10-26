@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:38 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>it was an oval shape brighty lit no sound blinking lights underneathmy daughter who is 11 years of age went to the wal mart store in tracy calif. with my other 23 year old daughter and her 2 year old baby.   they got on the car and were driving away when my 11 year old turned around to the back seat to give the baby a french fry and something caught her eye  and she yelled to the driver oh my god what is that?  my 23 year old looked up and said  oh my god i don't know.  they said it was pretty low flying..  they raced home she did not even even turn off her headlights or turn the car off they ran in the house and said hurry up come outside,  they were pretty flustered.  my son who is 16 and myself went to the front yard and looked up it was unbelievable i told my son quick go get the binoculars he came back out looked up and said words i can not type,  we all looked through the binoculars we all saw the same thing i still can,t get over it.  it was oval completely lit up and colored lights going around underneath it was moving fairly quickly then an airplane came close the disk slowed, then it went further away it was cloudy so it got to a point where we could not see it anymore. i was not a person who ever believed in this sort of thing but i have to wonder now.  my daughter was scared  but the rest of us were very excited. we know what we saw we all drew similar pictures seperatly but they all looked the same.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47247.html](http://www.nuforc.org/webreports/reports/047/S47247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Madison (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White light chased by two jets from airport.Bright white light flashing in the sky and moving at an incredible rate of speed, heading south east from Westport/Waunakee area.  It flew by going south and then just stopped completely in the air, and eventually started heading back north again. Within a few minutes, two F-16-style jets took off from the nearby airport and went after it, but the white light then went straight up into the clouds and didn't come back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115110.html](http://www.nuforc.org/webreports/reports/115/S115110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
