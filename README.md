@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tracy (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>On this odd night My little brother was coming home froms his friends house (friends mom driving)  My dog was barking then they pulled up.  I waited for my brother to come in, but he didn,t.  They were all standing there, staring at the night sky. ((name deleted--witness #2))  (my brothers friend) was acting as weird as normal.  But his mom was in an extremely intense conversation.  When i looked up there was a big ball of light, at first i thought it was a blimp.  It got closer, and looked like a large lit up ball, it hovered near our neighborhood for a while. then took off.  When ((name deleted)) mom was off the phone she said, "Well you guys, I admit that I haven't believed in aliens until now.  The police said that they are getting tons of calls about this and no one knows what it was.  "My brother ((name deleted)) called my mom and she said that they were seeing the same thing. ((name deleted)) dad and brother called and told us about what they saw.  Then i saw jets flying after the sphere and pointed it out to every one else. The ufo, seemed to be doing tclical manuvers, and that ruled out the theory of a blinp.  The story may not sound like much, but at that tme i was watching, wishing that the whole world was seeing this with me.  IT was disturbing, yet exciting, and it all just felt weird, to accually be a person who can talk about their experience with the unknown.  I have no specific number of witnesses, but i know of at least nine.  As I said, ((name deleted)) friend's mom said, the police were getting alot of calls about this, and no one could prove what it was. But there have been more sightings around the U.S. that explained the same thing, and the government is probably hiding the truth from us, making random excuses for each one, look for truth!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are unconvinced that this is intended to be a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47773.html](http://www.nuforc.org/webreports/reports/047/S47773.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Peter (MN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 60</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160512.html](http://www.nuforc.org/webreports/reports/160/S160512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
