@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 26 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Reseda (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2 hrs. - 2 hrs. minutes.</sub><blockquote><sub>What looked like a star, appeared to be flashing multi-colors and oscillating.I looked up into the night sky and immediately noticed a star, about 10 degrees below the big dipper, was flashing from red to green to blue, very noticable. The colors were so bright I thought it might be a distant blimp putting on a light show. It turned out to be moving accross the sky at the same rate as the other stars, and according to my rangefinder, I was focused at infinite settings, beyond the moon. I shot about 45 minutes of this on video tape. It was, as far as I can tell, a star that was flashing many colors, something I've never seen or heard of before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10408.html](http://www.nuforc.org/webreports/reports/010/S10408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Marion-Morganton (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>North Carolina: Marion to Morganton on I-40: large glowing object over road messes with car clockEarlier this evening I reported an encounter with a possible UFO over I-40 eastbound, between Marion and Morganton, NC.  In my first report I thought I was missing an hour and a half because the dashboard clock said 10PM when I saw the bright light above me, but I had only left Old Fort about half an hour before, about 8PM.I have revised my opinion: I think the dashboard clock was affected.  I think it mistakenly said 10PM, because I arrived in Rocky Mount between 12:30 AM and 1:00 AM as expected. Its a six hour drive from Asheville.  I was right on time. It would have been utterly impossible to go from Morganton to Rocky Mount in only 2 and 1/2 hours. Therefore, the clock must have been affected by the object I saw.  This means that I was NOT missing an hour and a half. Whew! Because my cell phone battery wasn't working either, I couldn't check the time on my cell phone. Don't wear a watch.  Thank you for allowing me to alter my conclusion.  I just didn't think of it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115080.html](http://www.nuforc.org/webreports/reports/115/S115080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165167.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165103.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165753.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165072.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165066.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
