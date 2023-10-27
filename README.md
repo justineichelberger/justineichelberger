@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:27 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:20 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Parkland (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Flashing yellowish light, low in the sky over northern Broward County FloridaThree of us (men aged 39 CEO, 41 business owner & ~63 computer programmer) we're standing out back of a house chatting by the BBQ, when I saw a flash in the sky. One large (yellowish) flash caught my attention and I continued watching the specific spot in the sky. Coincidentally, it was one of the clearest nights in recent memory without a cloud in the sky. It almost seemed like a lighthouse beacon.Approx. 12 seconds later the same flash occurred in the same exact spot.  As clear as it was, no craft could be seen. After the same time interval, there was another flash and at that point I alerted the other two men to direct their attention at that specific point in the sky and just watch.  The younger man, self-admittedly has bad eyesight and his glasses were in the house.  The older gentleman witnessed the flash occur again. Together, we watched this same flash in the sky in the same exact position (5) more times. The older gentleman, an admitted skeptic was fairly amazed. After the last flash was witnessed, it just dissappeared (stopped flashing) entirely.It didn't seem to be too high or far away. (A total guess would be 1000' high and perhaps 1 mile away).There were no other lights seen. The object had not moved laterally, closer or further during the entire sighting.Not to make any crazy assertions, but the next morning, I scratched the top of my head and there seemed to be a small fresh wound that started bleeding. None of us commented or were aware of any missing time from the night before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53161.html](http://www.nuforc.org/webreports/reports/053/S53161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large transparent delta wing ufo, no lights, noise, condensation trail.  Speed slow enough to stall.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125080.html](http://www.nuforc.org/webreports/reports/125/S125080.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
