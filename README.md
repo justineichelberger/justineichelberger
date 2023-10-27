@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Fireball going across the sky when trying to watch the initial Antares launch on 10/27/14I went out to see if I could see the launch of the Antares rocket which could be viewed moving from the southwest toward the south.  I saw a large bright object moving in that exact trajectory at a high rate of speed and I had my wife come look at what I thought was the rocket.  There were no flashing lights or red and green lights on this object and it was moving too fast to be a jet.  I logged onto the NASA mission control site to watch the live feed and I hear that the launch was scrubbed due to a sailboat that was in the area below the projected path. I really want to know what was I looking at?  Unfortunately, I tried to watch the postponed launch again last night and the vehicle exploded right after takeoff.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114693.html](http://www.nuforc.org/webreports/reports/114/S114693.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Fort Campbell (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>There was a bright light in the sky that came and went over the span of a minute.My Husband and I were outside on the front porch. and noticed a really bright small cloud, it kept getting brighter over the span of about 30 seconds.  It got really bright like a lightbulb and then dissapeared after about another 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78590.html](http://www.nuforc.org/webreports/reports/078/S78590.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
