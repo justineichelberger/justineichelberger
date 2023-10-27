@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:42 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately on and off for an hour or - on and off for an hour or minutes.</sub><blockquote><sub>Could someone please tell us what is going on over San Antonio Texas ??? Several times during the month of september and october we have been stargazing and out of nowhere two "headlight type" blue laser beams have shot down out of the sky towards the ground in northwest san antonio. The beams don't appear to be connected to a craft of any sort, at least not one we can see.When this occurs it seems as if an electromagnetic "buzz" is felt and heard. What's going on here ? Is this something our military is doing or is this something from outerspace? Thanks !</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14767.html](http://www.nuforc.org/webreports/reports/014/S14767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two gaslike lights moving in circular manner in southern skyI was walking dog in backyard and I noticed moving lights above the trees in my yard. They were moving in a circular manner -two separate whitish lights.  They were fairly bright when I noticed them. I knocked on my 21 year old son's window and told him to come outside.  They were as bright when he saw them as they were for me.  I then told him to get my other son.   All three of us had never seen anything like it.  The lights were in the southern sky from my house.  They did not appear to be real high up  It is overcast and sort of foggy.  We first thought if someone had a flashlight or two.  But really, we could not see any light trails and basically there is nothing behind my house except fields.  The lights faded out from what they were at the start but kept going in circular manner for 30 mintues or so but not in the same tracks.  Looking up they would appear stongest on the right side of the circle and disappear on the left side of the circle.  If you s! aw Close Encounters, they moved as fast as those lights, but were different. They were gaseous looking lights -sort of cloudlike.  Really weird. There were no noises at all from these lights.  We are located in a rural setting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78585.html](http://www.nuforc.org/webreports/reports/078/S78585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
