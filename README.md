@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Meadow Vista (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Laser Strike on two vehicles in Nortthern CaliforniaBetween the hours of 12;00 noon and 3:00pm two vehicle parked in our driveway were struck by what looks to be a focused beam like a laser from space.  The burn patterns on the vehicles are unlike anything anyone has ever seen. The local news radar showed no lightning strikes in the area.We would be very interested in any support to find out exactly what hit our vehicles and from where.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78591.html](http://www.nuforc.org/webreports/reports/078/S78591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Glowing orange lights in sky.Strange lights in the sky glowing orange flying around each other.  Clouds where in the sky, it us unknown if they disappeared or flew into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103641.html](http://www.nuforc.org/webreports/reports/103/S103641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
