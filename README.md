@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bradenton (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3-6am,  was a red-orange-sunlike round sphere go by, then up, then into field. I was scared to go in field?Everyone kind of just dismissed that I saw this redish orange fireball in the sky early saturday morning. I am not sure on the exact time, it was still dark out.  It was around 3am-6am, not sure-I did not write down anything about what I saw that morning?  I am sure someone people don't believe what we saw! I actually had a hard time processing it myself.Saturday I hardly remembered seeing it? Then I looked up in the sky and I could see it again run through my head!  I got online and realized more like myself have seen the same thing, Thank God-I am not alone! Makes you want to find more people that saw it too. Here is my sighting...I was outside on the back porch looking right in the direction of it!!! I witnessed it do something really strange! It was just going right through a couple of tree's. I immediately stood up and jumped on a chair to see it over the fence. Once standing I saw it going in a straight line, it had to be flying low because I could see it sitting down. I watched it go through the tree's then it made a very sharp turn up and back down-Almost like a 90 degree angle, then back down to the ground, field.  Then I did not see it anymore. My family thinks I saw a GOSH DARN-SHOOTING STAR, I can for certain tell you,  IT WAS NOT A FALLING STAR!!!!!!!!  Falling stars go down, and they’re white, blue, and do not defy gravity-this redish orange ball one did!!!   I ONLY SAW 1 fireball not 3 like most people. I STOOD ON A CHAIR AND I BELIEVE I SAW IT LAND.!!!! I have not gone out into the field to look if anything was their? I don't know why? I think I am still having a hard time believing wh! at I saw! I am scared to go look? I can't believe that I am writing to a ufo site? Never thought that would be me!!! I can tell you this much I have never seen anything like that in the sky, EVER IN MY ENTIRE LIFE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93936.html](http://www.nuforc.org/webreports/reports/093/S93936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two differnet objects, one orb, one V shape, night of lunar eclipse.3 college students, standing on a hillside watching the lunar eclipse. scanning the sky for shooting stars/meteors. the first 'ufo' looked to be almost as a pair of whitish green shimmering wings, like a massive falcon streaking acrosss the sky-- not flapping jsut a very fast gliding. point of origin was not seen, visual contact ended when the thing was obscured by a light source from a near by building. it traveled NE to SW across the sky. second object was spotted about 5 min later, a small mutely glowing orb, would have mistaken it for a shooting star, but its path was erratic and jumpy, traved on an identical path to first object, but parallel about 500ft apart to the west. point of origin not seen, visual contact obscured by a nearby building((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39988.html](http://www.nuforc.org/webreports/reports/039/S39988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
