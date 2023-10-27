@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lorain (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8 crafts or whatever, proceeding west to east along Lake Erie shore line, red, silent, with varying speeds, but generally in formation.I alone observed 8 deep-red light-colored objects in the sky, proceeding from west to east, a ways out from the shore, of Lake Erie.  The best analogy I can think of is moving Christmas ornaments!  A red top, perhaps round, not sure, with a long glowing downward tail, again, all red.  The first objects were four in number, not in rigid formation, but somewhat close together, followed by two more objects 10 seconds or so later, followed again by two more objects, about 20 seconds later.  Since I don't know how high up they really were, I cannot estimate their speed, BUT, sometimes one or two would slow down just a bit, and then so would the others.  It is a quiet night up here, little to no wind, clear sky with stars, not much traffic in my neighborhood 2 blocks from Lake Erie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103615.html](http://www.nuforc.org/webreports/reports/103/S103615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Stoke-on-Trent (UK/England) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>TRANSLUCENT (V) FORMATION  OBJECTS AT CLOSE QUARTERS 1997CYLINDRICAL OBJECTS IN V FORMATION, THAT ENCIRCLED EACH OTHER IN FORWARD MOTION, ALSO AS THEY CROSSED THE SKY THEY PROCEDED TO WHAT I CAN ONLY DESCRIBE AS A (ROLLERCOASTER) OR RIDING WAVES TYPE FORWARD MOTION, THEY WERE A TRANSLUCENT YELLOWY/GREEN COLOUR, AS THEY WERE TRAVELLING AWAY FROM ME THE OBJECTS BROKE THE CLOSE FORMATION THAT THEY WERE IN, THEY STARTED MOVING EXTREMELY FAST IN AN UPWARD MOVEMENT, GOING (LITERALLY) LEFT ,RIGHT, AND CENTER, BEFORE DISAPPEARING INTO THIN AIR, I MANAGED TO FOCUS ON THE CENTER OBJECT, WHICH AS IT MOVED UPWARDS, I COULD SEE HAD CHANGED IT'S SHAPE TO A DISC WITH A SPIRAL VAPOURY TYPE TAIL, BEFORE IT TOO DISAPEARED, A FEW SECONDS LATER,TWO RED GLOWS APPEARED IN THE VERY SAME SPOT, TO THE RIGHT, AND THE OTHER HIGHER AND TO THE LEFT, VIVID RED, WITH A CORONA OF BRIGHT WHITE BEFORE BOTH FADING SLOWLY ONE AFTER THE OTHER, AND THEN DARKNESS, ON A CLEAR CRISP STARLIT NIGHT, WHEN I THINK OF IT NOW THEY MUST HAVE FAIRLY LOW IN THE SKY BUT DIRECTLY ABOVE ME, BUT IT WAS HARD TO JUDGE THE OBJECTS CLOSENESS OR SIZE,(BUT THEY SEEMED CLOSE) HAVING NEVER SEEN NOTHING ON THIS EARTH TO COMPARE THEM WITH, I FEEL PRIVILEGED TO HAVE SEEN THEM,WHO EVER THEY WERE!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41639.html](http://www.nuforc.org/webreports/reports/041/S41639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
