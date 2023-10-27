@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cape Canaveral (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large reddish orange fireball very visible in Cape Canaveral sky around 9pm on 10-27-10On the night of 10-26-10 I saw a shooting star, made a wish and thought nothing more of it.  Then on the night of 10-27-10 I was standing outside on the phone with my boyfriend and I looked up and saw this large red object that resembled a fireball.  At first sight I thought it was an airplane but the whole object appeared to be red or reddish orange. I have tried looking on the internet to see if maybe there was a weather balloon or something in the air that late at night. I am 39 years old and have never seen anything like this before. Then I thought maybe it was a comet or meteor, not quite sure what to make of it. I kept telling my boyfriend I couldn't believe what I was seeing and was very shaken by it. I just want to know if there was anyone else that seen the same thing I saw.  I have no clue what a weather balloon would even look like and have never seen a comet that big!  Could someone give me any information on this please? Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78605.html](http://www.nuforc.org/webreports/reports/078/S78605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glidden (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>small blinking color changing  moving lightssmall blinking - color changing from red to blue to yellow & white- moving lights mostly 2-4" wide that move in a whipping motion so fast they are a blur ontil seen at a 100 or so feet . 1 or 2 are a bright white triangle shape with the point down about 12"-18" long. about 4-6 colored lights look larger like 12 to 16" but they look more retanglar or round. i have taken digital photos of them but they look different than by eye or binoculars -- also in the photos are a large number of small to very large round orbs some clear & some very solid with tecture looking. they move slow to lighting fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47255.html](http://www.nuforc.org/webreports/reports/047/S47255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
