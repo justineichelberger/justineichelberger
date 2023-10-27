@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sloan (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object above contrails (+30,000) changing shape and traveling slowly East, North-East to and over Las Vegas.At approximately 10:15 hours, Pacific time on 10/27/2018 while camping on the Jean Dry Lake Bed in Sloan NV (just outside of Las Vegas) I was watching the air traffic to and from LAS.  I noticed a bright, seemingly stationary ball which appeared to be at or above the 30,000' mark (over the contrails of passing jets)  I grabbed my Nikon D5200 DSLR with a 200mm lens and took ~200 photos in both .jpeg and .nef.  The object, to the naked eye, appeared spherical.  However, upon reviewing the images, it seemed to change shape from spherical to that of a cylinder with 3 to 4 separate sections, to that of a boomerang shape. The object was traveling East - North East towards southern Las Vegas.  Apparently, NWS launched a weather balloon at 0851 hours - however, this was an hour later, and the object was traveling towards Henderson, not away from it.  I and another adult observed the object for approximately 10 minutes until it gained altitude and was no longer visible.  I have 186 .nef photos of the object.((NUFORC Note:  We have looked at several of the high-quality photos, and we do not know for sure what the object is</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143599.html](http://www.nuforc.org/webreports/reports/143/S143599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lorain (OH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>8 crafts or whatever, proceeding west to east along Lake Erie shore line, red, silent, with varying speeds, but generally in formation.I alone observed 8 deep-red light-colored objects in the sky, proceeding from west to east, a ways out from the shore, of Lake Erie.  The best analogy I can think of is moving Christmas ornaments!  A red top, perhaps round, not sure, with a long glowing downward tail, again, all red.  The first objects were four in number, not in rigid formation, but somewhat close together, followed by two more objects 10 seconds or so later, followed again by two more objects, about 20 seconds later.  Since I don't know how high up they really were, I cannot estimate their speed, BUT, sometimes one or two would slow down just a bit, and then so would the others.  It is a quiet night up here, little to no wind, clear sky with stars, not much traffic in my neighborhood 2 blocks from Lake Erie.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103615.html](http://www.nuforc.org/webreports/reports/103/S103615.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
