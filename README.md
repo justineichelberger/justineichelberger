@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:48 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Glowing orange lights in sky.Strange lights in the sky glowing orange flying around each other.  Clouds where in the sky, it us unknown if they disappeared or flew into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103641.html](http://www.nuforc.org/webreports/reports/103/S103641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ithaca (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object was white and in the shape of a V-- it was very large, and moved fast across the skyWhile watching the eclipse around 10:30 pm, there were a number of shooting stars (or what we thought were shooting stars) going from one side of the sky to the other. We were amazed by them, until we saw a bright white V shaped movement off in the distance. It seemed almost like a ghost, moving slower than a shooting star, but much faster than a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39987.html](http://www.nuforc.org/webreports/reports/039/S39987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
