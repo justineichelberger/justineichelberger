@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:26 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Anderson (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Blue light with patterns about 4’X8’ on ground at our feet moved about 20’ then gone.Sitting on our front patio we saw a blue light that was about 4’ wide and about 8’ long move at our feet from left to right and moved about 20’ then gone.  In the blue light it had several patterns that I could not detailed on.  We have no traffic in area and we live at the end of a road next to a river area.  No head lights could be seen from where we were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151928.html](http://www.nuforc.org/webreports/reports/151/S151928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Sloan (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Object above contrails (+30,000) changing shape and traveling slowly East, North-East to and over Las Vegas.At approximately 10:15 hours, Pacific time on 10/27/2018 while camping on the Jean Dry Lake Bed in Sloan NV (just outside of Las Vegas) I was watching the air traffic to and from LAS.  I noticed a bright, seemingly stationary ball which appeared to be at or above the 30,000' mark (over the contrails of passing jets)  I grabbed my Nikon D5200 DSLR with a 200mm lens and took ~200 photos in both .jpeg and .nef.  The object, to the naked eye, appeared spherical.  However, upon reviewing the images, it seemed to change shape from spherical to that of a cylinder with 3 to 4 separate sections, to that of a boomerang shape. The object was traveling East - North East towards southern Las Vegas.  Apparently, NWS launched a weather balloon at 0851 hours - however, this was an hour later, and the object was traveling towards Henderson, not away from it.  I and another adult observed the object for approximately 10 minutes until it gained altitude and was no longer visible.  I have 186 .nef photos of the object.((NUFORC Note:  We have looked at several of the high-quality photos, and we do not know for sure what the object is</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143599.html](http://www.nuforc.org/webreports/reports/143/S143599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
