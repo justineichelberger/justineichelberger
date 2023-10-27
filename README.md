@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object came from the north.  It looked like a bright light high in the sky.  Then it stoped hovered breifly, then to our amazment more lights came off of it and circled it.  It being the larger brighter light.  The smaller lights circling the larger one then came back to it and became one light again.which grew dim then bright then shot across the sky like nothing any of us had seen.then it came to a complete stop again.  And the smaller lights then came out again and circled the bright light.  This shooting across and stopping happend atleast four times.  And every stop was followed with the circling lights.  My neighbor who also witnessed and who is a retired army vet who served for twenty five years, was baffled and speachless.  I should have reported the incident sooner.  But I remember it like yesterday . Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101681.html](http://www.nuforc.org/webreports/reports/101/S101681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Siloam (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Larger black rectangular object followed by weather phenomenon in North Carolina.Approximately midnight.  Visibility was fair.  I was sitting on my porch and weather was clear.  Abruptly while I was on my phone and not observing the sky, a sudden matte darkness took over the sky and a rush of constant dumping rain occurred for about 20-30 seconds.  Afterwards the rain stopped and the sky began to clear swiftly, but not from clouds, but from an obvious craft at an unknown height, rectangular or square in shape, low.  I saw the edge as it exposed the sky above.  No sound, no lights.  It just left and was almost like pulling the shade on a window.  This is almost a year removed to a report I posted in Banner Elk NC of a football sized craft.  I am around 90 miles away from that incident.I do note that my head is extremely foggy today, and I have no recollection of going to bed but that could just be chalked up to a long work week.  No drugs or alcohol involved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150041.html](http://www.nuforc.org/webreports/reports/150/S150041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
