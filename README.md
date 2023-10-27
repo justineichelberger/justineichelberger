@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two gaslike lights moving in circular manner in southern skyI was walking dog in backyard and I noticed moving lights above the trees in my yard. They were moving in a circular manner -two separate whitish lights.  They were fairly bright when I noticed them. I knocked on my 21 year old son's window and told him to come outside.  They were as bright when he saw them as they were for me.  I then told him to get my other son.   All three of us had never seen anything like it.  The lights were in the southern sky from my house.  They did not appear to be real high up  It is overcast and sort of foggy.  We first thought if someone had a flashlight or two.  But really, we could not see any light trails and basically there is nothing behind my house except fields.  The lights faded out from what they were at the start but kept going in circular manner for 30 mintues or so but not in the same tracks.  Looking up they would appear stongest on the right side of the circle and disappear on the left side of the circle.  If you s! aw Close Encounters, they moved as fast as those lights, but were different. They were gaseous looking lights -sort of cloudlike.  Really weird. There were no noises at all from these lights.  We are located in a rural setting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78585.html](http://www.nuforc.org/webreports/reports/078/S78585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The object came from the north.  It looked like a bright light high in the sky.  Then it stoped hovered breifly, then to our amazment more lights came off of it and circled it.  It being the larger brighter light.  The smaller lights circling the larger one then came back to it and became one light again.which grew dim then bright then shot across the sky like nothing any of us had seen.then it came to a complete stop again.  And the smaller lights then came out again and circled the bright light.  This shooting across and stopping happend atleast four times.  And every stop was followed with the circling lights.  My neighbor who also witnessed and who is a retired army vet who served for twenty five years, was baffled and speachless.  I should have reported the incident sooner.  But I remember it like yesterday . Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/101/S101681.html](http://www.nuforc.org/webreports/reports/101/S101681.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
