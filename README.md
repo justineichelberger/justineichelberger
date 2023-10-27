@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bagheria (Italy) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was watching the stars and I sow this object that was chanching shape from circle to others. I though maybe it was a meteor moving but after i sow a metallic shape and propulsion coming from the back of it. I have taken quiet few pictures of it with my phone...tell me if is it a meteor or something else</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103727.html](http://www.nuforc.org/webreports/reports/103/S103727.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in King (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red orb interaction with aircraftShortly after dusk I came out and sat at my usual sitting spot...  Looked up to see what I thought was mars because it was red and not blinking...  About 30 seconds later it started moving south slowly... I stood up to move to see beyond my carport where it was moving.  I seen it move in front of an aircraft moving from what looked like from ne to west and vanished right in front of it about 10 miles.  The light seemed larger than what came from the plane so it may have been larger or closer than the plane but it was very odd that it disappeared right before the plane hit the same spot I seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103621.html](http://www.nuforc.org/webreports/reports/103/S103621.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
