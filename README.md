@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 27 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:54 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Siloam (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Larger black rectangular object followed by weather phenomenon in North Carolina.Approximately midnight.  Visibility was fair.  I was sitting on my porch and weather was clear.  Abruptly while I was on my phone and not observing the sky, a sudden matte darkness took over the sky and a rush of constant dumping rain occurred for about 20-30 seconds.  Afterwards the rain stopped and the sky began to clear swiftly, but not from clouds, but from an obvious craft at an unknown height, rectangular or square in shape, low.  I saw the edge as it exposed the sky above.  No sound, no lights.  It just left and was almost like pulling the shade on a window.  This is almost a year removed to a report I posted in Banner Elk NC of a football sized craft.  I am around 90 miles away from that incident.I do note that my head is extremely foggy today, and I have no recollection of going to bed but that could just be chalked up to a long work week.  No drugs or alcohol involved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150041.html](http://www.nuforc.org/webreports/reports/150/S150041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large, bright yellow object that appeared and reappeared in a different part of the sky and disappeared.I live in western Lake Worth. Housing development of Smith Farm at Fla. Turnpike and Hypolulo Rd. Was walking my dog and saw very large, bright, yellow object off in the western sky (it was about 5 times as big as Jupiter is in the sky now). At first I thought it was an aircraft because of the bright light. But, it did not move. I kept walking my dog around the development and it didn't move. Then it just disappeared. I continued to walk my dog for about another 5 minutes and when I got home, it was in the north-western sky behind my neighbor's house across the street from my house. My neighbor's house is a one-level house and this object was just above the roof off in the distance. I ran into my house and got my telescope. While I was trying to get this object into focus it just disappeared. I ran in my neighbor's back yard and it was nowhere to me seen. There were no clouds in the sky. Did anyone else see this?((NUFORC Note:  We do not know what time "2930 hrs." is on the 12-hour clock.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14724.html](http://www.nuforc.org/webreports/reports/014/S14724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/165/S165082.html)
-- [291](http://www.nuforc.org/webreports/reports/165/S165093.html)
-- [290](http://www.nuforc.org/webreports/reports/165/S165087.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165129.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165085.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
