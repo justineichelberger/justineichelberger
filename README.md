@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:54 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:20:28 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large, bright yellow object that appeared and reappeared in a different part of the sky and disappeared.I live in western Lake Worth. Housing development of Smith Farm at Fla. Turnpike and Hypolulo Rd. Was walking my dog and saw very large, bright, yellow object off in the western sky (it was about 5 times as big as Jupiter is in the sky now). At first I thought it was an aircraft because of the bright light. But, it did not move. I kept walking my dog around the development and it didn't move. Then it just disappeared. I continued to walk my dog for about another 5 minutes and when I got home, it was in the north-western sky behind my neighbor's house across the street from my house. My neighbor's house is a one-level house and this object was just above the roof off in the distance. I ran into my house and got my telescope. While I was trying to get this object into focus it just disappeared. I ran in my neighbor's back yard and it was nowhere to me seen. There were no clouds in the sky. Did anyone else see this?((NUFORC Note:  We do not know what time "2930 hrs." is on the 12-hour clock.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14724.html](http://www.nuforc.org/webreports/reports/014/S14724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Scranton (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared to be a plane hovering in one spot with inverted wings and strange bubble-shaped objects underneath its wings.I was driving home with my mother and brother and we were driving in an alley when I noticed this craft sort of moving very slowely about maybe 100 or 200 feet in the air. The craft looked like a plane but it was moving too slowly and it's wings were inverted. Also, there appeared to be 2 bubble-shaped objects. One attached to the bottom of each wing. The bubble-shaped objects were slightly transparent, with a small blue light at the center of each one. I told my brother to stop the car and I got out and when I looked up, the object stopped and hovered directly over the car for a minute and then it started to gain speed and moved away and disappeared. Since then, I've seen the same type of object 4 or 5 times, the most recent being in December of 2002.((NUFORC Note:  Date is approximate.  We will request that the witness have his brother submit an independent report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27275.html](http://www.nuforc.org/webreports/reports/027/S27275.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
