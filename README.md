@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:01:00 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:41 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Los Angeles (over lax) (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>620PM  LA,LAX CA  OVAL SILVER, 30 SECONDS, 1 DISC @ FIRST THEN SPLIT INTO 5 DISC ON VIEDO10-28-11 620PM,  I WAS DRIVING SO. ON LINCOLN BV( AT JEFFERSON) (PLAYA DEL REY) DRIVING TOWARD LAX.  I SAW AND RECORDED A SILVER OVAL DISC FOR 30 SECONDS. DURING THE LAST 5 SECONDS OF THE VIEDO   THE DISC SOMEHOW SPLITS INTO 5 DISC & SHOT AWAY NORTH BOUND.  IT HAD TO BE ON THE RADAR AT LAX. AM SURE MORE THEN MYSELF & MY PASSENGER SAW THIS.  THE VIEDO SPEAKS FOR ITSELF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85056.html](http://www.nuforc.org/webreports/reports/085/S85056.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Moyock (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>it seemed to be going extremely slow with bright lightsIt traveled just above the tree line and was going very slow. It had red lights and greenish blue lights.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66508.html](http://www.nuforc.org/webreports/reports/066/S66508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
