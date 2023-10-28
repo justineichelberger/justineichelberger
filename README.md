@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waco (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Possible planes on fireOctober 28, 2008 8:15pm Waco, Texas 76712 Skies Clear Temperature 55 F Winds: 0 mph Humidity: 36%    On Oct. 28, 2008 at around 7:45pm, I Was sitting on front porch drinking coffee with room mate and happen to glance over towards west and directly under what I believe to be Mars was a rectangular object that appeared to be on fire.It burned for a second and flashed out and re appeared to the right (in my measurements of the space between an inch if you held a ruler to the night sky) of it and burned for another second. While that object "burned" the first object reappeared to the left of the 2nd object and then the 2nd object flashed out, followed by the 1st object and then the 2nd object reappeared and flashed out and then nothing.  My room mate saw the last flash, because he couldn’t see what I was looking at, until he stood up.  Because this all happen right above the horizon of tree tops.My first impression was a plane was on fire and then when the 2nd object appeared and looked to be on fire.  My impression was a dogfight of some sorts.  I am not sure what it was. It was interesting to say the least.  I cannot tell if it was over Waco or not, It may have been passed Waco.  I cannot say how far away it was, but all I can say is it was as big if not bigger than an American Eagle jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66512.html](http://www.nuforc.org/webreports/reports/066/S66512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fairfield (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Red glowing oval object with whitish blue halo effect Southwest of Fairfield, Freestone County observed for 20 minutesThis is the second sighting in one week here in Freestone County. Because of the October 21st sighting, we have been very alert and scan the skies nightly. On the evening of Tuesday, October 28th 2008 I went out on our back porch to give a treat to our dogs. I looked up in the South West sky and observed a large glowing orange/red object. It was not as bright as the stars and much bigger to the naked eye. It had no blinking lights like an aircraft so I called out to my boyfriend to come outside and take a look.He came out, took one look and said to record exactly what time it was (8:20 PM), he then went inside and retrieved a rifle with a high powered scope and we began to watch this thing through the scope. We live on a ranch so we have open views and dark sky. This object "floated" or hovered for 13 minutes before descending or headed away so that we could not see it, although with our naked eyes it looked like it descended somewhere in the Jewett Mine area.While watching it through the scope, we saw that it was emitting a faint white or bluish glow at varying times. It was very strange. We are now convinced that something is going on over the Central skies of Texas. Please, please investigate and do not let this be explained away by military testing etc...I reported this sighting to MUFON and was contacted by an investigator. I cannot stop thinking about what we have seen the last two weeks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66707.html](http://www.nuforc.org/webreports/reports/066/S66707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
