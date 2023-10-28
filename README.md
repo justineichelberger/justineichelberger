@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:01:00 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I looked up and saw a sphere very high up over the Helmsley Palace Hotel...I was on my break at work,(10:10 AM), and went out on the roof.I looked up and saw a sphere very high up over The Helmsley Palace Hotel. It was silvery in color and did not move for approximately 2 minutes.I went and called a co-worker. We both watched it hover for maybe another 2-3 minutes. It seemed to be fading in and out. Then it began to move north very slowly and it disappeared behind a building.Approximately 11:45 AM, I went back to the roof to look for it again, and this time it seemed to be 2 spheres that merged into 1 in front of my eyes! It seemed to hover around the same area as before, then started to move very, very slowly, stopped for 30 seconds, and continued to move east and once again disappeared behind a building.Once again I went back to the roof, this time about 12:20 PM. I looked around and did not see anything. I was about to leave when I looked straight up in the sky and saw what looked like a stretched oval shape, that reminded me of an airplane wing. It was brownish in color. It moved south at a faster speed, more like an airplane speed,for 15 seconds. It then stopped and hovered for 30 seconds. It did a maneuver of 3 to 4 very tight circles. At the last circle it disappeared behind a building. I watched until it re-emerged in about a minute, it did 1 more circle, only to disappear behind a building once again.From the roof of the building I have seen blimps, balloons,airplanes, helicopters, and jet fighters,(after 911), but have never seen anything move like this! I will be bringing my video camera to work from now on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32728.html](http://www.nuforc.org/webreports/reports/032/S32728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Los Angeles (over lax) (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>620PM  LA,LAX CA  OVAL SILVER, 30 SECONDS, 1 DISC @ FIRST THEN SPLIT INTO 5 DISC ON VIEDO10-28-11 620PM,  I WAS DRIVING SO. ON LINCOLN BV( AT JEFFERSON) (PLAYA DEL REY) DRIVING TOWARD LAX.  I SAW AND RECORDED A SILVER OVAL DISC FOR 30 SECONDS. DURING THE LAST 5 SECONDS OF THE VIEDO   THE DISC SOMEHOW SPLITS INTO 5 DISC & SHOT AWAY NORTH BOUND.  IT HAD TO BE ON THE RADAR AT LAX. AM SURE MORE THEN MYSELF & MY PASSENGER SAW THIS.  THE VIEDO SPEAKS FOR ITSELF.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85056.html](http://www.nuforc.org/webreports/reports/085/S85056.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
