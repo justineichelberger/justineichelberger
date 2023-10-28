@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Sheridan (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object flying over the tree line at the Big Horn Mountains south of Sheridan WyomingIn october 2004 south of Sheridan,Wyoming about 2am I was standing on the ridge at work when I looked up across the valley to the tree line and saw a green white ball traveling along the big horn mountains south.I looked up again and it was still there and moving to the south.When it reached the end of the mountain range it went into the trees.That was all I Saw.The problem with this is,its not in the Sheridan flight path.This is the same kind of thing I saw in Brewster New York about 21 years ago 1983 I believe.The whole town saw the 1983 sittings as well.((NUFORC Note:  Date of sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41425.html](http://www.nuforc.org/webreports/reports/041/S41425.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Walking my fiance out to her car at about 8:45 pm and i looked up into the sky and noticed that the clouds had cleared up so i took a look at the lunar eclipse amd noticed that there was a wierd flying chevron shaped object kind of like a big flying glider. It was huge from the distance that i seen it this thing looked crazy, it was flying with banking motion left to right and there where no lights and no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40022.html](http://www.nuforc.org/webreports/reports/040/S40022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
