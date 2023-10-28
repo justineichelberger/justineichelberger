@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pierrefonds (Canada) (QC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFOA vertical saucer shaped object just stayed in one spot.  At one point it looked like something falling out of the sky.  Then it just stayed still for awhile.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103704.html](http://www.nuforc.org/webreports/reports/103/S103704.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I looked up and saw a sphere very high up over the Helmsley Palace Hotel...I was on my break at work,(10:10 AM), and went out on the roof.I looked up and saw a sphere very high up over The Helmsley Palace Hotel. It was silvery in color and did not move for approximately 2 minutes.I went and called a co-worker. We both watched it hover for maybe another 2-3 minutes. It seemed to be fading in and out. Then it began to move north very slowly and it disappeared behind a building.Approximately 11:45 AM, I went back to the roof to look for it again, and this time it seemed to be 2 spheres that merged into 1 in front of my eyes! It seemed to hover around the same area as before, then started to move very, very slowly, stopped for 30 seconds, and continued to move east and once again disappeared behind a building.Once again I went back to the roof, this time about 12:20 PM. I looked around and did not see anything. I was about to leave when I looked straight up in the sky and saw what looked like a stretched oval shape, that reminded me of an airplane wing. It was brownish in color. It moved south at a faster speed, more like an airplane speed,for 15 seconds. It then stopped and hovered for 30 seconds. It did a maneuver of 3 to 4 very tight circles. At the last circle it disappeared behind a building. I watched until it re-emerged in about a minute, it did 1 more circle, only to disappear behind a building once again.From the roof of the building I have seen blimps, balloons,airplanes, helicopters, and jet fighters,(after 911), but have never seen anything move like this! I will be bringing my video camera to work from now on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32728.html](http://www.nuforc.org/webreports/reports/032/S32728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
