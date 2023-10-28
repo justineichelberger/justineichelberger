@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jeromesville (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange Lights moving over field at night.One larger red flashing light hovering above a field, moving slowly west as several smaller white flashing orbs darted above and below the area over the field.  Initially saw ring of lights around larger reddish light, got 4K camera, told driver to stop, but stopping was precarious.  Was filming at this point.  Got out of vehicle and filmed lights over field, and larger light moving slowly and passing by a utility tower further to the SW of the field, where the white flashes continued darting around.  All were moving in an altitude from near the ground to 100-150 meters at maximum.  Average height was just above the tallest tree heights.This video caught the white lights with a barn pole light as point of reference.  It also caught the larger one as it moved from the right to left side of a lit up tower, that serves as a reference point.  Stopped filming for safety as trucks were blasting past us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130891.html](http://www.nuforc.org/webreports/reports/130/S130891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright beacon style light sweeping over Lawrence. (Not the airport beacon)After dark, I saw a airport-style beacon light (large, bright, and sweeping across the sky) coming from the southern edge of Lawrence, specifically 75 degrees south of west.  It was unlike an airport beacon in the fact that it only swept back and forth over an area of nearly 90 degrees.  The airport is also in the opposite direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85860.html](http://www.nuforc.org/webreports/reports/085/S85860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
