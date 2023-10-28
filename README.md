@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:28 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:05:12 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Scranton (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It appeared to be a plane hovering in one spot with inverted wings and strange bubble-shaped objects underneath its wings.I was driving home with my mother and brother and we were driving in an alley when I noticed this craft sort of moving very slowely about maybe 100 or 200 feet in the air. The craft looked like a plane but it was moving too slowly and it's wings were inverted. Also, there appeared to be 2 bubble-shaped objects. One attached to the bottom of each wing. The bubble-shaped objects were slightly transparent, with a small blue light at the center of each one. I told my brother to stop the car and I got out and when I looked up, the object stopped and hovered directly over the car for a minute and then it started to gain speed and moved away and disappeared. Since then, I've seen the same type of object 4 or 5 times, the most recent being in December of 2002.((NUFORC Note:  Date is approximate.  We will request that the witness have his brother submit an independent report, as well.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27275.html](http://www.nuforc.org/webreports/reports/027/S27275.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Moundsville (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO sighting Moundsville WVMy wife and I are both professionals and we saw a large disk object about 300 meters in diameter in the sky off to the left side of highway 250 South while traveling south to Moundsville WV from Washington PA. e object had strobe lights around the outer edge which were red, blue, white and yellow. e object appeared in the sky for 1.5-2 minutes duration before we lost sight of it in the trees. It was flying at a height which I would suspect small aircraft to fly such as piper planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59823.html](http://www.nuforc.org/webreports/reports/059/S59823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
