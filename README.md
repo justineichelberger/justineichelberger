@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Big Sur (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Report Re. UFO off coast near Big Sur, CA @2:35-2:55 AM Oct 28, 2011   A large red star-like orb, many times brighter than any bright star, was observed out my window facing west over the ocean on Friday morning.  It reminded me of the light from an electronic device so to verify I went outside to watch it alone, observing a short tail as it slowly moved from about 45degrees west of the horizon going WNW towards the horizon.It blazed up very brightly with a very long comet-like tail colored flame red before gradually fading out to nothing as it approached the western Pacific Ocean rim.I was expecting a sound but couldn’t hear anything and the night was very quiet.  I have a very good view of the ocean so there was no impediment to my view from ambient light or obstructions as I live in an isolated part of the coast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84984.html](http://www.nuforc.org/webreports/reports/084/S84984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Walkertown (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object had green and white lights gone in 3 seconds really bright and fast.Object had green and white lights and was over the tree line looked like it was just skipping clouds really bright and gone in 3 to 4 seconds and was nowhere to be found really fast and bright green and white lights never seen any thing like it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103572.html](http://www.nuforc.org/webreports/reports/103/S103572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
