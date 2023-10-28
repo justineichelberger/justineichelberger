@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jeromesville (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange Lights moving over field at night.One larger red flashing light hovering above a field, moving slowly west as several smaller white flashing orbs darted above and below the area over the field.  Initially saw ring of lights around larger reddish light, got 4K camera, told driver to stop, but stopping was precarious.  Was filming at this point.  Got out of vehicle and filmed lights over field, and larger light moving slowly and passing by a utility tower further to the SW of the field, where the white flashes continued darting around.  All were moving in an altitude from near the ground to 100-150 meters at maximum.  Average height was just above the tallest tree heights.This video caught the white lights with a barn pole light as point of reference.  It also caught the larger one as it moved from the right to left side of a lit up tower, that serves as a reference point.  Stopped filming for safety as trucks were blasting past us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130891.html](http://www.nuforc.org/webreports/reports/130/S130891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waco (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Possible planes on fireOctober 28, 2008 8:15pm Waco, Texas 76712 Skies Clear Temperature 55 F Winds: 0 mph Humidity: 36%    On Oct. 28, 2008 at around 7:45pm, I Was sitting on front porch drinking coffee with room mate and happen to glance over towards west and directly under what I believe to be Mars was a rectangular object that appeared to be on fire.It burned for a second and flashed out and re appeared to the right (in my measurements of the space between an inch if you held a ruler to the night sky) of it and burned for another second. While that object "burned" the first object reappeared to the left of the 2nd object and then the 2nd object flashed out, followed by the 1st object and then the 2nd object reappeared and flashed out and then nothing.  My room mate saw the last flash, because he couldn’t see what I was looking at, until he stood up.  Because this all happen right above the horizon of tree tops.My first impression was a plane was on fire and then when the 2nd object appeared and looked to be on fire.  My impression was a dogfight of some sorts.  I am not sure what it was. It was interesting to say the least.  I cannot tell if it was over Waco or not, It may have been passed Waco.  I cannot say how far away it was, but all I can say is it was as big if not bigger than an American Eagle jet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66512.html](http://www.nuforc.org/webreports/reports/066/S66512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
