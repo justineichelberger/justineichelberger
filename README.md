@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:21 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Walkertown (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Object had green and white lights gone in 3 seconds really bright and fast.Object had green and white lights and was over the tree line looked like it was just skipping clouds really bright and gone in 3 to 4 seconds and was nowhere to be found really fast and bright green and white lights never seen any thing like it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103572.html](http://www.nuforc.org/webreports/reports/103/S103572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wellington (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I just got home from work and I saw 2 bright lights over my house.  I thought it was the cell phone tower but they were moving.  They were so bright I took a picture then called my wife to come outside.  They rose over my house and as the got higher the 2 crafts moved apart and fly away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103573.html](http://www.nuforc.org/webreports/reports/103/S103573.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
