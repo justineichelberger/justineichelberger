@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Florida (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>triangular shaped bright white object with flashing lights and one red light.Triangular shape that changed direction but did not move from the area.  Bright white in color, as in completely lit up with blinking lights and one red light on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39997.html](http://www.nuforc.org/webreports/reports/039/S39997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jeromesville (OH) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange Lights moving over field at night.One larger red flashing light hovering above a field, moving slowly west as several smaller white flashing orbs darted above and below the area over the field.  Initially saw ring of lights around larger reddish light, got 4K camera, told driver to stop, but stopping was precarious.  Was filming at this point.  Got out of vehicle and filmed lights over field, and larger light moving slowly and passing by a utility tower further to the SW of the field, where the white flashes continued darting around.  All were moving in an altitude from near the ground to 100-150 meters at maximum.  Average height was just above the tallest tree heights.This video caught the white lights with a barn pole light as point of reference.  It also caught the larger one as it moved from the right to left side of a lit up tower, that serves as a reference point.  Stopped filming for safety as trucks were blasting past us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130891.html](http://www.nuforc.org/webreports/reports/130/S130891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
