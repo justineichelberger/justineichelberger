@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fairfield (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 13.0 - 13.0 minutes.</sub><blockquote><sub>Red glowing oval object with whitish blue halo effect Southwest of Fairfield, Freestone County observed for 20 minutesThis is the second sighting in one week here in Freestone County. Because of the October 21st sighting, we have been very alert and scan the skies nightly. On the evening of Tuesday, October 28th 2008 I went out on our back porch to give a treat to our dogs. I looked up in the South West sky and observed a large glowing orange/red object. It was not as bright as the stars and much bigger to the naked eye. It had no blinking lights like an aircraft so I called out to my boyfriend to come outside and take a look.He came out, took one look and said to record exactly what time it was (8:20 PM), he then went inside and retrieved a rifle with a high powered scope and we began to watch this thing through the scope. We live on a ranch so we have open views and dark sky. This object "floated" or hovered for 13 minutes before descending or headed away so that we could not see it, although with our naked eyes it looked like it descended somewhere in the Jewett Mine area.While watching it through the scope, we saw that it was emitting a faint white or bluish glow at varying times. It was very strange. We are now convinced that something is going on over the Central skies of Texas. Please, please investigate and do not let this be explained away by military testing etc...I reported this sighting to MUFON and was contacted by an investigator. I cannot stop thinking about what we have seen the last two weeks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66707.html](http://www.nuforc.org/webreports/reports/066/S66707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Wellington (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Lime green glowing oval shaped bright light seen over Wellington, COI was watching TV and out of the corner of my eye I saw a bright lime green glowing oval light drop down from the top left corner of my living room window and it disappeared behind the neighbors house. When I turned my head it was in the middle section of my window and then it was gone.  The pattern of which it dropped looked like a meteor, but I know meteors don't glow green.   I jumped up to look out the window and didn't see anything. The size of the light was about the size of the street light on the street behind our house, probably about 4-5 inches in diameter (with the glow), in an oval shape.  We have one of those honeycomb see-through shades which was down so I have no idea how far away it was. I can't be certain of course if it was a UFO, but I have never seen anything else like it.  The length of time from it dropping from the top corner of my window until it disappeared behind the neighbors house was probably 3-4 seconds.  The time it occurred was between 7:45-8:00PM. I am reporting this to see if anyone else saw anything.((NUFORC Note:  I believe that some meteors are green, if they contain copper.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66524.html](http://www.nuforc.org/webreports/reports/066/S66524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
