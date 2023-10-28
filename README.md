@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Four orange/red lights flying in formation one minute apart.While walking my dog I saw an unusual very bright orange/red light approaching my location. It was moving west to east appeared to be at around 500 feet. I thought it might be a helicopter but as it got closer it was completely silent. It was moving slowly and appeared to be hexagon shaped. It was difficult to make out the shape as it was so bright. I watched it move off to the East never changing speed or direction. Having thought the show was over I saw this exact scenario three more times. They were roughly one minute apart. The last one changed direction from the others slightly and almost passed directly over my head.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165206.html](http://www.nuforc.org/webreports/reports/165/S165206.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Big Sur (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Report Re. UFO off coast near Big Sur, CA @2:35-2:55 AM Oct 28, 2011   A large red star-like orb, many times brighter than any bright star, was observed out my window facing west over the ocean on Friday morning.  It reminded me of the light from an electronic device so to verify I went outside to watch it alone, observing a short tail as it slowly moved from about 45degrees west of the horizon going WNW towards the horizon.It blazed up very brightly with a very long comet-like tail colored flame red before gradually fading out to nothing as it approached the western Pacific Ocean rim.I was expecting a sound but couldn’t hear anything and the night was very quiet.  I have a very good view of the ocean so there was no impediment to my view from ambient light or obstructions as I live in an isolated part of the coast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84984.html](http://www.nuforc.org/webreports/reports/084/S84984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
