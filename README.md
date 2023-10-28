@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:12 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 28 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Moundsville (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>UFO sighting Moundsville WVMy wife and I are both professionals and we saw a large disk object about 300 meters in diameter in the sky off to the left side of highway 250 South while traveling south to Moundsville WV from Washington PA. e object had strobe lights around the outer edge which were red, blue, white and yellow. e object appeared in the sky for 1.5-2 minutes duration before we lost sight of it in the trees. It was flying at a height which I would suspect small aircraft to fly such as piper planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59823.html](http://www.nuforc.org/webreports/reports/059/S59823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Sidney (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>One of many to see the ufo's on 10/28/08 in Comanche, TexasMy two day's off work were Tues. and Wed. October 28th and 29th 2008.  Me and my friend ((name deleted)) set out to the ranch in Sidney to do some bow hunting.  After the hunt Tuesday evening we met up at my stand and were talking when these three bright light's came out and were hovering over a large oat field!  Then they went out and a single light began moving very quickly across the sky turning on and off.  There were several commercial airliner's in the area and these light's were 5 times faster.  Then we took a couple steps back to see over the trees as the 3 light's had come back out and were hovering over a different area a little more to the north east.We got in the truck and rushed back to the ranch house and called the police to see what was going on and they had no clue.  I just got home from hunting only to find out that there were dozens of sightings, new's coverage, and even a few video's from Dublin, Stephenville area and other part's of Erath and, Comanche counties. I live next to Carswell Air force Base in fort worth so I see planes and jet's everyday! I can say this was nothing man made and I have never seen anything like this in my 25 year's of life!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66553.html](http://www.nuforc.org/webreports/reports/066/S66553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [334](http://www.nuforc.org/webreports/reports/165/S165153.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165152.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165206.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165128.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165078.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
