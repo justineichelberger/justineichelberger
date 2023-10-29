@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:15 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mercer (RT 19) (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Tonight at 7:04 pm, we were traveling south on Route 19 from Mercer towards Harlansburg.   Around the church on that road we happened to look outside our vehicle on the passenger side and saw 4 orange color lights flying north in perfect formation.  Under the clouds.   They were spaced perfectly apart in almost a big dipper handle shape.  Coincidentally, one other person saw same lights in portersville at 5:30pm and in Ohio at 1030pm.  Also we went back out and drove toward where we saw the lights 45 min later and someone had ran into a cow on that road...  Coincidence?  I don't know</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123240.html](http://www.nuforc.org/webreports/reports/123/S123240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Tyrone (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Seen a strange object going east at a faster speed then normal. Silver chrome colored it turned and it just disappeared.My husband and I was driving and he seemed this shape In the sky it was fast moving east had no jet trail.  Ask me to look at it l did. It was silver chrome color. It was bright when the sun hit it. Once it turned it just disappeared. So strange because I told my husband about a strange sighting I seen  two nightes before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165091.html](http://www.nuforc.org/webreports/reports/165/S165091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
