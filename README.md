@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange cigar shaped object drops material.We drove south of Fulton and stopped just outside the city line for a nature call. It was a perfectly clear night with many stars visible.I looked up to the sky and saw an organge cigar shaped object moving slowly from the north. I told my friend to look at this thing.  The object stopped and a piece of the same color fell from it an then burst into flames. The object then moved slowly away in the same direction it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84882.html](http://www.nuforc.org/webreports/reports/084/S84882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Eastport (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Over last four weeks, observed round object in sky with mostly bright white but has flashing red and green lights.  Object is first noticed low in sky east by southeast of Eastport MD.  Over a period of 45-75 minutes, object moves diagonally at 45 degree angle upward in direction of south by southeast. 4 weeks ago was appearing around 0230 and gone after 90 minutes or so.  Now appearing around 00:30 and not sure how long remains aloft.  Too far of a distance for binoculars or amateur telescope.  Object brighter than stars and appears most nights.  Seems on schedule.  Location of first appearance and upward direction always same.((NUFORC Note:  We suspect a sighting of Sirius, which is rising in the eastern sky at this time of year, and at the time indicate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103739.html](http://www.nuforc.org/webreports/reports/103/S103739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
