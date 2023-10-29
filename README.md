@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:36 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:42 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Pulsing orange light, hovering, sparking, and dimming until fading completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20013.html](http://www.nuforc.org/webreports/reports/020/S20013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Multiple reddish colored objects moving in a single-file path from southeast to northwest while gaining altitude.At approximately 7:20 p.m. on October 29, 2014, I was at the intersection of North Garland Road and Beltline Road in Garland, Texas.  I was in a parking lot, looking south.  I observed multiple objects emitting a red colored light.  The objects would originate from low on the horizon, and travel from the southeast to the northwest while gaining altitude.  So, from my vantage point, the objects were moving from left to right and upward.  Note that, if these were conventional aircraft, they would have shown a green light, as I was observing the starboard (right) side of the craft.  The objects appeared one or two at a time, and followed the same path as the previous.  I observed several of these red light objects originate low in the horizon and move upward and to the right along the same path in the sky, over the course of approximately 1 minute.  The objects were consistent in size and velocity with conventional aircraft, which were also visible in the sky f! rom my location (urban area) however, as previously mentioned, the coloration of the light was not consistent with conventional aircraft.  The light was reddish in color and had a pulse at a relatively low frequency, also some white light was visible within the red light emitted.  The objects were at a distance such that I was not able to observe their exact shape.  I was unable to detect any sounds from the objects, as the urban area was noisy at that time in the evening.  Also, each of the objects would apparently gain altitude until it appeared as a small pinpoint of light in the sky (star).  Two other witnesses observed the objects after I pointed them out in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115147.html](http://www.nuforc.org/webreports/reports/115/S115147.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
