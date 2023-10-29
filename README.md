@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:44 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Yuba City (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large blue/silver sphere with green halo travelled across sky approx 20 deg. arc leaving a white trail. Event lasted 1.0 sec.While sitting in my duck blind on 10/29/98 I observed a large blue/silver sphere with a green halo streak horizontally across the sky followed by a wide exhaust trail, whitish in color. The event lasted 1.0 second and was gone. It moved as fast as a meteor. I was looking north and could see the white top of Mt. Shasta about 200 miles away. The object looked about the same size as the visible top of the mountain. It travelled from west to east and covered about a 20 deg. arc. The sky was clear with a few small clouds, no wind, bright sun, ambient temp. about 70 deg., and nothing interfered with full vision of the event. My eyesight is very good, corrected to 20/20.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04700.html](http://www.nuforc.org/webreports/reports/004/S04700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Danville (IL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>Unknown Object In SkyI was out taking fall pictures at Kickapoo State Park.  I didn't notice anything while I was on location, but when I got home to download my pictures onto my computer, I noticed that there is one picture that has an anomaly in the sky.  I took a couple of shots in the same general area and only one of the pictures has this object in the sky.  I have the RAW file to prove that the object was not added post production.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143614.html](http://www.nuforc.org/webreports/reports/143/S143614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
