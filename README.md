@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lee's Summit (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large, bright light, moving slowly then zipping away.October 29, 2012 Tonight (Oct.29) about 8:25 p.m., looking to the west, just above the trees, saw a dim star when a  bright, white light (LED brightness)  appeared on the north side of it.  It was going southeast, called my sons to look.  Saw my neighbor (a Marine) outside, asked if he knew what it could be, "no." It continued going southeast, slowly, then it just zipped out of sight.  Appeared to disappear upwards, not  lateral.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93952.html](http://www.nuforc.org/webreports/reports/093/S93952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Paragould (AR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My freind and I seen a circular craft land.  It was there for at least a minute.  When it took off again, it made a loud howling noise. I,d guess the diameter was around 100feet, and the height to be around 15 feet.  We were about fifty feet away from the craft when it landed.  the color of the light were blue.  Our metal detector circuits were fried becaus of the interference from the craft.   When the craft took off it hovered for a few secons, then it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13266.html](http://www.nuforc.org/webreports/reports/013/S13266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
