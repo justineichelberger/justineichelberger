@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dorchester, Dorset (UK/England) () reported seeing craft that fit the description of some 'Disk' over a period of approximately NOT SURE - NOT SURE minutes.</sub><blockquote><sub>White glowing disk above Dorchester Dorset in EnglandMe and my friend where just walking down the street in the dark when i looked up to try to find the pole star when i saw a glowing white disk shape just hovering there at first i thought it was my eyes playing tricks because i had looked at a street lamp before but my friend saw it to he said it was darting about. then we saw another one we didn't know what to do because no one would belive us today but then i found this site and dicided to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14740.html](http://www.nuforc.org/webreports/reports/014/S14740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1969, an anonymous witness in Fulton (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange cigar shaped object drops material.We drove south of Fulton and stopped just outside the city line for a nature call. It was a perfectly clear night with many stars visible.I looked up to the sky and saw an organge cigar shaped object moving slowly from the north. I told my friend to look at this thing.  The object stopped and a piece of the same color fell from it an then burst into flames. The object then moved slowly away in the same direction it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/084/S84882.html](http://www.nuforc.org/webreports/reports/084/S84882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
