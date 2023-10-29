@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:43 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 29 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Helen (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Cabin (Tanglewoods) - Cabin (Tanglewoods) minutes.</sub><blockquote><sub>Bright white star like lights, At first l thought they were stars in the sky being in the woods and very dark.  The more l kept looking they wasn't in the sky at all.  All around the trees they started popping up like a star then gone.  I couldn't stop watching it.  I watched these lights for almost 2 hours.  It was the most unexplainable thing that l have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137033.html](http://www.nuforc.org/webreports/reports/137/S137033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Bristol (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>very large object seen over the west endA friend and i were going to Waterbury to meet friends.  We were in the area of upson st. and the traffic was stopped.  when i looked out of the window i saw alot of people standding in the litchfield farms parking lot looking up in the sky; when i looked up i saw an immense object, i couldn't see the beginning or end of it.  it was black and if i remember had red lights on the bottom of it, mabie it had other lights too but this thing appeared to be very dense and although i didn't hear any noise i recall a vibration.  my friend was afraid so we contiued toward waterbury as we went up wollcott mountain in the area of central high school i looked back and could see this thing from above and it covered the west end of town it was as big as a mall.  once we got to waterbury and met our friends i told them what had happened.  the next part is hard to explain but we were riding around the block and the same events would repeat themselves (ex. the same car would pull out in the same spot, the same man with a suitcase would cross at the same red light) i think we rode around the block 3 or 4 times before someone else took the wheel and broke this pattern.  if anyone else saw this thing or had anything unusual happen to them at this time i would really like to know about it.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19380.html](http://www.nuforc.org/webreports/reports/019/S19380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [335](http://www.nuforc.org/webreports/reports/165/S165095.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165140.html)
-- [333](http://www.nuforc.org/webreports/reports/165/S165145.html)
-- [332](http://www.nuforc.org/webreports/reports/165/S165096.html)
-- [331](http://www.nuforc.org/webreports/reports/165/S165126.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
