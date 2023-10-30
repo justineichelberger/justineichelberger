@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:47 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Inlet Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Predawn. Extremely high flying, large, fast moving object with a single white light on it. Flying from NNE to SSW over the Gulf of Mexico. Traversed one quarter of the sky in approximately 10 seconds. No sound. No vapor trail. Not enough time to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160297.html](http://www.nuforc.org/webreports/reports/160/S160297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mission Viejo (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.041666666666666664 - 0.041666666666666664 minutes.</sub><blockquote><sub>Huge, white meteroid with red flames and brown tail-burns out right over houses!I was driving up a hill in Misson Viejo on Fleipe Street when this giant meteror came within view, crossed about 5 or 6 feet in front of our vision and burned out!  It was the biggest object in the sky I have ever seen!  It was a bright white light,about the size of a large softball, with red flames 3 to 4 feet jagged behind it!  There was also a brown trail mixed in with the red flames at the bottem of the flare.  The giant meteor was so bright and close we thought it was going to hit the houses!   It looked like it extinguished itself about 100 feet over them because we were going up the hill.(25-30 mph)  for a few minutes we could close our eyes and the brightness of the light was still there with the shape we had seen.  I've seen many shooting stars, meteroid showers, and I have never seen a meteroid/star so close and big!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47302.html](http://www.nuforc.org/webreports/reports/047/S47302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
