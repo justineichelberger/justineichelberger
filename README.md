@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:50 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Turner (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Red orb comes down our drivewayIt was around 9:15 pm when my son and I were playing outside in the snow we had gotten which is odd to get that early in the season. the sky was beautifully clear so I was looking at stars as I often do on clear nights. I had seen several objects that looked like stars moving through the sky ( I see these things frequently and don't exactly know what they are) after the "moving stars" disappeared I walked over to my son. Moments later at the end of my driveway a red glowing orb popped out from the tree line it appeared to be around 100 feet above the tree line.  I quickly told my son to go up to the porch as this orb travels over the driveway towards us.  We watched from the porch as it slowly paraded over the driveway.  I yelled for my wife she came out just in time to see the red orb shoot into the sky at a 45 degree angle and park itself in the sky it took seconds to reach its destination and was completely silent.  We stood there and watched for it! to come back but it did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90208.html](http://www.nuforc.org/webreports/reports/090/S90208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>triangular airplane that sorta looked like it but different hovering over building.We My two son ages 14 and 12 and baby age 2 she was asleep.  We were driving home from the Tampa airport about 8 miles away driving on the suncoast pkwy towards home after welcoming home my mother in law.  I look from a distance and of course just thought it was an airplane, but as we got closer it stayed in the same place, I am sure 747's do not hover.  I grew up in Cleveland Ohio and right by the hopkins airport and never seen a plane hover like this,as I got closer it was larger than any plane that of a 747,  This plane that we saw was just hovering over this building, my oldest son said mom its not moving, I said its just a slow desent, trying to keep my eyes on the road as well.  Then I said as we got closer holy crap its not moving! I thought it might be a stealth, since we did have windows down I did not hear anything as far as an airplane engine, it was rather close and still not moving.  I of course did not think anything of it, since it was so close to t! he airport, and macdill airforce base... but with my boys they and now I believe it was a UFO I have never seen an airplane hover like this then just disapear. but not to alarm my 12 yr old who still to this day the movie Signs freaks him out,  I said must be a stealth but my oldest reasoned with me, it couldnt be. Are we right did any one encounter this or are we just seeing a new air craft hover?  I just wish I would have thought to take a pic with my cell phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78647.html](http://www.nuforc.org/webreports/reports/078/S78647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
