@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:49 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Green River (UT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>mothership... coming in for a landing made the valley glow red... caused me to stop on I-70 to let it pass...((NUFORC Note:  Witness indicates that date of incident is approximate.  We are not certain whether this is submitted as a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/064/S64349.html](http://www.nuforc.org/webreports/reports/064/S64349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pearl (MS) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>3 of us saw a craft fly, hover, and then take off very quickly - all this with no soundWe saw one dark black triangle craft with white lights on the corners and a red light in the center. It flew slowly from the north to the south, stopped, slowly pivoted 180*, and then took off very fast toward the north. It flew and hovered about 100 ft. in the air, and flew soundlessly. It measured approximately 100 ft. from corner to corner. I saw no flame or engine from the craft. The location was within 2 miles from the Jackson International Airport and a Air Force Base, but this did not look like an airplane or amy aircraft that I had ever seen. I have seen the B12 bomber up close and far away, and it was NOT that. The witnesses were myself, my husband, and our son. I was 42 at that time, and our son was 12 y/o. I have a B.S. degree in Nursing, and a M.A. degree in Marriage and Family Therapy. My husband, 45 y/o at the time, is an engineer with a B.S. degree who served 3 years in the Army, and he knows all the publically known aircraft. He is a military history buff who has studied military craft of all kinds. There were others that saw this craft as it occurred in a very public area near I-20 and a 6 lane highway.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43093.html](http://www.nuforc.org/webreports/reports/043/S43093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
