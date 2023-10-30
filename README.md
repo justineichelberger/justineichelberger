@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:47 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mt. Rainier area (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Flying on way to Seattle, saw V shape craft obout 12-14000 ft flying through the clouds in  East direction.  It went through the clouds, and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143629.html](http://www.nuforc.org/webreports/reports/143/S143629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately quite some time - quite some time minutes.</sub><blockquote><sub>I dont know if you want to post this or not but here goes october 1999 six individual lights spaced equally apart with the moon on the right hand side with two groups of triangles with three lights in each grouping anthree lights on an right angle i believe that they were with the armada and base situated on the other side of the moon right near that statue that the japanese satilighte took the picture of if you look carefully at that picture you will see an entrance that looks like some kind of large bay.also there has been a unusually high number of sioghtings world wide since 1999. also in december 1999 there was two groups of individual lights that appeared over vancouver bc one group of lights took the shape of a question mark the other lights lined up in row they stayed there for about 15 min. then vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34694.html](http://www.nuforc.org/webreports/reports/034/S34694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
