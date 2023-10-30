@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately quite some time - quite some time minutes.</sub><blockquote><sub>I dont know if you want to post this or not but here goes october 1999 six individual lights spaced equally apart with the moon on the right hand side with two groups of triangles with three lights in each grouping anthree lights on an right angle i believe that they were with the armada and base situated on the other side of the moon right near that statue that the japanese satilighte took the picture of if you look carefully at that picture you will see an entrance that looks like some kind of large bay.also there has been a unusually high number of sioghtings world wide since 1999. also in december 1999 there was two groups of individual lights that appeared over vancouver bc one group of lights took the shape of a question mark the other lights lined up in row they stayed there for about 15 min. then vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34694.html](http://www.nuforc.org/webreports/reports/034/S34694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Crescent like object that looks like a moon glowing was moving through the sky in a south to north direction.My son first spotted it and said I needed to come look at the moon. It was 7:37 ish and I knew that sometimes early in the morning you can see the moon before it goes down. I stepped out of my house and looked up and saw a glowing crescent shape that looked just like a moon. What was weird was that it seemed to me moving and so I kept looking at it. I then noticed it was moving and I was trying to determine if it was moving or clouds were moving across it. After a couple of minutes I could see it was moving and it wasn’t moving down like a moon setting in the early morning. Instead it was moving like a plane or a jet. There was no smoke trail or exhaust coming off of it like there would be with a jet or plane. It also did not make any noise like a plane or a jet would have. It kept moving and was moving towards me so that it was moving over me. If I was to hold a dime up it would have covered it. It also seemed to kind of glow like a moon would. It clearly w! as not a moon because it moved south to north. It was a clear day with only a few clouds and temperature was in the 40s. I watched it for a bit and took several photos and videos. In one video on my phone camera it went blurry but I didn’t change the focus and when I looked at it in the sky I could still see crescent shape but on my phone it became kind of a glowing blob. I do not like near an airforce base or military base. There is a very small airport near and it made no sound like a plane. It also moved too fast to be a hot air balloon and it glowed kind of. I went in just for a second and looked back out and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165090.html](http://www.nuforc.org/webreports/reports/165/S165090.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
