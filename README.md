@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in New Kensington (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 bright orange lights in the sky moving south to north on 10/30/13 at 10 PM in New Kensington, PAAs I was walking my dog at 10 pm on 10/30/13, six bright orange lights high in the sky moved across the sky in a line from south to north.  When I noticed the first one I believed it was a helicopter but there was absolutely no noise and as it came closer I could see it was something I couldn't identify.  It just looked like a bright, orangish light high up in the dark sky. The next 5 lights followed the same path and I could see four of them at a time until they faded out of view after passing overhead.  Again, there was no noise at all.  The bright orange objects seemed almost to be floating and flickering, and they were moving fairly rapidly, at about the pace of a helicopter but slower than an airplane.  The entire event I witnessed took approximately 10-15 minutes.  I couldn't see the shape or size of the objects but each one of the 6 appeared to be identical.  As they passed from my view overhead I couldn't see them for very long as they headed north. I wished someone else had been around to witness this event with me, but I was alone and didn't feel comfortable knocking on a neighbor's door at that time of night although I did call a friend on my cell as it was exciting to see these things.  My dog didn't appear to notice the lights in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103771.html](http://www.nuforc.org/webreports/reports/103/S103771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Inlet Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Predawn. Extremely high flying, large, fast moving object with a single white light on it. Flying from NNE to SSW over the Gulf of Mexico. Traversed one quarter of the sky in approximately 10 seconds. No sound. No vapor trail. Not enough time to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160297.html](http://www.nuforc.org/webreports/reports/160/S160297.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
