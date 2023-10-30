@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:43 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shrub Oak (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The night of hurricane Sandy a tree was ripped from its trunk by a huge gust of wind.  It pulled the utility lines and the utility pole from my home.  I then  grabbed my camera and went out my front door to take a poto of the damage.  As I was taking the pictures I suddenly observed a roundish light in te sky I continued to take pictures.  This is one of the pictures I took.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94240.html](http://www.nuforc.org/webreports/reports/094/S94240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Thurmont (MD) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was siting on my front porch smoking a cigarette.  I had just put down my children for the night.  I heard the dryer inside going and was scrolling through Facebook.  I looked up from the screen to see what I thought was a plane getting ready to land at Frederick airport, which is about 20 miles away.  But I noticed it didnt move and the light on it was getting brighter.  Now it was probably a good 2-3 miles from the house.  It looked like a star.  It shot straight up.  Then without a sound it wizzed above and past my house.   As it past and got closer. I noticed it was triangular in shape and black but had three round lights on the bottom.  The closer it got the bigger it looked.  I would say at a whole the ship was the size of a jet plane.  But a full black triangle.  And the round lights where probably a good 4-5 feet in diameter. It was very quiet.  I heard a slight hum as it passed over me.  I've been wanting to tell someone but didn't want to sound crazy.  I don't know what it was.  But it definitely sent me inside for the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151302.html](http://www.nuforc.org/webreports/reports/151/S151302.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
