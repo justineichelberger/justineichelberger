@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Inlet Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Predawn. Extremely high flying, large, fast moving object with a single white light on it. Flying from NNE to SSW over the Gulf of Mexico. Traversed one quarter of the sky in approximately 10 seconds. No sound. No vapor trail. Not enough time to record it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160297.html](http://www.nuforc.org/webreports/reports/160/S160297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There was a small yellow crescent shaped UFO to the right of the moon and lower than the moon.I was in a parking lot leaving a coffee shop when I looked up and saw a yellow glowing crescent to the right of the moon, but it was lower in the sky than the moon was.  It kindve looked like a half solar eclipse except much much smaller, it was a bit smaller than the moon too.  After about 2 minutes, it started to "go out" and then looked like a normal star and then just disappeared.  It did not move around it the sky, it just stayed in place.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115018.html](http://www.nuforc.org/webreports/reports/115/S115018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
