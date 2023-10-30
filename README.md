@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Low flying lighted object over Walla Walla, WA.A light with a trail approximately 200 feet off the ground traveling from east to west.  It was traveling maybe 40-50 mph.  It made no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103724.html](http://www.nuforc.org/webreports/reports/103/S103724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Loring AFB (ME) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>ufo incident over Loring AFBI’ve put off reporting a UFO incident at Loring AFB, Maine, for years.  Yea, I know, Peter!  You can’t understand why anyone would wait to make a report, but I never saw the UFO.  I was the switchboard operator on duty at the base that night.  I was inside.  I knew about it because the base commander at that time put a perimeter around the base. I’m sure there was some kind of protocol, but I don’t even remember that.It has been so long that I don’t remember if the base commander was Col. Hudson or if he was the wing commander!  I don’t even remember the date!   It could only have been from October 1968 until June or July of 1969. (Hell’s Bells, Peter, I’ve even forgotten the exact date of my discharge!)  I’ve searched your database and there has been no report of the incident.Loring AFB was a SAC base and there were nuclear weapons stored there.  I know there was an incident in the 70s at Loring, but not the one I am referring to.  The story was that "civilians" had lit balloons and sent them over the base.  I may have been young and ignorant but that was a phony story!  By the way, my husband, who was stationed at Loring also, was on leave when I arrived there in October 1968.  He has no recall of this incident at all!  Which may mean that the incident happened in late October or early November 1968.Now you know why I haven’t reported this incident. I’ve been listening to you on Jeff Rense’s show for years, but couldn’t bring myself to make a report.I don’t know the date.I don’t know what the UFO looked like because I didn’t see it.I’m afraid I may be the only person left who wants to know what really happened.Do what you want with this "report?"  If you put it on your website, you can edit it however you like.((NUFORC Note:  Date may be approximate, although the witness does not indicate that fact.  Report posted in "raw" form.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59728.html](http://www.nuforc.org/webreports/reports/059/S59728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
