@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:36 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:47 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>Object with lights seen flying low above area experiencing total power loss.At 7:49 I received a text from my friend saying something about experiencing about a power outage at a volunteer health clinic he was working at. When I received this text I was driving east on 50th Street toward the direction of this clinic, which was about a mile away. I notice a bright white light directly above the location of where the clinic would be. Upon first glance, being about a mile away, it appeared to be a star but the light began to move erratically in a diagonal path. But the movement was not linear. After some movement it appeared to just hover in one location. As I approached the area more closely, the object might have been mistaken for a drone but it was clear that it was larger and no more than 75  feet in the air. The object is now Northeast of my position so I make a left into the neighborhood to my left. I was able to distinguish multiple lights on the object before losing sight of it as it moved diagonally Northeast. As I navigate th! rough this neighborhood I notice that entire streets are missing power. In a hasty attempt to regain sight of the object I cut through a street with clear visibility but the object has disappeared. As I make a U turn to exit the neighborhood, the power abruptly returns. I couldn’t capture more than a shaky 2 second video of the object that I took while driving which you can barely make out the object if you play in slow motion. You can see that there are two lights visible as it moves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149969.html](http://www.nuforc.org/webreports/reports/149/S149969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Soundless night camo boomerang craft flew slowly over sparks mvI was standing outside smoking a cigarette and I looked up and saw a soundless night camo (almost invisible) rounded boomerang shaped craft flying about 500-700ft above. As it moved it blocked out the light from the stars. It flew toward the Pevine mt range. It made absolutely no sound. It was about 50ft wide. It was not moving fast. As it moved the night camo shimmered with a very dull grey/pale green hue. No bright lights at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149989.html](http://www.nuforc.org/webreports/reports/149/S149989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
