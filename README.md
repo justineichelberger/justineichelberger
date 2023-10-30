@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:42 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Crescent like object that looks like a moon glowing was moving through the sky in a south to north direction.My son first spotted it and said I needed to come look at the moon. It was 7:37 ish and I knew that sometimes early in the morning you can see the moon before it goes down. I stepped out of my house and looked up and saw a glowing crescent shape that looked just like a moon. What was weird was that it seemed to me moving and so I kept looking at it. I then noticed it was moving and I was trying to determine if it was moving or clouds were moving across it. After a couple of minutes I could see it was moving and it wasn’t moving down like a moon setting in the early morning. Instead it was moving like a plane or a jet. There was no smoke trail or exhaust coming off of it like there would be with a jet or plane. It also did not make any noise like a plane or a jet would have. It kept moving and was moving towards me so that it was moving over me. If I was to hold a dime up it would have covered it. It also seemed to kind of glow like a moon would. It clearly w! as not a moon because it moved south to north. It was a clear day with only a few clouds and temperature was in the 40s. I watched it for a bit and took several photos and videos. In one video on my phone camera it went blurry but I didn’t change the focus and when I looked at it in the sky I could still see crescent shape but on my phone it became kind of a glowing blob. I do not like near an airforce base or military base. There is a very small airport near and it made no sound like a plane. It also moved too fast to be a hot air balloon and it glowed kind of. I went in just for a second and looked back out and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165090.html](http://www.nuforc.org/webreports/reports/165/S165090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Weyerhauser (WI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>at first i thought it was a plane... as i drover closer i noticed it was hovering less then 100ft over the trees it had 3 lights one at the front and one to each side.  they were reddish orange. there was to bigger and brighter lights like spot lights close together above the front one, white in color.  i drove almost directly underneath it and i remember seeing other lights but cant recall detail.  i drove past and looked at the rear of it and it had 4 jet type engines glowing ice blue in color.  they were in the center and stacked 2 and 2 :: i some what recall another light above the  engines but could be mistaken.  as i drove down and around the next bend it was still there as i drove out of site and to work.  i was driving 40-50 mph and slowed to maybe 25-30mph as i drove past it.  there was another vehicle stopped on a side road with its head lights on facing the ufo.  i assumed they were watching and recording it.  this road is in the county through the woods, but still a fair amount of traffic travels this road.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143626.html](http://www.nuforc.org/webreports/reports/143/S143626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
