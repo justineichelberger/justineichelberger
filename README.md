@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:44 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ruston (LA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Possible solid object surrounded by teardrop-shaped streak seen in morning sky.Driving to work around 7:30, I saw a jet streak in the western sky.  It appeared as jet streaks usually do, moving in a straight, more or less horizontal path and dissipating slowly.  However, near it to the bottom left, I also noticed a teardrop shaped "streak" that did not seem to be moving and was pointed downwards.  I could only faintly make out a solid object at the base of the teardrop, as if it were leaving a tail behind it. I thought this was strange, since it wasn't really moving.  (And even later, when it did move, it did not move downard, as the position of the "tail" would have suggested.)  I made a note of it at that point but was in a hurry, so I had to stop watching.Around 9:00, after running some errands and returning to work again, I noticed the teardrop-shaped "object" again.  As I was driving towards it at the time, it was difficult to tell if and how quickly it was moving.  However, it seemed to be slowly drifting west.  It appeared larger (perhaps closer?) than before and slightly further north.I parked my car behind the building that I work in and came back around to the main road to get a better look, as there were trees, power lines and other buildings blocking my view.  The process of parking and walking around could not have taken more than 45 seconds.When I came back to the main road, though, the object was much smaller (farther away?) and much farther south in the sky.  At this point it was obviously drifting southwest steadily but not particularly quickly.  I attempted to record it on my phone but the sun was too bright for the object to show up.I went inside my place of work and described to my employees what I had seen. I was inside for about 5 minutes before walking back out to check if the object was still visible. It had disappeared from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78639.html](http://www.nuforc.org/webreports/reports/078/S78639.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Turner (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Red orb comes down our drivewayIt was around 9:15 pm when my son and I were playing outside in the snow we had gotten which is odd to get that early in the season. the sky was beautifully clear so I was looking at stars as I often do on clear nights. I had seen several objects that looked like stars moving through the sky ( I see these things frequently and don't exactly know what they are) after the "moving stars" disappeared I walked over to my son. Moments later at the end of my driveway a red glowing orb popped out from the tree line it appeared to be around 100 feet above the tree line.  I quickly told my son to go up to the porch as this orb travels over the driveway towards us.  We watched from the porch as it slowly paraded over the driveway.  I yelled for my wife she came out just in time to see the red orb shoot into the sky at a 45 degree angle and park itself in the sky it took seconds to reach its destination and was completely silent.  We stood there and watched for it! to come back but it did not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/090/S90208.html](http://www.nuforc.org/webreports/reports/090/S90208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
