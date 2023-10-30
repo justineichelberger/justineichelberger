@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:47 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sparks (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Soundless night camo boomerang craft flew slowly over sparks mvI was standing outside smoking a cigarette and I looked up and saw a soundless night camo (almost invisible) rounded boomerang shaped craft flying about 500-700ft above. As it moved it blocked out the light from the stars. It flew toward the Pevine mt range. It made absolutely no sound. It was about 50ft wide. It was not moving fast. As it moved the night camo shimmered with a very dull grey/pale green hue. No bright lights at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149989.html](http://www.nuforc.org/webreports/reports/149/S149989.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>thin black line moving accross moon 10-30-01hope you can help explain this mystery. I live in Syracuse NY and back on October 30th 2001 while my son was driving me home around 5:00pm/5:30pm we both saw something very strange. There was a full moon (or it looked full to us) and starting at the 4 or 5 on a clock going diagonally across the moon was a thin black line. It grew as it went across the very bright moon but stopped growing once it reached halfway then started to shrink back to nothing exiting at the 10:00/11:00 on a clock. There wasn't any air vapors before or after the moon and I tried to catch the news hoping there would be mention of it. We were on the road at the time (690 going east). It was the strangest thing I have seen in a long time. My son believe other drivers must have seen it too because the traffic wasn't moving at the 60pmh it normally moves at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73537.html](http://www.nuforc.org/webreports/reports/073/S73537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
