@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:45 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 30 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>thin black line moving accross moon 10-30-01hope you can help explain this mystery. I live in Syracuse NY and back on October 30th 2001 while my son was driving me home around 5:00pm/5:30pm we both saw something very strange. There was a full moon (or it looked full to us) and starting at the 4 or 5 on a clock going diagonally across the moon was a thin black line. It grew as it went across the very bright moon but stopped growing once it reached halfway then started to shrink back to nothing exiting at the 10:00/11:00 on a clock. There wasn't any air vapors before or after the moon and I tried to catch the news hoping there would be mention of it. We were on the road at the time (690 going east). It was the strangest thing I have seen in a long time. My son believe other drivers must have seen it too because the traffic wasn't moving at the 60pmh it normally moves at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73537.html](http://www.nuforc.org/webreports/reports/073/S73537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Shrub Oak (NY) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>The night of hurricane Sandy a tree was ripped from its trunk by a huge gust of wind.  It pulled the utility lines and the utility pole from my home.  I then  grabbed my camera and went out my front door to take a poto of the damage.  As I was taking the pictures I suddenly observed a roundish light in te sky I continued to take pictures.  This is one of the pictures I took.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94240.html](http://www.nuforc.org/webreports/reports/094/S94240.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165139.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165131.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165142.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165148.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165588.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
