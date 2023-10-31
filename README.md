@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Orland Park/Palos Park (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately on going - on going minutes.</sub><blockquote><sub>strange circular lite flying in a set pattern sometimes 2 lite but as many as 12strange lites innthe sky over orland park illilois((NUFORC Note:  Date is presumed to be 31OC99, Halloween.  We have left the report in the database because other sightings were reported from the Midwest for this date.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10406.html](http://www.nuforc.org/webreports/reports/010/S10406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Grand Ledge (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>light traveling at high speed North to South-WestWe observed a light traveling at high speed in the direction of North to South-West. It started higher in the sky and got closer to the horizon but went out of sight before it hit the horizon. We did not observe any sort of tail on it. At first we thought it might be an airplane but it moved to fast and it only had a single light on it. The light also traveled a pattern I don't think is consistant with airplane since it didn't describe an arc.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14771.html](http://www.nuforc.org/webreports/reports/014/S14771.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
