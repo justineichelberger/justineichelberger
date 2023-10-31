@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:44 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Gretna (NE) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>4 lights over Gretna NEAs 2 of my neighbors and myself were out with our children trick-or-treating at about 7:30p.m., I happened to glance up at the sky and notice a light flying towards us.  At first I didn’t think much about it, but as it drew closer I became more interested.It appeared to be at an elevation of about 1,000 ft, a constant blue light and made no sound.  It traveled from the Southwest to the Northeast in a straight line at what I estimate at about 150mph until it disappeared from sight.As we were waiting for our kids to go to the next house, we were talking and wondering if it was or was not a drone discussing elevation, size, speed, and color when we all saw a second object appear, this time green in color.  It followed the exact same flight path and seemed to be at the same elevation and be of the same size of the previous object.Just as the second object disappeared from sight we all turned to see a third blue object appear just where the first 2 had appeared.  It also followed the same flight path as the previous 2 objects.  Again as we lost sight of the third object, a fourth one appeared.This fourth object was also blue and traveled the same flight path at the same speed as the previous 3 but was flying at a higher elevation.After the fourth object left the area and we were teasing each other about getting our tin foil hats out, we watched a large airplane flying from the East to the West gaining altitude and we all noticed the differences between the objects and the plane itself.We aren’t sure what we saw but we know that it was not an airplane and chances are that they aren’t commercially available drones.  Also, I am a military aircraft mechanic and am very familiar with aircraft flight patterns, size, shape, styles, etc..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/130/S130938.html](http://www.nuforc.org/webreports/reports/130/S130938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>Visible by the naked eye, appear to be several bright, triangular objects in the East and West sky.Every night I walk my dogs very early in the morning (2 AM to 6 AM) and observe two in the west and two in the east. By the naked eye I can see them move sporadically like an insect.  With binoculars, it's a lot clearer.  They change colors, red - white - and blue.  Often they are triangular in shape.  Often they emit beams and one night I saw little crafts going off of what appeared to be the mother craft.  They are generally in the same area.  There is an AF base in Tucson, i.e., Davis-Monthan.((NUFORC Note:  We observe that the description of the objects is not inconsistent with that of "twinkling" stars, but that is only a guess as to what the witness observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32811.html](http://www.nuforc.org/webreports/reports/032/S32811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
