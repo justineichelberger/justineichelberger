@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A 747 in halloween costume?not with those moveswhile out trick or treating with the kid we were looking at the planes  lights overhead(my 2 yr old is into planes and helicopter) and satelites, when my wife spotted an orange round glow . it was brighter than the stars and twice their size.i noticed it was moving ,slow then fast, then slowed down hovered for a few seconds, thenstarted moving again.the object then made a 90 degree turn west went a little ways end made a @60 degree turn north.it kept doing these different variations of speed and course till out of sight over the olympic penisuala(@ where bangor nuclear sub base is and other military compounds).when we firt spotted it it was@over seattle/olympia area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25897.html](http://www.nuforc.org/webreports/reports/025/S25897.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light flying near cell tower in Post Falls Idaho on Halloween at about 8:30 pm local time.While driving in a residential neighborhood on Halloween, at about 8:30 pm Pacific Time, I spotted a bright orange light, ball shaped, floating by the red lights of a distant cell phone tower. The orange ball was slightly below the halfway point of the cell tower, drifting slowly. As I watched it made a looping maneuver quite quickly, and ended up higher in the sky. After that it held very still, only drifting slightly and slowly faded out over the course of about a minute. When first spotted the object moved in front of the tower, if it was close to the tower it would have probably been between a refrigerator and a car in size. Its possible it could have been a drone but it seemed too large and I have never seen a drone with a big orange light on it like that. Considering there were many people out walking around that night, it’s possible someone else saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149947.html](http://www.nuforc.org/webreports/reports/149/S149947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
