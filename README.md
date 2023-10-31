@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:47 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Saginaw (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Large, bright  'shooting star' going from Northeast to Northwest - 18:30 - 19:15 on HalloweenWhile taking my boys trick or treating for Halloween, (about 18:30 to 19:15) my wife and I had our attention attracted to a flash of light in the Northern sky (we were walking west with our boys going to houses on the North side of the street at the time.  The light was orange or white (very fast) and was moving into the west.  It lasted perhaps 3 to 4 seconds and was larger than any star or planet in the sky.  It appeared to be moving in a downward direction (as if it were landing or crashing).  No sound was heard.  Later in the evening, my thirteen year old niece stated that she also saw the 'shooting star'.  I thought nothing more of it until Artbell on 2/5/01.  Saginaw is about 90 miles North of Detroit and 70 miles northeast of Lansing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16327.html](http://www.nuforc.org/webreports/reports/016/S16327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Moodus (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>large, bright (shooting star?) moved quickly low on horizon; bigger, brighter, slower than a normal shooting star.At approximately 12:35 am on Oct. 31, 2017, I was outside in my yard.  A bright light caught my attention.  It was fairly low on the horizon, and also was a bit slower than any shooting star I’ve ever seen, and much bigger, and brighter.  Still the whole event lasted only seconds.  It moved quickly and seemed to recede below horizon.  Probably a shooting star, but it was pretty weird. I am just an ordinary person, with virtually no astronomy knowledge.  I just felt compelled to report this as it freaked me out a little.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137064.html](http://www.nuforc.org/webreports/reports/137/S137064.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
