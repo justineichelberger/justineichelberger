@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Post Falls (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange ball of light flying near cell tower in Post Falls Idaho on Halloween at about 8:30 pm local time.While driving in a residential neighborhood on Halloween, at about 8:30 pm Pacific Time, I spotted a bright orange light, ball shaped, floating by the red lights of a distant cell phone tower. The orange ball was slightly below the halfway point of the cell tower, drifting slowly. As I watched it made a looping maneuver quite quickly, and ended up higher in the sky. After that it held very still, only drifting slightly and slowly faded out over the course of about a minute. When first spotted the object moved in front of the tower, if it was close to the tower it would have probably been between a refrigerator and a car in size. Its possible it could have been a drone but it seemed too large and I have never seen a drone with a big orange light on it like that. Considering there were many people out walking around that night, it’s possible someone else saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/149/S149947.html](http://www.nuforc.org/webreports/reports/149/S149947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red Lights Seen Over Tinley ParkI was taking out the garbage when I noticed three red lights in the sky in the shape of a triangle.  I immediately called for my daughters to come out and tell if I was really seeing these weird lights in the sky.  Sure enough, they saw the lights as well.  I called friends and family who also live in the area and they witnessed the lights also.  We stood outside watching them for about 30 minutes until they disappeared.  They moved slightly over the 30 minute period but stayed in a triangle formation.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40384.html](http://www.nuforc.org/webreports/reports/040/S40384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
