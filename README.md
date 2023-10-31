@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:36 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Farragut (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Bouncing Lights in the skyMy wife was at work with me guarding a golf course for Halloween at approximately 11:30 PM she pointed out to me what i thought was an helicopter in hover mode, The brightness of the lights where brighter than stars and looked like a bunch of white strobe lights flashing very rapidly SIMILAR to an airplane i was about to discount what i was seeing and then it started like "bouncing" it was moving up and down and in circular motions covering distances in short periods of time not possible from aircraft that we know exist today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69842.html](http://www.nuforc.org/webreports/reports/069/S69842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange orange orb on 10/31Went trick or treating with some friends and saw a strange orange light (orb) in the sky.  We watched it for about 3 minutes as it moved around and than it disappeared.  About 30 minutes later it reappeared and moved acrossed the sky and than disappeared again.  Later that night probably an hour or so later we saw it again however this time there were 3 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73118.html](http://www.nuforc.org/webreports/reports/073/S73118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
