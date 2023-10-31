@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:44 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:53 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Ovid (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Sphere shaped object flying at an incredible speed during the dayMy sister and I were visiting our Mom on Halloween day at around 3:00 pm.  It was an absolutely beautiful fall day with no clouds in the sky. As we were in the front yard we were asking our little sister (who is 3 years old), if she could see a plane (it was a Northwest Airlines 747 because it was low enough that you could see the red on the tail) that was flying into the airport in Flint, MI about 40 miles to the east.  As we watched the airplane, my sister asked, "Do you see that thing above the airplane?"I looked around the plane and then finally I picked out what she was talking about.  It looked like a metallic sphere that was flying at an incredible speed to the north.  It was much higher in the sky than the airplane, and was traveling at a much greater speed.  All we could see was this sphere that reflected light sometimes as it traveled northwards. We watched the craft for anywhere from 10-15 seconds before it eventually disappeared out of view.  Then my sister claims that she could see a second metallic object identical to the one we both saw, but I never was able to see it.My sister and I both looked at each other and immediately agreed that there was no way that was a plane. There was no way it was a satellite, helicopter or a blimp. This was an object like I have never seen before. I am very interested in a UFO and go sky watching at night many times, but I’ve never claimed to have seen a UFO before. This is the first time I can honestly say that I can not identify the object, so it IS a UFO by very definition. In no way am I jumping to conclusions and saying that it was an alien spacecraft. All I am saying is that it was an incredible event that I won’t soon forget.A quick background of my sister and me would prove to be very normal.  My sister is a certified elementary teacher and I am a full time college student in pursuit of my degree in elementary education. We both are interested in UFO’s but both of us claim to have never seen anything that could be called a UFO in our lives, until yesterday.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66617.html](http://www.nuforc.org/webreports/reports/066/S66617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over Orange, CA  We all witnessed a bright light moving in figure 8 pattern, sorta like the way tinklerbell flys one witness said. Then it took off in a striaght line faster than anything we ever had saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66608.html](http://www.nuforc.org/webreports/reports/066/S66608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
