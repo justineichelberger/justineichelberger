@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Strange orange orb on 10/31Went trick or treating with some friends and saw a strange orange light (orb) in the sky.  We watched it for about 3 minutes as it moved around and than it disappeared.  About 30 minutes later it reappeared and moved acrossed the sky and than disappeared again.  Later that night probably an hour or so later we saw it again however this time there were 3 of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73118.html](http://www.nuforc.org/webreports/reports/073/S73118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pulsating/Oscillating Sphere or Orb spotted in Metro AtlantaLast night around 8:45 to 9:00pm; I went for a walk after one of my friends had left. I walked south down out of the Cul-De-Sac on which I live, and down the street. I was about halfway down the road when I decided to stop under a streetlamp, and do what I always do on cloudless nights.  Scan the Skies.  I called my dad to ask him something as I began to look around.I began to scan intently and saw a few planes in the distance, but when I looked in the western sky, I noticed an Orange Sphere/or Orb.  It was oscillating/pulsing as it drifted off to the north.  I told my dad I saw something weird in the sky and he must have though I was crazy.I began to feel very startled and almost freaked out by the experience, yet at the same time exhilarated. The object was following a direct flightpath of most planes in our area, but I assure you this was no jetliner.  I have seen many planes, jets, and helicopters; military and civilian in this area but it just didn't meet the description of any earthly craft I have seen.  Panic set in as I realized this definitely wasn't something I could not readily identify.  I began to review stories in my head of people being taken while on a stroll in their neighborhoods after dark.  That was when I decided I wasn't just going to just stand there and watch it.  I was still on the phone with my dad at this time I so I told him that I would be home in a few minutes, and hung up.I then seeming ran for dear life as fast as I could back to my house and watched from the porch.  The craft flew almost directly overhead and just then the Orange Light turned off and gave way to what looked like airplane lights but there was no green or red lights on the wingtips just bright yellowish-white ones, and there were no flashing lights at all.I went inside the house; my heart pounding.  I sat down and reviewed what I saw.  It was then that I noticed the craft also made no noise whatsoever.  After calming down I turned on the TV and began watching Ghost Hunters Live, and all the while I couldn't get the thoughts out of my head of what in the hell had I seen.  After a couple hours I began to get tired so I walked up to to my room, and jumped in bed.  Surprisingly I slept very soundly.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66619.html](http://www.nuforc.org/webreports/reports/066/S66619.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
