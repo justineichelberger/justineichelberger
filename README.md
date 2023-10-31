@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:51 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Edison (NJ) reported seeing craft that fit the description of some 'Other' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>IN REPLY TO: 10/31/05 18:30 Linwood NJ Light 5 seconds VERY bright apparent meteor over Southern New Jersey on 10/31 and 11/1 2005IN REPLY TO:10/31/05 18:30 Linwood NJ Light 5 seconds VERY bright apparent meteor over Southern New Jersey on 10/31 and 11/1 2005 POSTING! YES, I SEEN THIS OVER EDISON,NJ NEAR NEW BRUNSWICK WHILE WALKING WITH MY KIDS I TOOK IT AS A SHOOTING STAR HOWEVER IT WAS SORT OF ODD LIKE YOU SAID IN YOUR POST....IT HAPPENED IN SECONDS... SHOT ACROSS THE SKY & DISAPPEARED. I REMEMBER IT WAS ON HALLOWEEN EVENING NEAR DARK. THOUSANDS OF PEOPLE ARE OUT ON HALLOWEEN I AM SURE WE ARE NOT THE ONLY ONES WHO SAW THIS. THOUGH DURING SEPTEMBER THROUGH NOVEMBER 2005 I DID SEE MANY SHOOTING STARS OR WHAT I THOUGHT WERE SHOOTING STARS IN MY AREA. BUT THIS EVENT THE OBJECT WAS SO BRIGHT & FAST.  I CAN ONLY SAY IT WAS A FIREBALL WITH SOMETHING ODD ABOUT IT. PICTURING THE INCIDENT OVER IN MY MEMORY, IT WAS EXTREMELY FAST & INSTEAD OF IT DYING OUT IT ACTUALLY LOOKED LIKE IT LEFT THE PLANET.  NO JOKE. HOPEFULLY NUFORC CAN EXPLAIN WHAT IT WAS.... OKAY JUST LETTING YOU KNOW I SAW THIS OBJECT TOO!  I APPOLIGIZE THAT I CAN NOT BE MORE DETAILED. THANKS</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56811.html](http://www.nuforc.org/webreports/reports/056/S56811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 Bright Red Objects in South Eastern Sky that took different formations then disappeared.3 bright red lights in sky.  Looked like three red stars.  Took Triangle formation, then L shape formation than a 90 degree formation.  Red Star to the left drifted off to the left and then the remaining two seemed to back off into space and disappear.Sighting lasted about 20 min to half hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41009.html](http://www.nuforc.org/webreports/reports/041/S41009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
