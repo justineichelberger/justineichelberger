@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Boomerang-Shaped Craft Spinning Slowly and Steady in the Night SkyMy sighting happened a long time ago, over 20 years ago. I have faint images in my mind but I remember exactly what I saw and what happened that night. It was between the years of 1997 and 1999, I know without a doubt it was a Halloween night and it was after dark. I remember staring up at the sky and seeing something shaped like a boomerang with round white lights on the bottom. It was spinning at a slow but steady rate while revolving elliptically and moving in one direction. I was stuck gazing at it (I don’t know for how long, maybe a minute or so) and I remember my mother screaming in terror, she brought me close to her and covered my face and I could hear her praying and asking god to help us. She also saw something but what her and I saw were two entirely different things. I saw a boomerang shaped craft high up in the sky. My mother saw a crown-like disk shaped object (about the diameter of a beach ball, she says) that flew and stopped right in front o! f her and then vanished ridiculously fast into the sky as soon as she began to yell and pray. I tried to look up to find the boomerang shape craft after she released me but it was not there anymore. Till this day, my mother and I still remember that night and we talk about it from time to time. We both are certain that we saw something that night, I was between the ages of 7 and 9 years old.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160788.html](http://www.nuforc.org/webreports/reports/160/S160788.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Edmonds (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A 747 in halloween costume?not with those moveswhile out trick or treating with the kid we were looking at the planes  lights overhead(my 2 yr old is into planes and helicopter) and satelites, when my wife spotted an orange round glow . it was brighter than the stars and twice their size.i noticed it was moving ,slow then fast, then slowed down hovered for a few seconds, thenstarted moving again.the object then made a 90 degree turn west went a little ways end made a @60 degree turn north.it kept doing these different variations of speed and course till out of sight over the olympic penisuala(@ where bangor nuclear sub base is and other military compounds).when we firt spotted it it was@over seattle/olympia area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25897.html](http://www.nuforc.org/webreports/reports/025/S25897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
