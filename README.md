@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:36 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 lights in a v formation flying and disssapearing3 flying lights in a v formation in the sky that we’re moving very fast north, north east and turning at an instant that could not have been possible by normal aircraft. This was over the sky towards the southwest part of Fort Worth. Once the 3 lights turned, they went out of my sight and took off very fast north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150289.html](http://www.nuforc.org/webreports/reports/150/S150289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Farragut (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Bouncing Lights in the skyMy wife was at work with me guarding a golf course for Halloween at approximately 11:30 PM she pointed out to me what i thought was an helicopter in hover mode, The brightness of the lights where brighter than stars and looked like a bunch of white strobe lights flashing very rapidly SIMILAR to an airplane i was about to discount what i was seeing and then it started like "bouncing" it was moving up and down and in circular motions covering distances in short periods of time not possible from aircraft that we know exist today.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69842.html](http://www.nuforc.org/webreports/reports/069/S69842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
