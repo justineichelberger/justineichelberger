@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:51 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>3 Bright Red Objects in South Eastern Sky that took different formations then disappeared.3 bright red lights in sky.  Looked like three red stars.  Took Triangle formation, then L shape formation than a 90 degree formation.  Red Star to the left drifted off to the left and then the remaining two seemed to back off into space and disappear.Sighting lasted about 20 min to half hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41009.html](http://www.nuforc.org/webreports/reports/041/S41009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright white light, very fast, no sound or sonic boom, impossible maneuvers, too fast for aircraftWhen I was in my early teens I was walking down a street in our neighborhood with one of my friends. This was on October 31, 1973 or 74', Halloween night. Younger kids were Trick-Or Treating that night. When we turned down a street that headed West, I had the feeling that if I looked left, to the South, that I would see something interesting. I have the definite feeling that I somehow anticipated what we would see. I then saw a very bright light moving in the sky from East to West. It appeared to be disk or spherically shaped. I knew something of astronomy at that time and about the appearance of the planets. It was brighter than Jupiter and probably as bright and as large as the planet Venus. It was a bright white light which had the appearance of a planet, not a star. It did not "twinkle" like a star. It moved very fast from East to West but not at all as fast as a meteor but much faster than any aircraft could possibly move. There was no sound or sonic boom. As a very fast (approx. 30 mph) wind was blowing from East to West that night (this could be used to pinpoint the exact year of this sighting) I wondered, for an instant, if it could be an aircraft in the jetstream. The speed it was travelling made it appear that it could go from horizon to horizon in perhaps just 10 seconds or so. After watching it cross at least 25% of the sky, we were amazed to see it start making 90 degree turns as if it were tracing the outline of a series of steps. it made about 3 of these imaginary "steps" and just blinked out. At that moment I was sure that whatever we had just seen, it was not an aircraft, meteor, bolide or any known object. Upon thinking about it later, I decided that the high wind conditions would also rule out any kind of optical illusion caused by a "temperature inversion layer". The memory of this has stayed with me for the past 30 or so years. This object left no trail in the sky of any kind. It was a circular light with clear "edges". approx. planet sized (in appearance). It appear! ed to be a considerable distance away like a distant aircraft would be.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33375.html](http://www.nuforc.org/webreports/reports/033/S33375.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
