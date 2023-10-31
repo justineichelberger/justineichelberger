@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:46 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over Orange, CA  We all witnessed a bright light moving in figure 8 pattern, sorta like the way tinklerbell flys one witness said. Then it took off in a striaght line faster than anything we ever had saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66608.html](http://www.nuforc.org/webreports/reports/066/S66608.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Roseville (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Around Halloween my two daughters and I were driving home from work on Atlantic Street in Roseville, CA.  As we approached I-80 heading South I noticed two small white objects flying in and out of a large thunderhead that had formed to the south east of the city.  I thought they were starnge and kept watching them. They would fly into the cloud, and then fly out.  At first I thought they were gulls.  I realized that they were way to big to be gulls, and had never seen a gull at that altitude (the objects were 1/2 way "up" vertically from the bottom to the top of the thunder cloud).  They were also moving very quickly (I can't guess how fast). I pointed them out to my daughters.  My 12 year old didn't have her glasses on so she didn't see them.  My 8 year old saw them clearly and expressed astonishment. We continued on Atlantic Street and then entered I-80 heading East.  I lst sight of them then. The whole incident lasted approximately 1 minute.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14954.html](http://www.nuforc.org/webreports/reports/014/S14954.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
