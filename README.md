@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>At about 8pm central time, October 31, 2004, 3 bright red lights were seen in the Eastern Sky.  They started out in a gradual "L" formation.  The were moving very slowly.  There was no noise, like an airplane or helicopter would make.  It then seemed like they were moving closer to one another.  They moved into a perfect "L" formation, then a straight vertical formation, and then a triangular formation (one at the top two at the bottom).  Then, the top light seemed to fall quickly out of place, going straight down.  And eventually you couldn't see it anymore.  It seemed to disappear.  The other two kept moving slowly, not changing positions.  Then they seemed to gradually move away from one another.  It was a cloudy/foggy night, so the other two eventually disappeared.  Then at about 9:20pm that same evening, another bright red light was seen moving East, all by itself.  It was only visible for a few minutes, then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40378.html](http://www.nuforc.org/webreports/reports/040/S40378.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Orland Park/Palos Park (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately on going - on going minutes.</sub><blockquote><sub>strange circular lite flying in a set pattern sometimes 2 lite but as many as 12strange lites innthe sky over orland park illilois((NUFORC Note:  Date is presumed to be 31OC99, Halloween.  We have left the report in the database because other sightings were reported from the Midwest for this date.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10406.html](http://www.nuforc.org/webreports/reports/010/S10406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
