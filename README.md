@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 31 October 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Moodus (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>large, bright (shooting star?) moved quickly low on horizon; bigger, brighter, slower than a normal shooting star.At approximately 12:35 am on Oct. 31, 2017, I was outside in my yard.  A bright light caught my attention.  It was fairly low on the horizon, and also was a bit slower than any shooting star I’ve ever seen, and much bigger, and brighter.  Still the whole event lasted only seconds.  It moved quickly and seemed to recede below horizon.  Probably a shooting star, but it was pretty weird. I am just an ordinary person, with virtually no astronomy knowledge.  I just felt compelled to report this as it freaked me out a little.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137064.html](http://www.nuforc.org/webreports/reports/137/S137064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over Orange, CA  We all witnessed a bright light moving in figure 8 pattern, sorta like the way tinklerbell flys one witness said. Then it took off in a striaght line faster than anything we ever had saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66608.html](http://www.nuforc.org/webreports/reports/066/S66608.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [569](http://www.nuforc.org/webreports/reports/165/S165137.html)
-- [568](http://www.nuforc.org/webreports/reports/165/S165156.html)
-- [567](http://www.nuforc.org/webreports/reports/165/S165134.html)
-- [566](http://www.nuforc.org/webreports/reports/165/S165149.html)
-- [565](http://www.nuforc.org/webreports/reports/165/S165138.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
