@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Gold oval flying north to south over the Las Vegas Strip.I was looking at top dead center of sky an hour before dawn to try and see both Leonid meteor showers and satelites passing over. A bright meteor passed near top of sky but my attention was instantly drawn to an object [not related to the meteor]about the shape of a football and 3x larger than an airliner flying [floating silently] from north to south, sideways, rather than end to end. the bottom was gold and I think translucent. I saw the lights of Las Vegas reflect off bottom [no lights on ufo at all]. As it got past the south limits of the city] about Sloan area] the object disapeared because of no more city lights reflecting off bottom. I remember seeing the same object in an online ufo picture taken in Las Vegas in about 97'. I thought that pic was a hoax and obviously the Sanyo blimp. I realize it was the exact same thing I saw. I've heard of the USAF flying new stealth craft over Las Vegas to test radar reflecting, but, this does not make sense. During Leonid showers more people looking at sky and this craft clearly reflected the Las Vegas city lights and thus was very visabile to anybody who happened to be looking up at 4am.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53404.html](http://www.nuforc.org/webreports/reports/053/S53404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1972, an anonymous witness in ? (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>ufo over mountians,two men went missingIN Nov on 1972 my mom, was home with my two older sisters and older brother. I can't recall what city she lived in.But she heard her dogs start barking then started jumping on the fence towards the north.It was about 12pm .She got up went out side to see what they was barking at. she looked around and saw a light above the the woods behind her house. it then dropped behind the mountians. she didnt think much of it.So she went back in side the dogs still barked for almost 30 mins after. a few days later she went in to town, and found out two campers went missing on the mountian she saw the light go behind. She told some people what she saw. but they didnt think it had anything to do with it. about week later around midnight the dogs started barking again trying to jump the fence again, towards the mountian. This time she stayed inside and looked for the light again.She saw the light again dropping behind the mountian. she stayed at the widow to see if she could see the come up again. about 20 mins later the light came up ,and took off towards the west. the next day my dad came home from work..he hauled stuff for a living. she told him what he saw and about the men missing.And how she thought it was a ufo.He laughed at her.But a few days later they went into town and read in the paper the men was found at their camp,with some kind of gliter stuff on their colths.and didnt know where they have been.((NUFORC Note:  Date is approximate.  We have requested that the witness attempt to locate a copy of the news article about the missing campers.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17260.html](http://www.nuforc.org/webreports/reports/017/S17260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
