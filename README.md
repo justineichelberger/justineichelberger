@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately still there at 22:10 - still there at 22:10 minutes.</sub><blockquote><sub>Bright light over Schaumburg moving from the north to the south and from the east to the west  11/2/05At first, appeared to be a star and then slowly moved from North to South and is now moving from East to West.  It's quite bright, but we can't make out a consistent shape.  My grandson thinks it looks like a bug (a beetle) with eyes in front.  It looks like a ladybug with the wings folded down.  I can only say with certainty that it is very bright.  The movements are not in a straight line.  Sometimes it seems to hover - then, move up, down,  north, south, but is making steady progress from north to south, and east to west.  It is now 22:17 and it's still moving from east to west.((NUFORC Note:  Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47361.html](http://www.nuforc.org/webreports/reports/047/S47361.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pink-Orange sphere photographed near downtown Portland, ORAt 4:48pm local time on Saturday, 11-1-2003, I was driving, just crossing over I-5 on the Alberta Street overpass.  I looked south and noticed a bright pink-orange stationary round light aligned over a tall building in Portland's downtown.  I had a camera with me so I stopped on the overpass.  Trying to zoom in to the object, I saw in the viewfinder a very bright "burning ember" uniform light over the full visible area of the object.  However I was unable to snap the picture due to underexposure.  I reframed at less zoom factor and was able to get the shot, emailed separately, PICT0145-1.jpg.  By the time I got the shot, the object had dimmed considerably while shrinking in size, and I was not sure I even got it.  The picture has a 10x scaled up blow-up of the object.  It was not an airplane or helicopter, the light was too large for that. When I see things like this, I wait to report to see if anyone else reported it.  Turns out between 11-1 and 11-8-2003 there were several other western U.S. sightings of spheres like this object from New Mexico to Seattle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33238.html](http://www.nuforc.org/webreports/reports/033/S33238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
