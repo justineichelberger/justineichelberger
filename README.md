@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:41 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Palmer (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Green glow around cylinder object seen by two people before it took off.The object was seen off in the distance on my way home. Looked to be a cylinder shape with the top and bottom rotating. The object gave off a green glow and darted off within the blink of an eye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165132.html](http://www.nuforc.org/webreports/reports/165/S165132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Schaumburg (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately still there at 22:10 - still there at 22:10 minutes.</sub><blockquote><sub>Bright light over Schaumburg moving from the north to the south and from the east to the west  11/2/05At first, appeared to be a star and then slowly moved from North to South and is now moving from East to West.  It's quite bright, but we can't make out a consistent shape.  My grandson thinks it looks like a bug (a beetle) with eyes in front.  It looks like a ladybug with the wings folded down.  I can only say with certainty that it is very bright.  The movements are not in a straight line.  Sometimes it seems to hover - then, move up, down,  north, south, but is making steady progress from north to south, and east to west.  It is now 22:17 and it's still moving from east to west.((NUFORC Note:  Mars.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47361.html](http://www.nuforc.org/webreports/reports/047/S47361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
