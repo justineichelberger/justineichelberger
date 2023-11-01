@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:52 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two very bright orange lights hovering and then flying over Florida coast.We were on a boardwalk in vero, that we walk nightly, when I looked out toward to ocean because I like to see passing cruise ships.  Well when I looked out toward the sea I saw 2 very strange orange lights. I come here often and it was like nothing I or my boyfriend had ever seen.  At first I thought it was a flare, but it seemed to not be moving for some time (maybe 3 minutes) and then I thought it might be a ship on fire because that was the only thing that made sense and also because there seemed to be a haze around the lights... but the two orange fire looking balls never combined like a fire would.  Then we notice they had gotten closer and were moving south and they were not in the water at all but floating about 50 feet above the water and horizon, moving faster than I have ever seen anything move.  They were defiantly two different things, but flying very close to each other. It was like something I have never seen before, and my boyfriend too.  There was no white, green or red light like typical aircraft.   As it got faster and closer one flickered and just disappeared and the next orb followed suit within 3-4 seconds and that was it.  No more lights or no more remnants of such an object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103783.html](http://www.nuforc.org/webreports/reports/103/S103783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chelmsford (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>green comet like lightI was driving on rt 3 north in Chelmsford ma and noticed a green light with a tail, first I thought It was a comet or a shooting star Because it was coming down so fast.  It formed into a ball and spilt into two balls and shot forward and vanished. I have no clue what it was but I wish I never saw it.  I was also with my mother and my four year old son; everyone saw the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123307.html](http://www.nuforc.org/webreports/reports/123/S123307.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
