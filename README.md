@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:45 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Derry (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We had been sitting in our hot tub outside on our deck ,myself for 25 minutes, when We sighted a blueish white sphere in the, clear of clouds, southern sky at @730p very low on the horizon approximately the size of a tennis ball that suspended in one spot and then shot westward extremely fast leaving a bluish white trail. The sighting lasted 3-5 seconds. Just long enough for me to query "Did you see that?"...It apeared much like a falling star with an exagerated descent except for the closeness and the size of the object. We both had never seen anything like it and were looking for other places such as news programs to see if others had seen this as well.we both have had many years in aviation and sky watching. This was a novel sighting for both of us. There were aircraft in the sky at this time as well in that we live close to MHT airport. We were hoping that maybe a pilot might have witnessed this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25912.html](http://www.nuforc.org/webreports/reports/025/S25912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large Object hovering at low altitude in sky in Lincoln NebraskaThis episode has bothered me for years.  I just found this site and decided to relay information on what I saw this evening.  Over the years, I have forgotten the exact date, but it's as close as I remember it.  My dad was diagnosed with cancer just a couple of days before this and was a patient at what was then St. Elizabeth's Hospital (I believe on South 70th St.).   My husband and I lived in South Lincoln South of Old Cheney Road between 27th & 40th St. As we were driving home from the hospital we saw what looked like a monstrous round spaceship.  I actually feel silly putting this into writing, as most everyone I know would write me off a kook.  We spotted it about 5,000 - 8,000 feet up in the air over South Lincoln near 48th St.  It was in the air long enough for us to come home and watch it literally "hover" in the air without a single sound (other than a dull hum) from the time we spotted it at approx 48th & O St. to our home.  My husband and I were literally frozen.  We don't remember hearing each other talk, although I know I was speaking.  The next day we asked people at work and found just one person who witnessed the same object hovering in the air that night before.  The best way to describe this object was that it was very similar in size & shape as the "Mother Ship" in "Close Encounters."  I would swear under oath about this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51729.html](http://www.nuforc.org/webreports/reports/051/S51729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
