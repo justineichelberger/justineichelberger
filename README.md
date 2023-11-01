@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:45 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large Object hovering at low altitude in sky in Lincoln NebraskaThis episode has bothered me for years.  I just found this site and decided to relay information on what I saw this evening.  Over the years, I have forgotten the exact date, but it's as close as I remember it.  My dad was diagnosed with cancer just a couple of days before this and was a patient at what was then St. Elizabeth's Hospital (I believe on South 70th St.).   My husband and I lived in South Lincoln South of Old Cheney Road between 27th & 40th St. As we were driving home from the hospital we saw what looked like a monstrous round spaceship.  I actually feel silly putting this into writing, as most everyone I know would write me off a kook.  We spotted it about 5,000 - 8,000 feet up in the air over South Lincoln near 48th St.  It was in the air long enough for us to come home and watch it literally "hover" in the air without a single sound (other than a dull hum) from the time we spotted it at approx 48th & O St. to our home.  My husband and I were literally frozen.  We don't remember hearing each other talk, although I know I was speaking.  The next day we asked people at work and found just one person who witnessed the same object hovering in the air that night before.  The best way to describe this object was that it was very similar in size & shape as the "Mother Ship" in "Close Encounters."  I would swear under oath about this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51729.html](http://www.nuforc.org/webreports/reports/051/S51729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Vero Beach (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two very bright orange lights hovering and then flying over Florida coast.We were on a boardwalk in vero, that we walk nightly, when I looked out toward to ocean because I like to see passing cruise ships.  Well when I looked out toward the sea I saw 2 very strange orange lights. I come here often and it was like nothing I or my boyfriend had ever seen.  At first I thought it was a flare, but it seemed to not be moving for some time (maybe 3 minutes) and then I thought it might be a ship on fire because that was the only thing that made sense and also because there seemed to be a haze around the lights... but the two orange fire looking balls never combined like a fire would.  Then we notice they had gotten closer and were moving south and they were not in the water at all but floating about 50 feet above the water and horizon, moving faster than I have ever seen anything move.  They were defiantly two different things, but flying very close to each other. It was like something I have never seen before, and my boyfriend too.  There was no white, green or red light like typical aircraft.   As it got faster and closer one flickered and just disappeared and the next orb followed suit within 3-4 seconds and that was it.  No more lights or no more remnants of such an object.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103783.html](http://www.nuforc.org/webreports/reports/103/S103783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
