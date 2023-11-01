@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Beaver (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very bright neon orange red elongated light moving through the sky heading south in the evening.Orange red light only that was very bright and almost neon in appearance.  Light was long cigar shaped but seemed like it might have something in the middle.  Could have been triangular  or saucer in shape.   Moved slowly across the sky for about 10 to 15 seconds and then disappeared.  Was heading south.  Appeared to be high in the sky above the hill and trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85072.html](http://www.nuforc.org/webreports/reports/085/S85072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Gold oval flying north to south over the Las Vegas Strip.I was looking at top dead center of sky an hour before dawn to try and see both Leonid meteor showers and satelites passing over. A bright meteor passed near top of sky but my attention was instantly drawn to an object [not related to the meteor]about the shape of a football and 3x larger than an airliner flying [floating silently] from north to south, sideways, rather than end to end. the bottom was gold and I think translucent. I saw the lights of Las Vegas reflect off bottom [no lights on ufo at all]. As it got past the south limits of the city] about Sloan area] the object disapeared because of no more city lights reflecting off bottom. I remember seeing the same object in an online ufo picture taken in Las Vegas in about 97'. I thought that pic was a hoax and obviously the Sanyo blimp. I realize it was the exact same thing I saw. I've heard of the USAF flying new stealth craft over Las Vegas to test radar reflecting, but, this does not make sense. During Leonid showers more people looking at sky and this craft clearly reflected the Las Vegas city lights and thus was very visabile to anybody who happened to be looking up at 4am.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53404.html](http://www.nuforc.org/webreports/reports/053/S53404.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
