@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Pink-Orange sphere photographed near downtown Portland, ORAt 4:48pm local time on Saturday, 11-1-2003, I was driving, just crossing over I-5 on the Alberta Street overpass.  I looked south and noticed a bright pink-orange stationary round light aligned over a tall building in Portland's downtown.  I had a camera with me so I stopped on the overpass.  Trying to zoom in to the object, I saw in the viewfinder a very bright "burning ember" uniform light over the full visible area of the object.  However I was unable to snap the picture due to underexposure.  I reframed at less zoom factor and was able to get the shot, emailed separately, PICT0145-1.jpg.  By the time I got the shot, the object had dimmed considerably while shrinking in size, and I was not sure I even got it.  The picture has a 10x scaled up blow-up of the object.  It was not an airplane or helicopter, the light was too large for that. When I see things like this, I wait to report to see if anyone else reported it.  Turns out between 11-1 and 11-8-2003 there were several other western U.S. sightings of spheres like this object from New Mexico to Seattle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33238.html](http://www.nuforc.org/webreports/reports/033/S33238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in North Dade County (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>Crestview Elementary, North Dade County, Florida circa 1966/1967.  Second-hand account of taped interview with eye witnessThis reports describes a second-hand account of a sighting at Crestview Elementary school in North Dade county, Florida, circa 1966/1967.In 1971 as 6th-grade student at Crestview Elementary our teacher played a tape recording of an interview she gave regarding an event at the school a few years before.  The teacher was Mrs. ((name deleted)) first name not recalled) and the interviewer is unknown.During the interview, Mrs. ((name deleted)) described a unidentified aircraft landing in the broad, open field north of the school.   She discussed strange features of the aircraft (specifics not recalled) and the fear and panic that gripped the school during the initial moments after landing.   She also recalled the arrival of "military personnel" at the school shortly after the landing.   The aircraft was still on the ground while soldiers patrolled the corridors (note: the school was a single story school with open-air corridors around a central courtyard.  Several classes - included Mrs. ((name deleted)) at the time - had wall-to-wall windows that looked over the field to the north).   After a considerably long-time (several hours), the aircraft departed at a incredibly high-rate of speed ("almost instantaneously") and the soldiers also left.The taped interview lasted 30-45 minutes and afterwards Mrs. ((name deleted)) took questions from her class and reiterated several points she made in the interview.   During this whole time several other teachers came into our classroom and listened - clearly uncomfortable.   These teachers did, however, verify the class details of Mrs. ((name deleted)) account.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74085.html](http://www.nuforc.org/webreports/reports/074/S74085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
