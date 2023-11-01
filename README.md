@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:57 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was approximately 12 years old when I saw this UFO.  I haven't told a lot of people about it.  I thought because I was so young at the time that no one would have believed me.  Anyway, we lived in a hotel in downtown Denver.  I had stayed over at at friends house and had ate supper with his family.  Anyway when I headed for home I had to walk past the City and County Building.  It looked like it was going to snow, the clouds were real thick and hanging low.  As I walked across a the light by the City and County Building all of sudden out of the clouds came a fireball shaped like a basketball.  It appeared for several seconds and then went back into the clouds.  I thought it was so odd because it was so cloudy.  I don't know if anyone else had seen this to this date.((NUFORC Note</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17869.html](http://www.nuforc.org/webreports/reports/017/S17869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Belo Horizonte-Minas Gerais (Brazil) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Huge cilynder on Hills over Belo Horizonte City-Minas Gerais State- BrasilI was backing from university at night, walking in the middle of the streert, when, suddenly, appears in front of me , about 1.0 mile away , over the hills at the end of the street a very large flying object,moving not in a high speed. In front of it appears  also a lot of small lights( more than 15), surrounding it  in a perfect circle in front, and  spreading lights as they move. The clarity of the lights revealed the shape of the object: A huge cilynder, with a fixed reator ( it seams to be) and jet of fire spilled from it.The scene delays something between 8 to 10 secs, was very bright and clarify all over the hills . It takes the south direction passing by Nova Lima, Barbacena Cities. Two days after I red the notice on a  local news paper , sayng that at least two observers related itin Belo Horizonte City and also  did some observers from the the two cities  reported((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50932.html](http://www.nuforc.org/webreports/reports/050/S50932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
