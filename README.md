@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Leicester (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>low flying, below cloud level,  large, very clearsighting, round, covered in lights no noise moving about the same speed as a planeprobably twice the size of a passenger plane but round covered in lights mainly white with the odd couloured one definatley red and I think green and blue but not many coloured lights. no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47366.html](http://www.nuforc.org/webreports/reports/047/S47366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I saw one red light the size of a star move quickly then stop. Another red light met w/it and they moved on together.I was working nights cleaning salons and came outside to notice a red light moving quickly across the night sky. It was the size of a star so I thought it was a satellite. I kept watching and saw it slow down and stop. It remained stopped for at least a few minutes. Then another red light came towards it in the same path it had just gone. When they came within what looked like inches apart with the naked eye, they both moved along slowly together. I couldn't believe what I was seeing. I wanted to keep watching but had to move on to my other salons. It was only a 5 minute drive from where I was. I continued working, when I came outside later on I looked up to see three lights in a triangular formation moving across the sky. I can’t quite remember if each light looked like the same red star, or if it was possibly white lights of planes chasing what I’d seen. It was so long ago I can’t remember exactly. I just know it was an experience I’ll never forget. I’ve never seen anything like it since.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65705.html](http://www.nuforc.org/webreports/reports/065/S65705.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
