@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>In response for information about the event at Crestview Elementary I can confirm the event did happen. I lived on the same street about a block from the school. I really find it hard to believe there is not more information about this sighting since the witnesses were many.  The Miami Herald did report this event in two editions.  One contained details about the event with witness accounts including a teacher and student.  My brother is looking for the clippings.  The other story was about spiritualists, ((two names deleted)).  I remember the traffic on our quiet street and answering questions about the event to the many curious visitors. The event occur in a field a few blocks north of the school.  I remember the Air Force saying the craft were nothing but helicopters but this was greatly desputed by the teachers and students.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83281.html](http://www.nuforc.org/webreports/reports/083/S83281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>U/ V shaped gray object. Smaller sphere shaped object near it, no lights or sounds on either.We were heading south on the road, and saw a few people standing in their yard looking up at the sky, a couple houses down we noticed another family looking high in the sky with binoculars. We looked up and saw what they were looking at as we pulled off the road. High in the Southern sky the left and above of the moon was a very clear u/v -shaped object. It appeared to be gray.  Below it a small distance was a smaller object, it was not as clear, it was more of a sphere shape but I cannot be sure on that. We did NOT see any lights or sounds. The v- shaped object was very high and small in the sky but still had a very distinct shape. It didn't not move at all although my husband said he thought it might have been rotating horizontally. We watched for about 10 minutes with no change, This was at sunset; We scanned the sky to see if there were anymore around, after that we lost them. We did not see them fly away, they were just gone. We have been trying to figure out if anyone else has reported this besides the people who were near us tonight. We have never seen a UFO and are no sure what to think about it or how to find out if there is any information about this sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66634.html](http://www.nuforc.org/webreports/reports/066/S66634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
