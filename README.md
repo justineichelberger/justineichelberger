@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:15 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Paltz (NY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A large fireball was observed in the middle distanceI was watching television with my husband, and something caught my eye out of the large window to my left. This happens from time and time, and is typically the headlights from cars reflected off our barn, a couple hundred feet from our house.When I turned to look, I saw what looked to be a shooting star, though much larger and much closer than I had ever seen. It was also much lower down to the ground. It did have a long tail, and streaked through the air, not particularly fast, as has always been the case with other shooting stars I’ve observed in the past. It almost looked like it could’ve been a part of a firework, but no fireworks were observed or recorded in our town, or surrounding towns on this night, and there was no audible noise from fireworks, either. I also did not note it dissipating in brightness, or falling in a pattern that you would expect a firework to do. It threw me so, that I did not even get a chance to point it out to my husband, until it had disappeared from view. It flew out of my sight, obscured by our barn, but a bit farther in the background where there is a few miles of wetlands and forest brush. My check or local social networking groups yielded no other reports (where everything and anything is typically reported). I kept an eye out for the remainder of the evening, but did not see anything else. I also did not leave my house to investigate any further. Probably unrelated, but worth noting was that the next morning there were dozens of vultures all over town, which seemed surprising to everyone, and has never happened before in the time that we’ve lived here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165157.html](http://www.nuforc.org/webreports/reports/165/S165157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Derry (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>We had been sitting in our hot tub outside on our deck ,myself for 25 minutes, when We sighted a blueish white sphere in the, clear of clouds, southern sky at @730p very low on the horizon approximately the size of a tennis ball that suspended in one spot and then shot westward extremely fast leaving a bluish white trail. The sighting lasted 3-5 seconds. Just long enough for me to query "Did you see that?"...It apeared much like a falling star with an exagerated descent except for the closeness and the size of the object. We both had never seen anything like it and were looking for other places such as news programs to see if others had seen this as well.we both have had many years in aviation and sky watching. This was a novel sighting for both of us. There were aircraft in the sky at this time as well in that we live close to MHT airport. We were hoping that maybe a pilot might have witnessed this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25912.html](http://www.nuforc.org/webreports/reports/025/S25912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
