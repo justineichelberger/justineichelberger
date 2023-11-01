@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:49 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:57 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Harrisburg (near; on I-83) (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Anonymous report.  We have no way of knowing whether the report is serious-minded, or whether it might be intended as a hoax.  PD))My son and I were driving home coming down I-83 N on our way home.  As I was driving, I saw something to my left but in front of me move very quickly.  It looked like a fireball that shot up into the sky then plummeted back down into the mountains.  The color though was strange.  It glowed and was almost like blue green, but more green then anything.  I almost wrecked my car and asked my son if he had just seen what I did.  He said yes, and asked what it was.  I really couldn't explain it.A few minutes later, we arrived at home.  We both are getting out of the car, when I hear a faint noise above me.  It's not loud like an airplane or a helicopter, but I could hear something.  I mentioned the sound being weird to my son, and as I said that I noticed he was staring up into the sky asking me what he was looking at.  So I looked and it was this huge, triangle, thing hovering in the sky.  It was moving, but at a pace where it was slow enough to watch.  I stared at it in pure disbelief.  It was triangular in shape, black or like a very dark gray in color, had a circle on the bottom with lines through it of what I could see and a red light on each corner of the triangle.  It was also very low.  If it would have come down a few like 12 feet further, it would have hit the tops of the houses where I live.My son was so scared and was yelling for me to go inside, but all I could do was stand there and watch it move.  It took about 7 minutes to fully disappear back into the sky, but was gone just as fast as it appeared.A few days later the electric in my home started going haywire.  I would come home from work to see all of my clocks blinking.  I had to reset things in my house about 7 times over the last 2 weeks but no one else in our area had any kinds of issues.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131355.html](http://www.nuforc.org/webreports/reports/131/S131355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I was approximately 12 years old when I saw this UFO.  I haven't told a lot of people about it.  I thought because I was so young at the time that no one would have believed me.  Anyway, we lived in a hotel in downtown Denver.  I had stayed over at at friends house and had ate supper with his family.  Anyway when I headed for home I had to walk past the City and County Building.  It looked like it was going to snow, the clouds were real thick and hanging low.  As I walked across a the light by the City and County Building all of sudden out of the clouds came a fireball shaped like a basketball.  It appeared for several seconds and then went back into the clouds.  I thought it was so odd because it was so cloudy.  I don't know if anyone else had seen this to this date.((NUFORC Note</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17869.html](http://www.nuforc.org/webreports/reports/017/S17869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
