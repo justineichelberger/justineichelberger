@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:52 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 1 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chelmsford (MA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>green comet like lightI was driving on rt 3 north in Chelmsford ma and noticed a green light with a tail, first I thought It was a comet or a shooting star Because it was coming down so fast.  It formed into a ball and spilt into two balls and shot forward and vanished. I have no clue what it was but I wish I never saw it.  I was also with my mother and my four year old son; everyone saw the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123307.html](http://www.nuforc.org/webreports/reports/123/S123307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Leicester (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>low flying, below cloud level,  large, very clearsighting, round, covered in lights no noise moving about the same speed as a planeprobably twice the size of a passenger plane but round covered in lights mainly white with the odd couloured one definatley red and I think green and blue but not many coloured lights. no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47366.html](http://www.nuforc.org/webreports/reports/047/S47366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [579](http://www.nuforc.org/webreports/reports/165/S165135.html)
-- [578](http://www.nuforc.org/webreports/reports/165/S165133.html)
-- [577](http://www.nuforc.org/webreports/reports/165/S165132.html)
-- [576](http://www.nuforc.org/webreports/reports/165/S165157.html)
-- [575](http://www.nuforc.org/webreports/reports/165/S165154.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
