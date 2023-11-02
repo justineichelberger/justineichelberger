@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:43 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Duncan (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Looking high into the eastern sky, I saw an "arc" of dim orange lights gliding silently from the north, and curve towards the southeast.I work nights, and had just come out of my house to get in my car around 8:25 pm.  As I usually tend to do, I looked up toward the east to see how clear the sky was, and my attention was immediately drawn to an arc of 12-14 extremely dim orange lights coming from the north, almost directly over my head.  They glided silently toward the south, making a slight turn toward the southeast and then faded and vanished as they turned.  The whole thing lasted about 4 seconds.  I can't make an estimate of the altitude, but from one end to the other, the arc was about the width of my fist at arm's length.  It appeared to be fairly low in the sky.  It was the smoothest motion that I've ever seen anything move with, and seemed very surreal.  What struck me as odd was that the lights were so dim that they were barely visible in the dark sky.  I tried to discern whether they were individual lights flying in a formation, or if they were all on one object, but it swept by so quickly, I couldn't tell if the stars were blocked from view as it passed over.  There was positively no sound.  I kept watching and listening for a few minutes but nothing else occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10414.html](http://www.nuforc.org/webreports/reports/010/S10414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dallas (Irving/Valley Ranch?) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>More than likely a shooting star, but thought I should report it.** NOTE: I think this was a shooting star / meteorite ** Approx. 11:20pm (23:20) CST.  Irving/Valley Ranch, TX? Hackberry Road.  Approx. 0.5 miles West of MacArthur Blvd.  Approx. 1.6 miles East of Beltline Rd.  Approx. 0.5 miles North of I-635.  Approx. 5 miles North-East of, center of Dallas/Fort Worth International Airport. I was standing outdoors at the above mentioned location watching aircraft on final approach (landing to the South) at DFW Airport.  Looking approx. West-North-West, upwards at approx. 45 degrees, I witnessed what I belive to be a "shooting star" or metorite.  A very bright, greenish dot, streaked downward and faded.  The entire sighting was no more than 2 seconds in length.  The dot was very bright, white/greenish in color.  Could compare it to burnning magnesium.  The size of the dot was approx. 1/4 - 1/8 the size of the Moon at the time.  The dot also left a faint, whiteish trail behind it.  The dot moved in a straight line, straight downward (no movement across the horizon, i.e. South-to-North).  The dot appeared approx. 45 degrees above the horizon, streaked straight downward, and faded at approx. 10-15 degress above the horizon.  Its speed was extremely fast and constant.  It DID NOT speed up, slow down, change direction, hover, etc. The dot appeared to have faded above the Grapevine Lake / Grapevine,TX / Coppell, TX area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04733.html](http://www.nuforc.org/webreports/reports/004/S04733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
