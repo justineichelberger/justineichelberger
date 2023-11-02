@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:50 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Dallas (Irving/Valley Ranch?) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>More than likely a shooting star, but thought I should report it.** NOTE: I think this was a shooting star / meteorite ** Approx. 11:20pm (23:20) CST.  Irving/Valley Ranch, TX? Hackberry Road.  Approx. 0.5 miles West of MacArthur Blvd.  Approx. 1.6 miles East of Beltline Rd.  Approx. 0.5 miles North of I-635.  Approx. 5 miles North-East of, center of Dallas/Fort Worth International Airport. I was standing outdoors at the above mentioned location watching aircraft on final approach (landing to the South) at DFW Airport.  Looking approx. West-North-West, upwards at approx. 45 degrees, I witnessed what I belive to be a "shooting star" or metorite.  A very bright, greenish dot, streaked downward and faded.  The entire sighting was no more than 2 seconds in length.  The dot was very bright, white/greenish in color.  Could compare it to burnning magnesium.  The size of the dot was approx. 1/4 - 1/8 the size of the Moon at the time.  The dot also left a faint, whiteish trail behind it.  The dot moved in a straight line, straight downward (no movement across the horizon, i.e. South-to-North).  The dot appeared approx. 45 degrees above the horizon, streaked straight downward, and faded at approx. 10-15 degress above the horizon.  Its speed was extremely fast and constant.  It DID NOT speed up, slow down, change direction, hover, etc. The dot appeared to have faded above the Grapevine Lake / Grapevine,TX / Coppell, TX area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04733.html](http://www.nuforc.org/webreports/reports/004/S04733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Solid green point light moving extremely fast horizontally northbound in sky.  3 bright flashes of light and sparks that lit up the sky then instant vertical elevation drop to below horizon.  Other aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143653.html](http://www.nuforc.org/webreports/reports/143/S143653.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
