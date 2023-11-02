@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Several have been just sitting and I think they are communicating to each other with their blinkingI think this is their meeting place.  I have been watching them for 2 weeks and I have plenty of video coverage</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165161.html](http://www.nuforc.org/webreports/reports/165/S165161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Duncan (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Looking high into the eastern sky, I saw an "arc" of dim orange lights gliding silently from the north, and curve towards the southeast.I work nights, and had just come out of my house to get in my car around 8:25 pm.  As I usually tend to do, I looked up toward the east to see how clear the sky was, and my attention was immediately drawn to an arc of 12-14 extremely dim orange lights coming from the north, almost directly over my head.  They glided silently toward the south, making a slight turn toward the southeast and then faded and vanished as they turned.  The whole thing lasted about 4 seconds.  I can't make an estimate of the altitude, but from one end to the other, the arc was about the width of my fist at arm's length.  It appeared to be fairly low in the sky.  It was the smoothest motion that I've ever seen anything move with, and seemed very surreal.  What struck me as odd was that the lights were so dim that they were barely visible in the dark sky.  I tried to discern whether they were individual lights flying in a formation, or if they were all on one object, but it swept by so quickly, I couldn't tell if the stars were blocked from view as it passed over.  There was positively no sound.  I kept watching and listening for a few minutes but nothing else occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10414.html](http://www.nuforc.org/webreports/reports/010/S10414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
