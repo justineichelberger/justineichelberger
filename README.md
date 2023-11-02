@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:44 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:52 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodland (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About a dozen orange lights in the sky under clouds above Woodland hills.  Kind of in a triangle form.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103837.html](http://www.nuforc.org/webreports/reports/103/S103837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Fast-flashing light crossed the sky at intervals while moving VERY fast.Walking the dog with my wife.  We saw a flashing light in the sky, then moments later it flashed 2 very quick times 2-hands distance away moving south across the sky. Within 5 seconds or less it flashed in the same way (2 very fast flashes) in the middle of the sky and flashed again in the southern sky before it passed the horizon.  It had just become dark. We could see no shape just the light.  But it crossed the whole unobstructed sky in less than 5 seconds flashing at intervals across the sky disappearing in-between.  Altitude seemed low but just assuming this due to it's speed across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160377.html](http://www.nuforc.org/webreports/reports/160/S160377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
