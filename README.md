@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Petersburg (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>huge orb like object in picture not visable to naked eye.I was taking a picture of the fog over the water.  The sky around was clear and bright blue. Nothing but pure blue sky was visible however, when I looked at the picture there was a huge glowing bright orb like object.  My husband and I both looked and saw nothing before and after taking the shot.  Just clear blue sky.  I have no idea what this could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115076.html](http://www.nuforc.org/webreports/reports/115/S115076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Annandale (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>red and white lights, white lights getting extra brightit did not spin this time up close, but this time i had a camera!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150310.html](http://www.nuforc.org/webreports/reports/150/S150310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
