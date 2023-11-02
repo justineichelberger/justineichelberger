@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:30 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:41 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3rd night of Orb sighting in Larkspur area of  Virginia BeachThis was the third night in a row that I had witnessed an “orb,” passing over my house, following roughly Edwin Drive at an altitude of about 1,000 ft. The first night we witnessed the same object approximately at 7:00pm while trick or treating with my wife, my neighbor’s wife and our children. All three of us witnessed the object traveling in the same direction height etc. I witnessed the object again on 11/1/05 around same time and on the third evening I was outside and it appeared again. I ran to my truck and got my Nikon D70 digital camera and quickly tried to focus it on the object, while resting the camera on the hood of my truck to steady the camera. The camera had trouble auto-focusing and I switched the auto mode to sports, and was able to get three pictures, 2 of the object and the third of nothing many seconds later. I have the RAW – NEFF pictures for anyone who wants to analyze them, however you will need Nikon Capture 4 software to view the images. My neighbor wants nothing to do with this, nor does my wife. An unknown man near to us during the Halloween sighting on 10/31/05, exclaimed, “It is a UFO!,” but we don’t know who he was, he was not from our neighborhood. After I did a radio interview on Coast to Coast, a Suffolk man contacted me and described seeing the objects again three nights in a row. This is not the first time I have seen orbs traveling in this direction (roughly South to North) a friend and I practically chased one in the daytime in the fall of 2000. I have since learned how to set the parameters on my camera and will be ready the next time to hopefully get better pictures. I have been told that digital pictures are not as reliable as film photos, but still a pretty good amount of detail and authenticity should be able to be gleaned from these two photos by those who know what they are doing, since I have no background or experience in this type of research. Photos can be seen and downloaded at www.thenorfolkincident.com/orbs.htm</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56545.html](http://www.nuforc.org/webreports/reports/056/S56545.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Weston (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Bright yellowish sphere cut across sky extrememly fast at what appeared to by a very low altitude.  I only saw the orb for a second before it was out of sight past roofline of house. Similar to a shooting star or extremely low altitude meteorite, or object burning in atmoshphere....it was not a reflection, it was not an aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115095.html](http://www.nuforc.org/webreports/reports/115/S115095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
