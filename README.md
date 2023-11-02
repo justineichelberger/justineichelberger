@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:50 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wakefield (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent flaming ball moving around 50 knots at 1500 feet altitude.  Dead calm wind.  Could see flames dancing.So last night, I'm outside in my yard and I look up and see this orange light approaching from the western sky.  I point it out to my buddy.This thing is flying at about 1500 feet and moving at maybe 50 knots.  The damn thing gets within 10 degrees of directly overhead and it's clearly on fire.  We could see the flames dancing like on a yule log.It was silent.  The winds were dead calm and we were both sober as judges.  The thing continued east for about four minutes before burning out over Rhode Island Sound.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104076.html](http://www.nuforc.org/webreports/reports/104/S104076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Round Lake Beach (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>two objects one v shaped 3 lights on top, under brownish dimmed light another triangle shaped lights on top flying north.I got up around 3:30 to feed the baby when I walk upstairs I saw shooting red light about 45 degrees. I fed the baby puted back to bed and watch the sky full of stars. First I saw bright light by the signal tower, it was very strong reflected in the mirror in the bedroom, it was on for about 2-3 min. and dimmed away slowly and I could see something flying away small red and green light south. I wake up my fiance and explained what happend, he smilled and went back to bed, at this moment another light came out (fiance got up and watched with me) same place by tower, no movement, another light came out, so we have 2 bright lights for another 2-3 minutes, slowly fading away and flying away south. Next that light coming again but closer and it looked like a huge triangle with lights on top, no sound going north direction above the houses. Next light by the tower again this time going towards our house, fast, looking like a boomerang, v shaped 3 lights on top, past our 2 story house, by the window, could see under dimmed brownish lights and when it was above the roof it started the engine sounded like motorcycle trying to start. we had a feeling like it knew we are watching and it made us aware of it self. I called local police departament to find out if there was any military action or helicopters flying by the tower-negative!!!! I didn't belive in ufo's until today, I am scared they gonna come back and then what call 911?  Why we have no protection from government?  I would like to know what flew over my house tonight!!!  No one is going to belive me anyways.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33547.html](http://www.nuforc.org/webreports/reports/033/S33547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
