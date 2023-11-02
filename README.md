@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:50 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Solid green point light moving extremely fast horizontally northbound in sky.  3 bright flashes of light and sparks that lit up the sky then instant vertical elevation drop to below horizon.  Other aircraft in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143653.html](http://www.nuforc.org/webreports/reports/143/S143653.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Roswell (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Pale blue light streak across windshield in Roswell 11/02/08.I was driving down Hardscrabble road nearby the intersection with Chaffin going due west.  At the top of the windshield appeared a streak of light which I originally registered as a shooting star.  It was a pale blue green light fairly bright, consistant with perhaps a trail from a firework, but without any smoke. It streaked across my vision from the top of the windshield straight due west and possibly down and escaped my vision behind some trees.  It was going far to fast to be an airplane, and it was not a reflection since I have driven that road many times at night and never witnessed the same phenomenon. The only logical explanation I could come up with was perhaps a firework remain, but I didn't see smoke and it was an unlikely day and time.  I tried to turn down the radio to hear anything but it was probably too late.  The one thing I did notice was a slight increase in static on the radio which grabbed my attention before I saw the object.ADDENDUM TO REPORT:Correction to previous post.  It was pale in comparison to the lights of the street. However then again, there were no stars visible and it was much brighter and larger than any shooting star I have seen. Also since it was dark and I'm slightly nearsighted it was difficult to tell whether it was moving parallel to the ground  or downwardly. There was also no clouds that night at the temperature was about 14 degrees Celsius.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66666.html](http://www.nuforc.org/webreports/reports/066/S66666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
