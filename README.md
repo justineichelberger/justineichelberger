@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Henderson (NV) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Very large silver flying aircraft teardrop in shape appeared overhead while pulling into driveway at approximately 6:40p.UFO Sighting November 2, 2019 Location:  Henderson, NV 18:40  Description: I saw very clearly something very very bright shoot over my head while I was turning into my driveway.  It was moving very fast compared to several other airplanes I also saw coming in or taking off from McCarran Airport. It was almost teardrop in shape and left a vapor trail of some sort.  In 5 seconds or so the light was gone. My first thought on this was:  That almost looks like a shooting star but way too big.  Here in Las Vegas the stars are hard to see at night because of the “light pollution”.  I have seen actual shooting stars and of course they look very small but flash only briefly before they vanish. I jumped on the computer and this site to see if anyone has reported it yet or seen anything here in Henderson, NV.  So far nothing has been reported. As far as the description of the aircraft I saw, it was almost teardrop in shape, almost shiny and very bright.  In comparison to the other aircraft in the air at the time it had no lights of any kind.  Our airplanes of course have red, white, and green landing lights.  This aircraft did not. I only saw it for approximately 5 seconds kind of like the duration of a shooting star.  Then the whole thing vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150331.html](http://www.nuforc.org/webreports/reports/150/S150331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>silver cylinder object in sky 3ft L x 2Ft H white circle moved to cover whole object then disappearedI would like to report a UFO that I saw Nov. 2nd  2010. it was in Indianapolis Indiana. I was at the corner of Southeastern Ave and Arlington Ave. it was in the SW sky.  It looked to be about 3ft long and about 2ft high. It was silver in color and it only stayed for less than a minute. The silver was the shade of a trashcan.  As I was watching this object it looked like a white circle rose from the bottom left and moved to the top right. Once it finished it disappeared.  There were no blimps in the vicinity. It just hung in the air and then the circle of white moved to encompass the object. It appeared to be only one.  The sky was clear with some white clouds higher up than the object.  The address was ((deleted))  Southeastern Ave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78708.html](http://www.nuforc.org/webreports/reports/078/S78708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
