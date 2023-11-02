@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Indianapolis (IN) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>silver cylinder object in sky 3ft L x 2Ft H white circle moved to cover whole object then disappearedI would like to report a UFO that I saw Nov. 2nd  2010. it was in Indianapolis Indiana. I was at the corner of Southeastern Ave and Arlington Ave. it was in the SW sky.  It looked to be about 3ft long and about 2ft high. It was silver in color and it only stayed for less than a minute. The silver was the shade of a trashcan.  As I was watching this object it looked like a white circle rose from the bottom left and moved to the top right. Once it finished it disappeared.  There were no blimps in the vicinity. It just hung in the air and then the circle of white moved to encompass the object. It appeared to be only one.  The sky was clear with some white clouds higher up than the object.  The address was ((deleted))  Southeastern Ave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78708.html](http://www.nuforc.org/webreports/reports/078/S78708.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wakefield (RI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Silent flaming ball moving around 50 knots at 1500 feet altitude.  Dead calm wind.  Could see flames dancing.So last night, I'm outside in my yard and I look up and see this orange light approaching from the western sky.  I point it out to my buddy.This thing is flying at about 1500 feet and moving at maybe 50 knots.  The damn thing gets within 10 degrees of directly overhead and it's clearly on fire.  We could see the flames dancing like on a yule log.It was silent.  The winds were dead calm and we were both sober as judges.  The thing continued east for about four minutes before burning out over Rhode Island Sound.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104076.html](http://www.nuforc.org/webreports/reports/104/S104076.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
