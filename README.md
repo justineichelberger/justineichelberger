@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:10 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Baldwin (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>orange/reddish colored light blinked, reappeared different location , made circles(moved) and disappearedNorthern sky horizon  First I saw an orange/reddish colored light blink.I continued watching.It blinked off then reappeared a short distance away.It then appeared to be a red light that dipped down almost to the tree line, Then made a series of small circles.It disappeared then reappeared again a greater distance higher in the sky.I got my cell phone to call someone , looked up and it was gone.Although I thought I seen a faint trail. To my knowledge it wasn’t a satellite. Definitely not an airplane.The skies were clear.In a strange way I believe it was aware of my presence.Not sure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78696.html](http://www.nuforc.org/webreports/reports/078/S78696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Several have been just sitting and I think they are communicating to each other with their blinkingI think this is their meeting place.  I have been watching them for 2 weeks and I have plenty of video coverage</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165161.html](http://www.nuforc.org/webreports/reports/165/S165161.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
