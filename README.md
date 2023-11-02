@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Point Pleasant by the Barnegat Bay (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>fire ball low flying bright orange, silentfireball flying  low below clouds with a low cloud ceiling asolutely silect, very low and silect bright orange round flickering   reminded us of the fire kites that burn out   steady speed went from west to east slightly south burning brightly lasting minute or two   at first thought it was an meteor but usually w/ a meteor it is out before someone else can see it,  we were able to discuss what it was after I pointed it out to my neighbor   I have no idea what it was, no smoke, sound or smell just a bright orange light((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104074.html](http://www.nuforc.org/webreports/reports/104/S104074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dana Point (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object sighted over Dana Point, California.I saw one UFO traveling south to north roughly parallel to Pacific Coast Highway.  I cannot be sure of the size or the distance but if I had to guess it was up about 1000 feet.  It was triangular shaped with each side, I'm guessing, 30 feet.  The "tip" areas of the triangle were not pointy but rounded.  There where large circles in each tip.  There were no lights,it was lit only by the ambient light in the area.  It made no sound whatsoever.  It was traveling rapidly but not super fast.  The circular areas were a carbon color in the low light and the interior area appeared to have a light brownish cast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14791.html](http://www.nuforc.org/webreports/reports/014/S14791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
