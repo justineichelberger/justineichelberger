@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:44 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Flickering colored lights appear in the sky at the about the same time each night for about 45 minutes and then disappear.My wife saw this object three nights ago.  It was low and moving silently across the horizon in a gradual descent that she thought may result in a crash but it disappeared instead. Both my wife and I have seen it the last two nights in the same position in the sky about 15-20 degrees above the horizon.  The shape is indistinct but one can see the changing colors (green, red, white) with the naked eye. It is impossible to judge the size, altitude or distance from us.  It appears about 23:00 and disappears very gradually into the distance in 30-45 minutes. Last night we could see it moving up, down and side to side abruptly but never too far from its original position.  Tonight it was more stationary and slowly disappeared to the west as if moving away from us. The tower at the local airport closes at 23:00.  The sky has been very clear and we have seen several shooting stars the last two nights.  I have been around aircraft since I was a boy and built many a model airplane.  And I have seen space junk a number of times.  My wife is a graphic artist and has a good eye.  We have never encountered anything like this.((ADDENDUM FROM WITNESS))Dear Mr. Davenport:Mars was orange/yellow and very bright above and behind us to the east. The object was in the western sky and much nearer the horizon so that we had our backs to Mars as we watched the object. We observed the object with binoculars which made the changing colors, not just a distorted shimmer but a flashing, more apparent. It isn't the usual 'twinkle'.I checked periodically last night waiting for the object to appear and when I looked out about 23:00, there it was. The night before last, it was moving very distinctly in small increments back and forth and up and down. That's what really threw us. It didn't move as much last night. Springfield is 110,000 people and we live about 5 or 6 miles east of town and the last few nights the atmosphere has been very clear and absolutely beautiful, but I don't see any body behaving or looking like this. It's just a very odd thing to see.Regards,((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47393.html](http://www.nuforc.org/webreports/reports/047/S47393.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Woodland (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>About a dozen orange lights in the sky under clouds above Woodland hills.  Kind of in a triangle form.((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103837.html](http://www.nuforc.org/webreports/reports/103/S103837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
