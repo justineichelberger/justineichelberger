@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:41 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Bright orange lights in the sky over Englewood FloridaI Walked outside 11/3/11 a little after 8pm and noticed bright orange glowing lights in the sky. When I first walked outside there were 6 bright orange lights in a straight line which vanished about 30 seconds later.  Then I saw about 5 more bright orange lights appear one at a time in different areas of the sky.  They light up then vanished after about 30 seconds each time. These definatley were not planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85127.html](http://www.nuforc.org/webreports/reports/085/S85127.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pampa (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>whitish/green fireball was observed flying acrossing the skyA bright white/green fireball was seen shooting east to west across the near dark sky over the mesas north of Pampa,Texas, it did not fade but passed out of sight over the northern horizon.  It was observed by a 48 yr old Hunting Ranch Lodge Manager, his 16 year old daughter and 6 year old son as they were driving back to their ranch house.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104110.html](http://www.nuforc.org/webreports/reports/104/S104110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
