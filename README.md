@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Keyser (WV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>West Virginia man sees strange orange object in the night skyAs I walked outside my home, I looked in the sky to see a round shaped orange glowing object shooting across the sky at the speed of a shooting star.  The object was moving in a north west direction than quickly made a 45Pop degree turn at a rapid speed changing its direction to south west.  It was moving to fast to be any kind of man made plane or helicopter.  The object couldn't have been a shooting star or space junk falling to earth because of its rapid change in direction.  I will be the first to tell you that I don't believe in such things as aliens and ufo's.  However, their can be no other explaination for what I saw in the sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115103.html](http://www.nuforc.org/webreports/reports/115/S115103.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mechanicville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 fires hovering over the hudson river in a triangle formation.I saw 3 Fires hovering on top of the Hudson River in a triangle formation.  I could tell that it wasn't in the water because the river was flowing pretty good and I figured that if it was something burning that it would have moved with the water.  I checked for reflections of some sort but I could not find any thing. I kept my eyes on it because I didn't want it to disappear before my co-worker came out. I asked him what he could see while I was pointing to it.  He said it looked like fire he said he has never seen that before. I have never seen anything like it.  It burned out a few minutes after that. It reminded me of burner like on a gas stove.  The sky was cloudy and the water showed no sign of displacement.  And the sounds were normal.  Hope there is some sort of explanation for this occurrence.((NUFORC Note:  Witness elects to remain semi-anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85123.html](http://www.nuforc.org/webreports/reports/085/S85123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
