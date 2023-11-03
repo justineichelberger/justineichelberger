@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:43 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Aberdeen (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>During the course of this evening (11/03/14), I heard several sky based booms, the final one was a bit unnerving.  At approx. 2310hrs in the area of Carsins Run Road in Aberdeen, MD, I was outside on my porch, the weather was partly cloudy, 0% precip, and no air traffic that I could see or hear.  What I experienced was a sky based explosion sound, similar to thunder, but sharper, not distorted by the air and resonated to where I felt it through the concrete and in my chest.  After the 2 second incident, I noticed dogs barking in the distance.  I've been through enough thunderstorms living in this area to where thunder does not and has not had that reaction on the dogs in the local area.  Earlier in the evening, my wife and I also experienced another sky based "boom," to which we also felt it in our chests due to the strength.  Although not a true sighting, I felt this should be reported.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115123.html](http://www.nuforc.org/webreports/reports/115/S115123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Orange and red pulsating ball traverses a small portion of the sky and vanishesI observed this object in the North West sky for approximately a minute before it flickered and vanashed.  The object glowed an orange and red color and there was no trail preceding.  This is a clear night and there are no clouds.  Speed and size of the object could not be determined; however, there were man made aircraft visible and the radiating light from those appeared significantly smaller.  Could this have been a satellite?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104082.html](http://www.nuforc.org/webreports/reports/104/S104082.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
