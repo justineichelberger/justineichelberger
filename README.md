@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>unidentified light source seen moving in rapid "zig-zag" motions across clear night skyBetween 9-10 pm on 11/3/04 on a cloudless night, I happened to glance out my kitchen window facing north to look at what I thought might be planets but were probaly just bright stars.  I then noticed a third light source which at first I thought to be just a normal airplane moving directly away from me as it did not seem to be moving much.After a few seconds of watching this light source, it began to move in what I can only describe as erratic zig zag motions, ie. up, down, left and right at varying angles.  It appeared to be covering large distances very quickly as it did this.  This went on for at least 30 to 60 seconds before it left my field of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40435.html](http://www.nuforc.org/webreports/reports/040/S40435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red and white &quot;T&quot; shaped objects with small white lights falling from the white ones and all disappearing at the same point iI saw 4 or 5 "T" shaped lights moving west across the sky.  Most where red but a few where whitrAs I watched more abd more came out from behind the trees.  They moved in a kjnd of staggered line.  The ones that where white had little balls of white light thtat fell from them.  They all moved west at the same speed until they reached a point in the sky where it looked like they moved away from earth and slowly faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104112.html](http://www.nuforc.org/webreports/reports/104/S104112.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
