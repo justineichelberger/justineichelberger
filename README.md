@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Huntington (WV) reported seeing craft that fit the description of some 'Cross' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>red and white &quot;T&quot; shaped objects with small white lights falling from the white ones and all disappearing at the same point iI saw 4 or 5 "T" shaped lights moving west across the sky.  Most where red but a few where whitrAs I watched more abd more came out from behind the trees.  They moved in a kjnd of staggered line.  The ones that where white had little balls of white light thtat fell from them.  They all moved west at the same speed until they reached a point in the sky where it looked like they moved away from earth and slowly faded away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104112.html](http://www.nuforc.org/webreports/reports/104/S104112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pawnee County (location unspecified) (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6:00 - 6:00 minutes.</sub><blockquote><sub>alternating colors flashing sphere seen in early morning skyRed green white flashing between colours sphere in southeast sky heading west then later spotted  heading east.  Then changed directions again from east to west and back to east again.  While watching sphere.  A plane or what looked like a plane headed toward flashing sphere.  Sphere lights seem to die down a bit and  possible plane change altitude to fly low under sphere after plane passed and was a distance away sphere light got brighter again.  Could the flashing sphere been a weather balloon?((NUFORC Note:  Possibly a "twinkling" star?  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131002.html](http://www.nuforc.org/webreports/reports/131/S131002.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
