@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Laporte (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights in the sky, fairly low, drifting, almost playing, no sound, moving slowly. Non threatening, mesmerizing. Awestruck.I was running to the store real quick and foolishly didn't bring my phone.  I saw a minimum of 8 orange lights over the tree tops as I was walking to my car.  I didn't think much of it and pulled out into the road and drove on.  As I neared the top of the bridge on our road I noticed them again, as it's a rural area and it was quite dark.  I stopped my car and got out. I was mesmerized by 8 orange glowing, drifting lights.  Slowly moving west in no particular pattern.  I was awestruck as it looked like 8 orange glowing Para-sails in the sky.  I imagined it was a group of people flying them and just out having fun.  Then I realized it was dark, it was 38 degrees.  These were no Para-sails.  I literally stood there mesmerized as they drifted west and then disappeared into some heavy cloud cover that was moving in.  This was my first experience with  anything like this but it wasn't frightening.  It was almost magical.  I don't know what they were but I can't imagine anything man-made that would create what I saw.  I would estimate the height to be probably 3000 feet.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143658.html](http://www.nuforc.org/webreports/reports/143/S143658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Canyon Lake (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Walked outside to take trash out.  I saw above my neighbor's house 2 bright orange balls moving together slowly one in front of the other.  We watched with 2 of our kids for about 2 minutes then it just disappeared.   It came back 10 minutes later.  Now 2 neighbors myself,  my husband and 2 of my kids watched it for about 5 minutes. It then just disappeared.   I took 3 pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115124.html](http://www.nuforc.org/webreports/reports/115/S115124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
