@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:25 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pawnee County (location unspecified) (NE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6:00 - 6:00 minutes.</sub><blockquote><sub>alternating colors flashing sphere seen in early morning skyRed green white flashing between colours sphere in southeast sky heading west then later spotted  heading east.  Then changed directions again from east to west and back to east again.  While watching sphere.  A plane or what looked like a plane headed toward flashing sphere.  Sphere lights seem to die down a bit and  possible plane change altitude to fly low under sphere after plane passed and was a distance away sphere light got brighter again.  Could the flashing sphere been a weather balloon?((NUFORC Note:  Possibly a "twinkling" star?  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131002.html](http://www.nuforc.org/webreports/reports/131/S131002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Girard Township (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Glowing objects,flying in formation,around Lake ErieDriving north, looking west, low in sky four lights following each other,allmost in formation. We pulled over. One kept coming at us, one stoped, two turned out there lights. The one flew rite over us at a hight of about 150 feet. No sound,It was giving off lite,but no lights seen.was a dark color,brown or green.Went in direction of other objects.Saw one, pulled over turned out lights ,got out.It turned its lights out And headed towards Erie. Sincs then we have observed, the same lights two nites ina row, inthe same area.11/14/04 and 11/15/04.On further observation , they seem to be coming up from Lake Erie, and flying out from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40637.html](http://www.nuforc.org/webreports/reports/040/S40637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
