@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Burlington (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>High levels of emf app on phone.  When looking up they were cirling my home.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143669.html](http://www.nuforc.org/webreports/reports/143/S143669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately nightly - nightly minutes.</sub><blockquote><sub>Star sized crafts that hover over Portland metro on a nightly basis.These objects can be seen on a nightly basis hovering over the Portland Metro area.  At a glance, they appear to be a distant star, but if you'll look closely, they flash red and blue and don't maintain a steady position.  I'm not sure of the exact number count on these crafts, but there are around 6 to 8 that can be seen nightly.  I have also witnessed a large white orb during the early morning hours (just before sunrise) that was in the eastern direction.  The orb was able to move about fairly quickly,  I have photo's of this orb and with the naked eye, it looks white in color, but the photo's show it being more orange in color.  I have taken photos of everything I just described, but unfortunately, my photo's aren't clear enough to make identification possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137113.html](http://www.nuforc.org/webreports/reports/137/S137113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
