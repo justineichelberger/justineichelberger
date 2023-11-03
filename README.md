@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:45 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Petoskey (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing orange fire ball  floats across sky silently before fading away into the dark cloudy sky.On November 3, 2012 at approximately 9:35:36 PM EST,  a single bright orange orb with a red haze floats across the northern sky of Petoskey, MI.The orange fire orb moves silently through the cloudy night, a cool breeze passes by. Not a star or glance of moonlight in sight.   A single tree stands bare swaying through the light as it moves at a moderate rate of speed.Glowing in the air it remains steady traveling northwest to southeast in an arc like motion while hovering far below the cloud line and peaking high above homes and farm land.The flight pattern doesn’t match up to a helicopter or plane and there is NO SOUND.As the orb floats across the sky, two smaller lights appear to move outward and back in.  It then moves quickly to the left and flashes forward before slowly blinking and fading away into the clouds.Link to the Video:  http://www.youtube.com/watch?v=vHWqsXVXGR0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94138.html](http://www.nuforc.org/webreports/reports/094/S94138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>unidentified light source seen moving in rapid "zig-zag" motions across clear night skyBetween 9-10 pm on 11/3/04 on a cloudless night, I happened to glance out my kitchen window facing north to look at what I thought might be planets but were probaly just bright stars.  I then noticed a third light source which at first I thought to be just a normal airplane moving directly away from me as it did not seem to be moving much.After a few seconds of watching this light source, it began to move in what I can only describe as erratic zig zag motions, ie. up, down, left and right at varying angles.  It appeared to be covering large distances very quickly as it did this.  This went on for at least 30 to 60 seconds before it left my field of view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40435.html](http://www.nuforc.org/webreports/reports/040/S40435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
