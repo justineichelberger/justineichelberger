@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:25 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Girard Township (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Glowing objects,flying in formation,around Lake ErieDriving north, looking west, low in sky four lights following each other,allmost in formation. We pulled over. One kept coming at us, one stoped, two turned out there lights. The one flew rite over us at a hight of about 150 feet. No sound,It was giving off lite,but no lights seen.was a dark color,brown or green.Went in direction of other objects.Saw one, pulled over turned out lights ,got out.It turned its lights out And headed towards Erie. Sincs then we have observed, the same lights two nites ina row, inthe same area.11/14/04 and 11/15/04.On further observation , they seem to be coming up from Lake Erie, and flying out from there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40637.html](http://www.nuforc.org/webreports/reports/040/S40637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cimarron (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wingless Aircraft Disappearing in Mid-Air at Low Altitude in Western KansasAt 9:40 a.m., Saturday 11/4/07, we were traveling to Dodge City, KS on Highway 50.  Approximately 4 miles east of Cimarron, KS on highway 50, we sighted what we believed to be a single crop-dusting airplane flying at low altitude above the fields to the north of the highway.  It appeared to be about 500 to 1000 feet above ground and it made a slow banking counter-clockwise turn around the field.  It was shiny silver in color with some red on it.  There was no sound or vapor trail from the object.  However, as we approached, we noticed that it lacked wings.  As the passenger in the car watched it continuously, he saw the object disappear before it would have crossed the highway.  The driver and passenger looked all around the sky after the event and could not locate the object anywhere.  It had not landed or flown out of range; it had simply disappeared in mid-air.Both witnesses are familiar with various types of aircraft, such as crop-dusting planes and ultralight aircraft that can be seen in the area from time to time.  This object was not a conventional aircraft.  It had a crumpled appearance, and had what appeared to be a rear fin on its body.  However, it had NO WINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59602.html](http://www.nuforc.org/webreports/reports/059/S59602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
