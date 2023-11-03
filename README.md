@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 large blue spherical objects spotted in Arvada, Colorado in late 1986The date and time are more of a guess at this point given that the event occured at least 2 decades ago.  Reading some of the recent events reminded me of it.  I was walking down the street and off to the west, toward the mountains I saw the large glowing blue spherical objects arc across the sky and then vanish.  They flew in-line with one another, like a traffic light, just straight up and down.  They just appeared, and followed, almost like a rainbow pattern and then vanished.  The lights remained solid the entire time, they did not flicker and they did not make any sound.  I would approximate the distance to have been at a minimum of 3 miles away, and still they were very large.  A few moments later, another individual came out of her house and said she saw them as well.  After about 20 minutes of continued observation of the location the objects were spotted, they did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54827.html](http://www.nuforc.org/webreports/reports/054/S54827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Manteca (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately currently - currently minutes.</sub><blockquote><sub>Floating ball of light making rapid movement in the sky with little faint lights moving around it.  Happening right now.I see what looks like a bright star in the sky but after watching I noticed it was moving very rapidly in every direction and little faint lights moving around it. It's 1:15 am right now and its still there.at one point the light fell very fast towards the ground but then just stopped and went straight back up at high speed.  And I can't see it on my phonrles camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/103/S103859.html](http://www.nuforc.org/webreports/reports/103/S103859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
