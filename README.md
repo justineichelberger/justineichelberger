@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:33 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:53 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately objects in the sky - objects in the sky minutes.</sub><blockquote><sub>There were 50 to 60 colored objects slowly moving across the sky.Last night 11/03/2012 around 10:05 pm, as I was on my way to work, I looked up into the sky and seen a lot of objects slowly moving to the west.  There were at least 50 to 60 0f them.  They looked to be almost round in shape and about the size of a basketball.  They were red and orange colored and looked like a small flame around them. I pulled my truck over and got out to get a better look at them.  I did not hear no sound in the sky.  I tried to take pictures of these objects with my camera phone but as I aimed my camera toward the sky all I could get was a black screen.  I couldn’t believe what I was seeing.  I stood there and watched the objects for about 10 minutes and had to leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94120.html](http://www.nuforc.org/webreports/reports/094/S94120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Corpus Christi (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Saw a shiny white  bullet/cigar shape odject in the sky at a steady speed for a minute and halfSaturday November 3rd 2012 @ 8:30am central time in corpus christi texas.  The sky was very clear with no clouds. (light Blue Sky)  The bullet/Cigar shape with no wings was solid shinny white in color and came from the south and headed to the north over corpus christi texas at a straight and steady speed.  It left no white trail and eventually it disappearded far from my sight.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94074.html](http://www.nuforc.org/webreports/reports/094/S94074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
