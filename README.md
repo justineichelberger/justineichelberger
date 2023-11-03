@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately nightly - nightly minutes.</sub><blockquote><sub>Star sized crafts that hover over Portland metro on a nightly basis.These objects can be seen on a nightly basis hovering over the Portland Metro area.  At a glance, they appear to be a distant star, but if you'll look closely, they flash red and blue and don't maintain a steady position.  I'm not sure of the exact number count on these crafts, but there are around 6 to 8 that can be seen nightly.  I have also witnessed a large white orb during the early morning hours (just before sunrise) that was in the eastern direction.  The orb was able to move about fairly quickly,  I have photo's of this orb and with the naked eye, it looks white in color, but the photo's show it being more orange in color.  I have taken photos of everything I just described, but unfortunately, my photo's aren't clear enough to make identification possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137113.html](http://www.nuforc.org/webreports/reports/137/S137113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Petoskey (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Glowing orange fire ball  floats across sky silently before fading away into the dark cloudy sky.On November 3, 2012 at approximately 9:35:36 PM EST,  a single bright orange orb with a red haze floats across the northern sky of Petoskey, MI.The orange fire orb moves silently through the cloudy night, a cool breeze passes by. Not a star or glance of moonlight in sight.   A single tree stands bare swaying through the light as it moves at a moderate rate of speed.Glowing in the air it remains steady traveling northwest to southeast in an arc like motion while hovering far below the cloud line and peaking high above homes and farm land.The flight pattern doesn’t match up to a helicopter or plane and there is NO SOUND.As the orb floats across the sky, two smaller lights appear to move outward and back in.  It then moves quickly to the left and flashes forward before slowly blinking and fading away into the clouds.Link to the Video:  http://www.youtube.com/watch?v=vHWqsXVXGR0</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94138.html](http://www.nuforc.org/webreports/reports/094/S94138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
