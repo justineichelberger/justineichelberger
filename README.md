@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cimarron (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Wingless Aircraft Disappearing in Mid-Air at Low Altitude in Western KansasAt 9:40 a.m., Saturday 11/4/07, we were traveling to Dodge City, KS on Highway 50.  Approximately 4 miles east of Cimarron, KS on highway 50, we sighted what we believed to be a single crop-dusting airplane flying at low altitude above the fields to the north of the highway.  It appeared to be about 500 to 1000 feet above ground and it made a slow banking counter-clockwise turn around the field.  It was shiny silver in color with some red on it.  There was no sound or vapor trail from the object.  However, as we approached, we noticed that it lacked wings.  As the passenger in the car watched it continuously, he saw the object disappear before it would have crossed the highway.  The driver and passenger looked all around the sky after the event and could not locate the object anywhere.  It had not landed or flown out of range; it had simply disappeared in mid-air.Both witnesses are familiar with various types of aircraft, such as crop-dusting planes and ultralight aircraft that can be seen in the area from time to time.  This object was not a conventional aircraft.  It had a crumpled appearance, and had what appeared to be a rear fin on its body.  However, it had NO WINGS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59602.html](http://www.nuforc.org/webreports/reports/059/S59602.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1986, an anonymous witness in Arvada (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 large blue spherical objects spotted in Arvada, Colorado in late 1986The date and time are more of a guess at this point given that the event occured at least 2 decades ago.  Reading some of the recent events reminded me of it.  I was walking down the street and off to the west, toward the mountains I saw the large glowing blue spherical objects arc across the sky and then vanish.  They flew in-line with one another, like a traffic light, just straight up and down.  They just appeared, and followed, almost like a rainbow pattern and then vanished.  The lights remained solid the entire time, they did not flicker and they did not make any sound.  I would approximate the distance to have been at a minimum of 3 miles away, and still they were very large.  A few moments later, another individual came out of her house and said she saw them as well.  After about 20 minutes of continued observation of the location the objects were spotted, they did not reappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54827.html](http://www.nuforc.org/webreports/reports/054/S54827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
