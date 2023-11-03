@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 2 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dana Point (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Triangular object sighted over Dana Point, California.I saw one UFO traveling south to north roughly parallel to Pacific Coast Highway.  I cannot be sure of the size or the distance but if I had to guess it was up about 1000 feet.  It was triangular shaped with each side, I'm guessing, 30 feet.  The "tip" areas of the triangle were not pointy but rounded.  There where large circles in each tip.  There were no lights,it was lit only by the ambient light in the area.  It made no sound whatsoever.  It was traveling rapidly but not super fast.  The circular areas were a carbon color in the low light and the interior area appeared to have a light brownish cast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14791.html](http://www.nuforc.org/webreports/reports/014/S14791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Collinsville (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>My son and I were outside and noticed white objects that looked like birds flying erratically. It seemed strange because they seemed much higher than birds usually fly.  My son thought it looked more like debris blowing around at a high altitude. He then noticed another much larger object appear.  It was a reddish color, and it appeared top be hovering near the other objects. It appeared to be diamond shaped.  I ran in our shop to grab binoculars, but before I was able to get back out, my son said it was taking off.  When I got back outside, it had already disappeared to the south.  This happened in a very short period of time.  The object would have had to accelerate to extremely high speeds to be out of sight by the time I was back outside.  We had a clear view to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150398.html](http://www.nuforc.org/webreports/reports/150/S150398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165161.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165158.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165789.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165170.html)
-- [345](http://www.nuforc.org/webreports/reports/160/S160491.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
