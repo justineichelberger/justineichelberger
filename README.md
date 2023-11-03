@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 3 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Mechanicville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 fires hovering over the hudson river in a triangle formation.I saw 3 Fires hovering on top of the Hudson River in a triangle formation.  I could tell that it wasn't in the water because the river was flowing pretty good and I figured that if it was something burning that it would have moved with the water.  I checked for reflections of some sort but I could not find any thing. I kept my eyes on it because I didn't want it to disappear before my co-worker came out. I asked him what he could see while I was pointing to it.  He said it looked like fire he said he has never seen that before. I have never seen anything like it.  It burned out a few minutes after that. It reminded me of burner like on a gas stove.  The sky was cloudy and the water showed no sign of displacement.  And the sounds were normal.  Hope there is some sort of explanation for this occurrence.((NUFORC Note:  Witness elects to remain semi-anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85123.html](http://www.nuforc.org/webreports/reports/085/S85123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Laporte (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>8 orange lights in the sky, fairly low, drifting, almost playing, no sound, moving slowly. Non threatening, mesmerizing. Awestruck.I was running to the store real quick and foolishly didn't bring my phone.  I saw a minimum of 8 orange lights over the tree tops as I was walking to my car.  I didn't think much of it and pulled out into the road and drove on.  As I neared the top of the bridge on our road I noticed them again, as it's a rural area and it was quite dark.  I stopped my car and got out. I was mesmerized by 8 orange glowing, drifting lights.  Slowly moving west in no particular pattern.  I was awestruck as it looked like 8 orange glowing Para-sails in the sky.  I imagined it was a group of people flying them and just out having fun.  Then I realized it was dark, it was 38 degrees.  These were no Para-sails.  I literally stood there mesmerized as they drifted west and then disappeared into some heavy cloud cover that was moving in.  This was my first experience with  anything like this but it wasn't frightening.  It was almost magical.  I don't know what they were but I can't imagine anything man-made that would create what I saw.  I would estimate the height to be probably 3000 feet.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143658.html](http://www.nuforc.org/webreports/reports/143/S143658.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [358](http://www.nuforc.org/webreports/reports/165/S165163.html)
-- [357](http://www.nuforc.org/webreports/reports/160/S160464.html)
-- [356](http://www.nuforc.org/webreports/reports/160/S160407.html)
-- [355](http://www.nuforc.org/webreports/reports/160/S160408.html)
-- [354](http://www.nuforc.org/webreports/reports/160/S160399.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
