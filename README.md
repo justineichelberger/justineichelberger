@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parkland (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>4 lights in a rectangler triangle pattern, with very loud noise like a miltary object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137119.html](http://www.nuforc.org/webreports/reports/137/S137119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jackson (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 fast crafts going different directions coming and going to a floating orbFloating Giant orb moving very quickly getting brighter and getting dimmer.  4 crafts come this orb going extremely fast at a variation of heights and disappeared out of sight. amazing yet frightening((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104120.html](http://www.nuforc.org/webreports/reports/104/S104120.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
