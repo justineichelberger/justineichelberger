@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silvery and very distinct  tail lights super fastI was the passenger of my boyfriend's car, we were going east on Magnolia Blvd.Less then half a block before we turn, I was looking up and barely above this two story apartment building, I noticed this rectangular shaped silvery moving object.It looked like the back end with two small red tail lights and a exhaust pipe.It was almost like something out of Star Wars.  I started kind of yelling oh look at that to my boyfriend but, he couldn't of course because he was driving.  Turning right on to Riverton Ave.  I was still looking up at the sky and noticed that the object had ascended 150 ft. high, but I could still see the silvery object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94238.html](http://www.nuforc.org/webreports/reports/094/S94238.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Helena (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Low flying triangular shaped object quickly moving across the skyThree amber colored lights in the shape of a triangle were seen flying low above Helena.  The object moved in a southeasterly direction.  After six seconds of viewing, the lights moved flawlessly into a straight line while maintaining an equal distance between the other.  Within 10-15 seconds the lights were out of view.  No sounds were heard as the object moved across the sky, which at the time appeared to be less than 10,000 feet above the ground (estimation).  Phenomenal event-one I will not soon forget!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47852.html](http://www.nuforc.org/webreports/reports/047/S47852.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
