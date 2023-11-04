@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:33 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:46 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light almost  like a bright star with bright light luminatingIt looks like a bright light almost with star like um it says she'll it has to sit still for over an hour please have come by jets not sure what's going on but something maybe that explains the noises we here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104121.html](http://www.nuforc.org/webreports/reports/104/S104121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Loveland (OH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a golden sphere in the night sky.  It went from relatively low in the sky to really high and just disappeared.My two children and I all saw a golden sphere in the night sky.  It went from relatively low in the sky to really high and just disappeared.  It was near where loveland-madeira road and I-275 intersect.  Near Lake Isabella.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94303.html](http://www.nuforc.org/webreports/reports/094/S94303.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
