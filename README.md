@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Jackson (MS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 fast crafts going different directions coming and going to a floating orbFloating Giant orb moving very quickly getting brighter and getting dimmer.  4 crafts come this orb going extremely fast at a variation of heights and disappeared out of sight. amazing yet frightening((NUFORC Note:  The party who submitted the report elects to remain totally anonymous, and provides no contact information, so we are unable to contact the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104120.html](http://www.nuforc.org/webreports/reports/104/S104120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Beaver Falls (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red flashing unmoving light over the river not attached to anything that moved sharp down and right and went out.I’ve never been on your site before.  Just found you via Google while looking to see if anyone else had seen what I saw.  I am doing this in Word like you asked.  Anyway, here goes.On Monday 11/04/2013, around 6:15 am, I was sitting in my car in the Sunoco gas station parking lot waiting for my old man to get me a coffee for the road.  This is the gas station right across the road from Geneva College playing field, and right behind the tool rental place, on Route 18 in Beaver Falls, PA.I was looking east over the river when I saw this light.  It was red, blinking on and off, and I thought it might be a radio tower light.  But as the sky grew a little lighter, I could see there was no tower, wires nor anything the light could have been mounted on because the hills in the east were in relief against the sky and the light was higher up than the hills.  It was totally unmoving, except for the blinking.  The stars were moving as they normally do.  Then I saw little clouds pass behind this thing over the hills so I knew it must have been right above the river.  It started to blink with a slightly different speed and then it dropped straight down and then straight over to the right.  Then the light went out.Don’t know if this was anything like a UFO but I wanted to find out if anyone else saw it.  I am a 60+ year old woman and not some kind of nut who sees things.  We are new to that area having just got a retirement home there that we are working on, and I am thinking maybe it is something else, like a regular light in the area we don’t know about.  Just wanted to report this to see if anyone knows what this is.  That’s all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104258.html](http://www.nuforc.org/webreports/reports/104/S104258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
