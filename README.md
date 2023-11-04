@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tarpon Springs (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>NOT THE MOON     NOT THE SUNI saw the clouds go dark. Then from underneath the clouds the sun, but round and silver blindingly bright. It was in 12  o"clock position.  I was in middle of a conversation on the phone at work in my office building.  I happened to see the time and mentioned it to the client on the line.  After the conversation, I said to myself, wow the moon is really large and full. I left work at 7pm tonight and when I got out expecting an full moon, it was only about 1/3 of the moon.  This when it struck me. What I thought was the sun, but looked like the moon was in the wrong place in the sky for 5 pm and it was a silver white light, not golden red and orange sunlight.  Could this have been the decent of an huge ship using the rolling like smoke from a fire clouds to conceal the decent?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85151.html](http://www.nuforc.org/webreports/reports/085/S85151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Hollywood (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silvery and very distinct  tail lights super fastI was the passenger of my boyfriend's car, we were going east on Magnolia Blvd.Less then half a block before we turn, I was looking up and barely above this two story apartment building, I noticed this rectangular shaped silvery moving object.It looked like the back end with two small red tail lights and a exhaust pipe.It was almost like something out of Star Wars.  I started kind of yelling oh look at that to my boyfriend but, he couldn't of course because he was driving.  Turning right on to Riverton Ave.  I was still looking up at the sky and noticed that the object had ascended 150 ft. high, but I could still see the silvery object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94238.html](http://www.nuforc.org/webreports/reports/094/S94238.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
