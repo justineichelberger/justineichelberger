@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:53 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:10 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>This was a meteor sighting. It was very bright, and broke in two after a few seconds.I just saw a meteor from my back porch. I'm at about 60th and Palatine ave N. in seattle. I was looking East and saw it about the time it either began glowing or came out from behind some trees. It went south and descended slightly, I could see it for 5 or 6 seconds. It seemed to be moving slowly, and it brightened as it went, (got venus-like in brightness, but a sharper point of light) so it might have been vectoring towards me as well.  It was 2 to 2 1/2 hands up off the horizon, and traversed 3 1/2 to 4 hands left to right. It seemed to be fading and slowing before it disappeared behind some other trees. Also, it clearly broke in two pieces about 3/4 of the way through the sighting. Seemed like a slightly smaller piece separated and took a slightly slower and lower path. Obviously I can't gauge the distance, but it seemed like it was near, maybe over Lake Washington. I hope you get other sightings to triangulate this. The sky is very clear tonight and cold, frost on the cars.((NUFORC Note:  We know the witness, and we consider him to be highly credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32869.html](http://www.nuforc.org/webreports/reports/032/S32869.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Redbank (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>My friend and I saw a cluster of blinking white dots in the sky over New Jersey.  The dots lasted a couple of minutes and then disappeared behind a cloud.  It was amazing.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131006.html](http://www.nuforc.org/webreports/reports/131/S131006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
