@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 flashing objects hovering lower than aircraft4 round looking lights, flashing multiple colors, all very low.  They were in a vertical line, not moving besides the flashing.  The top one started to move away but would come back in line.  They stayed there for a couple hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150415.html](http://www.nuforc.org/webreports/reports/150/S150415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing? - Ongoing? minutes.</sub><blockquote><sub>I was driving south on I-90 coming out of Boston just before the turn onto 95/128 when I saw what looked like 5 diamond shaped objects that were stationary in a curved pattern, all glowing brightly,  the top object super radiant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131000.html](http://www.nuforc.org/webreports/reports/131/S131000.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
