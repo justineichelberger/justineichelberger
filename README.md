@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:45 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Boston (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately Ongoing? - Ongoing? minutes.</sub><blockquote><sub>I was driving south on I-90 coming out of Boston just before the turn onto 95/128 when I saw what looked like 5 diamond shaped objects that were stationary in a curved pattern, all glowing brightly,  the top object super radiant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131000.html](http://www.nuforc.org/webreports/reports/131/S131000.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Poulsbo (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Saw a Circular Floursecent Green Object Hover and Disappear near PoulsboWe were driving North on Hiway 3,Near Poulsbo, approaching the Hiway 305 Exit to Bainbridge Island..Furher North we could clearly see the sky for several miles when we all were attracted to a Very Bright Green Luminous Ball Shaped Object dropping from the Sky at a Slight Angle..The Trajectory would have been from slighly East to slightly West but almost straight down..It could have been coming in somewhere over theJefferson County Peninsula.. as it  still appeared quite far  Northward from us.. What was so unusal was that it did not appear to leave any fiery Tail..or tail of any kind...It just dropped..at a High Rate of speed...Suddenly stopped Dead still,,Hovered for a  few Brief Seconds  Low on the Horizion but still a Few Degrees above the tree line so that we could see sky below it..Suddenly it Just Burst Apart into some Large and Small Balls of Similar Flourescent Green Light which did not fall to Earth..The whole Thing disappeared Instantly..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38475.html](http://www.nuforc.org/webreports/reports/038/S38475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
