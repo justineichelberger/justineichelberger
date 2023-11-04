@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Boulder CO FireballI was outside on my deck looked up to witness an orange fireball.  It was descending, heading from west to east. The object was silent.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be unusually eloquent and sober-minded in his description of the event.  We suspect that the correct time should read 00:44 hrs., but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94101.html](http://www.nuforc.org/webreports/reports/094/S94101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Grandhaven (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>It looked like a plane with lights but the think is it was staying in one spot. Then when it move that far then zipped off.I was going to Grand Haven from Muskegon and I was in the passenger seat and I seen something at first it was over the water and it looked like a drone then I was looking for it and it was above the bridge and I looked up and it looked like a plane but it was staying in one spot.  Then we came to the traffic light and we stopped at Advance auto parts then the "thing" moved all the way by Like Michigan create unoin and Grand Valley Marina.  And then it just zipped off.  That's what I've seen I dont know if anyone else seen it but I had to report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150434.html](http://www.nuforc.org/webreports/reports/150/S150434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
