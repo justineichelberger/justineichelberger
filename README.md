@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:40 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Circular object with blue/red/green flashing center lights and glowing edges seen over Las Vegas skies.I work for a local government in southern NV.  On November 4th at approximately 0030 hours, I was sent to investigate an unknown object in the southeast skies over Clark County, NV after numerous people reported the sighting.  The object was described as circular in shape having red, green, and blue flashing lights in the center, and yellow/white glowing lights around the object.  I observed the object and confirmed that the description as accurate. A Co-worker also observed the object. At first glance the object seemed to be a planet or a satellite, or possibly a helicopter in the distance.  After viewing it for a few minutes, the object appeared to move in an unorthodox fashion(up/down, side to side), and every few minutes a light would be emitted from the center of the object as if it were shining some type of spotlight. The military would not confirm or deny any aircraft in the air, nor would they release any information, and there were no aircraft in that area according to information obtained from local airports.  Shortly after reporting what I saw, jets (of probable military origin) could be heard and seen heading in that direction.  The object disappeared sometime around 0145-0200, and later reappeared on the west side of sky.  The second sighting lasted approximately five minutes from the time I first observed it, and disappeared after I stopped viewing if for approximately one minute  Later in the morning, a convoy of military vehicles and aircraft were seen traveling towards the area of the first sighting sighting.((NUFORC Note:  Stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78817.html](http://www.nuforc.org/webreports/reports/078/S78817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 flashing objects hovering lower than aircraft4 round looking lights, flashing multiple colors, all very low.  They were in a vertical line, not moving besides the flashing.  The top one started to move away but would come back in line.  They stayed there for a couple hours.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150415.html](http://www.nuforc.org/webreports/reports/150/S150415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
