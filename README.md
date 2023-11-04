@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coventry (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Seven orange lights following each otherStanding in my garden letting off fireworks with my family and frenids, I spotted an orange light quite low in the sky to the east moving towards us it did not flash and there was no noise, which was strange. It was very bright as it got closer we could see it was high we could also see more lights following all on the same path but some distance apart the first one began to turn in a big curve and seemed to go stright up very high until it disapeard all the others did the same and disapeard at the same point. These were not planes.I took three photos but you can only just make out the spots of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53297.html](http://www.nuforc.org/webreports/reports/053/S53297.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Parkland (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>4 lights in a rectangler triangle pattern, with very loud noise like a miltary object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137119.html](http://www.nuforc.org/webreports/reports/137/S137119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
