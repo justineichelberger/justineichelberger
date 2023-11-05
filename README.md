@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honesdale (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A cluster of orange lights in the sky  spread out and one by one they disappearedI was driving to Honesdale, PA, and up in the sky were  orange lights that looked like the formation of the big dipper.  We kept watching as we were driving they moved around then they went into a semi-single verticle line formation, at this time we pulled over and got out of the vehicle and looked up and another car came behind us and they got out and looked also, and one by one they moved out and disappeared, Not sure what it was but it was something i never saw before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85216.html](http://www.nuforc.org/webreports/reports/085/S85216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately hour - hour minutes.</sub><blockquote><sub>This wasn't just a normal sighting we had time to get a telescope and point it south over lamoille canyon (south).  All four of us saw a white coin shaped object.  Outlining the craft was a bright green light.  From the naked eye it flashed colors.  The telescope revealed runes on whatever it was. Shortly after we drove.  I looked east towards Wells and saw a Huge vapor trail 3 times the width of the moon and miles wide.  We pulled over to inspect it.  It was long and would pinch off at points and expand.  We continued down the road and saw a blue streak shoot north across our windshield quickly.  It was huge with blue tracers unlike a comet meteor or shooting star.((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94130.html](http://www.nuforc.org/webreports/reports/094/S94130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
