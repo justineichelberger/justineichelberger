@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:52 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Del Mar (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Overhead we saw V or chevron shaped with four lights on each side, huge, silent, very fast moving southward along coastline,amazing.11/5/12:  My adult daughter and I were standing at the end of 28th street in Del Mar Ca looking at the beach, it was a hot day and dry, wind from the east, so no fog or clouds or dampness this evening. It was a clear night.  Next we were looking at the bright stars, and looking at the sky overhead, at approx. 9:52 pm a very fast moving group of lights passed overhead, it was completely silent if it was an object, and it moved very fast, passing overhead in a matter of seconds.  It was V shaped or Chevron shaped, we both thought it was one huge flying object that was absolutely silent, it had what we perceived as four lights on each side.  Of course this could have been several separate lights moving in perfect unison, or a formation, but we perceived it as being a V shaped object.  The lights, four on each side of the V shape, were a soft light, she thought beige, I though beige but with an orange hue.  They were moving so fast, that maybe 10 seconds of good overh! ead viewing time was all we had, maybe less, after moving from an overhead position, as it moved south, it became invisible, that is to say it disappeared very quickly from view after being almost directly overhead.  I would call this a UFO, although I am skeptical and wonder if it isn’t just a military aircraft that I am not familiar with, but it would have to be completely silent, and really huge,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94165.html](http://www.nuforc.org/webreports/reports/094/S94165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Minot (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights Form Triangle Shape In Minot, ND.Traveling with my co-worker and got out so I that I could show him moving satellites and we lights form huge triangle shape. Line up with an airplane and move incredibly fast.  Not ufo believer but this was super stranger, have never seen anything like it.((NUFORC Note:  We have spoken via telephone with the source of the report, who corrected the date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115168.html](http://www.nuforc.org/webreports/reports/115/S115168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
