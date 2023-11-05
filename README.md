@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ponchatoula (LA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>orange light appeared in the Eastern sky of Louisiana, it was dancingnoticed an orange light ascending and descending (sorta like dancing) in the Eastern sky, wasn't that noticeable, had to stand calm and concentrate on its movements</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73149.html](http://www.nuforc.org/webreports/reports/073/S73149.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>4 objects moving very rapid and lazer like decending, going strait, acending then disapearing.4 objects moving at an extreemly rapid rate S/E to N/W.  Looked almost like a Lazer but were cylinder shaped bright red going strait then diping and then up again before disapearing in the distance.  Each object was spaces almost equally apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40571.html](http://www.nuforc.org/webreports/reports/040/S40571.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
