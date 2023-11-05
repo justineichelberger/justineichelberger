@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Strange Orange Lights over the Alaska Range While Flying from Anchorage to FairbanksThis was on flight 2811 from Anchorage to Fairbanks (south to north).  I was sitting in row 3 on the right side of the Q400, looking out to the east/northeast.  As we climbed just above the cloud layer to cruising altitude over the Alaska Range, I first noticed 2 bright orange lights fade in and then out right above the clouds off to the northeast.  The still bright "supermoon" was out, and the stars will clearly visible in the sky.  I exclaimed "what was that?" out loud, but most others were sleeping or otherwise occupied.  I looked for a reflection inside the aircraft that might have caused this anomaly, but seeing nothing I continued to press myself to the glass to look for it again.  A few minutes later, several groups (2-3 in each tight group) of these bright lights appeared to the right of the moon, a little above the horizon.  They almost looked like little flames fading in and out. They glowed bright, way brighter than stars.  They would fade out, and then repeat again approximately 5-6 more times over the next 10 minutes.  We were already beginning descent into Fairbanks, which was overcast and snowing.  I kept watching for more, but lost the entire field of view as we descended into the clouds and then landed.  Fairbanks was socked in with snow, so there was no way this could have been seen from town if looking southeast towards the Alaska Range.  I have no idea what this was.  My only thought was fighter jet engines burning in the distance as they did exercises?  The lights were a fair distance away and didn't really move, however.  They faded in and then faded out in place, about 8-10 seconds each time.  I'm quite a skeptical person, but this is the strangest thing I've ever seen out of an airplane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131416.html](http://www.nuforc.org/webreports/reports/131/S131416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honesdale (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A cluster of orange lights in the sky  spread out and one by one they disappearedI was driving to Honesdale, PA, and up in the sky were  orange lights that looked like the formation of the big dipper.  We kept watching as we were driving they moved around then they went into a semi-single verticle line formation, at this time we pulled over and got out of the vehicle and looked up and another car came behind us and they got out and looked also, and one by one they moved out and disappeared, Not sure what it was but it was something i never saw before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85216.html](http://www.nuforc.org/webreports/reports/085/S85216.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
