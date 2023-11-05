@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:34 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Danville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking out our trash containers to the curb and I just happened to look up a bit and reddish lights caught my attention.At first I thought it was military aircraft but then noticed that the lights were steady and no signs of strobes.I quickly ran into the house to grab my cell phone to record video but my wife called me right as I was trying to film them.  As I looked up the lights were dimmed out and you could only see a real faint white glow of the craft.They were moving steady and average speed of planes from Harrodsburg, KY, towards Junction, KY. NW to SE.I watched them until I  could no longer see them any longer.  No sound what so ever. Clear skys.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150421.html](http://www.nuforc.org/webreports/reports/150/S150421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Somerset (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately Photo Shot - Photo Shot minutes.</sub><blockquote><sub>This is a photo shot of a horse taken about November 05 2005. After the photos were developed we noticed a UFO in miniature!  The photo has been scrutinized.  The blow ups are not enhanced.  It has a blue-purple hue, the sun's reflection, and the depth can be seen in front of the tree's background.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  We have not received copies of the photos, so we cannot comment here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47674.html](http://www.nuforc.org/webreports/reports/047/S47674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
