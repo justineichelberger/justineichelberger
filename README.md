@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO - London 5th November 2012http://youtu.be/SQziFQwFE2A  Filmed this one on 05/11/2012 with my iPhone. Looked like a ball of lights, wasn't flashing or anything.   Didn't look like airplane or helicopter.  I see hundreds of airplanes every day, but this one definitely wasn’t one of them.  Was moving fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94513.html](http://www.nuforc.org/webreports/reports/094/S94513.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stanley (ND) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I seen about 75 lights appear in the sky heading in an East direction over about a 25 minute time span.  Groups of 7 at a time.  The appeared at a certain spot in the sky and kept coming out of it. I was able to view 1 cigar shaped craft with 2 lights on it.  Several stopped in the sky and began moving again. Very scary. I thought we were being attacked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151304.html](http://www.nuforc.org/webreports/reports/151/S151304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
