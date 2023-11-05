@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Minot (ND) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights Form Triangle Shape In Minot, ND.Traveling with my co-worker and got out so I that I could show him moving satellites and we lights form huge triangle shape. Line up with an airplane and move incredibly fast.  Not ufo believer but this was super stranger, have never seen anything like it.((NUFORC Note:  We have spoken via telephone with the source of the report, who corrected the date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115168.html](http://www.nuforc.org/webreports/reports/115/S115168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Shrewsbury (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a large bright yellow light from my window, at night it was in the shape of a fireball, and was moving closer to my window.I was laying in bed when I saw a large bright light through the corner of my blinds.  I opened my blinds more, and thought the light looked weird, it was bright yellowish like the color of the sun, however it was night time and it was low to the ground no higher than a street light.  I thought it was a streetlight till it started moving, Once I started staring at it as it was swaying around it got bigger and I realized it was coming closer to the window so I went downstairs.  When I came back up it was gone.  There was no noise coming from it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150441.html](http://www.nuforc.org/webreports/reports/150/S150441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
