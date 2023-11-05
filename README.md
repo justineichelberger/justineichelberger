@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 4 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shakopee (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Smaller circles form bigger circle over Shakopee. I was able to get a clear picture.Around midnight I noticed these lights in the sky above the casino in Shakopee at Canterbury Park.  About an hour later, the lights had moved ever so slowly to where they were at 1 am when I left to drive back to Illinois.  I took several photos and the lights appear to be in a circular pattern similar to what was reported in Sepetember.  There were no casino advertisements at all being displayed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137116.html](http://www.nuforc.org/webreports/reports/137/S137116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Diamond Springs (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I would describe the objects as orange in color and moving across the sky at a slow to moderate speed keeping the same distance apart from the SE to the NE.  Looking at the objects through my binoculars, I could a slight shape that was jagged on the top and rough on the bottom kind of a triangle shape.  The objects moved at different speed and then stopped, as they were stopped the one in the trail position started glowing bright and dim about 5 to 6 times and then dropped what looked to me like a small missile but the light from that faded quickly, I saw that happen 3 times and the trailing object jest faded away and disappeared.  The other object still in one position started doing the same thing, started glowing bright and dim about 5 to 6 times and then dropped what looked to me like a small missile the light from the object it dropped also faded away quickly and the object also started fading until it disappeared.  I was with my wife and neighbor who also witnessed this event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94170.html](http://www.nuforc.org/webreports/reports/094/S94170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [326](http://www.nuforc.org/webreports/reports/165/S165169.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165168.html)
-- [324](http://www.nuforc.org/webreports/reports/165/S165173.html)
-- [323](http://www.nuforc.org/webreports/reports/165/S165171.html)
-- [322](http://www.nuforc.org/webreports/reports/160/S160416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
