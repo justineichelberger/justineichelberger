@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:11 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:34 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I walked outside to smoke a cigarette and I noticed a bright light in the sky distance apart the whole time it was moving around was a red light that was not flashing they're also moving in weird directional pattern that I've never seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123835.html](http://www.nuforc.org/webreports/reports/123/S123835.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Danville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was taking out our trash containers to the curb and I just happened to look up a bit and reddish lights caught my attention.At first I thought it was military aircraft but then noticed that the lights were steady and no signs of strobes.I quickly ran into the house to grab my cell phone to record video but my wife called me right as I was trying to film them.  As I looked up the lights were dimmed out and you could only see a real faint white glow of the craft.They were moving steady and average speed of planes from Harrodsburg, KY, towards Junction, KY. NW to SE.I watched them until I  could no longer see them any longer.  No sound what so ever. Clear skys.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150421.html](http://www.nuforc.org/webreports/reports/150/S150421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
