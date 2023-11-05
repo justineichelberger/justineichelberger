@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:11 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Diamond Springs (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I would describe the objects as orange in color and moving across the sky at a slow to moderate speed keeping the same distance apart from the SE to the NE.  Looking at the objects through my binoculars, I could a slight shape that was jagged on the top and rough on the bottom kind of a triangle shape.  The objects moved at different speed and then stopped, as they were stopped the one in the trail position started glowing bright and dim about 5 to 6 times and then dropped what looked to me like a small missile but the light from that faded quickly, I saw that happen 3 times and the trailing object jest faded away and disappeared.  The other object still in one position started doing the same thing, started glowing bright and dim about 5 to 6 times and then dropped what looked to me like a small missile the light from the object it dropped also faded away quickly and the object also started fading until it disappeared.  I was with my wife and neighbor who also witnessed this event</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94170.html](http://www.nuforc.org/webreports/reports/094/S94170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sebring (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>I walked outside to smoke a cigarette and I noticed a bright light in the sky distance apart the whole time it was moving around was a red light that was not flashing they're also moving in weird directional pattern that I've never seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123835.html](http://www.nuforc.org/webreports/reports/123/S123835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
