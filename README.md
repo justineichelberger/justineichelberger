@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:45 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Several seconds - Several seconds minutes.</sub><blockquote><sub>Triangle UFO in Seattle U-districtI walk outside to smoke.  It was 4:15 AM ish this morning, the 5th of November, and there is a large plane flying ridiculously low, with a powerful engine-sound.  Low low.  So low I think for sure it's going to go down, and it was a big plane, too.  So, given the positions of lights on this plane, and the fact that it was completely silouetted against the sky, i could see that this thing is an equilateral triangle.  It could still be a plane.  Just one of those completely triangular ones. The thing passed again 10 or 15 minutes later, heading in the opposite direction, not flying as low (but still low).  This is definately a triangle.  I can see that thing.  It's a Tri-((deleted)).  I can't say if it was the same one.  but.  it probably was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40453.html](http://www.nuforc.org/webreports/reports/040/S40453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>UFO - London 5th November 2012http://youtu.be/SQziFQwFE2A  Filmed this one on 05/11/2012 with my iPhone. Looked like a ball of lights, wasn't flashing or anything.   Didn't look like airplane or helicopter.  I see hundreds of airplanes every day, but this one definitely wasn’t one of them.  Was moving fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94513.html](http://www.nuforc.org/webreports/reports/094/S94513.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
