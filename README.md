@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright light makes 90 degree turn.Coming home from boot camp in a friends car traveling south on Interstate 95.  I was in the back seat looking up at the stars. I spotted a bright light that was moving.  At first I thought it was a satellite.  I watched it for about 10 minutes and told the other guys in the car that I think I spotted a satellite.  We kept watching it move when all of a sudden it made an exact 90 degree turn. Now as far as I know nothing man made can make a movement like that. I know it's a little late in the game to report this but I had no source back then to report it to.  I was always skeptical about UFO's until then.  That incident certainly changed my mind.((NUFORC Note:  Date may be approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100286.html](http://www.nuforc.org/webreports/reports/100/S100286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I was wondering if anyone in Ventura count saw this craft.  At first, I thought it was fireworks display and then a missile  500 LightsWhile facing North (slightly to the West) towards Ventura, I witnessed the following:  In the distant sky, anywhere from 10 miles or further) a bright while light with various coloration changes appeared.  At first it appeared to be slowly rising on the horizion and then a long red and bluish flame shot out for about 20 seconds from behind and the white light turned slight and shot off toward a southerly direction.Everything about the event appeared to be conventional except two things. First the way the object initially appeared in the sky did not appear to be conventional and secondly I cannot understand why the missile or craft would glow with a bright white.  After the flames were gone you could still see what looked to now be a bright white light disappearing into the night.  We see many planes and helicopters in our area at night and although the lights on the planes and copper are visible, the fuselage/body of the planes are very hard to see.  There were no notable navigational lights on the object either.I was wondering if anyone in Ventura count saw this craft.  At first, I thought it was going to be some type of fireworks display and then when the flames kicked on it looked like a missile and for the record acted just like a missile.  But I am not aware of missiles that have glowing fuselages.I am unsure of the exact time, but it was between 8pm and 10pm.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78760.html](http://www.nuforc.org/webreports/reports/078/S78760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
