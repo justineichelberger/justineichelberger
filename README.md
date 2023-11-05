@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Honesdale (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A cluster of orange lights in the sky  spread out and one by one they disappearedI was driving to Honesdale, PA, and up in the sky were  orange lights that looked like the formation of the big dipper.  We kept watching as we were driving they moved around then they went into a semi-single verticle line formation, at this time we pulled over and got out of the vehicle and looked up and another car came behind us and they got out and looked also, and one by one they moved out and disappeared, Not sure what it was but it was something i never saw before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85216.html](http://www.nuforc.org/webreports/reports/085/S85216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Champaign (IL) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Woman & 9-yr. daughter heard "sirens" then noticed obj. sitting above nearby trees.  Looked "like Xmas lights."  Followed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00947.html](http://www.nuforc.org/webreports/reports/000/S00947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
