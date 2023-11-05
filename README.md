@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Champaign (IL) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Woman & 9-yr. daughter heard "sirens" then noticed obj. sitting above nearby trees.  Looked "like Xmas lights."  Followed them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00947.html](http://www.nuforc.org/webreports/reports/000/S00947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Parrish (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Strange cone-shaped beam of light moves through clouds over Florida.We took the dog for a walk Wednesday evening. Shortly after leaving the house I noticed a strange, bright light shining through a section of clouds. About the same time I was wondering what it was, my husband made the comment, look at the landing lights from a plane reflecting on the clouds. We stopped to watch, waiting to see the plane emerge as the light was moving in our direction. It was like watching the light from a flashlight and as the person moves toward you, the cone-shaped beam gets larger and brighter. This beam was getting VERY bright and I kept thinking that the clouds must really be reflecting that light because I've seen planes in cloudy conditions and they've never even remotely resembled this. We kept watching and waiting and when the light finally reached the clouds edge, it just seemed to melt away leaving only a line of cloud/smoke that continued the same direction of movement. There was no plane, no craft or any evidence that anything was there except that line of cloud/smoke that kept drifting in the same direction and slowly dissapated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32903.html](http://www.nuforc.org/webreports/reports/032/S32903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
