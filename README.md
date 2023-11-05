@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Spring Creek (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately hour - hour minutes.</sub><blockquote><sub>This wasn't just a normal sighting we had time to get a telescope and point it south over lamoille canyon (south).  All four of us saw a white coin shaped object.  Outlining the craft was a bright green light.  From the naked eye it flashed colors.  The telescope revealed runes on whatever it was. Shortly after we drove.  I looked east towards Wells and saw a Huge vapor trail 3 times the width of the moon and miles wide.  We pulled over to inspect it.  It was long and would pinch off at points and expand.  We continued down the road and saw a blue streak shoot north across our windshield quickly.  It was huge with blue tracers unlike a comet meteor or shooting star.((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94130.html](http://www.nuforc.org/webreports/reports/094/S94130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Georgetown (DE) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Chevron in Georgetown, DEIt was a light flying through the sky with a v-shape behind it.  We saw saw it on one side of the tree but it disappeared on the other side of the tree.  This house is near an airport but we’ve been here for year and have never see anything that looked like that.  It was wild.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160432.html](http://www.nuforc.org/webreports/reports/160/S160432.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
