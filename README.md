@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:57 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:10 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw 2 bright glowing orbs in Pittsburgh.I was watching the walking dead when i glanced out the window and noticed 2 bright glowing objects in the sky.  At first i thought they were stars but I looked back I noticed they were slowly moving one directly up and the other slowly to the east.  I live in the path to the airport so I thought maybe they were planes in the distance, but they had red lights on them, they were simply bright light, I went out and watched them for 15 as they slowly kept moving, I noticed one start to get brighter and glow with a green hue i went back in to get my phone to try and get a picture but my camera sucks at night so I didnt bother.  I went back in to try and get someone to take a look with me but when i went back in they were gone. I live in the city I thought this was very odd I know what helicopters, stars and planes look like in the sky and this was neither.  I feel a bit weird even posting this but Mr. Davenport always encourges us on coast to post these things so im doing that now.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131064.html](http://www.nuforc.org/webreports/reports/131/S131064.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 92</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150836.html](http://www.nuforc.org/webreports/reports/150/S150836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
