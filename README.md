@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 5 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Show Low (AZ) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>4 objects moving very rapid and lazer like decending, going strait, acending then disapearing.4 objects moving at an extreemly rapid rate S/E to N/W.  Looked almost like a Lazer but were cylinder shaped bright red going strait then diping and then up again before disapearing in the distance.  Each object was spaces almost equally apart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40571.html](http://www.nuforc.org/webreports/reports/040/S40571.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Arizona City (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Phoenix lights all over againI went outside and across the empty field along the horizon there were these 4 orange orbs just floating there for about two minutes.  Then one of them disappeared and then they all followed suit an disappeared as well.  About 30 seconds later then all came back again.  Then they all just sat there for about 2 minutes and then left.  Then in the sky, a few miles to the left, an orb came.  After that orb, another one came right next to it and then in a single line, about 7 in total showed up.  But after the 3rd one came up, the first one slowly began to disappear, and when the 4th came, the second one began to disappear.  This happened slow at first then extremely fast, probably a whole 20 seconds in total.This reminds me exactly like the Phoenix Lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94187.html](http://www.nuforc.org/webreports/reports/094/S94187.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165177.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165175.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165227.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165761.html)
-- [382](http://www.nuforc.org/webreports/reports/161/S161174.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
