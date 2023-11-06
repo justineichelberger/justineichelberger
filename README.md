@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:46 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2-3 colored lights on one craft swooping gracefully in irregular pattern looking west/nw from North Portland, ORfrom North Portland on the second story of a building, looking fairly high into the western/northwestern sky around 8pm, my friend and I saw lights, multiple, changing colore - red, blue, green -- apparently one craft, making swooping, rolling moves.   Perhaps two lights or three, with colors changing.  Appeared to be on the other side of the Willamette - perhaps far away to the west/northwest.  It swooped down, and to one side, then up, to the other side - graceful slow movement.   Finally, as I was talking to the local news station (KATU-TV)it gradually dropped toward the horizon, at a curving angle until I could not see it anymore behind the trees and tall house to west of our building.  Appeared rather far away, could only make out the movement and the colored lights (no more than 3 clustered together in no discernible shape).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94159.html](http://www.nuforc.org/webreports/reports/094/S94159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150831.html](http://www.nuforc.org/webreports/reports/150/S150831.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
