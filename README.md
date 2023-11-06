@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Kingman (north of, Mt. Tipton Area) (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green orb north off highway 93 north of Kingman, AZWas passenger in school passenger van driving down highway 93 between Las Vegas and Kingman, AZ.  Other witness was driver.  Object was seen around the Mt. Tipton Area north of Kingman.  Driver looked out drivers window (to the east towards the Mountain) and stated "Whats that".  I leaned over towards driver and looked out his window and saw a medium green (medium-nor bright nor dim)object (about the same color as a traffic light)round object at approximately a 40-60 degrees angle in relationship to the ground.  Object was stationary and I was unable to determine size.  Best description would be that it was about 1/4 the size of a full moon when straight overhead.  Looked at object for approximately 20 seconds, looked away,(to undo my seatbelt) and then looked back for about 20 more seconds.  Object then markedely increased the light intensity enough to where I was able to see the entire landscape surrounding us including the slope of the distant mountain.  This lasted for about 3-5 seconds.  Light then "shut off" and object was nowhere to be seen.  I determined thea object had to be between us and the mountain (probably about halfway)due to fact that entire area between us and mountain including the slope was illuminated.  Illumination can best be described as approximately twice the brightness of full moon night on clear night.  At time of sightning, there were no clouds and weather was clear.  When light increased, I could no longer see the object, just the landscape lit up.  Landscape and surrounding area was lit up the same green color that object was seen as.  Light was not emitted as a beam or anyting like that.  It was as if someone just turned on a dim to medium light that lit up surroundings on an otherwise dark winter night.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/031/S31664.html](http://www.nuforc.org/webreports/reports/031/S31664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grimsby (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Light streaking across skySaw light going across the sky. Thought it was a shooting star or a meteor at first until it slowed down and eventually made small movements back and forth and also small circles. Another “light” appeared and was making the same type of movements in the same area. The lights eventually faded & disappeared after 2 to 3 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160485.html](http://www.nuforc.org/webreports/reports/160/S160485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
