@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:45 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150831.html](http://www.nuforc.org/webreports/reports/150/S150831.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>large object  seen north of Cincinnati, 9 lights grouped in 3's, 1 group broke away  to follow usMy husband and I were on our way back from a concert in Cincinnati (destination Circleville) to pick up our children from my inlaw's.  We were on a back road highway and I'm not sure of the name of it, but we realized we were going the wrong way.  I was driving and to our right, over a huge open field high up in the sky, were 9 lights (grouped in 3's) forming a huge triangle. They were slowly rotating as one large object. (The lights were at the corners of the object and were a bright glowing white.)  After one of the 3 groupings "broke off" from the formation and started following us.  They were not behind us, though.  They were beside us going at the same speed we were, but keeping a large distance between us.  We turned around in a driveway to head back in the right direction and all 3 disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50018.html](http://www.nuforc.org/webreports/reports/050/S50018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
