@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:58 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:45 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Matteson (IL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>We were walking are dog and we saw a bright large object in the sky.It look like a line star and it had 6 long lines coming out of a small middle and they were cross and very bright white. It look like it was less than a mile away from us it was coming toward us we knew because it kept on getting brighter and brighter.  it look as larger than a foot ball feild and then saw a dim blue flash from middle of object come toward the ground and then it whent away real fast the huge croosed lines of very bright light whent away into a little tiny dot that flew away fast and the dissapeared all this happend than less then a 1 min .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40494.html](http://www.nuforc.org/webreports/reports/040/S40494.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Enveloped by a spherical object with hexagons along the inside that were turning red.Spherical shaped craft, seemed to have hexagons all over the inside that seemed to light up red.  There was a feeling of intense gravity, as if I were way heavier than normal, and like something was pushing down on me.  It came down and surrounded my whole location and stayed there for 6 hours or so.  When these navigate around they are blue grey and black in color and seem to be plasma and variable size.  This was near the Eagle's Point Labyrinth along the pacific trail.  Associated with these are smaller triangular craft with three red lights on the bottom that trail two fibers behind them.  This was early Monday morning.((NUFORC Note:  We attempted to contact the source of the report, but the telephone number is non-functional.  We strongly suspect a hoax, in light of the content of the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137174.html](http://www.nuforc.org/webreports/reports/137/S137174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
