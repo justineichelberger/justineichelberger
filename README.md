@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:43 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kiawah Island (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>First Time sighting due South from Kiawah Island ocean front home -- Bright OrangeNovember 7, 2010 Mom & I saw most amazing objects in sky off our back deck in Kiawah Island over Atlantic Ocean last evening- November 6, 2010.We were mesmerized and couldn't take our eyes off approximately 8 to 12 very bright orange objects in formation of inverted ><  Objects 40 to 50 degrees above horizon Due South moving outward, and up very fast or just evaporating. Time in full view approximately 90 sec. No way to tell how big, how far, or time in view before we walked out on deck.This all happen on very clear night approximately 8:30 PM Saturday November 6, 2010  Explanation anyone???? Hard to pull a stunt like this over Atlantic. Again no way to tell how far, how high, or how big with no reference points.No reports in local news next day.  Could it have been reflection off satellite directed in our direction only???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78813.html](http://www.nuforc.org/webreports/reports/078/S78813.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Magnolia (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Witnessed 3 large formations of 4-5 objects with flashing lights and 3 smaller formations containing 2-3 objects...all appears flashing lights then one by one they shot straight up in the sky very high until out of sight, VERY ViSIBLE ...3 large and 3 smaller objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137153.html](http://www.nuforc.org/webreports/reports/137/S137153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
