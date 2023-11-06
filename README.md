@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mount Laurel (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Extremely fast blob of light flew past treeline before completely disappearing from viewSighted from my window, as I was on my computer, I saw 3 lights, moving above the treeline at an extreme speed.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123526.html](http://www.nuforc.org/webreports/reports/123/S123526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw 2 cylindrical and 4 oval objects slowly descend from clouds over the Wenatchee area. About 15 jets over area, but only 2 or 3 at a time.First spotted a thin (flat) horizontal cloud that began to tilt and descend. Then a larger thicker (taller) horizontal cloud also tilted to the left but the leading portion no longer looked like a cloud but cylindrical and dark (not sunlit by the rising sun). Two small clouds came out of a separate larger cloud. Binoculars showed them to be oval in shape with distinct edges - NOT clouds. The second cylindrical one now down past mountains. Another oval one came out of the same cloud the earlier ones had. All objects SLOWLY descending past Cascades. Jets flew in from the South, about 1 or 2 at a time. Jets in the area past 9:30. All objects were lit by the sun as clouds are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04785.html](http://www.nuforc.org/webreports/reports/004/S04785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
