@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:44 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Warrenton (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>2 orange lights that appear to be small then appeared as it moved closer to earth.  And as it moved closer the lights got bigger.  Then 2 more orange lights came out horizontally of original 2 lights.  That made it a total of 6 lights in all.  Then the orange lights start blinking one at a time repeatedly as it moved very quietly across the sky before all of the went back to one light then disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150610.html](http://www.nuforc.org/webreports/reports/150/S150610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Middleton (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I can see the big Dipper when I was walking my dog so when I was looking up to try to find it I saw a black triangle with lights on all sides blinking like an aircraft. I couldn't tell how high or low it was but it was dead silent and had to be moving at the speed of sound because it had to be at least five times faster than any aircraft I've ever seen. There was only one craft it was completely black.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150445.html](http://www.nuforc.org/webreports/reports/150/S150445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
