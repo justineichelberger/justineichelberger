@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bothell (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw 2 cylindrical and 4 oval objects slowly descend from clouds over the Wenatchee area. About 15 jets over area, but only 2 or 3 at a time.First spotted a thin (flat) horizontal cloud that began to tilt and descend. Then a larger thicker (taller) horizontal cloud also tilted to the left but the leading portion no longer looked like a cloud but cylindrical and dark (not sunlit by the rising sun). Two small clouds came out of a separate larger cloud. Binoculars showed them to be oval in shape with distinct edges - NOT clouds. The second cylindrical one now down past mountains. Another oval one came out of the same cloud the earlier ones had. All objects SLOWLY descending past Cascades. Jets flew in from the South, about 1 or 2 at a time. Jets in the area past 9:30. All objects were lit by the sun as clouds are.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04785.html](http://www.nuforc.org/webreports/reports/004/S04785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Miami (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Shiny, reflective objectOn Tuesday, November 6, returning home from picking up my grandson at school, I had to stop for a train.As I was sitting there something in the sky caught my eye.  I assumed at first that it was a plane but was way too shiny and reflective and hovering.  There were some light clouds but the object was far below them.  I tried to determine a shape which I never figured out but it was too compact to be an airplane.What intrigued me was how shiny it was.As I was watching it, it just disappeared, no movement what so ever, just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94197.html](http://www.nuforc.org/webreports/reports/094/S94197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
