@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Bethpage (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Silver disc flies across the skyI pointed to the sky to show my friend the discoloration of orions left hand that night, and a metallic, ellipsed disc object swiftly cruised across the sky, no lights, sound, or slowing down. it looked very high up but moved 100's of times faster than any plane, and it shot up into the sky dissapearing. We clearly saw it, there is no other explaination. I was a somewhat believer.. but now i obtain the truth.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40490.html](http://www.nuforc.org/webreports/reports/040/S40490.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw small stationary clouds forming from thin air,later saw a saucer shaped craft fleeing the area.As I am near Nellis AFB, I delight in watching all the aircraft.  On this day I watched a very loud B-1 bomber head out going NW and out of sight.  I thought it looked peculiar that there were only two very small clouds in the relatively clear low NW skyline.  So I'm looking,and two more small clouds formed from thin air in the same area.  After retrieving my binoculars to try and determine the source, I saw no aircraft but one more puff of cloud emerged similar to how shaving cream would come foaming out of a can.  These were not contrails,and if this were exhaust from an aircraft, it would have to be hovering, yet I saw no craft present near them.Just then two of the Thunderbird jet team entered into the air going roughly in that direction.  I continued to watch the area of the clouds as the jets went out of sight.Just then I saw a brownish green craft that appeared saucer shaped dart across the sky at sonic speed coming from that vicinity headed SW.Within minutes four! fighter jets emerged from the AFB, flew around near the area of the clouds,then returned to the base.The small clump of clouds that appeared from nowhere stayed as cloud vapor and did not dissapate as smoke might.I watched them slowly drift NW within the relatively calm air current for a half hour.I've never seen anything like this cloud birth before, and cannot possibly imagine an explanation for it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94196.html](http://www.nuforc.org/webreports/reports/094/S94196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
