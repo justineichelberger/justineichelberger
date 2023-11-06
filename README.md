@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 360.0 - 360.0 minutes.</sub><blockquote><sub>Enveloped by a spherical object with hexagons along the inside that were turning red.Spherical shaped craft, seemed to have hexagons all over the inside that seemed to light up red.  There was a feeling of intense gravity, as if I were way heavier than normal, and like something was pushing down on me.  It came down and surrounded my whole location and stayed there for 6 hours or so.  When these navigate around they are blue grey and black in color and seem to be plasma and variable size.  This was near the Eagle's Point Labyrinth along the pacific trail.  Associated with these are smaller triangular craft with three red lights on the bottom that trail two fibers behind them.  This was early Monday morning.((NUFORC Note:  We attempted to contact the source of the report, but the telephone number is non-functional.  We strongly suspect a hoax, in light of the content of the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137174.html](http://www.nuforc.org/webreports/reports/137/S137174.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Charleston (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright white square-shaped craft with rounded corners and silver band hovers silently then disappears.Broad daylight, blue sky. 200 yards away. I saw one very bright white square shaped ufo. The shape was more like a thick square that had been flattened a little and the corners were slightly rounded. There was a silver band at the midpoint or just below. It hovered, hanging silently in the air. I turned my head away for 3 seconds to see if anyone else was seeing it. When I turned back, it was gone, I mean gone. I searched the skies but it was nowhere. I was close enough to see it was not a balloon or a drone. I had seen this thing and no one will ever tell me I didn’t. And I will never deny seeing it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160632.html](http://www.nuforc.org/webreports/reports/160/S160632.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
