@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 6 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Evansdale (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Slow moving object with numerous large lights all synchronized (Honey Comb in shape), travels over interstateFinal  Around 8:35pm I was traveling south on the interstate a few miles south of Evansdale Iowa. The sky was 100% cloudy, with rain from time to time. Stars and the moon were not visible due to the storm clouds covering the area.  As I traveled south a bright colorful light (blue, green mostly) began to flash within the clouds making the surrounding clouds light up with different colors. I thought this very strange and kept watching as suddenly I could clearly make out several round lights begin to take form from within the clouds.  Like the sun shining through thick clouds during the day, theses lights seemed to be the same size, giving the illusion that it was no higher up than a water tower, but I knew from the foggy mist overlapping the lights that the object was higher up. The lights were now solid and the pulsing flash had stopped.  Theses lights were perfectly spaced from one another giving me the idea that they were apart of one solid object. I could not make out the shape d! ue to the object clearly being deep within the clouds above but the lights were so bright that they shined through with no problem.  The object was moving incredible slow about the same speed as you would see a flock of geese travel.  I quickly decided to pull over and try to video tape it with my phone. As I got out the object was moving slowly over me heading west, for as low as it seemed to be the object put off no sound.  The lights were now  brightly white and were round in shape.  As I watched the object travel above, it presented itself to me with a natural flow, like it belonged in the sky.  I began to try and film the object but my phone could not focus on the lights or anything else in the dark.  The object then began to disappear in some thicker clouds and the lights began to fade away until I could not see them anymore. I stood on the side of the road for 30 more seconds and the pulses began to appear again but further in the distance.  (Lights formed a honey comb shape with another light in the center)    First draft i tried to make honey comb shape but after i sent it the shape then turned into a line. the object was a honey comb, pentagon shape.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94184.html](http://www.nuforc.org/webreports/reports/094/S94184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mesquite (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light in sky over MesquiteMassive light in sky.  First looked like when a helicopter shines it's lights, but way larger and had a misty, forgiveness to it. Then instantly one edge went dim and gradually, but quickly the rest disappeared.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123662.html](http://www.nuforc.org/webreports/reports/123/S123662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [320](http://www.nuforc.org/webreports/reports/165/S165183.html)
-- [319](http://www.nuforc.org/webreports/reports/165/S165188.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165189.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165194.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165611.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
