@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball/with white and green beams of light,, blowing white smokey mist .. Leaving green cloud of smoke behind..  Many witnesses.At first I saw a fire ball gliding slowly through sky leaving a faint trail of white smoke .. Then once it was more or less directly in front of us maybe like half a mile away or maybe less .. It turned to a white light .. Then in turned on a fat round beam of light that expanded and turned like a light house light with a green beam , with a serpent head ending ..coming from the middle of the white  light ..   Then all of a sudden to the right of the white beam a circular mist of white smoke,, was blown out looking the way fireworks explode in the sky ,, minus the fireworks just smoke ..  The main circular light ..  Then faded into a tiny star type shape ..  Leaving a green cloud lingering for up to five min or more..  Government or ufo??((NUFORC Note:  Witness does not indicate a time for the sighting, so we have assigned an arbitrary/estimated time for the event.  PD))((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123585.html](http://www.nuforc.org/webreports/reports/123/S123585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Standing on porch when bright light low in northern sky lit up everything for approximately 1 second.  I have never seen anything like it before in my life. Wondering if anyone else saw it. Very weird. Please keep me informed. Thank you. Ty.  Email. Cherie7900@icloud.com.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123797.html](http://www.nuforc.org/webreports/reports/123/S123797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
