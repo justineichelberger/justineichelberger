@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:27 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mesquite (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright light in sky over MesquiteMassive light in sky.  First looked like when a helicopter shines it's lights, but way larger and had a misty, forgiveness to it. Then instantly one edge went dim and gradually, but quickly the rest disappeared.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123662.html](http://www.nuforc.org/webreports/reports/123/S123662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kuna (ID) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>light with cone shaped mistWe both perceived the same thing--a stationary cone-shaped light about 100 ft above a field a couple hundred yards off the road.  As we drove closer, the light faded and there was a cone-shaped mist/fog where the light had been, and it began to disperse rather quickly.  Weird.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123577.html](http://www.nuforc.org/webreports/reports/123/S123577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
