@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Indio (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Slow moving white light with smoke seen by two people.Small circle of smoke/cloud with a bright white light in center in western sky, light slowly rotated out of view while traveling towards the North.  Smoke cloud expanded into a larger circle then small light green stripe of light appeared in center of smoke cloud, the stripe stayed in smoke cloud until it dissipated a few minutes later.((NUFORC Note:  U. S. Navy ICBM missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123783.html](http://www.nuforc.org/webreports/reports/123/S123783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unkown object with beam of white light moved horizontally before taking off into sky.  A vapor like substance  left a 'stain' in the skyStarted out as a still (white) light.  Then it projected a stream or beam of light (same color).  During this time, the object was not moving.  Then it started moving with the beam of light going with it. It was also almost as if the light was giving off steam or there was vapor coming it.  The object continued to move horizontally for about 15 seconds.  The beam of light stop and then the object was slowly taking off Vertically into the sky.  The beam literally left a bright 'stain' in the sky.((NUFORC Note:  We have corrected the time and date.  Suspected sighting of the U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123739.html](http://www.nuforc.org/webreports/reports/123/S123739.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
