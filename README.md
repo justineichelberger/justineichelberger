@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:17 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Princeton (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>On the night in question I observed 5 objects flying to the north. Their flight pattern was different than a normal flying object (plane,helicopter) which was what raised a flag in my mind.	What made me look closer at these objects originally was that I first saw two objects that seemed to be "too close" to each other flying at roughly the same altitude.I continued to watch and the object on my right seemed to "catch up" to the one on the left. At this time I noticed two more sets of lights that looked just like the first two sets I witnessed. The second set seemed to follow the first set off to the North past my house. Lastly, after I saw the second set one last set of lights similar to the first two sets appeared and moved to the north. I remember thinking how many of these things were there? And why don't I hear anything? Surely if they were helicopters, and five of them at that, it would stand to reason that I would hear something no matter how far away. I say helicopters only because the way the objects were moving, planes could'nt. Nothing super speed or anything like that, but erratic enough to know that it was'nt a plane. When I say erratic I don't mean to imply that they were flying in any aggresive or dangerous way, just simply not something you are used to seeing in the sky. They all appeared to know were the others  were. As far as what they looked like I do not know. All that I saw were white lights, one on top and two on either side slightly lower like a little pyramid. They seemed to blink but not on purpose. It looked more like just that they were in motion that was causing the lights to fluctuate. Thats it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10456.html](http://www.nuforc.org/webreports/reports/010/S10456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Essex (MD) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 ufo were right in front of my eyes and I'd love to know who else might have seen the same thing!!!I saw 3 ufos on Saturday 11/07/2020. I was off Eastern Blvd in Essex,MD. 1st cigar shaped ufo was all white flying pretty low, just took off and didn't make a sound. 2nd cigar shaped ufo was all white with red stripe around the middle. It came about 20-30seconds after 1st ufo. This was also without any sound and slightly higher than the 1st. The 3rd cigar shaped ufo was all white with black stripe around middle. Now this one was high but I could still make out it didn't have wings or a tail. As the other 2 ufos had no wings or tail.  It looked like a flying submarine. I was in shock what I was seeing that I didn't get my phone out until the last ufo came. I aimed my camera at the ufo and took a picture but when I was taking it there was a glare so strong I couldn't see if I had it on my camera. Well I guess I didn't have it in my frame because I didn't see anything but blue sky when I went and looked at it. The 1st ufo was so close, I know what I saw and it ! wasn't any plane!!! If you have any questions please feel free to contact me!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160949.html](http://www.nuforc.org/webreports/reports/160/S160949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
