@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:45 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Standing on porch when bright light low in northern sky lit up everything for approximately 1 second.  I have never seen anything like it before in my life. Wondering if anyone else saw it. Very weird. Please keep me informed. Thank you. Ty.  Email. Cherie7900@icloud.com.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123797.html](http://www.nuforc.org/webreports/reports/123/S123797.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Sweetwater (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It was weird and we didnMy friend and I were travelling to Dallas, TX, it was 11/07/89, we were driving and were headed to Dallas, Tx.  We left Hobbs, NM at about 7/00pm and when we hit Sweetwater, TX, it was about 9/00 or 9/30pm.  We were on the interstate and we noticed that everyone else was stopping and getting out of their vehicles to look up into the sky.  We were headed to Dallas, TX, and didn't want to get there too late, so we didn't stop.  She said to look out the windows to see what everyone was looking at.  I did and saw two shapes doing things that conventional aircraft couldn't do.  They were doing things that were impossible.  It was a stop sign shape and a triangle shape, both outlined in red, doing things that are not possible.  They were here in the skky and then they were there, from one side to another.  Up, down, sideways, horizontial, vertical, it wasn't possible.  Then the big one, that they kept flying into and out of came by.  It was huge, shaped like a lego brick.  On the ! under layer, that we   could see, it had purple and blue lights, they weren't blingking, they were steady, it was the size, easily of three football field lenghts in shape, it looked like a lego brick.  It made no sound.  No sound.  We watched until we got clear of Sweetwater, TX, and  then it, or they werer gone.  We got to Dallas, TX, at about 1/30 or so, we missed some time.((NUFORC Note:  Source is anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20905.html](http://www.nuforc.org/webreports/reports/020/S20905.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
