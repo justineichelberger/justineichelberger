@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:27 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:02 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Kuna (ID) reported seeing craft that fit the description of some 'Cone' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>light with cone shaped mistWe both perceived the same thing--a stationary cone-shaped light about 100 ft above a field a couple hundred yards off the road.  As we drove closer, the light faded and there was a cone-shaped mist/fog where the light had been, and it began to disperse rather quickly.  Weird.((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123577.html](http://www.nuforc.org/webreports/reports/123/S123577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Andover (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Point of Light type heavenly body in the eastern sky showed significant movement in various directions on the evening of Nov. 7.I was "naked eye" stargazing last night (11/07/07), a perfect night for stargazing because of the stillness and clarity of the stars. I was looking eastward, paying special attention to the flickering stars.  A speck of light in the mid-level eastern sky caught my eye because of the nature of its flickering.  It appeared to be multi-colored, green, white, red, brighter flickers at times. There appeared to be an almost rotational aspect to the flickering. I began to watch it closely, primarily because of the fact that when I first laid eyes on it, I thought I detected movement.  As I moved my position to be free of neighboring lights, I attempted to ascertain whether or not the object was moving.  Using two objects in the sky which I was sure were stars, the object in question was in such a position with respect to the two stars that it formed an isoceles triangle.  But then the object became aligned with the top-most of the two stars; minutes later it was aligned with the bottom star.  I was convinced the object was moving, but so slowly as to be indiscernible. As I changed my position, I looked down at my feet for a moment, and when I returned my gaze to the object, it was no longer there.  I looked southward of where I had been looking and I thought I detected it somewhat lower in the sky but the same flashing pattern was evident, so I thought I had re-detected it. I studied its location in the sky for a few minutes but could not detect any motion, and after awhile I went inside, it being quite chilly out and it was getting late. I personally feel this was the first time I've ever actually witnessed what I consider to be an authentic UFO, and I just turned 50!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59704.html](http://www.nuforc.org/webreports/reports/059/S59704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
