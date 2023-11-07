@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:31 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Laurel (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>An irregular flight pattern zig zagging then back and forth and up and down with a light as bright as a starI was up at 4 am drawing the jupiter/venus alignment, everytime a plane or satillite would go across the sky it catches my eye.each time these crafts have a flight pattern that goes in a arc.then i saw a flash of light which caught my attention. this light jumped irradically from what seems to me from constellation to constellation. a very irradical pattern zig zag then back and forth and up and down again but courisly enough still in a arc it must have lasted 20 seconds or so then gone again, very strange but acceptable. this to me only gives more credit to God just like an author or artist can creat different books or works of art God can create different worlds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40488.html](http://www.nuforc.org/webreports/reports/040/S40488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>light in visalia california 11/07/15I saw what appeared to be a helicopters beam light but it was starting to appear deffernt to meso i called my girlfriend to look at it too By the time she came out there was only the vapor in the air. It had appeared light a beam for two or three minutes and it had a strange blue nion vapor whenthe others came it turned into a ball of light and kept going up and out of the area Hope i wasnt the only on to report this strange ligh and vapor and the blue vapor stay longer then the other white vapirs((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123639.html](http://www.nuforc.org/webreports/reports/123/S123639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
