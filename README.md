@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Seattle (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>SUMMARY:  Dimly lit group of colored objects hovering over the Woodland Park Zoo emitting light beams similar to spotlights.I was walking my dogs with a friend in the park adjacent to the zoo; it was a lull in the heavy rain.  We walked into a parking lot to use the tunnel on the way home.   As we emerged from the trees my friend pointed upwards.  Just above the zoo, 400 yards from the parking lot were the four shapes in the sky:  two faint blue spheres moving back and forth like in vibration as a pair.  Closer to us was a cylindrical object the same width of the spheres, and length three times the diameter (1x3), emitting a rose colored tint.  The closest object was a larger sphere emitting a deep maroon glow.  The three (four) objects hovered back and forth independently, while their lights seemed to engulf them and be focused towards the ground at the same time.  After a few second of looking at these objects and being in awe the purple sphere became bright to the point neither of us could look any longer and were forced to look down.  When I looked up again there was nothing.  My friend then saw nothing. My dogs did not seem to notice anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01889.html](http://www.nuforc.org/webreports/reports/001/S01889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Boulder (CO) reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle of 3 lights - 2 minutes visableWe were driving on 75th st from Arapahoe heading North to our house in Heatherwood neighborhood.  Noticed 3 bright lights in the shape of a triangle that stood still in the sky.   One of the lights then grew much brighter than the other two.  The top light then shifted upwards diagonally towards the southeast and took off.  The other two followed suit.Lasted apporx. 2mins  What followed seemed to be a TON of planes that were almost searching for the thing.   We must have watched 8 different things fly over our house back and forth and they sounded like planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94206.html](http://www.nuforc.org/webreports/reports/094/S94206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
