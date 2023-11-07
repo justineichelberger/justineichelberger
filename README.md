@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:51 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 7 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in  (AZ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>What looked like a portal opened up over central az rt know.((NUFORC Note:  Witness does not indicate a time for the sighting, so we have assigned an arbitrary/estimated time for the event.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  U. S. Navy missile launch.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123703.html](http://www.nuforc.org/webreports/reports/123/S123703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Navarre (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 bright lights in formation over floridaI was out riding my bike with some friends, when up in the northeast sky we noticed a formation of 5 bright white lights.  So, we road our bikes down to the bay to get a clear view.  The formation hovered in the sky for about 5 minutes.  About 6 or 7 planes were seen flying around the formation.  After 5 minutes, the light on the far left started moving away from the formaion and slowly faded away.  Then one by one each light did the same thing.  When i first spotted the ufos, I called up another friend who was at his house and he witnessed the same thing, he happened to have a camera in his house so he ran inside, grabbed his cam, and began filming.  He caught like 3 min of it on film heres the link to the video http://s13.yousendit.com/d.aspx?id=3T04S0EMXTIO12ST8NKEX6GD4Z</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47564.html](http://www.nuforc.org/webreports/reports/047/S47564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [614](http://www.nuforc.org/webreports/reports/165/S165178.html)
-- [613](http://www.nuforc.org/webreports/reports/165/S165205.html)
-- [612](http://www.nuforc.org/webreports/reports/165/S165195.html)
-- [611](http://www.nuforc.org/webreports/reports/165/S165233.html)
-- [610](http://www.nuforc.org/webreports/reports/165/S165200.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
