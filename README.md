@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:04 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Private Pilot/Amateur Astronomer Witnesses Satellite-like Object Make 2 Course CorrectionsNot too long after sunset, with a very few broken clouds illuminated by street lights, a bright white light was noticed overhead while stargazing.It was similar to a typical satellite in its appearance and speed and it tracked rapidly on a heading of about 100 degrees; just a little to the right of due east.  The brightness was steady and there were no rotating beacons, sound, nor change of colors noticed.The object tracked at about 100 degrees for approximately one minute, then angled to a new heading of approximately 120 degrees.  It remained on this heading for only about 30 seconds when it made another angular change to a heading of about 140 degrees, where it was at an elevation of about 45 degrees or thereabout.The object dimmed after about 15 seconds and was no longer visible.  It did not go behind a cloud.  From this, I gathered that it was a reflected light and the object dimmed as it moved into the earth's shadow.  This meant that the object was at considerable altitude and, by the short duration, was traveling rapidly.Being a private pilot, an amateur astronomer and general skeptic, I chose to report this sighting as something truly beyond anything I have ever witnessed in the sky at night.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59770.html](http://www.nuforc.org/webreports/reports/059/S59770.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Agra (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Falling fire ball or streamI was driving home about 2-3 miles south of 33 highway on 18 highway south. I observed a light on the passenger side and looked over assuming break lights.  The entire window was bright red and orange. In a few seconds or more I had come to a stop and watched it dwendel down to a fine stream at about a 15* angle.  It flashed with some heat and slowly faded away.   I waited in the middle of the road for a few minutes looking for a smoke trail in the clear night sky.  Or an impact flash or smoke.   Nothing. I then called my wife to apologize for not believing her white orb with a colorful trail of triangles that was aimed for the field next to our property back in October.   I checked that our the next day and found nothing. I will check out the area around where I saw this in the morning or afternoon job permitting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94256.html](http://www.nuforc.org/webreports/reports/094/S94256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
