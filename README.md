@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Homer Glenn (IL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Speedy object preceeding by a low murmur flies overhead at night with flashing lights,I got home, parked my car, turned the radio and car off and got out.  It was then I heard a strange noise, it sounded like a generator or the engine of a diesel truck running but a deeper sound and the interverals were not as fast as you would here the revs of an idle engine.  It was loud but I could tell it was from a distance.  I couldn't pinpoint where it was, so I went in the middle of the cul-de-sac looking down the street thinking that someone had a generator hooked up to thier house or something like that, then I saw some flashing lights in the sky red, white, and I think blue.  I really couldn't tell exactly how high the object was, maybe a mile or two high.  I would have thought it was a jet except I heard the murmur before I saw the object and it did not sound anything like the sound jets make breaking the sound barrier although I never seen jets go this fast before or this low.  My guess it was an experimental aircraft.This thing was fast, I'm in the suburbs so there isn't much light in the sky at night and it was very clear, I could see the star constellation Orion the Hunter without a problem what-so-ever.  I never heard that noise before or seen anything fly  by that fast.Once it came over head I didn't hear the murmur anymore, it made a higher steady pitch sound for a brief moment and then it was out of hearing range.  It was hard to make out the exact shape, however I did see some lines that came together, kind of like a diamond shape but not solid all the way through.  It was really dark and really can't make out the shape all too well, but all the lights were alternating strobes that flashed approximately twice within in a second, although I didn't count them.The object was coming from the Southwest (more West) and heading towards the Northeast (more East) in a straight line.I figured it's probably some test aircraft the Air Force has been working on or something to that nature.I never saw or heard anything like it.  I don't want to sound like a nut or anything but I figured it was weird enough to report it.  The whole experience lasted about 15 seconds.Thank you.((NUFORC Note:  We spoke with this witness and found him to be quite credible.  The object, which appeared to have three lights on it, covered the entire sky in approximately 10-15 seconds, he estimated.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25981.html](http://www.nuforc.org/webreports/reports/025/S25981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Saw what it looked like a shooting star, but it was red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137167.html](http://www.nuforc.org/webreports/reports/137/S137167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
