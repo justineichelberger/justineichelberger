@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Abita Springs (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>This is the second time I have seen floating blue lights in my neighborhood at night and can't figure out what they are.Laying in bed, my large window faces the back yard, a cylindrical blue light appears, maybe 12 inches high, is on for about 10 seconds and then fades out.  I have discounted any cars going by, it was just really strange.  Now, I also saw two blues lights about 4 months ago as I was standing in my driveway saying goodnight to my daughter in law and her kids.  These two lights moved in tandem about 50 yards away and about as high as the tree line down the street, then moved to us and past us right above the roofline of our house and then disappeared.  No noise either.  Very strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123902.html](http://www.nuforc.org/webreports/reports/123/S123902.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morgantown (WV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>trianle shape with a light on each tip of the triangle. a red light on the top tip of the triangle.We saw it outside of my window just cruising in the same direction. It had three lights on each tip of the triangle and a red flashing light on the top of triangle. It was going a steady pace and within 90 seconds it was out of sight. It seemed to be going way faster than a plane and flying very steadily.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73201.html](http://www.nuforc.org/webreports/reports/073/S73201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
