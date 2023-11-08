@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:52 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:04 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Birdseye (IN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Star bright light in broad daylight cigar shapedStarted as a light, I thought it was a star or a planet at first, but it was broad daylight in the morning. Not a cloud in the sky. Also there were 3 commercial jets flying in the sky in different directions at the same time for me to use for reference. Object only moved vertically. Light dimmed like a dimmer switch in a house and and then all you could see was the cigar shape, then the center of the shape faded and all you could see was the outline, then the outline disappeared. All this happened while it was stationary disappeared and reappeared 3 times. Mile marker 51 Interstate 64 east between Stendal and Birdseye.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165201.html](http://www.nuforc.org/webreports/reports/165/S165201.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Private Pilot/Amateur Astronomer Witnesses Satellite-like Object Make 2 Course CorrectionsNot too long after sunset, with a very few broken clouds illuminated by street lights, a bright white light was noticed overhead while stargazing.It was similar to a typical satellite in its appearance and speed and it tracked rapidly on a heading of about 100 degrees; just a little to the right of due east.  The brightness was steady and there were no rotating beacons, sound, nor change of colors noticed.The object tracked at about 100 degrees for approximately one minute, then angled to a new heading of approximately 120 degrees.  It remained on this heading for only about 30 seconds when it made another angular change to a heading of about 140 degrees, where it was at an elevation of about 45 degrees or thereabout.The object dimmed after about 15 seconds and was no longer visible.  It did not go behind a cloud.  From this, I gathered that it was a reflected light and the object dimmed as it moved into the earth's shadow.  This meant that the object was at considerable altitude and, by the short duration, was traveling rapidly.Being a private pilot, an amateur astronomer and general skeptic, I chose to report this sighting as something truly beyond anything I have ever witnessed in the sky at night.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59770.html](http://www.nuforc.org/webreports/reports/059/S59770.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
