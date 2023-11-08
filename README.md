@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Rosanky (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Green fireball, making whistling noise, and chase aircraft appearing later.This is a second-hand account of the event described, as the witness is not computer/internet savvy. The witness was visiting his father's house in the Pine Valley neighborhood of Bastrop Co, TX (approx. 2 miles NW of the intersection of Hwy 304 and Hwy 535). He went outside to have a smoke and heard a whistling sound in the air above. Looking up he saw a green fireball that he descibes as being very low "in the trees" (I have not been able to determine the direction of the fireball's travel). He felt that it was so low that it must surely hit the ground somewhere in the Pine Valley area. After the fireball disappeared from his view he went back inside the house. Fifteen minutes later he went back outside; at this time he noticed "several aircraft circling the area". It is possible that I could get more details from the witness. Please feel free to call me at the number listed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53366.html](http://www.nuforc.org/webreports/reports/053/S53366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Omaha (NE) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1100.0 - 1100.0 minutes.</sub><blockquote><sub>It's a line of lights that are flashing and blinking all around it I can't tell what shape it is but they are orange yellow green blue white red and it has been there for almost 3 hours in the sky southeast stationary from the city of Omaha.((NUFORC Note:  We suspect a sighting of the star, Sirius.  We have corrected the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137171.html](http://www.nuforc.org/webreports/reports/137/S137171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
