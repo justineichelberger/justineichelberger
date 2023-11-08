@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Saw what it looked like a shooting star, but it was red.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137167.html](http://www.nuforc.org/webreports/reports/137/S137167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Newalla (OK) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>Triangle shaped no sound no lightI just want to know if other people seen what I’ve seen. I grew up on a military base and have not seen this aircraft before.  Black hawk is the closest I can think of but they make sounds.  I was looking up in the sky at a bright star near the moon when my eye caught an object flying west to east with No lights, No sound, No trail behind it, and moving pretty fast.  The object was V-shaped.  At first I thought it was a plain carrying people till I saw not lights, sounds, ect.  It was BIG and Long.  Peaceful watching it though.  Also its a cloudy stormy night so eyes can be playing tricks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85226.html](http://www.nuforc.org/webreports/reports/085/S85226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
