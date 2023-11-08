@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Agra (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Falling fire ball or streamI was driving home about 2-3 miles south of 33 highway on 18 highway south. I observed a light on the passenger side and looked over assuming break lights.  The entire window was bright red and orange. In a few seconds or more I had come to a stop and watched it dwendel down to a fine stream at about a 15* angle.  It flashed with some heat and slowly faded away.   I waited in the middle of the road for a few minutes looking for a smoke trail in the clear night sky.  Or an impact flash or smoke.   Nothing. I then called my wife to apologize for not believing her white orb with a colorful trail of triangles that was aimed for the field next to our property back in October.   I checked that our the next day and found nothing. I will check out the area around where I saw this in the morning or afternoon job permitting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94256.html](http://www.nuforc.org/webreports/reports/094/S94256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Huntingdon (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Reflective object changed flight directions by 90 degrees and disappeared.I drive a truck route.  The route I drive is by a heavly traveled fly zone.  It is not uncommon to see up to 7 jet contrails at one time.   On November 8, 2010, at about 4:00pm I noticed a reflective object in the sky.  The sun reflected off of this object.  The object was traveling east at about the same speed a prop driven airplane would be moving.  I did not see the shape of this object, just the silvery reflection.  I was about ready to stop watching it.  The object changed directions by going 90 degrees north of it's original direction. The object did so very rapidly and then speed off from my sight. It's height in the sky was about that of a normal prop driven airplane.  I could not determine the size of it either. This object did not leave any contrails or noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79046.html](http://www.nuforc.org/webreports/reports/079/S79046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
