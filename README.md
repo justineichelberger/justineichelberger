@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Very High Flash of LightI was on my balcony this evening, looking up at the sky SW of the Moon, when a sudden bright light, like a spotlight, appeared and then quickly disappeared.  The light did not move or travel, it just flashed on and off.  I observed the area for another five minutes or so but did not see anything else unusual.  This flash of light was high up with the stars and bigger and brighter than the surrounding stars.  Too high for a drone or helicopter and without the flashing lights of an airplane.  I am mystified because I have never seen anything like this in my 50+ years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131107.html](http://www.nuforc.org/webreports/reports/131/S131107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw the same thing that others in different locations saw on the night of the eclipse. It has been a few weeks since I saw it, so I can only give an approximate time frame of from 8:00 to 8:30pm. At first I thought it was a flock of birds flying under the moon in v-formation, but then I noticed that the lines of the v did not waver at all.  They stayed completely straight, moving at a uniform speed, which suggests to me that it was part of the same craft.  As if two sides of a triangle were lined with lights.  From where I stood (at 19th and Spring Garden Sts.) it appeared to be moving from north to south. I noticed that there was absolutely no sound coming from it.  It was a bit cloudy that night over Philly, so I can't verify color.  In fact, I couldn't discern any mass to it at all.  It looked like just a v-shaped line of lights moving in unison.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33480.html](http://www.nuforc.org/webreports/reports/033/S33480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
