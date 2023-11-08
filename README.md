@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw the same thing that others in different locations saw on the night of the eclipse. It has been a few weeks since I saw it, so I can only give an approximate time frame of from 8:00 to 8:30pm. At first I thought it was a flock of birds flying under the moon in v-formation, but then I noticed that the lines of the v did not waver at all.  They stayed completely straight, moving at a uniform speed, which suggests to me that it was part of the same craft.  As if two sides of a triangle were lined with lights.  From where I stood (at 19th and Spring Garden Sts.) it appeared to be moving from north to south. I noticed that there was absolutely no sound coming from it.  It was a bit cloudy that night over Philly, so I can't verify color.  In fact, I couldn't discern any mass to it at all.  It looked like just a v-shaped line of lights moving in unison.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33480.html](http://www.nuforc.org/webreports/reports/033/S33480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Urbandale (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>3 glowing orange orbs floated above the interstate at a low level.  Moving very slowly.  Sky was clear and they were very distinct.((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115255.html](http://www.nuforc.org/webreports/reports/115/S115255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
