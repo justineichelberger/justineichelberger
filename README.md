@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw a large light in the sky moving extremely slowly.  Last a minute and then it disappears into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137198.html](http://www.nuforc.org/webreports/reports/137/S137198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Walla Walla (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Slow moving triangle shaped craft with three red blinking lights in centerI live in rural Walla Walla, Wa.  At about 12:05 AM on 11/08/2016 I was in my kitchen working on the computer. I heard a very loud rumble flying over my house so I went outside to investigate.  A large triangular craft was flying over my property with three red flashing lights underneath in the center.  The lights were arranged in a triangle pattern and blinked on and off together at a pace of about one beat per second.  The edges of the craft were rounded and the points of the triangle were also rounded.  The underside of the craft was contoured and rolled underneath along each side and tapered out to the triangle points in a series of parallel rolls on each end.The blinking red lights appeared to be deeper set in a recess in the center of the craft.  The craft color appeared to be metallic silver.  The craft was lighted around the edges because I could see it so distinctly.The craft flew very slowly from the northwest and flew to the southeast toward the Blue Mountains.  It flew a distance of about 2 miles and was approaching the Blue Mountains when the craft appeared to be stopped in mid air for a short time and then flew on at such a slow speed it was difficult to see movement at a distance.  The blinking lights finally disappeared over the mountains.  The craft was so large that it was still very visible in the distance.The whole event took about 10  minutes.  Unfortunately my camera was in the house and I did not want to leave to go get it.  It was very dark out and no moon.  The two neighbor dogs barked while the craft was overhead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131359.html](http://www.nuforc.org/webreports/reports/131/S131359.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
