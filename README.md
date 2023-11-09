@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:42 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Dahlonega (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw a large green fireball like object with a red tail or streak.Driving home on a winding mountain road at night I saw a very bright large green fireball object traveling from east to west streak across the sky leaving a red tail or streak behind. It almost looked as if there were two of them but perhaps it was the same red streak from the fireball I witnessed. It was about the size of 1 1/2 full moons. It was very bright and caught my eye even though I was driving on mountainous roads from Blueridge, Ga. to Dahlonega and then home. I keep a cell phone in my van at all times and it was turned on lying on the passengers seat connected to the AC adapter which emits a light on the phone. At the same time I saw the fireball in the sky my cell phone cut off. I could tell this last fact easily because the light was off. I tried to turn the phone on but could not and it stayed off for about 30 seconds. Then I was able to turn it on. I could not tell if the fireball type object had fallen to earth because I was traveling on a narrow state highway with trees on either side. It was an exciting event to witness</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10498.html](http://www.nuforc.org/webreports/reports/010/S10498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Romulus (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was on my porch smoking a cigarette with my mother.  She told me to look up.  I live by the airport so I'm used to seeing planes and lights.  But what I saw was a huge slow moving craft moving up an down.  Then pausing and staying completly still.  I felt like I can't look away.  Then I notice 2 small lights moving towards the stationary craft.  The move towards it and form a triangle.  They moved up down, then streaked off.  It was weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132148.html](http://www.nuforc.org/webreports/reports/132/S132148.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
