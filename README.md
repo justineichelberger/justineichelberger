@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 8 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slow moving Triangle made no noiseHad gone out to check the mail and while at the mail box noticed lights above.  Six white lights on the bottom of triangular shaped craft.  The lights formed a triangle inside a triangle.  It was extremely low and moved very slow.  It made no noise at all and just floated beyond the tree line.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94281.html](http://www.nuforc.org/webreports/reports/094/S94281.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clemson (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 people witnessed a triangular-shaped UFO above a lake before disappearing completely.My boyfriend and I were driving down a two-lane road around 8pm. We were right next to a lake, when we saw three lights (two amber colored and one green) in a perfect triangular shape. The lights were not blinking. It was very dark outside, so I could only see the lights, not the actual object.It was hovering maybe 200 ft in the sky for a couple seconds, before quickly turning and speeding off, eventually dipping below the tree line and disappearing from view. The object never made any noise. It was completely silent, and the object was too large and too quiet to possibly be a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165208.html](http://www.nuforc.org/webreports/reports/165/S165208.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165202.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165207.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165199.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165201.html)
-- [407](http://www.nuforc.org/webreports/reports/160/S160487.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
