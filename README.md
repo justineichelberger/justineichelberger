@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The planes and the object headed north, then turned very sharply east. It was exactly 12:50 PM.On Sunday, November 9, 2014, at 12:50 P.M.  While I was in my back yard in Wanaque, I saw two, what appeared to be either F-16s or F-18s "chasing" an object over the Ramapo Mountains just east of the Wanaque Reservoir.	The planes flew very low and very fast.  I looked up when I heard the sound of the jet engines, and what I saw ahead of them was a very small, silvery "dot."  They flew from the south over route 287 in Haskell and banked sharply east over Midvale and went over the Mountains in the direction of Oakland.	I checked the local news for any mention of an air show and found nothing.  These two planes, and the object in front of them were flying way too low and too fast to be a normal training flight.  As I stated earlier, I could not tell if the planes were F-16s or F-18s because they were right above me when they turned east.  I was on a westerly facing mountain slope at an elevation of 460 above sea level.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115216.html](http://www.nuforc.org/webreports/reports/115/S115216.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bartlett (TN) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>"V" shaped ufo over Memphis.Some family had gotten together for a funeral two days later.  My uncle, brother, brothers girlfriend, friend T.J., and myself were on the back porch smoking.  I looked up into the night sky, and saw a "V" shaped object.  It was about a half a mile away and i first noticed it coming out from behind a tree that was blocking my sight line.  I watched it for about 5 seconds before I said,  "what the hell is that!".  The four people with me just looked up and watched the "V" shaped craft fly right over our heads.  The craft made no sound at all, not even wind noise could be heard.  It had 6 or 7 white-yellowish lights.  Very sharp point to the "V", and very slim body, just like the letter V.  About a week later we were in the same place, only three people were witness to that sighting.  Two sightings in a week, the same object!?  What's really going on here?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61428.html](http://www.nuforc.org/webreports/reports/061/S61428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
