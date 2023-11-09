@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:12 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Clemson (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 people witnessed a triangular-shaped UFO above a lake before disappearing completely.My boyfriend and I were driving down a two-lane road around 8pm. We were right next to a lake, when we saw three lights (two amber colored and one green) in a perfect triangular shape. The lights were not blinking. It was very dark outside, so I could only see the lights, not the actual object.It was hovering maybe 200 ft in the sky for a couple seconds, before quickly turning and speeding off, eventually dipping below the tree line and disappearing from view. The object never made any noise. It was completely silent, and the object was too large and too quiet to possibly be a drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165208.html](http://www.nuforc.org/webreports/reports/165/S165208.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4 - 0.4 minutes.</sub><blockquote><sub>1 flickering light hovered above sky lights for and 10 seconds before dropping vertically to just above ground level.  Hovering there for a few more seconds before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150509.html](http://www.nuforc.org/webreports/reports/150/S150509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
