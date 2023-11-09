@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fort Fraiser/Vanderhoof (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Traveling East on HWY 16 between communities when the event occurred.  Started off as a single green/blue light when it entered my line of sight and split into 3 lights traveling in tandem/tridem.  The object/light was moving South East from the Northwest, seeming in a downward angle.  The light(s) passed underneath the moon, starting above/beside on the west side and ending underneath on the east side.  As it passed under the moon it broke into three identical lights before it disappeared.  The object(s) traveled approximately 6-10 inches across my windshield before disappearing into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131124.html](http://www.nuforc.org/webreports/reports/131/S131124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lawrenceville (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Double Columns of light in lawrenceville, gaAt approximately 1700 hrs on the evening of 9 November 2012, this person and his wife were exiting Sugarloaf Mills Mall when the two of them saw what appeared to be two very large columns of light side by side in the West/Northwestern sky.  The lights appeared not to be reflections, but emanating from whatever the craft was itself.  They looked perhaps like the fire one would see from a jet propulsion engine, but they were vertical rectangular/cylindrical in shape.  No trail, as one would see with a con-trail from an airplane, was left.  The two witnesses thought perhaps it was the international space station, although it looked to be too large and too close to be so.  It drifted slowly from the West/Northwestern sky to the Northern sky as its distance became greater.  The two witnesses watched as the craft went between the clouds and the horizon, in front of the clouds, so the two witnesses realized it must not be anything too far in the sky.  It appeared to be flaming, as a comet would.  As it drifted further away, the two witnesses conferred that it could still be seen at a distance of at least fifteen miles.END REPORT.((NUFORC Note:  Possible contrails??  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94279.html](http://www.nuforc.org/webreports/reports/094/S94279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
