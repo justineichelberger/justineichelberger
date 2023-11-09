@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Romulus (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>I was on my porch smoking a cigarette with my mother.  She told me to look up.  I live by the airport so I'm used to seeing planes and lights.  But what I saw was a huge slow moving craft moving up an down.  Then pausing and staying completly still.  I felt like I can't look away.  Then I notice 2 small lights moving towards the stationary craft.  The move towards it and form a triangle.  They moved up down, then streaked off.  It was weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132148.html](http://www.nuforc.org/webreports/reports/132/S132148.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Delta (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright orange slow  moving orb  several hundred feet above treelineVery bright orange orb 2x size and brightness of Venus At first it hung in the sky above treelines then slowly moved in a northerly track parallel to county rd 8. and at about near ((name deleted)) my daughter and I noticed there were two objects .We stopped to watch and listen and heard no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40576.html](http://www.nuforc.org/webreports/reports/040/S40576.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
