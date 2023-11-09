@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Leavenworth (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving fireballs going across sky in Leavenworth.Two slow moving bright orange balls of what seemed to be fire going from northeast to northwest.  They were flying semi-low.  Fires appeared to "die out" as the got further, but you never know.  This was the second time that I've seen this in about 7 months.  Definitely not Chinese lanterns.  My husband, a neighbor, and I were the witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104306.html](http://www.nuforc.org/webreports/reports/104/S104306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Havre (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Four short flashes of light in random areas of sky above Havre within short amount of time.It was a clear and dark night out.  I was out having a smoke with my significant other on our balcony in highland park (located more west of town).  I was observing the sky as I saw a bright orange light get very bright and then fade out towards the southern edge of town.  After a very small fraction of a minute another bright light of the same magnitude appeared, flashed and faded out; more towards the east of town this time.These flashes were seemingly popping out of the sky in very random locations.  Two more occured; one seemingly higher in the air, then another south of town again.  These crafts had been silent.After about five to ten minutes, what sounded like jets circling the air became very clear to our hearing.  Possible Air Force investigation?((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73633.html](http://www.nuforc.org/webreports/reports/073/S73633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
