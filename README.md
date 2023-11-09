@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hesperia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Three pulsing lights, flying low and fast.It was 6:40pm-ish when the three of us saw the lights go across the sky.  There were three lights in a line, flying pretty low and fast, from north to south.  (many planes were in the sky also, so it was easy to compare, and these looked completely different.)   Each light was large elliptical shaped and seemed to be moving independently, while flying in formation.  There also seemed to be a pulse that went back and forth through all of them.  It "pulsed and shimmered," as if you were seeing them through a mirage or a film of steam.  Before the three of them disappeared behind some clouds, the last light seemed to speed up and align itself to the right of the front light, forming a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73220.html](http://www.nuforc.org/webreports/reports/073/S73220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prior Lake (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green w/ blinking red lights.Back of the ship was solid green while the front part was blinking red lights.  It wasn't so high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115422.html](http://www.nuforc.org/webreports/reports/115/S115422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
