@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:43 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two seperate sightings by two individuals of same fast moving green lights within days of each otherThis post contains two seperate sightings: one made by me and one by my girlfriend.  Both happened while we were travelling in a vehicle.  Only one of us spotted the UFO each time.11/09/17 around 15:00.  My girlfriend and I were riding home in the car.  I regularly scan the sky for aircraft as we live near a military base as well as a DHS compound.  I have no military background but can easily spot the difference between a helicopter and a plane, of which we see and hear several every day.  I looked into the sky and saw two green lights side by side, as if they were the exhaust from an engine on a single craft.  It appeared as if it was not moving, or moving slowly, when I initally noticed it, however I pointed at it and told my girlfriend in the passenger seat to look and before she could raise her head it flew straight across the sky in half a second, leaving no trail or evidence it was ever there.  There was no noise.  This was my first UFO sighting, however I have always been a firm believer despite this being my first sighting. Today, 11/13/17 at around 19:00, we were also on the road and she was gazing at the stars while I was driving. She said she saw a green circular light in the sky that appeared to be moving very fast. She turned her head around to make sure it was not a green light coming from the inside of the car, which there is not a green light in my car, and when she looked back out the window it was gone. I did not witness this, she just informed me right after she saw it. This happened within two seconds as well.This is not a joke.  These two things happening to us individually within just days of each other prompted me to Google “green light ufo” and I found this website.  I felt compelled to report what we saw.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  For some strange reaseon, the sSource of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137244.html](http://www.nuforc.org/webreports/reports/137/S137244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Heard the same event as another reportIn reading http://www.nuforc.org/webreports/123/S123930.html I wanted to report that my Girlfriend, brother and I (as well as our 4 dogs, all of whom were disturbed by the sound) all heard a very low and abnormally long grumble sound the evening of Nov. 9th that caused us to go outside and try to identify its source.  The mentioned report's description and time match what we heard, although we never saw anything (I reported that it was approx 8pm, but I am afraid that I don't remember exactly... Jeopardy was over... I remember that for sure).  I can not stress enough how odd this sound was - both audibly and in duration.  I think we must have heard the same thing your witnesses did.  Probably no reason to post this as we didn't see anything but I wanted to let you know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124203.html](http://www.nuforc.org/webreports/reports/124/S124203.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
