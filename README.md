@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:43 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:45 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prior Lake (MN) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Green w/ blinking red lights.Back of the ship was solid green while the front part was blinking red lights.  It wasn't so high in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115422.html](http://www.nuforc.org/webreports/reports/115/S115422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I was lying on a car hood, feet facing east, looking upward at the sky.The sky was crystal clear and darker than usual because the moon had already set.As I began to raise my head off the hood of the car,I noticed a shadow in the sky.I was shocked to see a shadow considering it was a crystal clear night for viewing stars.It was rectangular in shape moving from north to south in a stuttering forward motion.The size of the shadow was aprox. 4ft.long by 3ft.wide.The shadow seemed to touch the sky.As I continued observing the shadow I got on my feet and followed it in the southerly direction it was heading.Immediately I ruled out spotlights pointing at the sky.As the shadow keeped moving away south at aprox. 45 degrees I saw a v-formation distinguishable by solid white lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27091.html](http://www.nuforc.org/webreports/reports/027/S27091.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
