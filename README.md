@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Heard the same event as another reportIn reading http://www.nuforc.org/webreports/123/S123930.html I wanted to report that my Girlfriend, brother and I (as well as our 4 dogs, all of whom were disturbed by the sound) all heard a very low and abnormally long grumble sound the evening of Nov. 9th that caused us to go outside and try to identify its source.  The mentioned report's description and time match what we heard, although we never saw anything (I reported that it was approx 8pm, but I am afraid that I don't remember exactly... Jeopardy was over... I remember that for sure).  I can not stress enough how odd this sound was - both audibly and in duration.  I think we must have heard the same thing your witnesses did.  Probably no reason to post this as we didn't see anything but I wanted to let you know.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124203.html](http://www.nuforc.org/webreports/reports/124/S124203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>What was in the skies over Greensboro Friday night, 11/09/12?Clusters of 3-4 red to orange in color.  They seemed to flying in a pattern south to north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94298.html](http://www.nuforc.org/webreports/reports/094/S94298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
