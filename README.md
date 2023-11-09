@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:12 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:29 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4 - 0.4 minutes.</sub><blockquote><sub>1 flickering light hovered above sky lights for and 10 seconds before dropping vertically to just above ground level.  Hovering there for a few more seconds before disappearing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150509.html](http://www.nuforc.org/webreports/reports/150/S150509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Shirleysburg (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>((NUFORC Note:  Source of report provides no information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160542.html](http://www.nuforc.org/webreports/reports/160/S160542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
