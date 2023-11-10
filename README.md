@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:47 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, Fast, and Red.Opened the front door, saw a very bring red light going up into the sky and disappeared in a matter of seconds.  Was traveling very fast..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115205.html](http://www.nuforc.org/webreports/reports/115/S115205.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw Triangle UFO, low right above trees, with white light at each point. Did a 180° turn directly over road without slowing down.I never believed in UFOs/ETs until I saw a UFO in Portsmouth, NH, on Banfield Road (the back road parallel to Route One) in November 2003.  It was a Triangle shape with a white light at each point.  I instantly thought it was probably a plane since Pease International Tradeport runway was like less than a mile away.My girlfriend at the time and I were traveling south on Banfield and saw this white or orange or orange-white bright light through trees and finally it came over the road directly above us and as it was jist about over us it INSTANTLY changed directions, doing 180 and heading back the way it came without even slowing down.We tried to chase it around the block (up to route 3 and back around) and still could see the bright light as I called my mom.  Then it was gone. I later speculated if it could be a hovering harrier aircraft but it doesn't have that light configuration and again it didn't slow down at all when it did the 180 directly over us. We were so shaken up and freaked out. I wish I could see it again someday.[This sighting was a week or two after my girlfriend and I, in a Hampton Beach apartment, woke up naked in a fetal position on top of the covers with no memory of going to bed and my girlfriend found that her buttons were torn off her clothes  (I would never ever rip her clothes no matter how drunk I was) and she had a mark in here breast of 3 dots forming a triangle.  I did not have any marks on my body nor were my clothes damaged.]((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98834.html](http://www.nuforc.org/webreports/reports/098/S98834.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
