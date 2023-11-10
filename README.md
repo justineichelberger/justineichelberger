@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Oswego (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0:00 - 0:00 minutes.</sub><blockquote><sub>There was a circular UFO with lights traveling around it.There was a small flashing light that looked like a flashing star.  It had a greenish-blue tint to it.  The light seemed stationary.  When you looked at it closely it looked like there were lights that were circuling around a round object rather than lights that were flashing.  The light ended up disappearing after about 6 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47628.html](http://www.nuforc.org/webreports/reports/047/S47628.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic, triangular object spotted above Knott's Berry Farm 11/10/06 at 9:45pm.My boyfriend and I were at Knott's Berry Farm.  At 9:45pm, we saw this object hovering in the sky, approximatly 15-20 degrees up from the horizon.  It was triangular shaped, but appeared to be changing shape from triangular to pyramid to rectangular shaped.  This may have been due to the object rotating; I couldn't tell.  It alternated between hovering like a balloon and moving erratically back and forth.  There was a blue light coming out of the bottom, but the entire object had a blue haze about it, as if it were being backlit by a blue light.  The object was silvery metallic on the outside.  It started moving away from us and went out of view behind a building.  We ran around the building to see it better, but it had disappeared.  As stated above, we were inside Knott's Berry Farm as they were closing.  There were other people around, but no one seemed to notice it except for us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53367.html](http://www.nuforc.org/webreports/reports/053/S53367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
