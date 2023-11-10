@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sylvania (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright orange light in the sky.At 7:45 pm est in a clearin in the trees beside a cotton field a bright orange light appeared in the sky above the tree line.  There was no sound but it made many loops and waving movements.  The light lasted for about 5 min then elevated in the sky and headed to the right until it disppeared after 30 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47621.html](http://www.nuforc.org/webreports/reports/047/S47621.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Amarillo (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>11/10/2010 Unidentified Craft South Amarillo, TXAt approximately 9:40 PM. on the tenth of November 2010, a friend and myself were traveling south on S.Bell St. between Hollywood road and Interstate 27.  My friend and I were engaged in light conversation when he suddenly asked "What kind of plane is that?". I looked through the front windshield of the vehicle and observed an object overhead with an orange light being emitted but could not identify it immediately.  The object was triangular with rounded edges and appeared to be traveling in a rough south-east to north-west direction moving over S.Bell St. toward I-27 and the Arden Rd.area. I rolled down the window and stuck my head out of the vehicle to get a better look at it and I observed the object to be flying low just over the power lines and moving rather leisurely and I at this point realized that the craft did not have wings or rotors or landing struts.  The object appeared to slow just long enough for me to study its underside and I observed tha! t the skin of the craft appeared beige in color and textured and the craft itself was about the size of a full moon if not slightly larger.  There was an individual non-blinking orange light illuminating the craft and the craft made no sound.  I noticed that the craft appeared to warble slightly as it followed its trajectory. I requested to my friend that we should follow it and he immediately turned right onto Ventura Dr and stopped. We both observed the back of the craft which was illuminated orange and observed it to move over I-27 and then slowly bank to the left behind a billboard and downward toward Arden Rd.  We lost sight of it at that point and continued on to our destination.  After we started our return home we briefly drove to where we thought the craft was trying to land and found nothing.  We placed a call, upon arriving back home to the local private airport, Tradewinds Airport, and inquired about light aircraft being in the area. We were told that they were ! unaware of any aircraft in the area in question.  They stated ! however that occasionally the Randall County Sheriffs Dept flies their helicopter with unusual lights equipped. The location of the sighting is on the southern edge of the city of Amarillo and there were street lights illuminating the road and a moderate amount of traffic on I-27 for that time in the evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78843.html](http://www.nuforc.org/webreports/reports/078/S78843.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
