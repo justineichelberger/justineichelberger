@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 9 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:50 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Delta (Canada) (ON) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright orange slow  moving orb  several hundred feet above treelineVery bright orange orb 2x size and brightness of Venus At first it hung in the sky above treelines then slowly moved in a northerly track parallel to county rd 8. and at about near ((name deleted)) my daughter and I noticed there were two objects .We stopped to watch and listen and heard no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40576.html](http://www.nuforc.org/webreports/reports/040/S40576.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Kahului (HI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 reddish ovals in early morning over maui.This sighting happened at aproximately 4:00 A.M. on the morning of November 10th, 2010.It happened in the skies above Kahului, Maui, Hawaii.I had just left my job and was waiting for the first bus to catch to my home. I was lying in the grass adjacent to the Queen Ka'ahumanu shopping center  parking lot, which also serves as the bus station hub, awaiting the first buses arrival.I was just admiring the stars. I had seen two shooting stars earlier in the evening so when this event took place my first thought was, " how odd to see THREE shooting stars at once and all heading in the same direction, parallel to one another." I quickly realized that was not what I was seeing however when the three reddish/orange lights veered from my view to the right at the same time.My second thought was perhaps they were  three birds, as I could not easily discern the size and distance of the objects against the starry black sky. I thought this because they were completely silent as they flew. I readily dismissed this theory however as the had no wing "flapping" movement that I would easily have detected were they birds.The three objects moved swiftly across the sky and were lost to my sight as the flew to the right of where I was lying on the ground and I lost track of them as they flew toward the well lit city lights.It did not appear that these objects were lights from a single object as I remember detecting the night sky between them as they quickly passed directly overhead.I have never before seen Unidentified Flying Objects and seeing this really got my skin tingling.I have no idea what I saw...but whatever it or they were, was out of the ordinary. Perhaps they have something to do with the military/observatory being built atop Haleakala Crater. I would be very interested in knowing if any others saw this phenomena.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78839.html](http://www.nuforc.org/webreports/reports/078/S78839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [328](http://www.nuforc.org/webreports/reports/165/S165238.html)
-- [327](http://www.nuforc.org/webreports/reports/165/S165208.html)
-- [326](http://www.nuforc.org/webreports/reports/165/S165204.html)
-- [325](http://www.nuforc.org/webreports/reports/165/S165213.html)
-- [324](http://www.nuforc.org/webreports/reports/160/S160521.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
