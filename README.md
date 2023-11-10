@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Burbank (outside of; near Pasco) (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright, large, slow, white ball of light. When nearly overhead, shape became arrowhead. White lights on inside, blue and red on outsideI observed a large white ball of light coming very slowly in our direction. It was just north of the Horse Heaven Hills, near the confluence of the Walla Walla River and the Columbia. It looked as if it was coming from the direction of the Snake River. Sometimes the light would shift to gold. As it approached it appeared to be a large arrowhead shape with the underside of the craft covered in white lights with red and blue on the outside, like running lights on a plane, but going far too slowly for a plane, and the entire triangle was filled with lights. We were driving and didn't stop to observe more. Probably it was some kind of military aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66853.html](http://www.nuforc.org/webreports/reports/066/S66853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Boyertown (PA) reported seeing craft that fit the description of some 'light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Summary : Southern portion of the sky, bright light seeming to change from bright to light to bright again. Reported at 6:53 P.M. sighting has since disappeared.A bright, cirrcular shaped objest or star shape giving off different emences of light. There were two at different locations seeming to be in a straight line. Other times looking like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02825.html](http://www.nuforc.org/webreports/reports/002/S02825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
