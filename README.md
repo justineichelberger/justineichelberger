@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Birmingham (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a triangular shaped air craft that had three bright white lights and a dime one in the center of it.I agree with the sightings of an triangular shaped ufo I saw it this pass Tuesday morning on November 10th, 2009 at 1:00 AM. Across the street from my house. My dog broke out of our back yard and I went out of the house to retrieve him. I was able to get him and at the same time from about 120 feet away I saw three bright white lights and a dime one in the center hovering over my neighbors house approx. 20 feet over his house near a tree.The night was cold and misty the sky very cloudy so it was resting in the cloudy mist that hung some where about 25 to 30 feet above ground, my neighbors house is on a little hill so it is higher than ours. This object was floating like it was observing my dog and I from the distance, and when I notice it, it started to move. It moved very slowly my guest would be about 5 miles per hour and it made no sound and moved as if gravity had no force on it at all. The other strange thing is the very bright white lights on it did not illuminate the trees around it as it glowed.When I first noticed it I thought it was an airplane because I live 15 miles from Birmingham's AirPort, but the object was quiet and it did not have the normal light features that an airplane would have like the small red and green lights.After, it had pass over and disappeared in the cloudy mist a real airplane flow over my head with the red and green lights that I mentioned and it was very loud. I have always believed in them but I am truly convinced that they are real now. My only concern is why are they more noticeable now. Something major is going to happen down the road for us I do believe.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73326.html](http://www.nuforc.org/webreports/reports/073/S73326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright, Fast, and Red.Opened the front door, saw a very bring red light going up into the sky and disappeared in a matter of seconds.  Was traveling very fast..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115205.html](http://www.nuforc.org/webreports/reports/115/S115205.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
