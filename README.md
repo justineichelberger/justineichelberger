@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Eilmsport (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO report from Lycoming County.  On 19NO95, Sunday, I called Mr. Richard Secules, who said that the UFO was advertising lights, the type that spin around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00964.html](http://www.nuforc.org/webreports/reports/000/S00964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hamden (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object moved from South to North flashing every five seconds, otherwise not visible.While outside enjoying the cool night air, I felt a very brief bout of dizziness, which is uncommon for me.  About 5 seconds later, I saw a very bright flash of light out of the corner of my eye in the Southern sky.I thought this may be a meteor shower and kept my eyes trained in that direction. I saw another flash, nowhere near as bright, but brighter than a star or an airplane light.  This flash appeared further North from the first very bright flash.  I continued to watch and saw another flash about five seconds later, again further North.  Between flashes, the object was not visible.  I kept watching and saw a flash every five seconds continuing to move North.  The flash was mostly white, but had a bluish tinge to it.  Although the object had a Northerly heading, it did not appear to move in an exactly straight line.The time from visibility of each flash to fade out was not as fast as the usual airplane strobe, it was noticeably slower.  Also, there were no accompanying steady lights that airplanes usually have.I had the impression the object was far above normal air traffic.  I cannot dismiss the possibility this was a man-made craft.  However, I have never seen flashing like this and I often go out to gaze at the stars with the unaided eye.I experienced no further dizziness.  As is usual in the evening (and most other times) I was sober at the time of the sighting.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115215.html](http://www.nuforc.org/webreports/reports/115/S115215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
