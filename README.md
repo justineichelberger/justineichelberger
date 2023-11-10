@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Buena Park (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Metallic, triangular object spotted above Knott's Berry Farm 11/10/06 at 9:45pm.My boyfriend and I were at Knott's Berry Farm.  At 9:45pm, we saw this object hovering in the sky, approximatly 15-20 degrees up from the horizon.  It was triangular shaped, but appeared to be changing shape from triangular to pyramid to rectangular shaped.  This may have been due to the object rotating; I couldn't tell.  It alternated between hovering like a balloon and moving erratically back and forth.  There was a blue light coming out of the bottom, but the entire object had a blue haze about it, as if it were being backlit by a blue light.  The object was silvery metallic on the outside.  It started moving away from us and went out of view behind a building.  We ran around the building to see it better, but it had disappeared.  As stated above, we were inside Knott's Berry Farm as they were closing.  There were other people around, but no one seemed to notice it except for us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53367.html](http://www.nuforc.org/webreports/reports/053/S53367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Large flashing lights in sky that seemed cohesive but stationary- red, blue, white flashes.In the night sky close to midnight I saw what I thought was a plane or helicopter but realized it did not move.  It was stationary and very bright, flashing red, blue and white lights.  I estimated it to be 2-3 miles away at medium altitude.  It appeared very large- bigger than an airliner.  I watched it flash for at least 30 minutes at work.  Upon returning home I noticed it was still in the sky and it demonstrated the same characteristics.  It absolutely did not move.  The flashing lights would increase and decrease in intensity.  I watched it from my apartment complex parking lot for another 30 minutes at least.  I saw it, bar workers from my neighboring workplace saw it and my child saw it.  At some points we saw it seem to emit beams- white in color.  It seemed to have a haze around it at points. Will send poor quality video later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104344.html](http://www.nuforc.org/webreports/reports/104/S104344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
