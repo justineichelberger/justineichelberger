@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:43 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:21 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Boone (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Landing lights,lights around the object top and bottom, no noise,very fast and hovered.Three friends and I were camping out during a deer hunt. Our camp was situated on a mountain side that had been prepared by the wildlife service. It was graded out of the side of the mountain.  We were just finishing up dinner when one of the guys said, what is that and he pointed down in the valley toward the road.  He asked me if that was an airplane because I am a licenced pilot.  It looked exactly like a small plane trying to land with its landing light on.  All of a sudden it stopped and seemed to appear right in front of us about a mile away.  My distances are not going to be accurate.  It appeared to be about 500 feet above the ground which would make it just about even with us.  When it appeared there was no landing light but it was surrounded with round light that were very bright.  It seemed that the top lights were smaller in circumfrance than the bottom lights.  There was no definite shape to the craft but it appeared to be saucer shaped with a bubble shaped top.  It seemed alot like CE-1 Vallee:  I that is why I'm saying something about my sighting now after all these years. What is a little curious is the fact that we waited for the object the next night and it appeared in exactly the same place but with no landing light, it just seemed to come from the northwest if i remember right and hovered for 30 minutes then left in the blink of an eye you might say. We went down to where I thought it was hovering but found nothing. We left the same day. I've never seen anything like it again but sure would like to, it was very exciting.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28947.html](http://www.nuforc.org/webreports/reports/028/S28947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Medium altitude white light speeds horizontally over ocean before breaking into 3 parts before disappearing.1 white light traveling horizontally appeared,  Traveled over the ocean unknown distance, broke up into 3 lights then disappeared.  Moved much faster than planes traveling in same area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/123/S123965.html](http://www.nuforc.org/webreports/reports/123/S123965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
