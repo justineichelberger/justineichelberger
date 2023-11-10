@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sterling (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Large flashing lights in sky that seemed cohesive but stationary- red, blue, white flashes.In the night sky close to midnight I saw what I thought was a plane or helicopter but realized it did not move.  It was stationary and very bright, flashing red, blue and white lights.  I estimated it to be 2-3 miles away at medium altitude.  It appeared very large- bigger than an airliner.  I watched it flash for at least 30 minutes at work.  Upon returning home I noticed it was still in the sky and it demonstrated the same characteristics.  It absolutely did not move.  The flashing lights would increase and decrease in intensity.  I watched it from my apartment complex parking lot for another 30 minutes at least.  I saw it, bar workers from my neighboring workplace saw it and my child saw it.  At some points we saw it seem to emit beams- white in color.  It seemed to have a haze around it at points. Will send poor quality video later.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104344.html](http://www.nuforc.org/webreports/reports/104/S104344.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Vancouver (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>7 or 8 bright reddish-orange lighted, squarish or cubic shaped objects, hovering above the tree tops in a random pattern.I was traveling north on I-205 at approximately 6:25 or 6:30 p.m.  I just passed over NE 66th St. where some big power lines are located.  Above those lines, on the right side of the freeway, I noticed 7 or 8 glowing shapes.  They were reddish-orange and were more of a cube shape than rounded.  They seemed to be bobbing gently up and down.  They were not connected to each other and not in a straight line.  They were only about 50 feet above the top of the power lines.  I thought they were some kind of lantern or glowing balloons but couldn’t make out how they were connected to the ground or to each other because they all seemed to be independent of each other.  Other people were looking at them too; one car had stopped on the side of the road.  I was late for church so I couldn’t stop and study it more.  I did notice that they were stationary enough that I saw them before me and was able to pass them and look back at them when I went by.  I rolled down the c! ar window and there was no noticeable sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94532.html](http://www.nuforc.org/webreports/reports/094/S94532.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
