@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Boyertown (PA) reported seeing craft that fit the description of some 'light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Summary : Southern portion of the sky, bright light seeming to change from bright to light to bright again. Reported at 6:53 P.M. sighting has since disappeared.A bright, cirrcular shaped objest or star shape giving off different emences of light. There were two at different locations seeming to be in a straight line. Other times looking like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02825.html](http://www.nuforc.org/webreports/reports/002/S02825.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Grove City (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>bright satellite moving to the southeast ejecting a bright flashI went out around 6:15 AM to look at the stars and planets. It was just before dawn, the eastern sky was a lovely orange when I noticed a bright light moving is a south easterly direction. The elevation was an estimated 60 degrees when I first noticed and about 30 degrees when I took my eyes away. This appeared to be because of the direction and not a loss in elevation.There were no blinking lights visible, appeared to be higher than planes normally appear, was fast but not unbelievably fast, and made no sudden turns. The only odd thing was that as it moved away and near the end of my sighting it looked like something ejected up from the object. It appeared as white streak of light flashing straight up for a fraction of a second and disappeared. I wear glasses and guess it was an imperfection in those or atmospheric illusion.I checked NASA for the position of the ISS and when I looked that path was south of me and the position when I was east of Florida. It certainly could be the ISS but did not do the math for something traveling 25,000 miles an hour.  I guess the path to the southeast was close to what I witnessed.My bet in on the space station but hope it is something weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160536.html](http://www.nuforc.org/webreports/reports/160/S160536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
