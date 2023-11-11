@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Fenton (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A triangular shape of 200 white transparent lights flew East in about 4 seconds.11/11/2021 @ 11:30 PM  In hot tub, viewing the sky, I saw lots of stars when suddenly a fleet/swarm of dim transparent circular lights in a triangular formation or shape flew above me. Higher than the clouds. They were flying from the East towards the West.The triangular shape consisted of about 200 circular lights. Again, they were transparent, you could see thru them.  Kind of dim, not as bright as the stars. There  were no crisp lines on the edges of the crafts, kind of an aura or hue.About 25 smaller circular UFOs were flying behind, as if to catch up, or join the large triangular formation.The first sighting took approximately 4 or 5 seconds before they were out of my view. About 5 to 10 minutes later a couple more individual UFO lights followed the same flight path as the larger triangular formation, with the same transparency as the original group.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165228.html](http://www.nuforc.org/webreports/reports/165/S165228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange star like object observed in nighttime San Jose skyMy friend and I were just leaving the post office at Camden and Ross Aves. in my pickup when I saw an orange star like object moving slowly beneath the moon. I asked my friend, "Do you see that?" He replied, "Yes!". I stopped the truck in the parking lot and we both quickly got out for a better look. It was an orange, flame colored, star like object that was moving slowly east. Slower than a plane, it all of a sudden seemed to just disappear - maybe possibly into the nighttime clouds or haze behind it, and then I briefly saw it dimly flare again, and then it seemed to be totally gone.We observed other, more traditional aircraft in the sky over the next few minutes and none of the operating beacons or landing lights had this same strange orange color that the object we first observed did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26067.html](http://www.nuforc.org/webreports/reports/026/S26067.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
