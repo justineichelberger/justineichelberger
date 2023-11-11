@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:21 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red lights moving slowly.At least 10 red light clustered heading west moving slowly not in any formation, very bright, no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85266.html](http://www.nuforc.org/webreports/reports/085/S85266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Taipei (Taiwan) (Taipei (Taiwan)) reported seeing craft that fit the description of some 'Egg' over a period of approximately  -  minutes.</sub><blockquote><sub>Accidental shoot<https://s.w.org/images/core/emoji/13.1.0/72x72/1f17e.png> TAIWAN UFOThursday, November 11, 2021 at 8:52 AM<https://s.w.org/images/core/emoji/13.1.0/72x72/1f518.png> iPhone 13 ProTelephoto Camera 77 mm - ƒ2.8<https://s.w.org/images/core/emoji/13.1.0/72x72/1f4cc.png> Locationhttps://goo.gl/maps/227mJvBo5gJtbRBc8<https://s.w.org/images/core/emoji/13.1.0/72x72/1f4cc.png> Taipei Nan Shan PlazaSongren Road, Xinyi District, Taipei CityTaiwan<https://s.w.org/images/core/emoji/13.1.0/72x72/1f3a5.png> YouTubehttps://youtu.be/gbynxdbYWW42021.11.11. In the early morning, the sky in Xinyi District was very blue.The camera was adjusted to be parallel and straight, but no foreign objects were seen when I pressed the buttons on the phone screen.One possible explanation-the crossing speed was too fast, and it was accidentally caught by the camera.is not a long-distance object, so it looks very small. If it is an artificial aircraft, it will be easier to see slow movement on the ground due to long-distance and high-altitude factors (actually, it is flying fast in the air).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165846.html](http://www.nuforc.org/webreports/reports/165/S165846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
