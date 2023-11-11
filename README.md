@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:51 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:33 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Linear string of unknown aircraftLinear string of lights fixed spacing, undetermined elevation, traveling south southeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150565.html](http://www.nuforc.org/webreports/reports/150/S150565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix/Avondale/Suprise (AZ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Unknown lights 11/11/2019 over Suprise, West PhoenixTravelling Westbound on Happy Valley Road, approaching 91st Avenue, coming over the crest of the Sunrise Preservation park, it looked like SpaceX Starlink Satellites. Straight line, there were 10-12 points of light, they looked like bright stars, but were travelling in unison, at the same speed. The middle one (#7) broke out of formation, dipped down, and re-joined the group. The line travelled in right-to-left, and formed a streak in the sky, as if a meteor was breaking apart. Again, all the points were the same speed, in unison. The north-south trajectory slanted into the sky, and dissappeared over the next 10 seconds into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150678.html](http://www.nuforc.org/webreports/reports/150/S150678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
