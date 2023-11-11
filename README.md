@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:03:49 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Moments - Moments minutes.</sub><blockquote><sub>Very low dark slow moving object.Second sighting in 2 days, different craft.  Approximately 6:40 P.M. I Observed what can only be described as a gigantic dark, slow moving, silent object that’s only distinguishing feature was the reflection of the street lights on its surface.  As it continued to move N to N-E, I lost its outline as a result of the bright street lights.  It was very low to ground.  Moments later 2 helicopters seemed to fly over the exact area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137209.html](http://www.nuforc.org/webreports/reports/137/S137209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Missoula (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My friend and I were outside and I looked up and saw a blueish grey circle, it would fly in a small circle then disappear.  It did it about two or three times.  When we got inside we looked out the window and it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137218.html](http://www.nuforc.org/webreports/reports/137/S137218.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
