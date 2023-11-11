@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in São Paulo (Brazil) () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Rectangle object seen over São Paulo in Brazil while the blackout in big part of the countryI went to bed pretty early that night cause the energy power was cut off. I layed down in my bed to check emails and schedule on my cellphone, and about 0h45 i observed through the window some lights flying above my building. I ran to the window thinking that could be an airplane, but the air traffic goes until 11p.m.For several seconds while the object was pretty near from my building i could see clearly a rectangle object with four white immobile lights in the corners, and two red flashing lights on the bottom, these two red lights flashing different from each other. The object made no-sound, it was flying in low altitude, it was smaller and fasten than an airplane. It appears in east and went west, and i observed that thing until it disappears in the horizon.I tried to film it but unfortunatly i couldnt, i was in shock.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73266.html](http://www.nuforc.org/webreports/reports/073/S73266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Night time. Large triangle w/3 lights sighted hovering 75 ft over ground. Banked and flew fast over city, lost altitude then vanishedNight time. Driving northward on Redlands Parkway. See bright white lights hovering over neighborhood.  Closed distance and observed three bright white lights in an equilateral triangle pattern and two smaller red blinking lights (one dead center, the other between two of the triangle points) hovering perfectly still about 75-100 ft above ground.  Could vaguely make out a the dark edges of the hull- also a perfect triangle.  Turned onto South Rim Drive to pursue but upon making my turn the craft banked and sped along the geologic ridge.  I think they were watching me.  Observed the craft fly south, then bank southeast, then bank again northwest and fly directly over the city at about 200 ft altitude.  Craft gradually lost altitude over St Mary's Hospital, then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94351.html](http://www.nuforc.org/webreports/reports/094/S94351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
