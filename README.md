@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 10 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pasadena (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 05:50 - 05:50 minutes.</sub><blockquote><sub>Moving planes, or stars -- STOP and just hang there, for over 20 minutesOn my way to a neighbourhood coffee shop, (which I do fairly regularly on Saturday mornings) I noticed the planet Venus, as I had seen for the past month.  Venus sat sort of low in the eastern sky.  As I walked, I noticed higher up in the eastern sky, lined up with Venus was what I believed to be 3 stars or distant planets.  I stared at them for a minute because I thought they looked so “cool” lined up like that.  Before I knew it the two (planets or stars) on either side of the middle object (planet, star, or whatever) started in unison moving away from it.  Then I said to myself “Oh those must be jet planes.  They moved an one inch away (from my vantage point), then stopped. Well, I knew I was not looking at a “man made object at that point.”   A chill went down my spine and the two “star like objects just hung there for the next 20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59804.html](http://www.nuforc.org/webreports/reports/059/S59804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Uncasville (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>V shaped light formation over Montville Ct.We spotted 7 lights in the sky on evening of 11NOV10 around 07:20PM , they seem to float in formation over the tree line , an 8th light floated to the formation at a faster speed and they slowlly disappered in to the horizion, the event lasted about 45 sec .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78854.html](http://www.nuforc.org/webreports/reports/078/S78854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [411](http://www.nuforc.org/webreports/reports/165/S165239.html)
-- [410](http://www.nuforc.org/webreports/reports/165/S165215.html)
-- [409](http://www.nuforc.org/webreports/reports/165/S165237.html)
-- [408](http://www.nuforc.org/webreports/reports/165/S165740.html)
-- [407](http://www.nuforc.org/webreports/reports/165/S165798.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
