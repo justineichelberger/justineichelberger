@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:17:48 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:25:35 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Livingston (MT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Sphere like object pulsating red, blue and green intermittently.Just after midnight, on 11/12/2017, I took my dog outside.  I noticed red, blue and green pulsating lights in the South Eastern sky over Mount Livingston.  The object was stationary and did not move.  I retrieved my field glasses and viewed the sphere like object.  At one point the object seemed to have an opening in the bottom.  The intermittent light pulsated red, blue, green for the 15 minutes that I observed it.  The object seemed to have different sized craters over the whole surface with the lights pulsating from it about every second.((NUFORC Note:  Witness later reports object was star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137219.html](http://www.nuforc.org/webreports/reports/137/S137219.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Columbus (GA) reported seeing craft that fit the description of some '' over a period of approximately Very quickly. - Very quickly. minutes.</sub><blockquote><sub>I saw a large v-shaped, silent thing fly over my house just below the clouds, only preceded by the sound of moving air.I heard a whooshing sound as I looked at low hanging clouds covering the morning sky, on approx. November 11, 2021, at around 9 or 10 A.M. I saw a v-shaped object going very fast and very low, appearing from the northwest, heading southeast. It was about 50 feet wide in a shallow, narrow vee shape, with no detectable motor sounds or compartments. It looked metallic/plastic with no shine. It appeared just below the clouds, causing them to swirl, and just above the trees. I measured the wingspan by two tall treetops and later went out and measured the distance between them to be 50 feet. I almost could not believe my eyes, but I know what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165908.html](http://www.nuforc.org/webreports/reports/165/S165908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
