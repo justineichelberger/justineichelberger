@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Blythe (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>String light formation over Blythe CA15 lights in string formation at a 15 degree angle. Lights were visible only when looking west on I-10. After driving for a minute the lights traveled south and East and disappeared off out of the drivers side window.  The speed was slow.  No flashing lights were identified as indicating helicopters or passenger flights.  The string lights didn’t change formation but were not visible once whatever it was was - was parallel to drivers side window.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150627.html](http://www.nuforc.org/webreports/reports/150/S150627.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Folsom (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright lght  with glowing red lights top and bottom changing speed and direction over FolsomNov 10th 2010  My brother in law and I just got off work at 12:45 a.m. and where on our way home. We take White Rock to Old Placerville road every night.  Like every night I’m on the lookout for strange things in the sky.Last night we came over the hill and I noticed a bright light with a flashing red light and it was moving slowly east coming right at us. It got over the top of us and it started moving north toward Folsom at a high rate of speed.  The top of the craft had a glowing red light as well as the bottom. The middle was lit up with three dull white lights and the middle of the craft was wider so it made it looked saucer shaped.  We headed down east Bidwell following it into Folsom.  It stopped over the housing project where I live and turned and headed east again. We tried to follow it but it eventually flew off and we lost sight of it.When I got home at 1:00a.m., my wife was up waiting for me.  I asked her if she had herd a helicopter or any planes flying over in the last couple of minutes and she said no.  The craft was flying low enough where she would have herd something.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78846.html](http://www.nuforc.org/webreports/reports/078/S78846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
