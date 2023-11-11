@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Derby, Derbyshire (UK/England)(UK) () reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>We both were stood at my front door, and we both loked up at the same time to see an egg shaped object travel above the gap between the two houses.My friend was just leaving my house and he was stood outside my front door and I was stood inside. We were talking looking at the sky saying how clear it was. Then looked up at the sky again and saw an object travelling above the houses. I said something like "Woah!" and my friend looked up to catch it just as it was going past. It seemed to be an egg shaped thing, travelling very very fast and it was glowing green/yellow in colour. It appeared to leave a trail behind it which was also green/yellow. The trail didn't remain fo any length of time so it may have been just the light from the craft leaving a trail because of its speed. There was no noise at all. It appeared to be quite high in the sky, but not high enough to be any sort of plane or shooting star. It travelled in a very straight line, unlike shooting stars which fall rather than fly. Its difficult to judge how big it was. It looked a bit smaller than a rugby ball. Thats about it. Cynthia AND MY SISTER NAME IS LAUREN BULLARD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04804.html](http://www.nuforc.org/webreports/reports/004/S04804.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A meteor entered the atmosphere and exploded.  Very bright flash, with a small remaining fire ball falling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131171.html](http://www.nuforc.org/webreports/reports/131/S131171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
