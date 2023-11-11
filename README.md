@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 11 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Night time. Large triangle w/3 lights sighted hovering 75 ft over ground. Banked and flew fast over city, lost altitude then vanishedNight time. Driving northward on Redlands Parkway. See bright white lights hovering over neighborhood.  Closed distance and observed three bright white lights in an equilateral triangle pattern and two smaller red blinking lights (one dead center, the other between two of the triangle points) hovering perfectly still about 75-100 ft above ground.  Could vaguely make out a the dark edges of the hull- also a perfect triangle.  Turned onto South Rim Drive to pursue but upon making my turn the craft banked and sped along the geologic ridge.  I think they were watching me.  Observed the craft fly south, then bank southeast, then bank again northwest and fly directly over the city at about 200 ft altitude.  Craft gradually lost altitude over St Mary's Hospital, then vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94351.html](http://www.nuforc.org/webreports/reports/094/S94351.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>all we could see was 3 lights in the sky that were defnetly moving around silently. Very strange...I/we saw 3 lights hovering above the Lake Worth Lagoon just south of the Lake Worth Bridge in a triangle formation.  They were not connected.  They were definitely independent.  They were slightly moving about and weren't very far from us.  It seemed they began to rotate in the formation somewhat.  As we got closer one light seemed to be getting dim.  The other two got pretty close to one another then in the matter of a few seconds they moved west and gained altitude at an amazing pace.  They didn't make a sound.  They became so distant they ultimately disappeared. It probably only took 8-10 seconds to evacuate our location completely.  It truly wasn't normal. If they were some kind of craft I'd say they were pretty small.  No bigger that a Mini Cooper.  But all we could see was light/ lights in the sky that were defnetly moving around silently.  Very strange…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104357.html](http://www.nuforc.org/webreports/reports/104/S104357.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [442](http://www.nuforc.org/webreports/reports/165/S165230.html)
-- [441](http://www.nuforc.org/webreports/reports/165/S165228.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165632.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165538.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165225.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
