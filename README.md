@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:41 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:56 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Whittier (viewed from) (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>plasma like translucent ufo shaped like a clown shoe's sole, or sea creature, colorful. but fast moving, biological ufo?Dear Sir;  I saw , what I believe to be a "translucent biological? ufo" traveling from east to west, fast. Reds, blues, other colors, and flexible?  Silent. LAX also uses the same path 24/7.  NOT THE SAME kind of craft, and they ( commercial aircraft - jets ) were also in the air at the same time, maybe 4-8 preparing to land, as always!! Perhaps this craft wanted "blend in"?   Larger than a small plane, yet you could see through it!. It passed where the LAX airport was and continued (north of airport) travling east fast as a jet!  Fantastic.  This UFO I estimate was below Jet's airspace, but above smaller crafts air space.  No camera pictures in time, maybe 30-45 seconds total duration, from just "east / overhead, to western horizon".   Weather: crispy clear tonight! Stars crispy and clear like after a rain. I called and left my phone number. G.A.    .....Calif!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85286.html](http://www.nuforc.org/webreports/reports/085/S85286.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1954, an anonymous witness in Dona Ana (NM) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw this in 1954 at the Dona Ana Army rifle range in New Mexico.  When the separation of targets from the shooter is large, at each target below the ground is a pit for immediate evaluation of accuracy after shooting.  Once, on such target marking detail, during a brake period between groups of shooters I saw a wingless cigar shaped object flying at a moderate speed in a straight line at approximately 10,000 to 15,000 ft elevation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154822.html](http://www.nuforc.org/webreports/reports/154/S154822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
