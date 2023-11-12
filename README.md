@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:19 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hanover (MA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sphere organge and red in color gliding silently through the sky.  Made no noise at all...speechless.Driving down main street, looked up into sky and saw a red sphere with what looked like orange fire coming out of the top of it.....stopped  my vehicle, rolled window down to listen -- no noise at all.  This object was floating silently in an easterly direction.  Other aircraft (airplanes) were also visible.  I have never seen anything like this in my life and this was no plane or helicopter.  I have no explanation.  It scared me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85288.html](http://www.nuforc.org/webreports/reports/085/S85288.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10+ - 10+ minutes.</sub><blockquote><sub>Unusual clouds looking like missile launchI had gone into my bathroom to take a shower and looked out the window to the southwest. I saw this unusually long cloud that had a separation about 2/3 of the way up and many broken clouds below. It looked like a missile launch.  As I watched it grew longer as it slowly moved across the sky without changing shape or breaking up.  I thought it may be a missile launch as I can and have watched them go off from Vandenburg AFB.  So, I checked the missile launch schedule and there was nothing scheduled today.  An Atlas 5 is due to go off from Cape Canaveral on the 13th and there is a Chinese Long March that has yet to be scheduled and a Falcon 9 to go up on the 14th-15th from Kennedy Space Center. The clouds appear to possibly be a Vega from French Guiana but there is nothing from there scheduled until 16th-17th. An Electron is due to go up on the 15th-16th from New Zealand. I began to wonder if it is from an unscheduled launch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160562.html](http://www.nuforc.org/webreports/reports/160/S160562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
