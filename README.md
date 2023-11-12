@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:33 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mountain Grove (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright flash of light, small light flying North at a high rate of speed  500 Lights On Object0: YesA friend of mine and I were sitting in my car outside of another friends house waiting for them to grab something and come back outside.  We were having casual conversation when all of a sudden a bright flash of light (As if someone had taken a picture of us from the hood of the vehicle the flash being multiplied several times) completely blinded us for 1-2.5 seconds, a long enough period where we had both noticed it.  Right after I was able to see again I looked towards where the light came from only to see a small light (White in color) in the sky flying North at a very high rate of speed.  I believe that I was not abducted, however, I witnessed an abduction second hand.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83591.html](http://www.nuforc.org/webreports/reports/083/S83591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Derbyshire (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright light round speedWalked out of my house to go to the Chinese round the corner.  About 2 seconds later I look up.  To my immediate right, and a little ahead, I saw a bright white light.  As soon as I had looked at it, it sped away at unusual speed headed south southeast.  I'm shocked!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124642.html](http://www.nuforc.org/webreports/reports/124/S124642.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
