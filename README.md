@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:15:04 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Goffstown (NH) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  5</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151068.html](http://www.nuforc.org/webreports/reports/151/S151068.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Salt Lake red orbs may be a recreational drone.Observed a red orb descend from 3 white lights that maneuvered into a triangle in the western sky of downtown Salt Lake.  The orb made a vertical descent, with an instantaneous stop and 90 change of direction to the north.  Another instant stop and course reversal to the south. It stopped and started "dancing".  It then descended vertically into the ground.For one full week, I was certain this encounter was extraterrestrial.  However, exactly one week later, on the 19th of December at dusk, I identified with a $1000 pair of binoculars a recreational drone doing similar maneuvers 1-2 blocks west of my condo.  My condo is on the 5th floor and has over 20 feet of 8 foot floor to ceiling windows facing the west.I am only submitting this report to augment a similar report filed about an incident in Salt Lake on Dec 17.  If the address of that report is anywhere near my location in Salt Lake there is a high probability that someone is flying a drone illegally in the 1100 E. 100 S. area of Salt Lake City.  I believe they may be intentionally trying to simulate unidentified aerial phenomena.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138201.html](http://www.nuforc.org/webreports/reports/138/S138201.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
