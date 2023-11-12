@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:32 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Huge Circular light formationNoticed a large circular light brighten the sky in front of me while driving.  Suddenly, large white lights (balls) appeared in a circular formation.  The lights danced around and then went back to a large circular formation.  It began to slowly move away and I followed it almost to the next town (Lexington) after approx.  7-8 minutes beams of light came down from each ball of light.  Object was larger than all homes in route at leaste the size of a football field.  I saw other drivers brake and appear to notice it.  I tried my cells cam but of course it did not pick up anything.  Object was silent.  It just was there and gone,  Very strange.  The light beams that came down would move around the ground,  Become one and back to seperate beams of lights .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115320.html](http://www.nuforc.org/webreports/reports/115/S115320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some '' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Looked outside got home from work saw 2 welding fireball objects hovering above ghe sound north end of vashon island.  The livht was so intense one of them came right thru the trees overlooking vashion island like brighter than the sun.  Almost like a amber welding look.Looked at both of them with high powered binaculars looked like spinning object but livht was so intense it hurt my eyes.  This went on for about 30 to 40 minutes.  Thought it was flares but was to bright for too long.  Intense bright right thru trees etc and was far away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115306.html](http://www.nuforc.org/webreports/reports/115/S115306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
