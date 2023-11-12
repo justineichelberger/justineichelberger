@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pass Christian (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star like, Red/Green/White, moving in skyO.K., I’m skeptical of doing this but curiosity is getting the better of me.  I have tried writing this a couple of times but it seems to start jumping so I figured this format may be best.HOW:  I am a smoker and go outside several times a night to have a cigarette and watch the sky.  I have been doing this for years and have never seen anything like this.  My wife was the first to notice this but did not want to say anything to me for fear I would think she is crazy.  Since the first sighting I have seen this on numerous occasions for the past few months.  I have seen as many as three at one time in the sky but never very close to one another.  They do not appear in the same location in the sky every time.  And at times they are in different locations in the same night.  They do tend to disappear at some point in the night but not always.DESCRIPTION: Star like objects which change colors, Red/Green/White.  There move in ways conventional aircraft are unable to.Now I’m not sure if you’re interested in this or not.  I have had several individuals witness this with me.  On the first occasion 5 people watched the object for over an hour.  I have tried to rationalize weather balloons, satellites and helicopters but none of these seem to fit.  So here I am. ((NUFORC Note:  Possibly satellites??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59780.html](http://www.nuforc.org/webreports/reports/059/S59780.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some '' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Looked outside got home from work saw 2 welding fireball objects hovering above ghe sound north end of vashon island.  The livht was so intense one of them came right thru the trees overlooking vashion island like brighter than the sun.  Almost like a amber welding look.Looked at both of them with high powered binaculars looked like spinning object but livht was so intense it hurt my eyes.  This went on for about 30 to 40 minutes.  Thought it was flares but was to bright for too long.  Intense bright right thru trees etc and was far away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115306.html](http://www.nuforc.org/webreports/reports/115/S115306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
