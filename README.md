@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Derbyshire (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>bright light round speedWalked out of my house to go to the Chinese round the corner.  About 2 seconds later I look up.  To my immediate right, and a little ahead, I saw a bright white light.  As soon as I had looked at it, it sped away at unusual speed headed south southeast.  I'm shocked!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124642.html](http://www.nuforc.org/webreports/reports/124/S124642.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lago Vista (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long string of lights all moving together in a perfect line.A long, silent, perhaps 1/2 mile to 1 mile long perfectly straight string of lights equally spaced all at the same exact altitude of 2-5,000 feet and moving at one very constant moderate bearing an exact Northwest to Southeast heading.  The distances between each light did not measurably change at all as they transitioned the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150648.html](http://www.nuforc.org/webreports/reports/150/S150648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
