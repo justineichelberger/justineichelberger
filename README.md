@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Burien (WA) reported seeing craft that fit the description of some '' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Looked outside got home from work saw 2 welding fireball objects hovering above ghe sound north end of vashon island.  The livht was so intense one of them came right thru the trees overlooking vashion island like brighter than the sun.  Almost like a amber welding look.Looked at both of them with high powered binaculars looked like spinning object but livht was so intense it hurt my eyes.  This went on for about 30 to 40 minutes.  Thought it was flares but was to bright for too long.  Intense bright right thru trees etc and was far away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115306.html](http://www.nuforc.org/webreports/reports/115/S115306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Wyandotte (MI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>VERY loud noise, like many jet engins , then was suddenly silenced, very strange lights.at about 8:00 or 8:30 pm my family and I were just ending dinner when we heard the sound of many jet engines pass over our home. it shook just about everything in the house my Dad and I ran out to see what it was. We couldn't beleave what we saw. Many strange "points" were travling at low speeds and were a light green color. the noise lasted for about 5-10 seonds and a strange slience followed immediatly after it. Many for my friends and there famlies heard it and saw it also.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16626.html](http://www.nuforc.org/webreports/reports/016/S16626.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
