@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:20 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:43 on 12 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Brooksville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White circle orb over cow fieldHusband was riding in work truck on way home and was looking out the window when he saw this circular light and took pics.  One pic shows it over a cow.  He said it was about 30-40 feet above the cow. It is strange???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150706.html](http://www.nuforc.org/webreports/reports/150/S150706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Observed a disk-shaped object completing unbelievable maneuvers to the SE above the city of Bend, Oregon. Object hovered, did split second U-turns, appeared to be 'playing,' or 'dancing.' There was no sound emitted. The only light from the craft seemed to be reflected from the moon. Object when first sighted was moving towards the west.On the night of November 12, in Bend, Oregon, I was outside of my home observing the moon and the planets currently visible. My roommate had asked that if they were at all visible to let him know (it has been overcast alot here lately). It was clear. I went in and we both came out. I was pointing out a neighborhood light that was in violation of an Oregon code because it was not subdued (any amateur astronomer can relate,) when he pointed to an object in the sky and asked me what it was. I first saw the object heading due west and was about to say it must be an airliner when I saw it do an unbelievable U-turn. Astonished, we both watched this 'craft' do maneuvers that would be impossible for any known aircraft to perform. I am a veteran, and used to work while A-10's and a variety of other aircraft flew overhead. What we saw seemed to be so unhindered by gravity that I can only describe it's behavior as playful, like it was 'dancing' in the air. It performed multiple U-turns, and would accelerate to incredible speeds and then come to a complete halt in what seemed milliseconds. It made absolutely no sound at all. I would estimate it's distance from us to be anywhere from one to three miles away, and it's size as possibly quite large. I did see a very distinct 'disk' shape. The thing eventually seemed to vanish, and we remained outside for about another hour watching for it before we gave up and went inside. I am an Archaeology student, my roommate is a Geologist. We are both well grounded in science and the tradition that believes empirical data adds to the human understanding of ourselves and our surroundings. If this comes off sounding like a disclaimer let me just add that our 'data' goes against everything we have been tought to believe. I did not want, nor wish, to see such a thing. Nevertheless, I, we, saw the damned thing. For myself it calls too much into question. But there it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04835.html](http://www.nuforc.org/webreports/reports/004/S04835.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [369](http://www.nuforc.org/webreports/reports/165/S165221.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165222.html)
-- [367](http://www.nuforc.org/webreports/reports/165/S165235.html)
-- [366](http://www.nuforc.org/webreports/reports/161/S161116.html)
-- [365](http://www.nuforc.org/webreports/reports/160/S160612.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
