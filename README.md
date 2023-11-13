@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:42 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>In 1965 at Fort Lewis Wa. me and 2 other soldiers saw 3 circle shaped glowing Ufo's in the night sky.Nellis AFB Air Show 11/13-11/14/2004   On Saturday, the 13th of November I went to the Nellis AFB Air Show.  The night after the first day I went home and downloaded the pictures I took to my computer.  As I was going through the shots to see which ones I was going to delete, I noticed a small bright, white spot that appeared over an F-16 Thunderbird jet.  The picture was not that great and I was going to delete it, but decided the more that I looked at that little bright white spot the more I realized that it just didn't look right.  So I decided to take a closer look at it.  I zoomed in on it and when I did, it became more interesting.  I went through the process of trying to figure out what it wasn't (dust, lens flakes, etc) and after scratching my head, was left with the thought of what it might be.  The accompanying photo is what I captured on file - you decide?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40662.html](http://www.nuforc.org/webreports/reports/040/S40662.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>red lights over Los Angeles at 10:20 pm on 11/13/07Wow.  Just saw something unlike anything I've ever seen.  I live in West Los Angeles - near Pico and Overland/Westside Pavillion.  Got into bed around 10:20 with lights out, looked out my front window (I live on top of someone's detached garage) facing east.  I see in the sky these odd-shaped red lights that made me think "what is that?"  I watched it for about 5-10 seconds before it went out of view of my window and unfortunately I don't have other windows with a good view and I even went outside but couldn't see in that direction.  It was going in a southwest direction.  I see A LOT of planes out my window as a lot come into Santa Monica airport, and I see others traveling to/from LAX.  This was going in the direction of LAX so hopefully some other people saw it.  i'm not saying it was an alien space craft, just unlike anything I've ever seen out my window.  It had maybe 6-8 small red blinking lights that were widespread - maybe the lenght of 5-6 airplanes that I usually see out the window.  I'm just now thinking maybe it was a blimp, although it seemed to be moving faster than blimps move, but about same speed to a bit faster than a 747 type plane.  That's all I can really think to describe what I saw.  It was quick, but thought I'd share and see if anyone else saw it or has an explanation.  Didn't have time or equipment to take a pic/video.  There were definitely other planes nearby in the sky so pilots had to have seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59828.html](http://www.nuforc.org/webreports/reports/059/S59828.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
