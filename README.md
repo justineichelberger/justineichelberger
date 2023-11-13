@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:40 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Burlington (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Unidentifiable light hoovering above Burlington ONCloudy night, star like object hoovering I took video with my phone I didn’t stay longer to find out if it moves but within10 min, it was almost hoovering in small area If it’s drone why it was not moving for 10 min or longer ? But maybe it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160578.html](http://www.nuforc.org/webreports/reports/160/S160578.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bagley (IA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Falling Stars and Cloaked SightingsAt 5 a.m. Sunday November 13th 2016   I was looking out my bay window at the bright moonlit morning.  I noticed 3 large brightly lit stars in the eastern sky. They were at the 10 o’clock and 12 o’clock positions with the third star just to the right and down of the 10 o’clock star.  The 10 o’clock star was flashing red, green and blue.  The 10 o’clock and 12 o’clock stars also had an elongated or even an 8 shape to them.  Suddenly the third star shot down at a 45 degree to earth.  It did not have a tail.  It was a perfect bright circle.About 5 minutes later, a fourth bright star from about the 12 o’clock position shot straight down.  These falling stars landed very far away.I continued to watch the skies for about 2 more minutes when I noticed movement on the street in front of my home.  (The street is about 50 feet from my window.)  What I saw is very hard to describe, so here goes...“It” was about 6 feet tall and 8 to 10 feet long and in the shape of a flat and slightly distorted semicircle with no real volume or thickness. “It” was see through and did not have any defining edges. I must add that it did not shine or glisten in any way, but  did have a faint light gray color to it. I was able to see it because of the faint color distorting the corn stalks on the other side of it into a blur as it glided down the street. The speed of the glide was a casual walking pace.Anticipation grew within me as it neared the corner street light. If my eyes were playing a trick on me, the light would surely show what was truly there.  Now I could see what it really was in the light,but just before it got to the light, it disappeared.I continued to watch the skies and the street but nothing new happened until my husband walked into the room a few minutes later.  I told him that something amazing just happened but first to look at the two bright stars in the sky.  He too noticed the flashing colors of the 10 o’clock star.  I was watching the sky at the time but he averted his gaze to the street. He saw something too.  I asked him to describe in full detail what it was in size, shape,color etc. He described exactly what I saw just a few minutes earlier.  His encounter was exactly the same as mine,right down to the way it moved (glided).We agreed that it reminded us of the movie “Predator” with Arnold Schwarzenegger.  You have to actually LOOK for the disfigurations to really see them.       </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131246.html](http://www.nuforc.org/webreports/reports/131/S131246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
