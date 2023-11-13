@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:19 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Morrow (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10:06 - 10:06 minutes.</sub><blockquote><sub>It was a craft with 3 big red blinking lights zig zaging around in the sky!My family and I saw a strange looking craft, not sure of what type, while unloading supplies at office I work for. It had three blinking red lights and it appeared to hover in spots and then zig zag about the sky eventually diving like behind a group of trees. In a few seconds it appeared again off in the distance at an even lower altitude. At the same time another craft like, maybe a plane with a very bright light and what seemed to be  two red flashing lights appeared behind the same group of trees and just seemed to hover there in the air! I have never in my 36 years ever seen a plane with three flashing, not blinking,rather large lights like these!!!      Also for the past 8 or 9 months we have observed a passenger type aircraft with a extremly bright ,huge, double headlight that can also hover in one place for any amount of time. It also can turn on a dime! It doesn't have to make a large turn like a regular plane. My husband and I have watched it for periods of 20-30 mins.It is strange to watch. At first we noticed it only after 11:00p.m.(I work at night alot).   Now we have recently seen it as early as 7-8p.m. and in different areas around where we live.Do you think it could be some new type of craft that the govt/army might be testing? We do have an Army base nearby. If anyone knows we would like to be informed. I don't think is really an UFO! It is however something new we have never seen in the skies over middle Georgia!!!!!!((NUFORC Note:  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26076.html](http://www.nuforc.org/webreports/reports/026/S26076.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black formation that gyrated into different S shapes.I was out walking my dogs when I saw a black formation moving to the east.  I first thought it was a formation of geese flying but as it got closer I realized it was some kind of object. It was silent and seemed to gyrate into different S shaped formations. It then started moving to the northwest. I saw one of my neighbors sitting on her porch, I asked her to please look at it so I would have a witness. Unfortunately, I did not have my cell phone with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160599.html](http://www.nuforc.org/webreports/reports/160/S160599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
