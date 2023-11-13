@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 49</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161119.html](http://www.nuforc.org/webreports/reports/161/S161119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Wheaton (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Comet-shaped floating object flies toward Washington, DC.Fireball might not be the best description - more like a bright white comet-shaped object (short tail) that seemed to float in the air as it moved at a good clip.  No sound and no contrail.  I observed it out of my right view as I looked south (on my way to picking up Chinese food).  I had seen similar objects the day before (November 12 - Bethesda, MD report) and on November 5 (Bethesda, MD report) and October 15 (Kensington, MD - report not filed).  The white object was high in the sky - no clouds were present.  It was moving from right to left (West to East).  Wheaton, Maryland, is about 4 miles directly north of Washington, DC, and the airspace is pretty restricted.  The object veered - or more like pivoted - southward, as if heading toward DC/Virginia.  It then completely dissipated.  It looked like it vaporized.  Not fading slowly from view, but gone.  I took a video of the incident. The other times I saw these objects, there were either three or four together, maybe a few miles apart from each other or closer.  They may be in one field of view - kind of close but distant from each other.  It's weird - you see just one, and then there will be three or four in view.  These appear to be the same things described in the Philadelphia, PA  November 5, 2016 17:15 report of four cigar-shaped objects.  My report of November 5 was from an hour later (DC is south of Philly and the things were traveling southwesterly when I saw them).Here are their characteristics from my four sightings: no sound; very high; very large; "soft" (not hard outlines); bright white - likely reflecting the sun; no contrail or vapor trail; appear in groups (three or four) sometimes (first one and then the others); not in same "space" as other aircraft in the area; looks like a slant sometimes; flies slanted; changes directions with pivots and not regular turns; seem to float, but also move fast - alternately and at the same time; no discernible body; tail is short at times and longer at other times, likely due to perspective as it rotates or moves from you; tail can appear to be a sideways V when viewed from one angle and straight - like a slant - when viewed from another; does not have lights (as if the objects would not be seen at night); they are being flown, not drifting - movement is purposeful; at least one seemed to disappear (vaporize like a puff either through rapid acceleration or otherwise); my vi! ewings were in late afternoon, early twilight (coincidence?).I'm ((deleted--fifties)) and never have seen a UFO until these four incidents.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131301.html](http://www.nuforc.org/webreports/reports/131/S131301.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
