@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:51 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Palistine (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.23333333333333334 - 0.23333333333333334 minutes.</sub><blockquote><sub>It was a bright white light that appeared in the sky.it was vary high up and travel across the sky in random directions.  it was the size of an aspiring if you held it an arms length away.it stoped after moving around the sky and then it vanished.it left no trails.  i didn't hear it bc I was in the car</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150680.html](http://www.nuforc.org/webreports/reports/150/S150680.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two balls of light flying parallel.  Third ball not in a straight line.Two balls of light, looked very far away almost like comets, two flew parallel in a straight line then zigzagged independently then disappeared.  A few minutes later a single ball flew in curved line for a few seconds then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124049.html](http://www.nuforc.org/webreports/reports/124/S124049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
