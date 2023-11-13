@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:51 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Thorne, Doncaster (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>High altitude lights in chevron shapeThis was amazing.  Felt honoured to see it.Went to my doorestep to smoke a cig.  Completely clear night.  Stars visible, but one was moving so I watched it.  Should have gone in 30 minutes ago, but kept watching.  As it grew closer it suddenly became frozen and stayed in one position.  It was at a very high altitude.  I was tempted to rush in and get my camera, but scared I'd miss something.  I know that's a classic excuse, but you'll have to take my word for it.As I watched it suddenly vanished, but appeared again at the far right of my eyeline as I was seeing it.  I focused ALL my attention on it.  There were occaisonal flickers of runway-like lights heading outwards in the cliche-like chevron pattern.  I swear on my parents' my sister's and my own life that I watched this craft for 20 or so minutes tonight in a stationary position.  It gradually began to move, but REALLY slowly.  It would then dart at speed to another position, but it would sit there for ages.  As I say it was REALLY high.  Above cloud level.  I watched it until it was out of eyeshot.  It seemed to ascend. Clearly getting higher in a weird way, but not appearing duller.  Lights totally clear all through the incident.  Then it was suddenly gone.This didn't scare me at all.  Just excited me to be honest.  Third time I've been treated to a UFO display of such beauty!  Guess I'm lucky there.  Just wish I'd caught something on film!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47678.html](http://www.nuforc.org/webreports/reports/047/S47678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we are seeing a 5 light formation in a cross pattern for many minutes with little red lights erratically flying around the right sideLooking East from San Marcos  Formation of steady lights in straight line appearace.2 larger lights on each side and equadistant from the center 3 lights that are in a vertical line of alignment.So it appears as a cross of lights.There is no apparent motion and they remain steady.They are low on the horizon, about a 1-2 oclock position.There appears to be erratic red lights from the right light in the horizontal plane.The lights are visible to the naked eye with a brightness about the same as a medium star.They are near the eliptic but are definately not of the normal formation of star cluster appearance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59827.html](http://www.nuforc.org/webreports/reports/059/S59827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
