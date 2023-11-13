@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ottawa (IL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>Cylinder shaped object over Northern Illinois.I Seen a cylinder shaped object in the Northern sky at about 45 degrees, I noticed it because it appeared the sun was reflecting off it,  As I was watching it, it seem to fade out then re-appeared maybe 2 miles away only to do the same thing again fading out. When it faded out the first time and moved it was instantaneous.  Then I just read about some cylinder shaped object crash in Myanmar three days ago.  Maybe some type of space debris.  But it was odd then it didn't lose altitude and kind of hung in one place before it moved.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131235.html](http://www.nuforc.org/webreports/reports/131/S131235.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 49</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161119.html](http://www.nuforc.org/webreports/reports/161/S161119.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
