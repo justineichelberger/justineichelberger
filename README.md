@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:46 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockisland (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I seen what looked like a flock of birds flying but as it got closer it was perfect triangle with dim lit lights moving in unison. If it were a car on the ground I'd say it was moving about 40-50 mph. It made no sound at all. There was a helicopter off in the distance that you could hear and it was going the opposite way. The ufo was traveling from Illinois to iowa.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160598.html](http://www.nuforc.org/webreports/reports/160/S160598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Thorne, Doncaster (UK/England) () reported seeing craft that fit the description of some 'Chevron' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>High altitude lights in chevron shapeThis was amazing.  Felt honoured to see it.Went to my doorestep to smoke a cig.  Completely clear night.  Stars visible, but one was moving so I watched it.  Should have gone in 30 minutes ago, but kept watching.  As it grew closer it suddenly became frozen and stayed in one position.  It was at a very high altitude.  I was tempted to rush in and get my camera, but scared I'd miss something.  I know that's a classic excuse, but you'll have to take my word for it.As I watched it suddenly vanished, but appeared again at the far right of my eyeline as I was seeing it.  I focused ALL my attention on it.  There were occaisonal flickers of runway-like lights heading outwards in the cliche-like chevron pattern.  I swear on my parents' my sister's and my own life that I watched this craft for 20 or so minutes tonight in a stationary position.  It gradually began to move, but REALLY slowly.  It would then dart at speed to another position, but it would sit there for ages.  As I say it was REALLY high.  Above cloud level.  I watched it until it was out of eyeshot.  It seemed to ascend. Clearly getting higher in a weird way, but not appearing duller.  Lights totally clear all through the incident.  Then it was suddenly gone.This didn't scare me at all.  Just excited me to be honest.  Third time I've been treated to a UFO display of such beauty!  Guess I'm lucky there.  Just wish I'd caught something on film!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47678.html](http://www.nuforc.org/webreports/reports/047/S47678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
