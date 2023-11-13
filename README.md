@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:46 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Corapeake (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>saw what lookd like a rocket and plume that separated into 6 satellitesI noticed a plume following a bright light and as the bright light rose the plume got bigger (not unlike the rocket plume on TV from California) and the light separated into 2 lights and one went approximately 1 mile in front of the other then they traveled the same speed and then they left the plume when 2 more lights appeared about 15 to 20 miles behind the first 2 then 2 more lights appeared ahead of the last 2 lights and then they disappeared and then reappeared several times. They were all going the same speed until they went out of sight. They traveled southwest to northeast and looked like satellites but to low and to high to be jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160591.html](http://www.nuforc.org/webreports/reports/160/S160591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rockisland (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I seen what looked like a flock of birds flying but as it got closer it was perfect triangle with dim lit lights moving in unison. If it were a car on the ground I'd say it was moving about 40-50 mph. It made no sound at all. There was a helicopter off in the distance that you could hear and it was going the opposite way. The ufo was traveling from Illinois to iowa.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160598.html](http://www.nuforc.org/webreports/reports/160/S160598.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
