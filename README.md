@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:51 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we are seeing a 5 light formation in a cross pattern for many minutes with little red lights erratically flying around the right sideLooking East from San Marcos  Formation of steady lights in straight line appearace.2 larger lights on each side and equadistant from the center 3 lights that are in a vertical line of alignment.So it appears as a cross of lights.There is no apparent motion and they remain steady.They are low on the horizon, about a 1-2 oclock position.There appears to be erratic red lights from the right light in the horizontal plane.The lights are visible to the naked eye with a brightness about the same as a medium star.They are near the eliptic but are definately not of the normal formation of star cluster appearance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59827.html](http://www.nuforc.org/webreports/reports/059/S59827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Celina (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>MYSTERIOUS ORANGE SPHEREI was out walking late on the morning of Friday November 13 when I decided to look at the sky to see if I could see anything unusual such as a UFO.   As I was looking just above the western horizon, an unusual light caught my eye.  I watched this orange ball of light for approximately three minutes.  The really weird thing, and the reason that I'm posting this, is that the light simply vanished right before my eyes -- poof and it was gone!  I've never seen a light just disappear like that.   A small airplane did appear in that part of the sky about five minutes later, but its lights were red and green, typical landing light colors, NOT the firey orange that I observed with the spherical light a few minues earlier.  Highly curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73285.html](http://www.nuforc.org/webreports/reports/073/S73285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
