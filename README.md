@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:23 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:43 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some '' over a period of approximately 0.55 - 0.55 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no description of the object(s).  We have requested a more detailed report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143724.html](http://www.nuforc.org/webreports/reports/143/S143724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gonzales (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>7-14 large amber glowing balls of light traveling together at the same speed.These amber balls of light were in a type of formation and they all were stationary for a moment above then they all started traveling together in the same direction at the exact same speed...quite slow.  They were glowing amber and no blinking lights were noted.  We watched them either circling over the sky or more and more kept coming.  We could not tell, due to the tree line.  We watched them for what seemed like 15 minutes.  They were beautiful.  There could have been either 7 to 14.  Depending on whether they were just circling, or more coming after the first 7.  Planes started flying around close; they had to have seen them.  There's no way they couldn't have seen them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124052.html](http://www.nuforc.org/webreports/reports/124/S124052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
