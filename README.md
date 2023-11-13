@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:51 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:23 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ocean City (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two balls of light flying parallel.  Third ball not in a straight line.Two balls of light, looked very far away almost like comets, two flew parallel in a straight line then zigzagged independently then disappeared.  A few minutes later a single ball flew in curved line for a few seconds then disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124049.html](http://www.nuforc.org/webreports/reports/124/S124049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some '' over a period of approximately 0.55 - 0.55 minutes.</sub><blockquote><sub>((NUFORC Note:  Witness provides no description of the object(s).  We have requested a more detailed report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143724.html](http://www.nuforc.org/webreports/reports/143/S143724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
