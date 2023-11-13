@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Dolores (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Observed a point of light move and stop in the evening sky.At about sunset (17:00) very low on the northern horizon I saw what I first believed to be a bright star or planet. It was the only star visible in the evening sky at this time. I watched it for a few seconds before realizing it was moving east just slightly. I asked my wife to come out and see it. I told her " hey you see that star there, keep and eye on it for me will ya?" I went inside to find binoculars. By the time I had come back out ( a few minutes later) my wife had witnessed the object move slowly and evenly a great deal eastward, before it came to a complete stop. When viewed through the binoculars the object appeared to be a single dot of white light. We had time to set up a telescope on the now stationary object and through this the object appeared to be scintillating with all colors but was still a very small and indistinguishable dot of light with no features. I shot the object with a compass and shot where I had originally observed it. The object had moved from almost due north to 44 degrees and at an angle of approximately 15 degrees. The time was noted as 17:44. We continued to observe the object periodically through the evening and it appeared to melt into the rest of the night sky and rose with the rest of the night objects around it. At about 20:00 a haze moved in and the object was no longer distinguishable from other heavenly bodies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160615.html](http://www.nuforc.org/webreports/reports/160/S160615.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately don't know - don't know minutes.</sub><blockquote><sub>In 1965 at Fort Lewis Wa. me and 2 other soldiers saw 3 circle shaped glowing Ufo's in the night sky.Nellis AFB Air Show 11/13-11/14/2004   On Saturday, the 13th of November I went to the Nellis AFB Air Show.  The night after the first day I went home and downloaded the pictures I took to my computer.  As I was going through the shots to see which ones I was going to delete, I noticed a small bright, white spot that appeared over an F-16 Thunderbird jet.  The picture was not that great and I was going to delete it, but decided the more that I looked at that little bright white spot the more I realized that it just didn't look right.  So I decided to take a closer look at it.  I zoomed in on it and when I did, it became more interesting.  I went through the process of trying to figure out what it wasn't (dust, lens flakes, etc) and after scratching my head, was left with the thought of what it might be.  The accompanying photo is what I captured on file - you decide?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40662.html](http://www.nuforc.org/webreports/reports/040/S40662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
