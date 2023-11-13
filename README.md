@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Black formation that gyrated into different S shapes.I was out walking my dogs when I saw a black formation moving to the east.  I first thought it was a formation of geese flying but as it got closer I realized it was some kind of object. It was silent and seemed to gyrate into different S shaped formations. It then started moving to the northwest. I saw one of my neighbors sitting on her porch, I asked her to please look at it so I would have a witness. Unfortunately, I did not have my cell phone with me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160599.html](http://www.nuforc.org/webreports/reports/160/S160599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Burton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside star-gazing when the event happened.I was outside star-gazing and I heard what sounded like the central air unit had kicked on (I have no central air in my house) and I looked outside and saw multiple faint, glowing lights and the lights came together and became one single searchlight and the light started to move in a circular pattern as if searching for something.  Afterwards, the light and the sound disappeared.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137267.html](http://www.nuforc.org/webreports/reports/137/S137267.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
