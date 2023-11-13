@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Port Angeles (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 49</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161119.html](http://www.nuforc.org/webreports/reports/161/S161119.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Willows (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately night - night minutes.</sub><blockquote><sub>I was with my well my ex..but its complicated will hr was walking me home and I saw something really bright that caught my eye and it was down thing really bright.  Covered white with some really bright light like blue and some other color I dont know what color I was just just such in shocked and it was like going down really fast and it was only in the sky for 3 or 4 sec.  And it just disappeared out of no where.  I told him and he said that he also saw the same thing elier the day but he thought he was just tripping but now he knows what he saw is real.  I saw about this in the news a few days ago but I thought they were just lies no after seeing it with my own eyes im just shocked and cant be live what I saw but I know it was no letter or comet or shooting star. I knew it was as a UFO and its not a I think it was its a I know it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124051.html](http://www.nuforc.org/webreports/reports/124/S124051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
