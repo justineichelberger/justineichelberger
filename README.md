@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Burton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was outside star-gazing when the event happened.I was outside star-gazing and I heard what sounded like the central air unit had kicked on (I have no central air in my house) and I looked outside and saw multiple faint, glowing lights and the lights came together and became one single searchlight and the light started to move in a circular pattern as if searching for something.  Afterwards, the light and the sound disappeared.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137267.html](http://www.nuforc.org/webreports/reports/137/S137267.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Corapeake (NC) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>saw what lookd like a rocket and plume that separated into 6 satellitesI noticed a plume following a bright light and as the bright light rose the plume got bigger (not unlike the rocket plume on TV from California) and the light separated into 2 lights and one went approximately 1 mile in front of the other then they traveled the same speed and then they left the plume when 2 more lights appeared about 15 to 20 miles behind the first 2 then 2 more lights appeared ahead of the last 2 lights and then they disappeared and then reappeared several times. They were all going the same speed until they went out of sight. They traveled southwest to northeast and looked like satellites but to low and to high to be jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160591.html](http://www.nuforc.org/webreports/reports/160/S160591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
