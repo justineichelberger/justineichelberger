@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:31 on 13 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Celina (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>MYSTERIOUS ORANGE SPHEREI was out walking late on the morning of Friday November 13 when I decided to look at the sky to see if I could see anything unusual such as a UFO.   As I was looking just above the western horizon, an unusual light caught my eye.  I watched this orange ball of light for approximately three minutes.  The really weird thing, and the reason that I'm posting this, is that the light simply vanished right before my eyes -- poof and it was gone!  I've never seen a light just disappear like that.   A small airplane did appear in that part of the sky about five minutes later, but its lights were red and green, typical landing light colors, NOT the firey orange that I observed with the spherical light a few minues earlier.  Highly curious.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73285.html](http://www.nuforc.org/webreports/reports/073/S73285.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Benbrook (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flying cigar shaped object with six lights over Benbrook by the lake;We we traveling home from Benbrook to Granbury on 377.  There was a large object with six lights that were in a straight line and a light blue square in between the 3rd and fourth light.  It was going thru the sky very slow and it was traveling to low to be a large aircraft.  I was driving and my daughter saw it also.  She said it was not an airplane.  It did not make any noise.  I say cigar shape because of how the lights were in a straight line.  Could it have been a blimp?   Why would there be a blimp flying over Benbrook close to the entrance of LAKE?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94467.html](http://www.nuforc.org/webreports/reports/094/S94467.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [343](http://www.nuforc.org/webreports/reports/165/S165241.html)
-- [342](http://www.nuforc.org/webreports/reports/165/S165790.html)
-- [341](http://www.nuforc.org/webreports/reports/165/S165231.html)
-- [340](http://www.nuforc.org/webreports/reports/165/S165236.html)
-- [339](http://www.nuforc.org/webreports/reports/165/S165562.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
