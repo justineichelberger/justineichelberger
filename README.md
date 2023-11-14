@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:00 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:44 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in El Paso (Fort Bliss) (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar-shaped UFO moving south-southwest towards MexicoI was walking into the motor pool when I noticed something in the sky.  The motor pool is very near El Paso airport, and I have an interest in aircraft, so I stopped to look at it.  It was traveling south-southwest in a sort of "drifting" manner.  It was brown, and "cigar-shaped".  I waited for its angle to change to determine if it was a helicopter (a common sight patrolling the border), but it's shape was too evenly "cigar shaped" so I was certain it was not a Blackhawk, and it seemed to lack the vertical stabilizer and wings of fixed-wing aviation, so I stood there and stared at it.It was not at a very high elevation, maybe 1000 feet above the ground (I'm not a trained aerial observer, so I can't gauge elevation at all), and it seemed to be just "drifting" over the border, like a dirigible, though it's path was even and consistently south-southwest.I pointed it out to some of my comrades as I was seeing it, but they apparently didn't see it.  I lost track of it when I had to get back to what I was doing.((NUFORC Note:  Witness indicates that date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67502.html](http://www.nuforc.org/webreports/reports/067/S67502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Otis (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 red star like lights appeared in the sky.3 red lights in a triangle around handle of big dipper.  They started moving across the sky and 2 more lights appeared.  Three of the lights formed a tight triangle while the other 2 lagged behind.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94449.html](http://www.nuforc.org/webreports/reports/094/S94449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
