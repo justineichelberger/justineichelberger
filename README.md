@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large black elongated rugby ball shape ufo.I just came home from picking my child up from school.  I was stood at my kitchen window looking over at the hills.  It is very foggy WHITE FOG.  A black moving shape caught my eyes and I looked straight at it.  It was like a elongated rugby ball coming in and out of the fog.  Then it moved of into the thick fog at a high rate of speed.  By using trees as a reference point id say it was at least a quarter mile in length.  I AM STILL SHAKING FROM SEEING IT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131230.html](http://www.nuforc.org/webreports/reports/131/S131230.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fullerton (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>green star like object shot across skyWe were driving down State College Blvd in Fullerton, CA.  It was about 9pm.  We saw a blue/green star like object hovering in the sky.  It suddenly shot across the sky like a shooting star, although you cannot see stars in the sky here (at least very many) and it was too low for a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47712.html](http://www.nuforc.org/webreports/reports/047/S47712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
