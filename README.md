@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:55 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:42 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Ventura (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three orange spheres traveling silently in triangle formation until lead sphere broke formation.Sighted three large spheres traveling in triangle formation southward. Silent, no engine noise.  Initial altitude approx twice that of small airplanes.  (We live near two small airports; planes were in the air at the time, could hear one engine off to the west)  The spheres were shining dull/opaque orange, fuzzy, somewhat like chinese lanterns.  Their formation was very rigid intially.  They gained altitude (got smaller & dimmer) as they progressed south over the ocean off Point Mugu Naval Airstation.  The two spheres then seemed to close the gap between them, while the front sphere appeared to stretch the formation upward.  As the formation dimmed in the distance, the front sphere appeared to shoot upward. The rear two spheres stayed together and drifted in a more westerly direction. Conditions were dark evening, very clear starry night. Just finished looking at the moon off to the west and was heading inside when the formation drifted into view from over my house. When they were closest to me, I got the impression (not clear vision) I was seeing in through a round, riblike structure. At first sight I yelled to my son to get his video camera.  Both he and my daughter joined me outside and saw the formation immediately. Nothing is showing on camera LCD screen. I am hunting for the chord to connect camera to TV to review tape; keep fingers crossed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40624.html](http://www.nuforc.org/webreports/reports/040/S40624.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in La Porte (IN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 00:02 - 00:02 minutes.</sub><blockquote><sub>Bright light seen in skyI went outside for a cigarette and noticed that there was a thin layer of clouds in the sky also noticing that the planet Venus was not visible but Jupiter was.  I then looked toward the North and almost directly above me and seen a very bright light shining through the clouds and moving very slowly to the East in a direct flight path.  While viewing this object it also seemed to elluminate a small portion of the cloud making an aura around it.  This told me that if it was not in the cloud it was very close to the top of the cloud close enough to make the object to appear larger.  The approximate time was 5:45 a.m. because I did not have my watch on or my phone with me and when I came back inside the time was 5:48 on my phone.  I had to have viewed this object for a little over 2 minutes until I could no longer see it.  This was not an airplane because the light remained visible from viewing the front as it came toward my location and remained bright as it p! assed my location then dimmed out from thickness of the cloud. My phone is currently not active this month but available through email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94439.html](http://www.nuforc.org/webreports/reports/094/S94439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
