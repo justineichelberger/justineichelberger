@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Burnaby (Canada) (BC) reported seeing craft that fit the description of some 'Delta' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I live on Burnaby Mountain and noticed a large, well lit flying wedged shaped object flying very low over my house without any noise. It was flying at a fast and consistant pace, heading towards the North East. It startled me as I caught a glimpse of it from my bedroom window, as it's unsual to have jets fly that low over my house and usually there is the accompanying sound. There were many lights outlining the wedge shape. They seemed to be about the same brightness although some appeared to be reddish while others blue. It is hard to describe something that is so unusual, as I don't have any frame of reference for it. It definitely appeared to be travelling similar to aircraft, as it travelled in a consistent and fluid manner towards the northeast and out of sight within a minute or so. I was listening to the radio at the time and heard the announcement that some space debris had been reported flying over the lower mainland. While listening to the Art Bell show on Sat. Nov! 22, it was requested that anyone who had a close view of the object send in a report. I hope that this report will be helpful. I am curious as to why the media reports stated that the debris fell into the pacific ocean, as the object was heading away from the ocean?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02918.html](http://www.nuforc.org/webreports/reports/002/S02918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Grand Marsh (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It looked white and round and bright.As we were traveling on a back road home, I looked in my rear view mirror and saw this bright white object following us.  As I slowed the vehicle down the object seemed to slow also.  Then it just disappeard.  When we got to our destination it seemed that it had followed us there.  I got my daughter out of the car and the object was gone as quickly as it had appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10558.html](http://www.nuforc.org/webreports/reports/010/S10558.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
