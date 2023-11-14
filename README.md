@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Alaska Airlines/Sea-Tac to Anchorage (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Summary : Stewardess informs passengers that a satellite has broken up and is coming over the airplane.Stewardess explains to passengers on flight that a Russian satellite has broken up and pieces flew over the plane resulting bright light.((NUFORC Note:  Many reports from Oregon, Washington, and Canada for this event.  Similar events, we believe, over California and Mexico at same time and date.  Object was not a satellite.  The cluster was one of four similar cluster of objects that were reported to have passed over the Pacific Coast of California and Mexico on the evening of this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02894.html](http://www.nuforc.org/webreports/reports/002/S02894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cardiff (UK/Wales) () reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large black elongated rugby ball shape ufo.I just came home from picking my child up from school.  I was stood at my kitchen window looking over at the hills.  It is very foggy WHITE FOG.  A black moving shape caught my eyes and I looked straight at it.  It was like a elongated rugby ball coming in and out of the fog.  Then it moved of into the thick fog at a high rate of speed.  By using trees as a reference point id say it was at least a quarter mile in length.  I AM STILL SHAKING FROM SEEING IT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131230.html](http://www.nuforc.org/webreports/reports/131/S131230.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
