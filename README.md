@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:44 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Otis (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>5 red star like lights appeared in the sky.3 red lights in a triangle around handle of big dipper.  They started moving across the sky and 2 more lights appeared.  Three of the lights formed a tight triangle while the other 2 lagged behind.  There was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94449.html](http://www.nuforc.org/webreports/reports/094/S94449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Redfield (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>This happened yesterday and today, about the same place and time.  I was heading west on Hwy 6 towards Redfield nearing Dead Man's curve it's around 5:00pm.  The sun is just below the horizon, the sky is clear, only 1 little wipsy cloud.  The moon is out and over my left shoulder.   I looked into the sky to the west of the moon and I saw a bright star that was white and seemed to turn reddish, too.  I thought it was a planet since there were no other stars.  Then suddenly it faded away, I saw something dark just as the light went away, and then just blue sky.  There were planes in the sky and I could see their bodies because of how the sun was shining in them still.  I could see exhaust trails from the planes, but this light had no trails, no illumination from the sun.  It was way to high in the sky to be a helicopter.  I couldn't believe I saw it two days in a row; I tried to pull over and record it, but just as I did, it faded away.  I'm going to look for it again tomorrow!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143763.html](http://www.nuforc.org/webreports/reports/143/S143763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
