@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A green fireball coming down at a rapid speed disappeared before it would have hit the ground.I was in my backyard looking toward the west and saw a green fireball streak down from the sky at a rapid speed and then disappear before it would have hit the ground.((NUFORC Note:  Possible Taurid meteor??  We suspect that the witness observed the event on November 14, and we have changed the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47762.html](http://www.nuforc.org/webreports/reports/047/S47762.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I by accident photographed with a digital camera a single grey saucer like object with ridges and an oblong portalThe night of the sighting the weather was a low cloud cover and medium to high wind.  There was a moon but it was not visible that night and was far to the east at that time.  I am a public works Inspector and was documenting work a contractor was performing on a signal pole.  I was looking up at the work on the pole and the sky beyond the pole was dark and no image in the sky could be seen with my normal vision.  After taking a digital picture of the pole it was immediately noticed that an image appeared in the background.  The digital camera caught a single grey saucer like figure.  I continued my normal schedule of work for the night and later went back to my office to download the photos.  On my computer screen it was clear that the object had form, shape, distinctive ridges on the outside and an oblong portal.  This photo was taken completely by chance whereas myself and eight others working that night were not aware it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131687.html](http://www.nuforc.org/webreports/reports/131/S131687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
