@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Longmont (CO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11/14/2016 - 4-6 large white circles in two groups moving, disappearing and re-appearing  and circling each other in the Eastern sky.Driving east on Nelson Road at 8:45 PM and saw 2 groups of round, white circles to the East.  Some were the same size and some were smaller in sized in each group.  There were 3 circles in the group to the north at first, then 1 circle would drop down, then re-appear again quickly.  There were 4 circles at first in the southernmost group.  The number also varied from 2 large circles and 2 small circles that would move, reappear, then disappear. The two large circles seemed to rotate around each other.  The circles disappeared from the sky, one by one, until only the last large circle was left.  It was difficult to track the movement of the circles.  Sometimes I could see them move, other times they just seemed to appear, then disappear.  The was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131249.html](http://www.nuforc.org/webreports/reports/131/S131249.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Kenmore (WA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I'm wondering why I can't find info on a UFO siting that took place between 9/98 &9/99 in Seattle area.  An enormous craft moved slowly across the sky from west to east.  It looked like a double decker ocean liner with two rows of compartment windows running down its entire length and a string of small lights across the bottom which "ran past each other as some moving holiday lights appear to do.  At the time, official sources poo-pooed it as "falling space junk", but the object was a unified and coherent field which moved in a straight line across the sky.  I described the object to an insomniac friend who a month or two later saw what I described on an early morning program.  It had been photographed moving across another state (Utah??) The official report this time was falling weather balloons.  I was in a car headed uphill with an unrestricted view of the night sky as it moved slowly across the sky.  We tried to follow it and encountered many others, especially in the kenmore school parking lot who were also watching it. There was radio discussion about it, but I didn't catch any TV or newspaper coverage at the time.((NUFORC Note:  We believe the report alludes to the event witness over Oregon, Washington, British Columbia, and Alberta on Friday night, November 14, 1997.  We have entered that date here.  The event may have been precipitated by a re-entering  Russian "Proton 2" rocket casing, but other data in our possession seem to militate against this possibility.  Please see other reports about this event.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15052.html](http://www.nuforc.org/webreports/reports/015/S15052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
