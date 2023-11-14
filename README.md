@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A bright green orb seen streaking over Bellingham Washington in a night sky.A large, bright green orb was observed streaking across the Sky from approximately East Southeast to Northwest over the city of Bellingham.  It was observed for about 5 seconds before it disappeared behind a hill to the north of the city.  It appeared to be between 1000' and 1500' in altitude.I am a 61 year old woman who has a college degree and has been self employed for the past 10 years after retiring from a position as a teacher/counselor.  I have two grown sons and three grandsons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94508.html](http://www.nuforc.org/webreports/reports/094/S94508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Alaska Airlines/Sea-Tac to Anchorage (Canada) (BC) reported seeing craft that fit the description of some 'Formation' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Summary : Stewardess informs passengers that a satellite has broken up and is coming over the airplane.Stewardess explains to passengers on flight that a Russian satellite has broken up and pieces flew over the plane resulting bright light.((NUFORC Note:  Many reports from Oregon, Washington, and Canada for this event.  Similar events, we believe, over California and Mexico at same time and date.  Object was not a satellite.  The cluster was one of four similar cluster of objects that were reported to have passed over the Pacific Coast of California and Mexico on the evening of this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02894.html](http://www.nuforc.org/webreports/reports/002/S02894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
