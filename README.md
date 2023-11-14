@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in England (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large black, triangular shaped aircraft with many bright white lights hovering over rural area along Hwy 161.I opened the back door to smoke a cigarette before going to bed and noticed a large bright set of white lights with red and green lights hovering beyond a tree break about a half mile from the house. This sparked my attention because I saw the same bright lights around the same day of the week and time of night last week.  I watched it hover for a long time and thought it could have been a helicopter because of how it was hovering and how low it was.  I stepped outside to see if I could hear it because if it was a helicopter, you would have definitely been able to hear it because it was so close.  I can make the helicopter sound comparison because of an aerial search conducted recently for an escaped convict from a local prison in which helicopters were used to search in our area.  The aircraft didn’t sound anything like the helicopter I heard several weeks ago and as a matter of fact, didn’t have a sound at all until it was flying overhead.After several minutes, the aircraft began slowly moving closer and eventually flew directly over our house and was so low I could see it was a triangle shaped aircraft with lots of bright white lights and a green and red light.  If the aircraft had been a plane, you would have definitely been able to hear it as it was so low and so close but I couldn’t hear anything but what sounded like a plane that was flying at a high altitude, miles and miles above.  Once it flew over, I didn’t see anything else but will be looking from now on for sure.I am a middle class working mother of one who works in a physician’s office and is educated.  I don’t use drugs and was not under the influence of medication or alcohol at the time of the sighting.  I have seen this object twice now and can’t deny what I saw was not like any aircraft I have ever seen even at all the airshows I went to as a child.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94473.html](http://www.nuforc.org/webreports/reports/094/S94473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Suffield (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A triangular figure that was well lit and outlined in green with three arms. It was larger than an airplane. Descending rapidly.A bright triangular shaped object, larger than an airplane, descending rapidly towards Suffield. It appeared like a white bright burst with green plasma light radiating off of it. When I got a closer look it was a triangular shape with a linear arm off of every point and it was outlined in green.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150708.html](http://www.nuforc.org/webreports/reports/150/S150708.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
