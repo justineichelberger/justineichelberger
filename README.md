@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:42 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Summary : Two bright lights appeared over the neighbors' house and seem to go back and forth, stand still and pulsated at the same time.  They looked like fireworks in the sky.My name is ((Name deleted)) and I saw a light rising from somewhere behind my neighbors house in the sky.  It did not act like an airplane but before I called my children to come and witness it I stepped out the door and watched it rise rapidly straight up into the air.  I called my four children out to watch with me.  At first we only saw one and then another one appeared over another neighbors house--what really amazed us was how they seemed to be pulsating in a pattern together.  They actually looked like fireworks in the sky when they were doing this.  Everyone I saw who was walking down the street I pointed it out to them--(they thought we were nuts).  I was talking to my Office Manager at work about it off and on while she was at work.  We tried to call the news stations but nobody would listen we didn't have a video camera so we couldn't take pictures.  One of the objects stayed pretty low and started heading off behind some trees, we decided to follow after a minute to see if w! e could still see it.  It was in a holding pattern over a main street, it stayed there for at least 20 minutes then  it took off it made other planes in the sky look as if they were standing still. One of my children wrote about it in her journal right away but I held off until Sunday.  It was a wonderful and exciting sight.  I was really upset that nobody would listen to us in the news media and when the news came on later we heard it was "space junk", Who are they trying to kid?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02883.html](http://www.nuforc.org/webreports/reports/002/S02883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A bright green orb seen streaking over Bellingham Washington in a night sky.A large, bright green orb was observed streaking across the Sky from approximately East Southeast to Northwest over the city of Bellingham.  It was observed for about 5 seconds before it disappeared behind a hill to the north of the city.  It appeared to be between 1000' and 1500' in altitude.I am a 61 year old woman who has a college degree and has been self employed for the past 10 years after retiring from a position as a teacher/counselor.  I have two grown sons and three grandsons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94508.html](http://www.nuforc.org/webreports/reports/094/S94508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
