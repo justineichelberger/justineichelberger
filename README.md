@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 14 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Hillsboro (OR) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I by accident photographed with a digital camera a single grey saucer like object with ridges and an oblong portalThe night of the sighting the weather was a low cloud cover and medium to high wind.  There was a moon but it was not visible that night and was far to the east at that time.  I am a public works Inspector and was documenting work a contractor was performing on a signal pole.  I was looking up at the work on the pole and the sky beyond the pole was dark and no image in the sky could be seen with my normal vision.  After taking a digital picture of the pole it was immediately noticed that an image appeared in the background.  The digital camera caught a single grey saucer like figure.  I continued my normal schedule of work for the night and later went back to my office to download the photos.  On my computer screen it was clear that the object had form, shape, distinctive ridges on the outside and an oblong portal.  This photo was taken completely by chance whereas myself and eight others working that night were not aware it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131687.html](http://www.nuforc.org/webreports/reports/131/S131687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacaton (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright green fireball and tail falling toward the ground.I witnessed a bright green fireball falling almost straight down, trailing a bright green trail while driving east on I-10 between Sacaton, AZ, and Casa Grande, AZ, at around 2:45 am.  It was a quick 1 or 2 second sight before it went behind a small mountain I was driving past. I work nights so I was fully awake and aware at the time.I would write it off as a spectacular green falling star except I had seen this same thing back in 2007.  In 2007, I was driving south on I-25 just south of the CO & NM state line when I witnessed the same event.  The only difference was that in 2007, the area was completely open ranch land with rolling hills.  As I approached the area I thought it had gone to ground, I witnessed a green glow in the pre-dawn sky.  After I got closer, I realized the bright green ball of light or fire was hovering around 30-40 ft above the ground.  It had a conical shape light extending from the green ball to the ground that reminded me of a street lamp shining on the ground.  I'm not positive, but I believe the cone shaped light was not green but white or yellow.  As I came over the last hill to where the green ball and cone light were, where I intended to try to photograph with my cell phone, it had disappeared.Unfortunately the green ball & tail I observed last night went down behind that small mountain so I did not see if it hovered as it did the previous time.  I do know that there were a few houses or small ranches in the area, as well as other traffic driving both directions on I-10 so there is a good chance someone else may have observed this event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115345.html](http://www.nuforc.org/webreports/reports/115/S115345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [387](http://www.nuforc.org/webreports/reports/165/S165244.html)
-- [386](http://www.nuforc.org/webreports/reports/165/S165564.html)
-- [385](http://www.nuforc.org/webreports/reports/160/S160637.html)
-- [384](http://www.nuforc.org/webreports/reports/161/S161117.html)
-- [383](http://www.nuforc.org/webreports/reports/160/S160768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
