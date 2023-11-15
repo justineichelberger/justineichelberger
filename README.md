@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:46 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lexington (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Yellow fireball object, viewed from lexinton, NCI was on my way to pick up my son from karate class and while driving I was on the phone talking to my mother. All of a sudden I saw a fireball in the sky It appear going the same direction I was going and I thought a meteorite but as soon as I finishe my thought it stopped...I started to scream on the phone to my mom I have to stop (several times), I stopped and it went down to the left it disappear from my sight (there were trees)for a a second or two. I was static... and I saw it again coming up to the same point in the sky where it had stopped. It was big I put my fist against the fireball shape and I still could see the edges of it; It started moving to the right in a downward direction...same thing happened it disappear from my sight (there were trees) for a a second or two. This time it appeared moving horizontally from right to left and that was it I did not see it again. I waited about 20 minutes just in case but I had to leave and pick up my son (needles to say I was late picking him up). I must have put the Mobile phone down because when I pick it up from the passenger seat my mom was so worried she thought I was in some kind of danger. She said I was saying " oh my god! oh my god!... what the heck is that?...it is here again...where is it going? what is it doing? why is my body tingling (like electricity) I felt like that for a couple of hours (It must have been my adrenaline). I could not appreciate how far it was from my position because it was dark...I think probably a mile or 2.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48115.html](http://www.nuforc.org/webreports/reports/048/S48115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Was on the outskirts of Redding California driving up a hill with a friend (they saw this too). When there was a faint light in the sky caused me to look up. Huge streak falling down like a meteor, but it was Huge.  Then it had a blue explosion and a small orange one.  Object then went behind a mountain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150809.html](http://www.nuforc.org/webreports/reports/150/S150809.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
