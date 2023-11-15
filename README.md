@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:44 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Black disc.  No lights and no exhaust.Oscillating then departed at very fast speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124097.html](http://www.nuforc.org/webreports/reports/124/S124097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Sidney (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small saucer with red, green and blue lights.I saw a UFO when I was 10 years old and to this day remember it succinctly. This was in Sidney, MT (pop - 3000 at the time). It was 9:00 at night when I and my Brother were walking to the grocery store to get candy for my upcoming birthday party. As we were walking down the street we stopped and noticed 3 lights above us. At first we thought it was a prank of some kind but then we both suddenly got a strange (but exciteing) feeling. We did not see the body of this craft...only the lights. They were blue, red and green - 3 of them. They were in the shape of a saucer dish. And I remember the lights seemed to 'jiggle' a little (vibrating with no set rhythm). There was no sound. It was like this thing was on mute. As we were looking at this thing, a 4-wheel drive truck came tearing around the corner and skidded up to a stop right beside us...the driver leaned out his window and said; "did you see that...I've been following it for 1/2 an hour!". And we just pointed upward. Anyway, this thing suddenly disappeared and we scanned the sky and saw it off in a distance at the other end of town. It disappeared again and immediately re-appeared at the other side of town. The only other thing I remember is that it felt like this thing was right above the telephone poles. I still remember thinking that I could have thrown up a rock and hit it if I wanted too.What really surprised us was the next day when there was an article in the local newspaper stating that there were several sightings of a UFO reported to the police station. I need to go back and see if I can retrieve that article somehow (if its possible). I've never spoken of this experience (only to a few people).This happened in Sidney, Montana (November 1977 - early evening - dark out)((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19790.html](http://www.nuforc.org/webreports/reports/019/S19790.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
