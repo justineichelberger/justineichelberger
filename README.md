@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object moved from E.S.E to W.N.W. Slow Speed,High Speed,  No speed.Lots of color.20,000ft.  up, cloudless night, no moon.  8:25 p.m.- 8:35 p.m.Object appeared from over horizion as a white light.  Light turned amber, was round, and quickly,  Fast, it started to write the same thing 3 times.  ABRUPTLY,it stopped. Object was triangular and had randomly flashing red, white, blue, green lights.  Object had no movement for 10 sec.  Next the object turned into  a ball of white and moved like a heart monitor,3 times.  And lastly it took off, blasted away leaving very bright neon like rods emmiting from arounld it.  And that was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08529.html](http://www.nuforc.org/webreports/reports/008/S08529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hermon (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>On Friday November15th a craft of some type was outside my house , at first it was 3 white lights like windows in the craft lit up ,i noticed it watching me rock my grandson to sleep. After i noticed it had shadows in the windows it went black and started flashing a bright blue light from the bottom, the light flashed at a verry odd interval . the craft then moved backwards tward the south west extremely slow approximately 45 feet off the ground. When it came to the tree line it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150862.html](http://www.nuforc.org/webreports/reports/150/S150862.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
