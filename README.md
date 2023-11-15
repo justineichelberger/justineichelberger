@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:31 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Airdrie (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 round dull orange lights traveling one behind the other, same direction and speed above clouds.Airdrie, AB.2019/11/15 @ 1930 SSE over airdrie, 2 dull orange lights above the clouds one behind the other, traveling same direction and same speed and distance. No tails like a fireball meteor. Not as fast either, but still very quick.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150795.html](http://www.nuforc.org/webreports/reports/150/S150795.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Florence (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 9 Miles - 9 Miles minutes.</sub><blockquote><sub>Pulsating light follows car 9 miles in OregonThis is entered as reported to me from my girlfriend.  She was driving in my car along HWY 101 near Coos Bay Oregon at around 1130pm, this is her normal work commute.  She noticed a Bright pulsate white light above the car.  She looked a head of her and saw the object.  She then was under the object and directly beneath it. It was high in the sky but she had to close the moon roof due to the distracting light.  The object followed her for about 9 miles.  She could see the reflection of the pulsating light in the black paint of the car.  Then before she entered the outskirts of Coos Bay it disappeared, not flying off, but vanished.  No missing time was found just this odd sighting.((NUFORC Note:  We do not know what the witness observed that night, but our first suspicion is the planet, Jupiter.  It would be been very bright in the sky, and almost due south of the driver, I.e. directly ahead of and above her vehicle.  If there were not TWO bright objects in the sky, our guess would be she was being "followed" by Jupiter.  Many people have reported Jupiter and Venus to the National UFO Reporting Center.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20930.html](http://www.nuforc.org/webreports/reports/020/S20930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
