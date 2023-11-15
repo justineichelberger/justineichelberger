@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:03 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:09 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West of Gillette (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A falling saucer in Wyoming at night, it left a trail in the sky and landed/disappeared into a fieldWe were driving down I-90 West bound, between mile marker 95 100, at night when a green light suddenly appeared in the sky and shot down into a field. The UFO seemed to falling. It landed in a field with its light on for a moment, before the light died out and it seemed to disappear. There was only one UFO. The light was a saucer shape before it disappeared. The sky had been completely clear and there was nothing in the way of the sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160648.html](http://www.nuforc.org/webreports/reports/160/S160648.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object moved from E.S.E to W.N.W. Slow Speed,High Speed,  No speed.Lots of color.20,000ft.  up, cloudless night, no moon.  8:25 p.m.- 8:35 p.m.Object appeared from over horizion as a white light.  Light turned amber, was round, and quickly,  Fast, it started to write the same thing 3 times.  ABRUPTLY,it stopped. Object was triangular and had randomly flashing red, white, blue, green lights.  Object had no movement for 10 sec.  Next the object turned into  a ball of white and moved like a heart monitor,3 times.  And lastly it took off, blasted away leaving very bright neon like rods emmiting from arounld it.  And that was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08529.html](http://www.nuforc.org/webreports/reports/008/S08529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
