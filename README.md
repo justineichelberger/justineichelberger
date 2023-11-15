@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pompano Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange Sphere goes over Pompano Beach, Florida in seconds!I was walking my dog along the beach.  I saw a round, orange, "ball" coming off the ocean, moving east to west, towards me.  It flew over me, traveled south towards Fort Lauderdale, and after about 3/4 mile, it headed southeast, back over the ocean, but along the coastline.  It took off so fast, literally within 1-2 SECONDS it was out of sight.  It made no sound at all.  Nice orange glow to it, as far as color.  I didn't believe in UFO's before that night.  Sorry this is so late, I just got a computer 3 weeks ago.  I heard you on Art Bell once.  Coming back with him too?  I hope so, thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16457.html](http://www.nuforc.org/webreports/reports/016/S16457.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>how fast they went  up in the sky and what was one doing while standing still till the other one got thereit was 12;3o am we where driving down this road we saw a light in the sky standing still and then a ball of light came flying across the sky with sparks coming out the back of it and stop next to the other one the over one went around the other one back to where it was befor the other got there then the both of ufos went straight up in the sky real fast end of report this all happen november of 2011.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86579.html](http://www.nuforc.org/webreports/reports/086/S86579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
