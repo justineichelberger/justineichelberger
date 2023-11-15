@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 9:00 - 9:00 minutes.</sub><blockquote><sub>On the night o Nov 15 my wife and just got home from shopping and I let our dogs out back went outside with the dogs.  When I heard the dogs looking up in the sky and barking a airline was leaving Sky Harbor.But there was reddish gold light folowing the air plane.  Another airplane and another light the light head south and then was gone.  My wife and watch for eight minutes or more.  There were six or more lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117036.html](http://www.nuforc.org/webreports/reports/117/S117036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object moved from E.S.E to W.N.W. Slow Speed,High Speed,  No speed.Lots of color.20,000ft.  up, cloudless night, no moon.  8:25 p.m.- 8:35 p.m.Object appeared from over horizion as a white light.  Light turned amber, was round, and quickly,  Fast, it started to write the same thing 3 times.  ABRUPTLY,it stopped. Object was triangular and had randomly flashing red, white, blue, green lights.  Object had no movement for 10 sec.  Next the object turned into  a ball of white and moved like a heart monitor,3 times.  And lastly it took off, blasted away leaving very bright neon like rods emmiting from arounld it.  And that was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08529.html](http://www.nuforc.org/webreports/reports/008/S08529.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
