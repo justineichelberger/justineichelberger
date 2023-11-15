@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:49 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:03 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Healdsburg (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Very bright flickering lights hovering over mountain ridge in Russian River/Healdsburg, CAThis was our third night in Russian River and I had not seen anything like this the prior two evenings. These lights were far brighter and much larger than any star, airplane, satellite or tower I had ever seen.  It was a straight line of approximately 7-9 lights, flickering rapidly and hovering over the ridge of the mountain.  It appeared to be a disk shaped object. It was much higher than any tree or structure on the side or top of the ridge.  They were the most brilliant lights I have ever seen, and no one in my party of four could come up with a reasonable explanation for them.  Even though the photograph I took is far from doing it justice, it still shows how much brighter this object was compared to everything else in the sky.  It was still hovering when I went to bed at 12:30am, but gone when I awoke at 7:30am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73331.html](http://www.nuforc.org/webreports/reports/073/S73331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in West of Gillette (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A falling saucer in Wyoming at night, it left a trail in the sky and landed/disappeared into a fieldWe were driving down I-90 West bound, between mile marker 95 100, at night when a green light suddenly appeared in the sky and shot down into a field. The UFO seemed to falling. It landed in a field with its light on for a moment, before the light died out and it seemed to disappear. There was only one UFO. The light was a saucer shape before it disappeared. The sky had been completely clear and there was nothing in the way of the sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160648.html](http://www.nuforc.org/webreports/reports/160/S160648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
