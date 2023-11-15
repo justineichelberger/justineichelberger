@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:45 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>three round lighted objects blinking in sequence then disapeerDriving down 17S looked over to the left sky was black no clouds say three round lights hovering in formation, then the third light blinked out the second blinked out and the first went out.  The third blinked back on the out, second one did same and the first one did the same.  then they were gone.  About 5 min. later saw one of the craft?  blink on and off about ten miles away west and then it was gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48182.html](http://www.nuforc.org/webreports/reports/048/S48182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A white sphere flying from north to south over Santa Fe NM approximately 6pm 11/15/2020A friend and I were standing in the parking lot of his apartment complex. Facing east we were remarking about a bright orange white Starlike object about 35 degrees off the horizon which we decided was probably the planet Mars. I then turn my attention to an object heading from the north headint south. It was flying kind of like an airplane but it did not have any blinking lights it just looked like a small white light sphere. It was luminescent but not particularly bright. Unfortunately my phone battery was dead otherwise I would have filmed it. But was almost beautiful in its simple elegance, like a polished pearl. It was siIent and produced no contrail. It was pretty high up and made very small adjustments to its trajectory but pretty much went in the same direction, north to south the whole time. It's speed seemed pretty constant and steady the whole time but may have slowed down slightly at times. I Wanted to report this sighting in case anyone else aro! und town saw it. Would be awesome if this could be corroborated by other witnesses. This friend and I have both seen UAP on other occasions and so we were not shocked or surprised by the presence of this orb.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160643.html](http://www.nuforc.org/webreports/reports/160/S160643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
