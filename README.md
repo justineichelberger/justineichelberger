@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Twenty Nine Palms (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Fast moving vehicle with no sound.It was a friday night boy scout campout. The scouts were all asleep by 11:30pm but I stayed up to enjoying the smog free sky (200 miles east of LA).At 20 min after midnight I noticed a group of red and white lights, locked together, zooming across the sky at what seemed to be airliner cruise altitude, from east to west.They seemed to be about twice as wide as the jet's light formations. There was one red light in the middle of the group of white lights denoting a diamond or trianlular pattern. These were much, much brighter lights than those of the jets. The red light did not seem to blink, only 'flutter'.They seemed to be running at the same trajactories all the east-west airliners were traveling along.No sound from anything in the sky that night, including the lights in question.Too late in the night and too fast to be satellites.The thing that stood out was that these crossed the sky in 30 seconds.**  All the other jets took 3 minutes. Thats 6 times faster than the jets: which means that the craft was moving at 6*.85Mach = ~Mach 5 if it was at cruise altitude -OR- If it was closer to the ground the speed may be closer to Mach 1 but I should have heard it either through engine noise or sonic boom.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33190.html](http://www.nuforc.org/webreports/reports/033/S33190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Pompano Beach (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright orange Sphere goes over Pompano Beach, Florida in seconds!I was walking my dog along the beach.  I saw a round, orange, "ball" coming off the ocean, moving east to west, towards me.  It flew over me, traveled south towards Fort Lauderdale, and after about 3/4 mile, it headed southeast, back over the ocean, but along the coastline.  It took off so fast, literally within 1-2 SECONDS it was out of sight.  It made no sound at all.  Nice orange glow to it, as far as color.  I didn't believe in UFO's before that night.  Sorry this is so late, I just got a computer 3 weeks ago.  I heard you on Art Bell once.  Coming back with him too?  I hope so, thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16457.html](http://www.nuforc.org/webreports/reports/016/S16457.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
