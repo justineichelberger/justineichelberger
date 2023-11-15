@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:09 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Object moved from E.S.E to W.N.W. Slow Speed,High Speed,  No speed.Lots of color.20,000ft.  up, cloudless night, no moon.  8:25 p.m.- 8:35 p.m.Object appeared from over horizion as a white light.  Light turned amber, was round, and quickly,  Fast, it started to write the same thing 3 times.  ABRUPTLY,it stopped. Object was triangular and had randomly flashing red, white, blue, green lights.  Object had no movement for 10 sec.  Next the object turned into  a ball of white and moved like a heart monitor,3 times.  And lastly it took off, blasted away leaving very bright neon like rods emmiting from arounld it.  And that was it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08529.html](http://www.nuforc.org/webreports/reports/008/S08529.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Ribolt (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Several steady bright orange lights that appeared in succession forming a semi-circle before blinking out all at once.Initially, one very bright orange light with what appeared to be four refraction lines radiating from it, similar to the headlight of an airliner. Before I could say anything, a second, identical, light appeared to the left and slightly up from the first. It appeared as if two planes were in extreme proximity to each other. We stopped the truck (expecting to see a plane crash) and I opened the truck door and looked right at the two lights and then saw four to six more identical lights appear in succession to the left and below the second light, almost evenly spaced and forming a semi circle as the last one or two lights appeared heading back to the right. The light positions remained static, with no change or movement, and the lights remained steady with no flickering. As I grabbed my camera, all of the lights disappeared. It all happened very quickly. The lights were much bigger and brighter than any star and we saw several airplanes as we continued our trip and none of the plane lights remotely resembled what we saw. We mentioned to many people and no one else saw it, however, a friend said she saw similar lights at her farm in the far southeastern part of this county about a month ago and she was relieved that we saw what we did. There was no sound. I've seen a lot of strange things in the sky over the decades but this is the first one that I can't come up with a rational explanation for.((NUFORC Note:  Please see report from Ringold, OH, for same date, and same approximate time.  We are grateful to this MUFON member for sharing her report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20469.html](http://www.nuforc.org/webreports/reports/020/S20469.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
