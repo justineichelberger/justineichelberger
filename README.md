@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.5 - 2.5 minutes.</sub><blockquote><sub>6 unknown lights traveling in a straight lineOn November 16 1999 at 19:05 hours I was walking out of my local grocery store when I noticed the largest object in the sky I have ever seen it was a line of six yellow/white lights traveling in a southwesterly direction at an extremely low rate of speed, I was able to view these lights for a period of 2 minutes 30 seconds until they went away as if someone had thrown a switch to turn them off. I am a 31 year old male who has worked in the security field for the last 13 years so I am trained to notice detail and times that unusual events occur. I also attended College at Wright State University Dayton Ohio and Lived on Campus which was right in the flight path for all aircraft landing at Wright-patterson airforce base so I am familiar with all conventional aircraft and I had never before seen an object of this type</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11116.html](http://www.nuforc.org/webreports/reports/011/S11116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 2 Orange orbs in the sky one was stationary and the other came up from the ground to the stationary orb.  They then rotated, became one and then disappeared.  I have also taken a video of the event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151316.html](http://www.nuforc.org/webreports/reports/151/S151316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
