@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was rock shape fire balls moving very slowly Over the raped station it was coming from east to west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10758.html](http://www.nuforc.org/webreports/reports/010/S10758.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was picking up my fiance from work.  While standing outside a noticed a picular object in the sky. at fist i thought it was an airplane but it went to fast and flew to close to be an airplane.At about 6:15 pm i went to pick up my fiance at his office where he worked.  I went out of my car to knock on the door and waited while he came to open the door.  After a while looked up into the sky.  I was a beautiful night.  As I looked I noticed an object in the sky.  At first I thought it was an airplane but it was flying too close and too fast.  In comparison to an airplane i would say to probably flow 10 times as fast.  I've watched airplanes fly across the sky before but no normal airplane goes that fast.  It also eluminated a bright green light, which was constant.  My Fiance came out and was also stunned.  It flow as if to go right over the horizon.  i also noticed alot of air traffic.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10949.html](http://www.nuforc.org/webreports/reports/010/S10949.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
