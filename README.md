@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:39 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Berks County (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Tow lights moving together picked up speed and streaked across the sky, as they made a sharp turn.I had just arrived home from work that night at about 11:30 pm, when I got out of my car I looked up in the eastern sky. I saw two "big stars" moving slowly side by side, then suddenly they streaked across the sky to the north and made a very sharp right angle turn. They just flew out of sight at a very high rate of speed, sort of like a shooting star. The thing is I've seen thousands of shooting stars in my life and never have I seen two together moving slowly, then speed up, move together and turn together at an extremely hard right. It happened so fast and then it was gone, I wish it would have lasted longer or I could see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12911.html](http://www.nuforc.org/webreports/reports/012/S12911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>it floated past inside a haseMe and my wife were sitting on our balcony when a strange auror or hase that was green with a big disk in the middle floated past and kept hovering for about half an hour then dissapeared into the mist that had formed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40882.html](http://www.nuforc.org/webreports/reports/040/S40882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
