@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:41 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Heading eastbound on rt4. western outskirts of Springfield,Oh noted a single white fireball about60 deg from the north horiz. and dead 90 deg east. my cords. are 39deg49'28" N,83deg 49'31" w . Fireball broke into 3 parts. changed colors to blue, green, then red the orsnge like embers decreasing in brightness while changing color. dissappearing in the easten horizon.While eastbound on state route 4 noticed a bright fireball coming from the west heading east. The fireball was white in color, then I noticed in seemed to break into 3 separate, and smaller pieces. The 3 pcs where moving almost in a row. I noticed that the objects where bright enough to make the vehicles in front of me to cast slight shadows. The objects changed color quickly to blue , then yellow, green, then red, finally orange amber. As the colors changed, the brightness dimmed respectively.  By the time the objects turned amber, and dim They disappeared over the eastern horizon.about 10 degrees south. I was 4 miles from home at this time. My home co-ords are: 39deg 55'28"N, 83deg 49'31"W. When I first noticed the single object, it was appx 60 deg from north horz. and 90 west(exact middle of sky east to west). About 5 seconds later it divided into 3 then, it took about 50 seconds or so untill they disappeared from my view. I don't do drugs, and had not been drinking. I'm a quality engineer by profession. Have been an amateur astronomer since childhood. Have NEVER seen anything like this before. At first I thought it was a meteor, but knowing Leonids comes from almost the opposite direction, I think this might have been space junk. This event was similar to fireworks. It appeared  to be losing altitude, thought it was going to crash at first. It would be interesting to find-out what this is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11101.html](http://www.nuforc.org/webreports/reports/011/S11101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ripon (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large dome of green light, no trails, no visible singular location of the light.Was driving northbound on highway 99 and saw a large dome of green light fill up the western part of the sky.  Lasted approximately 10 seconds.  No noise was heard though I was in a car, so I can't confirm whether or not it was silent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124113.html](http://www.nuforc.org/webreports/reports/124/S124113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
