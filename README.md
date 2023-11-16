@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:44 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Burtons Bridge (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Horizon to horizon in 10 seconds. Fireball (short tail & enormous vapor trail).Appeared at the western horizon similar to a helicopter light , bright but with an orange glow. As the object crossed from west to east it appeared to narrowly miss a plane , on its landing path into Chicagos O'hare Airport , about 30 degrees on the horizon. On approach it was obvious it was not a helicopter or headlight on an airplane. Its appearance was that of a fireball. It had a greenish metalic core surrounded by an orange glow. It could have been flaming except it did'nt have a flaming tail but it did leave an extremely large vapor trail in its wake. My second thought was a meteor but the size of it (a dime held at arms length) I was waiting for a catastrophic explosion similar to when the dinosaurs became extinct but that did'nt happen. Ther were four small 24 carot gold colored objects following directly behind it changing positions with each other rather than falling like a spark would. This object or objects passed overhead from horizon to horizon in approximately 10 seconds. It did not fall from the sky but flew from west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11234.html](http://www.nuforc.org/webreports/reports/011/S11234.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alto (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orange lights move in formationI went to look out the window before heading up to bed around 11:50-midnight.  It was foggy but there was a crystal clear sky above.  Lots of stars visible.  But also, above the eastern horizon, above the tree line (25-45 degrees above the horizon I’d guess) was three bright orange/gold lights, like fireballs perhaps or like the golden glow of  burning bits from a firework that fall to the ground at the 4th of July.  They were, of course, in a triangle formation being three of them but they were configured in a way that appeared as if they were attached to a monstrous jet plane.  The lights were brighter than any star in the sky and bigger too.  It did not appear to be moving much at first but looked as if it were perhaps coming at us.  My husband joined me at the window to see.  It turned,  all three lights in formation, to the north as if it were a jet banking to land and began to head in that direction.  I ran outside to see if I could hear anything but t! here was no sound and by the time I got out there it was fading and I watched the last light trail off to the north until it disappeared/burned out.  There was no noticeable flickering, barely a wavering of the light but it faded to a darker gold/brown before disappearing completely as a coal extinguishing slowly.  All of the movement was very slow, no sharp turns or sudden acceleration.  We thought first of the leonid meteor shower and hoped it was related but neither of us had seen any meteor behave in such a way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94556.html](http://www.nuforc.org/webreports/reports/094/S94556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
