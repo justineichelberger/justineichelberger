@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:44 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oakbrook (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a large bright light, green in color with a tail with 2 smaller balls in the tale, floating from east to west below the planes circling Ohare airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10592.html](http://www.nuforc.org/webreports/reports/010/S10592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Burtons Bridge (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Horizon to horizon in 10 seconds. Fireball (short tail & enormous vapor trail).Appeared at the western horizon similar to a helicopter light , bright but with an orange glow. As the object crossed from west to east it appeared to narrowly miss a plane , on its landing path into Chicagos O'hare Airport , about 30 degrees on the horizon. On approach it was obvious it was not a helicopter or headlight on an airplane. Its appearance was that of a fireball. It had a greenish metalic core surrounded by an orange glow. It could have been flaming except it did'nt have a flaming tail but it did leave an extremely large vapor trail in its wake. My second thought was a meteor but the size of it (a dime held at arms length) I was waiting for a catastrophic explosion similar to when the dinosaurs became extinct but that did'nt happen. Ther were four small 24 carot gold colored objects following directly behind it changing positions with each other rather than falling like a spark would. This object or objects passed overhead from horizon to horizon in approximately 10 seconds. It did not fall from the sky but flew from west to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11234.html](http://www.nuforc.org/webreports/reports/011/S11234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
