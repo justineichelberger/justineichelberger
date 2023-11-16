@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 15 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>how fast they went  up in the sky and what was one doing while standing still till the other one got thereit was 12;3o am we where driving down this road we saw a light in the sky standing still and then a ball of light came flying across the sky with sparks coming out the back of it and stop next to the other one the over one went around the other one back to where it was befor the other got there then the both of ufos went straight up in the sky real fast end of report this all happen november of 2011.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86579.html](http://www.nuforc.org/webreports/reports/086/S86579.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Berks County (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Tow lights moving together picked up speed and streaked across the sky, as they made a sharp turn.I had just arrived home from work that night at about 11:30 pm, when I got out of my car I looked up in the eastern sky. I saw two "big stars" moving slowly side by side, then suddenly they streaked across the sky to the north and made a very sharp right angle turn. They just flew out of sight at a very high rate of speed, sort of like a shooting star. The thing is I've seen thousands of shooting stars in my life and never have I seen two together moving slowly, then speed up, move together and turn together at an extremely hard right. It happened so fast and then it was gone, I wish it would have lasted longer or I could see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12911.html](http://www.nuforc.org/webreports/reports/012/S12911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [607](http://www.nuforc.org/webreports/reports/165/S165796.html)
-- [606](http://www.nuforc.org/webreports/reports/165/S165620.html)
-- [605](http://www.nuforc.org/webreports/reports/165/S165797.html)
-- [604](http://www.nuforc.org/webreports/reports/165/S165603.html)
-- [603](http://www.nuforc.org/webreports/reports/165/S165591.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
