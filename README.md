@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An orange and red ball of fire was seen South of Topeka Ks arching across the sky from west to east.before burning out.We were on our way back home just South of Topeka Ks. when we both saw a fireball shooting from the west to the east in the sky and then burning out.  You could see orange and red flames of fire shooting off of it as it arched across the sky.  It was not like a falling star.  The sky was clear with stars and dark.((NUFORC Note:  Possible meteor from the Leonid Meteor shower??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115410.html](http://www.nuforc.org/webreports/reports/115/S115410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Oakbrook (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a large bright light, green in color with a tail with 2 smaller balls in the tale, floating from east to west below the planes circling Ohare airport</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10592.html](http://www.nuforc.org/webreports/reports/010/S10592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
