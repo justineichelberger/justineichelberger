@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lawton (OK) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2 crescent shaped lights moving and changing into "rockets" with red flames, and no white streaks behind them.At about 5:30 PM,  I was driving into Duncan, Oklahoma in Stephens County, heading straight west on Highway 7.  The sun was setting, already below the horizon.  Looking north of the setting sun, were two crescent shaped lights.  fairly large, with the convex pointing down.  As I watched, the two lights got closer together.  I made a turn and lost sight of lights.  When I turned west again, at about 5:37 PM, one light had turned around, changed shape into what looked like a rocket heading straight down towards Earth and the other craft.  But there was no white streak behind it, and red flames coming from the back of the craft.  (the red flame looked like magnesium burning, color-wise).   Then  as I watched, at about 5:40 PM, the second craft (which kept its crescent shape, and was stationary until now) changed into a rocket (also with no white streak behind it, and a red-magnesium burning flame) and headed straight up into the sky away from the other craft.  these two flight paths continued until about 5:50 PM, when the second craft disappeared from view and the first craft changed its course to run parallel with the horizon.  By 5:55 PM,  the first craft had moved back up into the sky, and changed into a stationary bright light, looked like a star.  Except that where it was stationary at, the sky was still light, not dark enough to see stars yet.  By 6:20 PM, when I reached Lawton, Oklahoma, Comanche County, the light was still stationary, the sun had set completely, and I stopped watching.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33158.html](http://www.nuforc.org/webreports/reports/033/S33158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Multi-colored fiery ball that created a tail like a meteor; lasted 5 seconds and disappeared.I was just driving back home from work heading South on US 19.  Right in front of me, this streak of multi-colored brightness with a huge tail streaks across US 19 heading east to west towards Dunedin.  It was like a missile and it lasted for about 5 second and then just vanished.  It was flying at an angle that would suggest it falling and appeared the way you would think something would catch on fire and create a tail if you threw it.  It wasn't a reflection because I ALWAYS ride with my visor up on my helmet to let air flow in my face and I wear HD anti-reflective lenses in my glasses.  Upon telling my story on my facebook, it turns out that one of my co-workers who drives the same way home and was a minute in front of me saw it as well.  Could not have been firework due to size, angle, and demeanor.  We are very close to airports so I definitely saw planes in the sky as well.  I literally thought a plane was crashing or I was about to see a mushroom cloud on the ! horizon.  I was mentally preparing myself for a shockwave to hit me off my motorcycle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124144.html](http://www.nuforc.org/webreports/reports/124/S124144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
