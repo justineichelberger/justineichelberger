@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lakeville (MN) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Driving south on I-35 southbound driver and passenger witnessed a white ball of light falling just south of Lakeville mcstop.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We suspect the sighting was at night, and have amended the time above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115406.html](http://www.nuforc.org/webreports/reports/115/S115406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cincinnati (eastern outskirts) (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.15 - 0.15 minutes.</sub><blockquote><sub>large, slow moving green fireball with green and yellow tale, dropping reddish sparks, moving from south/south west towards north/north eastWhile driving Interstate I-275 west bound, at approximate mile marker 58, I observed a large green fireball moving from a direction from south  by south west towards north by north east at 7:10 pm est. This object had a tale extending at least four moon widths in length dropping material of a reddish color as it traversed very slowly across my field of view. I watched and slowed down as 9 to 11 seconds of time elapsed, and the object seemed to not change in intensity or size, but went over the northeastern horizon. The magnitude of this object rivaled the half moon present at the time. An accurate indication altitude was not readily apparent to me at the time, but the feeling I got was that it was large and not high up, moving very slowly for a meteor. My crude estimate of altitude is 3-4 miles.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10773.html](http://www.nuforc.org/webreports/reports/010/S10773.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
