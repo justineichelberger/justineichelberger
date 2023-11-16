@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alto (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three bright orange lights move in formationI went to look out the window before heading up to bed around 11:50-midnight.  It was foggy but there was a crystal clear sky above.  Lots of stars visible.  But also, above the eastern horizon, above the tree line (25-45 degrees above the horizon I’d guess) was three bright orange/gold lights, like fireballs perhaps or like the golden glow of  burning bits from a firework that fall to the ground at the 4th of July.  They were, of course, in a triangle formation being three of them but they were configured in a way that appeared as if they were attached to a monstrous jet plane.  The lights were brighter than any star in the sky and bigger too.  It did not appear to be moving much at first but looked as if it were perhaps coming at us.  My husband joined me at the window to see.  It turned,  all three lights in formation, to the north as if it were a jet banking to land and began to head in that direction.  I ran outside to see if I could hear anything but t! here was no sound and by the time I got out there it was fading and I watched the last light trail off to the north until it disappeared/burned out.  There was no noticeable flickering, barely a wavering of the light but it faded to a darker gold/brown before disappearing completely as a coal extinguishing slowly.  All of the movement was very slow, no sharp turns or sudden acceleration.  We thought first of the leonid meteor shower and hoped it was related but neither of us had seen any meteor behave in such a way.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94556.html](http://www.nuforc.org/webreports/reports/094/S94556.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Howell (5 mi. N of, on a dark country road) (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A long line of white lights moving from W to E, absolutely static and rigid, no blinking or sparks, no movement in relation to the other lights, no noise.I saw a line of white lights move from W-SW to E-NE, but generally from W to E.  The lights never blinked, burned out, left sparks or changed position relative to each other.  They were spaced roughly evenly apart, with some a little higher or lower than the centerline of the formation. The length was equivalent to a grapefruit held at arm's length. The sky was clear with no stars and a half moon.  The unusual thing about this was that the formation was absolutely rigid from horizon to horizon.  I've seen meteors before, and this did not look like that.  It could have been a solid object.  The altitude could have been 5,000 ft. or 50,000 ft., it was hard to tell.  I was looking about 45-60 deg. up from the south horizon as the formation moved W to E. There were two other planes far away, but none near or chasing the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10921.html](http://www.nuforc.org/webreports/reports/010/S10921.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
