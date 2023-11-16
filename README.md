@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in St. George (SC) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On 11-16-13, between the approx. hours of 05:30  05:50, I was in the deer stand hunting waiting for sunrise when I observed three white balls of light.  The first was traveling in a NE direction, the second was approx. 3 degrees to the west of the first on and was traveling in a SW direction and the third was approx.  2 degrees west of the second headed in a northern direction.  All three were moving faster than any conventional aircraft that I have seen and all three just blinked out and disappeared.   My location was  33-16-34 N / 80-36-43 W</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104557.html](http://www.nuforc.org/webreports/reports/104/S104557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An orange and red ball of fire was seen South of Topeka Ks arching across the sky from west to east.before burning out.We were on our way back home just South of Topeka Ks. when we both saw a fireball shooting from the west to the east in the sky and then burning out.  You could see orange and red flames of fire shooting off of it as it arched across the sky.  It was not like a falling star.  The sky was clear with stars and dark.((NUFORC Note:  Possible meteor from the Leonid Meteor shower??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115410.html](http://www.nuforc.org/webreports/reports/115/S115410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
