@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 16 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Ripon (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Large dome of green light, no trails, no visible singular location of the light.Was driving northbound on highway 99 and saw a large dome of green light fill up the western part of the sky.  Lasted approximately 10 seconds.  No noise was heard though I was in a car, so I can't confirm whether or not it was silent.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124113.html](http://www.nuforc.org/webreports/reports/124/S124113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Middletown (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I observed a huge, silent, pale green triangular object moving east over the city.My neighbor had just had surgery and she had asked me to put a note on her mailbox telling the mailman to leave any packages at my address. It was approximately seven p.m. when I taped the message on the mailbox and was walking back to my house.   I suddenly saw something huge over my right shoulder.  It seemed to be only about a block away.  It was shaped like a long triangle- almost like a cone on its side.  It was made up of pulsating pale green lights, and it was moving east very slowly.  I looked around to tell someone--I know my mouth had dropped open. My labrador retriever was waiting at the gate for me, but he was the only one around.  I actually started to stop a car that was coming toward me from the direction of the object, but by that time it was disappearing behind the houses.  I estimate it was visible for about ten seconds.  It's difficult to gage the size of the object, because I'm sure my perception cannot be correct.  It seemed to be the size of a semi-truck less than a block away. I came inside and told my family, then I called the police department to see if anyone else had seen this huge green triangle over Central Avenue.  The dispatcher said yes, it was a meteor shower.  That's what everyone is seeing. I'm sure everyone who sees what I saw tonight will be told it was a meteor shower. But what I saw appeared to be some kind of machinery.  A giant, silent piece of machinery.  Shortly after I called the police we noticed an unusual number of planes in the area. I have no idea what kind of machine I saw.  I wonder if Wright Patterson has something unworldly going on.  I don't know, but this is what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10974.html](http://www.nuforc.org/webreports/reports/010/S10974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [565](http://www.nuforc.org/webreports/reports/165/S165788.html)
-- [564](http://www.nuforc.org/webreports/reports/165/S165795.html)
-- [563](http://www.nuforc.org/webreports/reports/165/S165799.html)
-- [562](http://www.nuforc.org/webreports/reports/165/S165794.html)
-- [561](http://www.nuforc.org/webreports/reports/165/S165791.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
