@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very bright high flying Orange Triangle over San Francisco during Leonid Meteor showerI was watching the Leonid Meteor shower and had been observing it comfortably and consistantly for several hours.  The shower had not been very strong until approximately 02:00 in our area,  the cloud cover was minimal, and I was able to identify many constellations, paying particular attention to the East where the news reports said to look for the shower to develope.  Very clearly on the East horizon there appeared a very high and extremely bright orange light surrounded by a hazy triangular or slightly arrowhead shape that crossed slowly across the sky directly overhead.  I've seen the shuttle re-entry overhead at night when told to look for it and it was similar in approximate altitude/size/shape but not in color.  The shuttle appeared pinkish.  The object simply SLOWLY crossed overhead horizon to horizon EAST TO WEST DIRECTLY OVERHEAD.  It took approximately 30 seconds. THE REST OF THE EVENTS THAT NIGHT WERE IN NO WAY SIMILAR.  I observed scores if not hundreds of extemely fast moving white and yellowish/white streaks moving almost entirely in the opposite direction, West to East.  These seemed to be the typical meteroites that I have observed for years.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12931.html](http://www.nuforc.org/webreports/reports/012/S12931.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red light moves at excessive speed, stays absolutely still and changes direction abruptlyI was in my front yard when I saw what I thought was a skyrocket.  It was bright red, like police lights but not flashing.  I watched it going up waiting for it to explode.  It stopped dead still for about 5 seconds then took off at a very high rate of speed and stopped abruptly for a split second, then changed direction and flew slowly out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94574.html](http://www.nuforc.org/webreports/reports/094/S94574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
