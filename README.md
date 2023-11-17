@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stafford (VA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My husband and I saw a swarm of bright-colored (red and white) objects floating noiselessly very low to the ground.On November 17, 2012, at approximately 6:30 p.m. my husband was outside and called to me to come quickly. I ran outside, and we saw a swarm of bright-colored objects floating noiselessly very low to the ground.  We live in Stafford, Virginia, near the Quantico Marine Corps Base, so we thought at first that it might be a group of helicopters, but there was no noise at all.We estimate there were more than 10 and less than 20 of these floating objects. They had bright red and white lights and moved quickly from northeast to southwest.  I could not get a good sense of whether they were sphere-like or boomerang in shape, but they seemed to cluster together and move effortlessly.  Some appeared to hover and loop back, while others kept floating at a quick pace across the sky above power line level.I have never before seen anything like this nor have I reported any such incident. As quickly as they crossed the sky, they seemed to vanish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94592.html](http://www.nuforc.org/webreports/reports/094/S94592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Colchester (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White orb of light hovering and movingWhite orb of light was hovering about 50 feet off the ground across the street from my house. It occasionally would around in different directions but never strayed too far from its spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160674.html](http://www.nuforc.org/webreports/reports/160/S160674.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
