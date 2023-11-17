@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Chardon (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Low-flying triangular craft with white lights and red blinking light seen over ChardonLow-flying triangular object seen slowing flying east over Chardon, Ohio, at 7:20 p.m. on November 17, 2015.  White lights outlined the triangular craft with a red blinking light in the center.  It made a sound in the atmosphere like an airplane, but it was flying too slow to be a plane.Drone?  Military aircraft?((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124165.html](http://www.nuforc.org/webreports/reports/124/S124165.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Sitting in hot tub and witnessed a round object with proportionally spaced white lights go by between 500 to 1000 feet. No sound. Looked like a wheel hub.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150818.html](http://www.nuforc.org/webreports/reports/150/S150818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
