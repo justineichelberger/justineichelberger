@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yes I saw the same thing as first video on websitehttp://www.huffingtonpost.com/2015/01/26/orange-yellow-ufos-over-florida_n_6544420.html but far southwest sky from Miami Gardens on late night of November 17th (think was correct date), definitely just within  past week.   I also had witnesses that saw same thing, but we saw 4 in almost a square design and a 5th appeared but soon went low below tree lines.  Al seem to disappear but unk where.  They appeared round , red, in sync.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124186.html](http://www.nuforc.org/webreports/reports/124/S124186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>large Reddish White fireball coming through the foggy sky near Newark Airport.On November 17th at 18:45 driving off exit 14 heading on to Route 78 west we saw a large Reddish White fireball coming through the foggy sky, going very fast on a 45 degree angle heading towards Newark airport. It was very foggy that night yet we could still see this object.  My wife thought it might hit a plane that was landing.  After I passed the toll we could see a large tail of smoke in the foggy shy.  What was a little weird was that the line was not straight but zigzagged back and forth.  I checked the news and no one else reported this sighting.  My observation was that it might be a Meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104554.html](http://www.nuforc.org/webreports/reports/104/S104554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
