@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Beavercreek (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>Hovering light over Beavercreek tree lines off Beeson roadOpened SkyView app to ensure these were not star formations, discovered what I thought was one flickering light hovering over the tree line was actually two, you could see the bottom one hovering below the first light, they stayed like this for about an hour, possibly cylinder shape considering I never see them separate completely.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143810.html](http://www.nuforc.org/webreports/reports/143/S143810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Tellico Plains (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>On Sat. Nov 17th, while viewing the Leonid Meteor shower from a scenic overlook on the Cherohala Skyway outside of Tellico Plains, TN, I noticed what at first looked like a bright star, about 150% the size of the planet Venus, above the ridge of a distant mountain.As I looked back at the object a second, and third, time, I could see that something was just "different" with this "star".  At this point I asked the two people with me to take a look as well.  With their younger eyes they verified that it couldn't be a star, insomuch as it was showing two separate colors, green, and, yellow.At this point, we pulled out the binoculars for a closer look, and could just discern an irregular shape, as well as a twinkling, or pulsing of the colors.  Also, we noticed that the object had risen higher above the ridge line, and seemed to be a bit further away.Our total viewing time was approximately 30 minutes before we were forced to leave the mountain due to the cold temperature. As we departed, the object was still in it's position, ruling out the possibility of an aircraft. Also, with the 25 mph (est) winds that were blowing, a weather ballon would have long since been blown away.This one goes down as "unidentified" in my book.((NUFORC Note:  We suspect the witnesses may have been observing a star, perhaps "Sirius," which rises in the east.  The date of the sighting appears to be Sunday morning, November 18; we have changed the date here.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20478.html](http://www.nuforc.org/webreports/reports/020/S20478.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
