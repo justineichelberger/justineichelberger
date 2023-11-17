@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:42 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:28 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Suffolk (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It looked like the space station with smaller crafts coming from it.It looked like the space station with smaller crafts coming from it, going to the ground and going back up to the larger craft, they went back and forth many times.  After 30 minutes I got tired of watching them and went back inside and went to bed.  I saw the crafts in the south-west skies.  I could hear dogs barking from a distance. Skies were clear.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125965.html](http://www.nuforc.org/webreports/reports/125/S125965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stony Brook (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Mysterious flying object appears around an engineering buildingAs i was walking back from class, this mysterious flying objects that looked like UFOs circled around one of the engineering labs on stony brook university campus. i was a little freaked out so i ran back into my room. They were fully metallic, at first i thought it was a plane, and then i remembered all of the UFO movies that i watched and concluded that it was a UFO. I am a white male that is part of stony brook's TV program, SBU TV and currently work for TV 55.((NUFORC Note:  Possible hoaxed report, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66966.html](http://www.nuforc.org/webreports/reports/066/S66966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
