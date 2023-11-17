@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Noiseless, triangular craft spotted flying low over Phoenixville, PA parking lotAt around 8:15 PM EST last night (Wednesday, November 17, 2021), while walking across the parking lot of the 200 Mill Road, Phoenixville, PA Target store, I noticed a craft with an odd configuration of lights flying low over the surrounding parking lots/shops. It approached from the West. I fully expected to see the plane turn toward nearby Limerick airport and to hear a propeller as it approached - but there was absolutely no typical small plane noise. It was noiseless. I noticed that the lights, which were positioned in the shape of an equilateral triangle, blinked in an irregular fashion. All of the lights seemed to be white or yellow. As the craft approached, I was stunned by the fact that at the height at which it was flying, I could clearly make out the shape of a dark triangle: not a two-winged airplane. There were not enough stars visible to be able to tell whether the center of the object was a void or not, though I thought I could make out the edge! s of the triangle. Instead of passing over the parking lot where I was standing, the craft banked in a southeasterly direction toward Norristown, which is the beginning of the more densely populated area stretching toward Philadelphia. That was a head scratcher. Maybe I was looking at a classified drone returning to an airbase to the East? Frankly, I was so intent on trying to rule out a UAP while observing the object that I didn’t pay any attention to whether others were seeing the same thing. Did any one else see this object in Phoenixville or surrounds on November 17?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165800.html](http://www.nuforc.org/webreports/reports/165/S165800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Freehold (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>an unidentifed flying object along with a smaller object hovered for a short period of time before disappearingwhile driving shortly before sundown a bright circular object was seen hovering  in the sky. to the left of this object was a smaller circular object that appeared to be flying in and out of the larger object. there were no stars in the sky at this time. the object appeared to get lower and lower and a red and orange glow was coming from the bottom at times. the object then disappeared after about an hour and a half from our view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15005.html](http://www.nuforc.org/webreports/reports/015/S15005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
