@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Colchester (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>White orb of light hovering and movingWhite orb of light was hovering about 50 feet off the ground across the street from my house. It occasionally would around in different directions but never strayed too far from its spot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160674.html](http://www.nuforc.org/webreports/reports/160/S160674.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wrightsville Beach (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 75.0 - 75.0 minutes.</sub><blockquote><sub>11/17/09 a disc w/ flashing lights hovered off coast of NC for 1hr+ moving horizontally then climbing off at a steep angle.While observing the meteor shower on November 17, 2009, we noticed an object North-northeast from Wrightsville Beach, N.C., hovering over the Atlantic Ocean.  Multi-colored flashing lights, including orange, yellow, red, blue, and purple changed around perimeter causing what appeared to be a spinning effect.  It occasionally moved horizontally but primarily maintained a fixed position approximately 20 degrees above the horizon.  As the meteor shower dissipated, a civilian or military aircraft flew past the object which then slowly moved away at a steep angle allowing the disc shape to be seen more clearly.  It could be seen with the naked eye and, in more detail, through Tasco Offshore 21  7x50mm binoculars.  This was witnessed by a 50 year old professional person and spouse along with a high school sophmore and two college students.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73348.html](http://www.nuforc.org/webreports/reports/073/S73348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
