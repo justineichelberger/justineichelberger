@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Phoenixville (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Noiseless, triangular craft spotted flying low over Phoenixville, PA parking lotAt around 8:15 PM EST last night (Wednesday, November 17, 2021), while walking across the parking lot of the 200 Mill Road, Phoenixville, PA Target store, I noticed a craft with an odd configuration of lights flying low over the surrounding parking lots/shops. It approached from the West. I fully expected to see the plane turn toward nearby Limerick airport and to hear a propeller as it approached - but there was absolutely no typical small plane noise. It was noiseless. I noticed that the lights, which were positioned in the shape of an equilateral triangle, blinked in an irregular fashion. All of the lights seemed to be white or yellow. As the craft approached, I was stunned by the fact that at the height at which it was flying, I could clearly make out the shape of a dark triangle: not a two-winged airplane. There were not enough stars visible to be able to tell whether the center of the object was a void or not, though I thought I could make out the edge! s of the triangle. Instead of passing over the parking lot where I was standing, the craft banked in a southeasterly direction toward Norristown, which is the beginning of the more densely populated area stretching toward Philadelphia. That was a head scratcher. Maybe I was looking at a classified drone returning to an airbase to the East? Frankly, I was so intent on trying to rule out a UAP while observing the object that I didn’t pay any attention to whether others were seeing the same thing. Did any one else see this object in Phoenixville or surrounds on November 17?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165800.html](http://www.nuforc.org/webreports/reports/165/S165800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Waupaca (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3 - 0.3 minutes.</sub><blockquote><sub>bright amber lights going on and off in a pattern then stopped  abruptley and stoppedI saw what I first thought was an aircraft of sorts.  There were several amber lights in a row.  It appeared to be 2 separate objects because of the distance apart.  The lights went on and off in some sore of pattern.  I watched as I was driving and the lights continued going on and off in a pattern of sorts.  I slowed way down (I was only going about 30mph just after an exit ramp) to look closer and the lights just went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40675.html](http://www.nuforc.org/webreports/reports/040/S40675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
