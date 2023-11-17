@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Newark (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>large Reddish White fireball coming through the foggy sky near Newark Airport.On November 17th at 18:45 driving off exit 14 heading on to Route 78 west we saw a large Reddish White fireball coming through the foggy sky, going very fast on a 45 degree angle heading towards Newark airport. It was very foggy that night yet we could still see this object.  My wife thought it might hit a plane that was landing.  After I passed the toll we could see a large tail of smoke in the foggy shy.  What was a little weird was that the line was not straight but zigzagged back and forth.  I checked the news and no one else reported this sighting.  My observation was that it might be a Meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104554.html](http://www.nuforc.org/webreports/reports/104/S104554.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ekron (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11-17-11 Ekron, KY, disc, 30 minutes,  yellowish, posted 11-18-11I was driving and noticed a continuous appearance of what resembles white smoke, eg., a segment of vapor trail on the Western horizon. I stopped my SUV and took photos, my camera blinking red signals, cows and horses in an adjoining field acting weird.  The first photo showed nothing, with the second showing an elliptical disc, resembling a comet's head, the third showing a round disc. Definitely not a star nor the moon rising.  Photos available upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85385.html](http://www.nuforc.org/webreports/reports/085/S85385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
