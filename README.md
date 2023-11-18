@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:32 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kissimme/Champions Gate (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Possible UFO Filmed near Disney - UFO appeared in the distance and  descended at a slow rate.I was driving Westbound on I-4 at about exit 62, when I looked at the sky and saw what at first glance looked like a comet or shooting star.  I began staring at the object as it didn’t appear to be moving very fast all and almost looked as though it was descending from the Earth’s atmosphere.  It looked like a fireball and left a type of fiery trail.  After watching the object slowly descend for about 10 minutes I then decided to grab my phone and begin recording.  I appeared to be the only one who noticed it as the other people in the cars around me appeared to be focused on other things (mostly their cell phones).  I continued to watch the object while filming and saw it what I can only explain as course correct as it stop descending and slowly turned righ and then continued to again descending downward at what looked like a 90 degree angle.  After the object had descended for what I cie we was about 15 minutes or so the fireball and trail disappeared and it just! looked like a glowing metallic oblong object.  I filmed for about 10 minutes before completely losing sight of the object due to an apartment building blocking my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137348.html](http://www.nuforc.org/webreports/reports/137/S137348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.3 - 1.3 minutes.</sub><blockquote><sub>long shape with red & yellow going around with no en trail nor wings going around and aroundWhile waiting for the bus looking at the morning moon and admiring nature itself, I saw a object going around in a circle at the distance in the sky it may have been about a mile or so going around but the height was Very Far in the air off of the flight path of intercontinental flights (I have always took interest in my fathers joy of watching airplanes so I know the difference also being a RC Buff 8 ground R/C's and 4 Air R/C's)  Also I know there is only one frequency to get at least 10 miles or better and that's UHF band but the control and distance was far beyond that of any UHF band I have ever seen or read about also at the height it was there should have been a en trail but none living in this area for as many years that I have been I know the flight paths of our airports and flight areas for the R/C planes but this was neither because it just appeared then circled and then in a flash it was gone as for the color I saw red along the sides outlined with! a yellow.....     I find it strange that I was the only person whom saw it I even raised my Shades to see it and saw it and keeping my eye trained on it to ask the two other people who where at the bus stop did they see it is when it is when it disappeared never to be seen again in my eye.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131254.html](http://www.nuforc.org/webreports/reports/131/S131254.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
