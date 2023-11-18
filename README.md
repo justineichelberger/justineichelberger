@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:32 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:28 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Martinez (CA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Inverted Teardrop-shaped UFO Martinez, CA.My wife, an amateur astronomer, who has for years enjoyed meteors and satellites, just walked in from outside (she was looking for more Leonids) and said she saw a UFO.  I quickly wrote down what she saw.  This happened less than 20 minutes ago.  No wind, temp 54 F., cloudy with patches of haze.  My wife saw an object that was an inverted teardrop shape, a dull brick red (possible dull glow), around 1/8th the size of the Moon, no noise, heading northwest in an ARC, at a slow pace, below the cloud cover.  It's her first UFO and she's sketching it, right now.  Sadly, I didn't see it. I sent a text message to George Norry's show, which is on live.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78969.html](http://www.nuforc.org/webreports/reports/078/S78969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Laguna Niguel (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Laguna Niguel CA 3 lights moving from same point on the horizon to differnt points in space.My wife and I where sitting out side on our balcony facing south next the the 73 toll road in southern orange county in southern California it is a clear night and we just talked about looking at the meteor shower tonight with an expected peek around 1:00am 11/19/2004 PST. I was the first one to see them and told my wife to quick come over and look at what I see. We saw three very fast moving lights when we first saw them they looks like they started at the same point on the horizon moving in a erratic (from left to right and up and down while moving north to North east and out away from earth pattern they looked like they came from the pacific down south of us and was moving from left to right and the two lights on the left took turns taking the lead and the 3rd light moved more to the south east and out and as the other two went more north and out I say they went out because the lights looks like they got smaller but still did not move in a straight line within 4 minutes the lights seemed to fade into the background of space. My wife and I were so freaked out we came inside to turn on the TV.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40690.html](http://www.nuforc.org/webreports/reports/040/S40690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
