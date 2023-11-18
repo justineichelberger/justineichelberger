@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 17 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Ekron (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>11-17-11 Ekron, KY, disc, 30 minutes,  yellowish, posted 11-18-11I was driving and noticed a continuous appearance of what resembles white smoke, eg., a segment of vapor trail on the Western horizon. I stopped my SUV and took photos, my camera blinking red signals, cows and horses in an adjoining field acting weird.  The first photo showed nothing, with the second showing an elliptical disc, resembling a comet's head, the third showing a round disc. Definitely not a star nor the moon rising.  Photos available upon request.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85385.html](http://www.nuforc.org/webreports/reports/085/S85385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Agoura Hills (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright shooting star shot across sky then froze just above Malibu HillsWas driving westbound on the 101 through Agoura Hills and saw what appeared to be an enormous shooting star coming downward, due west, toward Ventura.  Instead of fading away like every other shooting star I've ever seen, it jumped across the sky, seemingly several miles in less than a second, southwest, then froze somewhere just above the Santa Monica Mountains.  I've never seen anything accelerate, cover that much distance, and then come to a halt so fast.  It defied logic.  I kept my eye on it for about two more minutes and exited the freeway at Kanan Road.  It looked like a really bright star.  It was moving ever-so-slightly over what looked like the middle of the Malibu Hills, maybe near Sandstone Peak, then disappeared behind them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146009.html](http://www.nuforc.org/webreports/reports/146/S146009.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [384](http://www.nuforc.org/webreports/reports/165/S165800.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165801.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165536.html)
-- [381](http://www.nuforc.org/webreports/reports/160/S160718.html)
-- [380](http://www.nuforc.org/webreports/reports/160/S160686.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
