@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking to the west at 45 degrees above the horizon a bright white light disappearsI saw a light in the sky larger than a star and brighter than a star but muted or blurry looking.  It rapidly began to fade.  This process took roughly 5 seconds.  It also appeared to be moving, but just slightly, at a direction of west to east.  After the light disappeared I did not see it again.  I am a 25 male who sells books.  I have never reported anything like this before because I haven't seen anything this differant in space before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53481.html](http://www.nuforc.org/webreports/reports/053/S53481.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brixworth, Northampton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two Black Triangle shaped craft, moving slowly togetherTwo black trinagle shaped craft together, below the cloud line, moving slow, orange  lights in each corner, lots of small orange lights underneath. No noise and moving slower than a helicopter. Not chinese lanterns. Both objects were close together in formation as such, but not military as at night an no FAA/CAA lights showing (Red green white etc). Object observed by 40+ female and 4 chilren on their way back from Guides. Stopped car to observe and watched for two minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66981.html](http://www.nuforc.org/webreports/reports/066/S66981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
