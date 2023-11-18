@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:32 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red fireball shaped object that formed shapes and vanished.Many red fireball shaped objects floating up from ground, formed shapes then vanished.  Very intriguing and concerning as well! ):</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95241.html](http://www.nuforc.org/webreports/reports/095/S95241.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>5 yellowish-orange circles appeared over the ocean.  Went from bright to dim.My wife and I were heading to the outlets to do some shopping.  Around 8:00 PM, we approached the shopping center.  We were slowing down to turn into the outlet and a yellowish-orange circle appeared over the ocean.  It was very bright considering how far away the object was.  I told my wife "LOOK!"  She looked up and said "what in the world is that?"  After the first object appeared, it went from a brightness of 10 to 0.  Next, to the left of where the first object was - another one appeared in the same fashion.  So, from right to left we saw this occurrence 5 times. Just before one object would fade, another one would appear.  At all times, you could see one object dimming and the other getting brighter.  There was considerable distance between the object locations.  We could not hear any sounds or anything of that nature.  This was extremely odd.  This was not an airplane with blinking lights or anything.  If you ever get the opportunity to see this, you ! will understand what I mean.  We were probably 2 or 3 miles from the ocean.  This object appeared to be a great distance from us.  The location of these objects were well over the tree horizon.  I would say if you were looking at the tree line, this would have been 30 degrees above that. I can honestly say that my wife no longer thinks I am crazy.  I reported an incident last year about the circles in the sky in another county.  This time, I had a witness.  There is nothing to explain what we saw other than the text above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79015.html](http://www.nuforc.org/webreports/reports/079/S79015.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
