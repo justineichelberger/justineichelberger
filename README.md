@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:12 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>There was a green flash of light over the city of San Antonio for about a second on Nov 18 at 2320.I live in on a hill that oversees the whole city of San Antonio. As I was driving home, there was a flash of green light that lit up the sky from the downtown area to the Medical Center.  There were no craft that I could see, but it was cloudy.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85427.html](http://www.nuforc.org/webreports/reports/085/S85427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pool Rack formation seen over an Army Base in Brooklyn, NY during a meteor showerSome time in the early 1990's, probably around '90 or 91, there was a heavy meteor shower clearly visible over the NYC area. I was located inisde the Fort Hamilton Army Base in Brooklyn, NY. We observed the shower, just over the horizon, through the center and upper level of the Verrazzano Bridge. It was an amazing sight. But when we looked directly overhead, we saw about twelve unknown craft, all bottom-lit and flying in what I could only describe as a group of pool balls in a triangle formation, moving at a high rate of speed. These craft were definitely over the "ceiling" and were moving much faster than a passnger jet would fly at the same altitude. The most amazing thing about this sighting was that the UFO's switched positions rapidly, in like an "X" fashion, just as they were flying over my head. all of them did it at the same time, quite rapidly and precisely - it was then that I knew that the only group capable of doing such aerial arobics at that speed would be the Blue Angels. But why would they be flying over the city on an average day and at night - and in such a formation? And why were the fighters bottom-lit? Alot about this encounter did not make any sense to me. My natural assumption is that the craft must have been extra-terrestrial. I'm just hoping that I wasn't the only one, aside my cousin, who had my eye on the sky that night.((NUFORC Note:  Date is approximate.  We have assigned an artificial date, allowing for the possibility that the witnesses may have been looking at the Leonid (??) Meteor shower, which we believe is the shower that occurs annually in mid-November.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34696.html](http://www.nuforc.org/webreports/reports/034/S34696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
