@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Crofton (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>metallic object seen in blue sky, then seemed to de-materialize/fade into backround of blue sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104590.html](http://www.nuforc.org/webreports/reports/104/S104590.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Zanesville (OH) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>My mother and I were driving at night about 10:30 pm east bound on 70 from Newark, OH to Zanesville, OH.  Almost into Muskingum County we had noticed a really bright, what we thought was a star, light in the sky.  We kept talking about how bright it was and thought that it had to be a star because it wasn’t moving but that we had never seen a star that bright.  Even the North Star in our area doesn’t show as bright as this light on the clearest of nights.  My mom mentioned that maybe it was the position of the star or the fact that the night was so clear.  As we moved closer my mom said that it almost looked like there was a red light blinking on the side of it.  So then we assumed it was a tower of some sort but the bigger white light still didn’t blink like most tower light do and have to because they are so high in the sky.  We got closer and it got brighter and larger.  As we rounded the bend and started to enter into Zanesville it was right there above a field and some houses on the West Bound side on 70.  What we had initially thought was one large white star, then a white tower light with one red smaller light, ended up being a triangle shaped object with 3 large separate white lights and two red lights on the back end points of the object. It was still very still, almost hovering over this area of fields and houses.  I wanted to pull off to the side but with the rate of speed I was going and there were cars right behind me I couldn’t get over in time.  The first exit into Zanesville was just around the right bend. We hurried off of the exit, then headed back west on 40 which runs parallel to 70 to the area that we saw this craft. We drove the road to the area and it wasn’t there. It was so big and so slow that it should have still been there. But it was gone. It just vanished.((NUFORC Note:  We spoke via telephone with this witness, and he seemed to us to be quite sober-minded and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85401.html](http://www.nuforc.org/webreports/reports/085/S85401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
