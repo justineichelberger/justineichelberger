@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Pool Rack formation seen over an Army Base in Brooklyn, NY during a meteor showerSome time in the early 1990's, probably around '90 or 91, there was a heavy meteor shower clearly visible over the NYC area. I was located inisde the Fort Hamilton Army Base in Brooklyn, NY. We observed the shower, just over the horizon, through the center and upper level of the Verrazzano Bridge. It was an amazing sight. But when we looked directly overhead, we saw about twelve unknown craft, all bottom-lit and flying in what I could only describe as a group of pool balls in a triangle formation, moving at a high rate of speed. These craft were definitely over the "ceiling" and were moving much faster than a passnger jet would fly at the same altitude. The most amazing thing about this sighting was that the UFO's switched positions rapidly, in like an "X" fashion, just as they were flying over my head. all of them did it at the same time, quite rapidly and precisely - it was then that I knew that the only group capable of doing such aerial arobics at that speed would be the Blue Angels. But why would they be flying over the city on an average day and at night - and in such a formation? And why were the fighters bottom-lit? Alot about this encounter did not make any sense to me. My natural assumption is that the craft must have been extra-terrestrial. I'm just hoping that I wasn't the only one, aside my cousin, who had my eye on the sky that night.((NUFORC Note:  Date is approximate.  We have assigned an artificial date, allowing for the possibility that the witnesses may have been looking at the Leonid (??) Meteor shower, which we believe is the shower that occurs annually in mid-November.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34696.html](http://www.nuforc.org/webreports/reports/034/S34696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kissimme/Champions Gate (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Possible UFO Filmed near Disney - UFO appeared in the distance and  descended at a slow rate.I was driving Westbound on I-4 at about exit 62, when I looked at the sky and saw what at first glance looked like a comet or shooting star.  I began staring at the object as it didn’t appear to be moving very fast all and almost looked as though it was descending from the Earth’s atmosphere.  It looked like a fireball and left a type of fiery trail.  After watching the object slowly descend for about 10 minutes I then decided to grab my phone and begin recording.  I appeared to be the only one who noticed it as the other people in the cars around me appeared to be focused on other things (mostly their cell phones).  I continued to watch the object while filming and saw it what I can only explain as course correct as it stop descending and slowly turned righ and then continued to again descending downward at what looked like a 90 degree angle.  After the object had descended for what I cie we was about 15 minutes or so the fireball and trail disappeared and it just! looked like a glowing metallic oblong object.  I filmed for about 10 minutes before completely losing sight of the object due to an apartment building blocking my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137348.html](http://www.nuforc.org/webreports/reports/137/S137348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
