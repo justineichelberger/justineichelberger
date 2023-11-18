@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:59 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Agoura Hills (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright shooting star shot across sky then froze just above Malibu HillsWas driving westbound on the 101 through Agoura Hills and saw what appeared to be an enormous shooting star coming downward, due west, toward Ventura.  Instead of fading away like every other shooting star I've ever seen, it jumped across the sky, seemingly several miles in less than a second, southwest, then froze somewhere just above the Santa Monica Mountains.  I've never seen anything accelerate, cover that much distance, and then come to a halt so fast.  It defied logic.  I kept my eye on it for about two more minutes and exited the freeway at Kanan Road.  It looked like a really bright star.  It was moving ever-so-slightly over what looked like the middle of the Malibu Hills, maybe near Sandstone Peak, then disappeared behind them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146009.html](http://www.nuforc.org/webreports/reports/146/S146009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While walking outside to see the meteor shower, I believe i saw a U.F.O..  It was triangular in shape and moved at a steady pace across the sky.  All I could see was three dim points in a perfect triangle flying with the point facing the rear.  I am not sure if this was one craft or possibly 3 flying in formation. No other "meteors" were seen, although I try to catch every meteor shower.  I have seen my fair share of meteors and never have I seen anything like this.  I want to say that the three points were kind of reddish in color, they were not lit up like a light, but were still distinguishable in the night sky.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73361.html](http://www.nuforc.org/webreports/reports/073/S73361.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
