@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:32 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Modesto (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I wanted to photograph comets on 11/18/01 and put my camera on a star that has meany times showed me pictures. I filmed for 3hrs and looked at the film and had a reaction from the star, at the same time the dog in the back yard began to howl for long periods of time. This is not the first time I've seen objects from the star, but this time I have it on tape (VCR). I don;t know much about space but I do know what I have seen and have for a long time. I cannot E-mail video because I'm new on the computer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21959.html](http://www.nuforc.org/webreports/reports/021/S21959.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red fireball shaped object that formed shapes and vanished.Many red fireball shaped objects floating up from ground, formed shapes then vanished.  Very intriguing and concerning as well! ):</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95241.html](http://www.nuforc.org/webreports/reports/095/S95241.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
