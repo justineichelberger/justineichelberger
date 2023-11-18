@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:26 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pittston pa (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>triangle with bright red light in the MiddleDriving to work and saw what looked like a bright red light near the mountain behind my work. I stopped and watched it stand still before move towards bald mountain. Once it started moving i made an outline of a black triangle. Me and two others via social media all saw this. One stood under it and was confirmed what i saw was true about 150 ft up it was no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160730.html](http://www.nuforc.org/webreports/reports/160/S160730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gaston (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 lights, triangular shape at first then moved randomly while changing colors - red, blue, green, yellowI just found this site to report what my daughter and I saw in 2004.I don’t remember the date exactly.  I think it was November 18, 2004 but could have been a day or two early that week.  It was around 10 p.m. PST in Gaston, Oregon.We were sitting on her bed looking out her window to the East hills when just above the hills we saw 3 lights.  They seemed hover for a bit in a triangular form but then they started moving randomly.  One dropped vertically quickly then moved to the South on the horizontal like a right angle.  This really surprised me.  I have never seen anything move this smoothly or quickly.The lights changed colors as well.  We saw them become red, blue, green and whitish/yellow.I must say my behavior changed dramatically for a couple days following the event.  I don’t know if this has anything to do with what we saw or not but thought I would note it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69105.html](http://www.nuforc.org/webreports/reports/069/S69105.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
