@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Saw a small, bright object move across the sky, come to a complete stop, and begin flying in circles.The object was about the size of a plane in the night sky.  It was bright white, with no blinking lights at all.  I assumed it was a satellite or possibly the International Space Station, as any airplane flying that low would surely have visible blinking lights.  Two friends and I (all of whom are, in fact, college students) saw the light move east across the sky in a straight path.  It was somewhat faster than an airplane, but still slow enough for us to stand and watch it move for a good minute or so.  Then the object came to a complete stop in the sky, just above Mars.  We continued watching it further, and the object grew considerably fainter.  Then, it began to slowly fly in irregular circles for about ten minutes or so before finally fading away.  All three of us saw it move across the sky, stop, and begin circling, and all of us agreed on the direction it was moving.((NUFORC Note:  The ISS pass over Wilmington at 18:11-18:15 hrs. on this date.  Hence, if the time above is approximate, the witnesses may have been witness to its overflight.  17 Nov 1.3 17:45:35 10 N  17:47:14 14 NNE 17:48:21 12 NE  17 Nov 2.7 19:19:53 10 WNW 19:19:58 11 WNW 19:19:58 11 WNW 18 Nov -0.3 18:11:01 10 NNW 18:13:50 40 NE  18:14:35 33 ENE 19 Nov 0.5 18:37:21 10 WNW 18:40:11 40 SW  18:41:12 29 S  20 Nov -0.5 17:28:22 10 NW  17:31:16 47 NE  17:34:08 10 ESE http://www.heavens-above.com/passsummary.asp?lat=34.226&lng=-77.945&alt=6&loc=Wilmington&TZ=EST&satid=25544&Date=38668.7083333333&Mag=PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47794.html](http://www.nuforc.org/webreports/reports/047/S47794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Looking to the west at 45 degrees above the horizon a bright white light disappearsI saw a light in the sky larger than a star and brighter than a star but muted or blurry looking.  It rapidly began to fade.  This process took roughly 5 seconds.  It also appeared to be moving, but just slightly, at a direction of west to east.  After the light disappeared I did not see it again.  I am a 25 male who sells books.  I have never reported anything like this before because I haven't seen anything this differant in space before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53481.html](http://www.nuforc.org/webreports/reports/053/S53481.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
