@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:02 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brixworth, Northampton (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two Black Triangle shaped craft, moving slowly togetherTwo black trinagle shaped craft together, below the cloud line, moving slow, orange  lights in each corner, lots of small orange lights underneath. No noise and moving slower than a helicopter. Not chinese lanterns. Both objects were close together in formation as such, but not military as at night an no FAA/CAA lights showing (Red green white etc). Object observed by 40+ female and 4 chilren on their way back from Guides. Stopped car to observe and watched for two minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66981.html](http://www.nuforc.org/webreports/reports/066/S66981.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Arrowhead (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>I had been watching the 2002 Leonid meteor shower.  I came back home about 3:15-3:30 a.m. and turned on the NASA TV live broadcast of the meteor shower.  I had been taping it for my kids so they'd have a record of the tremendous shower.  As I watched the live broadcast, a bright dot like a satellite appeared on the TV screen.  "Cool!" I thought, "they caught a satellite on the broadcast."  The "satellite," moving slowly, then proceeded to change directions on a few occasions before moving out of the range of the camera.Anybody else see this or tape the event?  Unfortunately, my home burned in the October 29, 2003 fires in Lake Arrowhead, CA, and I lost virtually everything, including the videotape of this mysterious object.  I'd love to know if anyone else saw this/taped this/has a copy of the tape.  Pretty hard to fake a live broadcast from NASA, you know?((NUFORC Note:  Can anyone help this gentleman?  If so, please contact NUFORC.  PD))((NUFORC Note:  One of two similar reports from same witness.  We believe that the correct date for the dramatic Leonid meteor shower, as indicated above, was November 18, 2002.  He indicated 2001 in the original report, and we have amended that report to 2002.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35647.html](http://www.nuforc.org/webreports/reports/035/S35647.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
