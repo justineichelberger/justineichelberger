@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Flowery Branch (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Looked like the sail of a sail boat with lights.  Made a circular path across the sky.  This lasted for about 30 minutes while I was walking my dog through the sub division.  The lights never blinked.  It appeared to stop in the western sky, turned and disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104605.html](http://www.nuforc.org/webreports/reports/104/S104605.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Aquilla (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>while driving home from work, saw an orange/whitish colored light hanging in the sky above some trees behind a neighbors fieldWhile on my way to my mothers to pick up my daughter after work tonight, i looked up noticed an orange/ whitish ball of light hanging low over some trees in a field behind a neighbors house off to the west/southwest.  I continued to watch  as i turned off the highway and down the dirt road that leads to my mothers .  As i rounded a curve  i soon lost sight of the object behind some trees.  As i pulled into the yard at my mothers I shut the car off and looked off in the direction that i had last seen the object. Suddenly i saw the object again, approaching very rapidly over the tree line and across the field from our other neighbors house.  This time it was lit up bright  white, frightened i ran into the house and to the back door to see if i could see it fly by, but it had disappeared. I loaded my child into the car and we drove off down the driveway i spotted the object yet again, this time it was due south hovering over towards the highway.  It was lit up the ! same strange orange/whitish color again. As we drove around the curve in the road and approached a stop sign, i sat there for a minute and watched it and could clearly make out three orange circular lights beneath it in the shape of a triangle. I watched it slowly drift across the road and back out over a field before it turned all its lights off and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94661.html](http://www.nuforc.org/webreports/reports/094/S94661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
