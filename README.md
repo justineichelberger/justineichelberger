@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My husband and I woke from a deep sleep to a strange blue orb outside our window.This event happened very early in the morning.  My husband and I were sleeping and awoke suddenly without cause.  Our bedroom was illuminated in a pale blue glow.  For a split second I though our neighbors were outside and heir car lights were on, but he glow was much too bright to have been car lights.  Both my husband and I were unaccountably terrified.  All my hair was standing on end. I was too scared to turn and look out the window, I just felt like something was out there and looking at it would be horrible. we kept hearing a strange sound repeat itself over and over.  It was a high pitched "ping...ping."   It would echo and fade and then repeat.  We finally looked out the window and saw a huge blue orb hovering stationary above the tree line.  He feeling this experience gave us was so extreme.  I really can't explain it in a way that makes sense.  We knew that the orb was something "other."  We strongly felt that we were being observed, scru! tinized.  Our skin was tingling all over, vibrating kind of.   We turned away from the window and tried to ignore, but we couldn't shut our eyes because idea of closing our eyes with that strange light in the room and the orb so close outside was just terrifying eventually the noise stopped and the light faded away.  We turned to look and the orb was gone.   It was totally silent outside.  Our cat would not come in the room and didn't stop staring at the window for a while.  We have never found out what that orb was but we have spoken to several others who saw it that same night, but at different locations.  His orb was not far out in the atmosphere; it was literally right outside our window, just above the trees.  It was approximately 40 times the size of a basketball.  About a year after that we were walking through a park late in the evening, I don't remember exactly what time, between 7 and 9.   We saw the orb again but only for a second, then it vanished and there was a loud "boom," like thunder but it couldn't have been because it w! as snowi ng.  The power went out immediately after. It was so eerie.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/093/S93678.html](http://www.nuforc.org/webreports/reports/093/S93678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ocean View (DE) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Aircraft Emitted Sparks and Disappeared.Was standing outside, saw a bright reddish-orange object in the sky moving way too slowly to be a plane, then it flamed/flashed bright reddish-orange, what looked like sparks were emitted, and sped up; at which point I called my friend out to look at it.  We watched it travel a short distance across the sky, flash brightly again, emit sparks, then change directions and begin going East towards the ocean at which point it appeared to get smaller and smaller until it disappeared completely.  Second one we saw tonight, first one was only seen by my friend and was a few miles from where this was seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104592.html](http://www.nuforc.org/webreports/reports/104/S104592.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
