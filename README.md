@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 18 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>One small white ball of light, without a tail flashed through the sky for just 1/2 of a second then disappeared  On November 18, 2010, at 8:30 pm I saw a white ball of light jet side ways for a fraction of a second.  I saw it in Smallwood Drive as I walked home towards Middletown Rd.  I was near the Hampshire Housing track when I saw it at about the 10 o'clock position.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78975.html](http://www.nuforc.org/webreports/reports/078/S78975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cordell (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue and red light orb falling from sky, then rising again.Only minutes ago, I was sitting in my truck in line at a convenience store drive through.  I was on the phone with my husband also.  I was looking ahead at a church building across the ways and a BRIGHT red and blue light was falling from the sky in which looked like the empty lot next to it.  Once I receieved my items I drove in the direction of the light.  I could see nothing.  One block down on the opposite side of the street I see the light going back up!  I hurriedly found a place to park and am telling my husband what I am witnessing.  He tells me that he witnessed something similar a week ago today on his evening drive home.  I park in an empty lot and watch the sky.  I could see the craft of some sort that was reflecting light moving slowly into the distance.  It stopped, almost motionless with no lights on for about a minute.  Then moved to the west slowly getting brighter the further away and smaller it got. It then turned and headed back into the direction of town.  I then noticed at least 3 smaller ones all moving in the same pattern but in different locations/depths of the sky. They were not always lit up, they would go completely black but still reflected light a bit so I could see them.  I have never before witnessed anything of this sort.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94654.html](http://www.nuforc.org/webreports/reports/094/S94654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165533.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165530.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160063.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160704.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160697.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
