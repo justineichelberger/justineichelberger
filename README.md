@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gravette (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>ambient strobe like light located in forest.After a reported sighting earlier in the day over Northwest Arkansas,  two other witnesses and I noticed an ambient white flashing light appearing in a forested area in the distance behind my friends house. The flashing of the light was like that of a strobe light.  The brightness of the light changed after about 30 minutes, from dim to bright.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85411.html](http://www.nuforc.org/webreports/reports/085/S85411.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in East Brunswick (NJ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Tear-drop shaped UFO over central New Jersey.Me and my associate were emptying cardboard in the rear of the store where we work, when we both saw a round, black object come over the trees to our west.At first we thought it was a large balloon, but as it got nearer, we could see a definite tear drop shape to the object. The altitude of the object was below one thousand feet, and as it got directly overhead it tilted it's nose toward us, showing a flattened shape and two fins running from nose to tail. The craft then righted itself, then wobbled from side to side as it continued on toward the east. It was travelling faster than a balloon would, especially since there was very light wind at the time. It was black in color, and we could not see any markings or windows on it, but I am very familiar with all known aircraft, have a very open mind, and I can state with certainty that this was not a known aircraft. The object appeared to be approximately thirty feet in length and made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14964.html](http://www.nuforc.org/webreports/reports/014/S14964.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
