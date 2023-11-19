@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:17 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thomson (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating lights that outlined a very large low flying object or just individual lights flying in formationlow flying clear lights In a formation as if the lights were outlining the object.  If so, it would have been triangular.  No noise.  Flying very slowly almost hovering.  After several minutes they faded away.  Never seen anything like it.  One light at the end or tail was further back than the other lights.  Has anyone in the Thomson area seen this.  Can't believe we were the only ones who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124321.html](http://www.nuforc.org/webreports/reports/124/S124321.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Strange atmospheric event of tear drop shape travels west to east with incredible speed.At approx. 17:03 hrs., while standing outdoors, facing the west, I saw what appeared to be a clear balloon rising up into the sky, although when considering the shape of Earth, it may have simply approaching at a steady elevation and appeared to be rising, as the sun does. The object was small from my vantage point and I will compare size by Ie:  How an air plane would seem so small from 60-80 miles away in the evening when its flood lights are on.  You would see what appears as a tiny ball of light.This object traveled from the west and to the east at a high rate of speed, much greater than anything I've seen before.  If I were to stand with my face to the south, point my finger of my right hand to the approximate area where it first appeared, and point the finger of my left hand to where I lost sight of it, my hands would be at approximatelt, 2:50 PM if I were a clock.  I first thought it to be WT1190F  (The debris from the Apollo program, which was estimated to fall out on Friday, November 13, about noon Eastern time, over Sri Lanka, though no documented evidence of it having come down is found.I am going to assume this was some strange atmospheric phenomenon such as St Elmo's Fire or Lightning out of the clear blue sky.  I do not believe in space ships and aliens.  Thank you!  God bless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124191.html](http://www.nuforc.org/webreports/reports/124/S124191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
