@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>From the south and passing near intersection of se holgate and 30th ave it banked and headed over the river towrds downtown PDX.I saw two strong rounded lights, like headlights, coming my way at an altitude a little low for passenger jet,  quite quiet.the f-15's have cruised over consistently since 9/11 but this was larger.  It was of similiar shape as a fighter.as it banked I saw a flashing red light similiar to Passenger jet's blink maybe twice and, at same time I saw two circular lights on bottom of craft.it was quiter and slower and a different type of shape than i'm used to seeing.i pretty much watch the sky every nite.i've seen a few ufo's in my life. one very dramatic in ca.and i seen alot of planes.this one was different enuf to wonder about.the one other thing i'd mention is that the type of evening it had been for me was consistent with my experience with my previous sightings.there was a little something simpatico about the event of my evening.  in a playful way things seemed a touch otherly, if u know what i mean.don't  let anyone tell you what you've seen is readily explained.trust your eyes and your instincts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26173.html](http://www.nuforc.org/webreports/reports/026/S26173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gravette (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>ambient strobe like light located in forest.After a reported sighting earlier in the day over Northwest Arkansas,  two other witnesses and I noticed an ambient white flashing light appearing in a forested area in the distance behind my friends house. The flashing of the light was like that of a strobe light.  The brightness of the light changed after about 30 minutes, from dim to bright.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85411.html](http://www.nuforc.org/webreports/reports/085/S85411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
