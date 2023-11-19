@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:40 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:17 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Leicestershire (UK/England) () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>photos of green shape in direction of JupiterI was taking photos of the night sky. I took a 4s and a 5s exposure of jupiter. Next morning on closer examination a small green shape could be seen in different positions in the 2 photos.  I am happy to send the photos and i have lightened and cropped the images slightly.  Other photos taken before and after do not show the effect.  They are not aircraft.  The lens had a long hood to avoid stray light reflections.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85420.html](http://www.nuforc.org/webreports/reports/085/S85420.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thomson (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Floating lights that outlined a very large low flying object or just individual lights flying in formationlow flying clear lights In a formation as if the lights were outlining the object.  If so, it would have been triangular.  No noise.  Flying very slowly almost hovering.  After several minutes they faded away.  Never seen anything like it.  One light at the end or tail was further back than the other lights.  Has anyone in the Thomson area seen this.  Can't believe we were the only ones who saw this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124321.html](http://www.nuforc.org/webreports/reports/124/S124321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
