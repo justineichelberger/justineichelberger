@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:23 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:29 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fairlee (VT) reported seeing craft that fit the description of some 'Cross' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>sighting in fairlee vtshortly after dark i saw a long strip of lights high in the sky almost a yellow tinge for e few seconds in the northern sky they went out than re-appeared in another location not far from original spot i then scanned the sky for another five minutes and saw nothing i told several friends another saw same thing around same time about 12 miles north of me with the addition of severel familiar looking aircraft right after sighting almost like military jets escorting the aircraft or possibly on the chase((NUFORC Note:  We have corrected the date and time above, following a telephone conversation with the source of the report.  Another witness may submit a second report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73387.html](http://www.nuforc.org/webreports/reports/073/S73387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rutland (VT) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>cylinder, lights were square with some round lights. colors of lights transitioned not in a pattern.On Sunday November 19th, 2017, my kids and I were heading home back to NY on route 4 when we noticed a large object hovering just south of us on RTE 4 heading west.  We just drove though the city of Rutland and we were in the South Western part of the city.  It was cylinder shape.  Almost like a yo yo.  It had two stacks of lights.  Some were square and some were spherical.  The lights changed colors mostly, almost like a color wheel.  There was some overcast so the colors would dissipate in the clouds.  My daughter had made and I had seen an object like that when I was 10 or 11.  Now I am 50.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137344.html](http://www.nuforc.org/webreports/reports/137/S137344.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
