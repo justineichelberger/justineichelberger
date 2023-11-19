@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ocean View (DE) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Aircraft Emitted Sparks and Disappeared.Was standing outside, saw a bright reddish-orange object in the sky moving way too slowly to be a plane, then it flamed/flashed bright reddish-orange, what looked like sparks were emitted, and sped up; at which point I called my friend out to look at it.  We watched it travel a short distance across the sky, flash brightly again, emit sparks, then change directions and begin going East towards the ocean at which point it appeared to get smaller and smaller until it disappeared completely.  Second one we saw tonight, first one was only seen by my friend and was a few miles from where this was seen.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104592.html](http://www.nuforc.org/webreports/reports/104/S104592.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was outside on my backyard porch looking up into the sky: I then saw a circular shaped object, with bright lights, moving at speeds greater than any known military aircraft.  The UFO was seen for about 3 seconds with the bright lights visible and after that about 3 seconds it turned off the lights and while proceeding to travel in the same direction at the same speed. I could then still see a slight visual of the aircraft for about 2 more seconds.  Then that's when i no longer saw the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94620.html](http://www.nuforc.org/webreports/reports/094/S94620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
