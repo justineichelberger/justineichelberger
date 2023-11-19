@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:07 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cedar Falls (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7-8 - 7-8 minutes.</sub><blockquote><sub>V shaped dark object traveling East SE at approx 250 MPH..Approx 9:00 PM or 21 hundred hours.  Clear evening, no clouds, temps in the mid 30's.  Went out to have a smoke and noticed a movement to my right peripheral side vision in the star filled sky.  Saw what appeared as a fuzzy outline of a V-formation, or triangle craft.  Hard to discern it as it appeared slightly lighter then the dark background sky, fuzzy edges with a translucent appearance.  Very difficult to see unless looking right at it.  No lights, no sound and its glide path was to the East SouthEast.  Watched it for 7-8 seconds before it faded from view.  Speed looked like around 250 MPH at say 3000 feet altitude, just a guess thou as I could not tell its size.  When first overhead it would have been the size of my hand at arm's length.  Object did not reflect from the moon that evening and for a lack of better words, appeared to cloak itself somehow to the background.  Very strange.  I had my cell phone out however there was not enough time to capture it as ! I was wondering what it was in the first place.  I am knowledgeable in earth sciences, all known aircraft and consider myself an amateur astronomer.  It matched the dark sky so much, I doubt a photo would have shown it unless during the day.  Intend to build an Infrared video array now, I want some substantial answers..................</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124278.html](http://www.nuforc.org/webreports/reports/124/S124278.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Springfield (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I had the dogs out to use the restroom, glanced up and saw a ball of bright light with a tail of fire in the southwest sky, traveling west and appearing to be falling to the ground.  Then went out of my sight behind the treetops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124199.html](http://www.nuforc.org/webreports/reports/124/S124199.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
