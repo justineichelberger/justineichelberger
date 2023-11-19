@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was outside on my backyard porch looking up into the sky: I then saw a circular shaped object, with bright lights, moving at speeds greater than any known military aircraft.  The UFO was seen for about 3 seconds with the bright lights visible and after that about 3 seconds it turned off the lights and while proceeding to travel in the same direction at the same speed. I could then still see a slight visual of the aircraft for about 2 more seconds.  Then that's when i no longer saw the aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94620.html](http://www.nuforc.org/webreports/reports/094/S94620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Plano (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>On September 19, at approximately 4:40 am, my mother and I were outside looking for the Leonid Meteor Shower.  After a while, a V-shaped formation of approximately 5-10 lights flew overhead in perfect formation.  Both leg's of the "v" were perfectly straight with one light in the front leading them.  The "v" flew with the convergence point pointing forward.  It flew from north to south.  The lights traveled quickly, probably not any airplane formation, since it made no sound.  The lights lasted about 10 seconds and the disappeared behind the roofs of other houses.  A picture was taken, but the environment was too dark, and the nothing can be seen.  The distance of the object from the ground could not be determined.  Later during the day, at school, another student claimed to see lights flying in a v-formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26158.html](http://www.nuforc.org/webreports/reports/026/S26158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
