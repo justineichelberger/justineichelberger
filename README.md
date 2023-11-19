@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:31 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:33 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Woman, grandson, and several other witnesses rept. approx. 10 shiny objs. maneuvering, reflecting sunlight overhead.  Streaked off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00996.html](http://www.nuforc.org/webreports/reports/000/S00996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Panasoffkee (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Moving starlike objectsMy background first: I am a 20 year AF vet., pilot and aircraft owner 67 years of age. I have never seen a UFO although I have been looking for one for a long time. Early this morning from about 0520 to 0610 I was out in an open field watching the Leonid meteor showers. At approximately 0545 I noticed a bright, very high object traveling across the sky. I was standing at the edge of a treeline to my back, which blocked my view from the SSE to the NNW. When I noticed the first object it appeared in the sky about 75 to 80 degrees above the horizon, the moon would have been about 30 degrees to my right. It traveled in a straight line across the sky. Since the sun was about to come up I could see the arc of light that the sun made in the eastern sky. The arc extended from the ENE to ESE. The first object traveled across the sky ENE. I first took it to be a satellite but I have seen satellites before and this one seemed to travel faster than the ones I have seen before. As it reached the upper edge of the arc the sun made it disappeared from view. About 5 minutes later another bright object appeared in the same area of the sky and traveled in the same direction, same speed and the same altitude as the first. It disappeared from my view in the same area of the sky, which would have been about 40 degrees above the eastern horizon. I think the thickness of the atmosphere caused it to be hidden to my view. All this time I was seeing the meteors as they entered the atmosphere and burned up. The third object appeared in about the same area as the first two about 5 minutes later but traveled more in an easterly direction. I know there is a lot of space junk in orbit so I can’t discount that. But I don’t think that many satellites would have traveled across the sky that close together in time. It took the objects about 20 seconds to travel the distance that I was able to observe them. There were other aircraft in the sky at the same time but they were airliners and much, much lower in altitude. Do satellites orbit ! in this direction and do they orbit in these numbers and this close in time? The objects were definitely not meteors or aircraft.((NUFORC Note:  We suspect that the witness may have been observing satellites, which were being illuminated by the rising Sun in the east.  However, please see other reports for this date, which seem equally serious-minded, and which apparently do not describe orbitting satellites.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26138.html](http://www.nuforc.org/webreports/reports/026/S26138.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
