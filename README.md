@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 19 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Aquilla (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>while driving home from work, saw an orange/whitish colored light hanging in the sky above some trees behind a neighbors fieldWhile on my way to my mothers to pick up my daughter after work tonight, i looked up noticed an orange/ whitish ball of light hanging low over some trees in a field behind a neighbors house off to the west/southwest.  I continued to watch  as i turned off the highway and down the dirt road that leads to my mothers .  As i rounded a curve  i soon lost sight of the object behind some trees.  As i pulled into the yard at my mothers I shut the car off and looked off in the direction that i had last seen the object. Suddenly i saw the object again, approaching very rapidly over the tree line and across the field from our other neighbors house.  This time it was lit up bright  white, frightened i ran into the house and to the back door to see if i could see it fly by, but it had disappeared. I loaded my child into the car and we drove off down the driveway i spotted the object yet again, this time it was due south hovering over towards the highway.  It was lit up the ! same strange orange/whitish color again. As we drove around the curve in the road and approached a stop sign, i sat there for a minute and watched it and could clearly make out three orange circular lights beneath it in the shape of a triangle. I watched it slowly drift across the road and back out over a field before it turned all its lights off and disappeared</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94661.html](http://www.nuforc.org/webreports/reports/094/S94661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>From the south and passing near intersection of se holgate and 30th ave it banked and headed over the river towrds downtown PDX.I saw two strong rounded lights, like headlights, coming my way at an altitude a little low for passenger jet,  quite quiet.the f-15's have cruised over consistently since 9/11 but this was larger.  It was of similiar shape as a fighter.as it banked I saw a flashing red light similiar to Passenger jet's blink maybe twice and, at same time I saw two circular lights on bottom of craft.it was quiter and slower and a different type of shape than i'm used to seeing.i pretty much watch the sky every nite.i've seen a few ufo's in my life. one very dramatic in ca.and i seen alot of planes.this one was different enuf to wonder about.the one other thing i'd mention is that the type of evening it had been for me was consistent with my experience with my previous sightings.there was a little something simpatico about the event of my evening.  in a playful way things seemed a touch otherly, if u know what i mean.don't  let anyone tell you what you've seen is readily explained.trust your eyes and your instincts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26173.html](http://www.nuforc.org/webreports/reports/026/S26173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165859.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165553.html)
-- [370](http://www.nuforc.org/webreports/reports/160/S160713.html)
-- [369](http://www.nuforc.org/webreports/reports/160/S160744.html)
-- [368](http://www.nuforc.org/webreports/reports/160/S160708.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
