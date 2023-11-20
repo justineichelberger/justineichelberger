@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Round turquise, blue white disc hopping across the sky like a skipping stone.A round disc like shape, which was turquoise, blue and white, appeared instantly in the sky and moved 4 times, like someone was skipping a stone in water, quick , rapid, and then disappeared, having a very tiny trail of light behind it. I waited to see if there would be a crash or explosion. It was very large, very close, and very unusual. I have never seen anything like this at all.((NUFORC Note:  We spoke with this witness, and found her to be an exceptionally good witness.  She decribed the event with fine detail, and the object witnessed sounded to us to be bizarre, and probably not a meteor, in our opinion.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20525.html](http://www.nuforc.org/webreports/reports/020/S20525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 balls of light, rapidly changing color, zipping off at, what seemed to be, the speed of light.I Driving along I-475 towards Toledo where I-75 and I-475 meet.  It was the last 10 minutes of a 3 hour drive from Cinci where I'd been living for the last 6 months or so, travelling back to Toledo for what *I think* was Thanksgiving. It was dusk, the sun had already set, but the sky was still somewhat illuminated.  Off to the right at about a 45 degree angle I notice 3 balls of light, each of which were somewhat stationary, rapidly changing colors from blue to green to orange to red to white, etc.  About 1 second later the balls started rapidly moving small distances (which seemed like them "revving up" as if they were getting ready to partake in a celestial drag race) and proceeded to zip into the sky, out of sight in a fraction of a second. Others were in front of and behind me on the road, as well as automobiles travelling in the opposite direction, so others probably witnessed the same thing. I feel like this is probably the most important thing I've ever witnessed in my life.  I'm 110% certain these were definitely not of our world.  They absolutely defied physics as we know it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47583.html](http://www.nuforc.org/webreports/reports/047/S47583.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
