@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>sighted a formation of many star-like objects flying through daytime skyAt approximately 13:58 today, November 20, 2009 I observed a strange formation in the daytime sky. I happened to be looking up at a tree next to my home and then noticed, in the far distance and at a great height, what looked like stars.  Though this seemed rather odd for the time of day, I glanced elsewhere in the sky to see if I could see other stars.Naturally I couldn’t. But when I glanced back at the formation, I noticed that the formation, which consisted of approximately thirty shining, sparkling star-like objects, was steadily moving horizontally to the right. The objects maintained their respective positions as the whole formation moved.  The formation looked something like this:   ……… ………        ……… …..   …… ……………… ………….After about four minutes, maybe less, I began to walk to my car as I had someplace to go.  I then decided to once again check for the formation in the sky before I left.  At this point I could not longer find  the formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73401.html](http://www.nuforc.org/webreports/reports/073/S73401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in West Carrollton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>I have been watching these contrails left by planes all year but I observed something strange.  The contrails left a haze over sky and a plane was leaving a trail from north to south.   The plane was almost out of sight and at this time a silver object flew through this trail flying west to east.   This object had nothing on it except its disk shape and silver in color.  I did not hear any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11093.html](http://www.nuforc.org/webreports/reports/011/S11093.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
