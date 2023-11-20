@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Fort Pierce (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Lights in the Eastern sky (possibly over the ocean) - Fort Pierce, FLDate: November 20, 2007, 11:14 PM. My family – husband, mother and myself saw what we believe is a UFO based on the facts:  emits lights – in colors, almost rotating around 360, colors are white, yellow, blue, green, and fuscia (pink). As I write, this light can still be seen in the Eastern sky of Florida – the location is approximately 15 miles inland, but the object could likely be over the ocean. This object has been there for approximately 30 minutes or longer since we first noticed it. When looking at it through binoculars, it does not seem to be moving but because it is blinking/pulsating, it gives the impression that it’s rotating. It starts as a small white dot an then you see the colors and then back again to the dot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59966.html](http://www.nuforc.org/webreports/reports/059/S59966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>sighted a formation of many star-like objects flying through daytime skyAt approximately 13:58 today, November 20, 2009 I observed a strange formation in the daytime sky. I happened to be looking up at a tree next to my home and then noticed, in the far distance and at a great height, what looked like stars.  Though this seemed rather odd for the time of day, I glanced elsewhere in the sky to see if I could see other stars.Naturally I couldn’t. But when I glanced back at the formation, I noticed that the formation, which consisted of approximately thirty shining, sparkling star-like objects, was steadily moving horizontally to the right. The objects maintained their respective positions as the whole formation moved.  The formation looked something like this:   ……… ………        ……… …..   …… ……………… ………….After about four minutes, maybe less, I began to walk to my car as I had someplace to go.  I then decided to once again check for the formation in the sky before I left.  At this point I could not longer find  the formation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73401.html](http://www.nuforc.org/webreports/reports/073/S73401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
