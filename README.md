@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Flashing red light moving slowlyAt 6:31 p.m., I stepped out on my patio off of my bedroom to have a cigarette. I looked up into the southern sky and noticed a red flashing light ( There was not a rythm or pattern to how it was blinking)in the sky(at about 30 - 35 degrees from the horizon) It was moving slowly towards the east / north. My line of sight of the object was about to be blocked by the corner of the apartment, so I ran out to my other patio (off of the living room) so I could have an unobstructed view. After a couple of minutes, it was still blinking but seemed to have stopped moving and the light would go out for longer dueations ( 1 - 2 second) and just stopped all together. I stood outside for about another 5 minutes to see  if it would come back, the object did not but I did see two planes flying at a high altitude, one coming from the east and the other coming from the north. The plane from the east flew very close to where the object had been, and the plane coming from the north turned west just about where I had seen the object ( about 10 seconds before the west bound plane).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33268.html](http://www.nuforc.org/webreports/reports/033/S33268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Morris (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Low flying bright ball.Bright ball of light moving quick and low across the sky then disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124236.html](http://www.nuforc.org/webreports/reports/124/S124236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
