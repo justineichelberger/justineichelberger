@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Initially, looked like a shooting star, that was immediatly upon us-went from blue to glowing green-shot downward fast.Driving north on I-75 between Bass rd exit and Rumble Rd exit in Bibb County-I along with both of my sons spotted something in sky that appeared at first to be a shooting star-however realized it was right upon us, about 50 to 100 ft above the tree line.  Color changed from blue to green (glowing) as it slightly paused and then shot downward disappearing behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115504.html](http://www.nuforc.org/webreports/reports/115/S115504.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in  () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright object resembling star or satellite in night sky traveling at tremendous speed does figure 8 above our cruise ship in night sky.Family vacation on  the Disney Cruise Line ship “The Dream”. Wednesday November 20th, approximately 11:17 PM, Location was open ocean 6 hours after leaving Disney’s Island Castaway Cay located in the Bahamas. While sitting on balcony of our state room, 3 of us witness what looked like a “shooting star” but with no streak or tail, directly above us in the sky on a clear night, an object that crossed the sky at high speed and then changed trajectory to do a full figure 8 in the sky spanning a wide range in the night sky, then increased speed and disappearing in the direction it was first traveling. Object looked like a star: satellite, bright circle.  The sighting lasted about 4-7 seconds.  Ruled out drones as they are prohibited on ship and was too high of a distance and speed was too fast to be anything flying less that 10,000 feet.  We had never seen anything like this before and immediately knew we had just witnessed something that shook us to the core. Wit! nesses were sober and coherent. The path of the figure 8 was with very smooth curvature. Figure 8 would have been sideways from my point of view, object originated from west to east, then rounded out a figure 8 south to north and then at consistent speed but increased speed after completing the figure 8 traveling west before disappearing. Had the speed similar to a “shooting star”. Ruled out satellite/ airplane/ space station.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151509.html](http://www.nuforc.org/webreports/reports/151/S151509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
