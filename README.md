@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Koh Samui (Thailand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Dramatic prove of E.T. visiting earth!Visiting Koh Samui island, Thailand, while observing the tropical night sky ful of stars, I noticed some "lights" jumped or moved in unusual manner. Lights where rotating like a fan changing color, brilliant white-blue, rubine red, pink, green and blue lights in "un-earth-ly" E.T. color spectrum.I went to town to find somebody with a better camera.We made 20 minutes with sonny VCR, same time I used my Canon PowerShot S45 for still and AVI shooting.Ever since I make photos of strange images, Yes almost every day I see objects, I have ca. 12 Gigabyte (20 000 single shots, plenty of AVI) digital images.((NUFORC Note:  Date is approximate.  We have requested a copy of the video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35456.html](http://www.nuforc.org/webreports/reports/035/S35456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Oakdale (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately south west - south west minutes.</sub><blockquote><sub>I noticed the flying object flew past my house with red and green lights it had some white lights too blinking I noticed it was flying around for a few minutes and then this flying object throughout the green light beam down below and then started to land slowly in between these trees into a field and then I waited a few minutes to see if it would come back up but never did.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104901.html](http://www.nuforc.org/webreports/reports/104/S104901.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
