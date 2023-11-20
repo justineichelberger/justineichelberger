@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lincoln (NE) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Silver aircraft hovered over city then vanished.Silver metallic object hovered over the city for about 2 minutes and then just vanished. I was driving East towards the city on West O at 11am on Sunday morning when I noticed an object in the sky, probably just a plane I thought.  I kept looking up and noticed it was hovering and thought it may be a military aircraft but it was too far to make out.  All of a sudden it vanished!  I pulled over to see if I could see the path of the aircraft outside of the car, but nothing.  Weird.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131357.html](http://www.nuforc.org/webreports/reports/131/S131357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw five oval shaped objects streak across the sky on November 20, 2001. They flew across the sky one by one as if chasing each other. They were going faster than anything we have ever seen. One came by and then every 20 or so seconds afterwards another one flew by. We saw lights hit the fourth object then we saw it explode. The Fifth UFO was flying close to the fourth when it exploded.((NUFORC Note:  We will request that this student have reports from the other witnesses submitted to our Center.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21156.html](http://www.nuforc.org/webreports/reports/021/S21156.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
