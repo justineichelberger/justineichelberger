@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Nampa (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Smoke trails and hovering objectsFlying object emitting black smoke cloud</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165532.html](http://www.nuforc.org/webreports/reports/165/S165532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Anthony (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A strange site and then a ufo passed above usOnce on a clear night around racoon hunting season was what i expirenced. We had the hunting dogs chasing a racoon trail and everything was going fine. Until we looked off to the east i believe and saw a HUGE object entering the earths atmosphere. You could see the steady streak of flames it was leaving behind. At the time it hit the ground there was a very bright White light that filled the whole sky, you could not see your own hand if u held it in front of your face. It made no sound as it crashed to the ground. We really have no idea of what it was until a few days later the local news station said nasa had reported it as space debrie that landed in Austrailia! which i find really hard to believe since the object was so big. This is not even the strange part of the night. As the night continued the hunting dogs that we had takin with us were not responding to a call. These are very expirenced hunting dogs that have worked together for several years. About 30 mintutes later we heard one of the dogs barking about a mile and a half down the road we picked it up with our truck, but the other dog was no where to be found. These dogs have never split up when they are hunting so we found this odd. About 15 min later we finally heard the other dog its bark was very distant from where we were standing. We walked into a field in the general direction we heard the dog. The field was very open and directly infront of us about half a mile down in the field was a bunch of tree's so we figured the dog mush have a racoon tree'd. We headed off in that direction and when me and my uncle were in the middle of the field a huge round object appeared and was heading directly towards us. My uncle and I at first thought it was a plane and listend for the sound, as it slowly made it almost directly under us. The object had made no sound what so ever it just hovered. There was lights in the middle of the object that were evenly spaced and you could tell it went around the whole spacecraft. I was scared an asked my uncle if it was a plane, and he said no it had way to many lights to be a plane. I got really nervous and was shaking all over my heart was pounding so fast. Then the object went by us and wasnt seen again. After the object had disappered from site we heard the dog barking(again) this time very loud and very near from where we thought it once was. We picked up the dog and left the area immediatly not knowing exactly why the object had appeared or why the dogs were seperated and found about 1 mile away from each other.((NUFORC Note:  Date is approximate.  Witness elects to remain semi-anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/038/S38876.html](http://www.nuforc.org/webreports/reports/038/S38876.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
