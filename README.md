@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Victoria (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>This object was not metallic, it was organic.This event occurred at 0308 hrs, 20 November, 2016 in Victoria, Texas.  I saw an object in the moonless sky that was not a legacy saucer shape nor was it metallic, or have lights.  This object was organic, fleshy, and ‘seemed’ to be several miles long.The object described above was traveling from ESE to WNW.  My field of vision was 30% blocked by a tree to the east, I was facing south, and the object came into view over the tree. It took about 5 seconds to traverse my vision field to the westerly horizon.  But before doing so it changed direction by about 15 deg to the NW, and within 1 second my LOS was blocked by a neighbor’s rooftop.The object was estimated to be at or above earth’s atmosphere.  From my point of view, the object was approximately 4 inches long, if you able to measure it with a ruler.  Morning astronomical twilight was 0601 hrs, and sunrise was going to be near 0727 hrs on this date.  Moonrise was going to be near 2257 hrs, which places it underfoot.  The bottom of the object was reflecting light from the approaching sunrise.  The color range was from ‘pony tail badge’ to ‘pastel yellow’.  The estimated position (near edge of atmosphere) and length (several miles long) was calculated by the angle which light might hit an object at 300 miles ASL, estimated sunrise, trajectory (speeding away from sunrise), and it’s actual length perceived (4” long).The object can be described in this way:  Its dimension was 10 units long, 1 unit wide, and 0.1 unit thick.  Its horizontal axis was along its length.Shape was not unlike a colored crepe paper streamer when twisted like a double helix, DNA strand.It was almost certainly translucent. I could see through it. If it were not for the sun’s illumination I would not have seen it.It was ‘ribbed’ across it’s width. The ribs were narrow, rounded, and approximately 0.25 units thick. I would estimate that there were 25 ribs spaced evenly across a 10 unit length.The object rotated slowly on its horizon axis and looked like the above mentioned streamer if thrown into the air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/142/S142322.html](http://www.nuforc.org/webreports/reports/142/S142322.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New River (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The Night LifeMy friend and I were driving home after a late trip to the store.  I noticed a strange light above the mountains to the east of us. We stopped and watched the light and noticed several others. We have video of the lights, there were also several helicopters and jets in the air that night that appeared to by flying towards the lights. Another light then flew to the west of us, we have very good footage of this light it was very close, but no sound was made. Later a helicopter flew by in the same direction further away from us and you could clearly hear the sound and make out the description.((NUFORC Note:  Source of report elects to remain anonymous.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60039.html](http://www.nuforc.org/webreports/reports/060/S60039.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
