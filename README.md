@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New River (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>The Night LifeMy friend and I were driving home after a late trip to the store.  I noticed a strange light above the mountains to the east of us. We stopped and watched the light and noticed several others. We have video of the lights, there were also several helicopters and jets in the air that night that appeared to by flying towards the lights. Another light then flew to the west of us, we have very good footage of this light it was very close, but no sound was made. Later a helicopter flew by in the same direction further away from us and you could clearly hear the sound and make out the description.((NUFORC Note:  Source of report elects to remain anonymous.  Possible hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60039.html](http://www.nuforc.org/webreports/reports/060/S60039.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Round turquise, blue white disc hopping across the sky like a skipping stone.A round disc like shape, which was turquoise, blue and white, appeared instantly in the sky and moved 4 times, like someone was skipping a stone in water, quick , rapid, and then disappeared, having a very tiny trail of light behind it. I waited to see if there would be a crash or explosion. It was very large, very close, and very unusual. I have never seen anything like this at all.((NUFORC Note:  We spoke with this witness, and found her to be an exceptionally good witness.  She decribed the event with fine detail, and the object witnessed sounded to us to be bizarre, and probably not a meteor, in our opinion.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20525.html](http://www.nuforc.org/webreports/reports/020/S20525.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
