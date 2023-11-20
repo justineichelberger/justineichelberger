@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Oak Park (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>3 dots making arrows towards the southMy friend at I were at the park when he noticed a triangular glowing arrow heading south. Then we noticed that there were 3 seperate orange glowing dots in the arrow. Then when an airplance flew by it disapered</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26195.html](http://www.nuforc.org/webreports/reports/026/S26195.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Initially, looked like a shooting star, that was immediatly upon us-went from blue to glowing green-shot downward fast.Driving north on I-75 between Bass rd exit and Rumble Rd exit in Bibb County-I along with both of my sons spotted something in sky that appeared at first to be a shooting star-however realized it was right upon us, about 50 to 100 ft above the tree line.  Color changed from blue to green (glowing) as it slightly paused and then shot downward disappearing behind the trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115504.html](http://www.nuforc.org/webreports/reports/115/S115504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
