@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Johnstown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White light in night sky viewed for 15 minutes, traveled N to W and reversed it pathAt approximately 8:50PM EST I was outside putting things away for my neighbor who injured his back. I looked into the Northern part of the sky and saw a small, white dot in the sky moving rather slowly no flashing of lights, no colored lights, no cascading of any kind. This was a couple miles away, there were no sounds. It was traveling from the North where I first saw it to the West, towards Johnstown, PA. It seemed to mostly stay at the same speed but at varoius times it did decelerate when its speed increased it was where it left off no faster. It also kept it's original level flightline moving from my right to left. I was looking at it through binoculars and was moving laterally with it. About half way through this it either stopped or was now moving directly away from me. In my opinion it stopped because it didn't become smaller and harder to see. There was intermitent clouds but all in all it was clear and cool with a full moon. After it stopped it started to move back to where it was coming from the North. The speed seemed a little more accelerated at this point. Again same level flightpath. I kept viewing it while continuously moving to my left to get a better view. I also had to do this because it was going behind some large trees in my neighbors yard. I then lost total site of it but at that moment two other lights appeard where it seemed to stop one headed west one north. I stayed with the westward one because it was easier to view. This did flash white and red and could have been a plane. Whether or not it was something this object ejected or a plane I do not know. This isn't the first time I encountered strange things in the sky over the years. I have had 3 seperate encounters that makes this fourth one seem like nothing!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26188.html](http://www.nuforc.org/webreports/reports/026/S26188.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Koh Samui (Thailand) () reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Dramatic prove of E.T. visiting earth!Visiting Koh Samui island, Thailand, while observing the tropical night sky ful of stars, I noticed some "lights" jumped or moved in unusual manner. Lights where rotating like a fan changing color, brilliant white-blue, rubine red, pink, green and blue lights in "un-earth-ly" E.T. color spectrum.I went to town to find somebody with a better camera.We made 20 minutes with sonny VCR, same time I used my Canon PowerShot S45 for still and AVI shooting.Ever since I make photos of strange images, Yes almost every day I see objects, I have ca. 12 Gigabyte (20 000 single shots, plenty of AVI) digital images.((NUFORC Note:  Date is approximate.  We have requested a copy of the video.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35456.html](http://www.nuforc.org/webreports/reports/035/S35456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
