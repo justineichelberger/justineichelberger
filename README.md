@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sherman Oaks (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Orange and blue light up the sky!The sky lit up with a huge orange light then it in blue and then 2 more orange lights and a boom sound!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131386.html](http://www.nuforc.org/webreports/reports/131/S131386.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Object Floating In SKyLast night a beaming bright light was shining through my upstairs window.  I live near the Holiday Inn in Burbank.  I thought it was a movie set, but as I looked closer it was not.  It looked like an oval object.  A large bright light in the center, and it hurt to stare at.  I tried to obstruct my view a little, and saw red flames or boxes around the bright light.  It appeared to get closer, but still far away.  It hung out in the sky for twenty minutes.  Then it just lowered itself out of sight and never to be seen again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131405.html](http://www.nuforc.org/webreports/reports/131/S131405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
