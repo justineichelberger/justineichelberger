@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 20 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 balls of light, rapidly changing color, zipping off at, what seemed to be, the speed of light.I Driving along I-475 towards Toledo where I-75 and I-475 meet.  It was the last 10 minutes of a 3 hour drive from Cinci where I'd been living for the last 6 months or so, travelling back to Toledo for what *I think* was Thanksgiving. It was dusk, the sun had already set, but the sky was still somewhat illuminated.  Off to the right at about a 45 degree angle I notice 3 balls of light, each of which were somewhat stationary, rapidly changing colors from blue to green to orange to red to white, etc.  About 1 second later the balls started rapidly moving small distances (which seemed like them "revving up" as if they were getting ready to partake in a celestial drag race) and proceeded to zip into the sky, out of sight in a fraction of a second. Others were in front of and behind me on the road, as well as automobiles travelling in the opposite direction, so others probably witnessed the same thing. I feel like this is probably the most important thing I've ever witnessed in my life.  I'm 110% certain these were definitely not of our world.  They absolutely defied physics as we know it.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47583.html](http://www.nuforc.org/webreports/reports/047/S47583.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Dunnellon (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20 years - 20 years minutes.</sub><blockquote><sub>long time disturbancelatest was 21 nov night, I saw a bright star out of place...or maybe I felt it I don't know...strange feeling... I was afraid, I know the feeling, like goosebumps, electric feeling in spine.Hard to remember.  Always the same, fuzzy memories, like waking from a hangover.  woke up with pain in ear, strange smell like ammonia.  It's hard to explain.  I always thought it was a dream, nightmare.  Last year I got a dog to help, he pissed the floor and bit me when I touched him in morning.  This has gone on as long as I can remember but now I know it is not a dream.  Need to know if I can kill it.  I don't know what it is but nothing has ever made me so afraid, I'm sure it does not mean me well.  I am a combat veteran who served with the 82nd airborne in Iraq 03-04 and do not scare easily.  I had a memory come back to me a few years ago of one in my room, only time I can recall seeing it, small dark thin, it knew I  saw it and I blacked out.  I don't know if I'm repressing the memories or if I'm bat shit.  It is almost painful to try to remember and normally give up and go about my life.  Lately, I wake up with bruises, cuts, rashes...allergic reactions.  At this point I am going to try to kill them, set traps and sleep with dog and gun.  I wish I could put more in here, but it's like i'm in a fog when I try.  Please help me to understand what is happening.  And do you know if anyone has had success defending themselves and if so how.Thanks ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137503.html](http://www.nuforc.org/webreports/reports/137/S137503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [381](http://www.nuforc.org/webreports/reports/165/S165514.html)
-- [380](http://www.nuforc.org/webreports/reports/165/S165516.html)
-- [379](http://www.nuforc.org/webreports/reports/165/S165515.html)
-- [378](http://www.nuforc.org/webreports/reports/165/S165529.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165592.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
