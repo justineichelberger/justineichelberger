@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:08:20 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in West Richland (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Moving lights in the sky with what looked like radio/cell tower structures (beams) below them but too high in the sky to be towers..I was walking my dogs this morning.  I saw red and white lights in the sky.  They looked like radio towers or cell towers but they were too high to be either.  At first I thought, "how in the world could they have put up radio or cell towers sudddenly without my noticing it?"  I walked quickly to try to see where they were really located, knowing there were no hills or mountains around where they could be mounted upon.  The morning was foggy and cold, not sure what the temperature was but there was frost on windshields so I'd guess maybe 30 degrees.  I wondered if cold fog could create mirages where objects looked displaced from their actual physical location.  As I walked further east, trying to get a good look at them without bare trees in the way they were always behind the trees, meaning that they moved to the north slightly as I walked.  I can't remember for sure but it seemed like maybe 3 red lights and one white light with what looked like tower structures below them (beams?).  I headed south trying to get a look at them without bare trees in the way andd as I walked south they were still behind the trees, maybe 10-15 degrees above the horizon.  When I finally got to a point where I should have had a good view of them they disappeared.  As I drove to work I looked to see if there were any mountains or hills in the area where radio/cell towers would have been mounted just to check to make sure.  There were none.  As I said, it was a foggy morning since the Yakima River has fog over it on cold mornings this time of the year.  But the light/towers were well above the the height of the fog.((ADDENDUM FROM WITNESS))Follow up on report about red and white lights on what looked like radio towers; they were radio towers.The report I filed yesterday on the red and white lights turned out to actually be radio towers.  The fog must have played tricks with these making them appear much higher in the sky.  Apologies for reporting something that turned out to be simply radio towers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53544.html](http://www.nuforc.org/webreports/reports/053/S53544.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lakeville (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>TRIANGULAR LIGHT FORMATION IN SKY MAYBE 1000FT IN SKY.TRIANGULAR LIGHT FORMATION THAT PASSED OVERHEAD INTO CLOUDS.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124293.html](http://www.nuforc.org/webreports/reports/124/S124293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
