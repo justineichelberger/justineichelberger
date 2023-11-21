@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Williamsburg (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving west on highway 80, my husband and I witnessed this same exact object in the sky off to the north side of the highway.  A ball of neon green light popped into the sky, but was not far from the earth's ground.  It was still for 1-2 seconds and then began to fall with a line following down.  It then disappeared before hitting the ground.  This was in the middle of farmland, with nothing else around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137460.html](http://www.nuforc.org/webreports/reports/137/S137460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Seen bright, round, large white light, center very bright, duration 1-2 seconds.Observed bright large light in Northern sky. Sky was partially cloudy, wind direction SW to NE. Light was high in the sky. Center of light white, intense, round. Light dimmed within 1-2 seconds, then disappeared altogether. No recurrence. Reminded me of a light bulb which brightens before burning out. My position: approx. 2 miles south of Tumwater Airport which is located south of Olympia.((NUFORC Note:  We spoke with this witness, and found her to be quite articulate, and quite credible.  We believe she may have seen the flare of an Iridium satellite, but that is a guess.  We directed her to the Heavens-Above.com website to check to see if the flash could be ascribed to an Iridium flash.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15121.html](http://www.nuforc.org/webreports/reports/015/S15121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
