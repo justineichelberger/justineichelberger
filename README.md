@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Olympia (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Seen bright, round, large white light, center very bright, duration 1-2 seconds.Observed bright large light in Northern sky. Sky was partially cloudy, wind direction SW to NE. Light was high in the sky. Center of light white, intense, round. Light dimmed within 1-2 seconds, then disappeared altogether. No recurrence. Reminded me of a light bulb which brightens before burning out. My position: approx. 2 miles south of Tumwater Airport which is located south of Olympia.((NUFORC Note:  We spoke with this witness, and found her to be quite articulate, and quite credible.  We believe she may have seen the flare of an Iridium satellite, but that is a guess.  We directed her to the Heavens-Above.com website to check to see if the flash could be ascribed to an Iridium flash.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15121.html](http://www.nuforc.org/webreports/reports/015/S15121.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Tustin (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I saw a small black object rotating in the sky on my morning walk.I was taking a walk this morning in my neighborhood.   As I turned a corner, I looked up in the sky and saw a small black object floating slowly through the air.  It was difficult to get an idea of the distance but it seemd to be a few hundred feet high.  At first I thought it was a small balloon that someone had let go because it was coming from the direction of an elementary school by my house.   But as I got closer to it, it stopped floating and I could see that it was rotating in place.  As it rotated, the shape changed from a disc type shape, to a sphere and occasionally I saw some lights appear, sort of like two headlights.  It was truly unbelievable, but I stood there and watched it for several minutes and then it very suddenly dissappeared.  AMAZING!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53536.html](http://www.nuforc.org/webreports/reports/053/S53536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
