@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright Green Light above Mesai was in my car coming home from Phoenix with my mother. on the right was the 101 i was on the 202 i looked left and saw a bright green light and when i looked back i saw a green trail from where it flew off. it was circular and was green. if anybody else saw anything like this please email me @ ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33320.html](http://www.nuforc.org/webreports/reports/033/S33320.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Montague (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>WELL,FIRST ID REALLY LIKE WHOMEVER IS GOING TO READ THIS TO KNOW THAT I AM REALLY HAVING A HARD TIME   BELIEVING THIS MYSELF.I KEEP TRYING TO FORGET IT ,I TRY TO TELL MYSELF IT WAS  SOMETHING ELSE BUT ,I KNOW IT WASNT.I DELIVERED NEWSPAPERS BECAUSE IT WAS THE ONLY JOB I COULD BRING MY 2 YR OLD SON ALONG AS I AM A SINGLE PARENT.MY JOB WASNT THAT BAD BECAUSE AS LONG AS THEY WERE ALL DELIVERED BY 3PM ON THE WEEK DAYS IT WAS OK.ON SUNDAYS,THOUGH,IT HAD TO BE DELIVERED BY 8AM AND I HAD OVER 200 PAPERS.IT WAS ABOUT 6 IN THE MORNING,THE SKY WAS JUST STARTING TO SHOW.WHERE I WAS LOCATED YOU COULD SEE STRAIGHT ON TO ANOTHER MT-AS THERE WAS A VALLY BETWEEN.I LOOKED ,AND ALL I COULD DO WAS LOOK.MIND YOU I HAVE MY SON IN THE CAR WITH ME.IT WAS HOVERING-NOT ABOVE ME,IT STAYED OVER THERE.IT WAS A BABY BLUE LIGHT,AND BY THE SIZE IT WAS FROM WHERE ID SEEN IT IT MUST HAVE BEEN A REALLY BIG CRAFT.SEE,I COULDNT MOVE,AND I WAS SCARED.IHEARD AND FELT MY HEART BEAT IN MY EARS.IT HOVERED,LIKE I SAID BEFORE.IT DIDNT MOVE FAST BUT IT WENT DOWN ,TO THE RIGHT,DIAGONALLY BACK UP TO ITS ORIGINAL POSITION AND I DONT REMEMBER AFTER THAT.MAYBE I WAS TO SCARED TO REALLY CARE,OR I JUST DONT WANT TO REMEMBER.AFTER WHAT SEEMED AN ETERNITY, I TURNED MY CAR AROUND CALLING MYSELF STUPID PRAYING TO GOD THEY DIDNT SEE ME AND PRAYING TO GOD THEY WERENT BEHIND ME.I KNOW THIS SEEMS SO UNREAL,BUT EVERY DAY AFTER THAT I FEEL SO ALONE BECAUSE I CANNOT,CANNOT TELL ANYONE.AND IM SCARED THAT THEY MIGHT WANT TO HURT US ,I AM AFRAID TO SLEEP AT NIGHT,I FEEL LIKE A PARANOID SCHIZOPHRENIC,I LIVE WITH FEAR NOW.I WAS FINE THE REST OF THE WEEK,BUT THE FOLLOWING SUNDAY,I QUIT.NOW I WALK AROUND KNOWING FOR SURE WHAT PEOPLE ONLT FANTASIZE ABOUT.I AM SO SCARED, I MOVED BACK IN WITH MY MOTHER AND SLEEP WITH THE DOOR OPEN.IF ONLY I COULD KNOW IF THEY WERE BAD OR NOT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41744.html](http://www.nuforc.org/webreports/reports/041/S41744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
