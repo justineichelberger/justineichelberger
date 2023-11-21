@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:44 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Saint Bonifacius (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>BRIGHT light  low in the sky- middle of the day.Driving mid-day, saw a BRIGHT light a couple of miles to the south - like a reflection from a plane.  But usually a reflection would last only a second or 2 while the plane moves or while car is moving.  This thing looked as though it was a helicopter or small plane- only because it was so low- like right above the little town of St. Boni.  A couple minutes later, when I drove into town, this light/ object was WAY off the horizon- into the "high clouds". -like farther away than any of the other jet liners in the sky.  As far as the eye can see. Yet, still bright.Remind you:I could see this light the entire 3 minutes of driving into this town.  I couldnt take my eyes off it. I guess becaues it looked like a big "something" that was not moving- and so close to the ground.  It looked like a bright star.  Or like I said before, the reflection of a jet liner.  I could not see any object, only light.  I generally do not believe in ufo's...  But I have been brainstorming on what light this was, and how did it move so far away, so fast. I have no explaination.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53538.html](http://www.nuforc.org/webreports/reports/053/S53538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Williamsburg (IA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Driving west on highway 80, my husband and I witnessed this same exact object in the sky off to the north side of the highway.  A ball of neon green light popped into the sky, but was not far from the earth's ground.  It was still for 1-2 seconds and then began to fall with a line following down.  It then disappeared before hitting the ground.  This was in the middle of farmland, with nothing else around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137460.html](http://www.nuforc.org/webreports/reports/137/S137460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
