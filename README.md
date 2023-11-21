@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:44 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:45 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I AM WRITTING THIS BECAUSE I ALSO SAW THE SIGHTTING FROM ORLANDO ON NOV. 21-2004 , I WAS WITH A FRIEND AT HIS JOB WICH IS VERY CLOSE TO THE AIRPORT AND IT WAS AROUND 5 OR SO AND WE WERE TALKING OUTSIDE FOR AWHILE AND ALL OF A SUDDEN THIS BIG GIANT BRIGTH LIGHT SORT OF APPEARED AND LOOKED LIKE IF IT BLEW UP BUT SEPARATED INTO 3 PIECES AND AS THEY FELL THEY SUDDENLY DISAPEARED ,IT WAS VERY FAST BUT WE SAW IT AT THAT MOMENT ..............((NUFORC Note:  Witness indicates that date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/044/S44190.html](http://www.nuforc.org/webreports/reports/044/S44190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>white lights in sky over ocean which could not be airplanes, helicopters, or starscounted 12 white dots which would occasionally light up 5-10 times brighter than the brightest stars, turn their light off, dim, hover, move, hover again, move more, hover, light on, light off, dim light, bright light, even stay still for up to 5 minutes looking like another star before continueing on, some even started to have a blinking red light as if masquerading as an airplane, moved southward over ocean, not in formation, before leaving saw 1 come back up northward</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47877.html](http://www.nuforc.org/webreports/reports/047/S47877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
