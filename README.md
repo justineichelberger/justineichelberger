@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cecil (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 orange lights flying in formation - straight line, formation broke two went straight up, totally silent - seemed choreographed.I saw what I thought it was a formation of military helicopters flying single file just past the National Cemetery of the Alleghenies - I would estimate the height to be 3 to 5 thousand feet.  They looked to be bright orange lights which I thought strange.  What was even stranger, as I was driving I noticed I was gaining on them.  When I was almost underneath them I opened my sunroof to hear the rotors.  I heard nothing and pulled to the side of the road to see what they were.  I was stunned and when I finally had the sense to video them on my cell phone the formation had broken with the lead craft pulling to the side causing the formation to look like a right angle.  The lead craft then shot straight up into the sky and disappeared.  The next in line did the same.  The last two headed towards each other and did what almost looked like a dance with quick and seemingly choreographed movement before they both disappeared from view.  I have good video of this on my phone.  Again they never made a sound.  Still cannot believe what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131414.html](http://www.nuforc.org/webreports/reports/131/S131414.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Allen Park (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red Fireball in Southeastern Michigan sky 11/22/2012My husband and I were standing in the driveway of my mom's house (Thanksgiving Day 2012) and we noticed what appeared to be a red fireball coming our direction (heading north east).  It was much  lower than an airplane which caught our attention.   It moved swiftly but slow enough to get a good look at it.  My husband describes it acting like a jet engine as it looked like someone may have been "accelerating" and the red colored fireball would intensify in color and then return to its original red fireball appearance.  It kept doing this (accelerating type of activity) without making any noise.   There was nothing else in the sky around it .. just this one fireball.   We watched it move northeast until it went out of our line of sight.   I kept checking the websites to see if anyone else in the downriver area had this same experience and have not seen any reports to date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94807.html](http://www.nuforc.org/webreports/reports/094/S94807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
