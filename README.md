@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 21 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Honolulu (HI) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I observed red-orange orb lights floating on my back lanai at 3:30 am.I was awakened around 3:30 am and I was lying in my bed wondering why I had woke up.   Then something outside on my back lanai caught my eye.  My louver windows were closed but I saw a reddish-orange floating light outside the window.  It was about 5 ft. in the air.  Then 2-3 more of the same kind of lights appeared, making the total number of lights outside the window to being 4.  They seemed to be interested in the string of pinkish- red colored lights that I had on my lanai that were on at the time.  Then one of the lights left the others and flew close to my bathroom window that is located towards the back of the lanai behind the washer and dryer.  When the light came close to the bathroom window, which was also closed it illuminated the bathroom with a reddish -orange light.  It then floated back to join the other lights that were still floating in the air.  They remained there for awhile, about 15-20 minutes.  Then they just disappeared.  I was frozen sitting in my bed. I was frightened by it and didn't get a friendly feeling from these lights.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131716.html](http://www.nuforc.org/webreports/reports/131/S131716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Wanaque (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Prism ball of light viewed over West milford, NJ.A side to side circular motion.  Mostly hovering in one Spot.  Occationally darting up and down. In South western sky.  Prism colors twinkled.  Seemed to get further away.  The light seemed to also change volume like it was turning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73434.html](http://www.nuforc.org/webreports/reports/073/S73434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165522.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165523.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165524.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165521.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165513.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
