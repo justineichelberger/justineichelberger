@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Allen Park (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red Fireball in Southeastern Michigan sky 11/22/2012My husband and I were standing in the driveway of my mom's house (Thanksgiving Day 2012) and we noticed what appeared to be a red fireball coming our direction (heading north east).  It was much  lower than an airplane which caught our attention.   It moved swiftly but slow enough to get a good look at it.  My husband describes it acting like a jet engine as it looked like someone may have been "accelerating" and the red colored fireball would intensify in color and then return to its original red fireball appearance.  It kept doing this (accelerating type of activity) without making any noise.   There was nothing else in the sky around it .. just this one fireball.   We watched it move northeast until it went out of our line of sight.   I kept checking the websites to see if anyone else in the downriver area had this same experience and have not seen any reports to date.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94807.html](http://www.nuforc.org/webreports/reports/094/S94807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Virginia Beach (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright orange orbs off VA Beach, VA coastMy wife and I live on the beach just south of Dam Neck Naval Base.   We saw 2 bright orange orbs move from the north to the south along the coast.   The 2 orbs went away and a third appeared in the same area of the first two.   Several neighbors were outside and we heard their gasps of surprise and then heard them speculating on what we were all actually seeing.  My wife is very upset by this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94720.html](http://www.nuforc.org/webreports/reports/094/S94720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
