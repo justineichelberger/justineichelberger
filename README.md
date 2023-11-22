@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6:10 - 6:10 minutes.</sub><blockquote><sub>Just watched a bunch of small lights heading northeast  coming from area of Orion . Very small like when satellites go by- wondering if it’s all of Musk’s satellites or is something crazy going on - some here father apart and some in closer clumps - all heading. The same direction- I stopped counting at 40 .about the size of satellites or ISS when it goes by.. not seeing anymore .and its6:10 am</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150930.html](http://www.nuforc.org/webreports/reports/150/S150930.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>one light over Camp LSA, Kuwait; moving fast - made a "z" maneuver.high in the sky faint light - was using night vision goggles at the time of sighting traveling approximately north to south direction covered 1/3 of the night sky in approximately 5 sec.made one "Z" maneuver towards the end of the sighting((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73468.html](http://www.nuforc.org/webreports/reports/073/S73468.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
