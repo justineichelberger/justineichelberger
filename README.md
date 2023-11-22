@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Orange-Red Glowing Objects crossing the Phoenix Sky on Several ocassions.On or about 20:51 of November 22, 2018, my girlfriend and I witnessed several fireball looking objects crossing the sky south of Phoenix, then again on November 24th at about the same time and finally a third siting on 12/15/18, around 21:30.   Looking towards the south on the first siting, they were moving north north-east, second siting moving from the south moving north north-west and the final siting from the south moving north north-east again.  They appeared to be bright orange-red glowing objects, fireballs.  They didn't appear to be bright red in the videos I will be submitting, but they were with the naked eye, bright red-orange fireball looking objects usually following the same trajectory each night.  Sometimes just one visible, at other times, several at one time at an unknown distance apart in the sky.  I live in Arcadia, a suburb in east phoenix, with a view of southern sky.  They were moving at a speed consistant with airliners that I see departing Phoenix international airport.  They crossed the entire view of the southern sky to the east and west of my house to where I had to look north to see them disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144184.html](http://www.nuforc.org/webreports/reports/144/S144184.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While sitting in the passenger seat of my spouses vehicle, she immediately noticed bright lights above us as we were driving.  She noticed them first as she was driving and focusing on the road, but I quickly attempted to focus in on the lights as well as take out my phone to record it (which I qas lucky enough to do so).Above us were lights moving straight through the sky, it seemed to he somewhat of a cigar shape and made bo noise.  From the looks of the bright blue and red lights, it looked very close, but with the windows rolled down it didn't make a sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144506.html](http://www.nuforc.org/webreports/reports/144/S144506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
