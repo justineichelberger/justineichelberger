@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:29 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:23 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stanwood (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Circular Craft with multiple colored lights that twinkledI was watching the sky to the South-SouthWest around 4:15 AM on 11/22/19 and witnessed a circular craft with twinkling lights with multiple colors. It made short zig zagging patterns for about 20 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150933.html](http://www.nuforc.org/webreports/reports/150/S150933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Palo (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>out side of school medium(80-100'side) triange ship with light on each corner flying 20'over headmy friends and i had just left during a school basket ball game to go to the local party store to get a snack on the way back we decided to walk the back way around the school along the top of a large hill when to the east just out side of town we saw two bright light slowly rise straight up and then hover for a moment then a third light turned on in a triangle lay out(still hovering) then it started moving east directaly over us (about 20 feet up) as it did so the 3 lights were bright enough for us to see the craft was perfectally triangular with sides about 80-100 feet long it also had an unusuall black textuared surface it produce no sound except the sound of its slow movement through the air it traveled east until we lost sight of it ps. this is only one incident palo has alot of ufo sightings/phenomina</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04173.html](http://www.nuforc.org/webreports/reports/004/S04173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
