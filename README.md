@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waverly (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A gigantic flying boomerang with a dozen faint white lights on the front edge of it flying north to south at a tremendous speed,no noisI was standing in my back yard looking up at the night sky when I noticed some movement in the northern sky.  It looked like a faint white ribbon.  As it got closer I could tell that it was several seprate faint white lights shaped like a boomerang with a little bit of a nose on the front of it.  I would estimate at least 12 lights on the front of it.  It flew over my head very fast,no noise what so ever.  This thing was huge,very eerie. If a 747 was flying over my head at 100ft,thats how big this thing was.  I dont know the altitude of it,but it seemed to be very high in the sky.  I could make out the shape of it on the front edge but could se nothing behind it.  As it flew over my head it blocked out the stars, then I could tell it was a gigantic boomerang.  It proceeded to fly south and dissapeared in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67075.html](http://www.nuforc.org/webreports/reports/067/S67075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Orange-Red Glowing Objects crossing the Phoenix Sky on Several ocassions.On or about 20:51 of November 22, 2018, my girlfriend and I witnessed several fireball looking objects crossing the sky south of Phoenix, then again on November 24th at about the same time and finally a third siting on 12/15/18, around 21:30.   Looking towards the south on the first siting, they were moving north north-east, second siting moving from the south moving north north-west and the final siting from the south moving north north-east again.  They appeared to be bright orange-red glowing objects, fireballs.  They didn't appear to be bright red in the videos I will be submitting, but they were with the naked eye, bright red-orange fireball looking objects usually following the same trajectory each night.  Sometimes just one visible, at other times, several at one time at an unknown distance apart in the sky.  I live in Arcadia, a suburb in east phoenix, with a view of southern sky.  They were moving at a speed consistant with airliners that I see departing Phoenix international airport.  They crossed the entire view of the southern sky to the east and west of my house to where I had to look north to see them disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144184.html](http://www.nuforc.org/webreports/reports/144/S144184.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
