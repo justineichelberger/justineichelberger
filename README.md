@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kuwait () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>one light over Camp LSA, Kuwait; moving fast - made a "z" maneuver.high in the sky faint light - was using night vision goggles at the time of sighting traveling approximately north to south direction covered 1/3 of the night sky in approximately 5 sec.made one "Z" maneuver towards the end of the sighting((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73468.html](http://www.nuforc.org/webreports/reports/073/S73468.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Cave Creek (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Floating orange/red balls, night time, responded to visual stimulation then took off.It was Thanksgiving day and i was working at a restaurant.  I left and started to make the short drive home.  I was half way to my house when I saw 6 orange/red balls floating about 100 ft above me and 500 ft in front of me.  As i drove closer the appeared to be floating in one spot.  At first i thought they were Chinese fire lantern but as i got closer i knew that's not what they were because I've seem them released at my school and these were more like glowing balls.  I stopped my truck and got out.  I took a flashlight from my truck hoping to shine it on them to see what it was and once   I turned it towards them they darted north on cave creek rd at high speed towards the mountains and they were gone.  They were silent and about the size of a basketball.  I've done alot of research and have yet to find any explanation as to what they could be, until I saw similar reports from other people seeing the same type of orb.  Mind blowing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/114/S114378.html](http://www.nuforc.org/webreports/reports/114/S114378.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
