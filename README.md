@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bangor (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>RED, YELLOW, AND BLUE LIGHTS OVER BANGOR, MAINE.I was on a vacation I was in Bangor, Maine I ate at an ITALIAN RESTAURANT called EVO ITALIAN BRICKOVEN. When I got there I saw 3 circle UFOS. They had on the inside of the bottom red, yellow, and blue lights. Then I saw 3 triangler UFOS. One was red lighted with yellow dots on the corner, the other one was yellow lighted with blue dots on the corners, the other one was blue lighted with red dots on the corner. This happened on November 22, 2005 on a Tuesday night at 7:45 P.M. I watched these objects these UFOS hovered over the restaurant I was eating at. I kept seeing these UFOS and I walked around the restaurant and I still saw them then I lost sight of these objects and didn't see them no more. Then I went inside the restaurant to eat dinner after I ate dinner I came out of the restaurant and didn't see them no more. They didn't make a sound It was partly cloudy that night in Bangor, Maine. I got back in my car and went back to my motel. I was puzzled to see the UFOS that I saw outside where I ate at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50298.html](http://www.nuforc.org/webreports/reports/050/S50298.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waverly (OH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A gigantic flying boomerang with a dozen faint white lights on the front edge of it flying north to south at a tremendous speed,no noisI was standing in my back yard looking up at the night sky when I noticed some movement in the northern sky.  It looked like a faint white ribbon.  As it got closer I could tell that it was several seprate faint white lights shaped like a boomerang with a little bit of a nose on the front of it.  I would estimate at least 12 lights on the front of it.  It flew over my head very fast,no noise what so ever.  This thing was huge,very eerie. If a 747 was flying over my head at 100ft,thats how big this thing was.  I dont know the altitude of it,but it seemed to be very high in the sky.  I could make out the shape of it on the front edge but could se nothing behind it.  As it flew over my head it blocked out the stars, then I could tell it was a gigantic boomerang.  It proceeded to fly south and dissapeared in the southern sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67075.html](http://www.nuforc.org/webreports/reports/067/S67075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
