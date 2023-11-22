@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:44 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Noble (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>stream of lights in a perfect linemy friend yelled holy cow look at all these stars headed the same direction. i couldnt find my glasses when i finally did my friend and husband were watching a perfect line of far off light streaming across the sky. they appeared to come out of no where. some were in doubles my friend lost count after 38 and we stood there another min or two. before it ended. there were no sound and didn't appear to have the red and blue lights flashing most aircraft are required to have. there was a aircraft going diagonal to the lights that should have been able to see the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151035.html](http://www.nuforc.org/webreports/reports/151/S151035.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mount Kisco (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red lights traveling over Northern Westchester, NYAt approximately 8:45PM on Thanksgiving night 2012, I was outside with my daughter, facing east and witnessed 3 bright red glowing lights in the sky.  They were moving at a rapid pace, from east to north, beginning low in the horizon and then moving upward quickly and begin to move more slowly.  They reached a very high point in the sky, and then just stopped moving and hung motionless.  The lights dimmed and disappeared after 20 seconds, first the highest one, and then the other two lights.  There were no sounds emitted, there were not fire sparks or tail.  The time elapsed from when I first saw the lights to the time the last one disappeared was approximately 1 minute 30 seconds.  The night was very clear, there were no clouds.  Wind was minimal.As I continued to wonder what I just saw, I witnessed another red glowing light coming from the horizon out of the east on almost the same trajectory as the first lights I had seen.  The light was traveling quickly in a horizontal trajectory, and then began to move upward and slow its pace.  Then a second red light appeared, as well as a third with similar trajectory.  These lights also traveled quickly horizontally and then began to move upward toward the first light that was hanging motionless in the sky in practically the same position that the first set of lights were sighted.  The second and third lights began to slow as they ascended, and then hung motionless in the sky.  Again, there were no sounds emitted, there were no fire sparks or tail to any of these lights.  They appeared to dim and disappear after a minute.  This second sighting of lights occurred approximately 2 minutes after the first set of lights disappeared.	The distance of these lights from the ground were quite far away.  The lights were very red, very bright, although their altitude appeared to be that of a high flying aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94747.html](http://www.nuforc.org/webreports/reports/094/S94747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
