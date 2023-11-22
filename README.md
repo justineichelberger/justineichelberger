@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:23 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Palo (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>out side of school medium(80-100'side) triange ship with light on each corner flying 20'over headmy friends and i had just left during a school basket ball game to go to the local party store to get a snack on the way back we decided to walk the back way around the school along the top of a large hill when to the east just out side of town we saw two bright light slowly rise straight up and then hover for a moment then a third light turned on in a triangle lay out(still hovering) then it started moving east directaly over us (about 20 feet up) as it did so the 3 lights were bright enough for us to see the craft was perfectally triangular with sides about 80-100 feet long it also had an unusuall black textuared surface it produce no sound except the sound of its slow movement through the air it traveled east until we lost sight of it ps. this is only one incident palo has alot of ufo sightings/phenomina</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04173.html](http://www.nuforc.org/webreports/reports/004/S04173.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bangor (ME) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>RED, YELLOW, AND BLUE LIGHTS OVER BANGOR, MAINE.I was on a vacation I was in Bangor, Maine I ate at an ITALIAN RESTAURANT called EVO ITALIAN BRICKOVEN. When I got there I saw 3 circle UFOS. They had on the inside of the bottom red, yellow, and blue lights. Then I saw 3 triangler UFOS. One was red lighted with yellow dots on the corner, the other one was yellow lighted with blue dots on the corners, the other one was blue lighted with red dots on the corner. This happened on November 22, 2005 on a Tuesday night at 7:45 P.M. I watched these objects these UFOS hovered over the restaurant I was eating at. I kept seeing these UFOS and I walked around the restaurant and I still saw them then I lost sight of these objects and didn't see them no more. Then I went inside the restaurant to eat dinner after I ate dinner I came out of the restaurant and didn't see them no more. They didn't make a sound It was partly cloudy that night in Bangor, Maine. I got back in my car and went back to my motel. I was puzzled to see the UFOS that I saw outside where I ate at.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50298.html](http://www.nuforc.org/webreports/reports/050/S50298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
