@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:43 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow moving object going from the southwest to the southeast identifiedI was walking back to my car ending my early AM exercise routine in Griffith Park.  I looked in the sky and saw a light slowly moving from the southwest to the southeast.  It looked like a large light and a very dim small light.  I watched and after about 30 seconds it got brighter.  This usually indicates a satellite because it is spinning.  About 5 seconds it got dim again.  I continued watching it until it disappeared behind some trees.  I got in my car and came back to my apartment.  When I was driving back, I saw the same light moving at the same speed in the same direction.  I was pretty sure at this time it was a satellite.  When I got back into my apartment I went to my computer and opened up Stellarium (a very good program to see the night sky at any particular time).  Stellarium also views major satellites at the time.  I looked up the time at 5:35 and the direction that the object was moving.  The unidentified object turned out to be the Hubble Telescope.  Stellarium is a free program to download.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137364.html](http://www.nuforc.org/webreports/reports/137/S137364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Self-illuminated or ground reflection off object?On November 22, 2014, at approximately 1a.m., I noticed a round object in the sky at about the distance of 3 to 5,000 ft.  I could not tell if it was self illuminated or being reflected from ground lights as it was dimly lit.  It looked like a soft glow orange or soft white light.This object traveled west to east in a straight line and traveled about a mile from the time I saw it.  Estimated speed was 200 mph.  It reached a certain point and made a perfect 90 degree turn without slowing and proceeded south for about a quarter mile, when it accelerated to an incredible speed, perhaps a thousand mph or more, instantaneously.  It went past the tree line where my view was obscured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115645.html](http://www.nuforc.org/webreports/reports/115/S115645.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
