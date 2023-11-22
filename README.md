@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in St. Augustine (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Self-illuminated or ground reflection off object?On November 22, 2014, at approximately 1a.m., I noticed a round object in the sky at about the distance of 3 to 5,000 ft.  I could not tell if it was self illuminated or being reflected from ground lights as it was dimly lit.  It looked like a soft glow orange or soft white light.This object traveled west to east in a straight line and traveled about a mile from the time I saw it.  Estimated speed was 200 mph.  It reached a certain point and made a perfect 90 degree turn without slowing and proceeded south for about a quarter mile, when it accelerated to an incredible speed, perhaps a thousand mph or more, instantaneously.  It went past the tree line where my view was obscured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115645.html](http://www.nuforc.org/webreports/reports/115/S115645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cape Coral (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6:10 - 6:10 minutes.</sub><blockquote><sub>Just watched a bunch of small lights heading northeast  coming from area of Orion . Very small like when satellites go by- wondering if it’s all of Musk’s satellites or is something crazy going on - some here father apart and some in closer clumps - all heading. The same direction- I stopped counting at 40 .about the size of satellites or ISS when it goes by.. not seeing anymore .and its6:10 am</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150930.html](http://www.nuforc.org/webreports/reports/150/S150930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
