@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Beynes (France) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Full Description of event/sighting:  What appears to be directly or very close to the National Police/Military Special Forces training center. The light/lights are multicolored with some flashing, blue on top and bottom edges, white in the middle and flashing red in the center when tilted so that triangle shape is clearly visible. When somewhat edge on it appears to be six white lights with blue/red alternating in-between. it appears about half an inch to an inch in length at a distance from about two miles at a thirty to forty degree angle. Easily four or five times the size of mars which is due north from this position and the craft or whatever it is, is located due south from this position. Conditions are very clear and cold and all stars are easily observed. This however is quite large stationary for at least fifteen minutes or more and slowly gyrated somewhat end over end slowly due north about a foot but still relatively over the base without much change in altitude  This appeared to be directly above and in between a natural gas extraction facility and a military special forces/Gendarme trainning base.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48160.html](http://www.nuforc.org/webreports/reports/048/S48160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cecil (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 orange lights flying in formation - straight line, formation broke two went straight up, totally silent - seemed choreographed.I saw what I thought it was a formation of military helicopters flying single file just past the National Cemetery of the Alleghenies - I would estimate the height to be 3 to 5 thousand feet.  They looked to be bright orange lights which I thought strange.  What was even stranger, as I was driving I noticed I was gaining on them.  When I was almost underneath them I opened my sunroof to hear the rotors.  I heard nothing and pulled to the side of the road to see what they were.  I was stunned and when I finally had the sense to video them on my cell phone the formation had broken with the lead craft pulling to the side causing the formation to look like a right angle.  The lead craft then shot straight up into the sky and disappeared.  The next in line did the same.  The last two headed towards each other and did what almost looked like a dance with quick and seemingly choreographed movement before they both disappeared from view.  I have good video of this on my phone.  Again they never made a sound.  Still cannot believe what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131414.html](http://www.nuforc.org/webreports/reports/131/S131414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
