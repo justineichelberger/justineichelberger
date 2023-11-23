@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:42 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I saw a flashing aircraft of some sort traveling very rapidly from west to east to the north of topeka ks.At approxamately 2100 hrs on 11-23 I was a passenger in a car.  As we reached the top of a large hill I saw a white flashing object in the northern sky.  It traveled from west to east rapidly over a four second time period approxamately. It covered the whole expanse of the sky in that time.   The sky was overcast and I don't believe it was a shooting star.  I'm a forty year old housewife and have never had an experience like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26226.html](http://www.nuforc.org/webreports/reports/026/S26226.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Driving west down J Turner Butler Boulevard (by the intercostal area) we glanced up to see a white ball of light, standing still over the St Johns river.  It began traveling very quickly away from us horizontally- headed north.  It slowed down and sped up quickly and made impressive distance in a very short amount of time.  It appeared to also slightly dip and soar upwards smoothly a few times.  I kept my eye on it the entire time it was in view until it got so far away that it became hard to find through the trees.  It was pure white with no blinking lights or anything else that would make me believe it was an airplane or helicopter. Was amazing to see!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115577.html](http://www.nuforc.org/webreports/reports/115/S115577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
