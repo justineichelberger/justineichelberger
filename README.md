@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:48 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:07 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five of f us witnessed a cigar-shaped wingless aircraft with a light shining inside of its windows hover over us..We were out in the front yard in the evening and all of a sudden a metal (aluminum color) cigar shaped object the size of a DC-3 aircraft hovered above us.  We could see square shaped lighted up windows (like in an airplane) and two wheels going around the aircraft.  There were no wings.  It stayed above us for a while and then a bright light along with a hissing sound shown out one side of the cigar shaped object.  The light started to form a bell-shaped object out of one end side of the craft.  Then it silently started to rise and disappeared high into the night sky.  We called the Bonham Airforce Base, but they said that they saw "nothing".  The next day I read in the newspaper that a lady who was fishing at night saw a UFO with a "bell shaped light" coming out of one side. However, no one believed us so we said nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13014.html](http://www.nuforc.org/webreports/reports/013/S13014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stayed in proximity 5 degrees north of moon.Object was high in the east, about 5 degrees north  of moon.  Object would remain stationery then move erratically (up down right and left quickly).  Bright like a plant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104711.html](http://www.nuforc.org/webreports/reports/104/S104711.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
