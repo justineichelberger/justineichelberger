@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:07 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:52 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Warren (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Stayed in proximity 5 degrees north of moon.Object was high in the east, about 5 degrees north  of moon.  Object would remain stationery then move erratically (up down right and left quickly).  Bright like a plant.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104711.html](http://www.nuforc.org/webreports/reports/104/S104711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was sitting looking at the night sky when a perfect line of 4 moving lights appeared, I was in awe staring, then out of nowhere more balls of lights keep appearing in a straight line, there must of been 15-20 of these lights moving in a perfectly straight line, one right after another coming from out of the sky.  It was one of the most miraculous experiences I’ve ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151022.html](http://www.nuforc.org/webreports/reports/151/S151022.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
