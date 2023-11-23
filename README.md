@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:33 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Driving west down J Turner Butler Boulevard (by the intercostal area) we glanced up to see a white ball of light, standing still over the St Johns river.  It began traveling very quickly away from us horizontally- headed north.  It slowed down and sped up quickly and made impressive distance in a very short amount of time.  It appeared to also slightly dip and soar upwards smoothly a few times.  I kept my eye on it the entire time it was in view until it got so far away that it became hard to find through the trees.  It was pure white with no blinking lights or anything else that would make me believe it was an airplane or helicopter. Was amazing to see!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115577.html](http://www.nuforc.org/webreports/reports/115/S115577.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Stockton (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A woman called to report that she and her daughter, after going to a pharmacy, were driving home from Lodi to Stockton along Route 3 and other rural roads. Suddenly, her daughter saw a big round disc, with bright lights inside its rim, that appeared to be following them.  They lost it and got back in the car (!!), and went to a second pharmacy.  When they left the second pharmacy, they witnessed the object a second time, this time right beside their car.  They got a very good look at the object this time. It appeared to them to be the size of an aircraft--perhaps a 747--and it was distinctly round.  When asked, the caller said she thought it was more spherical than circular.  It had many white lights on it, perhaps a hundred or more. The occupants of other cars saw it, too.  There were possibly two other cars that had stopped, and the occupants were standing outside looking at the object.  They were stopped in an area which is totally dark, with nothing but fields around.They called the Lodi Police to inquire whether there had been other calls.  They said there had been no other calls. I gave the caller Ruben Uriarte's address.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01661.html](http://www.nuforc.org/webreports/reports/001/S01661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
