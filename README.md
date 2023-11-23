@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Near Big Lake (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stopped at intersection on 190 and 137. My son and I saw the craft over head. Approximately 500 feet long. Flying low, craft had no wings and made no noise. Craft turned. We took a photo and drove away as craft turned to follow us. Followed us fo less than a minute and turned again. Went back south. Had come from Northeast direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160830.html](http://www.nuforc.org/webreports/reports/160/S160830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Philadelphia (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Black balloon and another man in black.November 2008, about 5 minutes past 8:00 pm.  I'm walking home alone from a friend's house.  Something catches my eye on the night sky.  It looks like it appears to be a black balloon drifting above the sheet metal factory that's located above my block as I'm thinking.  I keep my eyes on it with the intentions of watching the balloon until it drifted away and was no longer in sight.  But this object didn't do just that, it paused in mid air.  Once that happened, I slowly jogged closer to the sheet metal factory to get a much better view.  What I then seen in the sky was a perfect black circle with a thin white rim around it. Very still and not moving but floating above the metal factory.  I was the only person outside at the time.  On usually a bright busy street it seem very still and somewhat dark that night, for the circle to be darker than the sky.  My cell phone wasn't advanced enough to take a good photo of the object so I figured why waste my time trying to record ! for such poor quality.  I keep my eyes on the object for a good 15 seconds.  Suddenly, the white door beside the sheet metal factory on Wyncote avenue opens up and out came a African American male wearing all black.  Long sleeve black shirt, black pants, and black boots.  This man was standing directly under the object floating about the building.  He smoothly lit up his cigarette staring at me from across the street, but I gave him temporary attention and looked back up at the object.  Then in a quick second, the object disappears.  Not saying a word to the man in black across the street.  I anxiously run to my house and tell everyone the exclusive news.  This happened at the very exact location of me meeting the strange Asian like man in black.  This took place many months close to a year after my first encounter.((NUFORC Note:  One of three seemingly credible reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/120/S120982.html](http://www.nuforc.org/webreports/reports/120/S120982.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
