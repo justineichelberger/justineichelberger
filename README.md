@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Onalaska (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My wife and I and our 3 year old son had arrived home . We had gotten out of the vehicle.  I proceeded to go to the front door and my wife was just in shock.  She explained to me what she had just seen across the street in the sky.  I looked back and I seen nothing.  We quickly went in the house and zi looked at our Ring Doorbell to see if it captured anything. Out camera captured some but not all of what happened.  It missed what my wife had seen but clearly shows some disturbance in the sky.  Our camera also picked up a flying anomaly when the front door was shut.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151003.html](http://www.nuforc.org/webreports/reports/151/S151003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hialeah (FL) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Huge flash diamond in the sky.I was in the street with 3 other people when I was looking to the sky I saw a diamond like star unusually close to the sky then a huge flash and then It left extremely fast as if it had shot something and when I came back inside my feet had been bleeding.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  We do not understand why.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85463.html](http://www.nuforc.org/webreports/reports/085/S85463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
