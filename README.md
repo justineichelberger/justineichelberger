@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Loveland/Fort Collins (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle ship following a ball of light.Triangle ship with lights that were triangle to.  It was following a small ball of light.  Watched them fly north along the Rockies.  They flew to the south side of Fort Collins, and the the ball turned south and so did the ship.  They were not moving very fast all.  Before I left Fort Collins, I saw a low flying military airplane flying over the south side of Fort Collins.  Looked like a HUGE plane, but going slow, too.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/119/S119368.html](http://www.nuforc.org/webreports/reports/119/S119368.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Glendale () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangular ufoMy partner and i decided to have dinner out, so we went to glendale, new south wales, australia.  Whilst we were eating in our car i noticed lights in the sky from a distance.  I told my partner as we both were watching i took note of the time 20:45.We continued to watch as it got closer we came to realization it was triangular.  There was no sound coming from the object which was no more than 200 metres above us not even we could not see any sort of colour it blended with the night  we saw 3 headlights at the front and 2 red pulsing lights in the middle at the front of the aircraft than 2 pulsating red lights at the back it definitely was not human aircraft due to how low the thing was and how slow it was moving this is not a hoax this is legit myself and my partner saw it the event lasted for 5-7 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104710.html](http://www.nuforc.org/webreports/reports/104/S104710.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
