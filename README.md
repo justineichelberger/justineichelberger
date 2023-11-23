@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:52 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Woodland Hills (CA) reported seeing craft that fit the description of some '' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I was sitting looking at the night sky when a perfect line of 4 moving lights appeared, I was in awe staring, then out of nowhere more balls of lights keep appearing in a straight line, there must of been 15-20 of these lights moving in a perfectly straight line, one right after another coming from out of the sky.  It was one of the most miraculous experiences I’ve ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151022.html](http://www.nuforc.org/webreports/reports/151/S151022.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Leaving Pensacola 30-45 mins outside of Pensacola (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>11/23/19 abt 4am/415am in Florida leaving Pensacola, FL riding on I10 to Orlando, FL a group of cars not traveling with us in tow.  I think i just seen a UFO Huge triangle 3 red lights one side was flat no center under belly light but a thick band ran across the bottom. Couldnt take a pic my seat belt locked in place. I googled to see if any power lines in the area resembled it....but instead got links of UFO sightings displaying EXACTLY what i seen. I saw more detail than some of the pics I've seen in my very short seach. I'm about to do some more research. I wonder if the line of cars behind and beside us posting about this too. Mind blowing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151036.html](http://www.nuforc.org/webreports/reports/151/S151036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
