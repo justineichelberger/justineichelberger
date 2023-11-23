@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:50 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Willinton (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange pinkish object flying straight up into skyI was heading home on 84 West highway in Connecticut and just passed the exit for Willington, when in the sky I seen what looked like 3 stars very close to together in a cluster through my front windshield. I did a double take because one of the starts was brighter amd almost an orange pinkish haze. I thought no way that is Mars, too low and too bright. As I continue to drive on 84 I start to see the orange pinkish light start to move straight up, away from the cluster and then I realize only 2/3 starts were actually stars. I keep my eye on it while trying to maintain correct speed on highway and notice it start to go straight up then almost curve towards the direction of the moon that was seen through my drivers side window. While it is moving away from my front windshield and toward my driver's window I take a picture, I thought I got a video but somehow the video erased while switching to camera mode. I followed it until it was out of sight and the whole ! situation was less than a minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160771.html](http://www.nuforc.org/webreports/reports/160/S160771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cabot (AR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3mm - 3mm minutes.</sub><blockquote><sub>large fast  formation in the sky.white formation above low clouds at 10:15pm on 11/23/03 over cabot arkansas</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33350.html](http://www.nuforc.org/webreports/reports/033/S33350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
