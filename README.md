@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 22 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:48 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Carmichael (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>So i took the first couple pictures at 4:44pm and then the last 2 at 4:50pm and never saw what i captured until a week later when i was getting ready to send them to my girlfriend at the time.. I was driving back from Lincoln on 80 west and at the time I was talking to this girl that really liked taking pictures of sunsets and while I was driving the sky looked really crazy that day so I had my phone mounted on the dash board and starting snapping pictures as I was driving down 80 west and in several of the pictures i saw at least 3to5 UFOs in the pictures and the only thing I've done to the pictures was watermark them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/164/S164167.html](http://www.nuforc.org/webreports/reports/164/S164167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Kapaa (HI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Five of f us witnessed a cigar-shaped wingless aircraft with a light shining inside of its windows hover over us..We were out in the front yard in the evening and all of a sudden a metal (aluminum color) cigar shaped object the size of a DC-3 aircraft hovered above us.  We could see square shaped lighted up windows (like in an airplane) and two wheels going around the aircraft.  There were no wings.  It stayed above us for a while and then a bright light along with a hissing sound shown out one side of the cigar shaped object.  The light started to form a bell-shaped object out of one end side of the craft.  Then it silently started to rise and disappeared high into the night sky.  We called the Bonham Airforce Base, but they said that they saw "nothing".  The next day I read in the newspaper that a lady who was fishing at night saw a UFO with a "bell shaped light" coming out of one side. However, no one believed us so we said nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13014.html](http://www.nuforc.org/webreports/reports/013/S13014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [386](http://www.nuforc.org/webreports/reports/165/S165539.html)
-- [385](http://www.nuforc.org/webreports/reports/165/S165535.html)
-- [384](http://www.nuforc.org/webreports/reports/165/S165552.html)
-- [383](http://www.nuforc.org/webreports/reports/165/S165534.html)
-- [382](http://www.nuforc.org/webreports/reports/165/S165526.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
