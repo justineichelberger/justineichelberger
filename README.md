@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hartford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three circular objects in the sky floated at a high altitude , seemed like spotlights but there no obvious source for spotlights, were in triangular formation, converged into one object then split apart into a triangle again.Lights that seemed to almost dance looked like very large spot lights , first seen in a triangular formation then converged into one object then split into  three again and did this a couple times before totally disapearing with no sound The objects were of white opaque color. We were at a cemetary at a little bit after 8:00. I am a Unix Network Admin and Computer Technician  also currently involved in college my female friend is also a student.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05357.html](http://www.nuforc.org/webreports/reports/005/S05357.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Onalaska (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>My wife and I and our 3 year old son had arrived home . We had gotten out of the vehicle.  I proceeded to go to the front door and my wife was just in shock.  She explained to me what she had just seen across the street in the sky.  I looked back and I seen nothing.  We quickly went in the house and zi looked at our Ring Doorbell to see if it captured anything. Out camera captured some but not all of what happened.  It missed what my wife had seen but clearly shows some disturbance in the sky.  Our camera also picked up a flying anomaly when the front door was shut.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151003.html](http://www.nuforc.org/webreports/reports/151/S151003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
