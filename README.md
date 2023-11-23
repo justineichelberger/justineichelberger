@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Extremely bright, vibrant light hovering in sky south of Jupiter, FL.  Was not moving. Estimsted 300 ft off ground.  No other lights appearing to distinguish it as airplane or helicopter.((NUFORC Note:  Sighting of Venus?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124310.html](http://www.nuforc.org/webreports/reports/124/S124310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Topeka (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I saw a flashing aircraft of some sort traveling very rapidly from west to east to the north of topeka ks.At approxamately 2100 hrs on 11-23 I was a passenger in a car.  As we reached the top of a large hill I saw a white flashing object in the northern sky.  It traveled from west to east rapidly over a four second time period approxamately. It covered the whole expanse of the sky in that time.   The sky was overcast and I don't believe it was a shooting star.  I'm a forty year old housewife and have never had an experience like that before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26226.html](http://www.nuforc.org/webreports/reports/026/S26226.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
