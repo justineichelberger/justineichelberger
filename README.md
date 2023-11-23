@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Holly (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very personal sighting.I walked outside my barn and looked up in the sky and two of them flew up over my head at about 20,000 ft.  I stared up at the two lights because i knew they were looking down on me because right when i walked out and looked up they focused their light down on me.  They either lost interest or sensed my uneasiness and their lights dimmed as they flew off from a complete stand still.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94772.html](http://www.nuforc.org/webreports/reports/094/S94772.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Exeter (NH) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>black diamond on video in broad daylightI captured a diamond shaped object on video in broad daylight.  The object was black then copper colored then faded out then black again.  It repeated this pattern 4-5 times.  It would remain each color for about 2 mins.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86426.html](http://www.nuforc.org/webreports/reports/086/S86426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
