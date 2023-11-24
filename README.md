@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:30 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amber / Orange lights evenly spaced in a line moved north quickly and disappeared in the cloudsMy mother had just returned home and she burst into the house yelling, "Come outside and see the lights!"  She sounded nervous and excited.  She ran outside and pointed out 5 lights that were moving quickly north.  My mom said that when she was driving, there were at least twice as many lights, arranged in two groups.  One group was arrayed in a wedge shape, and the other was in a line.  She had tried calling us on her cell phone, but she couldn’t find it in the car.  She saw a man that had pulled over at a nearby intersection who had gotten out of his car to watch the lights.The remaining lights were all in a north-south line, more or less evenly spaced.  The lights were a strange amber / orange color, unlike any we had ever seen on an aircraft.  The lights did not blink, they remained a constant glow.  One by one the lights flew north rapidly and disappeared into cloud banks.  We couldn’t hear any noise from the lights.It was dark with a high cloud cover and intermittent showers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85473.html](http://www.nuforc.org/webreports/reports/085/S85473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Naguabo (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red/white/green flickering stationary triangular object over ocean  500 Lights On Object0: YesI and two others witnessed a flickering red/white/green stationary triangular object in the sky over the SE direction from Naguabo Puerto Rico towards St. Thomas.  It's still currently in the sky.  I have a compass reading & video shot on my iPhone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85472.html](http://www.nuforc.org/webreports/reports/085/S85472.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
