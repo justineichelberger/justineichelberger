@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:30 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Naguabo (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red/white/green flickering stationary triangular object over ocean  500 Lights On Object0: YesI and two others witnessed a flickering red/white/green stationary triangular object in the sky over the SE direction from Naguabo Puerto Rico towards St. Thomas.  It's still currently in the sky.  I have a compass reading & video shot on my iPhone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85472.html](http://www.nuforc.org/webreports/reports/085/S85472.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Five faint red things in a fast and silent V formation in Denver at 5:52pm on 11/24/00 with no running lights?7 miles south of downtown at Broadway and Evans,I went out to get the cat and the biggest shooting star I've ever seen goes from north to south very fast and bright. So I look for more, and 10 seconds later coming from the west heading to the east are 5 faint red triangle shaped jet looking objects in a perfect V formation about 15 to 20,000 feet moving fast and completly silent.They went right over me and on to the horizon in the east.They had no running lights or sound.And then, when they went out of sight and right where they started, a white light just turns on and looks like a bright star just sitting there and then turns off, moves over 10 degrees and turns on again.I know what your thinking, but they were not any clouds yet. Then a small plane comes in from the northeast and the light goes out and the show is over.It had just got dark and the sky still had the blue look to it. The only reason I saw saw this was because the city lights reflected off them making them visible against the dark blue sky behind them.If these are ours... I did not see anything O.K.?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15034.html](http://www.nuforc.org/webreports/reports/015/S15034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
