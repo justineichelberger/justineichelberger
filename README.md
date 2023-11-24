@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:23 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ridgeville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Leaving Volvo plant from night shift, turned into Volvo Car Drive, towards 176, and saw what I thought was a fire truck with all red lights going crazy in the middle of the road, before the 4 way stop signs thinking it was an accident.  As I was getting closer, about 100 yards, vanished, as if someone turned a light switch off, and as there was nothing there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143872.html](http://www.nuforc.org/webreports/reports/143/S143872.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Poway (CA) reported seeing craft that fit the description of some '' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>She and her husband telephoned the Center to say that they were watching a "bunch of lights--flashing" in the sky. The husband was uncertain which direction they were looking.  Both observers stated that the object was moving.  They succeeded in getting approximately 5 minutes of footage on a video camcorder.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01648.html](http://www.nuforc.org/webreports/reports/001/S01648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
