@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Calhoun (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Could not see the entire shape because of cloud cover.but rear was straight.There were no lights,no sound,but I could see underneath clearly, because of city lights. The craft had two square objects visible in each corner, with connecting tubes or pipes.MotionlessI observed the object walking between building on company property where I work, I had raised a production tag up above my head to see the machine number in the security lights, because it was still dark, "5:00 am". I would have never have known it was there if I hadn`t looked up, it  made absolutly no sound ,with no lights but the city lights must have made the bottom visible because it was very clear. I never was able to see the front of the craft because of the cloud cover, which was coming from the south, or the left side because of the building walls which are about 20 or 25 feet tall,therefore I cannot say how large it actually was,slowly moving or motionless.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04913.html](http://www.nuforc.org/webreports/reports/004/S04913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rigby (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>7 distinct bright objects were spotted in the northeast sky, one by one, they disappeared instantaneously.7 distinct bright objects were spotted in the northeast sky. One by one, they disappeared instantaneously. They were a sort of crimson red color. They weren't moving in any way that was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160796.html](http://www.nuforc.org/webreports/reports/160/S160796.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
