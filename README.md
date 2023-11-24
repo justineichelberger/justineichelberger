@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Bitterroot Valley (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very large and very bright light in the SSE sky over the Mountain Range.I was driving home around 11:15pm from Missoula to Florence, as I turned onto Old HWY 93 I noticed a very large bright light in the sky.  The direction was roughly SSE of Florence and I would guess about eleven miles from HWY 93.  It was bright yellow and hovering over the first saddle of the Mountian range when I saw it.  I know that there isn't a radio tower that has that strong of a light, and I can't say that I have ever seen a radio tower over that direction.  The light stayed stationary until I reached the county line and then it was lost behind some trees.  When I past the trees the light was gone...not a trace.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04912.html](http://www.nuforc.org/webreports/reports/004/S04912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green fireball falling to the groundA green fireball appeared quickly, looked like it was falling from the sky, lasted only seconds.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15054.html](http://www.nuforc.org/webreports/reports/015/S15054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
