@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green fireball falling to the groundA green fireball appeared quickly, looked like it was falling from the sky, lasted only seconds.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15054.html](http://www.nuforc.org/webreports/reports/015/S15054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ft. Campbell (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>several lights, one yellow, the others red, traveling at extreme speeds over Kentucky military baseWhile watching a military skeet shooting contest at Ft. Campbell, a bright yellow light streaked overhead, disappearing to the south.  A light rain was falling and, assuming it was near the base of these low clouds, it would have been going several thousand miles an hour.  About 10 seconds later, two red lights, coupled side by side, followed the same path, but were going at about half the speed.  These lights, which also disappeared to the south, were much larger than the yellow light but were not as bright.  I was wearing ear protectors because of the deafening gun noise, so I was unable to detect any sounds these lights may have made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73729.html](http://www.nuforc.org/webreports/reports/073/S73729.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
