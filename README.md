@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ware (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white light in circle shape over ware mass.We saw one bright light it did not move for thirty min.Then it disappeared we took video and the camera saw what we saw.  When we took camera pictures the camera saw more then what we saw with the naked eye many lights we can not explain that looked really creepy.  We used an I phone to capture our shots.  I've seen this thing two other times with in a three month span.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110260.html](http://www.nuforc.org/webreports/reports/110/S110260.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Riverside (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two large Fireballs slowly moving south to north 11-24-11We observed 2 rather large orange fireballs traveling south to north in the sky directly overhead.  Moving slowly and looking like burning fireballs, growing brighter and dimmer and brighter as they traveled. Moving relatively slow, not like a meteor, too slow and yet faster then a air force jet.  They did not seem to come towards the earth, but appeared to be passing by in space?  One of our witnesses seen two more 20 mins later, same area and projection of travel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85477.html](http://www.nuforc.org/webreports/reports/085/S85477.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
