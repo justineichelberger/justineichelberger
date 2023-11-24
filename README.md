@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lathrop (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Formation of floating lights in Thanksgiving night skyThis report is in response to your segment on Coast to Coast AM on Thanksgiving night concerning the red/orange lights in the sky.On Thanksgiving night November 24, 2011 at around 2030-2045 I stepped outside my house to go to work as a night security guard.  In the Eastern sky over Lathrop CA and headed toward Manteca CA the next city over, there were about 8-10 red lights in formation floating in the sky.  It seemed that the lights were moving slowly West to East.At first I tried to rationalize the lights as Asian Sky Lanterns but all of the lights moved in formation like a flock of birds and always maintained the same speed and interval.My neighbor also saw the lights, though I cannot say that he was sober that night.  Hopefully this report is part of a bigger puzzle from that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105003.html](http://www.nuforc.org/webreports/reports/105/S105003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amber / Orange lights evenly spaced in a line moved north quickly and disappeared in the cloudsMy mother had just returned home and she burst into the house yelling, "Come outside and see the lights!"  She sounded nervous and excited.  She ran outside and pointed out 5 lights that were moving quickly north.  My mom said that when she was driving, there were at least twice as many lights, arranged in two groups.  One group was arrayed in a wedge shape, and the other was in a line.  She had tried calling us on her cell phone, but she couldn’t find it in the car.  She saw a man that had pulled over at a nearby intersection who had gotten out of his car to watch the lights.The remaining lights were all in a north-south line, more or less evenly spaced.  The lights were a strange amber / orange color, unlike any we had ever seen on an aircraft.  The lights did not blink, they remained a constant glow.  One by one the lights flew north rapidly and disappeared into cloud banks.  We couldn’t hear any noise from the lights.It was dark with a high cloud cover and intermittent showers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85473.html](http://www.nuforc.org/webreports/reports/085/S85473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
