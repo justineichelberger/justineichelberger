@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ft. Campbell (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>several lights, one yellow, the others red, traveling at extreme speeds over Kentucky military baseWhile watching a military skeet shooting contest at Ft. Campbell, a bright yellow light streaked overhead, disappearing to the south.  A light rain was falling and, assuming it was near the base of these low clouds, it would have been going several thousand miles an hour.  About 10 seconds later, two red lights, coupled side by side, followed the same path, but were going at about half the speed.  These lights, which also disappeared to the south, were much larger than the yellow light but were not as bright.  I was wearing ear protectors because of the deafening gun noise, so I was unable to detect any sounds these lights may have made.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73729.html](http://www.nuforc.org/webreports/reports/073/S73729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lathrop (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Formation of floating lights in Thanksgiving night skyThis report is in response to your segment on Coast to Coast AM on Thanksgiving night concerning the red/orange lights in the sky.On Thanksgiving night November 24, 2011 at around 2030-2045 I stepped outside my house to go to work as a night security guard.  In the Eastern sky over Lathrop CA and headed toward Manteca CA the next city over, there were about 8-10 red lights in formation floating in the sky.  It seemed that the lights were moving slowly West to East.At first I tried to rationalize the lights as Asian Sky Lanterns but all of the lights moved in formation like a flock of birds and always maintained the same speed and interval.My neighbor also saw the lights, though I cannot say that he was sober that night.  Hopefully this report is part of a bigger puzzle from that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105003.html](http://www.nuforc.org/webreports/reports/105/S105003.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
