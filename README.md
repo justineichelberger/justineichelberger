@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:30 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Rigby (ID) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>7 distinct bright objects were spotted in the northeast sky, one by one, they disappeared instantaneously.7 distinct bright objects were spotted in the northeast sky. One by one, they disappeared instantaneously. They were a sort of crimson red color. They weren't moving in any way that was visible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160796.html](http://www.nuforc.org/webreports/reports/160/S160796.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jim Thorpe (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 spherical bright white lights turned into a dim bluish light moving fast horizontallyI was in my car driving at about 15mph after just pulling out of my driveway, when I noticed flashing lights to my left. At first I thought it was just an airplane, but upon closer inspection the object appeared to be stationary. So I stopped my car and stared at it for about 2 minutes. It wasn’t moving. There were 3 spherical bright white lights, with the middle light appearing slightly larger then the 2 outer lights. The lights were located about midway above the horizon.Then the lights disappeared and turned into one dim bluish light resembling a star, but a bit larger, that was moving upwards at a very high speed. Then it disappeared and scanning I saw the light again on my right all the way on the other side of the sky. It was moving very fast horizontally as a dim blue light, not blinking like an airplane would be. Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73449.html](http://www.nuforc.org/webreports/reports/073/S73449.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
