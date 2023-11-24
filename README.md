@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:30 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jim Thorpe (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 spherical bright white lights turned into a dim bluish light moving fast horizontallyI was in my car driving at about 15mph after just pulling out of my driveway, when I noticed flashing lights to my left. At first I thought it was just an airplane, but upon closer inspection the object appeared to be stationary. So I stopped my car and stared at it for about 2 minutes. It wasn’t moving. There were 3 spherical bright white lights, with the middle light appearing slightly larger then the 2 outer lights. The lights were located about midway above the horizon.Then the lights disappeared and turned into one dim bluish light resembling a star, but a bit larger, that was moving upwards at a very high speed. Then it disappeared and scanning I saw the light again on my right all the way on the other side of the sky. It was moving very fast horizontally as a dim blue light, not blinking like an airplane would be. Then it disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73449.html](http://www.nuforc.org/webreports/reports/073/S73449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Elkton (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>4 bright white spheres flying at incredible rate of speed.  I thought it was a shooting star at first but then noticed no trail and also noticed 4 flying in formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137405.html](http://www.nuforc.org/webreports/reports/137/S137405.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
