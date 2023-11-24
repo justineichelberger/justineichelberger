@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Laredo (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>UFO sighted over U.S - Mexico border town.On 11-24-2003, at approximately 1920hrs, in Laredo, Texas a UFO was seen in the southwestern sky. The UFO seemed to be suspended in the sky in the vicinity of the Mexican city of Nuevo Laredo, Tamaulipas, across the Rio Grande river from Laredo, Texas. The UFO was the shape of a circle and gave off a bright white glow, though not shiny or glaring. Several witnesses intitially confused it with an airplane on approach to Laredo International airport. However, the UFO´s glow suddenly intensified, with a slight light blue tinge, and it appeared to expand its diameter (this may have been the visual effect of the glow). The object then moved at an incredible rate of speed, at approximately a 45 degree angle upward and in a southwesterly direction into Mexico. And with a second burst of speed the object disappeared into the night sky. At approximately 1927hrs,  two aircraft flying in formation, coming from the northeast (possibly Kingsville Naval Air Station) and at a very high altitude followed the direction of the UFO´s flight path. These jets crossed into Mexican airspace. This event wss witnessed by 12 Federal Officers.((NUFORC Note:  We spoke with this individual via telephone, and found him to be quite serious-minded and credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33377.html](http://www.nuforc.org/webreports/reports/033/S33377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Aptos (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green fireball falling to the groundA green fireball appeared quickly, looked like it was falling from the sky, lasted only seconds.  I've never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15054.html](http://www.nuforc.org/webreports/reports/015/S15054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
