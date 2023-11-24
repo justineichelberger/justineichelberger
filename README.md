@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 23 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Summary : Me and one of my friends were coming home from sledding when we saw a metallic, cigar shaped, UFO hovering in the air emitting a blue beam of light from it as a alien with a rounded head and gray skin clothed in robes aproached us.  We were hypnotized for a minute than we screamed and ran home.See above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02743.html](http://www.nuforc.org/webreports/reports/002/S02743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Large  (circular view with possible oval side)object with sophistacted lighting system hovered and moved over ocean (Gulf of Mexico)While on the 15th floor balcony of a condo where I was vacationing  at Sandestin Golf an Beach Resort I noticed a particularly bright star and curiously took the video cam out to attempt to gain a better look at it by using the zoom in feature.I saw that it wasn't a star, but an unusual flying craft with extremely sophisticated light patterns, appearing circular in shape, although a slight side glimpse indicated it may have been obelisk from another angle. I proceeded to tape the object for approx a half hour, obtaining approx.23 minutes of unusual footage, some very detailed.It was high over the ocean the entire time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33652.html](http://www.nuforc.org/webreports/reports/033/S33652.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [351](http://www.nuforc.org/webreports/reports/165/S165548.html)
-- [350](http://www.nuforc.org/webreports/reports/165/S165551.html)
-- [349](http://www.nuforc.org/webreports/reports/165/S165577.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165545.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165580.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
