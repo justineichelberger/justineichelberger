@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:05 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:23 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 fireballs dropping smaller balls of light seen in the north sky moving east over antioch californiae bright lights, red in color spaced equally apart. the lights were in a straight line at first moving in a upward and eastward direction. then the fist light stopped, and the other two continued on. they seemed to be dropping smaller balls of fire-like lights out of the bottom goig straight down. the dropped lights burned out shortly, about 5 seconds.  the two continued about halfway accross the sky moving higher as they went. one light stayed still for about 5 mins and dropped several of the little fireballs and them moved onward abruptly. a few moments later the light went out all together. the first one that had atayed in position slowly went out, like it burned itself out, slowly getting weaker and weaker. what would have been the middle light was still bright and strong and appeared to be very high in altitude, but still very bright. brighter than an airplane light or the brightest star in the night. the size of all three light were much larger than aircraft lights, like looking at a very big bonefire in the distance. the lights dropped from them were weaker in brightness, but you could clearly see the movement and the red glow. i would estimate they were at least as high as a comercial jet in the sky. this was whitnessed by my entire family as we were called outside by my uncle who was having a ciggerette break. every one coul;d clearly see the movement, see the lights stop and hold position and see the lights dropp the other small er lights out of the bottom. the ages ranged from 8-70years. the location was the backyeard of my granparents house in antioch california, looking towards the north. the lights traveled in a northeasterly direction. the entire event lasted 15 to 20 mins. the lights started very bright and and low and as they dropped thier loads they grew weaker in color and brightness untill they went out all together.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40760.html](http://www.nuforc.org/webreports/reports/040/S40760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Ridgeville (SC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Leaving Volvo plant from night shift, turned into Volvo Car Drive, towards 176, and saw what I thought was a fire truck with all red lights going crazy in the middle of the road, before the 4 way stop signs thinking it was an accident.  As I was getting closer, about 100 yards, vanished, as if someone turned a light switch off, and as there was nothing there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143872.html](http://www.nuforc.org/webreports/reports/143/S143872.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
