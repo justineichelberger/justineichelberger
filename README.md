@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 24 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Five faint red things in a fast and silent V formation in Denver at 5:52pm on 11/24/00 with no running lights?7 miles south of downtown at Broadway and Evans,I went out to get the cat and the biggest shooting star I've ever seen goes from north to south very fast and bright. So I look for more, and 10 seconds later coming from the west heading to the east are 5 faint red triangle shaped jet looking objects in a perfect V formation about 15 to 20,000 feet moving fast and completly silent.They went right over me and on to the horizon in the east.They had no running lights or sound.And then, when they went out of sight and right where they started, a white light just turns on and looks like a bright star just sitting there and then turns off, moves over 10 degrees and turns on again.I know what your thinking, but they were not any clouds yet. Then a small plane comes in from the northeast and the light goes out and the show is over.It had just got dark and the sky still had the blue look to it. The only reason I saw saw this was because the city lights reflected off them making them visible against the dark blue sky behind them.If these are ours... I did not see anything O.K.?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15034.html](http://www.nuforc.org/webreports/reports/015/S15034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amber / Orange lights evenly spaced in a line moved north quickly and disappeared in the cloudsMy mother had just returned home and she burst into the house yelling, "Come outside and see the lights!"  She sounded nervous and excited.  She ran outside and pointed out 5 lights that were moving quickly north.  My mom said that when she was driving, there were at least twice as many lights, arranged in two groups.  One group was arrayed in a wedge shape, and the other was in a line.  She had tried calling us on her cell phone, but she couldn’t find it in the car.  She saw a man that had pulled over at a nearby intersection who had gotten out of his car to watch the lights.The remaining lights were all in a north-south line, more or less evenly spaced.  The lights were a strange amber / orange color, unlike any we had ever seen on an aircraft.  The lights did not blink, they remained a constant glow.  One by one the lights flew north rapidly and disappeared into cloud banks.  We couldn’t hear any noise from the lights.It was dark with a high cloud cover and intermittent showers</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85473.html](http://www.nuforc.org/webreports/reports/085/S85473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/165/S165558.html)
-- [348](http://www.nuforc.org/webreports/reports/165/S165556.html)
-- [347](http://www.nuforc.org/webreports/reports/165/S165554.html)
-- [346](http://www.nuforc.org/webreports/reports/165/S165563.html)
-- [345](http://www.nuforc.org/webreports/reports/165/S165555.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
