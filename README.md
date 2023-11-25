@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:30 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Virginia (western part; rural?) (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White light above cloud cover speed about 3000 mph; the fiery ball desending at a rate of 50 mph.DRIVING HOME FROM SURVEYING JOB IN WEST VIRGINA AT NIGHTIME HEADING EAST TO BALTIMORE; THE 3 OF US WITNESSED A BRIGHT WHITE LIGHT ABOVE LOW SOLID CLOUD COVER HEADING EAST TO WEST FROM DC.  WE SAW THE OBJECT FROM THE EASTERN HORIZON COMING AT US WITH EXTREME SPEED, PASSING OVER OUR HEADS.I BLURTED OUT "UFO".  I LOOKED WEST, BUT I DID NOT SEE THE OBJECT.  I SEEMED TO SENSE AN ALIEN PRESENSE IN MY MIND.  THIRTY SECONDS LATER THE ONE WITNESS WHO WAS DRIVING ROSE HIS ARM AND POINTED HIS FINGER AT A FIERY BALL DESCENDING FROM THE LOW CLOUD COVER, COMING STRAIGHT DOWN VERY SLOWLY.   I SAW IT TOO!  WHERE THE OBJECT SEEMED TO LAND JUST ON THE FAR EAST SIDE  OF MOUNTAIN RIDGE, STRAIGHT AHEAD OF US ABOUT ONE MILE AHEAD.  THE FOOFIGHTER, SEEMED TO BE ABOUT 1,000 FEET IN DIAMETER;  WITH NO FIERY TAIL; A RED ORANGE BALL OF FUSION PLASMA.((NUFORC Note:  We cannot certify that this is a serious-minded report.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76740.html](http://www.nuforc.org/webreports/reports/076/S76740.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hartford (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brite light flash seen in bedroom.While in bed, was awoken with a strange feeling of being watched and unable to talk properly. lous thrumming sound in ears when woken up. Wife woke me up like I was having a dream. Felt high magnetic discharge in house. Bright flash of light seen shortly after being woken up. Heard strange noises in my bedroom and in my daughters room. (note Daughter is only 7 months old) Noises heard sounded like chattering unlike anything ever heard before. Feel very tired and like I was on a very long trip. currently feel like I am not alone and being watched right now at 1:20 A.M.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33380.html](http://www.nuforc.org/webreports/reports/033/S33380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
