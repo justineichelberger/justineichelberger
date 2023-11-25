@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:30 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Auburn (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Three low hovering orange lights, two seemed to be connected I'm not entirely sure.  It was dark and I couldn't make out a certain shape.  They seemed to be moving slowly in the direction away from me.  Somehow they disappeared over the horizon in a few seconds despite how slow they appeared to me moving.  A plane flew by shortly after and if they lights were connected (wing to wing or just side to side) it would have been three times the size of the plane.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124398.html](http://www.nuforc.org/webreports/reports/124/S124398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Virginia (western part; rural?) (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White light above cloud cover speed about 3000 mph; the fiery ball desending at a rate of 50 mph.DRIVING HOME FROM SURVEYING JOB IN WEST VIRGINA AT NIGHTIME HEADING EAST TO BALTIMORE; THE 3 OF US WITNESSED A BRIGHT WHITE LIGHT ABOVE LOW SOLID CLOUD COVER HEADING EAST TO WEST FROM DC.  WE SAW THE OBJECT FROM THE EASTERN HORIZON COMING AT US WITH EXTREME SPEED, PASSING OVER OUR HEADS.I BLURTED OUT "UFO".  I LOOKED WEST, BUT I DID NOT SEE THE OBJECT.  I SEEMED TO SENSE AN ALIEN PRESENSE IN MY MIND.  THIRTY SECONDS LATER THE ONE WITNESS WHO WAS DRIVING ROSE HIS ARM AND POINTED HIS FINGER AT A FIERY BALL DESCENDING FROM THE LOW CLOUD COVER, COMING STRAIGHT DOWN VERY SLOWLY.   I SAW IT TOO!  WHERE THE OBJECT SEEMED TO LAND JUST ON THE FAR EAST SIDE  OF MOUNTAIN RIDGE, STRAIGHT AHEAD OF US ABOUT ONE MILE AHEAD.  THE FOOFIGHTER, SEEMED TO BE ABOUT 1,000 FEET IN DIAMETER;  WITH NO FIERY TAIL; A RED ORANGE BALL OF FUSION PLASMA.((NUFORC Note:  We cannot certify that this is a serious-minded report.  PD))((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/076/S76740.html](http://www.nuforc.org/webreports/reports/076/S76740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
