@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:29 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bhubaneswar (India) () reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While our games period was going on, we observed a very peculiar shaped flying object.  It was of black color with a shield of aura around it.It came into view from west direction, hovered there for some time, then flew away towards north of north east direction and vanished.((NUFORC Note:  Witness does not indicate date of sighting, so we have assigned above an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94783.html](http://www.nuforc.org/webreports/reports/094/S94783.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Stowe (VT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately  -  minutes.</sub><blockquote><sub>While snow plowing down a mt. rd. my truck lost power and lights and  Isaw two long objects with litup windows at tree top level.I was working at a resort as the maintenence manager.  During the winter my family and I would sometimes stay in a vacant three bedroom condo at the resort.  It had been snowing a couple of days and it was one of my jobs to keep the road and parking lot clear of snow. MY WIFES Godmother and family was visiting from New York City and we were going to have Thinksgiving at the resort.  The night befor Thanksgiving I was plowing snow so guest could make it up the steep mt road to the resort.  My wifes Godmothers son was with me in the truck.  As we were heading down the mt the truck suddenly shut off. We had no lights or power at all.  So we got out of the truck and started back up the mt to the resort. Just as we started to walk up the mt we saw lights that looked like a large lowing flying airplane.  It was so low we could see the wimdows and what looked like people looking out. Right behind it was another one. My first thought was two airplanes were in trouble. I remember them being very long with maybe a doz. windows.  But I did not see wings.  There was no sound and the air seemed to have electricity in it.  There is a small airport near Stowe but it could not handle anything that big I was thinking. After the two objects were no longer in site we continuied to walk up the hill to the resort.  Before arriving, we met my boss driving who can looking for us.  We drove back to where we left the truck and found it with the lights on and the truck started up.  I told my boss what had happened but I don't know if he belived me or not so I didn't talk about it again.  We did tell our family but did not get to much in to it until I started to here other stories years later that sounded like mine.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67641.html](http://www.nuforc.org/webreports/reports/067/S67641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
