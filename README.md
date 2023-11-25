@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>one fireball splits into fours falling towards earth disappearing before main fireball disappearedMe and my friend are riding and I happen to look in the sky first I thought it was a shooting star but it didn't move until it split up so then I thought it was fireworks but these fireworks weren't going up .. I seen one fireball (look like shooting star ) that split into four that were falling, they disappeared but the first ball was still there before it disappeared but not before my friend seen it too (he only seen the last ball cause he was driving) also it was a craft right beside it with a light I figured a helicopter was looking. g on cause it was just floating in same spot((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104810.html](http://www.nuforc.org/webreports/reports/104/S104810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 7.3 - 7.3 minutes.</sub><blockquote><sub>Cigar shaped UFO's sighted and investigated as they traveled at a high rate of speed.I was driving my car home from an outing at the college observatory and saw 12 cigar shaped UFO's flying wildly through the sky.  They were moving from N to S and traveling at an extremely high rate of speed.  The cigars were glowing and some type of glitter seemed to be falling off them.  I could not obtain a photo or sample of any residues that may have been dispersed (widely).  The next day I went back to the location and was unable to obtain any additional evidence for this case study.  I intend to camp out in the area next week and observe the skys with my new digital camera system with tripod.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67153.html](http://www.nuforc.org/webreports/reports/067/S67153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
