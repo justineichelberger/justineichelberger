@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:07:55 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Warner Robins (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Light in sky increases in brightness and then disappearsMy boyfriend and I were sitting on the back porch just hanging out. I looked up into the sky to star gaze, when I noticed what I thought was a star increase in brightness and disappear. I said to my boyfriend "What was that?", he did not seem to interested and I went back to looking up at the sky but this time at the location that the light occurred. Then just a short distance from the original location another light grew in brightness but not as bright as the first, then immediately disappeared. I again said "What was that? It did it again!", this time he looked up and said "I do not see anything", then he went back to his phone. I looked back and at that time I saw a light shoot across the sky just below both locations of the original lights. I said "There goes a shooting star!", but I am not sure that it was and could be related to the first two lights. The initial light was blended into its surroundings by looking ! like a star. When it grew in brightness there was an outside ring of white light with a center white light of a solid circular shape. The second increase of light was of the same make-up but dimmer than the first. The "shooting start" was a solid white light shooting across the sky from right to left. The night sky was clear with no clouds in the sky and no obstructions visible from my backyard to the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131622.html](http://www.nuforc.org/webreports/reports/131/S131622.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Wishkah River (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>Experienced MUFON investigator/law officer relays rpt that woman, son witnessed bizarre bright light, green beam near home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01020.html](http://www.nuforc.org/webreports/reports/001/S01020.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
