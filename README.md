@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Creve Coeur (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Rotating objected maintaining position no visible means of propulsionWhile performing a mapping project and monitoring a mapping drone i.e. I am looking up to keep the drone in sight  I noticed a black and white tumbling object at what "appeared" to be very high altitude (thousands of feet vs a small object closer to the ground) above the general area I was working in.  No visible exhaust or means of propulsion. The object did not appear to be traveling in a linear motion i.e. like a fixed wing aircraft but was maintaining position while it rotated on all axis changing from black to white i.e. one or more surfaces where white black. It appeared to have some flat surfaces almost like a cube. I looked away and could not relocate the object. Weather conditions were clear with bright sunshine and a wispy cloud layer at very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151087.html](http://www.nuforc.org/webreports/reports/151/S151087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1973, an anonymous witness in Vienna (VA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>White cigar shaped object, very fast, no plausible explanationI was home from college for the weekend or Thanksgiving at the time and getting out of my car on the driver's side as my girlfriend was getting out on the passenger's side.I had just started taking astronomy in college and got into the habit of looking up at the night sky for constellations.  It was a clear night, with a bright moon, but there were a couple of puffy clouds that were illuminated by the moon.  As I first looked up, I saw an object that I thought was a meteor or falling star.  Then after looking closely, I saw it was a bright white cigar shaped object sort of falling at an angle like the hands of a clock from 1 to 2.  Suddenly it silently moved at an impossible rate of speed across a large arc of sky to end up behind a cloud.  It made no sound, and looked just very white with no other distinguishing features.  My girlfriend saw it too after I said "look at that !".  The funny thing was, I got the feeling that it sensed it was seen and fled like an animal.  I never saw it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/025/S25787.html](http://www.nuforc.org/webreports/reports/025/S25787.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
