@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:01 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lakewood (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My wife and I were walking our dog at just about 6:30pm Wednesday 11/25/09, when we saw 2 objects flying very high from the north to the south over southern ca.  The 2 objects moved fast in formation, one trailing the other constantly maintaining the same distance.  Then the objects seemed to just vanish. There was no vapor trail or burning debris or red or green strobe lights either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73462.html](http://www.nuforc.org/webreports/reports/073/S73462.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Was feeding the dogs when i saw a light fixed my back yard the kind you get from a police helicopter.  So i looked up to see if it was indeed just that.  But when i looked up all i saw was a blue after burner the kind one woul see on a military air craft when its all full power on after burner.  Diffirence was there was no sound and it was gone in a split second all i saw was the trail from the heat that is created at high altitudes.  First time i ever see anything of the sort intrigued and confused is me right now. Thought id share it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94812.html](http://www.nuforc.org/webreports/reports/094/S94812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
