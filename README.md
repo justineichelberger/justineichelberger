@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in South Orange (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Brightly glowing orange Fireball hovering above neighborhood.  Hovered 15 seconds then ascended getting smaller until it disappeared.  Lasted about 2 minutes in total.  South Orange, NJ, near route 280.  South Orange near the Orange/West Orange border.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104776.html](http://www.nuforc.org/webreports/reports/104/S104776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Spotsylvania Courthouse (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange illuminated sphere close to treeline, moving purposefully across the skyCamping at Lake Anna State Park.  A large orb of orange light caught my attention as it entered my field of vision.  Its speed, size, and color were all unlike any other sky object I've seen.  The more I watched it travel across the sky, the more uneasy I felt about it.  It moved across the sky horizontally, not far above the treeline, with very visible up and down jerks--almost like course overcorrections.  There were no flashing lights and it remained the same steady rusty orange color the whole time.  It was moving quickly and maintained a constant speed.  It moved upwards a little (seemingly intentionally, not the small jerks like earlier) toward the end of its path, and then disappeared behind the treeline.  Spent about 5 minutes watching it cross the sky.((NUFORC Note:  Not the ISS, at the hour indicated.  PD))((NUFORC Note:  Witness provides no information; elects to remain anonymous.  Hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137458.html](http://www.nuforc.org/webreports/reports/137/S137458.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
