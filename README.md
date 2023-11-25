@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:42 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hartford (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brite light flash seen in bedroom.While in bed, was awoken with a strange feeling of being watched and unable to talk properly. lous thrumming sound in ears when woken up. Wife woke me up like I was having a dream. Felt high magnetic discharge in house. Bright flash of light seen shortly after being woken up. Heard strange noises in my bedroom and in my daughters room. (note Daughter is only 7 months old) Noises heard sounded like chattering unlike anything ever heard before. Feel very tired and like I was on a very long trip. currently feel like I am not alone and being watched right now at 1:20 A.M.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33380.html](http://www.nuforc.org/webreports/reports/033/S33380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>one fireball splits into fours falling towards earth disappearing before main fireball disappearedMe and my friend are riding and I happen to look in the sky first I thought it was a shooting star but it didn't move until it split up so then I thought it was fireworks but these fireworks weren't going up .. I seen one fireball (look like shooting star ) that split into four that were falling, they disappeared but the first ball was still there before it disappeared but not before my friend seen it too (he only seen the last ball cause he was driving) also it was a craft right beside it with a light I figured a helicopter was looking. g on cause it was just floating in same spot((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104810.html](http://www.nuforc.org/webreports/reports/104/S104810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
