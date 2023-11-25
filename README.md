@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 25 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Huntsville (TX) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 7.3 - 7.3 minutes.</sub><blockquote><sub>Cigar shaped UFO's sighted and investigated as they traveled at a high rate of speed.I was driving my car home from an outing at the college observatory and saw 12 cigar shaped UFO's flying wildly through the sky.  They were moving from N to S and traveling at an extremely high rate of speed.  The cigars were glowing and some type of glitter seemed to be falling off them.  I could not obtain a photo or sample of any residues that may have been dispersed (widely).  The next day I went back to the location and was unable to obtain any additional evidence for this case study.  I intend to camp out in the area next week and observe the skys with my new digital camera system with tripod.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67153.html](http://www.nuforc.org/webreports/reports/067/S67153.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Creve Coeur (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Rotating objected maintaining position no visible means of propulsionWhile performing a mapping project and monitoring a mapping drone i.e. I am looking up to keep the drone in sight  I noticed a black and white tumbling object at what "appeared" to be very high altitude (thousands of feet vs a small object closer to the ground) above the general area I was working in.  No visible exhaust or means of propulsion. The object did not appear to be traveling in a linear motion i.e. like a fixed wing aircraft but was maintaining position while it rotated on all axis changing from black to white i.e. one or more surfaces where white black. It appeared to have some flat surfaces almost like a cube. I looked away and could not relocate the object. Weather conditions were clear with bright sunshine and a wispy cloud layer at very high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151087.html](http://www.nuforc.org/webreports/reports/151/S151087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [338](http://www.nuforc.org/webreports/reports/165/S165728.html)
-- [337](http://www.nuforc.org/webreports/reports/165/S165576.html)
-- [336](http://www.nuforc.org/webreports/reports/165/S165565.html)
-- [335](http://www.nuforc.org/webreports/reports/165/S165683.html)
-- [334](http://www.nuforc.org/webreports/reports/165/S165571.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
