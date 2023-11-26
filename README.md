@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright Sphere (dot) slowly moving due east.Bright white sphere (dot) slowly moving due east.  Too bright to be a satellite.  If on same path its still in Bama.  was 5 min ago.Not a meteor.((NUFORC Note:  ISS was visible from this location at 17:22-17-24 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137440.html](http://www.nuforc.org/webreports/reports/137/S137440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lyndonville (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>A white filled circle, half the size of a full moon, appeared over Lake Ontario, north of Lyndonville, NY. I reappeared 5 more times.On  Saturday, November 26, 2011.  Awaking around 4:45 am, I decided to go outside and check out anything that might be happening in the sky.  I was looking directly north over the shoreline of Lake Ontario, on the New York state side, approximately 30 miles west of Rochester, NY.  A white filled circle appeared directly north, 45 degree angle from the water surface, through a very light cover of clouds over the lake.  Quite large in size, half the size of the full moon, it was displayed for 4 seconds or so, it didn't move in the sky, no noise, and no flashing lights, then the circle disappeared.It reappeared to the right (east) again, the distance of two times its diameter, same size, same distance from the water, then went out.  This occurred 2 more times and there was nothing.  I decided to flash my high powered light, no response.I continued to look to the north only to have this happen again, farther to the east, approx. half mile around 5 minutes later (5:20 am).  Only one display of this white filled circle. The position over the water was the same.I continued to watch until it happen again, 5:30 am, back where it was originally started.  Again same size, same display time and position over the water, no noise or flashing lights but only one display and no more. I continued watching for another hour or so until the sun started to show itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107714.html](http://www.nuforc.org/webreports/reports/107/S107714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
