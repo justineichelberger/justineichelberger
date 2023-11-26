@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Minneapolis-two flashes of robin egg blue lightening behind clouds, leaving sky lit a little lighter in that area for 45 minutes after.While driving on 394W at 10:05pm, I saw what looked like robin egg blue lightening flash twice behind the clouds, lighting them up in the western sky.That area in the sky stayed lit for 45 minutes after. (this latter difference in sky color may have not too been noticable to anyone not looking for it) The lit part of the sky was a lighter color than the surrounding sky, with a tinge of blue.  This happened during a heavy snow storm so it could have been lightening, but I've never seen bright blue lightening before, and that doesn't explain why that part of the sky stayed a little bit lit for at least 45 minutes later...the lit sky has returned to normal at last peek (11:15pm)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20582.html](http://www.nuforc.org/webreports/reports/020/S20582.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Jerseyville (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red fireball crashing into a fieldWe were driving towards Jerseyville from Carrolton on 267 about 10 mins outside of Jerseyville when we seen a red fireball in the sky.  It crashed into the field, it caught fire, then my kids seen another fireball come out the sky and crash as well.  We didn't stop because it was raining and it was way out in a field. but when we got to the out skirts of Jerseyville we seen the police with lights on head that way.  Not sure what it could have been.  I tried looking at the telegraph but no stories on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85512.html](http://www.nuforc.org/webreports/reports/085/S85512.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
