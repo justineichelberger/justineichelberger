@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A object following our vanI was sitting at my door waiting for my school van to pick me up and I saw a flashing light in the sky. at first iI thought nothing of it but when I looked up at it a few minutes later it was still there. when I looked at it through a pair of binoculars there was one white likig and different colored flashing lights on the bottom of it. My van came and when we moved the light seemed to be moving with us and stop with us I could not tell a distance at all but I am prety sure it was below the cloud level and was not a star when we got on the highway it seemed to be moving away (I saw it through the tree branches) I lost it behind a hill for a few seconds and it dissapeared. after it left ihe vans engine was cutting out going up hills sometines and other times it was just fine and when I got off it was still doing this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33452.html](http://www.nuforc.org/webreports/reports/033/S33452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Bright Sphere (dot) slowly moving due east.Bright white sphere (dot) slowly moving due east.  Too bright to be a satellite.  If on same path its still in Bama.  was 5 min ago.Not a meteor.((NUFORC Note:  ISS was visible from this location at 17:22-17-24 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137440.html](http://www.nuforc.org/webreports/reports/137/S137440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
