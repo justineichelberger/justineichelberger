@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:36 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Paula (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>hello i am a out of town bus driver i do a run from oxnard ca to fillmore ca i have to pass santa paula ca i pick up mine bus at the yard at 3:30 and began mine trip to fillmore ca around 3:45 am i have to pass santa paula to go to fillmore when i began to go  into 126 eastboudn i see a bright start but is not a regular start down on top of mountain in 2 weeks i began taking picute with mine cell phone later when i put it in the computer i have to blow as high the picture on the computer i can see different color and shape of object on friday i took a couple of pictue i have one object color orange with yellow and on the bottom is a like a cigar shape and the other picture i have some lights i have about 20 picture of the ufo  will continue driving 126 eastbound all the way to fillmore but the lights will continue ahead of me about 1/3 of mile when i get to fillmore will desapear when i enter fillmore ca when i go west bound there was on the right side of th! e road the light one of mine passanger say wow look at the pretty light on the sky then in a second desapear mine passangers got shock that morning i got to saticoy ca where i stop there was the ship like the one i took the picture of the cigar was s white silver metal shinny when i could take a picture i had full bus of passangers but when i got there it desapear i wonder if that ship is playing with me i aksed other driver they say they dont see what i see if any one out there something happen almost like me email me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79060.html](http://www.nuforc.org/webreports/reports/079/S79060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Yellow aura around bright red center low in sky and lossing the aura to then grow faint and rise up in the sky to vanish completly.Single Cherry-red glowing center, fairly large for distance of object, not like a planes blinking red lights. Surrounded by a yellow-orange glow.I'm on an outdoor deck looking East in San Francisco in the Marina District.It came slowly through airspace, from NE to SW, pretty low in sky from my stand point.Went behind building for a few seconds still coming toward my general direction, and reappeared as I moved to corner of deck to meet it, sight wise, and watched the yellow glow disappear and the red center part get smaller - it seemed to now be going up into the sky and quickly vanished. I looked hard for a remnant of a faint light but there was nothing.I thought maybe behind a cloud but then realized I could see many and vast stars all in the area it vanished in - so this would rule out cloud cover.Very odd sighting.In summary; it seemed to be fairly low in the sky moving generally toward me. One glowing cherry-red center and an orange-yellow halo which diminished over time to vanish all together, and then the red center grew faint quickly and it vanished from all sight completely; seemingly moving in an upward flight into the atmosphere. No trace of any light could be seen, I could see stars. But nothing at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85503.html](http://www.nuforc.org/webreports/reports/085/S85503.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
