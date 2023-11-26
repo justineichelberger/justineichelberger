@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:08 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:22 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Sellic (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>0NE OBJECT, VERY HI 40,000FT TINY .  MOVED AND STOPED THREE TIMES IN (? 20 MILE+ JUMPS)BRIGHT DOT. NO COLOR THEN WYGGLED AND DISAPPERED BEHIND CLOUDS IN LINE FROM STRIGHT UP TO DUE EAST ,ALL IN LESS THAN THREE SECONDS ,  COVERED EST. 60 TO 80 MILES. I have watched many airliners and military jet at hight alt, an none move that fast or jump in 20 mile of more increments and them wiggle waggle . NOT ONE OF OURS! THIS IS MY FIRST SITTING. no sound , no other aircraft in area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33730.html](http://www.nuforc.org/webreports/reports/033/S33730.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bergen (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shaped flying object.Driving through bergen ny at 1133pm.  There was a triangle shaped craft flying north east.  There were 3 white lights forming a triangle and a red light in the center.  I tried to look online to see if there are any airplanes matching this appearance but there were not any that came up immediately.  I turned down a road in the direction it was flying to watch it.  After about a minute I could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131480.html](http://www.nuforc.org/webreports/reports/131/S131480.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
