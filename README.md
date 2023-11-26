@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Jerseyville (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red fireball crashing into a fieldWe were driving towards Jerseyville from Carrolton on 267 about 10 mins outside of Jerseyville when we seen a red fireball in the sky.  It crashed into the field, it caught fire, then my kids seen another fireball come out the sky and crash as well.  We didn't stop because it was raining and it was way out in a field. but when we got to the out skirts of Jerseyville we seen the police with lights on head that way.  Not sure what it could have been.  I tried looking at the telegraph but no stories on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85512.html](http://www.nuforc.org/webreports/reports/085/S85512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pebble Beach/Carmel (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The craft flew for at least fifteen minutes, often separating into different lights, made whirring noises, and flew in erratic patternsWe saw a long string of blue lights in the sky. It appeared to be two short, whitish blue blinking lights trailing behind a longer, turquoise blue light. The flight patterns were erratic and varying, not flying like any regular aircraft. The craft frequently dove and dipped in the sky, often seeming to flip over or rotate. The craft flew very quickly, faster than any regular aircraft. The craft often crossed the sky within eight seconds or less. When the craft appeared to be in the center of the sky, a slight whirring noise could be heard. About ten minutes into the encounter, the lights appeared to split and fly separately. The lights separated into smaller lights, a string of six to seven. After flying separately for at least thirty seconds, the lights recondensed back into one long light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73479.html](http://www.nuforc.org/webreports/reports/073/S73479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
