@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I viewed 3 orange circles in the south eastern sky.  They stayed still for a few seconds, and then streaked off.Very high in the south eastern sky - very far above where airplanes fly - an airplane happened to fly by at the same time - 3 orange glowing rings, not much larger than stars, but large enough for me to see them and determine that they were circular in shape, were seen by me just as I glanced up at the sky.  They were in a straight line; I could not tell if they were touching each other or not.  Nevertheless, they were in very close proximity to each other.  The line was straight but at about 30 degrees.  After several seconds had passed, they took off in 3 streaks of orange moving upwards at a 45 degree angle and then disappeared.((NUFORC Note:  We spoke via telephone with the witness, and she sounded to us to be quite serious-minded.  We suspect that she is an excellent, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137506.html](http://www.nuforc.org/webreports/reports/137/S137506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Isanti (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright falling object with a blue trail.Hi, I am a 15 year old sophomore in high school.  We had the day off from school since thanksgiving is tomorrow.  I woke up at eight for wrestling practice, came home ate and pretty much laid on the couch the rest of the day.  I took a nap around five and woke up around seven thirty.  I was sitting on my couch watching the movie X-Men Three. The way the room is set up is that you walk in and there is a couch on your right, and a chair to the left.  The television is in the far corner of the room against the wall. So directly in front of the couch is this big window. I don’t know why but I looked out the window and at that moment there was this bright object.  It was circular I think. It was bright yellow kind of golden. It left this beautiful blue trail. The object was going down diagonally like it was crashing but it went behind the trees so I couldn’t see it land. I don’t know how far it was away but it fell to the east of my house pretty close I’d say within 25 miles. It was at 8:55 PM. I know this because I looked at my cell phone right away. I’ve never seen anything like these before. It could have been a meteor or UFO. I don’t know what it was but I’m positive it was there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67179.html](http://www.nuforc.org/webreports/reports/067/S67179.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
