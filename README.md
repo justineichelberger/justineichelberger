@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:22 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bergen (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shaped flying object.Driving through bergen ny at 1133pm.  There was a triangle shaped craft flying north east.  There were 3 white lights forming a triangle and a red light in the center.  I tried to look online to see if there are any airplanes matching this appearance but there were not any that came up immediately.  I turned down a road in the direction it was flying to watch it.  After about a minute I could no longer see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131480.html](http://www.nuforc.org/webreports/reports/131/S131480.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in New Rochelle (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I viewed 3 orange circles in the south eastern sky.  They stayed still for a few seconds, and then streaked off.Very high in the south eastern sky - very far above where airplanes fly - an airplane happened to fly by at the same time - 3 orange glowing rings, not much larger than stars, but large enough for me to see them and determine that they were circular in shape, were seen by me just as I glanced up at the sky.  They were in a straight line; I could not tell if they were touching each other or not.  Nevertheless, they were in very close proximity to each other.  The line was straight but at about 30 degrees.  After several seconds had passed, they took off in 3 streaks of orange moving upwards at a 45 degree angle and then disappeared.((NUFORC Note:  We spoke via telephone with the witness, and she sounded to us to be quite serious-minded.  We suspect that she is an excellent, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137506.html](http://www.nuforc.org/webreports/reports/137/S137506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
