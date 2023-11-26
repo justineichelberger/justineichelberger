@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:36 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wilkes-Barre (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>8:00PM  I SAW OVAL SHAPE WITH FLAT BOTTOM WITH BRIGHT COLORSOVAL SHAPE WITH FLAT BOTTOM HUVERING SOUND OUTSIDE MY BEDROOM WINDOW THEN THE LIGHT CAME AROUND THE UFO RED BLUE GREEN AND THE YELLOW WAS VERY BRIGHT WHEN IT SAW ME IT TOOK OFF.  THE SAME NIGHT MY GRANDAUGHTER SLEPT OVER FRIENDS HOUSE, TWO HOUSES FROM MINE, ALSO HEARD THE NOISE AND SAW THE LIGHTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53692.html](http://www.nuforc.org/webreports/reports/053/S53692.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Santa Paula (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>hello i am a out of town bus driver i do a run from oxnard ca to fillmore ca i have to pass santa paula ca i pick up mine bus at the yard at 3:30 and began mine trip to fillmore ca around 3:45 am i have to pass santa paula to go to fillmore when i began to go  into 126 eastboudn i see a bright start but is not a regular start down on top of mountain in 2 weeks i began taking picute with mine cell phone later when i put it in the computer i have to blow as high the picture on the computer i can see different color and shape of object on friday i took a couple of pictue i have one object color orange with yellow and on the bottom is a like a cigar shape and the other picture i have some lights i have about 20 picture of the ufo  will continue driving 126 eastbound all the way to fillmore but the lights will continue ahead of me about 1/3 of mile when i get to fillmore will desapear when i enter fillmore ca when i go west bound there was on the right side of th! e road the light one of mine passanger say wow look at the pretty light on the sky then in a second desapear mine passangers got shock that morning i got to saticoy ca where i stop there was the ship like the one i took the picture of the cigar was s white silver metal shinny when i could take a picture i had full bus of passangers but when i got there it desapear i wonder if that ship is playing with me i aksed other driver they say they dont see what i see if any one out there something happen almost like me email me</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79060.html](http://www.nuforc.org/webreports/reports/079/S79060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
