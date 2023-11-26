@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pebble Beach/Carmel (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The craft flew for at least fifteen minutes, often separating into different lights, made whirring noises, and flew in erratic patternsWe saw a long string of blue lights in the sky. It appeared to be two short, whitish blue blinking lights trailing behind a longer, turquoise blue light. The flight patterns were erratic and varying, not flying like any regular aircraft. The craft frequently dove and dipped in the sky, often seeming to flip over or rotate. The craft flew very quickly, faster than any regular aircraft. The craft often crossed the sky within eight seconds or less. When the craft appeared to be in the center of the sky, a slight whirring noise could be heard. About ten minutes into the encounter, the lights appeared to split and fly separately. The lights separated into smaller lights, a string of six to seven. After flying separately for at least thirty seconds, the lights recondensed back into one long light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73479.html](http://www.nuforc.org/webreports/reports/073/S73479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 red orange balls over Bellingham in a triangle formation.Was driving along Interstate 5, northbound, when noticed 3 red/orange glowing balls to the west of me.  They were in a triangular formation, with two of the balls close together and the third a longer distance away.  It appeared to be stationary.  They were too big to be stars, and they weren't moving, so I concluded they were not planes.  I watched this object for maybe two minutes while trying to drive, then lost view of it behind trees and houses.  After I lost track of it, I noticed there were no large red/orange stars visible anywhere, nor did any of the planes in the sky have solid non-blinking lights.  Plus, the plane lights were smaller.  I don't know what it could have been.  But it was in a triangle formation and just sitting there.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124385.html](http://www.nuforc.org/webreports/reports/124/S124385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
