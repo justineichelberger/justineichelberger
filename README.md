@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Lowell (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Round 3 feet in diameter floating glowing white light teen saw it((NUFORC Note:  Ordinarily, we would hope to receive a bit more information about a sighting.  The witness did not provide a return e-mail address, so we cannot contact the witness to request a more thorough report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14215.html](http://www.nuforc.org/webreports/reports/014/S14215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wilkes-Barre (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>8:00PM  I SAW OVAL SHAPE WITH FLAT BOTTOM WITH BRIGHT COLORSOVAL SHAPE WITH FLAT BOTTOM HUVERING SOUND OUTSIDE MY BEDROOM WINDOW THEN THE LIGHT CAME AROUND THE UFO RED BLUE GREEN AND THE YELLOW WAS VERY BRIGHT WHEN IT SAW ME IT TOOK OFF.  THE SAME NIGHT MY GRANDAUGHTER SLEPT OVER FRIENDS HOUSE, TWO HOUSES FROM MINE, ALSO HEARD THE NOISE AND SAW THE LIGHTS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53692.html](http://www.nuforc.org/webreports/reports/053/S53692.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
