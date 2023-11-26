@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in St.paul (MN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>Chrome &quot;mirror ball&quot; no movement, bright, clear blue, sunny skyChrome "mirror ball" no movement, bright, clear blue, sunny sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150013.html](http://www.nuforc.org/webreports/reports/150/S150013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>triangle shape low flying with 3 while lights on each corner.  Object made no sound!I live in crestwood KY.  I was driving home last night from diner and driving through pewee valley at around 11:20 pm, I looked up and saw an object ahead and above me with 2 large lights on each side and some blinking lights in the middle.  As I drove on the object seemed to stand still and not move at all or very slowly.  As I continued driving I was apparently heading toward the object because it got larger.  I got to my turn at the crestwood baptist church and turned right and the object was on my left.  As I drove I continued to stare at the object trying to figure out what it was.  It was kinda high in the air but not airplane high.  More like the height of the hot air ballons which is what I thought it was at one point until I got close enough to see there was no ballon.  Then as I drove on a bit more the object began to move from my left to the right toward louisville.  I slowed down and eventually stopped in the road rolled down my window and heard absolutely nothing as I watched it fly ahead of me.  It flew slowly at first and then gradually sped up and maintained a steady speed.  It had 3 white lights that seemed to be on three corners of the object like it was triangle shaped and had some blinking lights in the middle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20564.html](http://www.nuforc.org/webreports/reports/020/S20564.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
