@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:25 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:52 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Guthrie (KY) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>UFO in Guthrie ky on Black Friday morning.In the sky of Guthrie, kentucky, black friday morning, I and My Friend witnessed a huge oval light patter in the sky. Lights above the clouds. As if a "mothership" was floating up there.  The horizontal lights were racing back and forward around it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79048.html](http://www.nuforc.org/webreports/reports/079/S79048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Woburn (MA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue/green teardrop over woburnAround 6:12 am I got out of my car to deliver a paper (I'm a paper boy). The skyline on Old Farm Rd, is huge. You can see planes taking off from Logan airport, traffic helicopter's, everything. Now I was about a mile out from route 93 (where the helicopter's hover near boston, and about 12 miles outside of Boston itself). At that point I noticed a blue/green object stopped behind the treeline in the far distance. I thought nothing of it really (though why I don't know cause the thing was blue/green) cause I just figured it was a plane taking off facing me. When I came back I looked up and saw two commercial airplanes in the air to the south and strangely enough, a jet leaving a smoke trail directly overhead. Then I noticed the blue green object had started to move in a direction it couldn't possibly have moved. It was huge, looked to be a weird top heavy shape with a round, thinner, bottome. It was flashing white and red lights. Immediately I started comparing it. It was moving incredibly fast (passing my line of vision over the horizon every 5- 10 seconds). I started to doubt it was a plane (no plane would ever fly that low) and by now was pretty freaked out because I realized I was the only one seeing this and even contemplated knocking on someone's door to get a confirmation. This thing was viewable from where I was for about 5 minutes (the view on old farm road is massive), and then it fell out of the viewable horizon.  I thought it could have been a helicopter, but I don't think helicopter's are A) completely silent, and B) Glowing blue/green. Interesting note the miltary jet that was high above my head seemed to be on an arching rise and when I saw it the smoke trail was descending. I think it might have been following it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33419.html](http://www.nuforc.org/webreports/reports/033/S33419.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
