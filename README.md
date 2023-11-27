@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guntersville (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange orbs going south.6 orange orbs flew south 6 turned into 4.((NUFORC Note:  We suspect a nighttime sighting, and have amended the time above.  Source of the report elects to remain totally anonymous, and provides no contact information, so we cannot confirm the sighting time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104827.html](http://www.nuforc.org/webreports/reports/104/S104827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Southbury (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A large triangular object hovered 30 mins, then accelerated and disappeared over the horizon.After eating dinner at my inlaws, I went outside to have a smoke. Looking across the street I noticed what appeared to be a very low and slow flying 747. Although I could not make out the body, what I could see were 3 bright red lights. I assumed one on each wing tip, one at the center where the leading edge of the wings would intersect (if they did),and a golden yellow light on the nose. The speed seemed so slow that I wondered how it could remain aloft. The object traveled left to right (south to north). As it came directly in front of me, it seemed to make a 90 degree bank and stop. I could only see what would be the center light and one wing tip light(now vertical). The lights also changed color from red to golden yellow. The vertical wing tip light was now strobing. It remained stationary and very stable. I could only guess as to the distance, possibly 100-150 yards. I watched the lights for roughly 30 minutes, then the objected rolled back 90 degrees to a straight and level orientation. The lights changed back to red. The object then accelerated, banked left and diappeared over the western horizon. At this point I was certian of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04948.html](http://www.nuforc.org/webreports/reports/004/S04948.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
