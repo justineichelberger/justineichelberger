@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>changes shapeit took 30 mins or so to move a few feet in the ski from my perspective.  it would pulse in size and move methodically with short bursts left or right.  started as a orb and would change in to a triangle or what looked three close paterned orbs.  Planes were flying over allot faster than this.  in all took 30 mins and then it was coverd by clouds and it was really low.((NUFORC Note:  We suspect a sighting of Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104794.html](http://www.nuforc.org/webreports/reports/104/S104794.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Dalton (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saucer shaped craft over neighborhood in north GeorgiaI was driving around my neighborhood about 7:15pm,it was a clear night and visibility was great.As I was driving I saw what seemed to be 2 bright lights about a quarter of a mile away above the tree tops.I drove towards the object trying to get a better vantage point to try and identify what it was.Fortunately my neighborhood has many roads running through it and I was able to get very close.As I got within 500ft I got the scare of my life, it was a saucer shaped craft that was about 70-80ft in diameter hovering 100ft over a house.It had 2 bright lights on each side of the disk and many  multicolored lights between none of them were blinking.I rolled down the window to listen,but it did not make any sound at all.I had slowed down to about 5mph when the craft,which had been hovering on a horizontal axis,slowly turned onto a vertical axis and very slowly moved off towards the southwest.As it moved off I noticed what looked to be a very weak bluish light emitting from what previously was the top and bottom of the saucer when it was hovering horizontally.I can only guess that the color of the craft was gunmetal gray or black, since it was dark and the lights on it were bright but they were not illuminating it like I would have expected them to.After it had moved over the treeline I did not see it again.I saw this object at a very close range and it was the most awesome thing that I had ever seen.I am a very credible and intelligent person,I do not drink or do drugs.I am 32years old,in great health and have 20/15vision in both eyes.This was not an airplane,helicopter,blimp,weather phenomonon,star,planet,weather balloon,or anyother common nighttime object.This was a real craft that was made and operated by intelligent beings,whether extraterrestrial or terrestrial I will leave that to the people who read this(I hope with an openmind). I hope that somebody else saw this object and will come forward and report it,so I will know I am not the only one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15126.html](http://www.nuforc.org/webreports/reports/015/S15126.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
