@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Red orange lights over apache junction in ArizonaWhile driving back from the store I noticed a red/orange light on my right side of my pheriferal vision,when I got a better view another one appear right below it.At this point I knew that it was not an airplane and it freaked me out,  I looked to the front to make shure I didn't hit any cars then my eyes went back to the lights.Because I was driving I couldn't tell if the lights were mooving or not, however I could tell that the lights were bigger than airplane lights but not as bright with a reddish orange glow.And as soon as they appear they disappear, first the top one then two seconds later the bottom one,it looked like the lights imploded into its center and disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94858.html](http://www.nuforc.org/webreports/reports/094/S94858.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Graham County (NC) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>He had just come on duty, and noticed that their offices had taken several calls from Graham County, NC, from several people who thought they were looking at a UFO.  He said he would call the Graham County Emergency Office.(A gentleman called from Graham Co., NC, at 2005 hrs.  They probably were looking at a twinkling star.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01639.html](http://www.nuforc.org/webreports/reports/001/S01639.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
