@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Medley (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>While taking the morning break at work, someone expresed concern about a bright star sitting motionless in the blue sky, there were 5 of us wondering about such a curiosity, a star at daylight, in my case not new to me since I've seen Venus at daytime, It was about 09:30 am when I saw it, one of the guys claimed keeping an eye on it for already 10 minutes, it was sitting at a 50 - 60 degrees west of us and some very high cirrus clouds seemed above it since it was extremely bright and we decided that it was in the atmosphere, after about 20 minutes it started moving to the east, stopping every minute with some jerking play, on and off to the left and right then continuing just to do it again and again ( the last time it stoped was at a 90 degree angle right right above us then turned northeast disapearing over a cloud not to appear again.((NUFORC Note:  Date is approximate.  Given that the witnesses observed the object for an estimated 35 minutes, it almost certainly could not have been an aircraft.  It may have been a high-altitude helium balloon at very high altitude, although they generally are not seen to move in the manner the witness describes.  One of two different sighting reports from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27824.html](http://www.nuforc.org/webreports/reports/027/S27824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw two pulsating light blue colored lights fairly high in the sky, noiseless, moving very slowly in a southerly direction.I was traveling north on Old Seward, heading toward Diamond, and happened to look up, and  noticed two pulsating light blue colored lights fairly high in the sky.  They were pulsing in unison and moving together with constant distance between them, which made me think it was a single object.  What really got my attention was its “very slow speed”, like it was just barely moving along, not at all like a conventional aircraft that we see all the time.   I had time to pull off the road next to Play It Again Sports, get out of my car and watched “it” gradually move away from me, in a southerly direction until the lights faded out of sight into the dark and misty early evening.  I heard no noise coming from it.   Did anyone else see it or know what it was?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124438.html](http://www.nuforc.org/webreports/reports/124/S124438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
