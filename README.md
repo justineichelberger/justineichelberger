@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Southbury (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>A large triangular object hovered 30 mins, then accelerated and disappeared over the horizon.After eating dinner at my inlaws, I went outside to have a smoke. Looking across the street I noticed what appeared to be a very low and slow flying 747. Although I could not make out the body, what I could see were 3 bright red lights. I assumed one on each wing tip, one at the center where the leading edge of the wings would intersect (if they did),and a golden yellow light on the nose. The speed seemed so slow that I wondered how it could remain aloft. The object traveled left to right (south to north). As it came directly in front of me, it seemed to make a 90 degree bank and stop. I could only see what would be the center light and one wing tip light(now vertical). The lights also changed color from red to golden yellow. The vertical wing tip light was now strobing. It remained stationary and very stable. I could only guess as to the distance, possibly 100-150 yards. I watched the lights for roughly 30 minutes, then the objected rolled back 90 degrees to a straight and level orientation. The lights changed back to red. The object then accelerated, banked left and diappeared over the western horizon. At this point I was certian of what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04948.html](http://www.nuforc.org/webreports/reports/004/S04948.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brilliant multi-colored light hanging in the east-southest sky for over half an hourI can't say that this is a true UFO as it remained stationary in the sky for the entire time of the sighting and never seemed to "fly" anywhere.  It looks like a star, which is the obvious answer, but when observed through high powered binoculars, the object quickly and constantly changes color from green to red to yellow to white.  It is far more vivid than a typical "twinkling" star, especially considering that I can see it through the light pollution of the city (Chicago).  I am 100% certain that it is NOT an airplane as it has remained in the same spot in the sky for several minutes.  I just went out and checked again and it is still there some thirty minutes after I first saw it.  It is in the eastern sky, slightly to the SE, directly below the "belt" of the constellation Orion.  It is perhaps one third the way up the horizon.  If it is a star, it is doing some very strange things.  A slight tail can be seen pointing to the left.  I was alerted to this by my father who lives in central Michigan.  He called to tell me about his sighting. He thought it was the comet Holmes and called me.  It is in the wrong part of the sky to be said comet and far too brilliant, as the comet is now barely visible to the naked eye.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60066.html](http://www.nuforc.org/webreports/reports/060/S60066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
