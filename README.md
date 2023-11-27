@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Brilliant multi-colored light hanging in the east-southest sky for over half an hourI can't say that this is a true UFO as it remained stationary in the sky for the entire time of the sighting and never seemed to "fly" anywhere.  It looks like a star, which is the obvious answer, but when observed through high powered binoculars, the object quickly and constantly changes color from green to red to yellow to white.  It is far more vivid than a typical "twinkling" star, especially considering that I can see it through the light pollution of the city (Chicago).  I am 100% certain that it is NOT an airplane as it has remained in the same spot in the sky for several minutes.  I just went out and checked again and it is still there some thirty minutes after I first saw it.  It is in the eastern sky, slightly to the SE, directly below the "belt" of the constellation Orion.  It is perhaps one third the way up the horizon.  If it is a star, it is doing some very strange things.  A slight tail can be seen pointing to the left.  I was alerted to this by my father who lives in central Michigan.  He called to tell me about his sighting. He thought it was the comet Holmes and called me.  It is in the wrong part of the sky to be said comet and far too brilliant, as the comet is now barely visible to the naked eye.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60066.html](http://www.nuforc.org/webreports/reports/060/S60066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oxnard (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange planet orb.I noticed the large orange orb over the ocean while my boyfriend was driving.  I told him to look over at it and he immediately pulled over to check it out.  The object was bigger than the size of the moon and sun.  We watched the neon orange object change shape and gradually disappear into the ocean.((NUFORC Note:  We suspect that the sighting occurred at night, and have changed the time above.  The witness provides no contact information, so we are unable to contact her to confirm the time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115670.html](http://www.nuforc.org/webreports/reports/115/S115670.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
