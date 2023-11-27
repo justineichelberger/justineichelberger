@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Siedlce (Poland) () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.6666666666666666 - 0.6666666666666666 minutes.</sub><blockquote><sub>It was a shock for my and my friends. I"ve never seen such a thing!My and my friends were walking near the lake when we suddenly saw two strange object on the sky. They were flying round the lake and than dissapeared. We informed the militery if they have some trainings but they refusu to answear and said that its not our buisnees and it would be better if we forget abot what we"ve seen. Mayby you will help me in explaining what we"ve seen. I"m looking forward to hearing from you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15096.html](http://www.nuforc.org/webreports/reports/015/S15096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>slow traveling light disappearsOn Thanksgiving Morning apporximately five thirty in the morning my family and I were traveling west bound on I-295 towards Milwakuee, Wisconsin.  We were near O'hare airport when I looked up and observed a bright light.  I watched it with interest because I didn't think it was a plane as it was traveling slow and had no blinking lights on it.  I was still watching it when we went under and overpass and when we drove out a second later where the light sould have been, and it vanished.  A couple of minutes later I saw other craft flying low over the chicago area.  I don't know the chicago area very well, and all I know is that they looked to just be hovering over hotels and buildings.  I did mention what I saw to my husband, but he is a skeptic and was just getting annoyed at me.  So I went back to sleep.  I forgot about the sighting until recently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67517.html](http://www.nuforc.org/webreports/reports/067/S67517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
