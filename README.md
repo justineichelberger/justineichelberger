@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:16 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flight of four half V.Saw 4 objects in half of a "V" formation, approximately 500 feet apart, and altitude of around 1000 feet above ground, traveling northeast at around 150 knots.  No sound noted.  Color and shape alternating between white sphere to multi-angular shape with color changing between lead grey to shiny sun reflecting silver.  The leading object always appeared in the angular shape.  Size of craft estimated to be 20 foot diameter.((NUFORC Note:  Witness provides no information; elects to remain anonymous.  Hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137451.html](http://www.nuforc.org/webreports/reports/137/S137451.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>starlike moving object  that suddenly disappeared.heading north down dirksen .i was riding with my wife .i pointed out the light to my wife. and we watched this starlike light go from the east to north. as we were heading north ourselfs .but it vanished as we both started watching it .this lasted a total of a minute or so .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94853.html](http://www.nuforc.org/webreports/reports/094/S94853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
