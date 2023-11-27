@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:44 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mount Holly (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two stationary white lights mysteriously 'disappear.'November 27th, 2008 Mount Holly, North Carolina  Around 8:00 pm, I stepped outside onto the patio in our backyard with my son (17).  My husband and daughter (14) had just left through the front door to go to the store.  My son and I observed two very large bright white lights in the southern sky.  They were about 30 degrees above the horizon.  The lights were larger than any planet that we have ever seen.  One light was located about ‘3 inches’ above the other light.  Both lights were behind the branches of a neighbor’s tree (about 75 yards).  They were stationary and we did not hear any sound coming from the lights.We went inside and tried to find some information on the internet about the evening sky, but didn’t find anything.So, my son and I went back outside to view the lights.  This time we went out the front door and observed the lights from our front porch.  The lights were no longer behind the tree branches.  This time, the lights were to the right of the tree at the same altitude and intensity.We went back inside.About ten minutes later my daughter and husband came home from the store.  I asked them if they saw the bright lights outside.  My daughter said she saw the lights as they were walking to the car to go to the store.  She said she tried to tell my husband, but he was talking on the cell phone.  I asked her if the lights were still there, and she said she still saw them as they walked back into the house.I went back onto the front porch to take another look at the lights.  Both lights were gone!  I called my husband, son, and daughter to see that the lights were gone.  We were baffled.  We went back inside and shared our observations with my husband.I went back outside the front door, but this time I walked about 20 feet out onto the front lawn.  Further away and about 10-20 degrees from the horizon, I saw what I think may be the same two lights.  They were located south-south-west of me.  Their lights were smaller and dimmer.  The bottom light seemed to be rotating as different colored lights were being emitted.  (yellow, orange, green?) I went back inside and called my son and daughter.  They also believe that the two distant lights were the same lights that were previously much closer to our house.  We watched the two lights as they very, very, slowly descended into the horizon.  The lights did not get smaller as they descended.  They seemed to make a vertical descent.  It took about 15 minutes for both the lights to descend out of view.((NUFORC Note:  Sighting of Venus, we suspect.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67203.html](http://www.nuforc.org/webreports/reports/067/S67203.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Windsor (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>in the proximity of the moon,size and brightness of planet,reflective,metalic,moved in all directions,color constantmy two daughters and son-in-law observed object.clouds obstructed my view at my location.ages of individules range from 30-40.the object moved at differing rates of speed and made no noise.they thought the reflection off the object was from the moon,they said the object had the brightness and size of a planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04950.html](http://www.nuforc.org/webreports/reports/004/S04950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
