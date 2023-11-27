@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Springfield (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>starlike moving object  that suddenly disappeared.heading north down dirksen .i was riding with my wife .i pointed out the light to my wife. and we watched this starlike light go from the east to north. as we were heading north ourselfs .but it vanished as we both started watching it .this lasted a total of a minute or so .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94853.html](http://www.nuforc.org/webreports/reports/094/S94853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cathlamet (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireball over SW WashingtonI witnessed a fireball this past weekend over Cathlamet, Washington.  I origionally thought it was an interesting cloud formation -- a small blob about the size of a full moon with a sort of comet tail -- I didn't think anything of it while i was loading my car for a trip into Longview.  While in my car heading east on SR4 I noticed the formation was still there! (a little lower in the sky) It looked just like a bright comet... tail and all.  About 2 minutes into the trip I remembered I had my digital video camera with me in my computer bag.  I started shooting blindly out the windshield but quickly realised that this was not going to work.  About a mile and a half up the road was a viewing area/turn out that faced the Columbia River where I got out and got decent shots of the fireball.     I have about 90 seconds of fair footage (I am NOT a video film photographer by a long stretch!).... I only wish I started filming a lot sooner.  I reported this to the local astronomy group (Friends of Galileo) who didn't hear of anything expected to be fallen from the sky in our area.  I am sure it is space junk but it was pretty amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40841.html](http://www.nuforc.org/webreports/reports/040/S40841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
