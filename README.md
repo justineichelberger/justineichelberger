@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>slow traveling light disappearsOn Thanksgiving Morning apporximately five thirty in the morning my family and I were traveling west bound on I-295 towards Milwakuee, Wisconsin.  We were near O'hare airport when I looked up and observed a bright light.  I watched it with interest because I didn't think it was a plane as it was traveling slow and had no blinking lights on it.  I was still watching it when we went under and overpass and when we drove out a second later where the light sould have been, and it vanished.  A couple of minutes later I saw other craft flying low over the chicago area.  I don't know the chicago area very well, and all I know is that they looked to just be hovering over hotels and buildings.  I did mention what I saw to my husband, but he is a skeptic and was just getting annoyed at me.  So I went back to sleep.  I forgot about the sighting until recently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67517.html](http://www.nuforc.org/webreports/reports/067/S67517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Guntersville (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange orbs going south.6 orange orbs flew south 6 turned into 4.((NUFORC Note:  We suspect a nighttime sighting, and have amended the time above.  Source of the report elects to remain totally anonymous, and provides no contact information, so we cannot confirm the sighting time.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104827.html](http://www.nuforc.org/webreports/reports/104/S104827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
