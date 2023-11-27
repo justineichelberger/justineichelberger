@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Windsor (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>in the proximity of the moon,size and brightness of planet,reflective,metalic,moved in all directions,color constantmy two daughters and son-in-law observed object.clouds obstructed my view at my location.ages of individules range from 30-40.the object moved at differing rates of speed and made no noise.they thought the reflection off the object was from the moon,they said the object had the brightness and size of a planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04950.html](http://www.nuforc.org/webreports/reports/004/S04950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>saw a thin and long triangular shaped object with red and green lights.At around 9:30pm I heard a strange noise outside, it sounded like a very low flying plane.  I went out the front door (which faces the west)and saw a low flying triangular shaped aircraft with flashing red and green lights.  At first I thought it may be something like a stealth aircraft because the Chiefs were playing at Arrowhead on this night, but then I realized most stealth aircrafts do not make noise nor do they have flashing lights.  The strange thing about this object was that it was flying just above the tree tops and it stopped and hovered for approximately 2 to 3 minutes then it did a 180 (while it was hovering) and took off at a pretty quick speed.  When I looked to the north I saw a helicopter coming at a high rate of speed toward the aircraft (we have a police helicopter station within a mile of my house),but the aircraft just seemed to vanish leaving the helicopter to just fly in circles around my neighborhood.  I guess the thing that really has me questioning what this object was is that back in the latter part of August I was walking up our street and saw the exact same aircraft hovering above the school up the street.  On this occasion my neighbor was returning home and saw it also.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85536.html](http://www.nuforc.org/webreports/reports/085/S85536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
