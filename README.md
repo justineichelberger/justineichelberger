@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 26 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1976, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Night patrolman rendered defenseless by ALIENS and ARMORED aliens. Interlect exam took place on roof top of building.I was rendered helpless, limp and dazed during a mental and physical examination; most importantly "they" (ALIENS) seemed interested in testing my IQ, a discussion ensued that my IQ wasn't suitable, other Aliens dressed in what appeared to be metal armor and/or soft silver tried to seek permission from the examiners to kill me. The Aliens left me lifeless and totally waeken so that until there departure I couldn't move or lift myself from against the roof wall, and "They"(ALIEN) didn't seem concerned about my weapons (357 M and 20 Gauge Shot Gun)...Later, in fact a couple of years later. I reported what happen to Air Force Investigators @ NASA and Ellington AF Base and was told by the AF interviewer to not say nor tell any one about this encounter, and that someone would be in touch in the near future.((NUFORC Note:  Only a sole witness in this case.  We would like confirmation from other sources.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/019/S19698.html](http://www.nuforc.org/webreports/reports/019/S19698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in North Bergen (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was early evening, while looking West, towards Hudson County Park, a ball of fire was seen moving east...My husband was looking West, towards Hudson County Park, when he claimed to have seen a ball of fire moving East towards New York...when I got to the window, it was gone.  I did not report this for three reasons: I did not know where to report it to, he does not believe in UFO's, I did not want to sound nuts.  There was an article in a local free paper.  I remember incidents reported in the park when I was younger.  Hence this report((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/045/S45516.html](http://www.nuforc.org/webreports/reports/045/S45516.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/165/S165570.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165869.html)
-- [284](http://www.nuforc.org/webreports/reports/165/S165617.html)
-- [283](http://www.nuforc.org/webreports/reports/165/S165589.html)
-- [282](http://www.nuforc.org/webreports/reports/165/S165572.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
