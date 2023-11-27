@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:28 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:16 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pearland (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We have a huge window over our front door and me and my 13 year old son were talking to my wife, looking in the directions of the huge window (north) and a bright blue ball, circlular shaped "thing" decented from the sky at a moderate speed.  I don't know what it was, but it made such an impact on me that I am now searching for other witnesses to discuss what they saw as well. The object also had a glow.  I'm no UFO fantatic, but am very curious to what others saw in the Houston/Pearland area.  Beltway 8 & 288.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60090.html](http://www.nuforc.org/webreports/reports/060/S60090.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Flight of four half V.Saw 4 objects in half of a "V" formation, approximately 500 feet apart, and altitude of around 1000 feet above ground, traveling northeast at around 150 knots.  No sound noted.  Color and shape alternating between white sphere to multi-angular shape with color changing between lead grey to shiny sun reflecting silver.  The leading object always appeared in the angular shape.  Size of craft estimated to be 20 foot diameter.((NUFORC Note:  Witness provides no information; elects to remain anonymous.  Hoax??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137451.html](http://www.nuforc.org/webreports/reports/137/S137451.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
