@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I saw two pulsating light blue colored lights fairly high in the sky, noiseless, moving very slowly in a southerly direction.I was traveling north on Old Seward, heading toward Diamond, and happened to look up, and  noticed two pulsating light blue colored lights fairly high in the sky.  They were pulsing in unison and moving together with constant distance between them, which made me think it was a single object.  What really got my attention was its “very slow speed”, like it was just barely moving along, not at all like a conventional aircraft that we see all the time.   I had time to pull off the road next to Play It Again Sports, get out of my car and watched “it” gradually move away from me, in a southerly direction until the lights faded out of sight into the dark and misty early evening.  I heard no noise coming from it.   Did anyone else see it or know what it was?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124438.html](http://www.nuforc.org/webreports/reports/124/S124438.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Newark (DE) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My family were driving from Newark to Wilmington, DE.  They were 7 people in the car, everything was foggy so it was hard to see the road, however, from a moment to another circular lights showed up in the sky, they were 10 craft every one has 5 lights and they were coming on line formation.((NUFORC Note:  We wonder whether this is a serious report, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124401.html](http://www.nuforc.org/webreports/reports/124/S124401.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
