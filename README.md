@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 27 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Cathlamet (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fireball over SW WashingtonI witnessed a fireball this past weekend over Cathlamet, Washington.  I origionally thought it was an interesting cloud formation -- a small blob about the size of a full moon with a sort of comet tail -- I didn't think anything of it while i was loading my car for a trip into Longview.  While in my car heading east on SR4 I noticed the formation was still there! (a little lower in the sky) It looked just like a bright comet... tail and all.  About 2 minutes into the trip I remembered I had my digital video camera with me in my computer bag.  I started shooting blindly out the windshield but quickly realised that this was not going to work.  About a mile and a half up the road was a viewing area/turn out that faced the Columbia River where I got out and got decent shots of the fireball.     I have about 90 seconds of fair footage (I am NOT a video film photographer by a long stretch!).... I only wish I started filming a lot sooner.  I reported this to the local astronomy group (Friends of Galileo) who didn't hear of anything expected to be fallen from the sky in our area.  I am sure it is space junk but it was pretty amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40841.html](http://www.nuforc.org/webreports/reports/040/S40841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Carson (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Strange orange/red light flying slowly across the sky with a smaller object falling off it then both disappearing.It happened last week during our 2008 family Thanksgiving Dinner.  My father and other family members were standing outside when my father saw the strange orange/red light traveling slowly across the sky coming towards Carson.  He had seen it twice before during the summer so he quickly called the rest of us out to witness it.  We all quickly determined it wasn't an airplane because there were other planes in the sky at that time and this had no flashing warning lights and no sound like the rest of them as it came above us.  It was just an orange/red super bright object almost like a fireball but with no noticeable flames.  It was flying higher than the other airplanes but it was larger and brighter than them in the sky.  It traveled across the sky above us and when it reached the refineries about 2 miles away it stopped and it shot down a fireball that left a streaking orange trail like a flame but there was no smoke, just the same orange/red glow like a piece of the larger object just came off.  The smaller fireball shot directly down a couple of seconds and disappeared.  The big object then flashed a few times before it also disappeared.  Some clapped while others freaked out and asked,  what was that?  My brother who was not at this family gathering had told us about this strange light he has seen often in the sky.  He has seen it numerous times since 2005 and it's always traveling across Carson and always disappearing above the refineries.  He has also seen it shoot white lights and spin then disappear.  My parents and sister have also seen it a few times before.  Now I and about 14 other family members believe!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67278.html](http://www.nuforc.org/webreports/reports/067/S67278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [282](http://www.nuforc.org/webreports/reports/165/S165834.html)
-- [281](http://www.nuforc.org/webreports/reports/165/S165766.html)
-- [280](http://www.nuforc.org/webreports/reports/165/S165583.html)
-- [279](http://www.nuforc.org/webreports/reports/165/S165582.html)
-- [278](http://www.nuforc.org/webreports/reports/165/S165573.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
