@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:34 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Sydney (Canada) (NS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Three lights looking like stars .Two were moving one was not..Nov.28 20105:30 am nov 28 2010 .An object looking like a star going at a good pace moving in a east direction .There was no sound . Another object also looking like a star was moving toward the First object when the almost met the second object stopped ..It was almost like it stopped to let the first object pass..Along with these objects there ws a bright light also looking like a star off in the distance not moving. It was a clear night no planes were in the sky just stars no clouds ..Three of us watch it before we enter our work. About 3 months before my son and myself watched the space station pass our sky and 3 objects like these seemed to follow. It was also a clear night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79078.html](http://www.nuforc.org/webreports/reports/079/S79078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in St. Cloud (south of) (MN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Large, black, foil / wing flying low over field near highway in dayimte.My fiancee and I were driving north on highway 94 north of Rogers, and south of St. Cloud, when I looked to the west (my left) and noticed something gliding over a nearby field. My fiancee was driving, and I was a passenger in the backseat with her elderly grandmother in the front. I told her to take a look, but since she was driving, she only caught a short glimpse of the object. Her grandmother was unfortunately unable to turn and look at it. My fiancee told me she had seen it, and asked if I could tell what it was, to which I replied, "not sure, but it doesn't look like any kind of plane I've ever seen." As she continued to drive, the object was hovering slightly above the field at about 20 feet or so, then began to "sprint" in the same direction as our car was traveling (north). It quickly caught up to our speed (about 75 mph.), and then rose up to about 200 feet or so and stalled, then dropped to about 20 feet again, turned 180 degrees and took off in the opposite direction (south). Once more it stopped, hovered for 2-3 seconds, then turned once more and took off at a fast pace. Finally, we were to far down the highway to see anymore.I am not an aviator or engineer of any kind, but from my distance (about 200-250 yards away), it appeared to be approximately 20-25 feet from "wingtip" to "wingtip", and was about 4-5 feet wide in the middle. It was all black with no visible lights, and was in the shape of an air-foil or kinda folded wing; like an upside down, elongated U. It appeared to have no external propeller or engine, and no "cockpit" or apparent area for a passenger. I saw no people anywhere nearby in the field to make me think it was some sort of radio-controlled airplane; if it was, it was the largest radio controlled object I have ever seen! It was broad daylight at about 10:30 am with partly cloudy skies, and a slight wind from the west.I have included a map showing the approximate area we were, the direction we were traveling, the direstion(s) the object was traveling, and an illustration of what I saw. I hope this information is helpful, and I hope someone else saw what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26342.html](http://www.nuforc.org/webreports/reports/026/S26342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
