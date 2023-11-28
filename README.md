@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Pensacola (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two very bright balls of light in night sky following each other. No sound and no flashing lights moving very slowly.On November 28, 2009 at about 6:00 pm I looked up in the n/ne sky and noticed two round very bright balls of light. At first I thought it was the international space station but there was two of them. One was following the other. The one in back was a little bit smaller than the one in front. They was very close to each other.There was no sound and no lights were flashing to indicate an aircraft of some kind. I watched them as they went behind some trees and one came out and the other didn't. The one continued on toward the s/se until I could not see it anymore.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73705.html](http://www.nuforc.org/webreports/reports/073/S73705.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were driving North to Salt Lake City from Sandy and spotted what at first I said was a helicopter. My friend disagreed and said that it looked like two objects going to and from each other a short distance. We looked away because we had turned and then noticed that it was farther away and in a different position.We were driving North to Salt Lake City from Sandy and spotted what at first I said was a helicopter. My friend disagreed and said that it looked like two objects going to and from each other a short distance. We looked away because we had turned and then noticed that it was farther away and in a different position.  We turned again to head north and decided to stop and look at it through binoculars.  While I was looking, I saw what appeared to be a thin wedge like about the size of 20 degrees cut from a pie shape sitting sationary.  It was dark colored and pulsated between dark and light.  I handed the binoculars to my friend so that he could look as well and he said that he couldn'e see it anymore.  I looked again and it just wasn't there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04938.html](http://www.nuforc.org/webreports/reports/004/S04938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
