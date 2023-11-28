@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>As I went outside to have a late night smoke......Went outside to have a latenight smoke at 2:40 am, I was looking at the moon and noticed a star like object that moved from side to  side.I watched this go on for 30 min.At first i thought it may be a satalite but when it moved and stayed in the same general area it was something else!!Something else like aliens!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60097.html](http://www.nuforc.org/webreports/reports/060/S60097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Weslaco (TX) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>7 circular red orange lights heading upward in the same formation and disappeared after a duration of 8 seconds.There was seven circular red-orange bright lights that appeared in the sky heading in a curved upward direction.  The objects followed each other in the same trail and disappeared.  It was a time period of about 8 seconds, after they disappeared there was 4 loud bangs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104891.html](http://www.nuforc.org/webreports/reports/104/S104891.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
