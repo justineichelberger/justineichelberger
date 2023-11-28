@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Humboldt (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights in a spread formation.Crystal clear night around 12 degrees.  Went out for a smoke when I looked up in the sky and observed (6) orange to red circular like objects that seemed to be in a spread formation.  Watched for about 15 seconds then ran in to grab my Galaxy 4 cell phone. Got off 5 shots and captured (2) before they disappeared.  Down loaded the photos to my desk top so I could zoom in and see what I had..... Called my brother in AZ to tell him....he said it was stealth helicopters.... They see them all the time out there in the desert.  Don't think they were choppers......((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104848.html](http://www.nuforc.org/webreports/reports/104/S104848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Koror (Republic of Palau) (HI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>very fast Circle lite passed above us in the middle of the ocean with out a sound.We were in the middle of the ocean chasing turtle at sunset,when the sun disapeared, A circle lite passed above us that was too fast for a standard aircraft, it took it less than 2 minutes to cross from one end of the sky to the other end of the sky in the middle of the ocean. It crossed right above us and we could not hear a sound. If it was that fast and it was that close , we should have heard a sonic boom from it, but we did not. I hope somebodey saw it too and reports it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47911.html](http://www.nuforc.org/webreports/reports/047/S47911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
