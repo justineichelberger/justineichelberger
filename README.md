@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Lake Okeechoobee (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsating white lighted craft hoverd over us while hunting.Sometime around 1983 my husband, his brother, and best friend were hunting on Lake Okeechoobee. It was dark and they had a fire going.  My husband looked up and saw a bright light, and just when he said to them, “Wow look at that!” that quick it was hovering right over them about 500 feet in the air. He also said that it wobbled from side to side. His friend was terrified and ran to put out the fire, and then he ran to a tree and was hanging on to it, my husband and his brother were like froze watching it.  It stayed there for about ten minutes.He said that it was oblong in shape, but not cigar shaped, and about 30 feet wide, but hard to judge the size.  He said that it pulsated white light.  He said you could not really see the craft because of the pulsating light.  It then in a flash shot up in the sky, wobbling, and stopped, and hovered about as high as the air planes fly.  Then it shot out 4 smaller white lights and they went off in different directions.  Then the original craft took off  and they watched till they could no longer see them.  He said that it was if they could hear them, and it made no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104963.html](http://www.nuforc.org/webreports/reports/104/S104963.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Gainesville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>As I went outside to have a late night smoke......Went outside to have a latenight smoke at 2:40 am, I was looking at the moon and noticed a star like object that moved from side to  side.I watched this go on for 30 min.At first i thought it may be a satalite but when it moved and stayed in the same general area it was something else!!Something else like aliens!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60097.html](http://www.nuforc.org/webreports/reports/060/S60097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
