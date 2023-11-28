@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:47 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:45 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Burnsville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I REPORTED THIS ON 11/28/05 .AFTER VIEWING THE ANGLES AND LAND MARKS,THIS IS WHAT I OBSERVED. I WAS STANDING 14' ABOVE GROUND ON MY DECK .IT WAS A CLEAR NIGHT. I WAS FACING SOUTH-WEST WHEN A BLUEISH/WHITE LIGHT COUGHT MY EYE IN THE SOUTH SKY .IT WAS OBSCURED BY THE BRANCHES OF AN ALMOST BARE APPLE TREE. IT MOVED INTO AN UNOBSTRUCTED VIEW AS IT MOVED FROM EAST TO WEST .ABOUT 300 YARDS ON THE OTHER SIDE OF AN OLD PASTURE, ABOUT LEVEL VIEW OFF MY DECK IS A ROW OF TALL LOCUST TREES .BEHIND THE TREES IS A DIM LIGHT FROM A STREET ANOTHER 200-300 YARDS AWAY .AS THE LIGHTS PAST INTO THE CLEARING ,THE LOCUST DID NOT OBSCURE THE LIGHTS ,AS THE APPLE TREE DID.I COULD MAKE OUT A FAINT LINE OF A CRAFT BETWEEN THE TWO END LIGHTS .THERE WERE 2 DIMMER LIGHTS ,ONE ABOVE THE OTHER IN THE MIDDLE . SIZE? IF I WERE TO HOLD MY ARM OUT ,WITH 2 FINGERS ,FROM THE TIP OF MY FINGER TO THE CROOK OF MY THUMB ,WAS ITS SIZE. IT THEN MOVED ,WITHOUT A SOUND ,WEST IN THE DIRECTION OF MADISON COUNTY ,NC</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48074.html](http://www.nuforc.org/webreports/reports/048/S48074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pine River (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Two Extreme white changing shapes with downward beams of light.Two objects about 4 miles apart.  Very bright white light changing in size with short rays coming from beneath, coming from the south east heading north west.  I was on my deer hunting stand at the time and viewed them with 9 power binoculars, also called local sheriff's department to see if a car was near by.  When the stars all disappeared from the morning sunrise those two objects stayed visible.  I spend many nights snowmobiling and winter night predator hunting and never have seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124421.html](http://www.nuforc.org/webreports/reports/124/S124421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
