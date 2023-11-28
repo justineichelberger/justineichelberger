@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:46 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Mount Vernon (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Alien Aircraft apparently watching meMe and a friend were driving through the back streets and we see a bright white light coming right toward us....we kind of shrug it off thinking its just a plane or chopper until it gets closer and freezes in the air, then looks as if it was moving downwards really slowy...so I stop and then suddenly it appears to be moving towards us very fast and it was then we realized it wasnt any kind of human craft...I throw my foot onto the gas and it shoots up about a mile or even 2 into the sky! It then became golden and almost looked like a giant star but it was still moving...and as I proceed to try to make it home weird crackling noizes came upon the car hurting both of our ears....Note that also the clouds were very mysterious looking like a giant devils head...Scariest moment of my life!((NUFORC Note:  We cannot be certain whether this is intended as a serious report, or not.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60088.html](http://www.nuforc.org/webreports/reports/060/S60088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Pfafftown (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Three flashes of light, one white, one an orange color and the last big flash was turquoise.We were standing on the front porch last night shortly befor 9:30 pm.  The sky lit up with what appeared to be lightning, maybe two seconds later it lit up again but it was an orange color, then almost instantly a big flash of turquoise.  We stood there in disbelief and curiosity of what we just saw & waiting to see if the sky lit up anymore but it didn't.  There was no noise of any kind following any three of flashes/lights….  We're not sure what it was, but it definetly wasn't lightning.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85550.html](http://www.nuforc.org/webreports/reports/085/S85550.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
