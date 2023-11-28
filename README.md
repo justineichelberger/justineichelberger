@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Methuen (MA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Diamond shaped lights..seemed stationary...very large...from the time I seen it to it disappeared was roughly 5min or lessBright like a LED light, diamond shaped, seemed to be over Merrimack River RT 110, was stopped at traffic light and was shocked to see such a bright weird shaped light, was compelled to get closer, when I got close enough to take a picture (tried to take pic at Royal House Roast Beef/plaza) it was gone.  Very dark out could not see anything in the sky once light was gone. Like nothing I ever seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85594.html](http://www.nuforc.org/webreports/reports/085/S85594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1983, an anonymous witness in Lake Okeechoobee (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pulsating white lighted craft hoverd over us while hunting.Sometime around 1983 my husband, his brother, and best friend were hunting on Lake Okeechoobee. It was dark and they had a fire going.  My husband looked up and saw a bright light, and just when he said to them, “Wow look at that!” that quick it was hovering right over them about 500 feet in the air. He also said that it wobbled from side to side. His friend was terrified and ran to put out the fire, and then he ran to a tree and was hanging on to it, my husband and his brother were like froze watching it.  It stayed there for about ten minutes.He said that it was oblong in shape, but not cigar shaped, and about 30 feet wide, but hard to judge the size.  He said that it pulsated white light.  He said you could not really see the craft because of the pulsating light.  It then in a flash shot up in the sky, wobbling, and stopped, and hovered about as high as the air planes fly.  Then it shot out 4 smaller white lights and they went off in different directions.  Then the original craft took off  and they watched till they could no longer see them.  He said that it was if they could hear them, and it made no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104963.html](http://www.nuforc.org/webreports/reports/104/S104963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
