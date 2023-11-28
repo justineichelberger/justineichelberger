@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were driving North to Salt Lake City from Sandy and spotted what at first I said was a helicopter. My friend disagreed and said that it looked like two objects going to and from each other a short distance. We looked away because we had turned and then noticed that it was farther away and in a different position.We were driving North to Salt Lake City from Sandy and spotted what at first I said was a helicopter. My friend disagreed and said that it looked like two objects going to and from each other a short distance. We looked away because we had turned and then noticed that it was farther away and in a different position.  We turned again to head north and decided to stop and look at it through binoculars.  While I was looking, I saw what appeared to be a thin wedge like about the size of 20 degrees cut from a pie shape sitting sationary.  It was dark colored and pulsated between dark and light.  I handed the binoculars to my friend so that he could look as well and he said that he couldn'e see it anymore.  I looked again and it just wasn't there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04938.html](http://www.nuforc.org/webreports/reports/004/S04938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Humboldt (IA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange lights in a spread formation.Crystal clear night around 12 degrees.  Went out for a smoke when I looked up in the sky and observed (6) orange to red circular like objects that seemed to be in a spread formation.  Watched for about 15 seconds then ran in to grab my Galaxy 4 cell phone. Got off 5 shots and captured (2) before they disappeared.  Down loaded the photos to my desk top so I could zoom in and see what I had..... Called my brother in AZ to tell him....he said it was stealth helicopters.... They see them all the time out there in the desert.  Don't think they were choppers......((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104848.html](http://www.nuforc.org/webreports/reports/104/S104848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
