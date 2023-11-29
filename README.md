@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light over Organ Mountain.On my way to work in the morning, I noticed a very bright white light just over the Organ Mountains.  It takes me approximately 10-15 mins to get to work and I could see it the entire way.  It never moved.  It was definitely to large to be a star or planet.  It was not the moon.  It never flickered.  I got home from work and told my husband about it and he began to describe the exact same light he saw on his way to work the previous morning also around 4:15 am.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143926.html](http://www.nuforc.org/webreports/reports/143/S143926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lewes (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Radio changing and light circling carI was driving home from work as usual, when the radio changed. I changed the station back, but it changed again. I decided to turn off the radio, and as I reached for it I saw a brilliant white light out of the corner of my eye. I looked over in shock and saw 6 streams of light, shooting around my car. I promptly sped up and they flew ahead of me. Once they were out of sight, the radio came back on by itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47918.html](http://www.nuforc.org/webreports/reports/047/S47918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
