@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:34 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Orcas Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : a bright light in the ssw sky slowly moves down slowly in the sky then vanishes  in to the sky.a round object vary bright in the sky brighter than any star when veiwed through a telescope looks to have spin ' has white lights going  around the ball , every once and a while you can see that it has a flatish side to it you can see this when that side turns toward you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02933.html](http://www.nuforc.org/webreports/reports/002/S02933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Janesville (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>crescent shaped craft with seven evenly spaced orange lights in the backside.I was in my driveway, waiting for my ride to work.  I was looking up at the stars and thinking it was nice to see the stars for once, since I live in town with a few lights that usually hinder the sight of them. Then just like out of a  movie!  Something seemed to shimmer into existence...I want to say about half a mile up.  It was crescent shaped with what appeared to have seven engines. Then it darted to the Northeastern direction with no sound at a speed I cant even guess.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131542.html](http://www.nuforc.org/webreports/reports/131/S131542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
