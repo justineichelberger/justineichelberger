@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:18 on 28 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hammond (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>BOOMERANG SHAPED CRAFT OVER THE TREESI SIT ON MY BALCONY AND SMOKE OUTSIDE,ON 2 OCCASIONS IN THE LAST 4 MONTHS, I WAS OUTSIDE, AND I SAW A BOOMERANG SHAPED CRAFT, IT WAS WHITE, AND KINDA TRANSLUCENT,  IT WAS VERY LARGE,  THE FIRST TIME I SAW IT, I THOUGHT IT WAS A SPOTLIGHT OF SOME KIND, IT WAS HEADED SOUTHWEST, I NEVER THOUGHT IT WAS SOME KIND OF CRAFT TILL I SAW IT THE SECOND TIME A MONTH LATER, THERE IS NO EXPLANATION FOR WHAT I SAW,  IT WAS SILENT, GLIDED ABOVE THE TREES, AND IT JUST DISAPEARED.  IVE NEVER SEEN ANYTHING LIKE THAT BEFORE.  IT WAS NOT A SPOTLIGHT, OR I WOULD SEE IT ALL THE TIME,  I NEVER HAVE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106318.html](http://www.nuforc.org/webreports/reports/106/S106318.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Orcas Island (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Summary : a bright light in the ssw sky slowly moves down slowly in the sky then vanishes  in to the sky.a round object vary bright in the sky brighter than any star when veiwed through a telescope looks to have spin ' has white lights going  around the ball , every once and a while you can see that it has a flatish side to it you can see this when that side turns toward you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02933.html](http://www.nuforc.org/webreports/reports/002/S02933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [378](http://www.nuforc.org/webreports/reports/165/S165599.html)
-- [377](http://www.nuforc.org/webreports/reports/165/S165587.html)
-- [376](http://www.nuforc.org/webreports/reports/160/S160855.html)
-- [375](http://www.nuforc.org/webreports/reports/160/S160871.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161210.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
