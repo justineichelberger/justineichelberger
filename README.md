@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:48 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Overland Park (KS) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Orange sphere emitting orange light seen very high in sky, larger than an aircraft or shooting star, 3 secondsThe object was seen overhead in the night sky around 8:50 CST in Overland Park, KS.  It appeared to be an orange, round craft that emitted an orange haze. It looked as though it was high in the sky, but the object was much larger than a shooting star or an aircraft. It shot through the sky quickly and then vanished without leaving a trail.  My sister and I were the only two that we know of to have seen the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94891.html](http://www.nuforc.org/webreports/reports/094/S94891.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Catawissa (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>RED OBJECT (UFO)  FLYING NEAR FULL MOON PICTURESON OCTOBER 29,2012, I WAS OUTSIDE ON MY PROPERTY TAKING PICTURES OF THE FULL MOON WITH MY NIGHT VISION CAMERA AND PICKED UP A RED OBJECT FLYING CLOSE TO THE MOON.  I DO HAVE THE PICTURES DOWNLOADED ON MY COMPUTER. WILL BE GLAD TO FOWARD THEM TO YOU.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94822.html](http://www.nuforc.org/webreports/reports/094/S94822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
