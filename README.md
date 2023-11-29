@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Grove Hill (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Large triangle craft near commerical aircraftOn 11-29-05 at 7:44am I took a picture of a commercial airliner flying over the park. Did'nt notice the object in the frame until I downloaded it to computer. It is black and triangle with no contrail as the airliner has. Will send for your viewing((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62695.html](http://www.nuforc.org/webreports/reports/062/S62695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>At 7:45 PM on 11/29/16, in the sky heading north, a light similar to a plane but slightly brighter and larger was directly in my line of sight in front of me which appeared to be possibly less than 1,500' AGL from my view.  It moved north at an amazing rate of speed to completely out of sight in less than approximately 2-3 seconds.  Its trajectory was constant, totally parallel.  No sound at all.  Absolutely was not an plane or jet.  Inside of 30 minutes afterwards a military fighter jet flew over the same area of my sighting but was traveling west.  Seemed odd to hear a fly-by from a fighter jet in the evening.  Not typical in this area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131536.html](http://www.nuforc.org/webreports/reports/131/S131536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
