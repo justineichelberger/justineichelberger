@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:48 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.0033333333333333335 - 0.0033333333333333335 minutes.</sub><blockquote><sub>the object emitted sparks from the side and rear and hit the earth at a fantastic speed.  no light was emitted upon impact.Traveling north on the 405 freeway, getting off on the Alton, (Spectrum Mall off ramp)my eye caught a very quick streak of light decending on a near vertial fall to earth.  The object had a bright (white) center to it and it emitted sparks to the side and back of the object as it fell with an amazing speed.  It dissapeared below the horizan in the direction that would take it over Newport Beach in a line with Long Beach and then Point Magoo CA.  It could have landed in the water infront of the LAX airport.It looked like a sparkler being thrown through the air (exactly like)and not like any of the image I have seen on any asteroid or space junk as there was no tail  or illuminated glow around the object suggesting fire or great heat.  Just the sparking that did not form a tail or any sort behind the object.  Of course it was a dark night and if there was smoke I would have not seen it.  It happened so fast that if you were not ready there was no way to warn anyone to look that way or the other to catch a glimps of it.  It moved at an incredable speed and there was no glow from an impact when it hit earth.  It also had no curve to its flight as it went straight in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40938.html](http://www.nuforc.org/webreports/reports/040/S40938.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light over Organ Mountain.On my way to work in the morning, I noticed a very bright white light just over the Organ Mountains.  It takes me approximately 10-15 mins to get to work and I could see it the entire way.  It never moved.  It was definitely to large to be a star or planet.  It was not the moon.  It never flickered.  I got home from work and told my husband about it and he began to describe the exact same light he saw on his way to work the previous morning also around 4:15 am.((NUFORC Note:  Possible sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143926.html](http://www.nuforc.org/webreports/reports/143/S143926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
