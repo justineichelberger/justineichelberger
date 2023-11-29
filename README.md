@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:33 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lewes (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately Short - Short minutes.</sub><blockquote><sub>Radio changing and light circling carI was driving home from work as usual, when the radio changed. I changed the station back, but it changed again. I decided to turn off the radio, and as I reached for it I saw a brilliant white light out of the corner of my eye. I looked over in shock and saw 6 streams of light, shooting around my car. I promptly sped up and they flew ahead of me. Once they were out of sight, the radio came back on by itself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47918.html](http://www.nuforc.org/webreports/reports/047/S47918.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Preston (UK/England) (YT) reported seeing craft that fit the description of some 'Light' over a period of approximately 613.0 - 613.0 minutes.</sub><blockquote><sub>Fast moving formation of bright lightsAt approximately 0610 on November 29 in Lancashire England I saw 3-4 moving bright wwhite lights before wiping my eyes to focus on what I had seen and then it became apparent that there was more than that too, so I called my partner down to witness this occurrence because no one would have believed me.  I tried to video it but could not get a picture just audio.  A line of lights at altitude, in formation crossed the sky to the east both my partner and I were amazed surprised and I personally was in shock.  What made it strange was that one light joined the convoy from a southern direction and there was a light that was not in formation but travelled faster than the convoy just offset to the south also but took the same trajectory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151154.html](http://www.nuforc.org/webreports/reports/151/S151154.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
