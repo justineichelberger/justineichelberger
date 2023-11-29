@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:36 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Mercer Island (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Colorful object flying over Mercer IslandI was driving home and the road was completely dark.  Suddenly a colorful flying object drew my attention.  It was an oval shape with green, red, blue lights flickering on.  It was flying very smoothly.  It was also faster than a plane.  I stopped and watched it for about 10 mins. ((NUFORC Note:  Sirius, or model airplane??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94901.html](http://www.nuforc.org/webreports/reports/094/S94901.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Lighted(glowing) chevron shaped craft with individual lights moving east to west then just disappearedThere were three of us on the back porch at 7:30pm.  2 out of 3 of us saw the (craft) for a total of about 6 seconds.  It was shaped like a boomerang or flattened V, I guess it is referred to as a chevron shape. It was all lighted, but not very bright, almost a translucent look to it with 5-7 lights with in it that were slightly visible, all white light though.  It was traveling from east to west at a moderate speed, at first glance it looked to be just over the trees, but I believe it was much higher.  We watched it traveling in a relatively straight path and then it was just gone.  I may have second guess myself except there were two of us and we described it exactly the same.  By the time the third one could catch a look at it it had blinked out or whatever you want to call it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85581.html](http://www.nuforc.org/webreports/reports/085/S85581.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
