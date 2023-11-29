@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Shelton (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Circular object with lights underneath seen in images taken of cloud formation11/29/2019:  Jones Tree Farm, Shelton, CT  While selecting our family Christmas tree, I noticed a nice cloud formation and an ice prism.  I took out my phone and snapped several pictures in succession.  The bright sun that day made it difficult to see the viewing glass of the phone and was basically shooting blind.A short while later I reviewed the images and saw something I was not expecting to- a disc shaped object, just left of the cloud formation.  In successive images the object appears in three different locations.I electronically zoomed -in with the phones camera to see the object better.  I immediately saw a dark circular object with what appears to be lights on the underside.  One image has four in a square pattern.  One has four in a diamond-shaped pattern. The third shows five lights.  These all together distinctly tell me this object was in motion.I have all the images and will be e-mailing the files.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151279.html](http://www.nuforc.org/webreports/reports/151/S151279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Catawissa (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>RED OBJECT (UFO)  FLYING NEAR FULL MOON PICTURESON OCTOBER 29,2012, I WAS OUTSIDE ON MY PROPERTY TAKING PICTURES OF THE FULL MOON WITH MY NIGHT VISION CAMERA AND PICKED UP A RED OBJECT FLYING CLOSE TO THE MOON.  I DO HAVE THE PICTURES DOWNLOADED ON MY COMPUTER. WILL BE GLAD TO FOWARD THEM TO YOU.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94822.html](http://www.nuforc.org/webreports/reports/094/S94822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
