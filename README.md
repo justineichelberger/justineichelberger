@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:28 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 29 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Land O'Lakes (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Trio of bright orange lights spotted over Land O'Lakes, FL.I spotted three orange lights, flying lower than regular passenger traffic without the the flashing wing and tail lights.  We live near a rural airport, but we do not usually have any planes from it at this time of night; plus these were totally soundless, whereas the aircraft from that airport is clearly audible.  These lights were very bright and disappeared quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115716.html](http://www.nuforc.org/webreports/reports/115/S115716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.0033333333333333335 - 0.0033333333333333335 minutes.</sub><blockquote><sub>the object emitted sparks from the side and rear and hit the earth at a fantastic speed.  no light was emitted upon impact.Traveling north on the 405 freeway, getting off on the Alton, (Spectrum Mall off ramp)my eye caught a very quick streak of light decending on a near vertial fall to earth.  The object had a bright (white) center to it and it emitted sparks to the side and back of the object as it fell with an amazing speed.  It dissapeared below the horizan in the direction that would take it over Newport Beach in a line with Long Beach and then Point Magoo CA.  It could have landed in the water infront of the LAX airport.It looked like a sparkler being thrown through the air (exactly like)and not like any of the image I have seen on any asteroid or space junk as there was no tail  or illuminated glow around the object suggesting fire or great heat.  Just the sparking that did not form a tail or any sort behind the object.  Of course it was a dark night and if there was smoke I would have not seen it.  It happened so fast that if you were not ready there was no way to warn anyone to look that way or the other to catch a glimps of it.  It moved at an incredable speed and there was no glow from an impact when it hit earth.  It also had no curve to its flight as it went straight in.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40938.html](http://www.nuforc.org/webreports/reports/040/S40938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [264](http://www.nuforc.org/webreports/reports/165/S165618.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165610.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165595.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165593.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165594.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
