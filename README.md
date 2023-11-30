@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:43 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:24 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Siren (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>object was spoted two nights in a rowe south-east of siren wis.change shape,move from side to side and up and down fast.oval shape,moved up and down real fast moved from side to side hover in one spot for awhile kind of fade out,than get real bright blue and white and red.just one object tonight.last night their was two.the object was south-east of siren wisconsin.((NUFORC Note:  We have spoken with the source of this report, and have learned that the object was in the southeast sky.  Hence, we suspect the object sighted was the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33506.html](http://www.nuforc.org/webreports/reports/033/S33506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SAN ANTONIO (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watching for chemtrails clear skies, behold a fleet of bright craft.Very high altitude and very hard to see,estimated 20 or more.  Appearance bright white and possibly cigar or vee shaped Two separate clusters flying in a staggered formation. Flying in direction from north to south. First saw middle cluster panned right another cluster ahead the first cluster noticed.  Panning left one craft further away behind both groups.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160880.html](http://www.nuforc.org/webreports/reports/160/S160880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
