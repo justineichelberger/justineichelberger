@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:41 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:36 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>brilliant amber object trailing sparks moving from zenith to west horizonA brilliant amber, circular object trailing sparks moving from zenith to western horizon (traveling apparently due west) very quickly, in about 1 second. One object trailing sparks or debris.  suprizingly large, the circular shape was clearly visible.  1/8th the apparent diameter of the moon? debris trail cover about 15 degrees of arc. Observer is a civil engineer, amateur astronomer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11214.html](http://www.nuforc.org/webreports/reports/011/S11214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Wright city (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A green light was falling from the sky over wright city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151215.html](http://www.nuforc.org/webreports/reports/151/S151215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
