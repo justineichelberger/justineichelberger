@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SAN ANTONIO (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watching for chemtrails clear skies, behold a fleet of bright craft.Very high altitude and very hard to see,estimated 20 or more.  Appearance bright white and possibly cigar or vee shaped Two separate clusters flying in a staggered formation. Flying in direction from north to south. First saw middle cluster panned right another cluster ahead the first cluster noticed.  Panning left one craft further away behind both groups.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160880.html](http://www.nuforc.org/webreports/reports/160/S160880.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lake St. Louis (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Observed (4) unique red orbs that disappeared and arrived and drifted unlike an aircraft.Lake St. Louis, MO, 8:10 PM to 8:17 PM, Saturday, November 30th.  First, I would like to say that I am a professional meteorologist with 17 years of forecasting experience and aviation knowledge.  On Saturday evening, November 30, 2013, between 8:10pm and 8:17pm, I witnessed an event that I cannot explain professionally.  My wife and I were driving around our subdivision looking at Christmas lights and were heading back home when I noticed (4) unique red orbs in the sky to the north-northwest.  I pulled over and we watched the orbs and noticed they appeared to very slowly drift in an direction towards the east.Then, gradually one of the orbs furthest to the east seemed to simply disappear.  Then I noticed yet another orb lift what appeared upwards and fade away leaving two orbs.  Then to the west-southwest of the western most orb an new red orb appeared brightly and gradually drifted eastward.  The orb in front of it appeared to dip downward and fade while one of the other orbs lifted upward and faded.  This continued for about 7 minutes with the orbs disappearing and a new one appearing to keep the number constant between 3 and 4.  Finally, one by one, they all faded away and were gone, just as uniquely as they appeared.I watched closely to see if I could make them out as navigation lights from aircraft but they never seemed to blink on and off like navigation lights should.  They also did not move like typical approaching aircraft would when in the flight pattern with Lambert St. Louis International Airport.  There was also ZERO sound.  It was as quiet as could be.  No engine sounds or anything.Towards the end of the odd event, I was able to capture some video using my iPhone.  I know the quality is not very high but if gives you some perspective as to the event.  The video is available to view at: https://www.dropbox.com/s/xuj7ewr1nudbr2u/IMG_0827.MOV  Sincerely,((NUFORC Note:  Objects are reported by the original witnesses to have been discovered to be lanterns.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104968.html](http://www.nuforc.org/webreports/reports/104/S104968.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
