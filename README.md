@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:45 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Amarillo (east of) (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Flash of light seen on 11/30/15, east of Amarillo.I saw what appeared to be a ball of light flash across the sky, headed downward in the east sky along Amarillo.  I was driving home from work when i saw it.  It was there for as long as it took me to think, "Whats that, I think I shoould video tape it."  Before it disappeared, before I could get out my phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124521.html](http://www.nuforc.org/webreports/reports/124/S124521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Laurel (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>AMAZING !!! LARGER THAN USUAL BRILLIANT FIREBALL IN WSW MIDNIGHT MONTANA SKIES.BEAUTIFUL YELLOW-GREEN-BLUE FIRE BALL WITH ORANGE TO RED TAIL APPROACHING ALMOST PERPENDICULAR TO EARTH WITH MAYBE A 15 TO 30 DEGREE ANGLE VARIANCE?? AS I WAS TRAVELING NORTH, IT WAS IN THE W.S.W. SKIES. IT WAS LARGER THAT USUAL FOR A METEOR.THE FIREBALL WAS 1/3 TO 1/2 SIZE OF THE MOON, BUT WITH THE TAIL, IT WAS LARGER.THE SIZE MADE THIS UNUSUAL. ALSO THE BRILLIANCE AND THE LENGTH OF TIME IT WAS VISABLE  IT WAS AMAZING!!I WAS SO AWE STRUCK, I COULD ONLY LOOK. IT WAS APPROX 23:45. 11/30/04 IT WAS NOT STREAKING AS ONE WOULD IMAGINE A METEOR TO BE BUT GOING SLOWER THAN I HAVE SEEN THEM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40991.html](http://www.nuforc.org/webreports/reports/040/S40991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
