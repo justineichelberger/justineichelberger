@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Daytime sighting of craft over commercial jet in Simi Valley, CAI was looking at a low flying jet when I noticed an oval metallic craft about 5-6 hundred feet bout the jet traveling in the same direction at the same speed. Suddenly, the craft stopped abruptly and started in the opposite direction and accelerated about 8-9 the speed of the jet that it was following at the time I first saw it. It reached a point where it just blinked out and disappeared. This was 45-minutes after the space shuttle crossed over simi valley in its path to Edwards. It was not a bird and it was metallic and reflected the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67252.html](http://www.nuforc.org/webreports/reports/067/S67252.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in SAN ANTONIO (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Watching for chemtrails clear skies, behold a fleet of bright craft.Very high altitude and very hard to see,estimated 20 or more.  Appearance bright white and possibly cigar or vee shaped Two separate clusters flying in a staggered formation. Flying in direction from north to south. First saw middle cluster panned right another cluster ahead the first cluster noticed.  Panning left one craft further away behind both groups.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160880.html](http://www.nuforc.org/webreports/reports/160/S160880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
