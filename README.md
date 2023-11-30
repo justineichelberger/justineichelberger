@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:43 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Auberry (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Saucer w/ navy blue lightsThis UFO encounter occurred on November 30th, 2003 at 11:53pm on 168 hwy in Auberry, CA.  I was following my boyfriend because we were on our way back home to the Bay Area from the Thanksgiving weekend. My boyfriend and I were in two seperate cars traveling on 168 hwy about 60/70 mph. About mile and a half before that "Sierra National Forest" sign came up I had seen this beautiful navy blue light and a saucer shaped "object" that came above from the mountains, flying couple feet from front my car and couple feet behind my boyfriend car. When I first saw this beatiful navy blue light, I thought it was a shooting star.  But then, instead of going straight as it suppose to go, it came so close to my car that I thought we were going to collide with eachother. When we stopped at a gas station to get gas in Madera, CA., I had asked my boyfriend if he seen this blue light too? and he said, "Yes."  I told him that it was a UFO, but he insisted that it was a helicopter patroling Auberry and Shaver Lake, CA area flashing it's lights so they could see all the cars going up and down the hills of 168  hwy.  But, I didn't buy what my boyfriend had to say because where we were driving was totally dark, no lights on 168 and I didn't hear anything.  I only saw this extraodinary object. My only question is, "What was that object that I saw along with those navy blue light?  It only lasted for about 3 to 5 seconds.  The object was so fast, it disappeared down the cliff.  I also want to know if anyone else seen this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33520.html](http://www.nuforc.org/webreports/reports/033/S33520.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Siren (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>object was spoted two nights in a rowe south-east of siren wis.change shape,move from side to side and up and down fast.oval shape,moved up and down real fast moved from side to side hover in one spot for awhile kind of fade out,than get real bright blue and white and red.just one object tonight.last night their was two.the object was south-east of siren wisconsin.((NUFORC Note:  We have spoken with the source of this report, and have learned that the object was in the southeast sky.  Hence, we suspect the object sighted was the star, Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33506.html](http://www.nuforc.org/webreports/reports/033/S33506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
