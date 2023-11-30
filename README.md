@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bridgewater (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I clearly witnessed a craft on fire that cruised over my house in a steady direction slow down then get smaller and disappear.While watching the Alabama/Auburn at 19:00 hrs I saw out my window what looked like an airplane on fire I could tell by the way it was moving something wasn't right as in what you would see in a airplane crashing.  The object just kept moving in a steady pace same altitude while on fire-I could see the flames clearly from my window.  Being about 25 miles from Newark airport we are in the flight path of the airlines and see planes fly over constantly and this was not an airplane.  At this time I grabbed my iPad and ran out my front door to video the object which I did while screaming for the rest of the family to come outside and witness the object.  The object flew directly over my house and we all could very clearly see that the object was under control flying westward and what looked like flames surrounding the craft.  It was a awesome sight beautiful actually.  The night was cloudy,after the craft passed us it traveled probably a mile definitely slowed down  then seemed to ascend get smaller and smaller then disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104955.html](http://www.nuforc.org/webreports/reports/104/S104955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carrollton (Hwy. 65, northbound) (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>new aircraft in super quiet and slow mode.I was driving north on 65 highway and just cross the missouri river bridge and to the west spotted a object with a large amount of lights flashing on it. This was not a lifechopper, but 4xs as large with a flying ceiling of 300 ft.  It cross over my suv at about 30 miles per hour and I had my window down and this craft had no sound or vibs.  I noticed that when they cross the missouri river, they was flying at a lower ceiling and just hugging the bluffs on the south side of the river. This could have been a new type of craft flying out of whiteman afb 20 miles to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53781.html](http://www.nuforc.org/webreports/reports/053/S53781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
