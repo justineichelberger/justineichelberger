@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Koshkonong (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light green circular light seen in the sky on highway before moving South and disappearing within 3 seconds without a loss of view.I was driving south bound on Highway 63 on my way home from classes. A truck went past me heading north on the other side of the road and I seen a light green colored light above it.  I thought it was a reflection off the top of the tractor trailer at first, but after the truck passed the light was still there.  The light then headed south and disappeared within 3 seconds.The light was circular in shape and I couldn't see any detail except that it was round and glowed light green. It seemed a little lighter in color in the center.  It was in the sky not too high above the hay field to the left of the highway heading south bound.  After the truck went passed the light moved south towards the state line and disappeared within 3 seconds.  I've never seen anything move that fast before and I did not see it after it disappeared. There was no hills or anything to obstruct my view so I do not know where the light disappeared to.I seen this light about a mile outside of Koshokong, MO. on the North side heading South.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85600.html](http://www.nuforc.org/webreports/reports/085/S85600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>circular green glow/light in cloudsCame home after studying.  Saw a green glowing cloud in the eastern direction.  There is a blanket of clouds and there's one almost circular section with a lime green glow.  It seems to intensify at times then dim down again.  The moon can be seen but its not near the green glow.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115745.html](http://www.nuforc.org/webreports/reports/115/S115745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
