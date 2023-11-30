@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:49 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Koshkonong (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light green circular light seen in the sky on highway before moving South and disappearing within 3 seconds without a loss of view.I was driving south bound on Highway 63 on my way home from classes. A truck went past me heading north on the other side of the road and I seen a light green colored light above it.  I thought it was a reflection off the top of the tractor trailer at first, but after the truck passed the light was still there.  The light then headed south and disappeared within 3 seconds.The light was circular in shape and I couldn't see any detail except that it was round and glowed light green. It seemed a little lighter in color in the center.  It was in the sky not too high above the hay field to the left of the highway heading south bound.  After the truck went passed the light moved south towards the state line and disappeared within 3 seconds.  I've never seen anything move that fast before and I did not see it after it disappeared. There was no hills or anything to obstruct my view so I do not know where the light disappeared to.I seen this light about a mile outside of Koshokong, MO. on the North side heading South.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85600.html](http://www.nuforc.org/webreports/reports/085/S85600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Auberry (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Saucer w/ navy blue lightsThis UFO encounter occurred on November 30th, 2003 at 11:53pm on 168 hwy in Auberry, CA.  I was following my boyfriend because we were on our way back home to the Bay Area from the Thanksgiving weekend. My boyfriend and I were in two seperate cars traveling on 168 hwy about 60/70 mph. About mile and a half before that "Sierra National Forest" sign came up I had seen this beautiful navy blue light and a saucer shaped "object" that came above from the mountains, flying couple feet from front my car and couple feet behind my boyfriend car. When I first saw this beatiful navy blue light, I thought it was a shooting star.  But then, instead of going straight as it suppose to go, it came so close to my car that I thought we were going to collide with eachother. When we stopped at a gas station to get gas in Madera, CA., I had asked my boyfriend if he seen this blue light too? and he said, "Yes."  I told him that it was a UFO, but he insisted that it was a helicopter patroling Auberry and Shaver Lake, CA area flashing it's lights so they could see all the cars going up and down the hills of 168  hwy.  But, I didn't buy what my boyfriend had to say because where we were driving was totally dark, no lights on 168 and I didn't hear anything.  I only saw this extraodinary object. My only question is, "What was that object that I saw along with those navy blue light?  It only lasted for about 3 to 5 seconds.  The object was so fast, it disappeared down the cliff.  I also want to know if anyone else seen this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33520.html](http://www.nuforc.org/webreports/reports/033/S33520.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
