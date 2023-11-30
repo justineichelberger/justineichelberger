@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:22 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:19 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Salida (CO) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A retired aerospace engineer was out walking his dog, when he was momentary witness to a "very bright object with flames coming off it" streak across the sky from northeast to southwest.  It flew parallel to the horizon, and he emphasized that it did not look like a shooting star.   It flew from horizon to horizon in about 2 seconds, except its appearance was obscured in the southwest, where the sky was obscured/overcast.  The observer stated that he thought the object appeared to be descending.  Its color was "metallic silver."  Flames were streaming off the nose of the object.  It was much smaller than a full moon.  He said that it looked like an object re-entering from space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01681.html](http://www.nuforc.org/webreports/reports/001/S01681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Plymouth (MA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>A bright light in the sky from some kind of craft and it’s movement and speeds were erratic.I saw a bright light from some kind of craft in the sky and it looked odd to me. I questioned whether it could’ve been a plane or not and decided to take out my phone to record it just incase it was a UFO. I only watched the craft with my naked eyes for maybe three seconds or so. After that I was just watching it through my phone screen because I wanted to capture it all on video.Upon starting the video you can see the object is moving straight but then it starts to move in ways that planes and helicopters are not capable of. Its speed and movements were very erratic. Then some trees had got in the way and so I kept the video recording while I walked away a little bit so I could get more video footage of it.Once I spotted the craft again it was very far away. I aimed my camera back at the craft and you can see the light(s) from the craft flashing. It was alternating between a dull light and a bright light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165604.html](http://www.nuforc.org/webreports/reports/165/S165604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
