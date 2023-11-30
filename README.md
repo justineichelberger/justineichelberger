@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bridgewater (NJ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I clearly witnessed a craft on fire that cruised over my house in a steady direction slow down then get smaller and disappear.While watching the Alabama/Auburn at 19:00 hrs I saw out my window what looked like an airplane on fire I could tell by the way it was moving something wasn't right as in what you would see in a airplane crashing.  The object just kept moving in a steady pace same altitude while on fire-I could see the flames clearly from my window.  Being about 25 miles from Newark airport we are in the flight path of the airlines and see planes fly over constantly and this was not an airplane.  At this time I grabbed my iPad and ran out my front door to video the object which I did while screaming for the rest of the family to come outside and witness the object.  The object flew directly over my house and we all could very clearly see that the object was under control flying westward and what looked like flames surrounding the craft.  It was a awesome sight beautiful actually.  The night was cloudy,after the craft passed us it traveled probably a mile definitely slowed down  then seemed to ascend get smaller and smaller then disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/104/S104955.html](http://www.nuforc.org/webreports/reports/104/S104955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Huachuca City (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At 0532 this morning, I was speaking to my best friend in the drivway of my home.  We saw a bright circular object in the middle of the dipper of the Big Dipper.  It remained stationary then in a flase of intense light it went in a dew west direction at an extreme speed and disapeared.  I am 54 years old and have never seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04952.html](http://www.nuforc.org/webreports/reports/004/S04952.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
