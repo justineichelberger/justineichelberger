@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:37 on 30 November 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Carrollton (Hwy. 65, northbound) (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>new aircraft in super quiet and slow mode.I was driving north on 65 highway and just cross the missouri river bridge and to the west spotted a object with a large amount of lights flashing on it. This was not a lifechopper, but 4xs as large with a flying ceiling of 300 ft.  It cross over my suv at about 30 miles per hour and I had my window down and this craft had no sound or vibs.  I noticed that when they cross the missouri river, they was flying at a lower ceiling and just hugging the bluffs on the south side of the river. This could have been a new type of craft flying out of whiteman afb 20 miles to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53781.html](http://www.nuforc.org/webreports/reports/053/S53781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kilauea (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>As I lay conscious but half asleep with my eyes closed, I perceived an intensely bright bluish light illuminating the entire sky.  It was as though lightening had struck.  I immediately opened my eyes to see what appeared to be a shooting star, but it was close to the earth, very close and had a tail of lightening.  It was decending onto property probably 500 feet south of my house.  In a few seconds, the light was extinguished.  I had never seen anything like this, especially the portion of lightening attached to this firery missle.  I was very alarmed, got up and noticed it was 4:30 A.M.  Later in the day, other people on the Hawaiian island of Kauai reported seeing this sight 40 miles south in Kalaheo.  I believe I witnessed a meteorite with a tail of bluish electricity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15355.html](http://www.nuforc.org/webreports/reports/015/S15355.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [290](http://www.nuforc.org/webreports/reports/165/S165598.html)
-- [289](http://www.nuforc.org/webreports/reports/165/S165735.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165736.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165604.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165597.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
