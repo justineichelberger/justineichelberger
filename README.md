@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:45 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>3 objects change direction color speed and shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152179.html](http://www.nuforc.org/webreports/reports/152/S152179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lawai (HI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>An extremely bright light which flashed and a delayed rattling of home windows.On or about 4:30am, Friday, December 1, 2000, I returned to my bed from using the restroom.  At that time an extremely bright, white light flashed twice through the bedroom window.  Thsi light was brighter than any I have ever encountered.  At first I thought it might be sheet lightning and waited for thunder to follow. It never came. This light was so intense that it blinded everything around it.  I thought to myself how unusually bright the flashes were.  It had not been raining, the weather was clear, there was no wind and several stars could be seen.  I also noticed that there was absolutely no noise and did not hear a helecopter, airplane or machinery of any kind.  Approximately 5 minutes or less, after the bright, flashing lights, the front windows of our house rattled.  It reminded me of the rattling I used to hear when planes would break the sound barrier.  However, again, I heard no sound of planes, missles, helecopters etc.  We are very used to hearing those types of aircraft as the Naval Missle Base is here on our island. Later that morning, the radio was busy with callers around our small island who reported seeing the same or similar observations.  No one at the Missle Base has commented or taken any responsibility for any activity in the area at that hour.  One radio caller reported her sighting as a blue/white light dropping from the sky. My husband was aslepp and only woke up to hear the rattling of the windows.  We have lived on Kaua'i for the past 7 years and retired here from Los Angeles.  Our backgrounds California afforded us the opportinity to be trained observers and are quite clear in our visual observation of thsi event.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15362.html](http://www.nuforc.org/webreports/reports/015/S15362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
