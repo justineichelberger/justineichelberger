@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:41 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Kilauea (HI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>As I lay conscious but half asleep with my eyes closed, I perceived an intensely bright bluish light illuminating the entire sky.  It was as though lightening had struck.  I immediately opened my eyes to see what appeared to be a shooting star, but it was close to the earth, very close and had a tail of lightening.  It was decending onto property probably 500 feet south of my house.  In a few seconds, the light was extinguished.  I had never seen anything like this, especially the portion of lightening attached to this firery missle.  I was very alarmed, got up and noticed it was 4:30 A.M.  Later in the day, other people on the Hawaiian island of Kauai reported seeing this sight 40 miles south in Kalaheo.  I believe I witnessed a meteorite with a tail of bluish electricity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15355.html](http://www.nuforc.org/webreports/reports/015/S15355.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On a december night head lights approached us. Then shot into the sky.My family and I were searching for the Metro North Mall. We are from Saint Joseph and were not familiar with this area. It was sometime around Christmas. We were shopping for presents. We ended up on a road that lead us somewhere around a open field. It was night and  we saw headlights approaching us. My father did not know how to get back on the highway, so he was going to wave the other car down and have them tell us directions. My father came to a stop and waited for the other car to pull up. Except it stopped about 25 feet infront of us. That is when we notice that the head lights seemed to be floating in the sky. After a few seconds my father pulled a little further up, and the lights raised about 15 feet in the air. My step-mother freaked out at that time and opened her window. She thought that it may of been a helicopter( I have since lived by a hospital that life flights out and know better). There was absolutley no sound what so ever. Not even a car motor. It remained there for about a minute and then it raised a little more.  Then, suddenly it shot kind of diagonal into the sky. And eventually straight up and out of sight. I would like to put that the speed that it traveled was amazing. Not helicopter like at all. I do not know if it was from this world or not but I do know what I saw. What my whole family saw.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24369.html](http://www.nuforc.org/webreports/reports/024/S24369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
