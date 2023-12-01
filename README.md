@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At approx.10p.m.I went for a walk in my neighborhood;(street lights,houses,& very safe??)about 150yds.from home,I looked into a culd-e-sac; and  silently hovering 10ft. above a house within this culd-e-sac: was a saucer 25ft.long; with spinning(faster then my eyes could follow) multicolored lights on the bottom of it.And a luminous whitish light all around it.It had a round window 2ft.by2ft.in the middle.I could see directly into the craft because lights were ON inside.It appeared as if their were round  black dials on the far wall?? but I was approx.300ft.away. At first I rubbed my eyes.I then turned away ,shook my head, and it was still there. But what unnerved me the MOST was it "seemed" to be aware of my presense.My curiosity quickly turned to fear and disbelief.I ran as fast as I could to get a neighbor/witness ,but my friend got mad & thought I was joking.We returned 10min. later and it was gone...27yrs. later, and this incident still unnerves me..I dont think or talk about it.. because people just laughed at me then.But its one minute of terror I will never forget.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63452.html](http://www.nuforc.org/webreports/reports/063/S63452.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Easton (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Mostly clear night around 12:45am when a V formation of lights appeared and traveled east across the sky for 15 seconds.My husband and I were sitting in our hot tub with the lights off when we looked up and saw a "V" or "boomerang" shape formation of about 12-15 lights.  We watched it fly east across the sky turning and disappearing from view.  It moved in perfect formation and incredibly fast.  It was very high and the lights were more faded yellow but it was easy to follow with your eyes and track.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151211.html](http://www.nuforc.org/webreports/reports/151/S151211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
