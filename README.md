@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Malmoe/Copenhagen, Skåne (Sweden/Denmark) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>This was the second time within 10 days that these "Fire-Cigars" was seen above Malmoe city. The first time (on the 20th of November 98) a 12 year old kid & his friend videofilmed it, and it was shown on both Swedish & Danish TV.This event took place in my hometown, Malmoe Sweden on the 1st of December 1998. I was on my way to a friend and the time was 15:50. I sat down in my car and as I drove out of our driveway I saw something strange in the sky wich I have never seen before, so I stopped and got out of the car. There wasn´t a cloud in the sky so it was hard NOT TO SEE!!! There were 3 cigar shaped "fire-tails" moving slowly and for all that I could hear, silently across the sky above Malmoe. Travelling slowly and tilting to the side, travelling across "oresund" (the sea between Sweden & Denmark) and then vanishing from my sight above Copenhagen, Denmark after approximatly 20 minutes. The distance between me & the UFO´s Was at the closest, 3km. They travelled in a pack of 3, but there was approximatly a couple of 100 meters between them at all times. As this was wintertime the sun was descending at this time, and the sky was coulored red & orange as usual, but these three objects had a different "fire" coulor wich stood out in the sky. This event took place near 2 major airports. Usually there are lot´s of air traffic around and above Malmoe/Copenhagen, but during this event there were no airplanes in the air as far as I could see. On the sighting on the 20th of November 1998, the TV-station contacted the airport & the police, and neighter of them could explain the sighting. I ordered and recived a copy of the TV-intervju with the video of the event on the 20th of Nov, after my own sighting and its great fotage. The adress & name of the TV-station follows: TV((information deleted)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/007/S07865.html](http://www.nuforc.org/webreports/reports/007/S07865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Woodbridge (NJ) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2:50AM - Woodbridge, NJ - UFO Spaceship sighting - 5 windows - bright light in windows.Around 2:50AM, I looked out of the window, and saw what appeared to be a spaceship out side of my window. It was very low in the sky--maybe 50 feet above a house. It was a square shape, but not a perfect square because of its rounded edges. There were five windows – one row of three and one row of two. Through the windows, I could only see bright white light – a square full of light. It wasn’t the same as looking through a house window where you can see objects better because of the light, and night outside.  All I could see was light. The object was moving about 10 mph. Then it disappeared behind a tree to the other side of my building. I ran to another window in my apartment, and then I could see it again. I ran back into my bedroom to get my cell phone to take a picture, and ran back to the window, and it was still there--moving very slowly!  Unfortunately, just as I started to take the picture, it picked up speed and disappeared again!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73538.html](http://www.nuforc.org/webreports/reports/073/S73538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
