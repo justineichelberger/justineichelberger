@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gastonia (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Looked like a slow moving object, burning up on entry and had a large orange tail moving south south west.((ADDENDUM FROM WITNESS))I noticed the object when I was on my way home in the passenger seat.  So I told my friend, who thought I was joking about it, I convince him that I'm not kidding and  to pull over so we can get a good look at it driving about 1/5 a mile east of where I initially saw it.  There were jets in the sky around the same time,  The trail of the object was much much shorter and fatter and the was a very bright orange which seem to engulf the front of it as if were burning, compared to the jets that were flying by.   The jets also had trails but those were skinny longer also orange due the light of the sun from the time of day, and seemed to be moving across the sky faster than this object as the object but the object was too far for me to confirm that it wasn't jet, but if it wasn't ufo related I would say that it was more likely to be some for debris or a satellite as I am sure it seem to descending or falling down from a very high altitude perhaps 2-3 miles from where we were moving south south west of vantage point. This occurred at the time and date listed on the report 12/1/11 at about 5:10 pm estI came in as soon as I got home and looked up on the internet to see if anyone had posted anything about but found nothing related to it but searching for it did lead me to your site and I decided that I would report about it there.That's all there isThanks((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85609.html](http://www.nuforc.org/webreports/reports/085/S85609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamstown (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately Not Sure - Not Sure minutes.</sub><blockquote><sub>There has to be something to this?My Nephew is 10 years old and lives in Williamstown West Virginia.  He has an extremely High IQ.  He also lack Common Sense like most People with high IQ's do so he is not prone to make things up.  He was around 8 years old at the time of the sighting and was up reading in his room.  He told his Mother and my Mother several weeks later that he was reading when he looked out of his Bedroom Window and saw a UFO hovering above a Soybean field behind his house.  He descriped the object as a Silver Disc making no sound hovering above the field before leaving.  When asked why he did not wake my Sister he could not respond.  I also had an encounter with my family back in the 60's which I reported on the site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47089.html](http://www.nuforc.org/webreports/reports/047/S47089.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
