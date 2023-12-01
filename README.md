@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Easton (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Mostly clear night around 12:45am when a V formation of lights appeared and traveled east across the sky for 15 seconds.My husband and I were sitting in our hot tub with the lights off when we looked up and saw a "V" or "boomerang" shape formation of about 12-15 lights.  We watched it fly east across the sky turning and disappearing from view.  It moved in perfect formation and incredibly fast.  It was very high and the lights were more faded yellow but it was easy to follow with your eyes and track.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151211.html](http://www.nuforc.org/webreports/reports/151/S151211.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>formation of disc shaped crafts in australiai was having a party at my house, i had invited some frends over, we all decided to go for a walk down the foreshore nature trail. we were about 10 minutes into the trip and we were thinking about heading back because we were getting bored, we began to turn around when one of my freinds yelled out "hey, what the hell is that", there were a few screams from the females, but then we settled down and stood there in amazement as these nimble crafts floated approx 800-900m above our heads. the crafts flew about in a pattern, they were disc shaped objects that seemed to be able to move in any direction, they had no reliance on the winds like the planes of today. we were all frightened we admitted afterwards. a terrifying experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33508.html](http://www.nuforc.org/webreports/reports/033/S33508.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
