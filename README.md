@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:41 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:47 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On a december night head lights approached us. Then shot into the sky.My family and I were searching for the Metro North Mall. We are from Saint Joseph and were not familiar with this area. It was sometime around Christmas. We were shopping for presents. We ended up on a road that lead us somewhere around a open field. It was night and  we saw headlights approaching us. My father did not know how to get back on the highway, so he was going to wave the other car down and have them tell us directions. My father came to a stop and waited for the other car to pull up. Except it stopped about 25 feet infront of us. That is when we notice that the head lights seemed to be floating in the sky. After a few seconds my father pulled a little further up, and the lights raised about 15 feet in the air. My step-mother freaked out at that time and opened her window. She thought that it may of been a helicopter( I have since lived by a hospital that life flights out and know better). There was absolutley no sound what so ever. Not even a car motor. It remained there for about a minute and then it raised a little more.  Then, suddenly it shot kind of diagonal into the sky. And eventually straight up and out of sight. I would like to put that the speed that it traveled was amazing. Not helicopter like at all. I do not know if it was from this world or not but I do know what I saw. What my whole family saw.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24369.html](http://www.nuforc.org/webreports/reports/024/S24369.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Louisa (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As we were out driving around the camp ground at Boone's Landing we observed an object moving in the sky from east to west while a nother object of the same shape and size was moving in the opposite direction when they met and flew off different directions. we had a clear view of the sky except there were clouds moving by witch obstructed the objects for a few seconds. The objects were a disc shape with a silver color to them and one was more dim than the other but still very visable.we were in a camping area in lawrence co. Kentucky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53754.html](http://www.nuforc.org/webreports/reports/053/S53754.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
