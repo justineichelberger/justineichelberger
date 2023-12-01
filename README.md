@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Melbourne (VIC, Australia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>formation of disc shaped crafts in australiai was having a party at my house, i had invited some frends over, we all decided to go for a walk down the foreshore nature trail. we were about 10 minutes into the trip and we were thinking about heading back because we were getting bored, we began to turn around when one of my freinds yelled out "hey, what the hell is that", there were a few screams from the females, but then we settled down and stood there in amazement as these nimble crafts floated approx 800-900m above our heads. the crafts flew about in a pattern, they were disc shaped objects that seemed to be able to move in any direction, they had no reliance on the winds like the planes of today. we were all frightened we admitted afterwards. a terrifying experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33508.html](http://www.nuforc.org/webreports/reports/033/S33508.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Santa Cruz (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was night and I saw large lights coming toward my house in Santa Cruz California.  I was standing outside in my driveway when I saw them coming from the Monterey Bay/ocean area and heading in a northwest direction.I believe it was the same craft reported on your site seen in San Jose that night.  It came from the southeast (Monterey Bay) and was heading northwest.  I also thought it was a plane going to the San Jose or SFO Airport until it flew over me. At that point I noticed it was going too slow to be an airplane, although my friend said "wow a stealth bomber!". There was no sound, it was very low, very large and moved slowly over us, over my house toward the Santa Cruz Mountains. Once over the mountains it would be in the San Jose area. There were very large unblinking lights on each tip that showed the shape of the craft as it flew overhead as a triangle. I wish I spent more time observing it but since my friend said "stealth bomber" that's what I thought it was.  It was only later I realized a stealth bomber would probably be going much faster, be flying much higher, and make noise.  As I noticed, the lights were so bright that they clearly revealed the shape as triangular. Time on this report is approximate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04326.html](http://www.nuforc.org/webreports/reports/004/S04326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
