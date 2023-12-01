@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:47 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Louisa (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>As we were out driving around the camp ground at Boone's Landing we observed an object moving in the sky from east to west while a nother object of the same shape and size was moving in the opposite direction when they met and flew off different directions. we had a clear view of the sky except there were clouds moving by witch obstructed the objects for a few seconds. The objects were a disc shape with a silver color to them and one was more dim than the other but still very visable.we were in a camping area in lawrence co. Kentucky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53754.html](http://www.nuforc.org/webreports/reports/053/S53754.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Philippines () reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Normal reddish star, grew brighter and bigger, disappeared, (might) reappared and start moving left.I was having some snack around 10PM of December 1, 2012, and while having my usual sky lookout on the western sky, I saw a bright reddish star.The strange thing about this star is it keeps getting brighter and brighter, until I went outside to have a better look myself, it became extremely bright and it grows in size.Comparing it to the size of the Full Moon, they’re about the same size, only that this reddish star is a little bit smaller than the moon (the size where it grew the largest).After it brightens and grows in size for about 3 seconds, it became smaller, faded slowly and disappeared.I told my mother about what I saw, and then while looking at that same sky; we saw a little reddish dot, like a star located just a few inches left of where I saw the bright red star, that’s what my mother saw unfortunately.Then she went on ahead to finish her chores, while I continue to observe the tiny reddish star-like object, while watching it, it starts to move the left, very slowly, and it’s like, pulsing,  I continued to watch it until it became blocked by tall trees.I’m not sure if it’s the real deal but, I don’t know any aircraft or a star that grows in size and shines brighter, then fading and disappearing, then being followed by a small reddish star-like object that moves to the left and have its light pulsing, so I figured I would report it here to get some validation or further investigation.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94911.html](http://www.nuforc.org/webreports/reports/094/S94911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
