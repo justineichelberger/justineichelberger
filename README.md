@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:36 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Weidman (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Extremely bright mirror like light that left vapor trail then disappeared in clear skyI was travelling westbound on Weidman road when looking into the sky in a southwest direction,I saw what appeared to be a round very bright light that resembled the sun reflecting off a mirror in the sky at a long distance away. It appeared to be moving horizontally in a southerly direction and after about a minute it started leaving a short vapor trail like a jet might leave, but the vapor trail never got any longer and after about 2-3 more minutes the object and vapor trail just vanished with no evidence that they were there at all. The sky was clear and there were no clouds at all that it could have went behind.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160905.html](http://www.nuforc.org/webreports/reports/160/S160905.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Huntington (KY) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Hovering, teetering and no soundMy Boyfriend, our son and I where traveling back to lexington KY from my parents house. While on the interstate if was raining pretty hard. As we were traveling I noticed a odd light in the sky just above a mountain. I stared at the light for a good 5 or 6 minutes before coming to the pre-mature conclusions that it was the top of a blink tower. Then as we drove closer and closer I realized that it was really bright. To bright for a light tower. I asked my boyfriend what he thought it was and he said it was a light tower. I agreed and then a couple of minutes later I looked again and saw that it was definitly not a light tower. I saw there wasn't a poll grounding the lights. I started to get confused and focused harder on the lights. In doing so I realized that it was hovering. By this time we where very close and when my eyes focused I saw that it was a man made jet airliner. However, what was so odd about this was that it was not on top of a mountain it was right next the interstate bridge inside of a deep valley. Hovering there it seems to teeter. All the lights where on, I could see the windows to the plane. There was absolutly no markings on the plane accept for a blue stripe and a red stripe. I had already rolled the window down and in total shock I stuck my head out the window in order to try and beleive my eyes better, completely ignoring the pooring rain. The airliner wasn't more than 3 or 4 hundred off the ground and slightly tilted forward towards the ground. There wasnt any sound whatsoever. That was what blew my mind was the absence of sound. I know this isnt a UFO because I definitly identified what the flying object was I just cannot find an explanation for a hovering passenger jet. H</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67058.html](http://www.nuforc.org/webreports/reports/067/S67058.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
