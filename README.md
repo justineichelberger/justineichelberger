@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:31 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blue Island (IL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 soundless low-flying cross-shaped "aircraft," flying from southwest to northeast over Blue Island - around 19:30-19:40 pm.We live in the south suburb of Blue Island, my wife called me to the porch to view a low flying, cross shaped, "aircraft" (~19:30) with bright solid red light  ... coming from the south and heading northeast toward the Chicago loop, or over Lake Michigan area.   The craft made no sound - flying is a straight line ... probably about a house length or two apart with exception of the last three that came over ~ 5 minutes later.   The last one appeared to circle back to go south .    I recorded the flyover on my Samsung ... rather blurry images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124470.html](http://www.nuforc.org/webreports/reports/124/S124470.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>They are still there if you have someone to take action now, this is in San Marcos, CA California.  Two light objects near where the moon is at, they disappeared for 10 min then came back same spot and are still there.  The time is now 6:43 p.m Pacific Time((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Venus and Jupiter are near Moon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67268.html](http://www.nuforc.org/webreports/reports/067/S67268.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
