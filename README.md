@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Williamstown (WV) reported seeing craft that fit the description of some 'Disk' over a period of approximately Not Sure - Not Sure minutes.</sub><blockquote><sub>There has to be something to this?My Nephew is 10 years old and lives in Williamstown West Virginia.  He has an extremely High IQ.  He also lack Common Sense like most People with high IQ's do so he is not prone to make things up.  He was around 8 years old at the time of the sighting and was up reading in his room.  He told his Mother and my Mother several weeks later that he was reading when he looked out of his Bedroom Window and saw a UFO hovering above a Soybean field behind his house.  He descriped the object as a Silver Disc making no sound hovering above the field before leaving.  When asked why he did not wake my Sister he could not respond.  I also had an encounter with my family back in the 60's which I reported on the site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/047/S47089.html](http://www.nuforc.org/webreports/reports/047/S47089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bonner Springs (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light about 10 miles North of Bonner Springs Kansas.The bright light just set still for about a minute to my North, and then shot off to the North real fast.  Then the light just set still. I would guess the bright light was about 10 miles to my North when we first saw it.  My guess is, it shot rapidly to the North about another 10 miles when we noticed the helicopter. My wife pointed out the helicopter flying to the Southeast of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48016.html](http://www.nuforc.org/webreports/reports/048/S48016.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
