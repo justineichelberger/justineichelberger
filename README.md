@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bonner Springs (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light about 10 miles North of Bonner Springs Kansas.The bright light just set still for about a minute to my North, and then shot off to the North real fast.  Then the light just set still. I would guess the bright light was about 10 miles to my North when we first saw it.  My guess is, it shot rapidly to the North about another 10 miles when we noticed the helicopter. My wife pointed out the helicopter flying to the Southeast of the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48016.html](http://www.nuforc.org/webreports/reports/048/S48016.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two slow moving fireballs following each other parallel to the earth’s surfaceTwo fairly slow moving objects, one following the other in a perfectly straight line moving west to east. No sound whatsoever. Both were primarily red and white in color and looked like slow moving fireballs. Took a video on my smartphone. Zoomed in on the second object using pinch and un-pinch. Playing the video, it flashed brightly one time. Never have seen anything like it in my life. Full moon tonight over North GA. I was outside shooting street Christmas lights in our neighborhood. Looked up into the western sky as I walked home at which time I witnessed the sighting. College educated male, age 74.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160895.html](http://www.nuforc.org/webreports/reports/160/S160895.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
