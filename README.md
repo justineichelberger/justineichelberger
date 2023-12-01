@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange lights followed by 5 blue/white flashing lights rotating across the skyWalking my dog...Difficult to calculate how many craft as I first saw 3 orange lights appear toward the east...  Two on the right side of the night sky perpendicular to each other and one quite far off to the left.  These lights appeared for about 5 seconds then all 'turned' off simultaneously until there was no light in the sky other than stars.  The dog stopped and looked up to seem to see the lights as well.  When that event was over I took dog in house and told family member.  Went back outside to close my car windows and suddenly saw a series of blue flashing lights.  These were toward the north and were a series of 5 or 6 rotating lights that also flashed as they rotated across the sky.  I ran in to get two family members who also witnessed these lights.  We watched until 3 or 4 of them disappeared but 3 more continued to rotate in the sky and appear to move off to the east... the we saw a fast moving plane head toward the lights and the blue/white lights quickly disappeared.... this event with the blue/white rotating lights lasted about 3-5 minutes.  There was no noise with these events other than the airplane that eventually came into area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131559.html](http://www.nuforc.org/webreports/reports/131/S131559.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>At approx.10p.m.I went for a walk in my neighborhood;(street lights,houses,& very safe??)about 150yds.from home,I looked into a culd-e-sac; and  silently hovering 10ft. above a house within this culd-e-sac: was a saucer 25ft.long; with spinning(faster then my eyes could follow) multicolored lights on the bottom of it.And a luminous whitish light all around it.It had a round window 2ft.by2ft.in the middle.I could see directly into the craft because lights were ON inside.It appeared as if their were round  black dials on the far wall?? but I was approx.300ft.away. At first I rubbed my eyes.I then turned away ,shook my head, and it was still there. But what unnerved me the MOST was it "seemed" to be aware of my presense.My curiosity quickly turned to fear and disbelief.I ran as fast as I could to get a neighbor/witness ,but my friend got mad & thought I was joking.We returned 10min. later and it was gone...27yrs. later, and this incident still unnerves me..I dont think or talk about it.. because people just laughed at me then.But its one minute of terror I will never forget.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63452.html](http://www.nuforc.org/webreports/reports/063/S63452.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
