@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:31 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Cumming (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Two slow moving fireballs following each other parallel to the earth’s surfaceTwo fairly slow moving objects, one following the other in a perfectly straight line moving west to east. No sound whatsoever. Both were primarily red and white in color and looked like slow moving fireballs. Took a video on my smartphone. Zoomed in on the second object using pinch and un-pinch. Playing the video, it flashed brightly one time. Never have seen anything like it in my life. Full moon tonight over North GA. I was outside shooting street Christmas lights in our neighborhood. Looked up into the western sky as I walked home at which time I witnessed the sighting. College educated male, age 74.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160895.html](http://www.nuforc.org/webreports/reports/160/S160895.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Blue Island (IL) reported seeing craft that fit the description of some 'Cross' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>8 soundless low-flying cross-shaped "aircraft," flying from southwest to northeast over Blue Island - around 19:30-19:40 pm.We live in the south suburb of Blue Island, my wife called me to the porch to view a low flying, cross shaped, "aircraft" (~19:30) with bright solid red light  ... coming from the south and heading northeast toward the Chicago loop, or over Lake Michigan area.   The craft made no sound - flying is a straight line ... probably about a house length or two apart with exception of the last three that came over ~ 5 minutes later.   The last one appeared to circle back to go south .    I recorded the flyover on my Samsung ... rather blurry images.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124470.html](http://www.nuforc.org/webreports/reports/124/S124470.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
