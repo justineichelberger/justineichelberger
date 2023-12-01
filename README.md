@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:42 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Marcos (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>They are still there if you have someone to take action now, this is in San Marcos, CA California.  Two light objects near where the moon is at, they disappeared for 10 min then came back same spot and are still there.  The time is now 6:43 p.m Pacific Time((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))((NUFORC Note:  Venus and Jupiter are near Moon.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67268.html](http://www.nuforc.org/webreports/reports/067/S67268.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Winfield (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>A brief and disturbing encounter on the way to town some years ago.This is the first sight like this I have seen.Am glad there is a place to tell what things are going on out there. Saw this thing back around 1980 and thought I was crazy.Lived halfway between Arkansas City and Winfield Kansas.Was driving to town, and just a mile east of the house saw a light behind the hedge row. Looked like a plane coming this way from the airport, but the limbs of the trees were dimly lit around the light. The light was amoungnst the limbs, and small dim "sparks" were radiating from the light. I stopped and watched, but left as soon as the light quit. It was too close and I didn't want to know what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/010/S10328.html](http://www.nuforc.org/webreports/reports/010/S10328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
