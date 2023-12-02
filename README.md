@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 1 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Glenhaven (CA) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>4 objects flying in close formation in a southwest direction at high speed, low altitude, making no sound accept the wind passing by the wings. They were black with no lights or markings.I was taking my morning walk around the hiking trails on my property on the morning of Tuesday, Dec. 1, 1998. It was 7:10am. (07:10) As I was approaching a clearing near the treeline I heard a familiar sound that I have heard several times of birds swooping down making only the sound of air passing their wings. The sun was just starting to peek over the hills behind me. It had not yet shined on Mt. Konocti directly across the lake from where I was waiting for what I expected to see, birds. Instead of birds, I saw four objects flying in close formation. They were black in color. They had no visable lights or markings. I have to guess their size to be approx. six feet across the wings and equal in length. The fuselage was round and pointed at both ends. The wings were narrow in relationship the the fuselage, located in the center and were pointed at the ends. The wing span was maybe just a little wider than the length of the fuselage. I heard the swooshing sound about two or three seconds before seeing the objects. They seemed to have flown down the ravine that I had just walked down and was flying just above the tree tops. Immediately after first seeing them, they leveled out and flew in a straight line out over the lake toward Mt. Konocti. Buckingham Peninsula extends out into the lake at the base of the mountain. They flew to where the peninsula is, then the one on the left made a smooth turn to the left. The other three wobbled just a bit as if they were not aware that they were to turn left, then they too turned. They flew in front of the mountain where it was still dark. Because of the darkness they blended in with the mountain and I lost sight of them. I waited to see if they would reappear in the light of the sky to the left of the mountain, but they did not reappear. From the time I first heard the familiar sound to when they flew out of sight, was about 6 seconds. They flew in a southwesterly direction before they made their turn. At that point, they were flying south across the face of the mountain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04983.html](http://www.nuforc.org/webreports/reports/004/S04983.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sierra Vista (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>seen a shooting star then a air liner, the shooting star stoped for a min the light that was a air liner than paused went to a flair lighting up the clouds. then turned red and reaperd 4 times. it was  over restricted air space over fort watchuca.  anybody see any thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131585.html](http://www.nuforc.org/webreports/reports/131/S131585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [441](http://www.nuforc.org/webreports/reports/165/S165612.html)
-- [440](http://www.nuforc.org/webreports/reports/165/S165613.html)
-- [439](http://www.nuforc.org/webreports/reports/165/S165607.html)
-- [438](http://www.nuforc.org/webreports/reports/165/S165628.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165874.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
