@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phelan (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Animals went into a trance when a UFO came Into view.I was riding horses with my partner and as the sun was about 30 minutes from setting the horses stop, and stare to the east.  My partner noticed the object first and pointed it out to me.  All the other animals on the property were also watching (8 horses 3 dogs and 2 goats).  I gave my horse a gesture to move but she wasn't going to, and I wasn't really worried about the horse.As soon as I see it there is no doubt in my mind it's a UFO.  It was about 5 miles away, and didn't fly quite as high as planes in the area normally do.  It was black in color, had a sphere on top with a diameter of about 20 feet, and a spike pointing downward extending about 40-50 feet with 3 rings that seemed to be floating around the spike.I reached for my phone to take a picture while my partner was calling a friend in the area to see if he could see it.  After I opened my camera app on my phone and look bake at the object; it was gone.  Since the incident I've been searching the internet unsuccessfully for the same object.  So this is my last attempt to find out if anyone else has ever seen this.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146264.html](http://www.nuforc.org/webreports/reports/146/S146264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Klerksdorp (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red oval object with flat top changing color as moved awayUFO spotted over Klerksdorp in the North West Province of South Africa on 2 December 2012, spotted and witnessed by family of. The UFO was filmed on video by witness at 21:00.  The UFO hovered in the sky below clouds oval shaped with a flat area at top.  Red but changed color as it moved away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95823.html](http://www.nuforc.org/webreports/reports/095/S95823.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
