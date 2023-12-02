@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:42 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:11 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sierra Vista (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>seen a shooting star then a air liner, the shooting star stoped for a min the light that was a air liner than paused went to a flair lighting up the clouds. then turned red and reaperd 4 times. it was  over restricted air space over fort watchuca.  anybody see any thing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131585.html](http://www.nuforc.org/webreports/reports/131/S131585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in West Dundee (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>String of 6-7 lights equally spaced apart, about 1000 ft up moving quietly West to East in the night sky.I was walking in my back yard, letting my dog out and getting some firewood.  I looked up to see how the stars looked on this cool crisp night when I noticed what appeared to be a flock of "lit" birds...but turned out to be a string of lights, approximately 1/3 high up in the sky.  If I had to guess less than 1,000 ft up.  My dog began barking but other than that the sky was dead quiet.  The 6 lit objects almost looked like stars but were a dull orange or pink tone and moved in perfect unison.  This could have been one object.  The object moved from West to East at a slow but steady pace.  I have tried to think about all possible alternatives and ratonalizing this but cannot determine what this is.  It definitely was not a natural occurrance and has shaken me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53767.html](http://www.nuforc.org/webreports/reports/053/S53767.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
