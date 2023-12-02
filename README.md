@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:47 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in LaGrange (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 00:10 - 00:10 minutes.</sub><blockquote><sub>CENTRAL GA: 2 bright lights fly very low toward truck in driveway. Then hover over pasture.On December 2, 2011 at approximately 9:20 pm, In a very rural area of Georgia, I witnessed what seemed to be two huge, bright headlights in the distance hovering very low directly over a neighbor’s house.  I sat in my drive way and watched the object fly very low, just above the wood line toward me until it was just above me to my left. The lights were still very bright shining in my eyes. We then pulled out of my drive way, and turned left.  We stopped at a stop sign about 300 yds. from my driveway. The craft was still very low.  We turned off the truck, and headlights.  The object slowly rose straight up into the air, making barley any noise at all. We turned left at the stop sign, parked, and got out of the truck. We watched the Craft hovering high in the sky above our pasture. About 30 minutes later we returned to my house and could still see the object. We could now see different colors, lime green, yellow, white, and bright blue. There was a thin band of l! ight at the bottom, with a very bright circle light orbiting around the thin strip. I could tell it was a circle because the bright light would travel around the small band of light, disappear, and reappear on the other side of the object. As of now, the object is still hovering high in the sky above my pasture. We attempted to take a picture, and video, once we all stopped freaking out. The object looks so small in the pictures that you can’t really make out the band of lights, with the brighter light orbiting around it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85640.html](http://www.nuforc.org/webreports/reports/085/S85640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Chatsworth (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Straight line of UFOs moving West to East over Chatsworth CAWe witnessed 8 lights flying in a straight line/formation from west to east over Chatsworth CA. The lights were “white”, could have been mistaken for stars, satellites or commercial aircraft, except that they were moving together, exact same speed, and maintained spacing. Cassiopeia was the most distinct constellation in our view. They appeared to move toward Cassiopeia, west to east, then disappear in a coordinated manner upon reaching it. After they were gone, there were 2 “Free moving” lights — one which crossed through Cassiopeia from North to South, and another which was east of the constellation, yet also moving north to south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160935.html](http://www.nuforc.org/webreports/reports/160/S160935.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
