@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately Petro - Can - Petro - Can minutes.</sub><blockquote><sub>Lots of lights -  about 5 mins. hovered there didn' t move untill lokk up at it. Roundish/ Ovalish - bright light like on shows- scaryThere was a bright light in the sky. I put on my glasses and i seen some lights on top. It just hovered up there in that spot. We looked at it at and it moved really fast. Too fast to be a plane. it finally went behind us, I looked backed and the lights like burnt out and then it was gone. It had blue and red lights on top and bright lights at the bottom. I cannot remember the other bit because to spoked now. It had a sound but did not sound like a plane or man made air crafts. Have no pictures or clips</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33572.html](http://www.nuforc.org/webreports/reports/033/S33572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Slow-moving comet-like objectSingle orange-colored light rose above buildings to the east, trailing what appeared to be sparks.  I initially assumed it was a firework, but to my amazement, it continued to rise and move westward, with a "spark" still falling from the object every second or so.  It traversed the entire sky in about 30 seconds and disappeared from view over the western horizon.  I'm an aeronautical engineer and have never seen anything like it.(NUFORC Note:  We presume the witness intended a date in the year 2003, and we have changed the date above accordingly.  We believe the error arises from a glitch in our Online Report Form.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33609.html](http://www.nuforc.org/webreports/reports/033/S33609.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
