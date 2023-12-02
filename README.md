@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Y or V  shaped light formation seen moving from South to North over Davis, California.My first thought was it looked like illuminated geese flying in a modified (possibly a tail first Y or V with something extra)formation.  The lights were oval and held their position so they may have been lights on a structure but the structure itself was not visible, only the lights.  They were not bright and were visible only while almost overhead.  There was no sound associated with the movement and the movement was smooth.  I started to count the lights when it was about 2/3 past me and counted 9 but the clarity was diminishing and there seemed to be more than that.  It was moving from South to North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48040.html](http://www.nuforc.org/webreports/reports/048/S48040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Edmonton (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately Petro - Can - Petro - Can minutes.</sub><blockquote><sub>Lots of lights -  about 5 mins. hovered there didn' t move untill lokk up at it. Roundish/ Ovalish - bright light like on shows- scaryThere was a bright light in the sky. I put on my glasses and i seen some lights on top. It just hovered up there in that spot. We looked at it at and it moved really fast. Too fast to be a plane. it finally went behind us, I looked backed and the lights like burnt out and then it was gone. It had blue and red lights on top and bright lights at the bottom. I cannot remember the other bit because to spoked now. It had a sound but did not sound like a plane or man made air crafts. Have no pictures or clips</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33572.html](http://www.nuforc.org/webreports/reports/033/S33572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
