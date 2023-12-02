@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 Glowing Orbs/Fireballs in NE Louisville.I was out walking my dogs in the back yard when I saw 2 strange lights in the west sky (I live in North Eastern Louisville).  They were travelling in the same direction and one was in front of the other.  I can’t say how large they were or how far apart they were due to the distance.  However, they appeared to be travelling over the Indian Hills area in North Eastern Jefferson County.At first I thought they were floating Chinese lanterns, but I determined that they could not be lanterns due to the speed at which they were travelling.  They seemed to glow orange/gold and flicker sporadically.  I immediately took out my iPhone camera and videotaped the lights, but they were so small in the video.  I then noticed that there was another light in front of the other two, also travelling the same direction.  As I ran up to the house, the first light faded into the cloud cover.When I reached the house, my daughter joined me outside and she also captured video of the two remaining objects.  As the 2 closest ones were starting to fade into the clouds, one final light appeared through the trees, following the previous three.  We both agreed that these were not a normal aircraft that we are familiar with;  UFOs by definition. The area where the objects appeared is close to the flight path that passenger jets use as they round into their landing pattern at the Louisville airport.  However, these lights appeared much lower than any jet would travel, and there was no sound.  There were no blinking lights on the objects, just the occasional flickering.  The objects appeared as if they were completely illuminated; glowing.  They were close enough to see that they had some mass, not just a light in the sky.  But I couldn’t determine how large they were.  And they all had the same steady pace and straight flight.  I wouldn’t say they were speeding across the sky, but they were travelling faster than wind would carry the objects.  Also, the wind was travelling ESE (1 mph) and these objects were travelling NW. I could submit my video, but you can only see 2 pinpoints of light, not any of the details that I described.  I haven't seen my daughter's video yet. I’ve seen comets, meteors and satellites and I know these objects were none of those things. I’ve never been a big believer in UFOs but I didn’t disbelieve either.  What we saw tonight isn’t something that would make me say that we definitely saw alien craft, but I can say it was very strange and unlike anything that I've ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105023.html](http://www.nuforc.org/webreports/reports/105/S105023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>About 15 white round lights in a formation, from left to right  way lower than a satellite  than disappeared. I live by March AFBSmall round lights, flying in a formation From left to right.  About 15 UFO’S, Live by March AFB Way lower than a satellite. A plane from March AFB was near by the planes that Fly very low. It was way above it. They Had to of seen it also. (Unbelievable)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160947.html](http://www.nuforc.org/webreports/reports/160/S160947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
