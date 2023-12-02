@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:11 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in West Dundee (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>String of 6-7 lights equally spaced apart, about 1000 ft up moving quietly West to East in the night sky.I was walking in my back yard, letting my dog out and getting some firewood.  I looked up to see how the stars looked on this cool crisp night when I noticed what appeared to be a flock of "lit" birds...but turned out to be a string of lights, approximately 1/3 high up in the sky.  If I had to guess less than 1,000 ft up.  My dog began barking but other than that the sky was dead quiet.  The 6 lit objects almost looked like stars but were a dull orange or pink tone and moved in perfect unison.  This could have been one object.  The object moved from West to East at a slow but steady pace.  I have tried to think about all possible alternatives and ratonalizing this but cannot determine what this is.  It definitely was not a natural occurrance and has shaken me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53767.html](http://www.nuforc.org/webreports/reports/053/S53767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Temple (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Very Shiny, Possible V shape and traveled very slow.Went out on my back deck to retrieve some batteries that I had placed in the sun to recharge(Saves Money). While I was getting the batteries I saw a very bright shiny UFO traveling WSW at a very slow pace. I watched it for about 2 minutes.  I then went in the house and told my wife she had to come see what I was looking at. We both stood there for a couple more minutes and I told her I was going in to get the binoculars to get a better look.  The UFO was about a 1/2 mile to a mile from us and approximately 1000 to 1500 feet off the ground.As I was focusing in on it my wife heard a jet from behind us.  We both turned our heads to see where the jet was and when we turned back around the UFO was gone.  We didn't see where the jet went because went back inside after the UFO disappeared. No clouds no sound, not even a dog or bird made any noises. Cell phone showed a blur.The UFO was Very shiny ,no wings no light could be seen. It was bigger that a 747 jet and traveled slower than any plane could have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79118.html](http://www.nuforc.org/webreports/reports/079/S79118.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
