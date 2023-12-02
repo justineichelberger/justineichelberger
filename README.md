@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:31 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Charles (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I only observed a single point of light.  It was traveling north to south.  It was located north of the handle of the big dipper.  Then it just vanished.  There were no strobe lights or other colored lights.  I was curious if it was a satilite, or an asteroid?  I didn't think satilites went north to south.  It was only visible for a few seconds, then it just vanished.  It didn't appear to be in the atmosphere, but further out in space.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26387.html](http://www.nuforc.org/webreports/reports/026/S26387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Davis (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Y or V  shaped light formation seen moving from South to North over Davis, California.My first thought was it looked like illuminated geese flying in a modified (possibly a tail first Y or V with something extra)formation.  The lights were oval and held their position so they may have been lights on a structure but the structure itself was not visible, only the lights.  They were not bright and were visible only while almost overhead.  There was no sound associated with the movement and the movement was smooth.  I started to count the lights when it was about 2/3 past me and counted 9 but the clarity was diminishing and there seemed to be more than that.  It was moving from South to North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48040.html](http://www.nuforc.org/webreports/reports/048/S48040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
