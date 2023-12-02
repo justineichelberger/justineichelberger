@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Solid, triangular object with 3 lights on top and bottom spotted by Spokane, Washington.  Make two turns; one sharp and one slow.We were in a car, traveling to Fred Meyer's to get some food.  Suddenly a triangle shaped aircraft appeared over the mountains (more like big hills with houses) to our right.  It had 3 lights on the corners (on the bottom), and three on top (but on the same corners), so it appeared to be roughly 1/8 as tall as it was long (But it did look like a solid triangular object). It also appeared to be pretty far up, and considering that it moved fairly fast.  It originally came over the hills and west straight, perpendicular to the highway, before making a 90 degree right-turn and following the highway.  After that turn, it slowly veered off to the left again, diverging from the path of the highway.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60239.html](http://www.nuforc.org/webreports/reports/060/S60239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Layton (south of) (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Flashing/ Darting light in the sky over an hourLast night 12/3/2015, around 10:45 ish, my husband and I were going to bed.  we noticed a light, brighter than a star.  It was far away and it appeared to be east, below the little dipper.  It was flashing and sputtering around and at times would dart across the sky and then back again.  Sometimes the light would get brighter then dim again and seemed to go a slight green color and an orange color.  At one point it actually disappeared and then came back.  I called my brother who lived south of me to see if he could see it as well.  He said he could but it was further South of him.  WE didn’t know where our binoculars were so I got my phone out to see if I could zoom in on it to see if I could see it better.  With the naked eye, through my phone, it appeared to be circular (like 6 small circles connected with each circle lit up). The phone only captured the light in the distance darting around.  We watched it for about an hour and I decided to go bed as it late.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124479.html](http://www.nuforc.org/webreports/reports/124/S124479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
