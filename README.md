@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>blue/white Orb spotted on Lookout MountainWe drove from Boulder to Lookout Mountain.  We arrived at our spot at 39°43'51.9"N 105°14'28.4"W. (Facing West)  We sat there listening to music for a couple hours, when all of the sudden out of the corner of my eye I saw a white/blue light hovering between two trees (it was not the reflection of car headlights, because those reflections always followed the same horizontal pattern, when I looked at the light it was just hovering there.)  I looked to see what this light was that caught my eye, as did the person sitting next to me.  Together we saw an orb.  It looked to be about 100 feet from the vehicle.  As soon as we looked at it, it zipped straight down behind the hill.  We didn't see it again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137846.html](http://www.nuforc.org/webreports/reports/137/S137846.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Schererville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triagular shapped objest with red lights moving fast, stopped, then disappearedI was driving to to a friends house on december 2nd of 2008. Something in the sky to my right caught my eye. It looked like either three lights or a triaglular shape i wasnt sure. The lights were red and the object was moving very fast then it stopped abruptly. I parked my car on the side of the and grabbed my phone to take a pictures of it as i took out my phone it started to move again then it disappeared I couldn't believe what I saw. Then two days later I saw a similar object but the lights were green this object was moving extremely fast to fast to be a plane and like the other disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68875.html](http://www.nuforc.org/webreports/reports/068/S68875.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
