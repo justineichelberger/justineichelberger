@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Klerksdorp (South Africa) () reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Red oval object with flat top changing color as moved awayUFO spotted over Klerksdorp in the North West Province of South Africa on 2 December 2012, spotted and witnessed by family of. The UFO was filmed on video by witness at 21:00.  The UFO hovered in the sky below clouds oval shaped with a flat area at top.  Red but changed color as it moved away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95823.html](http://www.nuforc.org/webreports/reports/095/S95823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Orange (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a bright green illuminust object darted across the sky at an unbelievable rate of speed,larger than a plane!i was walking my friends dog(puffy)inside the oval park like i always do around the track.on the eastside of it going south,it was an exceptionally clear nite the stars were shinnig real bright,thats why i was looking up at them.all of a sudden out of nowhere this green illuminus circle real bright came moving at a high rate of speed for abut 3 seconds like a flash.i new it wasn't a plane because of the speed,but also i had seen it before,except at that time it was three of them over25 years ago when i was a teenager,along with two of my best friends who are now expired.this si something i would would never forget thats why when it happen the other nite i new right away what it was.the color green is like those florescent tube lights the kids play with durning 4th of july.soon as i return to my friends house i told him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33599.html](http://www.nuforc.org/webreports/reports/033/S33599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
