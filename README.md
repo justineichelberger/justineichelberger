@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:49 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saucer with three yellow lights 50 feet from the porchWas outside. In the air a jet move from the north to south. At the last moments, shifted directions to the west. 2 more jets came over the western horizon. All jets were flying at a high altitude.  Ufo appeared over the northern horizon.  Flying extremely low, almost touching the tree tops.  Going about 30 mph. had 3 bright, yeloow, non-moving lights, located on the top of the saucer and 2 on the bottom.  Headed south until disappeared over the tree line.  Jets continues to pursue at high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73565.html](http://www.nuforc.org/webreports/reports/073/S73565.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Davie/Plantation (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>My husband, two children and I were driving West on 595 on December 2nd at 7:15 when we saw two bright star like objects in the sky ahead of us.  I was paying attention to the sky at that moment because I was admiring Venus and another planet.  My husband and I noticed as the objects got closer to us that the lights were definitely not an airplane or helicopter. The lights were apart but moved together and then after they passed us became perpendicular to one another.  I watched them until we got off the 136th street exit and then they were out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67984.html](http://www.nuforc.org/webreports/reports/067/S67984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
