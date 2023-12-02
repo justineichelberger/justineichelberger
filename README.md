@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:49 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in East Orange (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>a bright green illuminust object darted across the sky at an unbelievable rate of speed,larger than a plane!i was walking my friends dog(puffy)inside the oval park like i always do around the track.on the eastside of it going south,it was an exceptionally clear nite the stars were shinnig real bright,thats why i was looking up at them.all of a sudden out of nowhere this green illuminus circle real bright came moving at a high rate of speed for abut 3 seconds like a flash.i new it wasn't a plane because of the speed,but also i had seen it before,except at that time it was three of them over25 years ago when i was a teenager,along with two of my best friends who are now expired.this si something i would would never forget thats why when it happen the other nite i new right away what it was.the color green is like those florescent tube lights the kids play with durning 4th of july.soon as i return to my friends house i told him.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33599.html](http://www.nuforc.org/webreports/reports/033/S33599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grass Valley (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Saucer with three yellow lights 50 feet from the porchWas outside. In the air a jet move from the north to south. At the last moments, shifted directions to the west. 2 more jets came over the western horizon. All jets were flying at a high altitude.  Ufo appeared over the northern horizon.  Flying extremely low, almost touching the tree tops.  Going about 30 mph. had 3 bright, yeloow, non-moving lights, located on the top of the saucer and 2 on the bottom.  Headed south until disappeared over the tree line.  Jets continues to pursue at high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73565.html](http://www.nuforc.org/webreports/reports/073/S73565.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
