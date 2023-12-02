@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Santa Monica (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Slow-moving comet-like objectSingle orange-colored light rose above buildings to the east, trailing what appeared to be sparks.  I initially assumed it was a firework, but to my amazement, it continued to rise and move westward, with a "spark" still falling from the object every second or so.  It traversed the entire sky in about 30 seconds and disappeared from view over the western horizon.  I'm an aeronautical engineer and have never seen anything like it.(NUFORC Note:  We presume the witness intended a date in the year 2003, and we have changed the date above accordingly.  We believe the error arises from a glitch in our Online Report Form.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33609.html](http://www.nuforc.org/webreports/reports/033/S33609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mt. Holly Springs (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Was at computer facing toward window, when my attention was drawn to an extremely bright electric blueish light (similar to a welding arc in intensity/brightness and color)  moving very low on horizon between 25 to 35 degrees off horizon, moving left to right (west to northeast) at a very high rate of speed and leaving an extremely long trail or tail.  Only viewed for perhaps 5 to 7 seconds until it went out of view due to the house.  I ran outside but by then it had burned out. I suspect either space debris or meteor re-entering atmosphere, but was faster, closer, lower to horizon, brighter and with longer tail than any meteorite I've ever seen!  The size and brightness would seem to indicate it was relatively close to my location, however no sonic boom was heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26379.html](http://www.nuforc.org/webreports/reports/026/S26379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
