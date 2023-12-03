@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fireball in skyMy neighbors and my children were outside talking when we noticed what looked like a ball of l8ght that left a smoke stream.  The stream stayed lit in several areas.  The light broke off I nto 2 distinct individual objects and then continued on until they were out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105050.html](http://www.nuforc.org/webreports/reports/105/S105050.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large glowing orb that looks like a star from a distance but hovers 300 feet or so above tree line.On our way driving to Dallas on Kings Valley Highway before the S-curves a mile before entering town, my buddy and I noticed a glowing orb 300 ft or so above the tree line.  When I first glanced at it I thought it was a star until I realized it was too big and too low to be one.  My next thought was a radio tower but the light was glowing yellowish gold and not red and there is no radio tower on top of that hill.  As my friend and I drove closer, the light went from 300 feet to to 75 feet or so above the ground in less than a second.  That's when we realized this was no ordinary object.  The light then instantly went to the ground and stopped moving.  The light moved too fast to be a helicopter and was too big to be a firework or flare.  After 4 or five seconds, the light moved to the left of the hilltop then shut off.  My friend and I drove home later that night and the light was no where to be seen.  During daylight you can see everything on that hill top where we spotted the light, and there is no tower or object that emits that color of light or moves that fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115832.html](http://www.nuforc.org/webreports/reports/115/S115832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
