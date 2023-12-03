@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Ongoing - Ongoing minutes.</sub><blockquote><sub>UFO with whirring red, blue, and green light spotted stationary in the sky below orion's belt.It is now 11:32 p.m. MST, 12/03/2012.  For over the past thirty minutes I have seen a bright light between Orion's Belt and the horizon, south-southeast from my location.  From the naked eye, it looks like the shimmering of colored light you get when you look at an airplane with it's red and green lights flashing in the distance, but it has barely moved.  A friend had told me it moved a short distance before stopping again all before he contacted me to take a look for myself.  The best way to describe the view from the naked eye is that of an atom.  Imagine seeing white light like a star (atom) with red, green and blue electrons whirring around it like quick lights flashing on a police car.  Looking through a telescope, it appeared as if there could be one light, or several ones close together.  It looked like there were three lights formed into some kind of triangular shape, but I didn't have sufficient magnification to make out a distinct arrangement.  At one point, I thought I had seen this triangular shape turning and transforming, like an unstable particle in the sky. Other witnesses besides myself are 2 friends of mine, one of which told me and the other I informed myself, and a friend of one of them from Texas.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94947.html](http://www.nuforc.org/webreports/reports/094/S94947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately Continuous - Continuous minutes.</sub><blockquote><sub>Bright light rises straight up quietly flys awayIn the same exact spot a light seemingly get brighter rises straight into sky like helicopter then proceeds to slowly fly straight over same direction. I can see plane fly way off into distance very good because I am on top of big hill (KU campus) that sits above land all around.  Same thing happened consistently every 15 minutes and happened 5 times.  Very quiet and low when flys over.((NUFORC Note:  We suspect an evening sighting, and have amended the time above.  Source has not responded to our query about the correct time.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105065.html](http://www.nuforc.org/webreports/reports/105/S105065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
