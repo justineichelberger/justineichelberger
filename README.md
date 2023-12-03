@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 2 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:41 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Riverside (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>About 15 white round lights in a formation, from left to right  way lower than a satellite  than disappeared. I live by March AFBSmall round lights, flying in a formation From left to right.  About 15 UFO’S, Live by March AFB Way lower than a satellite. A plane from March AFB was near by the planes that Fly very low. It was way above it. They Had to of seen it also. (Unbelievable)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160947.html](http://www.nuforc.org/webreports/reports/160/S160947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bakersfield (45 miles from) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>We were on a road 1000 ft high from a lake driving up hill I see 1 light then 3 lights in a tryangal the 3 light come at us fast as thay were moving all over like crazy was 11pm then I got out of the car was being dum waving my arms beening crazy that's when 6 am came the car was on the other sided of the road with a dead battery was weard I was in the car my friend would not talk about it it was 4 year's tell I'd see him.  After that and we were best friends tell that happen and still today he won't talk about it that was in 1996 I was like 20 something crazier happen when I was 11yrs old just like this but I was by my salf we have both moved on have not talked now for 10y10yrs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118618.html](http://www.nuforc.org/webreports/reports/118/S118618.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [265](http://www.nuforc.org/webreports/reports/165/S165630.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165824.html)
-- [263](http://www.nuforc.org/webreports/reports/165/S165627.html)
-- [262](http://www.nuforc.org/webreports/reports/165/S165637.html)
-- [261](http://www.nuforc.org/webreports/reports/165/S165755.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
