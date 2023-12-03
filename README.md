@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:31 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Trinity (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball in the sky over Wesley Chapel, FloridaWhile driving through our neighborhood in Trinity, we saw a stationary fireball in the direction of north west, towards Wesley Chapel.  By the time we parked the car and got out of the car the fireball was gone.  What remained was what look like a smoke trail, but it could have been clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105077.html](http://www.nuforc.org/webreports/reports/105/S105077.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Sebastian (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fireball in skyMy neighbors and my children were outside talking when we noticed what looked like a ball of l8ght that left a smoke stream.  The stream stayed lit in several areas.  The light broke off I nto 2 distinct individual objects and then continued on until they were out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105050.html](http://www.nuforc.org/webreports/reports/105/S105050.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
