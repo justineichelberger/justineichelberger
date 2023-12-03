@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:42 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Search lights??with no apparent origin from ground.Early evening my daughter arrived at my house at 6:30pm. She called me out to see what appeared to be grand opening spot lights but there was no beam from the ground and no such local event. My granddaughter and I came out and the 3 of us thought it looked like a spinning disc that may have been up to a mile wide above the thin cloud cover. There appeared to be 4 individual lights evenly spaced that were moving in a circular pattern one time around then moved toward the center and appeared to cross over each other then back out to the perimeter and circled around again in a repeating pattern. We watched for about 5 minutes then went back inside.When my daughter checked again around 8:30pm they were gone. Had it been a grand opening it would have been still going on. We were not going to report this, but I recieved an E-mail from caus.org about Dec.7 or 8 in which a very similar sighting occured in S.Carolina on Dec.5. I found it strange that we witnessed what seem to be the exact same thing 2 days earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05124.html](http://www.nuforc.org/webreports/reports/005/S05124.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lehigh Acres (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>strange lights cause separate vapor trails.I saw a vapor trail in the sky.  Strange because it was the only thing in the sky at all. No other clouds, nothing.  It looked like a cut or slash in the sky.  I looked for what made it and then saw something that started a new trail.  I continued to watch and it grew in width and then split into 2 and then the top 1 split into 2 but those stayed close in proximity, so it looked like there were 3 shining dots of light in all.  As they separated the vapor trail discontinued and all 3 lights just faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105053.html](http://www.nuforc.org/webreports/reports/105/S105053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
