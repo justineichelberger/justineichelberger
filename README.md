@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Kearns (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Oberserved multiple orange ascending upwards and faded awayObserving East We saw Orange lights ascending up in to the sky one after another. The higher they went the dimmer they got until they faded away.  The last light object reached high in the sky and stopped moving for 2-3 minutes, then faded away very quickly like it disappeared.  None of the Orange lights moved quickly, had no signs of smoke or blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94943.html](http://www.nuforc.org/webreports/reports/094/S94943.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Owensboro (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bright light passing over slowly overhead to the south then dissapears slightly north.Me and my grandad just walked from the house towards the car sitting in the yard on that chilly evening. I happened to gaze at the sky then I seen something bright passing really close over me. I almost assumed it was a jet but then when I observed it more closely, it was more starry-like but more closer than ever. I didn't even hear no sound. That evening there were mostly cloudy skies but there was some clearing left over. As it went overhead, I continued to look at it until as it headed north, it changed to a reddish color then disappeared. I know that south of us is the airport but I knew right then and there that wasn't a airplane or a jet. I tried to tell my grandad what I seen and he laughed it off like I was joking. I told him I seen something weird but he told me I probably seen a plane. I dropped the subject instantly then decided to keep it to myself.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60707.html](http://www.nuforc.org/webreports/reports/060/S60707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
