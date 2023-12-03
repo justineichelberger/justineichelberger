@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cedar Creek (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Looking straight up into the sky before 6:24 PM on December 3 we noticed lights in a tall and thin formation built of 20 tictac shapes.Three adults and a few children we’re looking straight up 20 miles east of the Austin airport when they noticed from the west to the east that this very tall sand connection of 20 TicTac shaped building structure like a skyscraper or a long row of lights. It appeared that these objects were flying in synchronicity together or possibly connected in an extremely and abnormal quick way. There were no sounds, and no propulsion smoke. The adults had to look straight up to see it. An airplane was much lower in the background leaving Austin in a south-southeast direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165656.html](http://www.nuforc.org/webreports/reports/165/S165656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Richardson (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>bright light following an airplane, then stoped in mid air.oval, bright like blueish light, it was following a southwest air plane over Dallas, Texas then it stopped it stayed there till it disappeared in the distance fading away the intensity on its light((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79182.html](http://www.nuforc.org/webreports/reports/079/S79182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
