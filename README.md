@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large glowing orb that looks like a star from a distance but hovers 300 feet or so above tree line.On our way driving to Dallas on Kings Valley Highway before the S-curves a mile before entering town, my buddy and I noticed a glowing orb 300 ft or so above the tree line.  When I first glanced at it I thought it was a star until I realized it was too big and too low to be one.  My next thought was a radio tower but the light was glowing yellowish gold and not red and there is no radio tower on top of that hill.  As my friend and I drove closer, the light went from 300 feet to to 75 feet or so above the ground in less than a second.  That's when we realized this was no ordinary object.  The light then instantly went to the ground and stopped moving.  The light moved too fast to be a helicopter and was too big to be a firework or flare.  After 4 or five seconds, the light moved to the left of the hilltop then shut off.  My friend and I drove home later that night and the light was no where to be seen.  During daylight you can see everything on that hill top where we spotted the light, and there is no tower or object that emits that color of light or moves that fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115832.html](http://www.nuforc.org/webreports/reports/115/S115832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Albany (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Search lights??with no apparent origin from ground.Early evening my daughter arrived at my house at 6:30pm. She called me out to see what appeared to be grand opening spot lights but there was no beam from the ground and no such local event. My granddaughter and I came out and the 3 of us thought it looked like a spinning disc that may have been up to a mile wide above the thin cloud cover. There appeared to be 4 individual lights evenly spaced that were moving in a circular pattern one time around then moved toward the center and appeared to cross over each other then back out to the perimeter and circled around again in a repeating pattern. We watched for about 5 minutes then went back inside.When my daughter checked again around 8:30pm they were gone. Had it been a grand opening it would have been still going on. We were not going to report this, but I recieved an E-mail from caus.org about Dec.7 or 8 in which a very similar sighting occured in S.Carolina on Dec.5. I found it strange that we witnessed what seem to be the exact same thing 2 days earlier.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05124.html](http://www.nuforc.org/webreports/reports/005/S05124.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
