@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stockbridge (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Completely silent low altitude very long stream of lights traveling upward at a slow speed over Stockbridge GA at 7:09 PMMe and my neighbor were walking, she commented on the number of stars and that's when I saw it. It was traveling upward at a slow speed, it appeared to be straight and was very long (if I had to guess, maybe the length of four to five 747's) and it had lights running its entire length. I questioned whether it was a plane and I was seeing the reflection of its lights, but the sky was clear leaving nothing for it to reflect off of. I decided to try to take a couple of pictures. The first picture I snapped, I saw something (a white light) fly into view of my phone's camera (not in front of my face, I just saw the white light fly, and it was fast). It did not appear again on the second shot. I then called my daughter to come out to see it, but she didn't and when I turned to direct her to its path, it was gone. The two pictures I took do not look like what we saw, but they are showing something and I can't tell what it is. You can however tell that it large. Also, it was flying as low as planes do when they're about 20 miles out from landing, and it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165669.html](http://www.nuforc.org/webreports/reports/165/S165669.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Trinity (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball in the sky over Wesley Chapel, FloridaWhile driving through our neighborhood in Trinity, we saw a stationary fireball in the direction of north west, towards Wesley Chapel.  By the time we parked the car and got out of the car the fireball was gone.  What remained was what look like a smoke trail, but it could have been clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105077.html](http://www.nuforc.org/webreports/reports/105/S105077.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
