@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:06 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Norwalk (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Pulsating Magenta light over L.A. CountyOn Saturday evening December 3rd, 2005 at 19:15 p.m. driving towards Hollywood on the 5 freeway just before the 605 freeway over the Norwalk area I spotted a bright magenta colored light to the left in the sky about the 10 o'clock position.  I asked my girl "What is that!" as I pointed up in the sky.  She looked down and out the windshield as I also looked out the side window.  The light was pulsating, like no other.  It  was not a helicopter nor a plane.  Above the bright magenta light was a smaller dim white light that was visible every other second.  As we drove north on the 5 freeway the object seemed to stay stationary and we were slowly passing it. Just as it was about even with my shoulder straight up, the bright magenta light fell from the sky like a rock and got brighter as it approached the ground.  We could no longer see the object.  It became blocked by a distant freeway wall. This sighting lasted about 3 - 5 minutes.  I must say this is the most amazing thing I have ever seen in the sky to this day. I am a subscriber to UFO Magazine and know quite a bit about UFO's.  This I beleive was one. I also have read reports about this exact type of sighting before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48070.html](http://www.nuforc.org/webreports/reports/048/S48070.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151547.html](http://www.nuforc.org/webreports/reports/151/S151547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
