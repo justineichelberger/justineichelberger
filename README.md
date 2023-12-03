@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:41 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:21 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Bakersfield (45 miles from) (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>We were on a road 1000 ft high from a lake driving up hill I see 1 light then 3 lights in a tryangal the 3 light come at us fast as thay were moving all over like crazy was 11pm then I got out of the car was being dum waving my arms beening crazy that's when 6 am came the car was on the other sided of the road with a dead battery was weard I was in the car my friend would not talk about it it was 4 year's tell I'd see him.  After that and we were best friends tell that happen and still today he won't talk about it that was in 1996 I was like 20 something crazier happen when I was 11yrs old just like this but I was by my salf we have both moved on have not talked now for 10y10yrs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118618.html](http://www.nuforc.org/webreports/reports/118/S118618.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New Forest (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was flying low hovering at first the moving off slowly before it dissaperda cigar shaped object with white red and green lights going around the edge to cloudy to see much else, it never made a singal noise nothing no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15392.html](http://www.nuforc.org/webreports/reports/015/S15392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
