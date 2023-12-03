@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:25 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Lake Tapps (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black triangle with light red lights over pasture and treesI was clearing brush when i heard a small plane in the distance so i looked up to see what type of plane it was (old fighter planes had been going over earlier).  My attention shifted to a black triangular object that was 300-400ft up.  It was not a perfect triangle it was, i guess you could say, isosoleces triangle. I kept staring at it and thought "this is unreal", i stared in disbelief.  It had lights on each corner that glowed a light red and on the sides of the triangle there were the same colored lights that slowly flashed.  The object moved slowly and silently as if it were observing and as it moved it slowly turned in a circle.  Right before it dissappeared over the tree tops it sped up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67303.html](http://www.nuforc.org/webreports/reports/067/S67303.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Saucer heading north, apparently slowing down.I thought it a high flying bird till it tilted on a 45-degree angle, and I saw the dome.  It was flying from South to North.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143970.html](http://www.nuforc.org/webreports/reports/143/S143970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
