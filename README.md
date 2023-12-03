@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lawrence (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately Continuous - Continuous minutes.</sub><blockquote><sub>Bright light rises straight up quietly flys awayIn the same exact spot a light seemingly get brighter rises straight into sky like helicopter then proceeds to slowly fly straight over same direction. I can see plane fly way off into distance very good because I am on top of big hill (KU campus) that sits above land all around.  Same thing happened consistently every 15 minutes and happened 5 times.  Very quiet and low when flys over.((NUFORC Note:  We suspect an evening sighting, and have amended the time above.  Source has not responded to our query about the correct time.  PD))((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105065.html](http://www.nuforc.org/webreports/reports/105/S105065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cedar Creek (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Looking straight up into the sky before 6:24 PM on December 3 we noticed lights in a tall and thin formation built of 20 tictac shapes.Three adults and a few children we’re looking straight up 20 miles east of the Austin airport when they noticed from the west to the east that this very tall sand connection of 20 TicTac shaped building structure like a skyscraper or a long row of lights. It appeared that these objects were flying in synchronicity together or possibly connected in an extremely and abnormal quick way. There were no sounds, and no propulsion smoke. The adults had to look straight up to see it. An airplane was much lower in the background leaving Austin in a south-southeast direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165656.html](http://www.nuforc.org/webreports/reports/165/S165656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
