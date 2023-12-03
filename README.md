@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:38 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Estes Park (CO) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 156</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151547.html](http://www.nuforc.org/webreports/reports/151/S151547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Clermont (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Few minutes - Few minutes minutes.</sub><blockquote><sub>UFO traveling from north to south near Clermont, FL area; went down, then up, and then disappeared across sky.I just heard you last night on Coast to Coast AM and started screaming because I thought you were reporting what I saw Tuesday night, and then I realized the sightings were two days apart! My sighting sounds just like last night's in Davenport, FL, except that I live in Clermont (the next town north of Davenport), and it happened Tuesday night 12/3/13, around 7:45 pm EST while I was sitting in my backyard.  The UFO was traveling from north to south in the area west of highway 27! I actually saw it go down for a minute (then it got blocked from view by my neighbors large house), and then it came back up after a minute. It traveled a little more and disappeared.  It was flashing colors from orange to red.  Around the same time a jet airliner with bright red lights showed up.  I found another report from 7/20/13 in Davenport, FL, reporting the same thing, including the jet airliner that came from east to west.  The details were identical to mine!  I saw several other UFOs around the same time also flashing orange to red, but the one that went down and then up really caught my attention because there are no airports in that area; so I wondered where on earth he could be going if he was going down to land.  Orlando airport is east of us, the direction the jet came from, but the ufo was in the west.  Nothing there but empty fields.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105128.html](http://www.nuforc.org/webreports/reports/105/S105128.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
