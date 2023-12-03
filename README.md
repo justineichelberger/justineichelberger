@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:21 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:53 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in New Forest (UK/England) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>it was flying low hovering at first the moving off slowly before it dissaperda cigar shaped object with white red and green lights going around the edge to cloudy to see much else, it never made a singal noise nothing no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15392.html](http://www.nuforc.org/webreports/reports/015/S15392.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Tazewell () reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright lights in a line with a "shell" around them.At approximately 7:04pm on December 3, 2021 my fiance and I were outside at the above coordinates when I notice a line of lights in the sky. They immediately grabbed my attention because they were very different from the stars around them. There was no sound coming from them either.The lights themselves were bright white, rather than the warm white glow the moon and stars give, there also wasn't a hazey ring like you'd typically see with those things. They were also perfectly round and appeared to be about the same distance away as you'd typically see planes. They were quite large, assuming the distance is accurate and not an illusion.There was only 3 lights at first, then within a few seconds of them catching my eye, another light appeared, but dimmer. It started to grow brighter and once it matched the previous 3, another light appears and does the exact same thing and taking the same amount of time. Within 20 or so seconds there were 8 lights in total. The lights were in a perfectly straight line and each light kept a constant distance from the ones on either side. They moved in unison across the sky in a line just as straight. It moved much slower than a plane would have.There was a faint out line surrounding the lights, it didn't appear to be attached but stayed at a constant distance from each light. If there was anything connecting them it was either hidden by the bright lights or transparent.Soon the light at the end of the row started to dim and then disappeared from sight, the rest of them followed suit.I immediately checked public sites to see if there was a plane or satellite overhead. There were none I could find. I've never seen a satellite or a plane do anything like this so I wasn't surprised.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165689.html](http://www.nuforc.org/webreports/reports/165/S165689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
