@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:53 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 3 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in New Tazewell () reported seeing craft that fit the description of some 'Cigar' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright lights in a line with a "shell" around them.At approximately 7:04pm on December 3, 2021 my fiance and I were outside at the above coordinates when I notice a line of lights in the sky. They immediately grabbed my attention because they were very different from the stars around them. There was no sound coming from them either.The lights themselves were bright white, rather than the warm white glow the moon and stars give, there also wasn't a hazey ring like you'd typically see with those things. They were also perfectly round and appeared to be about the same distance away as you'd typically see planes. They were quite large, assuming the distance is accurate and not an illusion.There was only 3 lights at first, then within a few seconds of them catching my eye, another light appeared, but dimmer. It started to grow brighter and once it matched the previous 3, another light appears and does the exact same thing and taking the same amount of time. Within 20 or so seconds there were 8 lights in total. The lights were in a perfectly straight line and each light kept a constant distance from the ones on either side. They moved in unison across the sky in a line just as straight. It moved much slower than a plane would have.There was a faint out line surrounding the lights, it didn't appear to be attached but stayed at a constant distance from each light. If there was anything connecting them it was either hidden by the bright lights or transparent.Soon the light at the end of the row started to dim and then disappeared from sight, the rest of them followed suit.I immediately checked public sites to see if there was a plane or satellite overhead. There were none I could find. I've never seen a satellite or a plane do anything like this so I wasn't surprised.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165689.html](http://www.nuforc.org/webreports/reports/165/S165689.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stockbridge (GA) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Completely silent low altitude very long stream of lights traveling upward at a slow speed over Stockbridge GA at 7:09 PMMe and my neighbor were walking, she commented on the number of stars and that's when I saw it. It was traveling upward at a slow speed, it appeared to be straight and was very long (if I had to guess, maybe the length of four to five 747's) and it had lights running its entire length. I questioned whether it was a plane and I was seeing the reflection of its lights, but the sky was clear leaving nothing for it to reflect off of. I decided to try to take a couple of pictures. The first picture I snapped, I saw something (a white light) fly into view of my phone's camera (not in front of my face, I just saw the white light fly, and it was fast). It did not appear again on the second shot. I then called my daughter to come out to see it, but she didn't and when I turned to direct her to its path, it was gone. The two pictures I took do not look like what we saw, but they are showing something and I can't tell what it is. You can however tell that it large. Also, it was flying as low as planes do when they're about 20 miles out from landing, and it was silent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165669.html](http://www.nuforc.org/webreports/reports/165/S165669.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [372](http://www.nuforc.org/webreports/reports/165/S165733.html)
-- [371](http://www.nuforc.org/webreports/reports/165/S165716.html)
-- [370](http://www.nuforc.org/webreports/reports/165/S165723.html)
-- [369](http://www.nuforc.org/webreports/reports/165/S165829.html)
-- [368](http://www.nuforc.org/webreports/reports/165/S165655.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
