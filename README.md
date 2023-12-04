@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Manchester (CT) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Huge bright orange semi-circle hovering over houseLooking out of my back yard, which is heavily wooded with some houses, I saw a huge and bright orange semi-circle hovering over neighbor’s house.  It looked almost like a planet and to verify it wasn’t the moon,  I went to the front of my house.  When I returned, it was gone.  It was there for about 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85673.html](http://www.nuforc.org/webreports/reports/085/S85673.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Convoy crosses Kansas City sky.I was standing in the parking lot on the west side of the Arrowhead Stadium after the Big 12 Championship on Saturday night.  Two lights appeared behind the stadium on the south side and crossed the sky from south to north.  The objects appeared as rings of fire/light separated by a constant distance and moving in the same direction at jet-like speed.  It seemed as though one craft was "towing" another behind it. A few seconds after the two lights disappeared in the north horizon, identical lights appeared again behind the south side of the stadium and follow the exact same trajectory.  A few seconds after these two lights dissappeared, a third set of lights crossed the sky, following the same trajectory as the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40975.html](http://www.nuforc.org/webreports/reports/040/S40975.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
