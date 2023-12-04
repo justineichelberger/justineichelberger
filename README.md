@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lighted stealth-like craft with white searching beam sighted flying low near Erie Barge canal, North TonawandaWhile my son & I were driving down Sweeney St by Erie Canal my son noticed lg ball of light in distance (like plane coming towards you only larger. It seemed to be traveling North but suddenly changed directions a few times. It began to travel easterly towards us diagonally across the road. As it came closer I noticed it had 5 or 6 white lights in a boomerang formation with a few aqua colored lights near the center. I pulled off to the side of a road in front of a house as it got closer. We turned of the radio and opened our windows as it passed in front of us not much higher than tree level. We could clearly make out a gray stealth-like shape about the size of a jet with 2 or 3 aqua lights towards the center. There was no sound & was travelling at a very slow speed. As it passed behind the house we were stopped in front of it stopped for a second and a white beam or spotlight began to search the field behind the house. It continued slowly eastward. The light turned off & then on again & it began to pick up speed. I wanted to turn my car around & follow it but my 12 year old son was frightened so we drove straight home (approx 1/2 mile from sighting. As for background information I am 37, a divorced mother of one, I have attended college, and I have worked as an office manager at a local payphone company for over 10 years. I have lived in the same apartment near the sighting for almost 12 years. My son will be 13 next month. He is a well adjusted, mature, and intelligent child. Neither one of us ever expected to ever have an experience like this. I am now a UFO agnostic who has become a believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15317.html](http://www.nuforc.org/webreports/reports/015/S15317.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greenville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>December 04th, 2011  Driving along the highway back to my house with my roommate, we both noticed a flying circular bright light.First we thought quietly to ourselves, because we thought it was an airplane.However we realized it was falling at a very controlled rapid speed on a diagonal straight-line decline of a 45-degree angle for 5 to 6 seconds.I was driving and slowed to witness it and thought secondly to myself, could it have been a shooting star?  But having witnessed many shooting stars from my permanent home it wouldn’t have been visible for that long when I was slowing down the car to watch this super bright white object descend.Afterward it straightened out horizontally for a second or two and then disappeared completely. No more abnormally bright sphere present in the night sky.My roommate exclaims to me, "Did you see that!"   I reply,  "Yes, we just saw a UFO!"((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85686.html](http://www.nuforc.org/webreports/reports/085/S85686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
