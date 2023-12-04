@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, bright, orange orb like lights seen low on horizon.At approximately 6:30 pm PST, with clear visibility to the east, a couple and their daughter from Victoria, BC, were gazing out at the eastern evening sky from inside their house, when they observed a bright orange circular light, orb like in appearance traveling across the sky directly overhead towards them from east to north west.  This was observed for about 20 seconds.  It was an extremely bright light, unlike anything else they had ever observed in the night sky before.There were other aircraft visible in the night sky and they were more distant, so the orange light appeared to be much lower down.  As the light passed overhead, it changed to a more northerly direction and seemed to climb to a higher altitude.  At one point, the light seemed to become stationary, gained altitude, then grew dimmer and eventually vanished.Approximately ten minutes later, while the family was still gazing out, a second slightly more intense light appeared. It seemed to be lower on the horizon, and traveled overhead in a more direct east to west trajectory.  The couple opened their window to see if they could detect any sound, but it was silent.  The second sighting seemed to last about 20 seconds before the light vanished into a cloud bank.The intensity of both lights was much brighter than the brightest star in the night sky.  The size of the objects appeared to be about 10 times the diameter of the brightest star.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be exceptionally sober-minded.  We suspect he is a very good, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124509.html](http://www.nuforc.org/webreports/reports/124/S124509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Britain (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright, trianglular, glowing caft hovered above town and then sped away super fast!I was driving home from dinner with my mother. and we spotted a triangular craft flying very slowly  overhead. It has a series of bright lights which formed the shape of the triangle. The lights with white and there was one light hanging off part of the craft that was flashing a yellowish light. The whole crapft seemed to be glowing, or was giving off a very dim, but eye catching glow or haze. (In other words, I knew this was not a plane.) When we pulled into my driveway, i pulled my camera phone out to try to record a short video as this thing was hovering over the town. But I wasn't fast enough and it flew away. Whatever this thing was, it was super fast! It didn't make any sounds or leave any vapors in the sky.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67377.html](http://www.nuforc.org/webreports/reports/067/S67377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
