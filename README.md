@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in New Britain (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>bright, trianglular, glowing caft hovered above town and then sped away super fast!I was driving home from dinner with my mother. and we spotted a triangular craft flying very slowly  overhead. It has a series of bright lights which formed the shape of the triangle. The lights with white and there was one light hanging off part of the craft that was flashing a yellowish light. The whole crapft seemed to be glowing, or was giving off a very dim, but eye catching glow or haze. (In other words, I knew this was not a plane.) When we pulled into my driveway, i pulled my camera phone out to try to record a short video as this thing was hovering over the town. But I wasn't fast enough and it flew away. Whatever this thing was, it was super fast! It didn't make any sounds or leave any vapors in the sky.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67377.html](http://www.nuforc.org/webreports/reports/067/S67377.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in North Tonawanda (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lighted stealth-like craft with white searching beam sighted flying low near Erie Barge canal, North TonawandaWhile my son & I were driving down Sweeney St by Erie Canal my son noticed lg ball of light in distance (like plane coming towards you only larger. It seemed to be traveling North but suddenly changed directions a few times. It began to travel easterly towards us diagonally across the road. As it came closer I noticed it had 5 or 6 white lights in a boomerang formation with a few aqua colored lights near the center. I pulled off to the side of a road in front of a house as it got closer. We turned of the radio and opened our windows as it passed in front of us not much higher than tree level. We could clearly make out a gray stealth-like shape about the size of a jet with 2 or 3 aqua lights towards the center. There was no sound & was travelling at a very slow speed. As it passed behind the house we were stopped in front of it stopped for a second and a white beam or spotlight began to search the field behind the house. It continued slowly eastward. The light turned off & then on again & it began to pick up speed. I wanted to turn my car around & follow it but my 12 year old son was frightened so we drove straight home (approx 1/2 mile from sighting. As for background information I am 37, a divorced mother of one, I have attended college, and I have worked as an office manager at a local payphone company for over 10 years. I have lived in the same apartment near the sighting for almost 12 years. My son will be 13 next month. He is a well adjusted, mature, and intelligent child. Neither one of us ever expected to ever have an experience like this. I am now a UFO agnostic who has become a believer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15317.html](http://www.nuforc.org/webreports/reports/015/S15317.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
