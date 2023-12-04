@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Convoy crosses Kansas City sky.I was standing in the parking lot on the west side of the Arrowhead Stadium after the Big 12 Championship on Saturday night.  Two lights appeared behind the stadium on the south side and crossed the sky from south to north.  The objects appeared as rings of fire/light separated by a constant distance and moving in the same direction at jet-like speed.  It seemed as though one craft was "towing" another behind it. A few seconds after the two lights disappeared in the north horizon, identical lights appeared again behind the south side of the stadium and follow the exact same trajectory.  A few seconds after these two lights dissappeared, a third set of lights crossed the sky, following the same trajectory as the others.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/040/S40975.html](http://www.nuforc.org/webreports/reports/040/S40975.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Last night I went out to see if I could spot the comet.  Instead I noticed that there was a "star" that seemed to be moving.  It would lurch in one direction and then another.  I’d say that the movement was at least as great as the diameter of the moon or perhaps greater.  I called my husband and he saw it too.  We steadied ourselves on a post outside of our porch and definitely could tell there was movement with respect to the post and eaves. Then my husband noticed that another "star" seemed to be moving and I witnessed this also.  We noticed that there were more than one.  I wondered if perhaps we were seeing the earth’s wobble.  Anyway, I emailed a friend in Los Angeles and she didn’t see any stars moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60200.html](http://www.nuforc.org/webreports/reports/060/S60200.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
