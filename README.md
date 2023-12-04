@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:44 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Deming (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Black stationary object seen south of I-10 in New Mexico at duskI was driving west on I-10 about 10 miles east of Deming, New Mexico when I saw a black object ahead and to the south of me.  Thought it looked like a Chinook helicopter but after a while I noticed it was not moving.  I was getting closer to it.  Stopped in Deming to talk with my salesman who was in his car behind me.  Asked him what the black object that was not moving was and he said he did not know.  Had no binochulars to look at it with so we continued west on I-10.  Observed for another 10 miles or so when it became to dark to see it any longer, since I was looking over my shoulder to the east.  Object seemed large, around 500-1000 feet across and up & down.  Had no shape to it, just looked like a blob.  I would estimate altitude between 5000-10000 feet.  It was probobly about 5-20 miles south of interstate.  It did go behind a mountain as was driving west but reimerged once I got past mountain, object never moved.  Object size and altitude are just guesses since there was nothing to compare it to.(NUFORC Note:  We presume the witness intended a date in the year 2003, and we have changed the date above accordingly.  We believe the error arises from a glitch in our Online Report Form.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33640.html](http://www.nuforc.org/webreports/reports/033/S33640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lake Villa (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>BIG Triangle shape craft with red and yellow combined lights with no noise over north ilThe craft was triangle with lights (red and orange), BIG with no noise.  There were air craft taking off at O'hare airport at the time.  My wife and I both saw the object.  No pictures was not enough time.  We saw underneath the object pretty good, we both noticed different things.  Did anyone else see what we saw?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94963.html](http://www.nuforc.org/webreports/reports/094/S94963.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
