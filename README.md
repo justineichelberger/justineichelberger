@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:48 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three flying objects orange in color formed a triangle.3 flying objects.  Appeared to be an off white or orange color.  Formation in a triangle.  One disappeared and then the other ones did within about a minute of each other.  Drove about 10 miles and saw the three formed again.  Driving on 77 north.  Not sure what we saw, but they disappeared very quickly both times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137557.html](http://www.nuforc.org/webreports/reports/137/S137557.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>LIGHTS IN SKYi was standing out side of my house smoking and looked up at the clear night sky and saw a light wich to me looked like a star but i relized it was moving across the sky in one direction but as i watched it saw it move in different directions and the after 5 mins or so it turned orangeish red and then disappeared. i have actually seen this multiple times in st.paul, cottage grove and in hugo mn. kind of confused on what im seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95010.html](http://www.nuforc.org/webreports/reports/095/S95010.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
