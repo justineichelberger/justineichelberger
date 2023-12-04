@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orange (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright bright orange..its glow really bight orang.Thinking mabe a star blown up in space.  Then blue lights started blanking 3 times then stopped..??!!??????!!???..((NUFORC Note:  Witness does not indicate date, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94960.html](http://www.nuforc.org/webreports/reports/094/S94960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>multicolored over Hicksville, NY, made alarms go off and left a cloud of bluish fogI was driving my car back to my house during my lunch break, when i looked up at a stop light.  What i saw when i looked up was an object flying around 2000 feet in the air.  The crafts looked like a really big explination point (!) but the bottom was attached to the top and much larger. The larger circular part was leading the entire ship, as if the round part was a control center. It had red white and blue lights all over the bottom of it that had a glow bright enough for me to see it in daylight, and after those 10 to 15 seconds were over the bottom started to dim, then got REALLY bright and then it was gone, it left behind a blueish fog that disappeared fairly quickly. It was so weird and the vibrations made a close by parked car alarm go off..i wish i'd of had a camera (i've never seen anything UFO like it before has anyone else seen this type or is it just me?)  If i'm to be contacted that's fine,,if not, thats fine too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53811.html](http://www.nuforc.org/webreports/reports/053/S53811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
