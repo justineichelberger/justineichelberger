@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Alma (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were traveling S on 540 & saw 6 big bright orange fire balls moving & leaving steaks of smoke in the sky.We were traveling south on 540 and saw 6 bright orange fire balls that appeared to be floating in a southern bound direction.  We saw them for about 10-15 minutes before they disappeared.  They were visible from the highway from Westfork to south of Alma.  Not sure if they burned out or we just lost sight of them in the horizon.  A trail of smoke was visible behind each light and they were not lined up perfectly or in any kind of pattern.  They were grouped together and traveling at mostly similar speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144036.html](http://www.nuforc.org/webreports/reports/144/S144036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Iowa City (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40s - 40s minutes.</sub><blockquote><sub>UFO fleet in straight line pattern over Iowa City 04Dec2020Looking west towards Hyvee first ave and Muscatine and noticed 8 or 9 orbs in the sky flying in a straight line pattern at the same speed. After a few seconds they all faded one by one as they each approached a point in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160984.html](http://www.nuforc.org/webreports/reports/160/S160984.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
