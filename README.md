@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Hicksville (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>multicolored over Hicksville, NY, made alarms go off and left a cloud of bluish fogI was driving my car back to my house during my lunch break, when i looked up at a stop light.  What i saw when i looked up was an object flying around 2000 feet in the air.  The crafts looked like a really big explination point (!) but the bottom was attached to the top and much larger. The larger circular part was leading the entire ship, as if the round part was a control center. It had red white and blue lights all over the bottom of it that had a glow bright enough for me to see it in daylight, and after those 10 to 15 seconds were over the bottom started to dim, then got REALLY bright and then it was gone, it left behind a blueish fog that disappeared fairly quickly. It was so weird and the vibrations made a close by parked car alarm go off..i wish i'd of had a camera (i've never seen anything UFO like it before has anyone else seen this type or is it just me?)  If i'm to be contacted that's fine,,if not, thats fine too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53811.html](http://www.nuforc.org/webreports/reports/053/S53811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Alma (AR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We were traveling S on 540 & saw 6 big bright orange fire balls moving & leaving steaks of smoke in the sky.We were traveling south on 540 and saw 6 bright orange fire balls that appeared to be floating in a southern bound direction.  We saw them for about 10-15 minutes before they disappeared.  They were visible from the highway from Westfork to south of Alma.  Not sure if they burned out or we just lost sight of them in the horizon.  A trail of smoke was visible behind each light and they were not lined up perfectly or in any kind of pattern.  They were grouped together and traveling at mostly similar speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144036.html](http://www.nuforc.org/webreports/reports/144/S144036.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
