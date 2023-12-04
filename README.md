@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:23 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in London (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Possible military drone or UFO.I was sitting on my couch watching Netflix, when something that at first appeared to be a blue balloon hovered past my window.  It was nearly motionless and I really didn't think too much about it until it rotated 45 degrees. At that point I could clearly see that it was not a balloon and it was not like any drone that I had ever seen.  At that point it started to move away from my window in the living room (I'm on the 9th floor of a 10 storey building).I quickly grabbed my phone and snapped the first picture from my bedroom, sadly by that point it was a couple hundred feet away, but the picture still clearly shows the details.It hovered there for maybe 2 minutes or so, rotated 180 degrees then began to hover away again.  It flew over the building just down the street and increased altitude to approximately twice the height of that building.  There is stayed for another 10 minutes or so.I did not see the craft, fly off, but as I snapped a few more pictures, it was suddenly not visible to me.I've shared the first and best photo with a friend, who owns and flies a drone, and he explained he had not seen anything like it.It's either a UFO (not massive at all) or a military craft of some sort.  As close as it was to my window initially,  I can say it had not discernable noise - and I know how much noise a drone makes from experience.Like I said, I don't know what it is, but I know it's not a commercial drone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131596.html](http://www.nuforc.org/webreports/reports/131/S131596.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Rock Hill (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three flying objects orange in color formed a triangle.3 flying objects.  Appeared to be an off white or orange color.  Formation in a triangle.  One disappeared and then the other ones did within about a minute of each other.  Drove about 10 miles and saw the three formed again.  Driving on 77 north.  Not sure what we saw, but they disappeared very quickly both times.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137557.html](http://www.nuforc.org/webreports/reports/137/S137557.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
