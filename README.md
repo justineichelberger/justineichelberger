@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:48 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>LIGHTS IN SKYi was standing out side of my house smoking and looked up at the clear night sky and saw a light wich to me looked like a star but i relized it was moving across the sky in one direction but as i watched it saw it move in different directions and the after 5 mins or so it turned orangeish red and then disappeared. i have actually seen this multiple times in st.paul, cottage grove and in hugo mn. kind of confused on what im seeing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95010.html](http://www.nuforc.org/webreports/reports/095/S95010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mayfield Heights (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was driving down gates mills blvd when flashing lights (red, blue, green) similar to airplane caught my eye.Drove further down road when I realized it was way to close, approximately 2 feet above a house.  It was moving very slowly and silently towards the tree line. I stopped in the middle of the road and tried to take a video.  It was blimp sized and before it disappeared it was very low to the ground.  Can’t explain what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151271.html](http://www.nuforc.org/webreports/reports/151/S151271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
