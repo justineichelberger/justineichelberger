@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:43 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (Bronx) (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking up at the sky and saw what appeared to be a very very fast moving star like object moving very fast from west to eastI was standing alone on the corner of East 204th St and Villa Ave the Bronx I looked up in the sky and saw a very bright starlike object going at a very very fast speed from West to East heading towards Queens from my stand point. This is another object that I could not figure out It was not Military, Commercial, Helocopter, Blimp, Bird, Weather Balloon, or any known Earth made object. Just a disk/Star like flying object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11244.html](http://www.nuforc.org/webreports/reports/011/S11244.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Orange (NJ) reported seeing craft that fit the description of some 'Diamond' over a period of approximately  -  minutes.</sub><blockquote><sub>It was bright bright orange..its glow really bight orang.Thinking mabe a star blown up in space.  Then blue lights started blanking 3 times then stopped..??!!??????!!???..((NUFORC Note:  Witness does not indicate date, and provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94960.html](http://www.nuforc.org/webreports/reports/094/S94960.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
