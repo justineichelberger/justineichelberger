@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mayfield Heights (OH) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Was driving down gates mills blvd when flashing lights (red, blue, green) similar to airplane caught my eye.Drove further down road when I realized it was way to close, approximately 2 feet above a house.  It was moving very slowly and silently towards the tree line. I stopped in the middle of the road and tried to take a video.  It was blimp sized and before it disappeared it was very low to the ground.  Can’t explain what I saw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151271.html](http://www.nuforc.org/webreports/reports/151/S151271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large, bright, orange orb like lights seen low on horizon.At approximately 6:30 pm PST, with clear visibility to the east, a couple and their daughter from Victoria, BC, were gazing out at the eastern evening sky from inside their house, when they observed a bright orange circular light, orb like in appearance traveling across the sky directly overhead towards them from east to north west.  This was observed for about 20 seconds.  It was an extremely bright light, unlike anything else they had ever observed in the night sky before.There were other aircraft visible in the night sky and they were more distant, so the orange light appeared to be much lower down.  As the light passed overhead, it changed to a more northerly direction and seemed to climb to a higher altitude.  At one point, the light seemed to become stationary, gained altitude, then grew dimmer and eventually vanished.Approximately ten minutes later, while the family was still gazing out, a second slightly more intense light appeared. It seemed to be lower on the horizon, and traveled overhead in a more direct east to west trajectory.  The couple opened their window to see if they could detect any sound, but it was silent.  The second sighting seemed to last about 20 seconds before the light vanished into a cloud bank.The intensity of both lights was much brighter than the brightest star in the night sky.  The size of the objects appeared to be about 10 times the diameter of the brightest star.((NUFORC Note:  We spoke via telephone with the witness, and he sounded to us to be exceptionally sober-minded.  We suspect he is a very good, and reliable, witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124509.html](http://www.nuforc.org/webreports/reports/124/S124509.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
