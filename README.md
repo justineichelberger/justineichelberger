@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Straight line of lights in the sky that disappeared one at a time.I saw a string of lights in the sky that looked to be the same size and brightness as the stars. They were in a diagonal line, straight line perfectly spaced out. I went to get a person close by to come and see what I was seeing. As I looked back to the sky, the lights were leaving one by one and disappearing until none were left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161046.html](http://www.nuforc.org/webreports/reports/161/S161046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Hilliard (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Approximately 3 dozen lights traveling in a line. Lights slowly traversed most of the sky, followed by multiple other objects.My eldest daughter was visiting my in-laws with several of her siblings, when they spotted approximately 3 dozen lights flying across the sky in a tight, linear formation. Other lights circled around the formation in every direction. She took two, short videos of the event. Then, after the formation of lights disappeared in the distance, another cluster of lights appeared about 10 minutes later. Before she could shoot video of those lights, they shot off in every direction at a high rate of speed.None of the objects made any noise. Some of the lights travelled in rapidly changing directions, and when they dispersed, it was nearly instantaneous.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165717.html](http://www.nuforc.org/webreports/reports/165/S165717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
