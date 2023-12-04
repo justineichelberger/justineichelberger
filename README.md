@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 4 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Greenville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>December 04th, 2011  Driving along the highway back to my house with my roommate, we both noticed a flying circular bright light.First we thought quietly to ourselves, because we thought it was an airplane.However we realized it was falling at a very controlled rapid speed on a diagonal straight-line decline of a 45-degree angle for 5 to 6 seconds.I was driving and slowed to witness it and thought secondly to myself, could it have been a shooting star?  But having witnessed many shooting stars from my permanent home it wouldn’t have been visible for that long when I was slowing down the car to watch this super bright white object descend.Afterward it straightened out horizontally for a second or two and then disappeared completely. No more abnormally bright sphere present in the night sky.My roommate exclaims to me, "Did you see that!"   I reply,  "Yes, we just saw a UFO!"((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85686.html](http://www.nuforc.org/webreports/reports/085/S85686.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dartmouth (Canada) (NS) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The object hovered and wobbled.I live in Nova Scotia. This new sighting (my third currently) just happened a couple of months ago. It was a clear December night with lots of stars at around 9:00 p.m.. I believe Mars was out at this time and I remember attempting to find it when I first started to gather up the trash. I was just coming up the back stairs to my apartment from taking the garbage out to the street when a yellowish/white glowing object caught my eye above and straight out towards me. I was standing facing my door and peering at the peek of the roof just above my head when this object began to (or continued) to travel towards me and over the peek of the roof. Instead of going inside I waited until the object passed over my head. As it passed over me (I would say at least 5000 feet, I know this because I live near an airport) I followed it with my eyes until it rested adjacent to a tree limb in the foreground and the UFO in the background. It hovered for a moment and it began to wobble. This was very apparent. It was not a plane or helicopter, and this was very apparent. It moved smoothly with no sound, and when it hovered it wobbled. After about 1 minute of it wobbling beside the tree branch, it began to descend into the horizon. I went back down the stairs and followed it to the end of my parking lot until I lost sight of it again. It was moving quite fast. Thank you to the witness for the reports. Brian Vike, Director HBCC UFO Research Home - Phone 250 845 2189 email: hbccufo@telus.net Website: http://www.hbccufo.com((NUFORC Note:  Date is approximate.  We express our gratitude to Brian Vike for this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35501.html](http://www.nuforc.org/webreports/reports/035/S35501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [319](http://www.nuforc.org/webreports/reports/165/S165726.html)
-- [318](http://www.nuforc.org/webreports/reports/165/S165731.html)
-- [317](http://www.nuforc.org/webreports/reports/165/S165749.html)
-- [316](http://www.nuforc.org/webreports/reports/165/S165704.html)
-- [315](http://www.nuforc.org/webreports/reports/165/S165717.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
