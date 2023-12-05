@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Green Bay West (WI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>8 to 10 round objects in formation flashing and glittering sun light 2 thousand feet above observer.December 05, 2015  UFO report  8 to 10 round objects flashing and glittering flying over head.I was looking out my window around 10:30 am on December 05, 2015, west of Green Bay Wi at the weird clouds that formed after contrails had dissipated I thought I would get the camera out to take pictures of the sky filled with these long wispy clouds.I snap some pics of the wispy clouds and look to the west and a jet is flying east laying down a contrail so I snapped a couple of more pics.I than looked to the south over my roof line and saw another jet laying down a contrail going north. I take pics of this one also.  Then, I see way above those wispy contrail clouds another trail forming but no jet until it comes out from above those wispy contrails.  I see it's a jet going north also but this jet was moving way faster than the other two so I snapped a couple of pics of that one.It was heading north fast so I barely got a couple of shots when I lowered the camera I looked over the woods to the north in the same direction as the fast flying contrail jet and there I see a formation of metalic flashing and glittering round objects flying south in a line formation as if a V had one side cut off looking like this \.I was excited and tried to guess there were at least 8 to 10 round flashing objects in a line like this \ moving south quickly.  I raised the camera, tried to get them focused on the view screen but couldn't find anything so began to snap pics wildly as they flew over head and to the south.These round objects were roughly about 2 thousand feet above the woods, totally silent and over head as they flew south.  I kept snapping pics and hoped I got something.  It lasted maybe 5 seconds but I can be more accurate by looking at the first time stamp shot to the last time stamp shot as they were just even with my southern roof line.I think I got 6 or 7 shots and 3 have the objects.  One shot was the first facing north as they came south, then one over head and the last over my roof line facing south.  I went in the house and checked the time which was 11:03 so it was around 10:56 am when all this began.Although I could see round objects glittering and flashing as if metalic flying south into the sun,  The camera shots came out as round gray objects with bright spots on the objects.They were fast and they were silent.  It was awesome and I was excited and hoped I got them on the camera,  and I did.   I'll try to forward the pics to the center.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124532.html](http://www.nuforc.org/webreports/reports/124/S124532.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cuero (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was driving home from work at approx. 1:00 am Monday morning.  It was raining and I noticed a blue object to my left a short distance away.  I used my Iphone to capture several pictures.  It stayed with me for several miles and then disappeared.  I was driving, so i can't tell you what the shape was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85734.html](http://www.nuforc.org/webreports/reports/085/S85734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
