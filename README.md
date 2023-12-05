@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beaconsfield (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>8 lights in formation moving synchronously.Clear night, a formation of 8 lights in single file appeared in the sky. They looked like stars, but then I noticed that they were moving together. I thought they were perhaps military planes, but all of a sudden they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160972.html](http://www.nuforc.org/webreports/reports/160/S160972.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in santa fe (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately ? - ? minutes.</sub><blockquote><sub>I was walking home and through the sky I noticed a diagonal stream of twenty or more slow moving orange-ish lights blinking quickly in a sequence of farthest down to highest up as they descended west and eventually over the horizon. Occasionally they would seem to blur together and flash brighter. I don't know how long they were there before I saw them. Another man from my neighborhood came out into the street to get a closer look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161040.html](http://www.nuforc.org/webreports/reports/161/S161040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
