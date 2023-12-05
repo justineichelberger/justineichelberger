@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Huntingdon Valley (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>White oreo shaped object  - North East Philadelphia - East SkyMy son was playing outside and he saw a white sphere in the East sky (about 30 degrees). He called me and my wife outside and we saw it too.  I made a video with my Canon T3i camera (18-135mm) and also with my phone (galaxy s6).  The object was moving pretty slowly and it first went up (in relation to where we were) and then it went down again, so we had to walk toward west to see it better.I ran inside and grabbed our telescope (Celestron AstroMaster 70AZ) with a 10mm view scope.  It took about 4 minutes to focus it but I did.  At first it looked like a white football with lights across it, but as my eyes rested I saw it was the shape of an Oreo Cookie, with either lights or reflective material through the middle of it.  The lights on the right were shinier (probably because it was facing the sun).It seemed to be very far away and through the viewscope it was about 1" big.As we were looking at it neighbors who were driving by stopped and looked through the telescope too.  I then called my brother in law who lives about 1 mile away and he confirmed seeing the white dot in the sky too.Finally we decided to drive to a higher location as we were worried the object was going to go behind the trees, by the time we got there (1.5 miles away) we could no longer find it.   Getting home I asked my wife to draw what she saw, then I asked my son and we compared our drawings.I have no idea of what it is.  I called my dad and he said I should report it here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124531.html](http://www.nuforc.org/webreports/reports/124/S124531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 yellow-orange star-like objects.My husband, young daughter, and I were traveling to Myrtle Beach for a few days and were about 15 minutes away from our resort traveling on 544 W when I noticed a bright, yellowish-orange light that was star-like, but noticeably larger. At first, I thought it might be a cell tower light because it was stationary and it faded out, but less than a minute later, it appeared again in a different location with another one beside it.  They both remained stationary and faded out.  About a minute later, they appeared again closer together for only 2 or 3 seconds and faded out a final time. It was cloudy and foggy the rest of our evenings in Myrtle Beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95279.html](http://www.nuforc.org/webreports/reports/095/S95279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
