@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:42 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thornton (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was a cold and clear night with lots of stars visible.  Very large solid triangular, looked black in color and had bright white and red lights all around it.  Flying VERY low above mountains heading from southwestern to southeastern direction.  Also, there were two airplanes one alongside, the other behind, both appeared tiny in comparison.  Was very loud humming/vibrating that woke me from sleep.  I ran to door yelling for my boyfriend, who saw it as well.  I didn't have time to run for my camera because I was frozen in fascination, so I sketched out as best I could of what we saw and I still have the sketches if anyone is interested.  Also, our dog was panicking the entire time and was creeped out the rest of the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125760.html](http://www.nuforc.org/webreports/reports/125/S125760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Cassville (GA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>round bright light,made sky like daylight, going s on I75 on right, saw it come from sky as a comet, then went over low trees, could see eh bright light and fire coming from the tail. looked as though it groundedit was complete darkness as we traveled to Florida, all at once it was though it was getting daylight, but, much to early.  Then the light was blinding white-bright..We looked to our left (west) and we saw this ufo coming from the sky..It got closer so close we coulsd see the round white light with red fire like substance coming from the rear.  It seemed to look like a comet as it begin, then become much larger, It looked like it went down behind the trees , and as it did, we could see it lit up all the houses on the other side of it.  I noted imediately that this was the largest comet I had ever seen, then after much thought I cannot believe it was a comet, as it would have left a crater and I wonder if a crater was found in the area</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11439.html](http://www.nuforc.org/webreports/reports/011/S11439.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
