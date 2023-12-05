@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:57 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:42 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Westmoreland (NH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>As I was hiking through a field from a day of hunting, I stop to rested and gazed upwards into the sky at the crescent moon and planets, I notice a single cloud above me as well in the shape of an wide boomerang then suddenly a small ball shape cloud shot out of it,  I thought at the time it’s just a cloud forming, but question myself whether I really saw it shoot out or was it just forming on its own, then it slowly started to evaporate and look more like a circle with brighter outer ring to it, no height that I could tell maybe because I was under it, then it changed shape quickly somewhat like a diamond and shot in a straight line with incredible speed like a streak of a shooting star and then I knew I saw something special and began second guessing myself always home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131656.html](http://www.nuforc.org/webreports/reports/131/S131656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Thornton (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>It was a cold and clear night with lots of stars visible.  Very large solid triangular, looked black in color and had bright white and red lights all around it.  Flying VERY low above mountains heading from southwestern to southeastern direction.  Also, there were two airplanes one alongside, the other behind, both appeared tiny in comparison.  Was very loud humming/vibrating that woke me from sleep.  I ran to door yelling for my boyfriend, who saw it as well.  I didn't have time to run for my camera because I was frozen in fascination, so I sketched out as best I could of what we saw and I still have the sketches if anyone is interested.  Also, our dog was panicking the entire time and was creeped out the rest of the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125760.html](http://www.nuforc.org/webreports/reports/125/S125760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
