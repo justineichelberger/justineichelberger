@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:42 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a silent object with multiple lights that changed colors and a bright flash that appeared to be a 2nd object ejecting.Last night (12/5/00) about 8:15PM I went outside to take some pictures of the Christmas lights my husband had put up during the day.  I took two pictures and then walked towards the end of the driveway to get another shot.  I caught movement out of the corner of my eye, looked up, and there was a bright light.  It was mostly gold with some red lights underneath.  The lights were steady and not blinking.  I couldn't see a shape in the light but there was something hanging down below the lights.  There was no sound coming from the object and it was close enough that I would have heard any noise it made. It was traveling at a steady height and speed.  Since I had my camera I took a couple pictures and then went in the house to get my husband so he could see it.  By then it was beside the house moving towards the back, so we went to the back patio.  As we got to the end of the patio where we could see the object there was a bright white flash and the colors changed going from gold to red and back to the original gold with the red lights on the bottom.  It looked like a second white light/object split from the first and went shooting off in a different direction.  Then the object was moving away from us and my husband clearly saw the red lights underneath.  There was still no sound.  The thing seemed to be floating.  The camera I used was digital and I downloaded the pictures right away.  They look black until they are enhanced.  The enhancements bring out some very strange details that don't seem to fit planes, helos or balloons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15328.html](http://www.nuforc.org/webreports/reports/015/S15328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Euharlee (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two Triangle shaped crafts flying really close together over Euharlee Rd seen 60:90 seconds, stopped to take a picture and they shot up</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151373.html](http://www.nuforc.org/webreports/reports/151/S151373.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
