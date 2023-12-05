@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Huntingdon Valley (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>White oreo shaped object  - North East Philadelphia - East SkyMy son was playing outside and he saw a white sphere in the East sky (about 30 degrees). He called me and my wife outside and we saw it too.  I made a video with my Canon T3i camera (18-135mm) and also with my phone (galaxy s6).  The object was moving pretty slowly and it first went up (in relation to where we were) and then it went down again, so we had to walk toward west to see it better.I ran inside and grabbed our telescope (Celestron AstroMaster 70AZ) with a 10mm view scope.  It took about 4 minutes to focus it but I did.  At first it looked like a white football with lights across it, but as my eyes rested I saw it was the shape of an Oreo Cookie, with either lights or reflective material through the middle of it.  The lights on the right were shinier (probably because it was facing the sun).It seemed to be very far away and through the viewscope it was about 1" big.As we were looking at it neighbors who were driving by stopped and looked through the telescope too.  I then called my brother in law who lives about 1 mile away and he confirmed seeing the white dot in the sky too.Finally we decided to drive to a higher location as we were worried the object was going to go behind the trees, by the time we got there (1.5 miles away) we could no longer find it.   Getting home I asked my wife to draw what she saw, then I asked my son and we compared our drawings.I have no idea of what it is.  I called my dad and he said I should report it here.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124531.html](http://www.nuforc.org/webreports/reports/124/S124531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Ball of light moving downward quickly.  Went behind clouds that seemed to possibly in the Newtown or Monroe area.Was driving south on 25 (the highway part), and saw a bright light decend behind clouds quickly.  Unusual speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94991.html](http://www.nuforc.org/webreports/reports/094/S94991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
