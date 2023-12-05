@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 yellow-orange star-like objects.My husband, young daughter, and I were traveling to Myrtle Beach for a few days and were about 15 minutes away from our resort traveling on 544 W when I noticed a bright, yellowish-orange light that was star-like, but noticeably larger. At first, I thought it might be a cell tower light because it was stationary and it faded out, but less than a minute later, it appeared again in a different location with another one beside it.  They both remained stationary and faded out.  About a minute later, they appeared again closer together for only 2 or 3 seconds and faded out a final time. It was cloudy and foggy the rest of our evenings in Myrtle Beach.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95279.html](http://www.nuforc.org/webreports/reports/095/S95279.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ketchikan (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 16.0 - 16.0 minutes.</sub><blockquote><sub>Light stayed over airport and slowly went left to right. Then it got really bright and dimmed and was gone.Sighting over airport island just bellow moon.  Friend called from his work about 2 miles from my home.  Friend said hurry go outside look at it. So i did. Light stayed over airport n slowly went left to right.  Then got really bright and dimmed and was gone. I had friend on phone.  He could still see it. I said it went dark after i started taking pictures. He said he could still see it.  He said it went up then went dark.  I took pictures pretty fast.  First pic, got the light.  Second pic, it's gone. I'm freaked out totally never} island. Light stayed over airport n slowly went left to right.  Then got really bright and dimmed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105098.html](http://www.nuforc.org/webreports/reports/105/S105098.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
