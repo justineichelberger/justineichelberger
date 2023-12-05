@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Forest Hills (Queens) (NY) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange lights seen flying low in the NYC metro-areaI was throwing out trash behind my house. I looked up and saw this object only several hundred feet above me in the air. At first first i took it to be a helicopter as seen from directly below however the Red, Blue and White-yellow lights struck me as odd. They did not blink and were very bright making it difficult to distinguish anything about the shape of the craft which would have blended into the night sky in the absence of light. However i believe it may have been tear drop shaped or perhaps something akin to a triangle with smoothed edges.The craft moved very quickly over my location and dissappeared on the otherside of an apt. building. The oddest thing about the sighting which makes me discount a plane or helicopter was the absence of any sound. This object made no noise. No hum or anything. It was deadly quiet and very fast. Growing up in the city near both major airports I am accustomed to seeing helicopters and planes flying low. I normally don't even look twice but something was very different about this craft. It was very unsettling.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48075.html](http://www.nuforc.org/webreports/reports/048/S48075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We saw a silent object with multiple lights that changed colors and a bright flash that appeared to be a 2nd object ejecting.Last night (12/5/00) about 8:15PM I went outside to take some pictures of the Christmas lights my husband had put up during the day.  I took two pictures and then walked towards the end of the driveway to get another shot.  I caught movement out of the corner of my eye, looked up, and there was a bright light.  It was mostly gold with some red lights underneath.  The lights were steady and not blinking.  I couldn't see a shape in the light but there was something hanging down below the lights.  There was no sound coming from the object and it was close enough that I would have heard any noise it made. It was traveling at a steady height and speed.  Since I had my camera I took a couple pictures and then went in the house to get my husband so he could see it.  By then it was beside the house moving towards the back, so we went to the back patio.  As we got to the end of the patio where we could see the object there was a bright white flash and the colors changed going from gold to red and back to the original gold with the red lights on the bottom.  It looked like a second white light/object split from the first and went shooting off in a different direction.  Then the object was moving away from us and my husband clearly saw the red lights underneath.  There was still no sound.  The thing seemed to be floating.  The camera I used was digital and I downloaded the pictures right away.  They look black until they are enhanced.  The enhancements bring out some very strange details that don't seem to fit planes, helos or balloons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15328.html](http://www.nuforc.org/webreports/reports/015/S15328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
