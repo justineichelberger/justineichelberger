@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Turnpike near Bristol township (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Big triangle takes off at the speed of light.Heading on PA turnpike heading towards Bristol area, appeared to look like lightning in the sky. But skies were mostly clear. A triangle shaped object appeared, lit up very bright and took off and disappeared into the clouds. The aircraft looked like it had 3 engines on the back and upon taking off left a long trail of lights until it was gone.What looked like lightning may have been lights off the aircraft. As cliche as this might sound it looked like it was something out of a movie. From star wars where a spaceship gets ready for "light speed". I've never seen anything like it in my life. Aircraft was a triangle shape and way to big to be anything from earth. At least that I've ever seen. I was able to make out the shape of the spacecraft from the lights but it appeared to have some type of cloak technology on it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161051.html](http://www.nuforc.org/webreports/reports/161/S161051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ajijic (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>very bright pinpoint light w/ cone shape vapor trail. Observed for 5 min, looked to be at 3 to 5 k ft. pinpoint started to move and dissapeared in 2/3 sec, then the vapor cone dissipated.sameasabove((NUFORC:  Event first reported to have occurred on 05NO98, but then corrected to 05DE98.  The sighting on 05DE98 corresponds to an airlaunch of a Pegasus missile from an aircraft located approximately 70 miles southwest of Monterey, CA.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05006.html](http://www.nuforc.org/webreports/reports/005/S05006.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
