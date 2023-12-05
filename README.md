@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Ajijic (Mexico) () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>very bright pinpoint light w/ cone shape vapor trail. Observed for 5 min, looked to be at 3 to 5 k ft. pinpoint started to move and dissapeared in 2/3 sec, then the vapor cone dissipated.sameasabove((NUFORC:  Event first reported to have occurred on 05NO98, but then corrected to 05DE98.  The sighting on 05DE98 corresponds to an airlaunch of a Pegasus missile from an aircraft located approximately 70 miles southwest of Monterey, CA.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05006.html](http://www.nuforc.org/webreports/reports/005/S05006.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Circular glowing object falls and the disappears.This happened two times, seen in close proximity of each other, on two different nights, two of us witnessed it one night and the other witnessed it a night a few months before that.  When it happened my friend and I were outside a friends house having a cig, a very good sized (about 3/4 the size of a full moon) circular blueish/greenish/white fireball with a good size trail following came falling straight down as if it were on a crash course with the south east horizon.   As it got very close to the horizon it disappeared as if nothing ever happened.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48748.html](http://www.nuforc.org/webreports/reports/048/S48748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
