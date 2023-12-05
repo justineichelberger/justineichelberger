@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wilmington (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Orange light in sky Wilmington NCMy wife and I were driving S on River Rd. just about half mile south of Sanders Rd.   We noticed a orangish light in the distance over the Cape Fear river (one object only as we looked south).   As we proceeded we lost sight of the object do to trees.  Once we reached a clearing again with object was gone.I reported to MUFON similar objects in early 11/07/12 around 20:00 in what would be same area of sky or above Cape Fear river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94988.html](http://www.nuforc.org/webreports/reports/094/S94988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Beaconsfield (QC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>8 lights in formation moving synchronously.Clear night, a formation of 8 lights in single file appeared in the sky. They looked like stars, but then I noticed that they were moving together. I thought they were perhaps military planes, but all of a sudden they vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160972.html](http://www.nuforc.org/webreports/reports/160/S160972.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
