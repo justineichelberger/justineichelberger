@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Northbrook (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Witnessed near grocery storeUfo was spotted near grocery store by friend while walking dog, it was night out and they saw the lights on the ufo, and said it looked as if it was in a box shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161132.html](http://www.nuforc.org/webreports/reports/161/S161132.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Preble (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light in the sky on rt. 81 S near Preble NY.I was driving South on I81 from the Syracuse area. Between Preble and Homer I saw a streak of white light in front of the car entering my field of vision from the East. I imediately thought it was a meteor, but then it slowed down, directly south of me; it slowed to a crawl. It appeared the size of a bright star or planet in the night sky. After a few seconds it sped up and flew off to the West. When it came in it was decending, when it flew off it was either level or slightly ascending.This event lasted aproximately 3-5 seconds, at about 6:57 pm. The object was at about 30-40 degrees up in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73602.html](http://www.nuforc.org/webreports/reports/073/S73602.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
