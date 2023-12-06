@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:43 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellowish orange oval south of Eureka, California, on December 5 at 6:30 am December 6 at 6 pmHave seen the same UFO yesterday morning at about 6:30 am and then again at about 6 pm this evening.  Bright glowing yellowish oval, then turned dark with a singular small red light.  Did this several times all while moving very slowly.  It was located looking to the south-southwest of Eureka.  Was seen in the same area both times.My girlfriend saw this UFO first early in the morning while out on the back porch of our house, she woke me out of bed and I observed this object with her, the second time, the same thing happenned and she told me to come quick, with an alerted tone in her voice.  Both times I grabbed the binoculars, after seeing this object, I saw anything from a triangle shaped light, to an oval, with the bright lights varying in hue from green, to yellow or orange.  Then it would go totally dark and a single dim red light, but a faint large outline of a object could be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85717.html](http://www.nuforc.org/webreports/reports/085/S85717.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Emigrant (MT) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I saw a flaming domeWhat I Saw December 6, 2019, 1:15am Emigrant, Montana   Just as I was getting a glass of water before bed, I glanced out my kitchen window and saw something completely baffling.  I would not have called it a sighting because it was so startling.  It was only after I related what I saw to my husband that I realized it was without doubt a UFO. My husband was extremely tired that evening and had gone to bed before me.  So when I saw the sight, I didn’t wake him (and I’m kicking myself for not doing that) because he was so tired. I saw up on a hill near the back of our home a flaming dome.  When I say flaming I mean this literally.  It appeared to be burning.  I could see the fires within it churning and burning.  It was vidid.  It had an aura.  Oddly the aura appeared to be something artificial because it did not appear ethereal.  It looked somehow like a designed aura.  It was sort of like scallops with a black edge.  But it was light.  I was dumbfounded.  I had an preconceived idea of what UFOs look like.  This fit nothing I’d ever heard of. I decided to get a flashlight and go outside to see if lI could see it better.  But it was early in the morning and we have wild animals out here and I decided it would not be wise to do this.  By the time I got the flashlight and returned to the window, it had diminished.  I would say I was away maybe 6 minutes. Then as I stood and watched, the dome simply gradually  diminished in brightness and somewhat rapidly vanished (as if disappearing into the hill).  It just collapsed  right before my eyes.  And it was just gone. When I told my husband about it the next morning, he said it was probably a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/160/S160560.html](http://www.nuforc.org/webreports/reports/160/S160560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
