@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:18 on 5 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Broomfield (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object with four flashing lights swoops over Broomfield housesI was driving home after picking my girlfriend up for work when I noticed a large white vertical cylinder in hovering in the sky, and while I feel I could write an entire report about this incident, what followed drastically more entertaining.  As I was pulling closer to this object it started to flash, and before I could even get a camera ready to get some footage of it my girlfriend screaming out, "What the hell is that!?"   The object she saw was clearly a single bent saucer shape.  It had a row of four lights, with the two outside lights set slightly lower and to the side of the two in the middle.  It was incredibly low in the sky, lower than any of the planes which fly along a similar path from DIA.  The object was so low that I got a pretty good estimate of it's size, I'd say it was about 60' wide, about two houses.As soon as I saw it I turned onto a road that ran right underneath it to try to get some pictures or video of it, and as soon as I turned onto the road I saw the four lights grow brighter and the entire object just sort of swooped down over the houses and shot off towards the mountains.  I floored it to try to keep up with it, got up to over 60MPH in a residential zone trying to catch up to it and it still shot away from me like I was standing still.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/094/S94997.html](http://www.nuforc.org/webreports/reports/094/S94997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A craft with flashing blue and green lights on the side, with blue smoke falling before disappearing.There were green and blue lights lining all over the side of the craft, blinking as it descended diagonally, blue smoke emitting from the back, and it suddenly disappeared mid fall, like it was never there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124555.html](http://www.nuforc.org/webreports/reports/124/S124555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165759.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161213.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161137.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161055.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161054.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
