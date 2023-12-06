@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:49 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Albuquerque (NM) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A craft with flashing blue and green lights on the side, with blue smoke falling before disappearing.There were green and blue lights lining all over the side of the craft, blinking as it descended diagonally, blue smoke emitting from the back, and it suddenly disappeared mid fall, like it was never there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124555.html](http://www.nuforc.org/webreports/reports/124/S124555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Hendersonville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Star-like objects fade in and out, and move in patterns unusual for conventional aircraftAt approx. 6:45 pm on the evening of Saturday Dec 6th, 2008, I had gone to my backyard pool to turn on the filtration system motor. This is a routine procedure I perform in cold weather to keep the water circulating to prevent freezing (in lieu of winterizing).After switching on the motor, I noticed in the western night sky a very bright light slowly moving eastward. Since we live about 20 minutes from a regional airport, I at first didn’t think this was unusual. However as I watched it’s motion, I noticed it had no blinking aircraft lights. As I continued to stare, it suddenly halted movement and then began to move backwards. Eventually it stopped completely and became fixed (now appearing as the brightest “star” in the sky).At this point I ran inside to get my video camera and to notify my two young children of what I had seen.  When we came back outside the object was still there, but was now accompanied by a second star-like light (albeit less bright) off to the lower right.  I began to record as best as I could through the backyard tree limbs which somewhat blocked my view.  Eventually the cold weather forced us indoors, where I continued to film through my upstairs screened-in porch area.  For the next half hour or so my children and I watched in amazement as the two objects alternately moved closer to each other, then moved apart.  In addition they would continually fade in and out, at times becoming completely dark (appearing to us to disappear completely), then suddenly reappearing in full brightness.  At times the second object would become brighter than the first.  Eventually the objects went dark permanently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67351.html](http://www.nuforc.org/webreports/reports/067/S67351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
