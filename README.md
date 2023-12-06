@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Motley (MN) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unknown multiple lights crossing skyI stepped outside. It was already dark and a clear night. I looked up into the eastern sky and saw a string of lights going across the sky from the SW to the NE. They were white/ whitish blue color. I lost count at 20. I then went and got my iPad to record. I recorded the event but it came out all dark. I still have the video. The event lasted for another minute or so as the last light or object went by and disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161942.html](http://www.nuforc.org/webreports/reports/161/S161942.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>NE to NW Very fast and low flying, White light changing to Bright blue, then blueish red glow, turning to red, then turning solid yellow mass.  In the NW sky breaking into two objects one piece as to fall downward and gone and one traveling forward and gone.Standing outside grilling out.  Dark skies and located 3or 4 miles from town.  Drinking ice tea.  extremly fast and low flying and the dividing up of object very unusual.  The colors of the object very beautiful. The changing of the coloration was also very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04988.html](http://www.nuforc.org/webreports/reports/004/S04988.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
