@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I believe that an unknown creature teleported into my backyardI was looking down at my phone, when I saw a flash of light.  I quickly turned to my window and it was pitch black.  My window was also cracked.  So I heard the trees ruffle immediately after the flash.  There was a dog in the backyard of the neighbors on the next block.  The dog had not made a sound the entire evening.  There was no barking, no ruffling of the bushes, or anything of the sort.  Immediately after the flash and ruffle of the trees, the dog barked once. I looked out of the window to see if I would see a shadow in the little lighting in my backyard.  But I saw nothing in the 5 minutes I waited to see something move.  But the dog never made a peep the time I was looking down from the 5th floor.  I was, periodically, whistling for the dog to make a noise.  But it never happened.  It just seeemed very strange to me.  That flash has never happened in my backyard.  Plus, the ruffling of the tree was eerie.  When the dog stopped after one bark, I was sure there was something down there.  My partner told me to relax because it was nothing.  But I believe that there was some kind of teleportation that occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131666.html](http://www.nuforc.org/webreports/reports/131/S131666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hemingway (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately bright blue light - bright blue light minutes.</sub><blockquote><sub>bright blue light that lit up sky round object jetted with a streak behind it{kind of like a bottle rocket}. was seen from Jonsonville,SC to Georgetown,SC which is appox. 1 hour from each other. It was seen in the same time frame!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26479.html](http://www.nuforc.org/webreports/reports/026/S26479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
