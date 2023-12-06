@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:58 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eagle Mountain (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright white light bluish tinge marquis shaped lights on circular objectI was on my way to a baby shower in Eagle Mountain, UT.  I had never been to this area before, so I was really paying attention to my surroundings.  As I headed down a street the mountain was directly in front of me, and there was nothing but open sky on either side.  I saw just above the mountain a really really bright white light with a blue tinge to it.  It looked like a row of marquis shaped lights like 5-6 in a row.  The object seemed circular almost like a ring, that is what it reminded me of.At first, I thought maybe it's a helicopter or possibly a plane, but as I thought about it I knew it couldn't  be.  It wasn't moving at all, not to the sides or away from me or even towards me. It was too low to be a plane.  There were no blinking lights or any other colored lights at all.  It was so bright, it light up everything, it reminded me a lot of the moon and how it lights up the whole night.  The object had the same effect.   I didn't hear any noise but I was driving (without the raido on) so there could have been, but I didn't hear anything at all.I looked away for a moment as I was trying to find the street I needed. I looked back up and it was still there.  I drove further down and slowed to look at the next street.  When I looked up the object was totally gone.  The way Eagle Mountain is, it's right next to a lake, there are huge swaths of open sky.  There is nowhere this object could have gone without me seeing it, if it was a plane or a helicopter or even a blimp.  The whole sighting lasted less than a minute.  I have never seen anything like it before, and wonder if there is a history there of sightings or if anyone else saw the same object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115865.html](http://www.nuforc.org/webreports/reports/115/S115865.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Loxahatchee (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Rectangular Gowing ObjectI noticed what I at first thought was a “sky writing” type of plane in the South Western Sky of rural West Palm Beach, Florida.I am located in Loxahatchee.It was coming straight down, with a short trail. It was silent.I started to think it was a plane about to crash.But, then it came to a dead stop, and the trail vanished. It was white but had a glow.It stayed in that position for approximately 5 minutes.Then started to glide to the South.It was a rectangular shape, but then seemed to be narrower at the ends.It continued to glide south until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79151.html](http://www.nuforc.org/webreports/reports/079/S79151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
