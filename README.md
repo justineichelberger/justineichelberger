@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Loxahatchee (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Rectangular Gowing ObjectI noticed what I at first thought was a “sky writing” type of plane in the South Western Sky of rural West Palm Beach, Florida.I am located in Loxahatchee.It was coming straight down, with a short trail. It was silent.I started to think it was a plane about to crash.But, then it came to a dead stop, and the trail vanished. It was white but had a glow.It stayed in that position for approximately 5 minutes.Then started to glide to the South.It was a rectangular shape, but then seemed to be narrower at the ends.It continued to glide south until it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79151.html](http://www.nuforc.org/webreports/reports/079/S79151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Canton (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange fireballs in the sky.I was outside with my boyfriend and seen 3 fireball looking objects in the sky lined up. It was very low and big. It appeared for 2 minutes then disappeared from the current spot.  Then it reappeared in another spot in the sky just as low as it had previously done.  This went on for about 10 minutes. There was several other aircraft in the sky at the time moving towards the direction of the fireballs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95038.html](http://www.nuforc.org/webreports/reports/095/S95038.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
