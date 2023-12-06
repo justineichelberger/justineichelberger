@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:46 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Puerto Vallarta (Mexico) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Short vapor trail seen at very very high altitude over Puerto Vallarta flying South to North at 12:10 PMA very short vapor trail very similar to an jet airliner was seen moving from South to North at very high altitude.With a high power telescope, only the vapor trail could be seen but not the aircraft.The object appeared to be at least 80,000 feet as it was barely visible on the high power telescope.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105110.html](http://www.nuforc.org/webreports/reports/105/S105110.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Northbrook (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Witnessed near grocery storeUfo was spotted near grocery store by friend while walking dog, it was night out and they saw the lights on the ufo, and said it looked as if it was in a box shape</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161132.html](http://www.nuforc.org/webreports/reports/161/S161132.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
