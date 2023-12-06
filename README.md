@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 9:20 PM - 9:20 PM minutes.</sub><blockquote><sub>Moon sized bright green oval shaped light with smaller red light attaches to the front of the object floating across Pheonix sky.Driving on the 8 East right after Yuma 105 miles from Pheonix I spotted a bright green, oval shaped object the exact size of a full moon with a small red circle shaped light in the front of it. The color of the green light was a faded green, not as green as a green traffic light, but a pastel green, the red circle shaped light attached to the front was a red stop light color red. It was smaller than the oval shaped object but it was also large, I cannot confirm a size that I can compare it too. It was to the right side of the road in the sky. As I was driving. The location was above the desert, not above the actual road I was driving upon. The object came in slowly through the clouds, there was no rain but due to the weather it came through the foggy clouds, appeared and floated towards the right direction, approximately 3 seconds long, then disappeared behind the clouds. A truck driver also pulled over at the nearest resting area as if they stopped to see a! s well I did not ask the truck driver due to safety reasons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151364.html](http://www.nuforc.org/webreports/reports/151/S151364.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellowish orange oval south of Eureka, California, on December 5 at 6:30 am December 6 at 6 pmHave seen the same UFO yesterday morning at about 6:30 am and then again at about 6 pm this evening.  Bright glowing yellowish oval, then turned dark with a singular small red light.  Did this several times all while moving very slowly.  It was located looking to the south-southwest of Eureka.  Was seen in the same area both times.My girlfriend saw this UFO first early in the morning while out on the back porch of our house, she woke me out of bed and I observed this object with her, the second time, the same thing happenned and she told me to come quick, with an alerted tone in her voice.  Both times I grabbed the binoculars, after seeing this object, I saw anything from a triangle shaped light, to an oval, with the bright lights varying in hue from green, to yellow or orange.  Then it would go totally dark and a single dim red light, but a faint large outline of a object could be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85717.html](http://www.nuforc.org/webreports/reports/085/S85717.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
