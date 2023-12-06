@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in The Colony (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Blue and green circular light seen above texas ice stormDuring a trail hike at Arbor Hills Nature Preserve during some of the peak hours of the big ice storm that hit the US this passed weekend,  Me, my girlfriend, and a friend witnessed a larger circular light appear in the clouds about a mile East of us.  The size of the circle must have been near a quarter mile, it lit up the entire sky.  The light first flashed blue then green then cut off like someone turned off a light switch.  The light was clearly coming from above/behind the storm clouds.  We continued to walk in shock and saw the light once again a few miles further East about 30minutes later.  Absolutely no other visible objects in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105199.html](http://www.nuforc.org/webreports/reports/105/S105199.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Motley (MN) reported seeing craft that fit the description of some '' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Unknown multiple lights crossing skyI stepped outside. It was already dark and a clear night. I looked up into the eastern sky and saw a string of lights going across the sky from the SW to the NE. They were white/ whitish blue color. I lost count at 20. I then went and got my iPad to record. I recorded the event but it came out all dark. I still have the video. The event lasted for another minute or so as the last light or object went by and disappeared into the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161942.html](http://www.nuforc.org/webreports/reports/161/S161942.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
