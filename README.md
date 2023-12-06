@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:31 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Rome (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>NE to NW Very fast and low flying, White light changing to Bright blue, then blueish red glow, turning to red, then turning solid yellow mass.  In the NW sky breaking into two objects one piece as to fall downward and gone and one traveling forward and gone.Standing outside grilling out.  Dark skies and located 3or 4 miles from town.  Drinking ice tea.  extremly fast and low flying and the dividing up of object very unusual.  The colors of the object very beautiful. The changing of the coloration was also very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/004/S04988.html](http://www.nuforc.org/webreports/reports/004/S04988.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Edinboro (PA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Four dull silver crafts seen doing aerial maneuversI’m 21 years old and a student working on getting my Bachelor’s Degree in media arts (specifically animation).  I was in my second to last week of the fall semester when the sighting took place.On the night of December 6, 2007 at almost 8:00PM on the dot I saw four circular craft flying in formation doing aerial maneuvers.  I was walking back to my apartment from campus to pick up supplies for a computer animation I was working on for finals.  Just as I got through the back parking lot I looked up at the roof and balcony of an apartment building that flanks us on the right side (I've been watching the icicles grow on their side from all the snowfall).  When I did, I saw four low flying craft that were a dull silver and without lights flying well below the heavy cloud cover.  They were flying low enough that the lights from town were shining on the bottom but I was standing in such a way that there were no lights to cause glare so I could see them very clearly.  I could also see an under-carriage type object that was also circular and about half the diameter of the craft.  They were flying from the direction of the Edinboro Lake, which is about a mile away from where I made the sighting and heading for the river located behind my apartment building.They were in a sort of triangular formation so at first I thought I was seeing the engines of a really low flying jet plane but it was dead silent and I couldn't see the wings attached to these 'engines'.  Just as I was thinking this, the one on the far back right of the triangle formation did a swap with the one on the back left before they formed a more diamond shaped formation and I lost them behind the trees on the backside of the parking lot (I’m sending an email with a diagram and illustration of what they did and what I saw).I’m not sure if this is prudent or not, but the night before this sighting, the town power grid where the sighting happened lost electricity.  Even the campus I attend lost power for a few seconds before the generators kicked on, however the traffic lights and street lamps were out for about an hour or so afterwards.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60575.html](http://www.nuforc.org/webreports/reports/060/S60575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
