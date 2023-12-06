@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:44 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hemingway (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately bright blue light - bright blue light minutes.</sub><blockquote><sub>bright blue light that lit up sky round object jetted with a streak behind it{kind of like a bottle rocket}. was seen from Jonsonville,SC to Georgetown,SC which is appox. 1 hour from each other. It was seen in the same time frame!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26479.html](http://www.nuforc.org/webreports/reports/026/S26479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>short,bright contrail,west over ocean.heading north and descending approx 45deg.gone. reappeared parallel to horizon. reversed direction to south toward setting sun.bright short bursts and object and contrail gone at same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11269.html](http://www.nuforc.org/webreports/reports/011/S11269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
