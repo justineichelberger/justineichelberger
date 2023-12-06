@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:40 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 6 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glendale (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Im walking to work and there was a white ball flashing and falling down as if it was a New Years Eve ball from the countdown.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85711.html](http://www.nuforc.org/webreports/reports/085/S85711.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Yuma (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 9:20 PM - 9:20 PM minutes.</sub><blockquote><sub>Moon sized bright green oval shaped light with smaller red light attaches to the front of the object floating across Pheonix sky.Driving on the 8 East right after Yuma 105 miles from Pheonix I spotted a bright green, oval shaped object the exact size of a full moon with a small red circle shaped light in the front of it. The color of the green light was a faded green, not as green as a green traffic light, but a pastel green, the red circle shaped light attached to the front was a red stop light color red. It was smaller than the oval shaped object but it was also large, I cannot confirm a size that I can compare it too. It was to the right side of the road in the sky. As I was driving. The location was above the desert, not above the actual road I was driving upon. The object came in slowly through the clouds, there was no rain but due to the weather it came through the foggy clouds, appeared and floated towards the right direction, approximately 3 seconds long, then disappeared behind the clouds. A truck driver also pulled over at the nearest resting area as if they stopped to see a! s well I did not ask the truck driver due to safety reasons.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151364.html](http://www.nuforc.org/webreports/reports/151/S151364.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/165/S165757.html)
-- [267](http://www.nuforc.org/webreports/reports/165/S165746.html)
-- [266](http://www.nuforc.org/webreports/reports/165/S165769.html)
-- [265](http://www.nuforc.org/webreports/reports/165/S165748.html)
-- [264](http://www.nuforc.org/webreports/reports/165/S165752.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
