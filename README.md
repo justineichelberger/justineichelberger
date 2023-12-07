@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:30 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Belgaum (India) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Dear sir ,  Me and my frnd had gone for a evening walk , at 18:30  We saw a star like object move in sky rapidly  It moved from SW to NDear sir ,  Me and my frnd had gone for a evening walk , at 18:30 We saw a star like object move in sky rapidly  It moved from SW to NE direction paralleled and moved fast about for 1 minute Then disminshed , we were puzzled .I came back home and then told my wife about it  And was showing her which part this event took place in sky , suddenly we spotted something again  Move .  This time the distance star like object moved , we though it was a satellite .Then ran on top of my terrace with binoculars and again spotted strange lights move in sky This time it moved like a kite in circles also called every body , all saw the strange phenomena It is just I hr back ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95041.html](http://www.nuforc.org/webreports/reports/095/S95041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A bright star that when approached revealed itself as a hovering airplane-like object, but no flashing lightsI was driving home from work going east on 212th St.  As I was approaching 76th Ave S, I saw a bright star in the sky shining through the trees.  I turned south on 76th Ave S and saw a small, fast moving airplane pass pretty quickly underneath the object.  It was hovering very close, just to the west side of 76th Ave S.  As I got closer, the object looked like a large airplane with a bright headlight, and a few lights on the bottom of it, but there were no flashing lights.  It was not a helicopter, more like an airplane.  It hovered there very close, perfectly still, as if it was watching traffic.  I watched it as I drove south.  Eventually I passed it and lost sight of it.  It just kept hovering stationary there and never moved.  I have seen this type of object far off in the distance before during this time of evening in Kent, but never this close.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137611.html](http://www.nuforc.org/webreports/reports/137/S137611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
