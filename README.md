@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:37 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:41 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Medellin, Colombia (El Poblado) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red Lights over MedellinThis is the second time I have seen something strange in the Skies of Medellin.  Tonight is the night of candles and people have shot off fireworks the past three days.  My husband things they my be the floating lanterns...I have done those for parties in the past and never seen them move so fast and so high then drop down and move back up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151343.html](http://www.nuforc.org/webreports/reports/151/S151343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Toms River (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>doesnt stop moving, stays in the sky hoovering then spinning around many colorscolorful sphereshaped light moving through  the sky then hoovering</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33665.html](http://www.nuforc.org/webreports/reports/033/S33665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
