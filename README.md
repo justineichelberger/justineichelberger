@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:41 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:30 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Toms River (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 24.0 - 24.0 minutes.</sub><blockquote><sub>doesnt stop moving, stays in the sky hoovering then spinning around many colorscolorful sphereshaped light moving through  the sky then hoovering</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33665.html](http://www.nuforc.org/webreports/reports/033/S33665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Belgaum (India) () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Dear sir ,  Me and my frnd had gone for a evening walk , at 18:30  We saw a star like object move in sky rapidly  It moved from SW to NDear sir ,  Me and my frnd had gone for a evening walk , at 18:30 We saw a star like object move in sky rapidly  It moved from SW to NE direction paralleled and moved fast about for 1 minute Then disminshed , we were puzzled .I came back home and then told my wife about it  And was showing her which part this event took place in sky , suddenly we spotted something again  Move .  This time the distance star like object moved , we though it was a satellite .Then ran on top of my terrace with binoculars and again spotted strange lights move in sky This time it moved like a kite in circles also called every body , all saw the strange phenomena It is just I hr back ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95041.html](http://www.nuforc.org/webreports/reports/095/S95041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
