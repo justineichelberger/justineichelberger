@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>WHILE WALKING ON ATLANTIC BOULEVARD IN JACKSONVILLE I WITNESSED A BOOMERANG SHAPED OBJECT ALMOST COLLIDE WITH A COMMERCIAL AIRLINEROn a clear, cool day in December 1975 I observed a metallic boomerang shaped object have a near miss with a commercial airliner. Initially while walking along Atlantic Boulevard, I noticed the vapor trail of a south bound tri-jet (L-1011 OR DC-10) north of downtown. The estimated altitude was 35-40,00 feet. I then noticed a metallic booomerang shaped object approaching from east over the Atlantic Ocean to west. Initial altitude 20-25,000 feet. With amazing speed and rate of climb, it almost collided with the tri-jet heavy, The jet swived to avoid it, and the miss was so close that the vapor trail of the jet was broken by the object. I was truly terrified a mid-air collision was about to occur, but thankfully it didn't.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05146.html](http://www.nuforc.org/webreports/reports/005/S05146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Amazing glowing circle.I was walking my dogs with my family and I saw a glowing bright circle in the sky moving slowly. It was visible for about 2 minutes and I snapped a pic of it, and then it went away very quickly after I took the picture, falling or flying to the horizon.((NUFORC Note:  Witness forwarded a copy of his photo to our Center, and it indicates a bright red light, close to the horizon, in the nighttime sky.  Photo may be posted to our website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/110/S110115.html](http://www.nuforc.org/webreports/reports/110/S110115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
