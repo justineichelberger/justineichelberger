@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:48 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Visalia-Lemoore (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately entire night - entire night minutes.</sub><blockquote><sub>Bright Light, hovers over Lemoore BaseFor the last couple of weeks, when it starts to get dark, there is a bright light, SouthWest, toward the Lemoore NAS area.  It is lower then a star and lower then any aircraft in the area.It seems to hover for several hours and then it disappears.  It seems to be directly above the Lemoore NAS Base.  I am surprised no one has spotted the light and reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85748.html](http://www.nuforc.org/webreports/reports/085/S85748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Mertztown (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange slow moving lights in sky coming in and out of organized formation12 slow moving orange lights were seen to the east of Bear Creek resort in random formation.  The lights slowly moved into a triangle formation then again slowly dissipated into random formation before slowly burning out one by one over 10 minute duration.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105129.html](http://www.nuforc.org/webreports/reports/105/S105129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
