@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:41 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eldridge (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Five orange lights, like stars in the cloudy sky, hovered motionless over a small city in Iowa.On the evening of December 7th, 2012, I was traveling south on New Highway 61; the city in question was located to my right. I was not driving, so I was at liberty to observe the sky without distraction. The sky was cloudy, and above the lights of the city, the clouds appeared grey and luminescent.Above the city, I saw five lights, each a warm golden-orange color.  They looked like stars to me, both in height and magnitude; if the sky had been clear, I would have believed that they actually were stars, and I probably would’ve taken no notice.  The lights were initially stationary in the sky. As my vehicle approached and drove parallel to them, they hovered seemingly motionlessly.In relation to one another, they were positioned thusly: to the north, three lights were positioned in an obtuse triangle pattern, with the northernmost light acting as the obtuse vertex.  The other two lights were positioned farther to the south, with one higher in the sky and the other lower in the sky than the triangularly positioned lights.I watched them for as long as I could as my vehicle moved farther south, away from the sky lights and the city of Eldridge. At this point, I believe that I saw the southernmost lights move. The lower light appeared to ascend and approach the upper light.  The trees were obscuring my vision at this point, so I am less confident in this part of my account than the previous paragraphs.I believe that these lights were too high in the sky to have originated from any buildings in Eldridge, which is a relatively small town with no highrise buildings.  Also, I do not know of any terrestrial aircraft that have the ability to remain so still.My mom briefly saw these lights, too, but she did not observe them for as long as I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95054.html](http://www.nuforc.org/webreports/reports/095/S95054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Diego (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I have never heard of anyone discribe what I saw and possibly it was just my eyes playing tricks on me but.....it was a large triangle shape, very large. Looking up I noticed three stars forming a triangel but inside  what would be the of the shape, it seemed to be darker than the rest of the sky, I keeped looking out of curriosity and soon it begain to kind of dance around the sky. the sky was dark and it was only slightly darker so it looked almost like a shadow. I watched for about 10 min. never sure if what I was seeing was real or not, since I have never heard of such a thing. Id like to know if others had witnessed the likes of this. Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54054.html](http://www.nuforc.org/webreports/reports/054/S54054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
