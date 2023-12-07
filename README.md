@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:27 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:38 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Concord (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>looked like cessna without any navigation lights except no shadow/blackness where body should have been.object that looked exactly like shape of cessna wing, glowing soft orange color.no shadow,blackening where body of a cessna would have been. object traveling in northwest to southeast direction much faster than any airplane. no sound. quiet neighborhood so sound should have been heard had it been turbo-prop or jet propulsion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20810.html](http://www.nuforc.org/webreports/reports/020/S20810.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in North Wilkesboro (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Odd, slow moving dull red fireball leaving a trail.A dull reddish-orange fireball appeared coming form the west and disappeared into the east.  It was not very bright as with the other two fireballs I have witnessed in 30 years of observing the sky.  It left trail that glowed for approx. 5 seconds.  Facing north it was approx. 60 to 70 degrees above the horizon.The odd thing was how slow it moved across the sky.  I have seen hundreds of meteors (I am an amateur astronomer) and I have never seen one move this slowly before.  The other three witnesses agreed that it was moving a lot slower than any meteor they had observed before.I don't know exactly how to put this into words, but the whole event was just odd. I've never seen a meteor moving due east like that, nor acting like it did. It just kept heading east, never growing brighter or dimmer. This was definitely not an airplane or a satellite, after all it left a trail.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48217.html](http://www.nuforc.org/webreports/reports/048/S48217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
