@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>3 fast moving lights chased by black helicopters, flight tracking app had no helicopters in area.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143997.html](http://www.nuforc.org/webreports/reports/143/S143997.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hinton (Canada) (AB) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Silver/orange sphere travelling north east between 10,000-20,000ftObject flying 10,000-20,000ft in northeast direction at constant speed.  Shimmering silver/ orange in colour.  Seen roughly an hour north east of Hinton.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105277.html](http://www.nuforc.org/webreports/reports/105/S105277.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
