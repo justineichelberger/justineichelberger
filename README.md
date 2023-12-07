@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:27 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marshfield (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>As I was driving on the highway in Marshfield, my friend pointed up into the sky.  I slowed car it was late at night and no one was around, as I looked up high into the sky, I saw a bright orange/red sphere looking shape.  It was moving North at a pretty good speed, all of a sudden it got very bright and it seemed as if it exploded and a bunch of red / orange spheres for now going all over the place.  As I turned off the front lights of my car they were all raining down and it looked like they were picking up speed with a bunch of trails left behind them.  All of a sudden with another bright flash, they were gone the formation they were flying and seemed almost as if a rectangle or a square.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137616.html](http://www.nuforc.org/webreports/reports/137/S137616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Concord (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>looked like cessna without any navigation lights except no shadow/blackness where body should have been.object that looked exactly like shape of cessna wing, glowing soft orange color.no shadow,blackening where body of a cessna would have been. object traveling in northwest to southeast direction much faster than any airplane. no sound. quiet neighborhood so sound should have been heard had it been turbo-prop or jet propulsion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20810.html](http://www.nuforc.org/webreports/reports/020/S20810.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
