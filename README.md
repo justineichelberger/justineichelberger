@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:48 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lutz (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>My brother was traveling south on 41 when he spotted a black triangular object to the left (east of his location) as well that day (around dusk, early evening).  He said it was just above tree line, hovering over an open pasture.  It didn't make a sound and did not move. I printed pictures of various stealth and other unknown black triangular ufo objects for him to compare.  He picked the one that was an unknown stealth design, possibly a new model.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56789.html](http://www.nuforc.org/webreports/reports/056/S56789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Visalia-Lemoore (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately entire night - entire night minutes.</sub><blockquote><sub>Bright Light, hovers over Lemoore BaseFor the last couple of weeks, when it starts to get dark, there is a bright light, SouthWest, toward the Lemoore NAS area.  It is lower then a star and lower then any aircraft in the area.It seems to hover for several hours and then it disappears.  It seems to be directly above the Lemoore NAS Base.  I am surprised no one has spotted the light and reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85748.html](http://www.nuforc.org/webreports/reports/085/S85748.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
