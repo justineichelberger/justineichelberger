@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:37 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Hedgesville (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Possibly a comet, but we screamed because we have never witnessed something so large and falling at such an angle.  Extremely perfect and bright, no tail like a shooting star. Disappeared at same size. Larger than any shooting star we’ve ever seen.  Again possibly it was?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151382.html](http://www.nuforc.org/webreports/reports/151/S151382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Medellin, Colombia (El Poblado) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Red Lights over MedellinThis is the second time I have seen something strange in the Skies of Medellin.  Tonight is the night of candles and people have shot off fireworks the past three days.  My husband things they my be the floating lanterns...I have done those for parties in the past and never seen them move so fast and so high then drop down and move back up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151343.html](http://www.nuforc.org/webreports/reports/151/S151343.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
