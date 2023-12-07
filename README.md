@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Champaign (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Walking to class and hovering craft making some sort of cracking noise.I was on the way to class with friend and noticed an egg shaped object hovering and what sounded like a cracking sound.  The object was too far to discern any other details.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137591.html](http://www.nuforc.org/webreports/reports/137/S137591.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eldridge (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Five orange lights, like stars in the cloudy sky, hovered motionless over a small city in Iowa.On the evening of December 7th, 2012, I was traveling south on New Highway 61; the city in question was located to my right. I was not driving, so I was at liberty to observe the sky without distraction. The sky was cloudy, and above the lights of the city, the clouds appeared grey and luminescent.Above the city, I saw five lights, each a warm golden-orange color.  They looked like stars to me, both in height and magnitude; if the sky had been clear, I would have believed that they actually were stars, and I probably would’ve taken no notice.  The lights were initially stationary in the sky. As my vehicle approached and drove parallel to them, they hovered seemingly motionlessly.In relation to one another, they were positioned thusly: to the north, three lights were positioned in an obtuse triangle pattern, with the northernmost light acting as the obtuse vertex.  The other two lights were positioned farther to the south, with one higher in the sky and the other lower in the sky than the triangularly positioned lights.I watched them for as long as I could as my vehicle moved farther south, away from the sky lights and the city of Eldridge. At this point, I believe that I saw the southernmost lights move. The lower light appeared to ascend and approach the upper light.  The trees were obscuring my vision at this point, so I am less confident in this part of my account than the previous paragraphs.I believe that these lights were too high in the sky to have originated from any buildings in Eldridge, which is a relatively small town with no highrise buildings.  Also, I do not know of any terrestrial aircraft that have the ability to remain so still.My mom briefly saw these lights, too, but she did not observe them for as long as I did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95054.html](http://www.nuforc.org/webreports/reports/095/S95054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
