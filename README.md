@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:31 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 7 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Karle (near Hassan, Karnataka)(India) () reported seeing craft that fit the description of some 'Flash' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We were staying at Karle Homestay near Hassan, Karnataka, India.  6th was our friends birthday and we were staying up that night.  My son was sleeping in the cottage and we were just outside enjoying the clear night sky.  From the corner of my eye I thought i saw a light ( think white ) flashing on for a few sec and staying off for a longer period. It was a very clear night so I ruled out any clouds having that effect on a star in my path of vision. And yes it was not a fire fly.  I often talk crazy to my wife and this was way beyond my reality coz it was not moving and taking camofluge in the sky amongst stars.  It felt like we were being watched.  My wife asw it and said it was real and nothing could explain what we were seeing.  I shouted out to my friend who was in the loo.. his gf came out and she too saw this wierd light flashing on and off.. by the time my friend got out the light had gone..Also had a feeling i had a notion about this much earlirer.. i was talking rubbish to my friend who had no clue we had planned to take him to this place for his bday... rubbish being we are going to this place which has a open portal... we are going to meet the aliens.. all rubbish out of no where.. but after that moment i do not think it was rubbish.. and even if it was a great co-incidence.. i find it easier to accept it as real and we are not alone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124857.html](http://www.nuforc.org/webreports/reports/124/S124857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>I was at a gas station taking my dog for a walk.  At approx. 18:20 I saw a starfish-shaped object floating and changing shape.  It was covered in small bright red colored lights.  Floating quickly.  It was visible for 11 seconds and quickly disappeared.  It made no noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/143/S143993.html](http://www.nuforc.org/webreports/reports/143/S143993.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/165/S165767.html)
-- [288](http://www.nuforc.org/webreports/reports/165/S165813.html)
-- [287](http://www.nuforc.org/webreports/reports/165/S165724.html)
-- [286](http://www.nuforc.org/webreports/reports/165/S165763.html)
-- [285](http://www.nuforc.org/webreports/reports/165/S165754.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
