@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Saranac Lake (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Multiple large, yellowish orbs appeared and disappeared in the skyMy son and I were in the car at Petrova School waiting for my daughter and I was looking out over the soccer field.  Suddenly, above a row of clouds, I saw a large yellowish orb appear.  As I watched, two more appeared next to the first, but the second two seemed to be connected.  Then the first one disappeared and a forth appeared to the right of the two that were connected.  After that, they all disappeared.  We got out of the car, and we saw the flashing lights which appeared to be military jets - they were moving very fast.  At first we saw two, and then a third.  They were flying back and forth across the sky (in all different directions).  As we watched, one of them appeared to have a red light shoot out from the side of it (I think this could have been another jet that had been flying close to the other, but I'm not sure.  Could it have been something else?)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85771.html](http://www.nuforc.org/webreports/reports/085/S85771.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Clair (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple colerd light on more than one occasion.Been seeing a multi light object in the southern sky almost every night for the past week. Light is moving at a slow speed, but has vertical and horizontal "dips," while still traveling SSW.Object was first dismissed as ISS but apon research and ISS locations have ruled this out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131665.html](http://www.nuforc.org/webreports/reports/131/S131665.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
