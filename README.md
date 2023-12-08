@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>In the air flying very low 20 feet above tree line. No sound at all. Moving from north to south. looked like a flat dark hangglyder type shape. Saw it for about 4-5 seconds. Saw it in my neighborhood in Washington DC. Friendship Hights area. on harrison st. nw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41043.html](http://www.nuforc.org/webreports/reports/041/S41043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange lights with many strobes over ocean in Surfside.December 8th from the porch of our beachhouse, our first sighting occurred at about 7:30 PM just below and to the right of the belt of the constellation Orion, probably about 20 degrees above the horizon.  There were three orange lights aligned horizontally with a fourth light directly beneath the middle light. These lights seemed spherical, and larger than Mars, which is visible. They appeared for 1-2 seconds, flashed two or three more times, and  there was haze around them.  Then small blinking white strobes were visible in a large surrounding vicinity. I initially thought that these were multiple tiny aircraft, but it became evident that no small aircraft could follow such erratic courses. It was obvious that a few grouped together, flew off to the right, and then returned. About this time i called for my daughter to come look, because she said she had seen an orange light driving home one night.  We observed a plane liftoff over the ocean from the local airport, heading North, and a few moments after it turned, the lights reappeared, but with different formations. The first to appear was a line of approximately 3 orange lights, which quickly faded, giving way to a similar shape which immediately appeared about 5 degrees below and to the left, and soon accompanied by another similar construction of lights. After these faded away, there were about five or six strobes visible to the naked eye. They had no obvious destination or pattern until some began to closely group together and gravitate towards the center of Orion. At first I thought they were afterburners, then maybe engines that had caught on fire, but realized that the configuration was wrong.  The tiny strobes made me think that it might be a prank, and that the strobes were small aircraft until we noticed the erratic pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41037.html](http://www.nuforc.org/webreports/reports/041/S41037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
