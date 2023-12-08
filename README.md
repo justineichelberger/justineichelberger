@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>bright meteorSaw a spectacular meteor while waiting at the Worley intersection, facing north on Stadium Blvd.  I saw a flash in the sky, through my windshield, which caused me look out the drivers side window.  I witnesed what looked like a meteor, with a "spark trail" traveling west somewhere north of Interstate 70.  This is a very busy and bright area of town with several shopping centers, so the light had to be intense to see this object.  I did look down at the clock, to check the time, after this occured. Was not going to report because I'm certain that it was a meteor.  Decided to report when I saw the recent updates from Ottawa, IL and Pittsburg & St. Ann, MO from the same day/time describing this event.  To give some perspective of the size/intensity, the witness in Pittsburg, MO would have been approx. 90 miles SSW of my sighting.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54055.html](http://www.nuforc.org/webreports/reports/054/S54055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sharpsville (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>TWO UFOS OBSERVEDI was driving on the Charleston Road with my friend when I saw two definite aircraft hovering in the West.  It appeared a beam of light eminated from one of the objects.  They disappeared after the beam ceased.((FOLLOW-UP CORRESPONDENCE FROM MUFON INVESTIGATORS))100 Date: 12/8/02110 Time: 19:45130 Sighting City: Sharpsville140 Sighting State: pa190 Description: This case was deemed a possible hoax when claimants/witnesses could not be reached.Investgated by Rick Dell'Aquilla - Assistant State Director for Ohio MUFONGeorge Pindroh -  UFO investgatorChuck Eppolito - UFO investgatorE-mail addresses: Dell'Aquilla - rdell@nccw.netGeroge Pindroh- pindroh@en.comChuck Eppolito - e-mail address unknownReports submitted to NUFORC by Donnie Blessing - State Section Director Ohio MUFONE-mail Rdonolin@cs.com((NUFORC Note:  We express our gratitude to the MUFON investigator, Rich Dell"Aquilla, ASD for MUFON/OH, and to Donnie Blessing, SSD, and William Jones, SD for MUFON/OH, plus the other investigators listed above, for following up on this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26593.html](http://www.nuforc.org/webreports/reports/026/S26593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
