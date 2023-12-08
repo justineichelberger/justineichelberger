@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Greenwood Lake (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 lights moving very fast from east to west. First 2 lights merged then moved out of sight.I live approx. 60 miles west of NYC. Noticed 3 lights moving from east to west in a triangular formation. They seems to move too fast for aircraft.  Suddenly the second light excelerated moving into the leading light then out of my field of vision.  The third light followed out of my field of vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41034.html](http://www.nuforc.org/webreports/reports/041/S41034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fluoresent green teardrop fireball falling to earthlarger traveling north to west at a 45 degree estimated angle. It looked like it was crashing because I know how they can maneuver.   I see ufo’s all the time disappearing and reappearing in different locations in all spectrums of colors but this was different this was so close.  I’ve seen meteor showers they are bluish to bluish white and large.  Shooting stars (meteorites) are distant smaller this was not a normal It was a flaming fluorescent green fireball teardrop shaped about the length  of an average full moon or larger and thick width wise with no sound absolutly silent.  I wanted to be an astronomer  all my spare time goes into exploring my little area of sky  I know what is normal and what isn’t.  if you want to talk you know my number  North carolinia</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85752.html](http://www.nuforc.org/webreports/reports/085/S85752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
