@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vienna (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vienna, OhioI was driving through Vienna, Ohio when I spotted two somewhat cigar shaped objects hovering in the East.  A beam of light appeared to come from one of the objects.  They hovered for about six minutes.  The beam only lasted about one minute.Shortly thereafter what appeared to be possibly three aircraft approaching them.  The objects almost instantly disappeared.((FOLLOW-UP INVESTIGATION BY MUFON/OHIO))100 Date: 12/8/02110 Time: 21:00130 Sighting City: Vienna140 Sighting State: oh190 Description: This case was deemed a possible hoax. The claimants/witneses could not be reached.Investgated by Rick Dell'Aquilla -Assistant State Director for Ohio MUFONGeorge Pindroh -  UFO investigatorChuck Eppolito - UFO investigatorEmail addresses are:Rick Dell'Aquilla - rdell@nccw.netGeorge Pindroh - pindroh@en.comChuck Eppolito - e-mail address unknownCase submitted to NUFORC by Donnie Blessing - State Section Director Ohio MUFONe-mail- Rdonolin@cs.com((NUFORC Note:  We express our gratitude to the MUFON investigator, Rich Dell"Aquilla, ASD for MUFON/OH, and to Donnie Blessing, SSD, and William Jones, SD for MUFON/OH, plus the other investigators listed above, for following up on this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26594.html](http://www.nuforc.org/webreports/reports/026/S26594.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>In the air flying very low 20 feet above tree line. No sound at all. Moving from north to south. looked like a flat dark hangglyder type shape. Saw it for about 4-5 seconds. Saw it in my neighborhood in Washington DC. Friendship Hights area. on harrison st. nw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41043.html](http://www.nuforc.org/webreports/reports/041/S41043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
