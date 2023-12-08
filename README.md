@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Surfside Beach (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Orange lights with many strobes over ocean in Surfside.December 8th from the porch of our beachhouse, our first sighting occurred at about 7:30 PM just below and to the right of the belt of the constellation Orion, probably about 20 degrees above the horizon.  There were three orange lights aligned horizontally with a fourth light directly beneath the middle light. These lights seemed spherical, and larger than Mars, which is visible. They appeared for 1-2 seconds, flashed two or three more times, and  there was haze around them.  Then small blinking white strobes were visible in a large surrounding vicinity. I initially thought that these were multiple tiny aircraft, but it became evident that no small aircraft could follow such erratic courses. It was obvious that a few grouped together, flew off to the right, and then returned. About this time i called for my daughter to come look, because she said she had seen an orange light driving home one night.  We observed a plane liftoff over the ocean from the local airport, heading North, and a few moments after it turned, the lights reappeared, but with different formations. The first to appear was a line of approximately 3 orange lights, which quickly faded, giving way to a similar shape which immediately appeared about 5 degrees below and to the left, and soon accompanied by another similar construction of lights. After these faded away, there were about five or six strobes visible to the naked eye. They had no obvious destination or pattern until some began to closely group together and gravitate towards the center of Orion. At first I thought they were afterburners, then maybe engines that had caught on fire, but realized that the configuration was wrong.  The tiny strobes made me think that it might be a prank, and that the strobes were small aircraft until we noticed the erratic pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41037.html](http://www.nuforc.org/webreports/reports/041/S41037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Explainable red lights in the skyDate of sighting:12/08/12 Place: Spokane Valley, WA Time: 8:45 PM Conditions: Cold,Clear night  My husband came home, he had just gone down to the store telling us all we "had to come outside quick we just had to see this"   We all went out our back door. I saw six red lights hovering in a triangle formation but by the time I got down to the end of our pool there were only three lights in a half moon formation.  It looked like they were moving but still hovering too.  My son did pull out his cell phone and video the three lights and you can see it on the phone but it was hard to see on the computer. Then the three lights one by one just disappeared and no sound at all. They were Just gone.  It was hard to explain what it was but we all saw the same thing at the same time.((NUFORC Note:  Our understanding is that the sighting occurred on Saturday night, December 08, 2012, at approximately 20:45 hrs. (PST).  We have amended the date for the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95095.html](http://www.nuforc.org/webreports/reports/095/S95095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
