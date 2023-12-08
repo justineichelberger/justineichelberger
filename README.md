@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fluoresent green teardrop fireball falling to earthlarger traveling north to west at a 45 degree estimated angle. It looked like it was crashing because I know how they can maneuver.   I see ufo’s all the time disappearing and reappearing in different locations in all spectrums of colors but this was different this was so close.  I’ve seen meteor showers they are bluish to bluish white and large.  Shooting stars (meteorites) are distant smaller this was not a normal It was a flaming fluorescent green fireball teardrop shaped about the length  of an average full moon or larger and thick width wise with no sound absolutly silent.  I wanted to be an astronomer  all my spare time goes into exploring my little area of sky  I know what is normal and what isn’t.  if you want to talk you know my number  North carolinia</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85752.html](http://www.nuforc.org/webreports/reports/085/S85752.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Today we experienced a snow in and we are currently sitting inside with candles due to a power outage.  My family and I have seen about 4 blue lights flash over the sky within the past 35 mintues or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137623.html](http://www.nuforc.org/webreports/reports/137/S137623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
