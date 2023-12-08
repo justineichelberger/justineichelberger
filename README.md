@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>More strange lights and even smells over cannock chase.i went downstairs at 3am to get a drink when i had a sudden feeling we were about to have a power cut (outage).  Within one minute of getting upstairs all the lights went out.  i went back downstairs to check the fuse box but the fuse were all on.2 days later a friend text me and said he saw a ufo the other night, i told him to come round and explain.  He said he woke around 3am and through a small gap in his curtains he could see a strange white light in the sky totally stationary one minute, moving up, down, left, right the next.  He said he watched it for an hour and it was definitely no airplane, helicopter or star.  The next day he told his nan who took him quite seriously.  The next day she showed him the local newspaper,  The Burntwood Post, and it had an article about sightings of a ufo by 3 different people.  He said there was an artists impression of 3 lights but my friend only saw 1.  Another person to see it was a lady woken in her sleep by an intense smell.  She looked out the window and saw a light in the sky.  As her husband was downstairs she went down to find him looking out the window also.This happened near pye green, staffordshire. I believe there have already been sightings near Pottle or Pottal Pool Road, Cannock Chase. Midlands((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48239.html](http://www.nuforc.org/webreports/reports/048/S48239.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Artesia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Cerritos/Artesia 1980 silent black disc with firey rim observed at duskI was riding in the backseat of a friend’s vehicle (2 in front, 3 in the rear) traveling north on Pioneer Blvd, specifically to go to McDonald’s. We turned west onto the small street on the south side of the McDonald’s. I recall, very vividly, the object was  a matte black disc with small orange ‘flames’ around its edge, coming from the west, from say Lakewood or Long Beach (one would expect to see the Lakewood Sheriff station’s helicopter on a similar path) with silence. It was around late dusk and I recall remembering the event later and the fact that we seemed to have returned to my friend’s home minus any McDonald's food, no need to discuss the object, and hearing about John Lennon’s murder that evening , which helped me date the event. I make no abduction claims at all, just the sighting, but feel a distinct loss of time from the moment the object was passing over and being back in the TV den at my friend’s house. The street and parking lot, hence the restaurant, was busy when the sighting occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66049.html](http://www.nuforc.org/webreports/reports/066/S66049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
