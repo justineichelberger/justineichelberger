@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:57 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:53 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wildomar (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Red light traveling fastAfter picking up my children from the sitters we were traveling home and I spotted a red light traveling at a very fast speed across the sky from the right side to the left.  I screamed out look kids!!  And of course there reaction was (Rudolf)  Not until it completely disappeared a few seconds later did it really freak me out.  No way it was a plane the sky was clear and no obstructions in the way.  There was an airplane right behind it with its light flashing and no where near the speed of this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105178.html](http://www.nuforc.org/webreports/reports/105/S105178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>In the air flying very low 20 feet above tree line. No sound at all. Moving from north to south. looked like a flat dark hangglyder type shape. Saw it for about 4-5 seconds. Saw it in my neighborhood in Washington DC. Friendship Hights area. on harrison st. nw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41043.html](http://www.nuforc.org/webreports/reports/041/S41043.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
