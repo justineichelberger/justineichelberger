@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:54 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:56 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lincoln (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Purple/pink disk shape moving around the skyPink and purple changing light in the sky seeming to change shape.  Formed a near perfect disk shape and a persistant purplish color seeming to dance around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144013.html](http://www.nuforc.org/webreports/reports/144/S144013.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in St. Ann (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>While traveling west on St. Charles Rock Road, I saw what looked like a ball of fire fly across the sky.  It seemed to be low to the ground, not like a falling star.  It was so low as we drove by the homes I looked to see if there was a fire in someones backyard.  I yelled to my two daughters and their friend.  "What was that?"  They looked around on the street and said "What?"  I said, "In the sky".  But it was gone.  While watching ksdk news tonite at l0:00 pm the weatherman said a lady called and said she saw a ball of fire in the sky, then he proceeded to talk about a meteor shower we are expecting to  have later tonight.  I don't have any idea what it was.((NUFORC Note:  Possible meteor??PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53880.html](http://www.nuforc.org/webreports/reports/053/S53880.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
