@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Greenwood Lake (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 lights moving very fast from east to west. First 2 lights merged then moved out of sight.I live approx. 60 miles west of NYC. Noticed 3 lights moving from east to west in a triangular formation. They seems to move too fast for aircraft.  Suddenly the second light excelerated moving into the leading light then out of my field of vision.  The third light followed out of my field of vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41034.html](http://www.nuforc.org/webreports/reports/041/S41034.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Columbia (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>bright meteorSaw a spectacular meteor while waiting at the Worley intersection, facing north on Stadium Blvd.  I saw a flash in the sky, through my windshield, which caused me look out the drivers side window.  I witnesed what looked like a meteor, with a "spark trail" traveling west somewhere north of Interstate 70.  This is a very busy and bright area of town with several shopping centers, so the light had to be intense to see this object.  I did look down at the clock, to check the time, after this occured. Was not going to report because I'm certain that it was a meteor.  Decided to report when I saw the recent updates from Ottawa, IL and Pittsburg & St. Ann, MO from the same day/time describing this event.  To give some perspective of the size/intensity, the witness in Pittsburg, MO would have been approx. 90 miles SSW of my sighting.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54055.html](http://www.nuforc.org/webreports/reports/054/S54055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
