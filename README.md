@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:53 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Washington, D.C. (DC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>In the air flying very low 20 feet above tree line. No sound at all. Moving from north to south. looked like a flat dark hangglyder type shape. Saw it for about 4-5 seconds. Saw it in my neighborhood in Washington DC. Friendship Hights area. on harrison st. nw.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41043.html](http://www.nuforc.org/webreports/reports/041/S41043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two large red/oraange lights travel across Raleigh skyMy husband saw two lights heading on a straight course above our neighborhood.  He called me outside and I saw two large red lights, one following the other, for about 3 minutes until one vanished.   The other lingered a minute longer until it too faded out. We saw the second light flicker very lightly just a few times until they were no longer visible.They did not completely cross the sky.  We could have watched them go even further but they disappeared before then.  We heard neighbors outside and one said, ‘What the hell is that?’  so we knew we were not the only ones who saw this.The lights did not blink and were extremely red/orange in color and quite large.  The lights were constant the entire time.  I have never seen anything like this and am continually checking the local news to see if others caught it.  The sky is extremely clear with only a few sparse clouds.Being a skeptic I couldn’t help but think it was a plane of some sort until we saw commercial planes fly by and it was extremely obvious these were not commercial planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95078.html](http://www.nuforc.org/webreports/reports/095/S95078.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
