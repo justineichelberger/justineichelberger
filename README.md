@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:57 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jerseyville (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Near perfect triangle 3 solid huge lights.I was driving home from work.  I seen a fast moving large shape in the sky. it was traveling west.  It went almost perfectly over me and another car that stopped to see what was in the sky.  I have seen this thing before, i know it was not Military.  this ship was massive much larger than any aircraft.  it was moving very very fast.  It went from my left to my right in a matter of seconds.  out of sight heading west and looked like it was leaving earth.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131667.html](http://www.nuforc.org/webreports/reports/131/S131667.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wildomar (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>Red light traveling fastAfter picking up my children from the sitters we were traveling home and I spotted a red light traveling at a very fast speed across the sky from the right side to the left.  I screamed out look kids!!  And of course there reaction was (Rudolf)  Not until it completely disappeared a few seconds later did it really freak me out.  No way it was a plane the sky was clear and no obstructions in the way.  There was an airplane right behind it with its light flashing and no where near the speed of this object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105178.html](http://www.nuforc.org/webreports/reports/105/S105178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
