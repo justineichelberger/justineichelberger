@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Clair (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Multiple colerd light on more than one occasion.Been seeing a multi light object in the southern sky almost every night for the past week. Light is moving at a slow speed, but has vertical and horizontal "dips," while still traveling SSW.Object was first dismissed as ISS but apon research and ISS locations have ruled this out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131665.html](http://www.nuforc.org/webreports/reports/131/S131665.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pittsboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light with irregular flight pattern and speed.Light, comparable to a commercial jets headlights when they are flying towards you to the northwest of my location, 10-15 degrees above the horizon.  Stood still for about 1 minute, then began heading right, stopped, went up and did a circle vertical to the ground. Went right about 15 degrees, instantly went back to the left and disappeared, speed was about twice as fast as you would see a jet flying over at high altitude, kept same light brightness, looked at it through a rifle scope and could only see a light, not sure about distance but I was in an 80 acre field in the rural country and seemed to be very far off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124610.html](http://www.nuforc.org/webreports/reports/124/S124610.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
