@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Pittsboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright light with irregular flight pattern and speed.Light, comparable to a commercial jets headlights when they are flying towards you to the northwest of my location, 10-15 degrees above the horizon.  Stood still for about 1 minute, then began heading right, stopped, went up and did a circle vertical to the ground. Went right about 15 degrees, instantly went back to the left and disappeared, speed was about twice as fast as you would see a jet flying over at high altitude, kept same light brightness, looked at it through a rifle scope and could only see a light, not sure about distance but I was in an 80 acre field in the rural country and seemed to be very far off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124610.html](http://www.nuforc.org/webreports/reports/124/S124610.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Military training site (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three lights near our training sight.Three of us were on ECP guard duty, our shift was from 1600-2330.  Around approx 2100 we saw one light appear then another then one more.  In a line formation like this . . . they were white with a red tint.  The three of us were in a gun truck.  One guy up on the gun, one passenger and I was in the drivers seat.  I tried getting a picture but it just wouldn't take very good.  Unlike my two buddy's used NVG's (night vision goggles) just a regular picture did no justice.  So I got out to get a better view for a picture and no more than 20 seconds they all vanished.  They never moved not once.  Aircraft flew right through our line of sight and they were just there.  East of our position.   While west of us a artillery company was training as well and shot up multiple flares, we used to compare like most military explanations!  "These were not flares"!  And the best part is south of our guard station is our CP where our CO & 1st sgt witnessed them as well.  From a slightly different angle.  Word got out and my CO asked for me to come by asking me what I saw, so I told him and that's when he said they say the same lights.  Where we were, there is a lot of missile testing.  I believe our presence and the artillery going off drew these ufos attention.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116486.html](http://www.nuforc.org/webreports/reports/116/S116486.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
