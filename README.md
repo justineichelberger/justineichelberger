@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Spokane Valley (WA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Explainable red lights in the skyDate of sighting:12/08/12 Place: Spokane Valley, WA Time: 8:45 PM Conditions: Cold,Clear night  My husband came home, he had just gone down to the store telling us all we "had to come outside quick we just had to see this"   We all went out our back door. I saw six red lights hovering in a triangle formation but by the time I got down to the end of our pool there were only three lights in a half moon formation.  It looked like they were moving but still hovering too.  My son did pull out his cell phone and video the three lights and you can see it on the phone but it was hard to see on the computer. Then the three lights one by one just disappeared and no sound at all. They were Just gone.  It was hard to explain what it was but we all saw the same thing at the same time.((NUFORC Note:  Our understanding is that the sighting occurred on Saturday night, December 08, 2012, at approximately 20:45 hrs. (PST).  We have amended the date for the report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95095.html](http://www.nuforc.org/webreports/reports/095/S95095.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Greenwood Lake (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>3 lights moving very fast from east to west. First 2 lights merged then moved out of sight.I live approx. 60 miles west of NYC. Noticed 3 lights moving from east to west in a triangular formation. They seems to move too fast for aircraft.  Suddenly the second light excelerated moving into the leading light then out of my field of vision.  The third light followed out of my field of vision.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41034.html](http://www.nuforc.org/webreports/reports/041/S41034.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
