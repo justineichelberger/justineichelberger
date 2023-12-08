@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1980, an anonymous witness in Artesia (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately unsure - unsure minutes.</sub><blockquote><sub>Cerritos/Artesia 1980 silent black disc with firey rim observed at duskI was riding in the backseat of a friend’s vehicle (2 in front, 3 in the rear) traveling north on Pioneer Blvd, specifically to go to McDonald’s. We turned west onto the small street on the south side of the McDonald’s. I recall, very vividly, the object was  a matte black disc with small orange ‘flames’ around its edge, coming from the west, from say Lakewood or Long Beach (one would expect to see the Lakewood Sheriff station’s helicopter on a similar path) with silence. It was around late dusk and I recall remembering the event later and the fact that we seemed to have returned to my friend’s home minus any McDonald's food, no need to discuss the object, and hearing about John Lennon’s murder that evening , which helped me date the event. I make no abduction claims at all, just the sighting, but feel a distinct loss of time from the moment the object was passing over and being back in the TV den at my friend’s house. The street and parking lot, hence the restaurant, was busy when the sighting occurred.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66049.html](http://www.nuforc.org/webreports/reports/066/S66049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Vienna (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Vienna, OhioI was driving through Vienna, Ohio when I spotted two somewhat cigar shaped objects hovering in the East.  A beam of light appeared to come from one of the objects.  They hovered for about six minutes.  The beam only lasted about one minute.Shortly thereafter what appeared to be possibly three aircraft approaching them.  The objects almost instantly disappeared.((FOLLOW-UP INVESTIGATION BY MUFON/OHIO))100 Date: 12/8/02110 Time: 21:00130 Sighting City: Vienna140 Sighting State: oh190 Description: This case was deemed a possible hoax. The claimants/witneses could not be reached.Investgated by Rick Dell'Aquilla -Assistant State Director for Ohio MUFONGeorge Pindroh -  UFO investigatorChuck Eppolito - UFO investigatorEmail addresses are:Rick Dell'Aquilla - rdell@nccw.netGeorge Pindroh - pindroh@en.comChuck Eppolito - e-mail address unknownCase submitted to NUFORC by Donnie Blessing - State Section Director Ohio MUFONe-mail- Rdonolin@cs.com((NUFORC Note:  We express our gratitude to the MUFON investigator, Rich Dell"Aquilla, ASD for MUFON/OH, and to Donnie Blessing, SSD, and William Jones, SD for MUFON/OH, plus the other investigators listed above, for following up on this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26594.html](http://www.nuforc.org/webreports/reports/026/S26594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
