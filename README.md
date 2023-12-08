@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Two large red/oraange lights travel across Raleigh skyMy husband saw two lights heading on a straight course above our neighborhood.  He called me outside and I saw two large red lights, one following the other, for about 3 minutes until one vanished.   The other lingered a minute longer until it too faded out. We saw the second light flicker very lightly just a few times until they were no longer visible.They did not completely cross the sky.  We could have watched them go even further but they disappeared before then.  We heard neighbors outside and one said, ‘What the hell is that?’  so we knew we were not the only ones who saw this.The lights did not blink and were extremely red/orange in color and quite large.  The lights were constant the entire time.  I have never seen anything like this and am continually checking the local news to see if others caught it.  The sky is extremely clear with only a few sparse clouds.Being a skeptic I couldn’t help but think it was a plane of some sort until we saw commercial planes fly by and it was extremely obvious these were not commercial planes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95078.html](http://www.nuforc.org/webreports/reports/095/S95078.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Birmingham (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>More strange lights and even smells over cannock chase.i went downstairs at 3am to get a drink when i had a sudden feeling we were about to have a power cut (outage).  Within one minute of getting upstairs all the lights went out.  i went back downstairs to check the fuse box but the fuse were all on.2 days later a friend text me and said he saw a ufo the other night, i told him to come round and explain.  He said he woke around 3am and through a small gap in his curtains he could see a strange white light in the sky totally stationary one minute, moving up, down, left, right the next.  He said he watched it for an hour and it was definitely no airplane, helicopter or star.  The next day he told his nan who took him quite seriously.  The next day she showed him the local newspaper,  The Burntwood Post, and it had an article about sightings of a ufo by 3 different people.  He said there was an artists impression of 3 lights but my friend only saw 1.  Another person to see it was a lady woken in her sleep by an intense smell.  She looked out the window and saw a light in the sky.  As her husband was downstairs she went down to find him looking out the window also.This happened near pye green, staffordshire. I believe there have already been sightings near Pottle or Pottal Pool Road, Cannock Chase. Midlands((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48239.html](http://www.nuforc.org/webreports/reports/048/S48239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
