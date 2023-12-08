@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:54 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Millersburg (MO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>On the date shown, two search lights from an aircraft seen a few times before since 1995 were observed from the aircraft which was at an unusually low altitude that night.At about 7:30 PM on or about Dec 8, 1999 I observed two very bright search lights which appeared to be a mile or so away towards the east.  At first I thought they were from two police helicopters which were tracking the movements of a fugitive; i witnessed this in Kansas City once.  The lights certainly appeared to hover but it was obvious a few seconds later that the lights were from an aircraft which was moving westward with a slight movement to the north.  The object appeared to be a large jet liner on a final approach but that was impossible because the nearest airport here is to the southwest.  The aircraft was, in fact, moving roughly parallel to I-70.  All that I could really see was that when the aircraft was nearly on top of me it had a row of lights, 8 or 12 in all, which formed a shallow "V", with the point of the "V" aimed in the direction of flight.  It made no sound until almost overhead, then a muffled sound of a jet engine.  Once the aircraft had passed, the jet engines were silent, but it was not the sound of a shutdown, but sort of a fast fadeout.  Its speed was about the same as propeller aircraft (200 mph).  Since I have seen and heard this aircraft before I have assumed that it is based at Whiteman Airforce Base. In light of two news items in local papers I have decided to report what I recently saw and heard, as accurately and concisely as I can.  The delta shape reported by some, including a friend who saw one of these close to Whiteman, near sundown, where he was working reminds me of the shape of the B-2 bomber, though the B-2 is delta shaped only on its leading edge,  however I speculate that for such an aircraft to fly at low speed, which Jane's reports that it can, there must be extra flaps which are necessary to improve on the aircraft's lift, flaps which have never been shown to the general public.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11440.html](http://www.nuforc.org/webreports/reports/011/S11440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Lincoln (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Purple/pink disk shape moving around the skyPink and purple changing light in the sky seeming to change shape.  Formed a near perfect disk shape and a persistant purplish color seeming to dance around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144013.html](http://www.nuforc.org/webreports/reports/144/S144013.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
