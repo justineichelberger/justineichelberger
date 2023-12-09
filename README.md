@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:38 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lumberton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red lights across the skyI am making this report now because my mom just made her report and insist that I describe my experience as well..I have to admit I am a skeptic, but what I did see that night makes me scratch my head.  We had just came home from picking up my cousins and my mom loves UFO's she always looks in the sky, and next I heard her saying, "Look!!  Look up!! and this is what I seen--100's of red lights in clusters or little groups but many groups slowly pulsating and hovering.  At first I thought this has to be some drone convention or drone practicing a routine but the longer I watched the more intrigued I became and knew this was not drones.  Me and my cousin happen to look south and see two lights bolt across the sky, we screamed at the sight, and caused everyone to look our way but it was gone by then.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138937.html](http://www.nuforc.org/webreports/reports/138/S138937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Myself and sons were driving down I-5 south, from Redding to Anderson, when I noticed a larger than normal chem trail close to the direction of the sun it was about noon I was telling my kids look at that crazy light today was pretty bright so I just assumed it was the reflection off the sun I watched it myself for about ten second the kids a little less, but it was the brightest thing I ever seen it was circle shape as I approached an over pass that we went under  mind you the speed limit is 70 mph we went under came out it was gone it disappeared in Couple seconds.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite serious, and very sober-minded in his description of what he and two of his children had seen.  The time of noon on Saturday, December 09th, is correct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137635.html](http://www.nuforc.org/webreports/reports/137/S137635.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
