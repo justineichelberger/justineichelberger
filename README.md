@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:40 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:42 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Charlottesville (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>alien acrobat, or new government plane?  you tell me.At about 10 pm I and my family witnessed a fast moving light in the western sky maneuvering at a high rate of speed, exceeding known limitations of aircraft.  It remained in the same vicinity for at least 2 hours.  If this was not a new space plane of some sort,  It must be alien.  It performed right angle turns at impossible rates of speed.  Too cold outside, did not see it leave.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79200.html](http://www.nuforc.org/webreports/reports/079/S79200.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I saw this only the next day as I was looking at the photos I took with my IPhone SE 2020. It must be a glitch in the camera. Could a satellite show up this way?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161133.html](http://www.nuforc.org/webreports/reports/161/S161133.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
