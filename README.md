@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:53 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in North Brevard (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Lights over snow bankI stepped out to see the snowstorm in North Brevard, NC.  There was a white light to the night, almost as if a full moon.  When the trees started swaying, a blue light and a gold-not-yellow light up overhead seemed to be up over the cloud bank, as if behind a scrim.  The gold seemed to move, as if a tinder to a yacht.I went back inside and the lights flickered back on.  There is no transformer over head.  There was no foreboding until the wind started.A Cherokee-descended acquaintance immediately posted from 30 miles away the story of the Anjikuni Lake in 1930 and has been posting about us never knowing when we’ll be called to move.  I live close to PARI.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144033.html](http://www.nuforc.org/webreports/reports/144/S144033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Walpole Island (Canada) (ON) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Giant black triangle at helicopter height flies directly overhead us.At night,I went to town and drove the back way home.  When I turned east at my road, I seen a big yellow light in the sky about helicopter height.  I drove the few houses and quickly reached my house watching this stationary yellow light.When I got out of the van, the light was moving but now I could see the under lights on it.  I went to the door and told my sister to come watch this big plane.It glided in a straight light now moving south like it was going straight over my neighbour's house.  It wasn't a plane.  It was a giant black triangle with high sides and lights underneath it.  The gold light was still there but didn't look as large as before.  The gold light was at the front of the thing.Suddenly it turned and neatly swerved and quickly right overhead of me and my sister.  That was unnerving.  I didn't watch it when it went directly overhead.My sister watched it move directly overhead.  I was too scared to.  Because at first, I thought it was going to crash as it was so low in the sky.  It didn't make sense what it was or why was that big thing over my neighbour's yard was now coming right over me.I turned and watched when it wasn't so directly overhead. But it was so big, it was still overhead us and moved slowly to the west.  I bet it moved to Selfridge Airport.  Military vehicle maybe.It was not high in the sky at all. It was high as a helicopter only.  It was a giant black triangle.  It had bottom lights - red lights on one side and green lights on the other and some white lights. That gold light seemed to be on the front. It was this gold light that didn't have a beam but when I first seen it, but the light seemed to project somewhat.I watched it leave but not really.  It seemed to disappear into the light fog or mist that was happening over the last few days.It was completely silent until it maneuvered overhead us.  It made a big loud engine noise for at least several seconds and then it went back to quiet again.I heard that same noise in the sky a few weeks ago.  I went running out of my house then to see what would make that noise but I couldn't see it.I'm going to go out tonight at the same time and see if I can see it again, and I have camera ready this time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124613.html](http://www.nuforc.org/webreports/reports/124/S124613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
