@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving home on the freeway going north and i looked out the drivers side window and i saw a bright red light over down town Reno.At first i thought it was an air traffic light but i noticed it was not blinking.I put my arm out and pointed up to the light so other people would look.I took the first exit off the feeway and parked so i could watch it.It stayed in one place and then just faded away.Later that night ,i heard about it on the Art Bell show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05429.html](http://www.nuforc.org/webreports/reports/005/S05429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Dixon (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Object entering atmosphere, moving lights.I was looking out the commuter bus window (east bound) as it was approaching my exit.Traveling parallel to the bus on my left was what looked like a bright light with a tail, more like a comet. After a few seconds the objects tall start changing, getting shorter, like a rocket that is losing a stage. I thought maybe it was a meteor entering the atmosphere. The object now lost it's tail and now looked like a star, still traveling east at about the same speed.As the bus made it's exit off the freeway and veered right, I lost sight of it. The bus came to a stop sign, turned left toward town. I looked out the window and now saw a different object.In the same area in the sky but much closer was a oval group of lights on what must have been a flying object, moving to the left, then right, rather fast, then up and then back again. This didn't last long, the bus continued into town and turned toward my stop. The view was hidden now by buildings and trees. As I got off the bus, I looked for the object but it was gone.No one else seemed to notice anything but me. Sometimes I see lights or images in the bus window due to reflection but this was not the case. I'm not sure both objects were of the same source, but this happened within minutes of each other. Also, it was just about sunset and the sky was starting to get dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79196.html](http://www.nuforc.org/webreports/reports/079/S79196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
