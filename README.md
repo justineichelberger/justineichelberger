@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:39 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:42 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ohkay Owingeh (San Juan) (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Flashing Fleet of Fifteen Flying Objects.I was traveling south near San Juan Pueblo and noticed a fleet of about 15 flashing objects/aircraft flying in a scattered formation headed West toward San Lorenzo/ Los Alamos.  They were flying high and fast, but with unusual presence and motion.  I stopped and to record the aircrafts and have the recording.  They seemed to be about the size of a large drone.  All we're flashing O/I and flying in the same direction.  I noticed other vehicles pulling over as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137683.html](http://www.nuforc.org/webreports/reports/137/S137683.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Carlsbad (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>We saw two very fast-moving objects take off.I was walking up my front sidewalk when I looked towards the east at the moon.  I was struck by the fact that there seemed to be 4 stars lined up in a straight row above the moon.  I waited for my husband to put down what he was carrying to tell him to look at the stars. Just as I pointed them out to him, the two "stars" to the south suddenly started moving!  They accelerated very rapidly and disappeared within just a couple of seconds.  They did not fade out or anything, they just started moving and then disappeared.  My husband and I both saw it very clearly. They were moving way too fast to be any kind of aircraft I know of. There was no sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15406.html](http://www.nuforc.org/webreports/reports/015/S15406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
