@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Desoto (MO) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw a line of lights, about 20 of them, in a perfectly straight line, alternating flashing, and it was moving very slow at a diagonal angle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137666.html](http://www.nuforc.org/webreports/reports/137/S137666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Lumberton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red lights across the skyI am making this report now because my mom just made her report and insist that I describe my experience as well..I have to admit I am a skeptic, but what I did see that night makes me scratch my head.  We had just came home from picking up my cousins and my mom loves UFO's she always looks in the sky, and next I heard her saying, "Look!!  Look up!! and this is what I seen--100's of red lights in clusters or little groups but many groups slowly pulsating and hovering.  At first I thought this has to be some drone convention or drone practicing a routine but the longer I watched the more intrigued I became and knew this was not drones.  Me and my cousin happen to look south and see two lights bolt across the sky, we screamed at the sight, and caused everyone to look our way but it was gone by then.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138937.html](http://www.nuforc.org/webreports/reports/138/S138937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
