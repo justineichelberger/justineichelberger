@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:42 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Golden (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>I saw this only the next day as I was looking at the photos I took with my IPhone SE 2020. It must be a glitch in the camera. Could a satellite show up this way?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161133.html](http://www.nuforc.org/webreports/reports/161/S161133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was driving home on the freeway going north and i looked out the drivers side window and i saw a bright red light over down town Reno.At first i thought it was an air traffic light but i noticed it was not blinking.I put my arm out and pointed up to the light so other people would look.I took the first exit off the feeway and parked so i could watch it.It stayed in one place and then just faded away.Later that night ,i heard about it on the Art Bell show.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05429.html](http://www.nuforc.org/webreports/reports/005/S05429.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
