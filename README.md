@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dayville (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I first saw a steady string of lights traveling in a straight line west to east evenly spaced at first then several followed some distance apart. Appeared like satellites but was able to view them for a much longer time and slightly larger then most satellites I have viewed in the past and they did not have that tumbling appearance.  They appeared to be circular and they emitted an steady reflective type light.  This was seen by my wife and daughter. Was surprised to see other reports of similar viewings when I typed in "string of lights across night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151434.html](http://www.nuforc.org/webreports/reports/151/S151434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Newport (ME) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Sighted a disk/saucer shaped craft with rotating lights at 4:30 heading to Newport.My mother and I were traveling in a car towards Newport at 4:30 PM, when a moving light caught my notice.  My mother was only able to take a short look at the object as she was driving the car at the time.  I watched it for ten minutes, searching over possible explanations for the strange object.  It lacked the consistent blinking and red and green light color common to planes.  The altitude at which the object maneuvered, I would estimate, was like that of a plane (39,000 feet), possibly lower.  The object moved fairly quickly and was lit by white/yellow light which appeared to rotate.  I lost sight of the object when it moved behind a large cloud and apparently disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131694.html](http://www.nuforc.org/webreports/reports/131/S131694.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
