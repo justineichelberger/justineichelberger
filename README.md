@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 8 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sharpsville (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>TWO UFOS OBSERVEDI was driving on the Charleston Road with my friend when I saw two definite aircraft hovering in the West.  It appeared a beam of light eminated from one of the objects.  They disappeared after the beam ceased.((FOLLOW-UP CORRESPONDENCE FROM MUFON INVESTIGATORS))100 Date: 12/8/02110 Time: 19:45130 Sighting City: Sharpsville140 Sighting State: pa190 Description: This case was deemed a possible hoax when claimants/witnesses could not be reached.Investgated by Rick Dell'Aquilla - Assistant State Director for Ohio MUFONGeorge Pindroh -  UFO investgatorChuck Eppolito - UFO investgatorE-mail addresses: Dell'Aquilla - rdell@nccw.netGeroge Pindroh- pindroh@en.comChuck Eppolito - e-mail address unknownReports submitted to NUFORC by Donnie Blessing - State Section Director Ohio MUFONE-mail Rdonolin@cs.com((NUFORC Note:  We express our gratitude to the MUFON investigator, Rich Dell"Aquilla, ASD for MUFON/OH, and to Donnie Blessing, SSD, and William Jones, SD for MUFON/OH, plus the other investigators listed above, for following up on this case.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26593.html](http://www.nuforc.org/webreports/reports/026/S26593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Phillipsburg (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>12 red flashing lights, traveling slowly, with a heading in SW KANSAS.On Dec. 8, 2017,  (sic.  Dec. 9th) my husband and myself witnessed a distinctive row of red lights traveling SW of Phillipsburg, KS.  They were lined up and flashing, moving at a slow rate of speed.Did not see any object just the lights there was at least a dozen red flashing lights no sounds of engines, just silence.Would love to know if anyone else has reported that sighting.((NUFORC Note:  We suspect that the time indicated by the witness is flawed, and we have attempted to contact her to confirm whether the sighting might have been during the evening.  In the meantime, we have amended the time above.  PD</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137680.html](http://www.nuforc.org/webreports/reports/137/S137680.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [247](http://www.nuforc.org/webreports/reports/165/S165770.html)
-- [246](http://www.nuforc.org/webreports/reports/165/S165768.html)
-- [245](http://www.nuforc.org/webreports/reports/165/S165805.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161916.html)
-- [243](http://www.nuforc.org/webreports/reports/161/S161091.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
