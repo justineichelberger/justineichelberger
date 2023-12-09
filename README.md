@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:01:05 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cisco Grove (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Object and lights forrest illuminationI'm a long haul truck driver. I got a short load that picked up in Tracy California and delivered in Sparks Nevada. Driving on interstate 80 eastbound at 2057 the sky was clear on Thursday December 9th 2021, I saw an object to my right which would be due south of Cisco Grove towards Monumental Ridge.It was 6 lights amber to milky white in color in the shape of the number 3 if you were to turn the number 3 clockwise a little and have it look like an odd W.The lights were peculiar in that they were reaching towards the tops of the trees but the lights never touched the tops of the trees nor did they illuminate them even though the object and lights were only about 50 feet above the trees.I saw this object and lights for all of 7 to 9 seconds then the object and lights both slowly faded out once they did a cherry kool-aid or stop light color light brightly lit the forrest floor the trees were dark but behind the trees it was brightly lit,an intense red colored light.I was still driving and could not see that side of the mountain anymore so I have no idea how long the red light lasted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165806.html](http://www.nuforc.org/webreports/reports/165/S165806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Whitmire (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There was 3 red lights in the sky low above the trees in the distance.  The lights were in a line, one behind the other, spaced out a little from one another,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137633.html](http://www.nuforc.org/webreports/reports/137/S137633.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
