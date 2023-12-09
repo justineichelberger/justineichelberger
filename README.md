@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fredericksburg (VA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Observed what appeared to be a hovering craft when i went outside to smoke.  Intially the lights were bright read and what appeared to be flashing white light to the right of it.  Once outside the lights went from red to green then stayed that way for a minute.  Initial thoughts were a hovering helicopter.  Suddenly the lights went back to red then it moved very fast to the left and down, disappearing out of sight.  The fast and curvy flight path downwards is something not commonly seen in helicopters or airplanes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131690.html](http://www.nuforc.org/webreports/reports/131/S131690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dayville (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I first saw a steady string of lights traveling in a straight line west to east evenly spaced at first then several followed some distance apart. Appeared like satellites but was able to view them for a much longer time and slightly larger then most satellites I have viewed in the past and they did not have that tumbling appearance.  They appeared to be circular and they emitted an steady reflective type light.  This was seen by my wife and daughter. Was surprised to see other reports of similar viewings when I typed in "string of lights across night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151434.html](http://www.nuforc.org/webreports/reports/151/S151434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
