@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wexford (Republic of Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>??looking through my telescope and a orange circle appereared into my view it was moving very fast from south to north i was not able to see it with the naked eye when i lost track of it with my telescope</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21019.html](http://www.nuforc.org/webreports/reports/021/S21019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lyle (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately millisecond - millisecond minutes.</sub><blockquote><sub>Incredible...full moon sized bright orange fireball in the North sky near Mt.Adams..fell straight down and exploded..2 small fire-balls flew off of it .I was certain it was a plane crash and pulled off of the road(I was driving a hay-truck).The object left a greenish haze in the sky for minutes after the explosion ! I called Goldendale Observatory and reported to them . Has anyone else reported a similar siting ??STUNNING!I was driving with my husband ,Dr.Rob Schwartz and my 9 year old son..we were picking up a load of alfalfa hay in Centerville (near Goldendale)I was looking at the night sky with my son...we were spacing out...when suddenly a HUGE fireball...bright orange..fell straight down out of the sky...we compared it in size to a full moon sized object...2 pieces of fire broke off of the top left of the object and everything vanished ,leaviung behind a greenish haze for minutes...I thought a jet had exploded...we pulled off to see if rescue helicopters or airplanes would fly in...nothing...I reported the siting of what I think/thought was a superb meteor to the Goldendale Observatory...whatever it was..it was extraordinary...I am on zero medication/s...had not had a drink ,have no medical conditions etc...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11358.html](http://www.nuforc.org/webreports/reports/011/S11358.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
