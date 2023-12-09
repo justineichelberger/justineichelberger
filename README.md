@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gloucester (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>glowing, fiery, hovering orb, lasting 30 minutes.glowing, orb-like fiery ball. hovered over Ipswich Bay in Massachusetts, about 3/4 the distance between Lane;s Cove and town of Newburyport. stayed motionless about 200 feet above ocean surface.  I EVEN USED A PAIN OR HIGH-POWERED NAUTICAL BINOCULARS TO LOOK AT IT. IT WAS ABSOLUTELY FLAMING COLR, LIKE SUN.  had perfect edges. could only be described as hovering orb.  hovered for third minutes.  moved slowly towards town of Ipswich.  vanished. never seen anything like this in all my years at sea in gloucester. I am an avid sunrise watcher and have spent years at sea and in nature. this was absolutely mysterious and frightening. witnessed by 4 people i know. all say the same thing. bright, shining, orb. pre-sunrise. 6AM to 630AM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95113.html](http://www.nuforc.org/webreports/reports/095/S95113.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Wexford (Republic of Ireland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>??looking through my telescope and a orange circle appereared into my view it was moving very fast from south to north i was not able to see it with the naked eye when i lost track of it with my telescope</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21019.html](http://www.nuforc.org/webreports/reports/021/S21019.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
