@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:30 on 9 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Myself and sons were driving down I-5 south, from Redding to Anderson, when I noticed a larger than normal chem trail close to the direction of the sun it was about noon I was telling my kids look at that crazy light today was pretty bright so I just assumed it was the reflection off the sun I watched it myself for about ten second the kids a little less, but it was the brightest thing I ever seen it was circle shape as I approached an over pass that we went under  mind you the speed limit is 70 mph we went under came out it was gone it disappeared in Couple seconds.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite serious, and very sober-minded in his description of what he and two of his children had seen.  The time of noon on Saturday, December 09th, is correct.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137635.html](http://www.nuforc.org/webreports/reports/137/S137635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gloucester (MA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>glowing, fiery, hovering orb, lasting 30 minutes.glowing, orb-like fiery ball. hovered over Ipswich Bay in Massachusetts, about 3/4 the distance between Lane;s Cove and town of Newburyport. stayed motionless about 200 feet above ocean surface.  I EVEN USED A PAIN OR HIGH-POWERED NAUTICAL BINOCULARS TO LOOK AT IT. IT WAS ABSOLUTELY FLAMING COLR, LIKE SUN.  had perfect edges. could only be described as hovering orb.  hovered for third minutes.  moved slowly towards town of Ipswich.  vanished. never seen anything like this in all my years at sea in gloucester. I am an avid sunrise watcher and have spent years at sea and in nature. this was absolutely mysterious and frightening. witnessed by 4 people i know. all say the same thing. bright, shining, orb. pre-sunrise. 6AM to 630AM</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95113.html](http://www.nuforc.org/webreports/reports/095/S95113.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [305](http://www.nuforc.org/webreports/reports/165/S165806.html)
-- [304](http://www.nuforc.org/webreports/reports/165/S165817.html)
-- [303](http://www.nuforc.org/webreports/reports/165/S165808.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165838.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165837.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
