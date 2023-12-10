@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:58 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Marked Tree (AR) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>black  chevron with at least 5 amber colored lights.On December 10, 2006 at approximately 8 p.m.,while riding in a church bus on HWY. 63 North, I spotted a bright light in the northwest.  At first I thought it was a star or planet, but then it was coming closer.  My husband, who was seated next to me, saw the bright light,also.  The light was now parallel to the highway. From my seat by the window, I could see the object; it was a black (or dark colored) chevron with at least 5 large amber-colored lights on the underside. The object looked to be rather large. With no lights on its wings like the conventional aircraft, I thought perhaps it was a military craft.  As far as my background, I work at a public school.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54004.html](http://www.nuforc.org/webreports/reports/054/S54004.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cook (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>Yellow orange sphere or glowLooking south east while traveling south on US 53. Mostly clear with few stars visible and a bright moon. Single orange glow object appears out of no where remaining stationary. 15 seconds later 2 more similar object appeared at same point then spread out in a formation for unknown amouunt of time then returned to original object. At this point the light remains for about 15 seconds and fades out. This is not fake. I am a legit businessman involved with community and serve in servers board of directors. I have never seen anything like this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151479.html](http://www.nuforc.org/webreports/reports/151/S151479.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
