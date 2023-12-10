@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:36 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bentonville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It looked like a very bright star.  Was stationary then moved across the sky slowly then completely disappearedI was walking upstairs when i saw a ridiculously bright star.  The more I looked the more i realized there is no way that could be a star.  It seemed like it was twinkling idk how to describe it but it was hard to focus on the object with my eyes.  I yelled for my sister to come look.  I had her watch it as i went to grab the telescope to get a better look and by the time i got back to her she said it disappeared and we couldn't relocate it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124623.html](http://www.nuforc.org/webreports/reports/124/S124623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange spheres over Mesa.Coming home from my daughter's school concert, I noticed two bright orange spheres south of my location  At first, my wife thought that the lights where airplanes, until an airplane passed right in front of them.At this point, we were stumped because the orange spherical lights where bigger than the airplane and a little further south.  We continued south towards the US 60 freeway and the lights were still there,  I got on the freeway heading west and was able to see the lights again however one more light had appeared to the right of one of the spheres making sort of a L shape, at that point I also noticed that they where around the same location as the Mesa Gateway international airport.We continued on to south loop 202 and around Guadalupe Rd the spheres starded to disappear into itself like if someone had pulled a string from the middle and vanished.I dont know what they where but i know they where not planes, and i have my family as witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115946.html](http://www.nuforc.org/webreports/reports/115/S115946.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
