@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:45 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Highland (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Bright object was seen that flew at an incredible speed and pulsed in and out of view unlike anything I have seen before.While looking at the International Space Station Fly directly overhead I saw a bright object that looked to be in pursuit of the Station; it flew past the station at incredible speed while pulsing and beaming off light before going dark. When ever it past the station it pulsed one last time and then disappeared. It pulsed about four times and this took place at 5:40 central time in the USA over Illinois.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151482.html](http://www.nuforc.org/webreports/reports/151/S151482.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in McCloud (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Huge flash of light and then 4 UFOs enter into our atmosphereAt approximately 7:20 pm my friend and I got into the hot tub to enjoy the cool evening before going in to eat dinner.  10 min later as we were both looking at the western sky I saw what appeared to be a huge flash of light in the sky - literally reminded me of a worm hole effect..When the light subsided (approximately 10 seconds or so) there were (4) UFOs that came in one right after the other..  Moving extremely fast they came in and were in a group - then one moved to the right and took up a position not far from a star..the other three moved to the left and spaced themselves evenly apart and also became motionless at that time.  They went from being very bright to almost fading out completely and then they would all start to come into brightness again.  A type of synchronized strobbing was taking place with these (4) unknowns.  We watched for approximately 1 hour.  3 disappeared altogether from our sight as they went behind the tall pines in front of us.  The 4th stayed in place not moving - just changing in brightness from time to time.  The interesting thing about this was that the 4th unknown moved with the night skyline.  If we had not seen these 4 unknowns come into our skyline from the flash of light, we would have thought that they were just stars after they took up positions.  Exciting to say the least... From our position we estimated that they were probably staged over the Pacific Ocean as the crow flys from us..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48383.html](http://www.nuforc.org/webreports/reports/048/S48383.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
