@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:41 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pittsboro (NC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Unexplained object moving SW to NE over North Carolina skies, tracked via refractor telescope/ computerized mountDecember 10, 2007 (written 2130 hrs) To whom it may concern,  I am an amateur astronomer and was observing here in my observatory at my home in Pittsboro, N.C., observing a double star in the constellation Delphinus.At approximately 1845, I spotted a green hue in the SW skies near the Messier object M15, approximately 45 degrees above the SW horizon.  It appeared to be a comet; I quickly slewed my telescope to the object, and viewed it at a magnification of 100X. The object was traveling at a high rate of speed, but much slower than a normal satellite when viewed through a telescope eyepiece field of view.The object contained what appeared to be a head and a tail (very much like Haley’s comet looked years ago through a pair of binoculars), and its magnitude was so bright that it was dominant in the sky.  There was also a point of light that moved with the object at the same speed, approximately one tenth of a degree from the “head” of the object.I tracked the object for approximately 45 minutes, the “tail” faded (almost appeared to dissipate over time), but the point of light near the haze remained in the eyepiece, it’s magnitude and position not changing over the period of time that it was tracked. The object passed very close to the star Schedar in the constellation Cassiopeia.  I stopped tracking the object as it passed through the constellation Cassiopeia at approximately 1935 hrs. The object continued to move in a NE direction at approximately 60 degrees above the northern horizon.The Telescope I was using to track the “object” was a Telescope Engineering Company (TEC) 200mm (8 inch) f/9 refractor, mounted on a Astro-Physics 1200gto computerized equatorial mount. The object was tracked by moving the Declination and Right ascension axis in a manual mode.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60271.html](http://www.nuforc.org/webreports/reports/060/S60271.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>I was outside after coming back from a dance.  It was between 2:45am and 3:00am.  I was outside because it was said that Mercury, Mars, and Jupiter were going to be so close together that the naked eye could see it.  So after searching the sky, I looked straight up and saw a falling star.  No more than 5 seconds later, an object moved across the sky, then dissapered.  It then immediately reappeared and disssapeared again.  The oject appeared pretty big, but made no noise.  I knew it was not a plane because a plane being that close would make alot of noise, but the object was quiet.  It was shaped like a triangle, but with one side carved in.  It was almost shaped like a stealth plane except this object had light around the edges of its sides.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53910.html](http://www.nuforc.org/webreports/reports/053/S53910.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
