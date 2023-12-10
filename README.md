@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Glowing cloud,like a comet over Northern Florida.Hello,I live in Northern Florida,and last night @ 6:30 pm,I was looking up for meteor activity and saw a what looked like part of a comet.It was slow moving out of the North West. It almost looked like a gaseous glowing cloud. There were no clouds early that evening on 12-10-07.Do you know anything about this?  Thanks,D((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60309.html](http://www.nuforc.org/webreports/reports/060/S60309.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Owatonna (MN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Object with multiple white lights flying east bound making a sharp southern turn then turning back west and finally turns south as it gained altitude and slowly lights faded beyond sight. This happened in roughly 1 minutes time. All turns were 90% with no stopping involved. Craft appeared to be higher altitude then lower flying aircraft due to a slight haze not seen coming from aircraft lights as it did with stars and Jupiter/Saturn at the same time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161122.html](http://www.nuforc.org/webreports/reports/161/S161122.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
