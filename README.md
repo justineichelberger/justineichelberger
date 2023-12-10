@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three white lights following me on my way home from work at night...I was driving to pick up my daughter after work at night.  She stays very close to the airport, so I am completely used to seeing airplanes flying close overhead and am quite familiar with what an airplane looks like, how they fly, how fast, etc.  I was driving along a road called Airport Dr. where planes normally fly over the road to land on the landing strip nearby.I saw what at first I assumed to be a plane about to land considering it was quite low to the ground.  At first I was worried, because although it still had a good stretch to go before landing, it was lower to the ground than the planes I normally see preparing to land.  I watched it as I drove along, waiting for it to fly overhead to it's assumed destination (the landing strip).  However, it never flew overhead.  There were still a couple other cars on the road at that time.  Then as I continued to drive, eventually I was alone on the roadway, which is when I began to panic, because that's when I realized that the craft seemed to be following me (although not completely obviously).  It was dark, so I couldn't see anything but it's lights, which where 3 white lights in what looked like a triangular formation.  I started to freak out when I realized that the way it was flying was not anything a plane could be capable of.  It was following alongside the road, too close overhead to be a plane but not close enough to get a really good look.   It was also slightly behind me and to the left, so I had to keep turning my head back to see it, than to the road again.  I turned on to Marine Dr. where it continued to follow me.   At this point, I was scared ((deleted)) and going at least 20-30 mph over the speed limit, nearly vearing off the road several times.Finally after what seemed like forever, but considering the distance I will guess was probably around 5 minutes or less, the lights/craft seemed to separate slighty as it sped off very quickly.  As it did this I noticed at least one, possibly more, red light(s) as a glanced as it sped off.Basically the most frightening experience I have ever had, and I never want anything like that to happen to me ever again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67419.html](http://www.nuforc.org/webreports/reports/067/S67419.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Taunton (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 22:00 - 22:00 minutes.</sub><blockquote><sub>a mysterious cloud and 2 smokey streakssaw like a gray cloud seem to enter the atmosphere then go in two grey smokey like streaks from one end of the sky to the other seen airplanes make the white ones but this was no planes ever see the movie independance day kinda like that cloud but then went to 2 smokey grey streaks could have been an asteroid or two that science missed or who knows girl across the street was out with her dogs know she saw it her dog barked to was wondering if anyone else saw it then i saw this report what i saw</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60428.html](http://www.nuforc.org/webreports/reports/060/S60428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
