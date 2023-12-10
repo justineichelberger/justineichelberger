@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:58 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cook (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.5 - 3.5 minutes.</sub><blockquote><sub>Yellow orange sphere or glowLooking south east while traveling south on US 53. Mostly clear with few stars visible and a bright moon. Single orange glow object appears out of no where remaining stationary. 15 seconds later 2 more similar object appeared at same point then spread out in a formation for unknown amouunt of time then returned to original object. At this point the light remains for about 15 seconds and fades out. This is not fake. I am a legit businessman involved with community and serve in servers board of directors. I have never seen anything like this!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151479.html](http://www.nuforc.org/webreports/reports/151/S151479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Flagler (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Eastern Colorado lights.Myself and one other witness observed a single light in the sky, which grew brighter over a period of about 5 seconds before it expanded into multiple lights composing a straight line of individual lights.  Said lights then reformed a single ball of bright light before fading out.  This then repeated 4 separate  times in different locations in the sky before stopping.  No sounds accompanied the lights and no sounds followed.  Appearance very similar to military aircraft defence flares to begin with but vastly different in behavior after initial flash.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115909.html](http://www.nuforc.org/webreports/reports/115/S115909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
