@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:36 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange spheres over Mesa.Coming home from my daughter's school concert, I noticed two bright orange spheres south of my location  At first, my wife thought that the lights where airplanes, until an airplane passed right in front of them.At this point, we were stumped because the orange spherical lights where bigger than the airplane and a little further south.  We continued south towards the US 60 freeway and the lights were still there,  I got on the freeway heading west and was able to see the lights again however one more light had appeared to the right of one of the spheres making sort of a L shape, at that point I also noticed that they where around the same location as the Mesa Gateway international airport.We continued on to south loop 202 and around Guadalupe Rd the spheres starded to disappear into itself like if someone had pulled a string from the middle and vanished.I dont know what they where but i know they where not planes, and i have my family as witnesses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115946.html](http://www.nuforc.org/webreports/reports/115/S115946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Pittsboro (NC) reported seeing craft that fit the description of some 'Cone' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Unexplained object moving SW to NE over North Carolina skies, tracked via refractor telescope/ computerized mountDecember 10, 2007 (written 2130 hrs) To whom it may concern,  I am an amateur astronomer and was observing here in my observatory at my home in Pittsboro, N.C., observing a double star in the constellation Delphinus.At approximately 1845, I spotted a green hue in the SW skies near the Messier object M15, approximately 45 degrees above the SW horizon.  It appeared to be a comet; I quickly slewed my telescope to the object, and viewed it at a magnification of 100X. The object was traveling at a high rate of speed, but much slower than a normal satellite when viewed through a telescope eyepiece field of view.The object contained what appeared to be a head and a tail (very much like Haley’s comet looked years ago through a pair of binoculars), and its magnitude was so bright that it was dominant in the sky.  There was also a point of light that moved with the object at the same speed, approximately one tenth of a degree from the “head” of the object.I tracked the object for approximately 45 minutes, the “tail” faded (almost appeared to dissipate over time), but the point of light near the haze remained in the eyepiece, it’s magnitude and position not changing over the period of time that it was tracked. The object passed very close to the star Schedar in the constellation Cassiopeia.  I stopped tracking the object as it passed through the constellation Cassiopeia at approximately 1935 hrs. The object continued to move in a NE direction at approximately 60 degrees above the northern horizon.The Telescope I was using to track the “object” was a Telescope Engineering Company (TEC) 200mm (8 inch) f/9 refractor, mounted on a Astro-Physics 1200gto computerized equatorial mount. The object was tracked by moving the Declination and Right ascension axis in a manual mode.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60271.html](http://www.nuforc.org/webreports/reports/060/S60271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
