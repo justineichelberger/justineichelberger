@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:46 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Yardville (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very fast moving orange oval shaped object  I was looking up at the night sky in the east. i was actually looking for the andromeda galaxy and this bright orange oval shaped object shot across the night sky from south west towards the north-east.  It was very fast,no sound att all.  It was not a meteor to big. very unbelievable sighting((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85812.html](http://www.nuforc.org/webreports/reports/085/S85812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Chatham (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Second appearence of oval objects to be seen in the Chatham Va. areaThis is my second report of the oval shaped u.f.o. objects. The first sighting was over the Dan Rivr Mills complex. This is the second sighting of these simular shaped objects.My son and i sometimes ride out of Danville about 20 miles to the dryfork area near chatham va. We have family there who has one of the largest areas of untouched forested land, the largest wooded area on the map. We were in that location in a secluded area in a second cleared field for farming tobbacco and wheat.We some times go there at night to look up at the stars and have father son talks and to just enjoy the silence and sounds of nature.While we were sitting there in my pickup truck i saw another oval shaped object appear in the sky above the tree top area in the sky, this object immediately streaked accross the sky in a straight line and vanished.My son was not looking in the direction i was at that moment and he missed seeing this object,i immediately told him about it and i had t! old him about the object i saw over Dan River Mills the week before.About 2 minutes later another object of the same shape,color,and appearence suddenly appeared in the exact same location as the first one. This time my son and i both were looking right at this object, and this object also took off with enormous speed and streaked accross the night sky. My son had never seen anything like this before and became very frightened to the point of panic and he wanted to leave the area.I calmed him down by talking to him and proceeded to stay there about another 30 minutes and then we left.These objects were the same shape,color,and size as the one i saw over the mill.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74194.html](http://www.nuforc.org/webreports/reports/074/S74194.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
