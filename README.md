@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Star in the horizon during sundown fades away.Right during sun down i was watching T.V.  I noticed a light that caught my attention in the sky.  It caught my attention because there was still light out in the sky and you could still make out the clouds.The light was a very bright white.  It seemed odd because it was not high in the sky from my point of view and because it was a very clear bright light and there were no other stars visible in the sky.  I sort of figured it was just a very bright star.I was facing South in the direction of the light. In front of my home there is a 3 story building across the street.  The light was in the distance but just above the horizon of the building from my point of view.I don't believe it was close at all since it just appeared like a very bright star in the sky at sundown.The light remained stationary, I asked the person next to me to look at the light.  They first thought it was a light from a building very far away since it was a very bright white light, sort of the type you would see on Tall building Radios.I told them that it was not because we don't have those types of tall buildings in our city. They then just said at it in confusion.There were no sounds of helicopters around and there were no other lights around it, something a helicopter might have. ( red and white )  It did not move and stayed in the same position.  After a few minutes, It suddenly began to dim. and then the light was gone just before the sun completely went down.  The Dim of the light lasted about 10 seconds before it completely went out.Could of it been a drone?  Why would a drone need such a powerful light when there was still light out? and Don't most LED lights go off suddenly?  rather than a 10 second fade away?  the light did not seem near, appeared to be very far away like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131721.html](http://www.nuforc.org/webreports/reports/131/S131721.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Milano () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>a giant star which moves slowly, goes above and then towards right then disapperad  well at 6 i wake up for coffee ,i saw strange star shining very brilliante and big i thought might be strange star like this ,what it will be? ,  then the star goes above slowly high and higher i told finally i saw ufo .  then slowly come towards me it goes slowly and then went it was fantastic expreince</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95141.html](http://www.nuforc.org/webreports/reports/095/S95141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
