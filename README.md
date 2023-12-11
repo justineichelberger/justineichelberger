@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:59 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:51 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Williamsport (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Green light emmitted from sky in Western MarylandWe were driving on a small back road outside of Hagerstown Maryland when a bright green light emitted from the clouds. Four out of five of the passengers in my vehicle saw this light as it turn into a speeding ball of light soaring through the night sky. The object was so large that it couldn't of been a comet without striking the surface. One of the passengers actually saw the object change direction as if it were ascending back into the sky. We continued on the back road searching for hills that I could jump my car with and wandered what in the hell we saw. We concluded that it must have been Matt's mom falling out of orbit to find some sheep!! ((NUFORC Note:  Possible meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41096.html](http://www.nuforc.org/webreports/reports/041/S41096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Fireball streaked across the sky, fast at high altitudeWe saw a very rapidly moving fireball with long tail streaking across the sky above Sacramento at very high altitude moving west-northwest to east-southeast.   Event lasted perhaps 90 seconds.  We had three witnesses.((NUFORC Note:  Reported as probable space debris?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124951.html](http://www.nuforc.org/webreports/reports/124/S124951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
