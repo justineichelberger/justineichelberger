@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Spinning flat objectsI was on the porch smoking, and it was around 9 p.m., and I saw a bright object in the sky.  I watched it and it was moving southeast, it looked flat in shape, and it appeared to be moving in a spinning motion, and looked like one side of it was the color of fire.  I immediately called my daughter, so that she can see that I was not seeing things!  She couldn't believe what she saw either!  It continued to move higher into the sky, and I saw another one coming from another direction and it looked like it went right up to the other one, and both of them just kept on going.  They both looked flat in shape and they both moved in a spinning motion and they appeared to have the color of fire on one side. Very weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48257.html](http://www.nuforc.org/webreports/reports/048/S48257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gold Canyon (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two large, orange bright football/egg shaped objects with windows low in sky.I heard a very loud jet engine when I was sitting on the couch.  I ran outside to check it out, it was already dark outside.  I could not see any jets or lights, but i could still hear roaring jet engine sounds.  Within 30 seconds I saw a dim light low in the sky to the East appear.  It grew brighter and larger quickly until it was about half the size of the moon in the sky. Bright orange light seemed to be coming from inside the object and shining out of windows or portals.  Specifically, the light was coming from the center and each side of the object and between the lights it was dark as if the light was blocked by something structural.  Within a few seconds another identical object appeared near (to the left and slightly below) the first, in the same manner.  The second object appeared to be vibrating while the other was very still.  After about 10 seconds of being very bright, both lights dimmed till they could not be seen.  The roaring jet sounds continued! , and my wife finally came outside to see (I had been yelling at her to come out).  Several (at least two, but I think more) jets with no lights flew around the area dropping flares for the next 20-30 minutes.  The flares lasted about 3-4 seconds each time and were dropped in clusters of 3-4.  The jets could barely be seen, very dimly reflecting starlight or moonlight.  It has been 11 days and the jets have not returned, and we have never seen them perform this activity in this area before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137947.html](http://www.nuforc.org/webreports/reports/137/S137947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
