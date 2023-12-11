@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 Orange Lights Spotted South Of The Phoenix AreaDriving home from work, heading west bound on the loop 202, I notice 4 extremely bright orange balls of light hovering over the horizon.  As I approached the Ahwatukee area entering onto Pecos Rd it became clear these 4 lights were far off in the distance near the southern tip of the Estrella Mountain Range.  I have witness these UFO's before back in the late 90's with father, very similar in fashion to the famous "Phoenix Lights."  I see planes come and go every night, and I know what their landing lights look like.  These were much brighter and far larger in their radiant glow.  It appeared to me that they were even gaining altitude.  I lost sight of them as I went under the I-10 interchange.  When I came out the other side past Pecos Park I caught a glimpse of them right as they blinked out of existence separately, but rapidly in succession.  Some background info: I am an avid aerospace enthusiast and have flown several air craft myself.  But I am not a licensed pilot.  My father, who did not witness these, but the previous ones in the 90's, said he had seen nothing like it.  He is an aerospace tech who works on jet engines and was a former aircraft mechanic in the U.S. Air Force.  Commonly our local Luke Air Force base claims these lights are flares from the fighters performing bombing runs at the Barry Goldwater Range.  While this is a large range its no where near the location of these lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115928.html](http://www.nuforc.org/webreports/reports/115/S115928.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hauppauge (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately east - east minutes.</sub><blockquote><sub>Round, circular light moving very quicklyOn Thursday, December 11, 2009, at 5:50am, I was traveling on Rte 347 heading to work when I spotted a bright, white circular light traveling 3-4,000mph and about 3-5,000 ft above the ground.  I only saw it for a sec and a half.  I’ve been in the aviation business, working with aircraft and I have never seen anything travel that fast.  It looked like it was traveling from the north shore to the south shore of Long Island.  I have been following UFO stories for years and have been looking up at the sky for many years and I have never seen anything like this.  I know what I saw was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73672.html](http://www.nuforc.org/webreports/reports/073/S73672.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
