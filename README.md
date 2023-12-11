@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:39 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:22 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Nearly Invisible and silent UFO outline hovering slowly, Arch shaped.Tonight was a clear and beautiful night, no clouds in the sky that I could see. I was observing a white dot in the sky, looked like a satellite moving slowly East and caught my attention. It wasn’t blinking, and looked very far away. No big deal to me, as I live by the Air Force base and witness lights and planes in the sky all the time. It was at night in the city by downtown, so the sky was dark, but it also had a very soft light glow. As I was continuing to watch the sky for a minute, I then noticed what looked like the faint edge of a craft almost directly in front and above me. It seemed almost invisible- and I can’t explain much of the exterior other than that. I thought it was a group of birds possibly flying in a line up high. When I looked closely, it was the edge of something very large, and flat. It had no lights. The strange thing was that it was moving very slowly and to the East. No abrupt flight patterns, but maybe a steady 200mph . It continu! ed hovering over buildings, and I lost sight. It was by far the strangest thing I have ever seen. I see military planes flying all the time, and this was something large. It made no noise, and was just moving slowly above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161156.html](http://www.nuforc.org/webreports/reports/161/S161156.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Gold Canyon (AZ) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two large, orange bright football/egg shaped objects with windows low in sky.I heard a very loud jet engine when I was sitting on the couch.  I ran outside to check it out, it was already dark outside.  I could not see any jets or lights, but i could still hear roaring jet engine sounds.  Within 30 seconds I saw a dim light low in the sky to the East appear.  It grew brighter and larger quickly until it was about half the size of the moon in the sky. Bright orange light seemed to be coming from inside the object and shining out of windows or portals.  Specifically, the light was coming from the center and each side of the object and between the lights it was dark as if the light was blocked by something structural.  Within a few seconds another identical object appeared near (to the left and slightly below) the first, in the same manner.  The second object appeared to be vibrating while the other was very still.  After about 10 seconds of being very bright, both lights dimmed till they could not be seen.  The roaring jet sounds continued! , and my wife finally came outside to see (I had been yelling at her to come out).  Several (at least two, but I think more) jets with no lights flew around the area dropping flares for the next 20-30 minutes.  The flares lasted about 3-4 seconds each time and were dropped in clusters of 3-4.  The jets could barely be seen, very dimly reflecting starlight or moonlight.  It has been 11 days and the jets have not returned, and we have never seen them perform this activity in this area before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137947.html](http://www.nuforc.org/webreports/reports/137/S137947.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
