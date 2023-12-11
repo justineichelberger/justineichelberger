@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:50 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Military jet accelerates toward an object above Gilbert, AZ.Looked up due to the distinct sound of a military aircraft accelerating.  Saw a fighter jet quickly closing on an object with three lights (no blinking lights)  The military jet throttled down as it approached the object and closely shadowed it.  The object size was about the same size as the military jet and appeared to be either circular or triangular...can't say for sure, it was dark.  Two red lights in the back and one light green or orange light going forward.  I was surprised at how closely the military jet shadowed the object.  I'm estimating the elevation of the two aircraft at +- 1000 to 1500 ft. above surface level.((NUFORC Note:  We are uncertain as to whether this is a servious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125164.html](http://www.nuforc.org/webreports/reports/125/S125164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Gulf Breeze (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>SUMMARY:  Large red firy orange balls in a figure approaching a triangle in shape40 years old , some graduate school,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01894.html](http://www.nuforc.org/webreports/reports/001/S01894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
