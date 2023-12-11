@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 10 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in High Point (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>At about 7:00 PM in the evening I noticed what looked immediately like a bright comet in the sky. It had a wide, bright white tail fanning out from from a point at the front of the "fan". I looked at it through 2 sets of binoculars and a 90mm Retractor. Through all of these instruments it looked just like a comet in the sky with the exception of a random flashing blue light either at the forefront of the tail or somewhere inside of it. It moved though the sky very slowly but in only one direction.It dissipated after about 25-30 minutes.I thought perhaps it was the remnants of a trail from a rocket. I checked for a shuttle launch but one did not take place this evening.I believe it was some kind of smoke remnant but I simply cannot explain the intermittent blue light. I will continue to sour the internet for an answer to this phenonmenon.((NUFORC Note:  Missile venting fuel in space.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60274.html](http://www.nuforc.org/webreports/reports/060/S60274.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright Oval object moving slowly over Reno area Early December 2013On December 12 2013 I saw a bright light very close to where Venus starts shining in the evening in the S.W part of the sky.  This was much brighter than Venus as well as much larger and slowly moving from west to east.  At one point it stopped moving for a few minutes and the continued on in the same direction.  I observed it through binoculars and then through my spotting scope.  The video that I got of it is through my spotter using my camcorder.  I am not sure if the video I am sending will show the pattern that was on the object but through my camcorder it is pretty defined.  My son and his stepfather saw it through binoculars from their back yard a couple of miles from my home.  I have never seen anything like it and was hoping someone could tell me what I have seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105506.html](http://www.nuforc.org/webreports/reports/105/S105506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [353](http://www.nuforc.org/webreports/reports/165/S165885.html)
-- [352](http://www.nuforc.org/webreports/reports/165/S165825.html)
-- [351](http://www.nuforc.org/webreports/reports/165/S165810.html)
-- [350](http://www.nuforc.org/webreports/reports/161/S161141.html)
-- [349](http://www.nuforc.org/webreports/reports/161/S161150.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
