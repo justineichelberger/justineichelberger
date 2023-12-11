@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Gaithersburg (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Brilliant green comet or meteorMy friend and I saw a massive green comet or meteor at about 7:55 pm on saturday night while getting on 370 from Shady Grove Road right near the shady grove metro stop. It was brilliant green and had a fairly long tail and died out quickly. Simply awesome. Did anyone else see it?((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41069.html](http://www.nuforc.org/webreports/reports/041/S41069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Spinning flat objectsI was on the porch smoking, and it was around 9 p.m., and I saw a bright object in the sky.  I watched it and it was moving southeast, it looked flat in shape, and it appeared to be moving in a spinning motion, and looked like one side of it was the color of fire.  I immediately called my daughter, so that she can see that I was not seeing things!  She couldn't believe what she saw either!  It continued to move higher into the sky, and I saw another one coming from another direction and it looked like it went right up to the other one, and both of them just kept on going.  They both looked flat in shape and they both moved in a spinning motion and they appeared to have the color of fire on one side. Very weird!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48257.html](http://www.nuforc.org/webreports/reports/048/S48257.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
