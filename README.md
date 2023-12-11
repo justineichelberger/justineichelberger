@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>lights in a circular allignment that went from light to dim over and over again.Me and my mother were on our way home from the grocery store when i was looking out the window and I saw a light in the sky.  It almost looked like a star but it was too bright and too low in the sky to be one. I told my mother to look and she saw  it too.  we had no idea what it was or what it could be. Another indication that it was not a star, was that usually when your driving, you can never drive ahead of a star, its usually ahead or above you.  But this wasnt a star, in fact it was way to bright to be one.  I kept an eye on it and eventually we pulled over and watched it for about 5-10 minutes. All of a sudden it got brighter, and then dimmer, and then brighter, and then dim again and again. we started towards home,and we couldnt really see it so my mom told me to look in our spare bedroom window to see if it was still there.  when i went upstairs and looked out the window it was.  I told my mom that i could see it and kept watching, then all of a sudden, it started doing the brighter dimmer routine again. it went from light to dim, light to dim. then i saw about seven or eight other lights form a circle. That included the original one too. I called my mom upstairs and as she was comming up the stairs the lights went dim again until it was only one light. then just the one light kept going dim and bright dim and bright. during this routine it got so dim that it actually looked like a normal star. but then it got bright again. and then dim and then bright. then it got dimer and dimmer and dimmer until it didnt shine again, and then it was gone. We called the police and asked if there were any other reports. There werent. I hope this will help you some.Thank you.((NUFORC Note:  Witness does not indicate time of sighting.  We wonder whether the witnesses may have been looking at Venus, or another celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48255.html](http://www.nuforc.org/webreports/reports/048/S48255.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Military jet accelerates toward an object above Gilbert, AZ.Looked up due to the distinct sound of a military aircraft accelerating.  Saw a fighter jet quickly closing on an object with three lights (no blinking lights)  The military jet throttled down as it approached the object and closely shadowed it.  The object size was about the same size as the military jet and appeared to be either circular or triangular...can't say for sure, it was dark.  Two red lights in the back and one light green or orange light going forward.  I was surprised at how closely the military jet shadowed the object.  I'm estimating the elevation of the two aircraft at +- 1000 to 1500 ft. above surface level.((NUFORC Note:  We are uncertain as to whether this is a servious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125164.html](http://www.nuforc.org/webreports/reports/125/S125164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
