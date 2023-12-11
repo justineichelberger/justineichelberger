@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:34 on 11 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hauppauge (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately east - east minutes.</sub><blockquote><sub>Round, circular light moving very quicklyOn Thursday, December 11, 2009, at 5:50am, I was traveling on Rte 347 heading to work when I spotted a bright, white circular light traveling 3-4,000mph and about 3-5,000 ft above the ground.  I only saw it for a sec and a half.  I’ve been in the aviation business, working with aircraft and I have never seen anything travel that fast.  It looked like it was traveling from the north shore to the south shore of Long Island.  I have been following UFO stories for years and have been looking up at the sky for many years and I have never seen anything like this.  I know what I saw was real.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73672.html](http://www.nuforc.org/webreports/reports/073/S73672.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Charlotte (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>lights in a circular allignment that went from light to dim over and over again.Me and my mother were on our way home from the grocery store when i was looking out the window and I saw a light in the sky.  It almost looked like a star but it was too bright and too low in the sky to be one. I told my mother to look and she saw  it too.  we had no idea what it was or what it could be. Another indication that it was not a star, was that usually when your driving, you can never drive ahead of a star, its usually ahead or above you.  But this wasnt a star, in fact it was way to bright to be one.  I kept an eye on it and eventually we pulled over and watched it for about 5-10 minutes. All of a sudden it got brighter, and then dimmer, and then brighter, and then dim again and again. we started towards home,and we couldnt really see it so my mom told me to look in our spare bedroom window to see if it was still there.  when i went upstairs and looked out the window it was.  I told my mom that i could see it and kept watching, then all of a sudden, it started doing the brighter dimmer routine again. it went from light to dim, light to dim. then i saw about seven or eight other lights form a circle. That included the original one too. I called my mom upstairs and as she was comming up the stairs the lights went dim again until it was only one light. then just the one light kept going dim and bright dim and bright. during this routine it got so dim that it actually looked like a normal star. but then it got bright again. and then dim and then bright. then it got dimer and dimmer and dimmer until it didnt shine again, and then it was gone. We called the police and asked if there were any other reports. There werent. I hope this will help you some.Thank you.((NUFORC Note:  Witness does not indicate time of sighting.  We wonder whether the witnesses may have been looking at Venus, or another celestial body.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48255.html](http://www.nuforc.org/webreports/reports/048/S48255.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [271](http://www.nuforc.org/webreports/reports/165/S165836.html)
-- [270](http://www.nuforc.org/webreports/reports/165/S165839.html)
-- [269](http://www.nuforc.org/webreports/reports/165/S165851.html)
-- [268](http://www.nuforc.org/webreports/reports/165/S165865.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161156.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
