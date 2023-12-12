@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Conway (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>It was about 12:30 in the morning my mom and I where about to leave the house when we saw some weird shape flying over our house. We thougth it was a plane of some sort.((NUFORC Note:  Student report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61700.html](http://www.nuforc.org/webreports/reports/061/S61700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Originally thought it was an airplane taking off but the angle went to far up and across the LA valley ...  Fire stream shooting from behind the aircraft.  Watched it go over the valley then it had a white glow from behind.  Moving faster than airplanes currently in the sky.  Still in an upward angle ... Till it disappeared.  Thought it might be a meteorite but instead of come down towards earth it was going up towards the sky.  Scary ... Thought it was a missile but it went past 3 planes and kept going.  Any info from anyone?  Object was leaving a trail of red and orange fire or flames then it changed to a white cloudy glow.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115951.html](http://www.nuforc.org/webreports/reports/115/S115951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
