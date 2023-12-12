@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:59 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Aliceville (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Looked up in the dark sky and beyond the stars a window beyond the stars opened up from right to left and a very black background was 3 long triangle shaped ufo's with lights on each corner of each point of each craft slowly moved from left to right within this window that opened up beyond the stars for approximately 10 minutes total then the window closed and the regular night sky was as if nothing happened.no trail and no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158396.html](http://www.nuforc.org/webreports/reports/158/S158396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Conway (NH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>What I saw was extremely loud, extremely fast, and extremely bright, and it was not a plane.At first glance, I thought I was looking at a plane. Upon further inspection, I noticed that what I saw was not shaped like a plane, but more like a cylinder with a smaller cylinder attached. It was extremely loud, and had a few colored lights blinking on it, I believe they were green and red. It also had a huge spotlight pointing down.  The color of the spotlight was very white and extremely bright, but did not appear to be looking for anything specific, especially at the speed it was flying.  It seemed to be flying to the north, and then when I thought it was out of sight, I heard the sound of it retuning, at which point I went indoors.  I was afraid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95215.html](http://www.nuforc.org/webreports/reports/095/S95215.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
