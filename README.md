@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:53 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:41 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Allen (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amorphous and slighly oval shaped, black object seen in broad daylight...At approximately 14:!0 CST I was leaving the Home Depot in Allen, TX located at McDermott Dr and Highway 75. I noticed a strange black object (estimated 2000 - 3000ft in the air -- yet difficult to know for certain) that appeared at first to be a drone or a balloon (or even an object on a tether). The object appeared to waffle around in a near static location. It was very difficult to understand what I was looking at, as it didn't make sense the more I looked at it. After a couple of minutes of observation, the object began to head South and appeared to gain altitude, as it grew smaller in appearance. I attempted to take a very short video of the object in which you can see the object. However, the quality nor length was solid, as by the time I thought to film it, the object had already began to fade. While the object was staying in one location, it almost appeared that it was having difficulty maintaining flight (it was weird). I tried to rule out the balloon theory, as the object headed South above highway 75 and according to the Aviation Weather Center, the wind barbs had the wind at 3000ft going at 35 knots from the West at the time of the sighting, which didn't line up with the direction the object was heading. I can send the very short clip of the object to the e-mail below, you have to pause the video and look closely at the left side of the video to see the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161167.html](http://www.nuforc.org/webreports/reports/161/S161167.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Raleigh (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Close view of stationary disk, top and side visible, prior to rapid its acceleration and departuremy 8yr old son was standing outside in our driveway waiting for me to leave to go to school.  He was out there for a few minutes, 3-5 minutes before I came out. As I came out I could hear a the sound of humming like a jet engine. I stepped off my porch onto the driveway and heard a loud close, rushing sound speed away. I looked up and saw a shape moving off over the trees. I thought it must have been a fighter jet. When I heard the sound my son said, " Mom did you see that plane?", I said, "well, I heard it". He said, "It was weird 'cause it was round". I said oh, did you see it?. Reply " Yeah I was watching it for a while." I said, "Did it move slowly?" Reply, "No, it was just sitting there looking at me, then it flew away." Then he said, " It had these two things sticking out the front." It had a red light on one side and a green one on the other." Quite non-chalantly he said, "If I see it again, I'll point to it for you" We had very low cloud cover that morning. I wondered if he saw a plane in the clouds. I asked if he saw a fuzzy shape in the clouds but he insisted it was a clear large shape under the clouds. It could not have been more than 300 ft up. He drew me a picture of it. Then he drew another one and I helped him to label it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16752.html](http://www.nuforc.org/webreports/reports/016/S16752.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
