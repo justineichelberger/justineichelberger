@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:53 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Caro (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was almost home and noticed this green light well actually is was like a light neon green.  I was heading north on Hurds Corner road and it was at my 10 o'clock moving easterly.  It moved smooth and very quick and there was no blinking lights anywhere on it.  When it got a little to the east it turned 90° to the north and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144221.html](http://www.nuforc.org/webreports/reports/144/S144221.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Allen (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Amorphous and slighly oval shaped, black object seen in broad daylight...At approximately 14:!0 CST I was leaving the Home Depot in Allen, TX located at McDermott Dr and Highway 75. I noticed a strange black object (estimated 2000 - 3000ft in the air -- yet difficult to know for certain) that appeared at first to be a drone or a balloon (or even an object on a tether). The object appeared to waffle around in a near static location. It was very difficult to understand what I was looking at, as it didn't make sense the more I looked at it. After a couple of minutes of observation, the object began to head South and appeared to gain altitude, as it grew smaller in appearance. I attempted to take a very short video of the object in which you can see the object. However, the quality nor length was solid, as by the time I thought to film it, the object had already began to fade. While the object was staying in one location, it almost appeared that it was having difficulty maintaining flight (it was weird). I tried to rule out the balloon theory, as the object headed South above highway 75 and according to the Aviation Weather Center, the wind barbs had the wind at 3000ft going at 35 knots from the West at the time of the sighting, which didn't line up with the direction the object was heading. I can send the very short clip of the object to the e-mail below, you have to pause the video and look closely at the left side of the video to see the object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161167.html](http://www.nuforc.org/webreports/reports/161/S161167.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
