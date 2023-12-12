@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:47 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1965, an anonymous witness in Spartanburg (SC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>FLASH IN THE SKY, BRIGHT LIGHT IN THE WINDOWS OF THE OBJECT. THE NIGHT WAS CLEARTHIS IS THE FIRST TIME IVE EVER MENTIONED THIS TO ANYONE ACCEPT TO MY OLDER BROTHER AND FOR SOME REASON HE DOSEN"T REMEMBER THIS EVENT. THIS ALL HAPPENED IN THE WINTER OF 1965, I WAS 12 YEARS OLD AND HAD BEEN TO MY OLDER BROTHERS HOUSE WHILE MY PARENTS WERE OUT. THEY WERE SUPPOSED TO BE HOME AROUND 11 PM. WHEN WE ARRIVED NO ONE WAS HOME AND WE WERE GETTING OUT OF MY BROTHERS CAR TO GO IN AND WAIT, WHEN ALL OF A SUDDEN WE SAW A FLASH TO OUR LEFT AND LOOKED UP TO THE LEFT AND SAW NOTHING UNUSUAL. THEN I LOOKED OVER TO THE RIGHT AND HOVERING ABOVE THE THE LINE ABOUT 100 FEET UP WE SAW, WHAT LOOKED LIKE A ROW OF WINDOWS I COULD NOT MAKE OUT THE SHAPE OF THE OBJECT, BUT THE WINDOWS CURVED AROUND THE FRONT HALF OF THE OBJECT AND THE LIGHTS IN THE WINDOW WERE VERY BRIGHT. IT DID NOT MAKE A SOUND. MY BROTHER FREAKED OUT AND SCREAMED AT ME TO GET IN THE CAR. AND WE WENT TO HIS HOUSE AND WAITED FOR MY PARENTS TO GET HOME. MY BROTHER DOES NOT REMEMBER ANYTHING, AND I KNOW THIS WAS'NT A DREAM BUT WHY HE CAN'T REMEMBER IS BEYOND ME.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/036/S36401.html](http://www.nuforc.org/webreports/reports/036/S36401.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Aliso Viejo (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Red light in the sky hovering over my truckWhile I was unloading my truck, I looked to my left and saw a red light up in the sky, hovering and not moving.   I kept staring at and then it began to move away from me.  A few minutes later, it moved back to its original location.  While I was staring at it, it began to move towards me and then was directly over my head.  While it was over my head, I took my phone out and stated taking pictures of it, two total.   After that, it flew the opposite direction from its original position and stayed in one position.  A few minutes later, it went back to its original location, while the light remained red.  Shortly afterwards, the red light went off.  Since this day, I believe I’ve been under surveillance and have seen helicopters follow me up and down different freeways and then all the way home every night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125423.html](http://www.nuforc.org/webreports/reports/125/S125423.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
