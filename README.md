@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dearing (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We were driving up the road on our property and, looking south, we noticed 2 orange glowing balls next to each other.  We also noticed 2 other glowing balls next to each other a distance apart from the other ones.  At the same time, we saw about a dozen sparkling objects that surrounded the orange fireballs that would sparkle then disappear repeatedly.  We excitedly got out of our truck to get a better view and as we did, the other two orange balls dissappeared (a minute before the other set of fireballs vanished)… Then, the sparkling objects suddenly dispersed and began moving west and we lost sight of them behind the trees.  We saw a few more of them in the sky, but they were singular..not part of a group like before.  Next, my partner saw two of the same type of orange lights above the trees in the east.  They seemed to lower in the sky behind the tree line then they disappeared in the same manner as the others.  My partner has seen the orange fireballs in two ! separate instances in the past since living on this property in the last ten years.  Note: the orange balls are stationary.  They do not get larger or smaller in our visual field.  We did not hear any sounds.  This is my first UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105308.html](http://www.nuforc.org/webreports/reports/105/S105308.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Caro (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was almost home and noticed this green light well actually is was like a light neon green.  I was heading north on Hurds Corner road and it was at my 10 o'clock moving easterly.  It moved smooth and very quick and there was no blinking lights anywhere on it.  When it got a little to the east it turned 90° to the north and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144221.html](http://www.nuforc.org/webreports/reports/144/S144221.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
