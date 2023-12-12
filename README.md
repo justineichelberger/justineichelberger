@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:32 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Waynesboro (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black triangle seen on country back roadDriving to downtown Waynesboro, GA, from near Vogtle nuclear plant, I received a text message, upon looking up from my phone I saw the silhouette of a large black triangle that appeared to be hovering about 200ft off the ground a short way down the road from me over a field to my left.  This triangle had orange lights that blinked from one side to the other in various brightness. The lights began fading and the craft disappeared shortly after, but didn’t appear to have moved anywhere, it just faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137724.html](http://www.nuforc.org/webreports/reports/137/S137724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fruitland (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>String of 45-50 lights in lineA long string of lights flying at a high altitude from southwest to northeast. Most of the lights were In line with one another but every tenth or more would be out of the formation but flying on the same heading. Every third or so of the out of formation lights were moving slower than the main line. As the last ten started over, one was back tracking out of formation but traveling due southwest. All the lights disappeared just shy of the horizon. This was witnessed buy many members of my family. My brother who I called during this lives roughly 8 miles away in roughly the same direction as the crafts were flying was able to see the same crafts so straight overhead as I was, indicating to us that they were at I high altitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/155/S155263.html](http://www.nuforc.org/webreports/reports/155/S155263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
