@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Manheim (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Manheim, PA, bright white light that separated into smaller white lights travelling in a straight line left and right from center.I had just picked up my wife from her place of work at Manheim Auto Auction. I turned right onto auction road going west. I then turned right onto Junction Road going north, and in the the sky to the NNW both my wife and I saw a bright white light. The light was approximately 20-30 degrees above the horizon, and I couldn't tell from my vantage point what distance it was from our position. Normally, this is an area where commercial aircraft fly, flying towards Lancaster Regional Airport, so we thought nothing of it until the object split apart in what appeared to be several sections. The time was approximately 17:10 when this event occurred. I said to my wife, "did you see that?" she said that she did, and asked me if I knew what it was. I told her that I didn't know. When it split apart, it separated into smaller white lights that went left and right from center in a straight line, and then it disappeared. To the right of Junction Road going East is a lot that belongs to Manheim Auto Auction, to the left is holding ponds for water runoff, and directly in front is a few homes, and a shallow wooded area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60335.html](http://www.nuforc.org/webreports/reports/060/S60335.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New London (NH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large craft with red lights followed/chased by very loud low-flying jetsWas awakened by the sound of a fighter jet flying low and in a circular fashion.  I went outside to trace the sound, and then was able to locate the jet when I realized that there was another craft in the sky which the jet appeared to be intercepting/circling.  The craft looked like it could be a large airplane (chevron shaped, red flashing lights), but the wings appeared to be lit in red as well.  It was moving much slower across the sky, but by the time it was realized that it was even there...it was blocked by the treeline.First inclination is that the large craft was an airplane, but the jet plane following it/chasing it made it suspicious.  The large craft was traveling west, potentially from Pease Airforce Base.The sighting was confirmed by a friend that lives 0.5 mile away.  He only saw the large craft (the smaller jet was very hard to see, it looked like a satellite).As a side note, the night was very clear and starry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95197.html](http://www.nuforc.org/webreports/reports/095/S95197.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
