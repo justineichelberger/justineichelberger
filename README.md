@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Roseburg (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>4 crafts seen gliding slowly in the airI was watching tv when i looked out my window and seen a formation of 4 crafts moving right in a line.  They were moving really slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105289.html](http://www.nuforc.org/webreports/reports/105/S105289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Dearing (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We were driving up the road on our property and, looking south, we noticed 2 orange glowing balls next to each other.  We also noticed 2 other glowing balls next to each other a distance apart from the other ones.  At the same time, we saw about a dozen sparkling objects that surrounded the orange fireballs that would sparkle then disappear repeatedly.  We excitedly got out of our truck to get a better view and as we did, the other two orange balls dissappeared (a minute before the other set of fireballs vanished)… Then, the sparkling objects suddenly dispersed and began moving west and we lost sight of them behind the trees.  We saw a few more of them in the sky, but they were singular..not part of a group like before.  Next, my partner saw two of the same type of orange lights above the trees in the east.  They seemed to lower in the sky behind the tree line then they disappeared in the same manner as the others.  My partner has seen the orange fireballs in two ! separate instances in the past since living on this property in the last ten years.  Note: the orange balls are stationary.  They do not get larger or smaller in our visual field.  We did not hear any sounds.  This is my first UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105308.html](http://www.nuforc.org/webreports/reports/105/S105308.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
