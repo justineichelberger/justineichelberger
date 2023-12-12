@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:37 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New London (NH) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large craft with red lights followed/chased by very loud low-flying jetsWas awakened by the sound of a fighter jet flying low and in a circular fashion.  I went outside to trace the sound, and then was able to locate the jet when I realized that there was another craft in the sky which the jet appeared to be intercepting/circling.  The craft looked like it could be a large airplane (chevron shaped, red flashing lights), but the wings appeared to be lit in red as well.  It was moving much slower across the sky, but by the time it was realized that it was even there...it was blocked by the treeline.First inclination is that the large craft was an airplane, but the jet plane following it/chasing it made it suspicious.  The large craft was traveling west, potentially from Pease Airforce Base.The sighting was confirmed by a friend that lives 0.5 mile away.  He only saw the large craft (the smaller jet was very hard to see, it looked like a satellite).As a side note, the night was very clear and starry.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95197.html](http://www.nuforc.org/webreports/reports/095/S95197.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 141</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151977.html](http://www.nuforc.org/webreports/reports/151/S151977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
