@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:42 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ashgrove (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>object with a blue light under itjust stepped outside to check on ( puppies) the dog. noticed a object in the sky about 1000 feet high (guessing) headed on a streight corse, it suddenly just stoped , then backed up aprox 1/4 mile then a blue light came on under the object. the light was 3/4 the size of the object, no beam could be seen shining down.went forward (east) again to the point it stoped the first time, then the blue light goes off.. then continued on at a slow speed. stoped again, backed up and again the blue light comes on and does the same thing it did the first time i noticed it in the sky. i watched it till it was over the eastern horison. (apox 7 minutes) stoped aprox 20 times (or more)to use that blue light. it was about the size of my thumb nail with my arm fully extended, was maby 3 miles or less from me in the southern sky aprox 1000 feet alt. no sound that i could hear. always seemsd to stop every mile, (guessing at the distance traveled) and back up and the blue light under it came on. the light goes off at the spot it first stops ,then backs up and again the light comes on.  all quick stops and movement no slowing down or changes in speed.had a small orange light on the front and a bluegreen light on the back , If it was not disk shape. to dark to tell.was traveling at about the same speed a passanger plane travels coming in for a landing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/053/S53956.html](http://www.nuforc.org/webreports/reports/053/S53956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Waynesboro (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Black triangle seen on country back roadDriving to downtown Waynesboro, GA, from near Vogtle nuclear plant, I received a text message, upon looking up from my phone I saw the silhouette of a large black triangle that appeared to be hovering about 200ft off the ground a short way down the road from me over a field to my left.  This triangle had orange lights that blinked from one side to the other in various brightness. The lights began fading and the craft disappeared shortly after, but didn’t appear to have moved anywhere, it just faded away.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137724.html](http://www.nuforc.org/webreports/reports/137/S137724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
