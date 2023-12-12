@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in North Conway (NH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>What I saw was extremely loud, extremely fast, and extremely bright, and it was not a plane.At first glance, I thought I was looking at a plane. Upon further inspection, I noticed that what I saw was not shaped like a plane, but more like a cylinder with a smaller cylinder attached. It was extremely loud, and had a few colored lights blinking on it, I believe they were green and red. It also had a huge spotlight pointing down.  The color of the spotlight was very white and extremely bright, but did not appear to be looking for anything specific, especially at the speed it was flying.  It seemed to be flying to the north, and then when I thought it was out of sight, I heard the sound of it retuning, at which point I went indoors.  I was afraid.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95215.html](http://www.nuforc.org/webreports/reports/095/S95215.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Coatbridge (UK/Scotland) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Double sightingHi, was just reading a report about someone seeing something strange in Coatbridge on the 12/12/06 at 6pm. I was standing at my back door having a bit of fresh air five hours later and saw something similar five hours later.It was bright white, round with a long green tail and shot from north to south, it wasn't a meteor as they don't have a slight wobble as they move.  I have since saw it again two weeks back on th 20th of January. It's not the first time I've saw something strange as in 2005 me and a friend saw a cigar shaped cloud with what looked like flashing lights inside drift past us in the same spot.I have always been interested in this subject and think if more people were a bit more observant they also might see these craft. Scotland on a whole is a hot spot for UFO activity and I hope this is a start of a flap here in Coatbridge.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55191.html](http://www.nuforc.org/webreports/reports/055/S55191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
