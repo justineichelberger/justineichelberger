@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:40 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:42 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Albany (OR) reported seeing craft that fit the description of some '' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I saw a white streak from the northeast moving to the southwest. Seemed to speed up and disappear</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151587.html](http://www.nuforc.org/webreports/reports/151/S151587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>The brightest red flashing lights I've ever seen in a delta formation over L.A.At approximately 7:50 p.m. on December 12, 2007, three pairs of extremely bright red lights were flying from almost due north to south just west of Los Angeles, CA. The sky was dark, the moon was just a sliver and was setting in the west an hour earlier (behind the trees). The delta formation had two bright flashing red lights in “front”, with equally spaced bright red flashing lights behind and to each side of the “leader”.  The intensity of the red lights were like nothing I have seen in my 55 years of night sky-watching.  Dogs in our neighborhood were barking during their fly over. 					0 0 			   			0 0				0 0  I imagine that the flight would have looked like this if viewed from above.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60348.html](http://www.nuforc.org/webreports/reports/060/S60348.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
