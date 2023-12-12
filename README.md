@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:53 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:59 on 12 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was watching Gemimids meter shower when i observed a circular object with white lights that did not flash and red, blue, and green lights that flashed.This objects direction was dropping down diagonally into the tree line.  It went s so that i could no longer see it all anymore not even when i stood on a chair.  It was gone.  Did not see object fly away nore return from the treeline.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95209.html](http://www.nuforc.org/webreports/reports/095/S95209.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1987, an anonymous witness in Aliceville (AL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Looked up in the dark sky and beyond the stars a window beyond the stars opened up from right to left and a very black background was 3 long triangle shaped ufo's with lights on each corner of each point of each craft slowly moved from left to right within this window that opened up beyond the stars for approximately 10 minutes total then the window closed and the regular night sky was as if nothing happened.no trail and no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/158/S158396.html](http://www.nuforc.org/webreports/reports/158/S158396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [362](http://www.nuforc.org/webreports/reports/165/S165841.html)
-- [361](http://www.nuforc.org/webreports/reports/165/S165872.html)
-- [360](http://www.nuforc.org/webreports/reports/165/S165831.html)
-- [359](http://www.nuforc.org/webreports/reports/165/S165845.html)
-- [358](http://www.nuforc.org/webreports/reports/165/S165830.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
