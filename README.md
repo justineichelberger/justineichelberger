@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:45 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Blue light moved quickly and with maneuvers only a craft could make.Cloudy night, no stars visible. Blue Light appeared,jetted across the sky, slowed. Then, it dipped down at a decreased speed and sped off seemingly going out through the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151598.html](http://www.nuforc.org/webreports/reports/151/S151598.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>Amber lights south of buckeye Arizona appearing for approximately 3 to 5 minutesLast night around 6:30pm, and then again this morning around 5:30am, I saw the same lights and from my perspective thought they were hovering over the high school south of my location.  I distinctly thought that it must be drones or something since they looked like there were right above the football stadium.This time, however, nearly my whole family and I were driving a few miles south of the stadium and saw the same lights, except they looked much further south and appeared to be on or above the mountains south of buckeye, Arizona.  I recognized the same lights and realized I misjudged where they were the previous two times.  There's lights seemed to appear in groups of two or more.  Are amber in color and can be seen for miles away.  They only last for about 10 minutes or less.  It appears to be in a horizontal line and twinkle slightly, causing me to wonder if it was an aircraft.  This time when seeing them they disappeared after about 2 minutes, then another two lights appeared a few miles west and approximately in the same horizontal plane at about the same altitude.  They two lights acted the same, slightly moving or twinkling, but they were slightly farther apart.  They also are now gone.  Lasted for about 3 to 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144052.html](http://www.nuforc.org/webreports/reports/144/S144052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
