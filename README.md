@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Managua (Nicaragua) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright objects seen in Managua.Lights of bright white in formation and changed color to bright red.  About 12 to 15 objects, objects were seen on a clear night sky with no clouds, with more than 10 witnesses recording with their cell phones.((NUFORC Note:  Possible hoax?  Date is flawed.  We have altered the date above, but we are not certain that it is correct.  Witness does not provide an e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105460.html](http://www.nuforc.org/webreports/reports/105/S105460.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sault Ste. Marie (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light in the sky disappearsI noticed a ball of yellowish-green light with a very small tail moving quickly across the sky (The tail may have been an illusion because it was moving so quickly).  It was about the size of a pea and very low in the sky.  I pointed it out to my boyfriend, and he saw it too.  Then a few seconds later, it broke up like it disintegrated and was gone.  We both were confused, yet amazed!!!  We have no idea what it could be!  He thought it looked like a missle, but I thought the only thing it could have been was a meteor.  Still don't know what it was!  Another strange thing that happened 45 minutes earlier, was a huge boom (like a cannon) sounded throughout town and shook the houses.  Many people heard and felt it from miles apart, but no one knew what it was.((NUFORC Note:  We do not know what the witnesses observed.  We would welcome other reports.  Please see other reports for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48362.html](http://www.nuforc.org/webreports/reports/048/S48362.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
