@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chesapeake Beach (MD) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Green Fireball over Western Shore of MarylandA bright green fireball came from the south at a low altitude and arced across the sky from a southerly direction to a northerly direction.  The object appeared in the uppermost part of our car windshield (we were at the top of a hill heading east within a half mile of and  toward Chesapeake Bay.  By leaning forward, I was able to follow its path until it abruptly disappeared shortly after appearing on the driver's side window of the car.  The fireball was bright grass green with a trail of pale green fading to lighter green to white light.  The sighting lasted about 5 seconds. The driver did not  look up fast enough to see it. (the side windows are not tinted - this helped to confirm that the green color was not from the windshield) ((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48301.html](http://www.nuforc.org/webreports/reports/048/S48301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Managua (Nicaragua) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright objects seen in Managua.Lights of bright white in formation and changed color to bright red.  About 12 to 15 objects, objects were seen on a clear night sky with no clouds, with more than 10 witnesses recording with their cell phones.((NUFORC Note:  Possible hoax?  Date is flawed.  We have altered the date above, but we are not certain that it is correct.  Witness does not provide an e-address.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105460.html](http://www.nuforc.org/webreports/reports/105/S105460.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
