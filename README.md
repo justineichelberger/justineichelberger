@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Gilbert (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>strange shaped craftI went to my car to pick up my daughter when suddenly I saw a weird shaped UFO in the night sky apx 22:15. It had illuminated lights on it with brightness like no lights seen on Earth. It is shaped like the picture on youtube channel mrmbb333 video titled 'incredible ufo spotted above canada resembles strange craft recently found in Antartica ice posted December 16, 2019 at time stamp 2:20...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/157/S157049.html](http://www.nuforc.org/webreports/reports/157/S157049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Columbus (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>5 slow moving fireballsI was Driving down I-270 going southbound tonight around 9:15 or so.  I was looking ahead and happen to look up and saw like 5 lights looking like balls of fire.  Orangish in color.  I thought it was a plane at first but then I saw them like in an odd line and one had veered in front and catty corner to the others.  They were going northwest bound.  I thought I was seeing things but other vehicles were slowing down as well.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105342.html](http://www.nuforc.org/webreports/reports/105/S105342.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
