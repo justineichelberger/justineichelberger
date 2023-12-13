@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:39 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vashon (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Severe weather manipulation followed by 30 minutes of flashing lights above the bay.Tonight on December 13th at around 12:30 am my husband and I witnessed a severe and abrupt weather change resulting in extremely high winds, sleet, lightning and freezing rain, followed by a pulsating red and white light, accompanied by low frequency hum, corresponding to the flashes of light.Light and sound stopped, and then re-occurred in a different pattern, lasting for half an hour.The source of the lights seemed to be located across the bay in Burton WA.When the lights stopped flashing the weather returned to being calm, and the sky cleared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79248.html](http://www.nuforc.org/webreports/reports/079/S79248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Twin Falls (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I saw 5 separate bright yellow lights in the western sky that began as one bright light for about 6 seconds, then multiplied to 5 more bright lights over a period of approximately another 6 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144158.html](http://www.nuforc.org/webreports/reports/144/S144158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
