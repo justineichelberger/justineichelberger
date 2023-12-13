@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:39 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:56 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in St. Peters (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Observed extremely bright object in the sky.I was driving in a westbound direction on Missouri Highway 94 South very early in the morning.  The sky was becoming light but the sun had not risen yet.  As I came over the top of a ridge I saw an extremely bright light in the sky ahead of me that appeared to be moving down towards the horizon in a gradual, steady motion and also appeared to be shimmering or pulsating.  Being somewhat of a skeptic I attributed the movement I perceived to the fact that I was coming over the top of a ridge and going back down the other side and I attributed the shimmering aspect the the crisp cold air.  As I came across the next ridge the object now was in full view and stayed in the same position for the next several minutes.  It really grabbed my attention because it was at least three to four times brighter than a star.  I thought several times that it was possibly a planet in the morning sky buy it was extremely bright, a white/silver color. I continued to observe the object for several minutes while it appeared to be stationary.  There was no movement and as the morning light increased there was no change in the brightness of the object.  I stopped at the QT quick mart at the intersection of Hwy 94 and O'Fallon Rd to grab a soda and a bag of pretzels.  As I stepped out of my car I gazed at the object for a period to try to ascertain exactly what it might be, it was extremely bright, still about three to four times brighter than the brightest star I have observed and in the western morning sky all by itself.  I quickly ran in to get what I needed, I would guess it took me a total of 45 seconds to one minute because I knew exactly what I wanted and I was the only customer in the store.  When I stepped out of the store the first thing I did was look up where the object had been to look at it again and it was gone!  This was obviously not a plane or a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05122.html](http://www.nuforc.org/webreports/reports/005/S05122.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Smyrna (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White/silver Sphere High Altitude Extreme SpeedOn 12/13/17 at approximately 11:30 hours, I observed a single white or silver sphere traveling straight and N/W bound at a very high altitude at an extremely high rate of speed.  Observer for 2-3 seconds.  The path of sphere was similar as used by commercial aircraft approaching BNA but much much higher.  No noise was heard while in view.  After approximately 10-12 seconds there was a low rumble that shook the house.  Day light, no clouds, air temp 40 F, wind NNE 11kt. I live.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137734.html](http://www.nuforc.org/webreports/reports/137/S137734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
