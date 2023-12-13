@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Helsinki (Finland) () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Anomalous aerial phenomenon over Helsinki, FinlandThis is not a personal observation. Just making sure you're aware of this, more likely you're already informed, but just in case. At least one of our national networks (MTV3) reported (nonchalantly and in passing) in more than one news program a luminescent or highly reflective trail/object sighted over the morning skies of Helsinki. Two things make this interesting. First, there are apparently quite a number of eyewitnesses, at least one of which had captured very good footage of the phenomenon with his camcorder. A short clip of that was shown on the news program. Though it was impossible to make any definite appraisals based on the few seconds I saw of the anomaly, it moved quite slowly along a trajectory and most likely reflected the rising sun rather than emitted light of its own. But this is just a layman's opinion. Second, (and get your conspiracy hats out for this one) there was a separate report about a radar malfunction at Helsinki airport starting from 8.55 AM (local time) which lasted for 25 minutes delaying a total of 16 in- or outbound flights. There are two complementary radar systems at HEL, one of which didn't display any traffic during the malfunction. Apparently the system came back online as the GPS synchronizing clock was replaced. I have no information whether the sightings and the malfunction actually coincided in any manner or form. Apparently neither the Finnish air traffic control or Meteorological office observed anything out of the ordinary during the sighting. An astronomy club pointed out that there is a meteor cloud in the vincinity that might result in "spectacular" sightings. This is my full knowledge on the subject. If you wish to pursue this further investigate the issue through the news services and any local contacts you have.((NUFORC Note:  We wonder whether the object reported and photographed might have been a high-altitude jet airliner, illuminated by the rising Sun.  This type of phenomenon is reported to our Center on a frequent basis.  We have no idea what may have caused the failure of the radar system, but we have no convincing evidence that the failure could have been caused by the presence of a genuine UFO.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48280.html](http://www.nuforc.org/webreports/reports/048/S48280.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>An observation of three et shipsI was Stargazing at orion's belt when i turned around to look at the rest of the stars when i saw something move since i live close to Ontario Intl airport and under the aproach pattern for lax i thought it was a plane but it was too low. i saw the object do a 180 and then hover. then two others appear just behind it one behind and to the left, and the other behind and to the right. then this light appeared on the lead object and gained intensity until they dissapeared before my eyes. they made no sound and left behind a small haze going east</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74319.html](http://www.nuforc.org/webreports/reports/074/S74319.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
