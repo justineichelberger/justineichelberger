@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Vashon (WA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Severe weather manipulation followed by 30 minutes of flashing lights above the bay.Tonight on December 13th at around 12:30 am my husband and I witnessed a severe and abrupt weather change resulting in extremely high winds, sleet, lightning and freezing rain, followed by a pulsating red and white light, accompanied by low frequency hum, corresponding to the flashes of light.Light and sound stopped, and then re-occurred in a different pattern, lasting for half an hour.The source of the lights seemed to be located across the bay in Burton WA.When the lights stopped flashing the weather returned to being calm, and the sky cleared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79248.html](http://www.nuforc.org/webreports/reports/079/S79248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Crawfordville (FL) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>a long object full of light that disappeared behind the treesdriving home saw a light between the trees when we cleared the trees for a moment and me and my brother-in-law saw a long shaped object that was full of light kind of yellow light it   was big at a distance and brighter than a airplane fully lit up we then passed behind another tree when we cleared the trees it was gone. having a witness with me is what made me want to report the incident</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48285.html](http://www.nuforc.org/webreports/reports/048/S48285.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
