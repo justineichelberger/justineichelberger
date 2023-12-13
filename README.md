@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:56 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Smyrna (TN) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>White/silver Sphere High Altitude Extreme SpeedOn 12/13/17 at approximately 11:30 hours, I observed a single white or silver sphere traveling straight and N/W bound at a very high altitude at an extremely high rate of speed.  Observer for 2-3 seconds.  The path of sphere was similar as used by commercial aircraft approaching BNA but much much higher.  No noise was heard while in view.  After approximately 10-12 seconds there was a low rumble that shook the house.  Day light, no clouds, air temp 40 F, wind NNE 11kt. I live.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137734.html](http://www.nuforc.org/webreports/reports/137/S137734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO impersonating a large jet aircraft, but had abnormal contrail appearance.On Monday 12/13/10 in the time period between 6:45 and 6:55 AM I was riding on Los Angeles Metro Bus Route #14 eastbound on Beverly Boulevard in Los Angeles, CA.  This route at that point goes straight east.  In the sky east-north-east about 15 degrees from true east was a type of UFO seen before in the desert of Eastern Oregon.  The craft was impersonating a jet aircraft, but the contrail was short, stubby, too wide, and too dense to be a real jet contrail.  The rising Sun was reflecting off the object, and creating an opalescent/rainbow sheen that real contrails don't have. The craft was barely moving at all against the morning sky.  Later the whole thing seemed solid, like the edge of a huge disk.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79243.html](http://www.nuforc.org/webreports/reports/079/S79243.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
