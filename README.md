@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Ontario (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>An observation of three et shipsI was Stargazing at orion's belt when i turned around to look at the rest of the stars when i saw something move since i live close to Ontario Intl airport and under the aproach pattern for lax i thought it was a plane but it was too low. i saw the object do a 180 and then hover. then two others appear just behind it one behind and to the left, and the other behind and to the right. then this light appeared on the lead object and gained intensity until they dissapeared before my eyes. they made no sound and left behind a small haze going east</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74319.html](http://www.nuforc.org/webreports/reports/074/S74319.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Villa Park (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>green fireball in the north north western sky. it was very fast but but that what i saw. green fireball falling in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79237.html](http://www.nuforc.org/webreports/reports/079/S79237.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
