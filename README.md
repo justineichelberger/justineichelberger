@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:43 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Buckeye (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately Still going on - Still going on minutes.</sub><blockquote><sub>Amber lights south of buckeye Arizona appearing for approximately 3 to 5 minutesLast night around 6:30pm, and then again this morning around 5:30am, I saw the same lights and from my perspective thought they were hovering over the high school south of my location.  I distinctly thought that it must be drones or something since they looked like there were right above the football stadium.This time, however, nearly my whole family and I were driving a few miles south of the stadium and saw the same lights, except they looked much further south and appeared to be on or above the mountains south of buckeye, Arizona.  I recognized the same lights and realized I misjudged where they were the previous two times.  There's lights seemed to appear in groups of two or more.  Are amber in color and can be seen for miles away.  They only last for about 10 minutes or less.  It appears to be in a horizontal line and twinkle slightly, causing me to wonder if it was an aircraft.  This time when seeing them they disappeared after about 2 minutes, then another two lights appeared a few miles west and approximately in the same horizontal plane at about the same altitude.  They two lights acted the same, slightly moving or twinkling, but they were slightly farther apart.  They also are now gone.  Lasted for about 3 to 5 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144052.html](http://www.nuforc.org/webreports/reports/144/S144052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fort Worth (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>strange zooming light over Fort Worth.December 13, 2009 at around 2245 -2300 hrs, I was walking out to my truck and as I was coming out of the walk way onto the parking lot that is on the East side of the apartment building, I was looking up at the night sky seeing that it was clear and breezy and noticed that, Orion something else that looked like it, was southwest at about 45 degrees from where I was standing.  While looking up at it – something caught my eye, at first looked like an airplane and I would have regarded it as one if it had not been traveling at the speed it was. My next guess would have been a satellite since they sometimes do move pretty quickly across the night sky, but what caught my eye was that it zoom for a good distance it seemed to have slowed down and zoomed again. I followed this tiny light and noticed it kind of curved towards the western direction and it came to a hover this time there seemed to be more lights that I had not noticed earlier – it almost looked like a ! string of lights or set of lights.. it hovered and then started descending and moving back towards the East…ran inside to get my binoculars and see if I could take a better look, but when I got back with them – this thing was gone, I waited for a while as to see if I could see it again , but with no luck.If anyone else has any information or saw the same thing, post something on here as to share information and compare notes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73679.html](http://www.nuforc.org/webreports/reports/073/S73679.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
