@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Franklin (TN) reported seeing craft that fit the description of some 'Flash' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Green flashes of light, occurring in short distances, every few minutes.On the night of December 14th, before during and after my drive from Murfreesboro to Franklin, I saw (similarly described by others) a small flash of a green light going through the sky.  I sat and watched for hours, counting up to 41 as I saw them flying by every few minutes.  The 19th had a small explosion in the air bursting out red and white.  The 29th went over above me and I saw a similar explosion.  Before I left Murfreesboro my uncle and girlfriend each witnessed one or two themselves.  If someone could please shine some light on what I've discovered I would genuinely appreciate it.((NUFORC Note:  Sightings or meteors??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124698.html](http://www.nuforc.org/webreports/reports/124/S124698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anniston (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>1 bright light was seen North North west of location near 431/Bynum Leatherwood road.  The light was motionless for about 18 min and then dissipated (light turned off). no viewable craft was ever seen.  No Strobe lights were visible, the light was a bright Orange color as if someone had a flash light on from some distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67473.html](http://www.nuforc.org/webreports/reports/067/S67473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
