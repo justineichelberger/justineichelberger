@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Tell City (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright light lit up the woods 5 am while huntingwe were getting ready to bow hunt walking up a big hill 5:30am we had i flashlight.  aii of a sudden the entire woods lit up like it was daylight we. We looked up and seen a bright light above us.  there was no noise It moved to the north and went out of sight.  It was dark again. Then we heard a big bang,like it broke the sound barrier.A week later we were talking to a man in the woods and he said he seen it too.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62282.html](http://www.nuforc.org/webreports/reports/062/S62282.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lakeland/Winter Haven (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately Driving - Driving minutes.</sub><blockquote><sub>Star like light moving very fastI was driving down the road I normal always do that connects both city's and as im driving up on this overpass as soon I pass over it I see this very bright whitish/light blue light standing still almost as a star but then moved really fast down wards and disappeared. After doing more research I did notice Geminid Meteor Shower is going on during the same days.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161196.html](http://www.nuforc.org/webreports/reports/161/S161196.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
