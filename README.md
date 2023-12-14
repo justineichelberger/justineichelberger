@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:52 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orange (also visable from Covina) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw Strange line of light due east of location in Orange, CA shortly before sun crested over horizon.  Ran into house to get camera and when i returned object had moved approx 45 degrees to the north east.  Called friend in Covina and he could also see object.  Looked like a very bright line of light, not cloud reflection.  Helicopter passed by but much closer than object was.  Returned inside to confirm sighting with roommate but when returned, the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41115.html](http://www.nuforc.org/webreports/reports/041/S41115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some '' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>The female caller was out walking on the top part of Miramount, located between Issaquah and Hobart.  She encountered another couple walking their dog, too, who called her attention to something strange in the sky.The object appeared to be oval in shape, and it was moving "in a pattern--down, up, and than in a small radius."  It appeared to be getting lower and lower, descending into a nearby valley "by Holder Creek." At this point, the object appeared to be a "long, narrow disc, and cream-colored." She talked to the couple for a few minutes; she did not recognize them. The object "came down into" Holder Creek, at which time the caller noticed two jets--probably airliners--pass by in the nearby sky.  After the jets had passed by, the object then came back up.  It made the "same pattern," and it was getting closer, she thought, and it was "running low." At this point in the caller's story, she is suddenly running away from a bright light, which was "coming at her from behind."   She said it was "long, oval, and shaped pretty flat."  It was pretty close by, and it had several "minimal white lights."  It was very dull, and cream colored. The caller had never seen a UFO before this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01709.html](http://www.nuforc.org/webreports/reports/001/S01709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
