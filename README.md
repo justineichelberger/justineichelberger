@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anderson's Corner (DE) reported seeing craft that fit the description of some 'Fireball' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>Arc of fire streaking across the sky.Looked almost like an arc of fire streaking across sky.  Traveling in a straight line, appeared and disappeared in about a second or two.  Almost like a shooting star, but much bigger and closer.((NUFORC Note:  Meteor?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137756.html](http://www.nuforc.org/webreports/reports/137/S137756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Durham (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Moon in Western sky with light at bottom pictured with 12 white bright lights in shape of 1/2 Grey UFO.Driving on Snow Hill Rd., looking in the Western sky, saw almost dark moon light under the bottom of it.  Stop to picture moon it changed to lights around the top of one half grey space saucer or UFO zoomed in on the photo and there were white oblong lights on top and bottom close together total of 12.Duration  2 Minutes - The saucer or UFO went behind the moon.I have a photo evidence with this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124912.html](http://www.nuforc.org/webreports/reports/124/S124912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
