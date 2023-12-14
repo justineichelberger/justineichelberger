@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Walked out side on the phone seen pass really fast stopped above neighbors house than take off and lights and ship disappeared in thin air</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151630.html](http://www.nuforc.org/webreports/reports/151/S151630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Plato Center (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Blue falling sphere very nearby followed by helicopters.Very bright, electric blue orb seen through window shade at night.  It flashed by quickly but I saw it with the room lights on.  Was falling about 20 degrees, going east to west direction.Thought it was a meteor crashing in our extremely rural area, most likely in cornfields just SW of us.Got in the car to see where in the fields nearby it crashed.Couldn't spot it after about 10 minutes search, so drove back home.  As soon as I pulled into driveway, heard a helicopter going overhead from W to E.  Within a few minutes another helicopter came in from the south  with in an eighth of a mile they landed, as I did not hear them flying off in the distance further to the west.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137931.html](http://www.nuforc.org/webreports/reports/137/S137931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
