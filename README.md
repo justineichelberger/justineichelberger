@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orrville (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3rd time seeing the most peculiar aircraft I have ever seen.I would like to state that this is no hoax!  This is the THIRD time I have seen this craft hovering within a 3 mile radius of my house.  This craft does not look like an alien spacecraft from the usual science fiction novels.  It looks like an enourmous aircraft/ helicopter with white and red lights.  The peculiar thing about it is it Hovers approx. 250-500 ft. from the treetops.  The lights on the bottom are so bright, it seems as though it is spotlighting the ground beneath.  The second time I saw this aircraft, I was driving in my car home.  I spotted it above the railroad tracks and tried to follow it. After rounding a bend in the road, it was Gone.  The third time I saw it was last night (12/14/04).  I decided to go in the house to grab the digital camera to get a picture.  I was in the house for approx. 30 seconds (I left the car running, did not even put the battery in the camera, just grabbed it and ran outside) and the craft was GONE.  This is the strangest thing I have Ever seen.  You could see the craft from my house!  I was inside for 30 seconds and it just disapeared!  I live 3 miles outside of the city with open skies everywhere. NO airplane or helicopter can disappear in 30 seconds or less!  I need help in recording this craft.  It shows up in the sky about once a month.  If patient, a recording of this craft could be made and whatever it is, a recording might help solve the problem.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41134.html](http://www.nuforc.org/webreports/reports/041/S41134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 37</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161443.html](http://www.nuforc.org/webreports/reports/161/S161443.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
