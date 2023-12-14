@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:26 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hillsborough (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Seen a neon green light behind a funnel-shaped cloud accompanied by a humming/buzzing sound.My boyfriend and I were watching the meteor shower and throughout the night, I kept seeing a flash of light at the corner of my vision, so I thought I had an issue with my eye or something.  At one point when I was facing in the exact direction of the light, I clearly seen a neon green flash of light and I asked my boyfriend if he had seen it and he did.  It was funny too because he also told me had kept seeing it at the corner of his eye as well and he thought it was something messed up with his vision/eye as well.  So, after we both realized this flash of light was legitmate, we both sat and stared in the direction of the light.  There was a wide tornado-shaped cloud above the mountain range in the distance but we had a clear view of this phenomenon.  The cloud kept lighting up neon green and at some points it would blink very fast and at other times it would go bright gradually and then dim down slowly.  Also, there was a strange humming or buzzing noise accompanying this incident.  It was very strange....we also started to hear coyotes crying/howling in the distance so we ended up leaving the spot we were at.  After hearing the coyotes, the light also went away.  It freaked us out pretty bad!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116864.html](http://www.nuforc.org/webreports/reports/116/S116864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Orange (also visable from Covina) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw Strange line of light due east of location in Orange, CA shortly before sun crested over horizon.  Ran into house to get camera and when i returned object had moved approx 45 degrees to the north east.  Called friend in Covina and he could also see object.  Looked like a very bright line of light, not cloud reflection.  Helicopter passed by but much closer than object was.  Returned inside to confirm sighting with roommate but when returned, the object was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41115.html](http://www.nuforc.org/webreports/reports/041/S41115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
