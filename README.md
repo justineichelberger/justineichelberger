@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:52 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Welton (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Amber Lights near Welton, AZI wrote this down on the event date as I drove, I just now found my notes.  I was heading East on Interstate 8 towards the I10 Jct, at 1851 I noticed four bright amber coloured lites hanging in the sky just north and east of the highway, as I watched they disappeared in sequence. About 5 mins (about MM 71), I saw the same lights again and they did exactly the same thing, they reminded me of the footage of the Tucson lights.  At 1923, I saw two lights, also amber south of the 8 just east of the Rest Area, and they too blinked away. And finally at 1927 I saw one amber light blink twice and I saw no more.  I have never seen so much activity like this.I am a Professional Trucker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49945.html](http://www.nuforc.org/webreports/reports/049/S49945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>floating reddish/orange sphere appeared to fall and crash just North of North Las Vegas after floating for a few minutes.I went to look out my kitchen window because I heard tires screech, from a 18 wheel gas truck that slammed his brakes to stop in time for a pedestrian crossing on the crosswalk;  The truck did stop safely, intime, for the pedestrain to cross safely. I looked up and noticed a spherical object hovering above downtown Las Vegas, it was glowing red/orange;  I thought it was a helicopter, because I see a lot of them in this same area.  The object appeared to be floating in a up and down motion moving very slowly to the North East, almost vanishing in the clouds but then it came back down to the same level that I seen, when I fist looked out the window.  The light was a solid color, never changing or flickering.  The object appeared to move north very slowly then started descending at a slow rate of speed, then out it appeared to fall out of the sky and crash downward but I didnt see any flash or explosion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95266.html](http://www.nuforc.org/webreports/reports/095/S95266.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
