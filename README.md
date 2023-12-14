@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 13 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Sault Ste. Marie (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Light in the sky disappearsI noticed a ball of yellowish-green light with a very small tail moving quickly across the sky (The tail may have been an illusion because it was moving so quickly).  It was about the size of a pea and very low in the sky.  I pointed it out to my boyfriend, and he saw it too.  Then a few seconds later, it broke up like it disintegrated and was gone.  We both were confused, yet amazed!!!  We have no idea what it could be!  He thought it looked like a missle, but I thought the only thing it could have been was a meteor.  Still don't know what it was!  Another strange thing that happened 45 minutes earlier, was a huge boom (like a cannon) sounded throughout town and shook the houses.  Many people heard and felt it from miles apart, but no one knew what it was.((NUFORC Note:  We do not know what the witnesses observed.  We would welcome other reports.  Please see other reports for this date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48362.html](http://www.nuforc.org/webreports/reports/048/S48362.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thin cigar horizontal red pulsating light flying south over downtown Kansas City MO.I was a passenger in a car traveling westbound on I-670/70 out of downtown Kansas City, MO during the evening of December 14 at approximately 10:45 PM Central Time.  My point of view was on the Kansas side looking East towards the downtown KCMO skyline.At this time I saw a horizontal cigar-shaped, thin red light at the same approximate height of the skyline.  It appeared to be either behind or almost directly over downtown.  The width of the light was approximately the same width of many of the skyscrapers.The light would pulse uniformly on and off similar to an aircraft, but there were no other colors or pinpoints of individual lights, just one solid horizontal red light.I-670 curves to the south just outside of downtown, so during this portion of the travel I could see the craft moving south with us.  It then cleared the skyline and was flying over the shorter buildings due south of downtown, confirming it was not a strip of lights at the top of one of the skyscrapers.I lost sight of it once the road curved due West and downtown was no longer in view.  I was so mesmerized by what I was looking at that it didn’t occur to try and snap a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137781.html](http://www.nuforc.org/webreports/reports/137/S137781.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [331](http://www.nuforc.org/webreports/reports/165/S165854.html)
-- [330](http://www.nuforc.org/webreports/reports/165/S165850.html)
-- [329](http://www.nuforc.org/webreports/reports/165/S165857.html)
-- [328](http://www.nuforc.org/webreports/reports/165/S165856.html)
-- [327](http://www.nuforc.org/webreports/reports/161/S161436.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
