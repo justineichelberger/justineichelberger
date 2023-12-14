@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:13 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Thin cigar horizontal red pulsating light flying south over downtown Kansas City MO.I was a passenger in a car traveling westbound on I-670/70 out of downtown Kansas City, MO during the evening of December 14 at approximately 10:45 PM Central Time.  My point of view was on the Kansas side looking East towards the downtown KCMO skyline.At this time I saw a horizontal cigar-shaped, thin red light at the same approximate height of the skyline.  It appeared to be either behind or almost directly over downtown.  The width of the light was approximately the same width of many of the skyscrapers.The light would pulse uniformly on and off similar to an aircraft, but there were no other colors or pinpoints of individual lights, just one solid horizontal red light.I-670 curves to the south just outside of downtown, so during this portion of the travel I could see the craft moving south with us.  It then cleared the skyline and was flying over the shorter buildings due south of downtown, confirming it was not a strip of lights at the top of one of the skyscrapers.I lost sight of it once the road curved due West and downtown was no longer in view.  I was so mesmerized by what I was looking at that it didn’t occur to try and snap a photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137781.html](http://www.nuforc.org/webreports/reports/137/S137781.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle Shape object over Tinley Park, ILTriangle shape Was moving west to 80th and 171st street suddenly turned and flew to 159th and Harlem  Object was also seen from 159th and Central Two lights in front different colors</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60390.html](http://www.nuforc.org/webreports/reports/060/S60390.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
