@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>floating reddish/orange sphere appeared to fall and crash just North of North Las Vegas after floating for a few minutes.I went to look out my kitchen window because I heard tires screech, from a 18 wheel gas truck that slammed his brakes to stop in time for a pedestrian crossing on the crosswalk;  The truck did stop safely, intime, for the pedestrain to cross safely. I looked up and noticed a spherical object hovering above downtown Las Vegas, it was glowing red/orange;  I thought it was a helicopter, because I see a lot of them in this same area.  The object appeared to be floating in a up and down motion moving very slowly to the North East, almost vanishing in the clouds but then it came back down to the same level that I seen, when I fist looked out the window.  The light was a solid color, never changing or flickering.  The object appeared to move north very slowly then started descending at a slow rate of speed, then out it appeared to fall out of the sky and crash downward but I didnt see any flash or explosion.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95266.html](http://www.nuforc.org/webreports/reports/095/S95266.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Wharton (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Driving in the country roadsMe and my borther were driving in the back country roads, just looking at the stars.  As we were returning home, we both the brightest flash of white/blue color light that we have ever saw.  The shape of the object we could not see, but there were not houses, or lights of any type to make a mistake of.  We saw the object light up, zigged in the sky super fast, then shot straight down.  The object did hit the ground.  The ligh was white, until it shot stright down (blue light then)  It seemed to, I guess burn up.. as the object was going down, and changed to the blue color it faded out, or burned up.  Wharton is a country town, there is no airports.. and it shot to fast to a mistaken as an airplane, or anything made by man.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05117.html](http://www.nuforc.org/webreports/reports/005/S05117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
