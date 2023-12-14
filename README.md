@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:52 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Issaquah (WA) reported seeing craft that fit the description of some '' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>The female caller was out walking on the top part of Miramount, located between Issaquah and Hobart.  She encountered another couple walking their dog, too, who called her attention to something strange in the sky.The object appeared to be oval in shape, and it was moving "in a pattern--down, up, and than in a small radius."  It appeared to be getting lower and lower, descending into a nearby valley "by Holder Creek." At this point, the object appeared to be a "long, narrow disc, and cream-colored." She talked to the couple for a few minutes; she did not recognize them. The object "came down into" Holder Creek, at which time the caller noticed two jets--probably airliners--pass by in the nearby sky.  After the jets had passed by, the object then came back up.  It made the "same pattern," and it was getting closer, she thought, and it was "running low." At this point in the caller's story, she is suddenly running away from a bright light, which was "coming at her from behind."   She said it was "long, oval, and shaped pretty flat."  It was pretty close by, and it had several "minimal white lights."  It was very dull, and cream colored. The caller had never seen a UFO before this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01709.html](http://www.nuforc.org/webreports/reports/001/S01709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Tell City (IN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright light lit up the woods 5 am while huntingwe were getting ready to bow hunt walking up a big hill 5:30am we had i flashlight.  aii of a sudden the entire woods lit up like it was daylight we. We looked up and seen a bright light above us.  there was no noise It moved to the north and went out of sight.  It was dark again. Then we heard a big bang,like it broke the sound barrier.A week later we were talking to a man in the woods and he said he seen it too.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62282.html](http://www.nuforc.org/webreports/reports/062/S62282.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
