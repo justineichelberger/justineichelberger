@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152003.html](http://www.nuforc.org/webreports/reports/152/S152003.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Plainview (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>300ft Cigar Shaped UFO traveling at Mach speed at approx. 15,000ft above Grumman in Bethpage, NYThe UFO was a cigar shaped high reflective chrome like object. I was wallking my dog when I first noticed it and was suprised to see the object travelig at Mach speed of at least 700 MPH at about 15,000ft. There was no sound, no con-trail, and the UFO appeared to be about 300 ft. in lenght. This object was moving quickly across the sky and was gone from sight in less than 60 seconds. I have never seen any aircraft like it. there were no wings. I repeat no wings. I'm not aware of any technology known to mankind of this type to date. I'm not sure if you have received similar reports, however I know what I saw and I'm 100% confident it wasn't of human origin.This object made no sound even though I calculated it moved at Mach speed((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We are uncertain as to whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68305.html](http://www.nuforc.org/webreports/reports/068/S68305.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
