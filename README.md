@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Wichita (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>two fast moving lights in the night skyBriefly saw two lights while looking from my yard in west Wichita, very rapidly moving eastward in what appeared to be a coordinated, curving, no-equidistant formation.  Much faster than known aircraft and did not fit things like meteors or laser pointers.  The two lights left my field of view when they passed a local tree line.  The sighting was only for a couple of seconds.  I am a professional pilot and was a little fatigued at the time.  However, if it was only a fatigue-induced hallucination, it is odd the lights vanished at the tree line.  I really do not know what I saw, but wanted to share.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124716.html](http://www.nuforc.org/webreports/reports/124/S124716.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Walked out side on the phone seen pass really fast stopped above neighbors house than take off and lights and ship disappeared in thin air</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151630.html](http://www.nuforc.org/webreports/reports/151/S151630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
