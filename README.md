@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:13 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:52 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Tinley Park (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle Shape object over Tinley Park, ILTriangle shape Was moving west to 80th and 171st street suddenly turned and flew to 159th and Harlem  Object was also seen from 159th and Central Two lights in front different colors</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60390.html](http://www.nuforc.org/webreports/reports/060/S60390.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Welton (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Amber Lights near Welton, AZI wrote this down on the event date as I drove, I just now found my notes.  I was heading East on Interstate 8 towards the I10 Jct, at 1851 I noticed four bright amber coloured lites hanging in the sky just north and east of the highway, as I watched they disappeared in sequence. About 5 mins (about MM 71), I saw the same lights again and they did exactly the same thing, they reminded me of the footage of the Tucson lights.  At 1923, I saw two lights, also amber south of the 8 just east of the Rest Area, and they too blinked away. And finally at 1927 I saw one amber light blink twice and I saw no more.  I have never seen so much activity like this.I am a Professional Trucker.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49945.html](http://www.nuforc.org/webreports/reports/049/S49945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
