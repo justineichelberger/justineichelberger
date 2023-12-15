@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Willcox (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>We observered star type lights moving from East to west.  They appeared to be in a formation pattern traveling at the same speed.  There was no flashing light, had the brightness of stars and did not break their pattern.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151658.html](http://www.nuforc.org/webreports/reports/151/S151658.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I didnt even notice the craft until I got home, Must have been crusing extremely fast.I was taking a picture at the Luxor Hotel and I didnt even notice the craft until I got home from my honeymoon and saw the picture on my digital camera((NUFORC Note:  We have viewed the still image, and we believe the small, dark, blurred object is not inconsistent with a bird in flight, perhaps a pigeon or dove.  However, we cannot be certain, and our theory is mostly surmise.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28977.html](http://www.nuforc.org/webreports/reports/028/S28977.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
