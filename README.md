@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was at Jonathan Dickinson State Park for a Boys Scout camp out, it was Sunday morning when I was the first one up I was &quot;using tI was at Jonathan Dickinson State Park for a Boys Scout camp out, it was Sunday morning when I was the first one up I was "using the bathroom" when I looked up at the night sky, then I saw a light (looked the same as a star) move right then stopped.  Then I saw it move again this time to the left a little farther than where I originally saw it.  The object was also flashing slowly when it started to move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156146.html](http://www.nuforc.org/webreports/reports/156/S156146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Long Beach (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>It was 4:25 a.m. on Wednesday 12/15/04 and I was preparing to set out for work. I had taken some water outside to de-ice my truck windshield and turn on the engine to allow it to become warm enough to use the heater. Having done so I went back in the house for a few minutes. Then I went back outside and was standing on my porch when I noticed some (?) clustered lights in the western hemisphere. I just figured it was a plane, however I stood there and watched these lights which appeared low on the horizon. After a couple of minutes they didn't seem to be getting closer, but neither did they appear to be getting further away. Then all of a sudden a single light (about half way between where I was located and where the other lights were)appeared and SHOT DOWN at an angle and then SHOT UP...IN A CHECKMARK FASHION. This particular light lasted only a few seconds. The clustered lights beyond this were still there. I was in shock...I have never seen this happen before! If it was a 'falling star' it certainly wouldn't have shot up again!! I was in awe and shock of what I just witnessed. After a couple moments I got in my truck and headed for work. Within less than 1 minute after leaving (I was heading east), a plane was approaching from behind me and to my north and this plane was flying east. I couldn't see how this could be the same "clustered lights" I had seen previously because of the distance it had been during the sighting and it didn't seem possible it could have approaced me that quick. Even if they are one and the same it doesn't explain the other single light which shot down and up in the checkmark fashion!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41188.html](http://www.nuforc.org/webreports/reports/041/S41188.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
