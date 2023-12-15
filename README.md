@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Trail and horizontal lighted craftLet my dog outside to backyard.  Saw what looked like a hazy white trail leading straight down to horizontal lights (3 blinking right to left white? and red in a row) midway down from the night sky.  I went into my house after a minute or so to get my camera to zoom in to see what it was.  This took about a minute and a half to two minutes.  When I went back outside and looked in the same general area, the trail and craft were no longer visible.  I looked all round the sky, and saw to my right and further up and farther away in the distance what appeared to be the same pattern of blinking lights traveling to the right a very fast pace.  I then went from my backyard thru my carport to the front yard hoping to capture an image or video, but just that quick- it was not in sight.  After squinting my eyes trying to locate it, I think I caught sight of it even higher and further away and so faint, it was hard to say for sure that that is what it actually was.  Of note, to the left of the trail/craft and higher up I noticed what I'm assuming to be the "North Star" looking exceptionally bright.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131767.html](http://www.nuforc.org/webreports/reports/131/S131767.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Warren (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was about 10 years old at the time, I remember playing outside in the snow, and eventually laying on my back looking up at a clear, starlight, sky. fter about 5 minutes I focused on a group of 3 stars, forming a triangle.  Not much later one of the stars "moved" and joined 2 other stars, thus creating a larger triangle.  The same pattern went on for about 15 minutes, creating 10 larger triangles.  By this point I was afraid to see anything else and ran inside my house.  This is not the only time I have seen such an event, but this is the earliest that I am able to recall.Observer background: For most of my childhood I was "involved" with aliens.  Most of which seemed to be the form of dreams, or what I thought were dreams.  Being someone who is sensative to paranormal-like experiences I thought it a good idea to share the above experience.  Not much along the lines of UFOs has happened in my life since becoming a teenager years ago, though I do find myself drawn to UFO/extraterrestrial investigation on a regular basis.  I have noticed changes in thinking patterns in the last 3 or so years, though these do need to be looked into on a more personal basis.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55987.html](http://www.nuforc.org/webreports/reports/055/S55987.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
