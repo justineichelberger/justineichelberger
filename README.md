@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:30 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lantern looking light, hovered and shot up in sky. Other people noticed. With girlfriend.It was 10:09 on my birthday and I was driving down Sarno road right next to Harbor Elementary.  I just picked up a pizza and was driving back to my place.  I was with my girlfriend almost home and I spotted something in the sky hovering less than a mile high up in the sky.  It looked like a dim yet bright lantern.  I pointed it to her and she started to freak out a little and was like "wait...I think it's a remote plane" and I was like...no way. As we went under it and went out of our view, we looked around and saw cars slowing down to look at it.  After it got in to our view again (in my driver mirror) both my girl and I was looking at it and about ~5-7 seconds later it just shot up really freaking fast and just kept going up and went out of sight in about 7 seconds. There wasn't a cloud in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86324.html](http://www.nuforc.org/webreports/reports/086/S86324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Richland Hills (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Black triangular craft seen from below and side views with an array of lightsI observed an unknown object hovering over 121 S near Handley-Ederville Rd.  The object slowly moved over my car and continued hovering.  It was triangular in shape and had a white light in each of the three corners of the triangular object with a bigger white light at its center.  From the side view it was rectangular and had multiple lights, three of which were flashing.  It slowly moved north towards Highway 10, over the neighborhood, and past Highway 26.  Then it headed west towards Saginaw and turned north.  It made a high pitched whirring sound like a turbine.  The object was black with all white lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73697.html](http://www.nuforc.org/webreports/reports/073/S73697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
