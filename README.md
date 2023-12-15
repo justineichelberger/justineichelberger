@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Hazelton (17 Km north) (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Update -  Object viewed for 3-4 minutes - Not a Satellite.Update for the Hazelton, B.C. -  17 Km north for December, 2002.Hello to you Brian, Thank you for your prompt reply.  When I reflect to that time of this sighting I would say that as the satellite appeared from behind nine mile mountain from Kispiox Valley, it was in front of Roche de Boule mountain with Hazelton down below.  It looked like it was flying due west.  There was no sound.  Then it made an L-shaped turn north where it looked like it slowed around Kispiox Village ( for maybe 30 seconds ) at which time I was seeing it through the binoculars. It was not that high up. And still no sound.  As soon as it was exactly west of me I watched with the eyes until it was behind the trees.  This was all within about 3-4 minutes total at the most.We have the jets going to Alaska around 11:30 am which are very high up. Also they come from the southeast and go right over the house here and leave the Kispiox Valley heading in a northwestern straight line.So that is why I thought maybe a satellite because of its unusual flight pattern, almost as thought it was going to Terrace, then decided to head up the Kispiox Valley on the western side of the valley.I appreciate your interest in this matter.  Thank You for time((NUFORC Note:  We express our gratitude to Brian Vike, Director of the Houston, British Columbia, Canada UFO Research organization, for sharing this report.  We encourage other witnesses to the same event to contact Mr. Vike directly at the following e-address:  <hbccufo@telus.net>   His website homepage for Canadian reports, or ordering his newsletter,  is:<http://www.geocities.com/hbccufo/home.html>     All the British Columbia UFO reported sightings to HBCC UFO Research can be found at:<http://www.geocities.com/ufologia_canadiana/BC2002sightings.html>PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28168.html](http://www.nuforc.org/webreports/reports/028/S28168.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Jupiter (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was at Jonathan Dickinson State Park for a Boys Scout camp out, it was Sunday morning when I was the first one up I was &quot;using tI was at Jonathan Dickinson State Park for a Boys Scout camp out, it was Sunday morning when I was the first one up I was "using the bathroom" when I looked up at the night sky, then I saw a light (looked the same as a star) move right then stopped.  Then I saw it move again this time to the left a little farther than where I originally saw it.  The object was also flashing slowly when it started to move.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156146.html](http://www.nuforc.org/webreports/reports/156/S156146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
