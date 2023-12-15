@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:35 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in St. Petersburg (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright blue very fast boomerang shaped light sighted over St. Petersburg, FLI was in my backyard letting my dog out. It was pretty quiet out. I just happened to look up in the sky and I saw a boomerang shaped bright blue/silvery light streak across the sky very fast.  Before it left my field of vision it abruptly disappeared and was no longer visible.  It made no noise.  I think it was pretty close because I am nearsighted although it did appear pretty small from where I stood.  The whole event only lasted a few seconds but it was definitely there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85864.html](http://www.nuforc.org/webreports/reports/085/S85864.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Reseda (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I was driving out of my neighborhood in Reseda, when on the horizon at the top of the Angeles mountains beyond the 118 freeway saw a bright light but it was obstructed by the trees on the street.  I just figured the moon was unusually bright tonight.  Less than 2 minutes later I am on Reseda Blvd and this giant pure bright white light is coming closer and closer following the path of the boulevard.  The light was brighter than anything I've seen, I first thought it could be a plane or maybe a helicopter using a sheriff spotlight but as I drove forward and it approached it became clear this was too bright to be any sort of familiar craft.  It looked like it was moving slowly, but once I was under it and saw the brightness and size of the craft, it had to be moving at an incredible speed, also considering I had seen it near the mountain range which is over 45 minutes away and in a minute it is now above me.  I slowed down trying to reach for my phone and soon I wa! s underneath it.  Two other cars were pulled over and were outside their cars looking up at whatever this thing was.  As i was now directlynunder it Iooked up and it was a triangular shaped craft made of this strange black material that camouflaged well with the night sky. The bright light was not visible from this angle which was also odd, no light was visibly emitted from my point of view beneath it.  It had a small light on two points of the triangle.  It looked like the bnody if the craft was made of panels of that unique black material.  I stopped dead in the street (it was almost 3 am) and stared up at it thru my windshield.  It seemed to know I was looking up because it just hovered over me and I began to drive off because i know had the chills.  I looked in my rear view mirror and it was no where to be seen.  The craft was silent but seemed to be observing me and its surroundings</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137783.html](http://www.nuforc.org/webreports/reports/137/S137783.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
