@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:42 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Warren (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was about 10 years old at the time, I remember playing outside in the snow, and eventually laying on my back looking up at a clear, starlight, sky. fter about 5 minutes I focused on a group of 3 stars, forming a triangle.  Not much later one of the stars "moved" and joined 2 other stars, thus creating a larger triangle.  The same pattern went on for about 15 minutes, creating 10 larger triangles.  By this point I was afraid to see anything else and ran inside my house.  This is not the only time I have seen such an event, but this is the earliest that I am able to recall.Observer background: For most of my childhood I was "involved" with aliens.  Most of which seemed to be the form of dreams, or what I thought were dreams.  Being someone who is sensative to paranormal-like experiences I thought it a good idea to share the above experience.  Not much along the lines of UFOs has happened in my life since becoming a teenager years ago, though I do find myself drawn to UFO/extraterrestrial investigation on a regular basis.  I have noticed changes in thinking patterns in the last 3 or so years, though these do need to be looked into on a more personal basis.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55987.html](http://www.nuforc.org/webreports/reports/055/S55987.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bartlett (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On a December night,1996, I saw a cresent shaped U.F.O. >>>>>>>>   ) It was almost as bright as the moon but not as bright. I was looking to the east and saw the U.F.O. fly in an up direction and moving right at the same time.It was like the whole thing was a light instead of having just lights.I saw it flying for about five seconds.It was flying faster than an airplane or jet.As it was flying I saw it completely vanish!That was the oddest thing that I've ever seen!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18637.html](http://www.nuforc.org/webreports/reports/018/S18637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
