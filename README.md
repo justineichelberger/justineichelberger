@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:42 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:47 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Bartlett (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On a December night,1996, I saw a cresent shaped U.F.O. >>>>>>>>   ) It was almost as bright as the moon but not as bright. I was looking to the east and saw the U.F.O. fly in an up direction and moving right at the same time.It was like the whole thing was a light instead of having just lights.I saw it flying for about five seconds.It was flying faster than an airplane or jet.As it was flying I saw it completely vanish!That was the oddest thing that I've ever seen!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18637.html](http://www.nuforc.org/webreports/reports/018/S18637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stillwater (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately Presently occurring - Presently occurring minutes.</sub><blockquote><sub>Three UFOS in a triangular formation one was much closer than the other two with bright flashing red and white lights it was moving and there is no aircraft or noise they have been hovering there for awhile. It is approximately 9:30 pm it is a very clear night you can definitely tell these are not stars!! Movement detected and flashing lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105371.html](http://www.nuforc.org/webreports/reports/105/S105371.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
