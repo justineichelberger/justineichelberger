@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 14 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:49 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>Walked out side on the phone seen pass really fast stopped above neighbors house than take off and lights and ship disappeared in thin air</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151630.html](http://www.nuforc.org/webreports/reports/151/S151630.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Santa Barbara (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately Driving in the car - Driving in the car minutes.</sub><blockquote><sub>Large triangle of wht. lights, one red light in the middle, standing still in the air over the freeway..There was one light that was spinning around the ship. There was three wht. lights in the shape of a triangle (one at each point), one red light right in the middle. The ship was not very high, in the sky. It was about as high as a plain that is about to start landing. This took place in the night, there weren't other lights around ( like street lights) There wasn't a lot of star's out that night.  Later is seemed as if there was 2 to 3 more, in the sky, moving around.  But they were much higher in the sky.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48293.html](http://www.nuforc.org/webreports/reports/048/S48293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/165/S165863.html)
-- [302](http://www.nuforc.org/webreports/reports/165/S165876.html)
-- [301](http://www.nuforc.org/webreports/reports/165/S165878.html)
-- [300](http://www.nuforc.org/webreports/reports/165/S165867.html)
-- [299](http://www.nuforc.org/webreports/reports/165/S165866.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
