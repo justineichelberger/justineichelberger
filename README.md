@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Geneva (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 Bright lites hovering 5,000 ft.above the water with no sound at 5pm on the 15th.of this month.  AWESOM!!I'm a trucker and I was traveling westbound on Hwy.46 about 15 miles from I-95. I was about to enter seminole county and I saw the lights. I thought they were Helecopters,but,as I got closer, they were'nt moving. Just kinda of sitting in the sky, Very bright lites. I noticed a green/violet hue to there lites.  No sound cause I pulled over near a boat ramp to see. It just hit me when I read the sighting from the posting from orlando. I blew it off and never thought about it till now. I remember it like it was yesterday. They just hovered over the water in those lakes at the seminole/brevard county lines out in the swamp.I was going west and they were on my left side about 11 o'clock about 5,000 ft.from the water and just sitting in the sky.I never believed in this stuff till I saw it for myself.the formation was 3lites!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48445.html](http://www.nuforc.org/webreports/reports/048/S48445.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 yellowish red oval like objects that formed a  large triangle like shapeWhen driving eastbound on highway 690 in Syracuse, New York, my fiance and I observed and captured on video what appeared to be 4 oval like objects that formed a large triangle like shape.  The color on these objects got brighter and they remained stationary until they suddenly vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138066.html](http://www.nuforc.org/webreports/reports/138/S138066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
