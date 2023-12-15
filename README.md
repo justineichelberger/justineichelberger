@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:07 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 yellowish red oval like objects that formed a  large triangle like shapeWhen driving eastbound on highway 690 in Syracuse, New York, my fiance and I observed and captured on video what appeared to be 4 oval like objects that formed a large triangle like shape.  The color on these objects got brighter and they remained stationary until they suddenly vanished</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138066.html](http://www.nuforc.org/webreports/reports/138/S138066.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Fuquay (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shape with no center; clouds pass through the middle of the triangle.LAT: 35°38'11.36"N LON: 78°46'19.17"W  Fuquay-Varina, NC 27526 15 December 2008 11:00pm Overcast 2 witnesses (1 is a scientist, the other a musician) @200 yards or so from the 1st and maybe 300 yards from the second. The UFOs appear to be about 8-10,000 feet high. There are no pictures.1.  Cigar shape with brightly lighted windows around the circumference. Appears 30 degrees above the horizon.2.  Very large obtuse scalene triangle shape. The triangle’s appearance is like a black line drawn across the clouds.  I can see through the center. It is at a 40 degree angle to the 1st UFO (around the same altitude).  Very difficult to see because grey clouds are moving through the center and obscuring parts of the lines.  It has no lights.  It would be invisible at night but light from the 1st UFO made it possible to see it.Details:   A large cloud lights up from top to bottom like a lighting flash but stays lit. The bottom of the cloud is violently boiling.  Like an upside down pot of boiling water.  The first UFO appears out of the boiling  cloud and stops.  I have a flashlight and tell my spouse, "Lets signal it!."  I was trying to be funny.  I flash the light 3 times and the first UFO flashes back 3 times and starts to circle the field.  My wife panics, grabs my arm and we run  back to the house.  My flashlight can barely light the ground.  I don’t know how the UFO could have seen it’s light from that altitude or why it would care enough to reply.   We are both absolutely sure the object was interacting with us.I saw the triangle after the 1st UFO appeared.  This object also circled the field but kept the same distance from the 1st object.   This UFO is the largest object I have ever seen in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/071/S71441.html](http://www.nuforc.org/webreports/reports/071/S71441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
