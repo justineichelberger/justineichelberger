@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in North Pole (AK) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright Orange Sphere hovering low on horizon, rotating with "outer aurora" glow. Identical to objects reported in 09/24/98 and 02/10/99Here is what took place as I arrived home from work, my wife had been viewing it for almost an hour... As I arrived home Friday my wife was standing outside looking over the slough at the island...and said"...it's been here about an hour now...just hovering..no sound...there it is...is that what you saw before?, she asks...I said "yes, exactly, except it is closer this time"...we watched it in the dead calm of evening for just a minute or two...The fiery orange glow seem to be coming from the center outward and the out "aurora" seemed to rotate and maintained it's intense brilliance. I said "well, should I film it this time?"....she said "No, come in and get settled then go out and film it...it has been here a while a won't be going anywhere"..I told her "No, it will be gone, that's just the way it is"...as we walked into the cabin...it blink out into the darkness. So that's the way it is...this is the third sighting for her and forth for me...What is it, I have no idea, but seemd the world has got to start noticing these things....This is the first time she has viewed it alone and so there this sighting is most convincing to her that whatever it is, it not of this world.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15489.html](http://www.nuforc.org/webreports/reports/015/S15489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Geneva (FL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>3 Bright lites hovering 5,000 ft.above the water with no sound at 5pm on the 15th.of this month.  AWESOM!!I'm a trucker and I was traveling westbound on Hwy.46 about 15 miles from I-95. I was about to enter seminole county and I saw the lights. I thought they were Helecopters,but,as I got closer, they were'nt moving. Just kinda of sitting in the sky, Very bright lites. I noticed a green/violet hue to there lites.  No sound cause I pulled over near a boat ramp to see. It just hit me when I read the sighting from the posting from orlando. I blew it off and never thought about it till now. I remember it like it was yesterday. They just hovered over the water in those lakes at the seminole/brevard county lines out in the swamp.I was going west and they were on my left side about 11 o'clock about 5,000 ft.from the water and just sitting in the sky.I never believed in this stuff till I saw it for myself.the formation was 3lites!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48445.html](http://www.nuforc.org/webreports/reports/048/S48445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
