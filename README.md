@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:30 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Valrico (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four circular UFOs spotted over central Florida.Around 12:40 PM on 12/15/19 I was standing on the patio of my backyard while I let my dog outside, the sky was clear and blue, no clouds and from where I was standing the sun was not causing any glares or obstructions in my vision. As I was looking at the sky for a moment just taking in the nice weather (I live in Florida and a nice, cool day is rare even in December), I noticed four circular shaped objects with a disk-like ring attached to the center of the craft flying completely smoothly, until one started slightly moving up around the other, and after that they disappeared completely. They started right above the tree line, then gradually moved up until they disappeared. I stared at the sky for another couple of minutes and they didn't return. I know they weren't birds because they were clearly metallic and were moving much too quickly and too smoothly to be birds, and I know they weren't jets because they were completely silent, and at one point in the ! 30 seconds or so that I was watching them, they got very close to each other, too close for jets to fly. Plus, my dog paid no attention the them, and usually with airplanes or jets, she gets nervous when she hears the sound. Since my phone was in my hand I took a picture, and attempted to take a video, but my iPhone 7 has terrible photo quality, and even worse video quality. Its hard to make them out but you can see in the photo and also slightly in the video that they are not birds, planes, jets, or anything of the sort. I have never seen anything like this, and I've never had any sort of experiences with extraterrestrial life or spacecraft, so I sent the picture and video to one of my friends and she said that from the photos, they look more pyramid shaped, but in person they looked very circular. I live in a small town in central Florida, about an hour southeast of Tampa, and I've never heard any talk of UFO sightings or anything like that, but outside of the suburban ar! eas is mostly woods, fields, and open land.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151655.html](http://www.nuforc.org/webreports/reports/151/S151655.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lantern looking light, hovered and shot up in sky. Other people noticed. With girlfriend.It was 10:09 on my birthday and I was driving down Sarno road right next to Harbor Elementary.  I just picked up a pizza and was driving back to my place.  I was with my girlfriend almost home and I spotted something in the sky hovering less than a mile high up in the sky.  It looked like a dim yet bright lantern.  I pointed it to her and she started to freak out a little and was like "wait...I think it's a remote plane" and I was like...no way. As we went under it and went out of our view, we looked around and saw cars slowing down to look at it.  After it got in to our view again (in my driver mirror) both my girl and I was looking at it and about ~5-7 seconds later it just shot up really freaking fast and just kept going up and went out of sight in about 7 seconds. There wasn't a cloud in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86324.html](http://www.nuforc.org/webreports/reports/086/S86324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
