@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large object moving slowly without sound, close to ground, small light on front and flashing light at rearStepped outside of our house and noticed a large mass a little SW of us in the night sky.  We couldn't make out the shape, but it had a small red light in the front and a flashing white light in the back.  It was moving NE at a very slow speed, and had no sound. It seemed very close to us, and very large.  Our first guess was blimp, which would explain the size and lack of sound, however we couldn't find any reports of blimps in the area and there were no sporting events.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54839.html](http://www.nuforc.org/webreports/reports/054/S54839.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Unknown object in sky emitting or reflecting lights in area of EPCOT, Florida.Not noticed at scene.  Only noticed upon viewing of photo on computer.  Photo was taken on a Sony DSC-P92 digital camera.  I did make the flash go off to get the shot of Spaceship Earth, as I did not want the apeture to stay open too long, so it is a fairly quick exposure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33913.html](http://www.nuforc.org/webreports/reports/033/S33913.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
