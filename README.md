@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:02 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Anaheim (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>large blue fireball moving very fastI was on the porch facing north and looked up and seen this big blue light going across the sky at the point I seen it it was moving very fast it took two to three secounds to cross the sky.I pulled up your web and found a statement and pitcher that loos exactly like the object I saw. Your web under fireballs date 2/14/2004 NY</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41186.html](http://www.nuforc.org/webreports/reports/041/S41186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Farmers (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>very bright object in sky, no movement, 2 bright headlight shape with faint light in center.Was driving home from my mothers house,(2 miles from my house) and looked to the west and saw a unusual bright light in sky,I told my daughter, age 5, to look at the bright star in the sky.  Then she was aking questions about why wasn't there any other "stars" out,  so I proceded to explain to her it might be a planet.  As I drove on, I could clearly see it in sight, and when i came closer to the object it was two round headlight looking objects with a dim light in the center.  The lights were unusual and was not moving!I know it was not a jet or any other kind of air craft that i am aware of because there would be some movement. It just sat still in the sky, I turned up to my road to go home and lost sight of it from behind a hill.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41163.html](http://www.nuforc.org/webreports/reports/041/S41163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
