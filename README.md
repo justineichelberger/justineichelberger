@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Port Huron (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed bright white object heading west from the east, then abruptly turned to the north and climbed at an incredible speed and disaObserved bright white object with what appears to be debris or ice crystals at the "V" shaped tail heading west from the east, then abruptly turned to the north and climbed at an incredible speed and disappeared. Trail of object appeared to follow curvature of the earth.((NUFORC Note:  Missile launch from Wallops Island, VA.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54041.html](http://www.nuforc.org/webreports/reports/054/S54041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Rio Rancho (NM) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>The mysterious sound and wake of an explosion in Rio Rancho.We were just in the house, watching Netflix, and we had the sliding glass door cracked to the backyard.  I saw a bright orange flash of light and then we heard a very LOUD explosion and it shook the house and woke up one of the kids.  The alarms starting going off next door at the Good Will reception center.  It was at Southern and Unser Blvd.  We have friends that work at Wendy's across Unser and we called them and they said they also felt and heard the explosion, and it rumbled the floors there, too. We called the neighbor next door and they confirmed that they too heard and felt it. We saw about 10 police cars rolling around over at the Walmart and by the Good Will back entrance shining spot lights.  Today I went to look for an impact spot?  I found nothing!!  I suppose they found nothing too?  We do not know who called them?  But I bet some report was made?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131789.html](http://www.nuforc.org/webreports/reports/131/S131789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
