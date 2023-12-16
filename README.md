@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:34 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Vertical object with red strobes moved in the northern sky from west to east.We were outside trying to observe the ISS in the NW sky - did not see it but suddenly in the N sky about 40 degrees above the horizon we saw an object that was apparently vertical, red blinking strobes (back and forth, top then bottom, rapid succession, 6 times per second roughly?) - moved from west to east.  It appeared very large, but must have been enormous as it disappeared over the horizon in the NE sky.  The lower light appeared at about 30 degrees above, the uppermost light was at more than 45 degrees above horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105382.html](http://www.nuforc.org/webreports/reports/105/S105382.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Cooksville (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 glowing orange spherical objects viewed, flying in some type of formation.I am an aerospace engineer and licensed private pilot, on my way home on Rt. 97 heading south, around the Highs Gas Station I saw four glowing orange spherical objects, definitely not a small plane or any aircraft I have ever seen before.  There was one object in the lead, followed by 3 other objects in a triangular formation.  All objects moved very slowly across my field of view to the left.  After being in shock of what I was seeing and pulling the car over, I tried for about a minute to snap photos on my cell phone but I was not able to get the objects into focus.  I put down my cell phone to watch the objects disappear into a slight faint pinpoint type glow.  Objects appeared to be at several thousand feet, I figure possibly someone could have launched some type of flare or firework and maybe this is what I saw burnout, however while I was watching these objects I didnt see parachute or anything that would have suspended them in the air.  And the objects didnt appear to be burning, just glowing orange.  The weather appeared as a hazy like overcast, aviation weather reports an Overcast to Broken cloud layer at 10,000 feet and 10 SM visibility, I believe the overcast clouds and haze had an effect on how I viewed the objects.  If someone could help me understand what I just saw that would be appreciated.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85893.html](http://www.nuforc.org/webreports/reports/085/S85893.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
