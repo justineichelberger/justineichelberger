@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately :60 - :60 minutes.</sub><blockquote><sub>Triangular craft with lights are corners with multi row lights in frontNoticed an usual series of lights at a much lower altitude than the planes that often circle before landing at the Charlotte Douglas airport.  There were apron 13 bright white lights in what appeared to to be a straight up and down configuration..  As I continued down rt160, the bright white lights went away and I say a triangular solid against the gray background , and lights were seen in each point of the triangle..  The up and down bank of lights was no longer viewable.  As I continued to observe, it was clear that he craft was banking, so saw the lights head on as banking and the lights were were facing away from me, then the underside was viewable..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116060.html](http://www.nuforc.org/webreports/reports/116/S116060.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Port Huron (MI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Observed bright white object heading west from the east, then abruptly turned to the north and climbed at an incredible speed and disaObserved bright white object with what appears to be debris or ice crystals at the "V" shaped tail heading west from the east, then abruptly turned to the north and climbed at an incredible speed and disappeared. Trail of object appeared to follow curvature of the earth.((NUFORC Note:  Missile launch from Wallops Island, VA.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54041.html](http://www.nuforc.org/webreports/reports/054/S54041.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
