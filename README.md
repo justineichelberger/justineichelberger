@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:06 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright shifting lights seen over Buckley Air Force BaseI was driving in my car and looked out my window to see what looked like four very large bright stars, in a perfect square. There were located in proximity to/above Buckley Airforce Base, which was north of my location. As I watched the lights, they shifted from a square to a diamond formation. In the blink of an eye, two more similar objects appeared next to them, as they gravitated towards each other and made some what if a zig zag pattern. A seventh light/flying object appeared next to them,  out of nowhere.  They all shifted to create a horizontal line.  At this time, I turned the corner in my neighborhood and lost sight for about 14 seconds as I drove down my street.  I pulled into my driveway, jumped out of my car, and ran straight to my back yard in time to see a single bright light (a little to the east of where I originally saw the cluster of lights) shoot straight upwards into the sky, almost like a reverse shooting star.  The sky was quiet after that! , I saw nothing else. The lights disappeared as quickly as they appeared.  They moved fast, were completely soundless, no color or blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151696.html](http://www.nuforc.org/webreports/reports/151/S151696.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright spherical orb moves across sky with incredible speed before spontaneously disappearing.I am a 22 year old male college student currently attending Texas A&M University.  At about 4 AM on 12/16/14 I stepped outside to stargaze on this unusually clear night.  One of my roommates was also outside with me, but looking in a different direction when the event occurred.I was facing east when I noticed a bright white orb of light on the horizon.  It was moving from south to north with extreme velocity. In the course of about 3 seconds the orb-like object continued on it’s path in the West-Northwest direction with speed near that of a shooting star until it spontaneously disappeared from sight ( no visual obstructions).My best estimation, based off of observation, is that the object was between 10,000 and 15,000 ft elevation and moving at least 20x-30x faster than any aircraft I have ever seen.When I first noticed the orb I exclaimed for my roommate to look, and by the time he was facing in the right direction it had just disappeared.This was my first UFO sighting, I figured I should report it especially since I am very curious if anyone else in this area saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116049.html](http://www.nuforc.org/webreports/reports/116/S116049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
