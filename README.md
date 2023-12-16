@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:33 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Newport News (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Fast glowing disc through the early morning sky.My dog noticed it first, he was looking up at the sky and backing up, so I looked up; there was a disc shaped object zig-zagging across the sky from East to West, so I yelled for my boyfriend.  My boyfriend said it looked like a glowing football, I thought it looked like a disc.  I was very fast and it seemed like it was producing it's own light.  It made no sound and left no trail of itself being there.  The sky had a few cirrus clouds, the majority of the sky was clear.  There was only one and I could see it until it met the the line of trees that border the horizon, it continued to glow the entire time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20830.html](http://www.nuforc.org/webreports/reports/020/S20830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Gilmer (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light UFOs. Thought the UFO was going to crash into an airplane. Star-like UFOs.12/16/2010 9:00 PM I noticed strange star-like lights in the Eastern sky. It started with a star-like UFO. My husband and I both decided that it wasn't an airplane. It was Much brighter and larger. It also didn't seem to move. It was twinkling with white, red, and blue lights. My husband got bored and went inside. I continued to watch the light for about 30 minutes. Then I saw another one rise in the Eastern sky to the left of the first one. It rose just above the tree lines. It moved to the left, then it moved right. The UFO stayed put after that. They both seemed to keep the path of the night sky and stayed all night. They were too close to be stars though. The light twinkling was profoundly artificial in nature. Keep in mind that I am also seeing airplanes ever few minutes. Some time later, I saw two craft with bright red flashing lights North and South bound on the horizon. The lights from these crafts were larger than airplane lights, but not as bright as the "star-like" lights. They headed straight for one another and leveled off one above the other. The two craft then turned East and flew until disappearing in the distance. Within about 15 minutes of the two aircraft meeting up, I see a big bright red light not flashing. It had a hot white center. This UFO was descending rapidly from the atmosphere. At exactly the same time an airplane was bound North East. I gasped as their points intersected. I thought there was going to be a crash. There wasn't though. The red UFO leveled off at the horizon and headed East until disappearing from distance. I had called my mother at the beginning of the sightings. She stayed on the phone with me through out the near crash. During all of this activity, my phone started getting static. It became difficult to talk. The static went away after the red UFO went away. I also saw a shooting star during the excitement and fear of the potential crash.The sky was very active last night. It is the first time that I have ever seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79294.html](http://www.nuforc.org/webreports/reports/079/S79294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
