@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:39 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in College Station (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright spherical orb moves across sky with incredible speed before spontaneously disappearing.I am a 22 year old male college student currently attending Texas A&M University.  At about 4 AM on 12/16/14 I stepped outside to stargaze on this unusually clear night.  One of my roommates was also outside with me, but looking in a different direction when the event occurred.I was facing east when I noticed a bright white orb of light on the horizon.  It was moving from south to north with extreme velocity. In the course of about 3 seconds the orb-like object continued on it’s path in the West-Northwest direction with speed near that of a shooting star until it spontaneously disappeared from sight ( no visual obstructions).My best estimation, based off of observation, is that the object was between 10,000 and 15,000 ft elevation and moving at least 20x-30x faster than any aircraft I have ever seen.When I first noticed the orb I exclaimed for my roommate to look, and by the time he was facing in the right direction it had just disappeared.This was my first UFO sighting, I figured I should report it especially since I am very curious if anyone else in this area saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116049.html](http://www.nuforc.org/webreports/reports/116/S116049.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Long Beach (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Redish orange ovalish objects. silent. moving up fro behind a big church and then moving north westI went outside at 4:00 am because my husband was yelling at me to get outside.  I saw 3-4 oval in shape but a reddish orange color ufo's in the sky.  The glow was more like the light a candle would put off but of course much larger but that kind of a glow not like the light from a headlight or electric light bulb. There is a large church a block to the east of me.  The church has a large steeple. the objectscame up from behind the church straight up and then moved at a slowish speed up about what I would say is maybe a half a mile and moved in a north west direction.  The objects came up one at a time and followed the exact pattern of the craft in front of it.  They stopped overhead of us and they just sat in the sky for several minutes.  Then they disappeared one at a time. the first one up dissapearing first then the second and then the third and so on.  If I had to compare the size I would say about the size of a vw bug.  It's hard to say because of the distance and the bright glow and of course I was very excited.  I was waving my arms at them and there was just one left in the sky and just before it disappered it flashed. and my husband/ boyfriend said wow it flashed at you.  I was so tripping on it .  I tell you,  it was great. There is no way this was a lantern or anything like that. the movments were percise and intentional.  There was no sound from these crafts at all. silent.  It was raining outside not very hard at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95304.html](http://www.nuforc.org/webreports/reports/095/S95304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
