@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winter Park (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball ufo flyes south to north and stopsIt was about 1030 at night and me and my fiancé drove to her parents house to drop off her sister, who is in town for xmas.  As we were leaving the house carrying stuff to the car we got about 25 feet away from the door and something caught my eye.  I looked up saying “what is that”  and me and ((woman's name deleted)), my fiancé, saw what looked like a fireball colored light in the sky.  I watched it and realized that there was no trail that something burning up in our atmosphere would have.  Just an orange and yellow light.  It took maybe two seconds to travel from the southern horizon to  right in front of us.  Once it was directly in front of us it was about 7x the size of a star as apposed to the 4x it was over the southern horizon.  It had a tilt resembling the tilt a helicopter would have flying forward but had no flashing lights and was not white green or red.  And almost look like the side of a saucer.  As I ran back to get her sister, which took about five seconds ((name deleted)) put the stuff by the car and walked out to the street to watch the light.   When I came back and stood with her in the street the light had moved it was now over the northern horizon and shrinking in size.  Total it took the light 10 to 20 seconds to go from horizon to horizon.  The object then began to brighten and disappear almost pulsating from nothing to a bright light for about 5 minutes and then stopped and nothing was to be seen.  Honestly I can say that not only was I excited to see a ufo, my first sighting in my life, but I had an uneasy feeling the whole time I was watching it almost like the feeling of a frightened cornered animal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95326.html](http://www.nuforc.org/webreports/reports/095/S95326.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coupeville (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>One extremely bright, round, silent orange object.  Moved in very fast, stopped, then moved up and away.While walking my dog in the evening, sometime between 9:00 and 9:05 PM, I saw a single, extremely bright, round, orange colored light in the southern sky moving in a north to north-eastern direction.  It had no tail, no sound, and its edges seemed to shimmer. I first saw it as a small orange dot.  As I watched, it grew larger and appeared to be coming closer.  I could not tell exactly what it was over, maybe Puget Sound, maybe the Olympic Peninsula.  Eventually it was the largest and brightest thing in the sky, outside of the moon.  I stared at it for about 20 or 30 seconds as it moved.  Then it suddenly stopped and stayed in one place.  I watched it for a few seconds, then ran for my house, to get my husband to witness it.  He did.  It had begun moving again, and we saw it move up and away, in a straight line at about a 45 degree agle to its previous path.  Though this time it was moving much faster.  In only about 5 seconds, it had moved up, very high into the sky, till it was a tiny dot, then dissapeared.  It all happened quite fast; the entire incident was only about a minute and a half long.  My background is retired medical professional and my husband is a retired engineer and physicist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106146.html](http://www.nuforc.org/webreports/reports/106/S106146.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
