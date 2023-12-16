@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Lake Buena Vista (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately ? - ? minutes.</sub><blockquote><sub>Unknown object in sky emitting or reflecting lights in area of EPCOT, Florida.Not noticed at scene.  Only noticed upon viewing of photo on computer.  Photo was taken on a Sony DSC-P92 digital camera.  I did make the flash go off to get the shot of Spaceship Earth, as I did not want the apeture to stay open too long, so it is a fairly quick exposure.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33913.html](http://www.nuforc.org/webreports/reports/033/S33913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Winter Park (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>fireball ufo flyes south to north and stopsIt was about 1030 at night and me and my fiancé drove to her parents house to drop off her sister, who is in town for xmas.  As we were leaving the house carrying stuff to the car we got about 25 feet away from the door and something caught my eye.  I looked up saying “what is that”  and me and ((woman's name deleted)), my fiancé, saw what looked like a fireball colored light in the sky.  I watched it and realized that there was no trail that something burning up in our atmosphere would have.  Just an orange and yellow light.  It took maybe two seconds to travel from the southern horizon to  right in front of us.  Once it was directly in front of us it was about 7x the size of a star as apposed to the 4x it was over the southern horizon.  It had a tilt resembling the tilt a helicopter would have flying forward but had no flashing lights and was not white green or red.  And almost look like the side of a saucer.  As I ran back to get her sister, which took about five seconds ((name deleted)) put the stuff by the car and walked out to the street to watch the light.   When I came back and stood with her in the street the light had moved it was now over the northern horizon and shrinking in size.  Total it took the light 10 to 20 seconds to go from horizon to horizon.  The object then began to brighten and disappear almost pulsating from nothing to a bright light for about 5 minutes and then stopped and nothing was to be seen.  Honestly I can say that not only was I excited to see a ufo, my first sighting in my life, but I had an uneasy feeling the whole time I was watching it almost like the feeling of a frightened cornered animal.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95326.html](http://www.nuforc.org/webreports/reports/095/S95326.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
