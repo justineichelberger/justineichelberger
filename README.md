@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:36 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Farmers (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>very bright object in sky, no movement, 2 bright headlight shape with faint light in center.Was driving home from my mothers house,(2 miles from my house) and looked to the west and saw a unusual bright light in sky,I told my daughter, age 5, to look at the bright star in the sky.  Then she was aking questions about why wasn't there any other "stars" out,  so I proceded to explain to her it might be a planet.  As I drove on, I could clearly see it in sight, and when i came closer to the object it was two round headlight looking objects with a dim light in the center.  The lights were unusual and was not moving!I know it was not a jet or any other kind of air craft that i am aware of because there would be some movement. It just sat still in the sky, I turned up to my road to go home and lost sight of it from behind a hill.((NUFORC Note:  Witness elects to remain anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41163.html](http://www.nuforc.org/webreports/reports/041/S41163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 01:00 - 01:00 minutes.</sub><blockquote><sub>shiny small fast moving object in Oklahoma Citymy husband and I left Walmart from grocery shopping and was heading east on Hefner Road. I saw a very bright but small shiny object high up in the atmosphere/sky. it was moving very fast and I asked my husband "what is that".  he said it has to be a jet or a meteor but we kept watching it and it was moving very fast and stop all of a sudden.  we pulled to the side of the road to continue watching it as it stood still in the sky and then it started disappearing slowly.  we both were speechless and laughed about we had just seen a UFO we had never seen anything like it before.  I wish I would have recorded it it was amazing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116046.html](http://www.nuforc.org/webreports/reports/116/S116046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
