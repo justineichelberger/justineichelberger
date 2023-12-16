@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:22 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Changing' over a period of approximately 01:00 - 01:00 minutes.</sub><blockquote><sub>shiny small fast moving object in Oklahoma Citymy husband and I left Walmart from grocery shopping and was heading east on Hefner Road. I saw a very bright but small shiny object high up in the atmosphere/sky. it was moving very fast and I asked my husband "what is that".  he said it has to be a jet or a meteor but we kept watching it and it was moving very fast and stop all of a sudden.  we pulled to the side of the road to continue watching it as it stood still in the sky and then it started disappearing slowly.  we both were speechless and laughed about we had just seen a UFO we had never seen anything like it before.  I wish I would have recorded it it was amazing</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116046.html](http://www.nuforc.org/webreports/reports/116/S116046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>slow moving of white orange colored light above eugene oregon airport at 3-5000ft vanishedThought plane was coming in to eugene from south. Had a orange glow, no blinking lights,clear night ,was moving north,went behind tall tree in view and watched it go into second tree top and did not come out other side.moved at a slow rate but not slow approx altitude was 3-5000 ft sun had set 4 hrs ago light was in the wrong flight path for airport.light should have been seen at airport as it flew over.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79286.html](http://www.nuforc.org/webreports/reports/079/S79286.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
