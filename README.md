@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:40 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Elizabethtown (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright blue almost LED type light transversing the entire distance of the distant sky in 2-3 seconds.I was driving home from work on Ring Rd. in Elizabethtown Ky.  I was listening to the radio...just watching the road in front of me.  It was 7:20 am.  It was dawn but not quite light yet.  The sky was still a deep blue color.  Clear weather, no clouds.  Off in the horizon at about a 60 degree angle from myself, a bright blue light appeared to come around the curvature of the earth on the left of me and continue on a direct course until it disappeared around the curvature of the earth on the other side of the horizon approximately 2-3 seconds later.  The color of the light was about that of a blue LED light that people use to decorate the hoods of their cars with.  It was deep, bright....almost neon.  It truely looked almost exactly like a LED light.  It could tell it was very far in the distance and high in the sky based on it's position relative to the horizon.  This thing was booking it.  The speed it must have been travelling to transverse the entire curvature of the horizon from one side to the other in 2-3 seconds is mind boggling.  Even at the distance I was, the light appeared to be about 3-4 times larger than a bright star in the night sky...ofcourse that's my own comparison, it was already dawn so there were no stars visible behind it to directly compare it's size to.  I was very far away and listening to the radio so no sound.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Missile launch from Wallops Island, VA.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54879.html](http://www.nuforc.org/webreports/reports/054/S54879.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped, three engines side by side in the back, 2 fins pointing up on each side in the back. Moved slowly for a few minutes, then zipped away super-fast. Seemed about 15,000 feet high. Silver colored.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26638.html](http://www.nuforc.org/webreports/reports/026/S26638.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
