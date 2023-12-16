@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:33 on 15 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wilkes-Barre (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large light seen directly under moonAfter learning of this site I decided I would report something I saw sometime in December of 2007.I was skeptical of reporting such a thing but it has been bothering me ever since. The object seemed to be almost directly below the moon and was much brighter and larger than any star I’ve seen. Approximate timing of the event was early in the morning around 5am or so. I can tell you myself I am a skeptic but I figured it wouldn’t hurt to report this. As I watched the object for about 10 minutes it never moved from that spot but continually every minute or so would dime very slowly to almost nothing and then begin to brighten to the exact size once again. I admit to you that I got scared so I decided to stop watching what I was seeing  out of disbelief of the situation.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60826.html](http://www.nuforc.org/webreports/reports/060/S60826.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Louisville (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We observed 9 orange spheres traveling south to north over the city.  All in the same direction and at different altitudes.  Formation was 2 further ahead, 4 in the middle, and 3 strung out behind.  I'm a pilot and these were not airplanes.  Just a steady burning orange light.  Too fast to be Japanese lanterns.  Video was also captured.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144176.html](http://www.nuforc.org/webreports/reports/144/S144176.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [438](http://www.nuforc.org/webreports/reports/165/S165881.html)
-- [437](http://www.nuforc.org/webreports/reports/165/S165886.html)
-- [436](http://www.nuforc.org/webreports/reports/165/S165884.html)
-- [435](http://www.nuforc.org/webreports/reports/165/S165883.html)
-- [434](http://www.nuforc.org/webreports/reports/165/S165868.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
