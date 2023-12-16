@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:38 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:06 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped, three engines side by side in the back, 2 fins pointing up on each side in the back. Moved slowly for a few minutes, then zipped away super-fast. Seemed about 15,000 feet high. Silver colored.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26638.html](http://www.nuforc.org/webreports/reports/026/S26638.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centennial (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright shifting lights seen over Buckley Air Force BaseI was driving in my car and looked out my window to see what looked like four very large bright stars, in a perfect square. There were located in proximity to/above Buckley Airforce Base, which was north of my location. As I watched the lights, they shifted from a square to a diamond formation. In the blink of an eye, two more similar objects appeared next to them, as they gravitated towards each other and made some what if a zig zag pattern. A seventh light/flying object appeared next to them,  out of nowhere.  They all shifted to create a horizontal line.  At this time, I turned the corner in my neighborhood and lost sight for about 14 seconds as I drove down my street.  I pulled into my driveway, jumped out of my car, and ran straight to my back yard in time to see a single bright light (a little to the east of where I originally saw the cluster of lights) shoot straight upwards into the sky, almost like a reverse shooting star.  The sky was quiet after that! , I saw nothing else. The lights disappeared as quickly as they appeared.  They moved fast, were completely soundless, no color or blinking lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151696.html](http://www.nuforc.org/webreports/reports/151/S151696.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
