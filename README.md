@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in New Braunfels (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>oval shaped, various random colors, S like flight pattern, vanished.PHYSICAL CHARACTERISTICS  The light was various, like a diamond, although random, in patterns. The way this thing changed colors is like a horizontal hold on a TV, and when the horizontal line passed down horizontally, it would change colors. This vehicle, from arms length, looked like a dull pencil tip. At the time I saw this event, I noticed a deer, in my side yard, go into a full sprint AFTER I saw the intense white light. After this, I tried to forget about what had happend, but I could not forget, so I closed my eyes. The instant I closed my eyes, my right sholder blade muscle starting twiching rapidly. I thought the rapid twiching would just go away, but it did not. This went on for approximately 10 seconds. I became worried for some reason, so I widely opened my eyes, and the instant I did, the rapid twiching just stopped, as quickly as it had started; it just stopped!  FLIGHT CHARACTERISTICS  At the time I saw the first sight of the vehicle, I was laying on my bed, facing the west, looking up diagnally, when my eyes locked on to this vehicle I noticed the first change in colors and at the same time it was hovering. The sky was clear, windy, and at night 4:30 AM. I noticed this vehicle decending in an S like pattern; continuing to decend in the S-like patteren until it just disappeared over the canyon's horizen. Let me explain this intense white light. This additional event took place at 5:45 AM after i saw the vehicle do its thing in the sky. I could not sleep knowing what I had just experienced. I mean you try and go to sleep after you see this outragious thing in the sky, but sleep was not possible at the time. So I just lay there hoping to be abducted, just so I would know what it would be like. Just for the experience, and then this is what happend. Lying there in hope I would see more then just this unidentifiable flying object in the sky,  with my eyes half-open, because I was a little sleepy given the time. This ultra-white, intense bright light, covered my side yard and totaly brightened the yard. I could see the grass, the trees, the bark on the trees, from where I was looking from, (my west bedroom window). After this event happend, the rapid twiching took place. Later I had a headache and felt dizzy.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33923.html](http://www.nuforc.org/webreports/reports/033/S33923.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Large object moving slowly without sound, close to ground, small light on front and flashing light at rearStepped outside of our house and noticed a large mass a little SW of us in the night sky.  We couldn't make out the shape, but it had a small red light in the front and a flashing white light in the back.  It was moving NE at a very slow speed, and had no sound. It seemed very close to us, and very large.  Our first guess was blimp, which would explain the size and lack of sound, however we couldn't find any reports of blimps in the area and there were no sporting events.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54839.html](http://www.nuforc.org/webreports/reports/054/S54839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
