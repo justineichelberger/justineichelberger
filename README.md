@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:39 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Long Beach (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Redish orange ovalish objects. silent. moving up fro behind a big church and then moving north westI went outside at 4:00 am because my husband was yelling at me to get outside.  I saw 3-4 oval in shape but a reddish orange color ufo's in the sky.  The glow was more like the light a candle would put off but of course much larger but that kind of a glow not like the light from a headlight or electric light bulb. There is a large church a block to the east of me.  The church has a large steeple. the objectscame up from behind the church straight up and then moved at a slowish speed up about what I would say is maybe a half a mile and moved in a north west direction.  The objects came up one at a time and followed the exact pattern of the craft in front of it.  They stopped overhead of us and they just sat in the sky for several minutes.  Then they disappeared one at a time. the first one up dissapearing first then the second and then the third and so on.  If I had to compare the size I would say about the size of a vw bug.  It's hard to say because of the distance and the bright glow and of course I was very excited.  I was waving my arms at them and there was just one left in the sky and just before it disappered it flashed. and my husband/ boyfriend said wow it flashed at you.  I was so tripping on it .  I tell you,  it was great. There is no way this was a lantern or anything like that. the movments were percise and intentional.  There was no sound from these crafts at all. silent.  It was raining outside not very hard at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95304.html](http://www.nuforc.org/webreports/reports/095/S95304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately :60 - :60 minutes.</sub><blockquote><sub>Triangular craft with lights are corners with multi row lights in frontNoticed an usual series of lights at a much lower altitude than the planes that often circle before landing at the Charlotte Douglas airport.  There were apron 13 bright white lights in what appeared to to be a straight up and down configuration..  As I continued down rt160, the bright white lights went away and I say a triangular solid against the gray background , and lights were seen in each point of the triangle..  The up and down bank of lights was no longer viewable.  As I continued to observe, it was clear that he craft was banking, so saw the lights head on as banking and the lights were were facing away from me, then the underside was viewable..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116060.html](http://www.nuforc.org/webreports/reports/116/S116060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
