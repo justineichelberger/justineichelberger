@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Allen (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 seperate occurances at the same time.What I saw: I was coming home and when i was on a dirt road near my house i saw what appeared to be an airplane... just a white light... I thought nothing of it, but then it started moving weird.. kinda in a squiggle shape..  BUT it wasnt slow, it was fast, like how a bug moves, only it was REALLY BIG... and it wasnt far enough away to be a plane.. it looked like it was right across the field over by that one kids house that rode my bus...  It was freaky. I slowed down and stopped and watched it.. it was flashing very weirdly.. Like it wasnt flashing more like.. pulsating..  anyway it slowed down and started going slow towards hillsdale.. and it got dimmer.. and dimmer.. and dimmer.. then it disappeared.. then it did 1 more bright flash then vanished completely.I got home and told my brother... then about 5 mins later my dad came home and HE says he saw something too. BIZARRE!  He said he saw something near Coldwater though, that looked like a comet, that had a sparkly tail, but it kept blinking on for awhile then off.. then back on.We went out looking for about an hour, but didnt see anything additional.This is significant because neither of us really ever talk about UFOs, much less see one, and since we both saw something weird at the same time, it was really bizarre.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79287.html](http://www.nuforc.org/webreports/reports/079/S79287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mountlake Terrace (WA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  100</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152165.html](http://www.nuforc.org/webreports/reports/152/S152165.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
