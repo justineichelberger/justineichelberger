@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 16 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coupeville (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>One extremely bright, round, silent orange object.  Moved in very fast, stopped, then moved up and away.While walking my dog in the evening, sometime between 9:00 and 9:05 PM, I saw a single, extremely bright, round, orange colored light in the southern sky moving in a north to north-eastern direction.  It had no tail, no sound, and its edges seemed to shimmer. I first saw it as a small orange dot.  As I watched, it grew larger and appeared to be coming closer.  I could not tell exactly what it was over, maybe Puget Sound, maybe the Olympic Peninsula.  Eventually it was the largest and brightest thing in the sky, outside of the moon.  I stared at it for about 20 or 30 seconds as it moved.  Then it suddenly stopped and stayed in one place.  I watched it for a few seconds, then ran for my house, to get my husband to witness it.  He did.  It had begun moving again, and we saw it move up and away, in a straight line at about a 45 degree agle to its previous path.  Though this time it was moving much faster.  In only about 5 seconds, it had moved up, very high into the sky, till it was a tiny dot, then dissapeared.  It all happened quite fast; the entire incident was only about a minute and a half long.  My background is retired medical professional and my husband is a retired engineer and physicist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106146.html](http://www.nuforc.org/webreports/reports/106/S106146.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Escondido (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately second - second minutes.</sub><blockquote><sub>I glanced up and saw a small white oval traveling very rapidly across the sky. I ran outside to get a better look as I had been looking through a window, but the UFO was gone.I was in an art class at about 9:00 in the morning. I was working and I glanced up in conversation. Through the window (a large window with black plastic divisions) I saw what I at first thought was a momentary flash in my field of vision but it remained in my view and I saw something of a very thin white oval, almost a line of white, streaking very quickly across the sky. It was very small, I could have covered it with the tip of my fingernail. It was out of view within a second. I ran outside to get a better look at it but it had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/006/S06346.html](http://www.nuforc.org/webreports/reports/006/S06346.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [261](http://www.nuforc.org/webreports/reports/165/S165890.html)
-- [260](http://www.nuforc.org/webreports/reports/165/S165898.html)
-- [259](http://www.nuforc.org/webreports/reports/165/S165879.html)
-- [258](http://www.nuforc.org/webreports/reports/165/S165877.html)
-- [257](http://www.nuforc.org/webreports/reports/165/S165891.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
