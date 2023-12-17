@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sherburne (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Very bright vivid blue light making fast erratic movements the disappearedWhile driving South on route 12 just south of Sherburne N.Y. my wife and I seen a very bright vivid blue light on the sky.  It was approximately 11:00pm (23:00)  On December 17, 2014.  At first it appeared not to move, we observed this for a minute ,the location and color was peculiar so I pulled over to the side of the road . It was a cloudy night , the clouds were  high , no stars could be seen in the sky.  The light was located high in the sky at 45 degree angle in front  us ,above route 12 .  Then it shot across the sky very fast to our left from in front of us to a ten o’clock position .  It stopped made a few short up and down , right and left movements and real small tight circles then shot across the sky to our right to a two o’clock position, it stopped then disappeared . The light did change from the bright blue to and amber color a few times while moving &gt; I attempted to take picture with a digital camera but it could not focus in and take pictures But  I did get 47 seconds of video on my Ipod .  I estimate we observed this for 3 to 4 minutes .  The light was high in the sky above an open field when it when out .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116080.html](http://www.nuforc.org/webreports/reports/116/S116080.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cadiz (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately still in the western nigh - still in the western nigh minutes.</sub><blockquote><sub>I saw this object thru my binoculars outside the house as well as inside thru bedroom window back bedroom and also on our back porchObject gets super bright like fire then fades out like it disappears then left side appears a red opposite side appears a yellow like object looks like it has a weird round oval shape like over the top of it.Have not seen it move as of yet i first saw it at about 6:10 this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105408.html](http://www.nuforc.org/webreports/reports/105/S105408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
