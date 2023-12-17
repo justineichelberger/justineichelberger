@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:30 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Very large dancing fireball, 35-40 degrees above NE horizon, with additional small fiery lights emerging and descending toward horizonOn Wednesday, December 17th, at around 7:45pm.  What looked like a large ball of fire (10x the size of largest nearby star), pulsating from red to orange, danced like a firefly 34-40 degrees above the NE horizon for 2-3 minutes.  Then the object stopped flashing red-orange, turned solid reddish-orange and remained somewhat stationary for another maybe 2 minutes, during which time much smaller (small-star-sized) red-orange object(s) appeared from within and below the large fiery object and proceeded to approach the horizon, forming a completely vertical dotted line of small fiery lights extending from the larger object.  As the line of smaller lights proceeded towards the horizon, the distance between the smaller fiery lights and the larger original object grew greater until the smaller objects were within a couple of degrees from the horizon and then disappeared one by one.  The large fireball remained stationary for about another minute after the smaller ones disappeared, then it began flashing red-orange and started dancing again, still in the same location.  Then the light dimmed and the object danced off to the north, remaining 35-40 degrees above the horizon.  It traveled in this manner for 45 seconds or so, through a distance of air space that usually takes a satellite 3-4 times longer to pass through, and then it just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34036.html](http://www.nuforc.org/webreports/reports/034/S34036.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cadiz (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately still in the western nigh - still in the western nigh minutes.</sub><blockquote><sub>I saw this object thru my binoculars outside the house as well as inside thru bedroom window back bedroom and also on our back porchObject gets super bright like fire then fades out like it disappears then left side appears a red opposite side appears a yellow like object looks like it has a weird round oval shape like over the top of it.Have not seen it move as of yet i first saw it at about 6:10 this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105408.html](http://www.nuforc.org/webreports/reports/105/S105408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
