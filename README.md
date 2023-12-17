@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 18.0 - 18.0 minutes.</sub><blockquote><sub>Bright light changed to blue, green white, was seen over Downtown Minneapolis from North MinneapolisSighting lasted from 9:30-9:48 pm (18-20 minutes)  Started out as a brighter than usual light that looked like a big bright star in the southeastern sky in North Minneapolis.  It was a clear night with stars visible and with few clouds in the night sky. It seemed like it (the light) was almost directly over the downtown Minneapolis area, it was a bright light somewhat at airplane altitude,that changed colors, or at least it seemed to, it was white and blue and green at times, it looked like it was constantly changing colors.  Was bigger than the common commercial drone since I was able to see it from north Minneapolis and it was about the size of a pea or smaller, so a pea would block it completely if held up at arms length.  It had many strange movements that caught my eye while I was outside picking up food. It stayed stationary and moved left to right across the sky very slowly. It then stopped moving and stayed stationary until it started moving slowly upwards while staying in the same place ascending towards a bunch of clouds in the upper layer of the sky.The light stayed there for a long time just underneath the clouds. I had time to  go back inside my house and so I watched it from the window until it slowly went upwards again towards the layer of clouds which by that time the clouds had become thicker and had been moved by the wind towards the downtown area. So it basically disappeared into the clouds while slowly ascending towards what seemed to me upwards towards the stratosphere.There was no sound,I did see what I believe to be two helicopters or aircraft flying through the area further northeast of the object around the same time frame, they only had red lights not the usual green-go, white and red-stop lights that I'm used to seeing when other hospital helicopters fly by. Experience was strange and exiting, I felt very excited since it was out of the usual night sky and I believe that there is life in other planets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124748.html](http://www.nuforc.org/webreports/reports/124/S124748.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately sev secs - sev secs minutes.</sub><blockquote><sub>The object can be clearly observed between cam view bt. seconds 16 and 20 as it passes by our houseThe object can be clearly observed between seconds 16 and 20 as it passes by our house last December. This was recorded on a security camera that faces our a window, looking towards the East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162065.html](http://www.nuforc.org/webreports/reports/162/S162065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
