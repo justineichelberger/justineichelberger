@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:25 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round spinningHi Last week on the 17th of December I was in my back yard trying to finish up some yard work before the darkness set in it was probably around 530-600 when I happen to look up and notice an object in the sky.  I star gaze every night and know exactly where every star in the sky sits, and know what airplanes look like when they fly overhead, and this was not a normal star or an aircraft.  I have a video that I recorded of the object and it is clear to see this object is not what one can call normal.  It appears to be round and spinning.  My husband and I both observed the object for about 5 min before it disappeared. I live in Bakersfield Ca, and this is not the first time my husband and I have witnessed an object such as this.The event prior to this one happened in San Simeon as we were driving back from Morro Bay to our hotel on Hwy 1 an object similar in appearance popped into existence and shown very bight for about a minute and disappeared just like it appeared.  Unfortunately, I was driving and could not video this event.  I am not completely positive of the exact date, but it did happen in February of this year.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151882.html](http://www.nuforc.org/webreports/reports/151/S151882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Freehold (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>If Orion had a foot, there is a "star"-like object making moves aerodynamically impossible.Looking at Orion's belt towards the Eastern night sky, and imagining if Orion had a foot, for the last two nights at the spot where Orion's foot would be I've seen a bright star moving in impossible moves. Backwards, forwards, sideways, stationary, shooting towards a spot, stopping, then moving all around and then actually seeming to twirl in a circle! I saw it last night at the same spot and it's still there now! I positioned myself in a stationary spot against a wall to make sure my body movements were not causing what could give the "illusion" of it moving and it still was doing all the above stated manuevers. I called two other people and they both confirmed what I was seeing. Then another person joined one of my other witnesses outside while we were talking on the phone and they said they saw this object doing what we both were seeing simultaneously as we talked. I don't care if anyone believes this as I and three other people saw it too.((NUFORC Note:  Sirius is below, and to the left, of the bottom of the constellation, Orion.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54046.html](http://www.nuforc.org/webreports/reports/054/S54046.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
