@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:25 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Freehold (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>If Orion had a foot, there is a "star"-like object making moves aerodynamically impossible.Looking at Orion's belt towards the Eastern night sky, and imagining if Orion had a foot, for the last two nights at the spot where Orion's foot would be I've seen a bright star moving in impossible moves. Backwards, forwards, sideways, stationary, shooting towards a spot, stopping, then moving all around and then actually seeming to twirl in a circle! I saw it last night at the same spot and it's still there now! I positioned myself in a stationary spot against a wall to make sure my body movements were not causing what could give the "illusion" of it moving and it still was doing all the above stated manuevers. I called two other people and they both confirmed what I was seeing. Then another person joined one of my other witnesses outside while we were talking on the phone and they said they saw this object doing what we both were seeing simultaneously as we talked. I don't care if anyone believes this as I and three other people saw it too.((NUFORC Note:  Sirius is below, and to the left, of the bottom of the constellation, Orion.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54046.html](http://www.nuforc.org/webreports/reports/054/S54046.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Luxora (AR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately a while - a while minutes.</sub><blockquote><sub>I was beamed into thus craft.I seen this teardrop shaped object it had a huge silver-white color light on it at first I just seen the light then it started getting closer and closer then I seen the shape of it the color of the craft was baby blue I remember passing out then waking up in thus room inside the craft there were slit of lights in the room then I seen 4 grayish white alien beings cone in the room one of them spike to me and said do not fear we are here to protect unit harm u the beings experimented on me I dint know exactly how ling they had me I just know they it happened on December 17 2014 then I remember waking up thus morning in my bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116094.html](http://www.nuforc.org/webreports/reports/116/S116094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
