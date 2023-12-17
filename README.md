@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Cambria Heights (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>unknown floating object recorded by Ring Indoor CameraReviewed RING indoor video security camera on 12/17/2021 at 0329 hours. Round moving object was picked up by camera. As can be seen on video, all blinds were closed at time of recording. Object changed directions multiple times and can be seen rotating then disappeared. Image lasted at least five seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/165/S165903.html](http://www.nuforc.org/webreports/reports/165/S165903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Everglades (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately north - north minutes.</sub><blockquote><sub>i  saw  this  thing  stop  !  (GREEN)  then  at  45 degree  angal  blue & green   come  to   a  straight  shot  to  earth ?  landing  ??   i  called   sherriffs  ofice  , report  what  I  saw !  (lot  of  confusion  on  phone)  took  my  report  , asked  phone  # ,,still  under  beleive !   I  call  back !  they  nkow  my  name !  and  tell  me  i  am  the   only  one  reporting  it  ! ,, I  NKOW   wat  ever  it  had  to  be  , there  is  !!!a  marking  !!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85914.html](http://www.nuforc.org/webreports/reports/085/S85914.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
