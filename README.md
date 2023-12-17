@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cadiz (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately still in the western nigh - still in the western nigh minutes.</sub><blockquote><sub>I saw this object thru my binoculars outside the house as well as inside thru bedroom window back bedroom and also on our back porchObject gets super bright like fire then fades out like it disappears then left side appears a red opposite side appears a yellow like object looks like it has a weird round oval shape like over the top of it.Have not seen it move as of yet i first saw it at about 6:10 this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105408.html](http://www.nuforc.org/webreports/reports/105/S105408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Guayaquil (Ecuador) () reported seeing craft that fit the description of some '' over a period of approximately at this time - at this time minutes.</sub><blockquote><sub>Hola En diciembre, de 1999 fui embarazada por un hombre que solo lo veia en holograma pero el me dijo que se llamaba Jhon , estaba con capa oscura luego de tres semanas tuve 3 niños , despues de esto siempre me quedo embarazada, veo como del plexo solar de el sale un rayo blanco que lo une al plexo solar mio despues de 3 semanas siempre son tres niños los que vienen , el esta en el momento del parto y luego se los lleva a donde no se, me gustaria saber que hace con mis niños pues solo veo que se los lleva Ya han pasado muchos niños ,no entiendo por que fui escogida para ser mama de estos niños , y es mas se me forma una X al momento del parto en el vientre y salen por el obmbligo, la primera vez yo estaba si vi una nave que seguia mi auto era de forma triangular de color azul brillante, ellos seguian el auto pues sabian que iban a nacer los niños</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15931.html](http://www.nuforc.org/webreports/reports/015/S15931.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
