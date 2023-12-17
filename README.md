@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:31 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Luxora (AR) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately a while - a while minutes.</sub><blockquote><sub>I was beamed into thus craft.I seen this teardrop shaped object it had a huge silver-white color light on it at first I just seen the light then it started getting closer and closer then I seen the shape of it the color of the craft was baby blue I remember passing out then waking up in thus room inside the craft there were slit of lights in the room then I seen 4 grayish white alien beings cone in the room one of them spike to me and said do not fear we are here to protect unit harm u the beings experimented on me I dint know exactly how ling they had me I just know they it happened on December 17 2014 then I remember waking up thus morning in my bed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116094.html](http://www.nuforc.org/webreports/reports/116/S116094.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Lewiston (ID) reported seeing craft that fit the description of some 'Other' over a period of approximately sev secs - sev secs minutes.</sub><blockquote><sub>The object can be clearly observed between cam view bt. seconds 16 and 20 as it passes by our houseThe object can be clearly observed between seconds 16 and 20 as it passes by our house last December. This was recorded on a security camera that faces our a window, looking towards the East.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162065.html](http://www.nuforc.org/webreports/reports/162/S162065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
