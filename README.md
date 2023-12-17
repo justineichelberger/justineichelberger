@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:30 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:34 on 17 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Cadiz (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately still in the western nigh - still in the western nigh minutes.</sub><blockquote><sub>I saw this object thru my binoculars outside the house as well as inside thru bedroom window back bedroom and also on our back porchObject gets super bright like fire then fades out like it disappears then left side appears a red opposite side appears a yellow like object looks like it has a weird round oval shape like over the top of it.Have not seen it move as of yet i first saw it at about 6:10 this evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105408.html](http://www.nuforc.org/webreports/reports/105/S105408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>4 disks with red glow seen over LSU going due west on 12/17 at 7:30At 7:30 pm on the 17th, I was in the back yard of my home just outside of the LSU campus.  I looked straight up, and rite away, saw 4 circle disks in formation moving due west.  They had an orange red glow that was faint and covered each disk entirely.  If you drew a circle around the formation, it was aprox. the size of the moon.  As they moved, the formation changed with 2 crossing over to the other side of the other 2. There was plenty of normal air traffic in the distance, all with typical blinking lights.  These did not blink.  The low glow to them came from the entire disk looking almost organic.  They were smooth moving and made no sound.  Fading out a minute later again heading due west over the Mississippi river.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124750.html](http://www.nuforc.org/webreports/reports/124/S124750.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [250](http://www.nuforc.org/webreports/reports/165/S165899.html)
-- [249](http://www.nuforc.org/webreports/reports/165/S165902.html)
-- [248](http://www.nuforc.org/webreports/reports/165/S165903.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161234.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161224.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
