@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Atascadero (101 freeway) (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.0016666666666666668 - 0.0016666666666666668 minutes.</sub><blockquote><sub>blue almost electrical circle of blue light  close to the ground maybe 5 feet above my vehicleThe guy in the slow lane on the 101 to san luis obispo, almost hit me as i swerved and looked back in front of me on the road a blue circular almost like a fire work but not looked more like electricity shot not far above my car and too the left and i lost sight of it, it was close enough i thought  I was going to hit it and hit my breaks hard did anyone else see this please report.  it made the hair on my arms stand up!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95335.html](http://www.nuforc.org/webreports/reports/095/S95335.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Asheville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>star sized color changing lights moving in weird patterns, white and orange balls falling from sky.I was outside grabbing my phone charger out of my car when in my peripheral vision I noticed a bright white ball flying through the air and then swiftly falling to the ground leaving clouds of fog behind (the rest of the sky was completely clear). I ran inside to grab my 3 friends thinking a plane had crashed. When we all got out side we noticed while  looking up at the sky we saw 30-40 star-sized lights changing colors, some blue to green, some blue to orange. As we observed the sky we noticed that the lights we saw were darting randomly  around the sky like nothing we had ever seen. Zig-zagging and moving up and down. Also shooting beams of light through the sky. We stood out there watching them do this for three hours.Later after going inside I noticed blinking white lights from a window coming from  the same place the white orb was seen. I went out side and saw two orange orbs side by side float up from behind a tree line, move about 500ft right and then quickly fall to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85976.html](http://www.nuforc.org/webreports/reports/085/S85976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
