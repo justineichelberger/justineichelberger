@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:45 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Des Moines (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Unusual flight pattern of a squadron of aircraft that defy gravity and G-force manuverabilityI’ve seen it on TV several times of lights flying in an unusual pattern.  At approximately 7:30 pm on 12/18/12 in the Saylorville area north of Des Moines, Iowa, I was a passenger in car heading only north.  We had a 3 block run to the east when I looked up and noticed 5 lights appearing to be heading west.  Initially they looked like they maybe a helicopter squadron heading toward Camp Dodge.hey appeared to be between 10 – 15 miles out.  I told the driver to pull over so he could witness them too.  All of a sudden they appeared to rearrange their pattern to a circle and their lights would dim appear more distant.  They really displayed odd behavior if they were military craft.  Secondly I didn’t notice any strobes or port/starboard lights.We observed them for several minutes and the driver made a call back to the house to have our Christmas party guests witness them too.  Both the driver and myself were very “freaked” out by the unusual flight patterns…if it was a hoax it was well done…and although I’m very careful about saying I’m a believer in UFO’s, I am very adamant having served 26 years in the military, that these lights were somehow controlled by some average Joe citizen.  I have never seen such a sight in person…the driver and I both were flabbergasted the rest of the evening by what we witnessed.  I swear others in the community would have witnessed such a sight and have video of it.  It’s just simply unexplainable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95347.html](http://www.nuforc.org/webreports/reports/095/S95347.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Lasalle (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright White Falling star w. tail that changed direction then shot back up into the atmosphere all within a few seconds.I was travelling NE and saw a very bright white light that seemed like a falling star with a long tail.  It was directly in front of my field of vision but was very far away.  To my astonishment after seeing this light coming straight down, a similar bright light appeared many miles west and shot back up into the atmosphere at an even faster velocity and disappeared immediatly.  It all occurred in a matter of a few seconds and I felt that I witnessed something pretty bizarre!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15504.html](http://www.nuforc.org/webreports/reports/015/S15504.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
