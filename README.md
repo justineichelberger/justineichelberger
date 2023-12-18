@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Taberg (Sweden) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Ufo in Sweden, TabergThe spaceship was triangle shaped.  Me and my friend was out for a walk and then my friend saw a falling star or at least he thought so. (It was a fire ball) and 5 minutes later we saw a spaceship 100 meters up above us.  The speed of the spaceship was about 200 km/h, it’s a guess.  On the spaceships edge’s was it round orange red glowing light but it wasn’t so strong.  Then 10 minutes later I saw a half circled formation of lights and then it flow above me and disappeared in the horizont.((NUFORC Note:  We are unconvinced that this is a serious report, or that it was submitted from Sweden.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73728.html](http://www.nuforc.org/webreports/reports/073/S73728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Loxahatchee (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We so a shape like sun or round shape orange going to east coast to west doing perfect line same shape en color.  No sound no to high because on airline preper for landing I tough they coming to close to crushed that happen today night 9.00 pm clear sky.  That's my number to get to close to UFO 30 years avoid so the same shape but white color no sound I was with my mother and 20 minutes later that day somebody alse report that UFO aircraft land and his property this event was and the news.  For today December 18th 2011 my son took a picture with my phone we got 2 abjects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85939.html](http://www.nuforc.org/webreports/reports/085/S85939.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
