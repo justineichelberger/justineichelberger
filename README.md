@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:39 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:39 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Mechanicsburg (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Craft of undetermined shape with a single strobe light hovered in the area. One had a white strobe, which turned red, then white again. Other remained red.Craft of undetermined shape with a single strobe light hovered in the area. One had a white strobe, which turned red, then white again. Other craft had red lights which did not change. The one with the white light moved horizontally and vertically in a fairly quick manner. The others did not move a great deal. Other aircraft, with normal lights on wings and underbelly could be seen in the sky. The white strobe was brilliant; definitely not an aircraft I am familiar with. I used binoculars to get a better look. The craft seemed to be a dull white color, similar in shape to a flying wing (large and rounded in the front and narrowing to a thin edge towards the back). It was north of town, then moved to the southeast, near the area of the Capital City Airport in New Cumberland.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05214.html](http://www.nuforc.org/webreports/reports/005/S05214.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>huge bright yellow light appeared then landed on a mountain topA large saser shaped object bolted across the sky.  It then huvered in mid air and then dived down to the earths serface ( a moutaion top)And either hovered or landed.  (it was imposible to tell because it was so dark)  After sitting or hovering on the montain top for about 2.5 seconds The Flying Sauser disapeared.  except for an eiriy red glow that remained in the same place that the UFO had disapeared.After about 5 seconds the glow also disapeared.I continued to watch for 10 minutes incase inything else unusual hapened.  But,unfortunatly,nothing did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33918.html](http://www.nuforc.org/webreports/reports/033/S33918.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
