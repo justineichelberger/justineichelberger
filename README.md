@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Drones?2 small bright white fireballs hover still stand and disappear on their own spot.  Never moved for about 5 minutes.Second object started to move towards left down and again dissipated; while a couple of airplanes can be seen on the somehow blue sky leaving smoke trials.. these two objects were not doing so, and never blink neither.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105431.html](http://www.nuforc.org/webreports/reports/105/S105431.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clearwater (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO Sighting in Clearwater, FloridaI was looking in the sky at the stars when all of a sudden, what appeared to be a star began to move south. The lighted object was as big as a star appearing to be extremely high in altitude. It moved at a slow pace for about 20 seconds till it disappeared into the night. Around 4-5 minutes after my first sighting, myself and a friend were viewing the sky after i told him what i had observed, both of us were looking around the same spot in the sky when once again another lighted object started moving east at the same speed as the other object and was viewable for 1-2 min till it also disappeared into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54060.html](http://www.nuforc.org/webreports/reports/054/S54060.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
