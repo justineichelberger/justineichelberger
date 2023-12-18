@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:40 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 18 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in San Juan (Puerto Rico) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While driving up the hill toward the house on a sunny blue sky day, an incredibly large fast moving black shadow ran across the hill in front of us.  We looked up and saw no aircraft and no noise.  Wow!  Must have been some kind of cloaked ship.  There was nothing up there in the sky. Nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151725.html](http://www.nuforc.org/webreports/reports/151/S151725.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>bright light overI was waiting at the stoplight at the intersection of Kanner Highway (SR 76) and Federal Highway (US 1) facing south.  I saw a bright light in the distance to the south (probably several miles away at least) moving from west to east and at about a 30 degree angle toward the ground.  It moved in a straight line at high speed.  I saw it straight ahead then lost sight of it behind a building on the SE corner of the intersection then briefly saw it again moving in the same apparent direction and speed before losing sight of it entirely behind buildings & trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67524.html](http://www.nuforc.org/webreports/reports/067/S67524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [242](http://www.nuforc.org/webreports/reports/165/S165905.html)
-- [241](http://www.nuforc.org/webreports/reports/165/S165893.html)
-- [240](http://www.nuforc.org/webreports/reports/161/S161223.html)
-- [239](http://www.nuforc.org/webreports/reports/161/S161237.html)
-- [238](http://www.nuforc.org/webreports/reports/161/S161238.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
