@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Boston (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On December 19, 2020, a UFO was observed in the vicinity of River Road in New Boston, NH. As we were traveling down the road, we saw two low flying objects flying in synch with one another. Both had bright white lights and a blinking red light. At first, we thought they may be airplanes, but as we got closer and the UFOs got lower, we realized this was not the case. As we progressed down the road, we came closer to one of the two UFOs. It increasingly lowered, and at one point I thought it was going to land right in front of us. The other UFO headed northeast and was soon out of sight. The UFO we had eyes on was hovering over a nearby residence. We pulled into a parking lot right across the street and stepped out of the vehicle to have a better look. The UFO was practically silent upon getting out of the vehicle. There was a faint hum and that was it for noise. It was rectangular in shape with two white lights on each side and a blinking red light in the middle. Within a few seconds of us getting out, the UFO stopped hovering and quickly moved away from us, heading over the Hillsborough County fairgrounds. The pattern at which it moved away was strange and like nothing I had seen before.  The UFO moved side to side and up and down. It did not fly in a straight pattern. As it moved away, we headed up to a nearby hill and watched these two objects hover in the distance for nearly 20 minutes. The movements they made seemed unnatural, choppy and sporadic. Soon several airplanes were in the sky and were seemingly looking for something.  It was definitely a strange occurrence that is unexplainable and like nothing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161256.html](http://www.nuforc.org/webreports/reports/161/S161256.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pelham (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Glowing moon-sized object moves across the sky, only to leave an orange streak behind it before it dissapears.It was a clear sky during a cold night. It was somewhere between 7:15pm and 7:25pm.A very large, and white colored glowing object appeared in the sky, seen from the truck my father and I were in. The object was larger than a full moon, but gave off an illumination similiar to what a star looks like in the night sky.  The object was to the south.  As soon as the object appeared it started traveling to the right (to the west).  It looked as if the object was at an elevation somewhere where an airplane might fly.  The object was moving at very fast speed, and using both of my arms to make an angle, it continued traveling westward for about 4 seconds, making roughly a 20 degree angle from where i was sitting.At the end of its movement, a thin orange streak shot out of the east side of the object.  A half a second after this happened, the object dissapeared instantly.My father also had the same observation of this object.  The only other known probable witness was another car's driver, who was in front of us and pulled over seconds after it started, and went back on the road after we drove by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95387.html](http://www.nuforc.org/webreports/reports/095/S95387.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
