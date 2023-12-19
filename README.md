@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Craft was flat black, noiseless and massive and boomerang in shape all smoothe in detail outline.The UFO sighted was triangular in shape, flat black with no lights.It was hovering due south, about 100 ft or a little more over homes across the street where I was stopped in my vehicle.There was NO NOISE.  This craft was facing the Orlando International Airport.My mother, her best friend and myself witnessed this craft in its silence hovering so close to the homes roof tops. We were directly across the street from its massive frame.The craft simulated that of a fat boomerang with not pointed edges, and huge in width.We watched this craft for several minutes before having to continue our travel.No writing on the aircraft, my father having been a Mustang Pilot, I was familiar with decals and or writing on wings and body of most aircraft.Undoubtedly, we were all completely startled as this craft and its silence just sat so closely above these homes.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/057/S57306.html](http://www.nuforc.org/webreports/reports/057/S57306.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pendleton (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was traveling east on I-84 from Hermiston to Pendleton after work.  I noticed a bright light that appeared at first to be a very bright star.  As I got closer and it got bigger, I realized that it wasn't a star.  It was a bright light with a hazy aura surrounding it.  It stayed fixed above Pendleton. I took 3 pictures and was trying to get home so I could look at it through a scope.  As I dropped into Pendleton, it rose higher until it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144134.html](http://www.nuforc.org/webreports/reports/144/S144134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
