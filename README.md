@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was travelling on Loop 202 Beeline Highway heading West . Coming from the South were two perfectly round dull green lights on opposite ends of each other but directly across from each other about the distance of a medium to small size airplanes wing span.  These two lights did NOT blink at all and they were not bright like a conventional aircraft or helicopter as to be used for the purpose of seeing out ahead of where it was going. There were  (zero) no other lights whatsoever on this UFO. As it approached closer towards the highway and right when it got almost directly above me the light on the right side (as Im looking at it coming towards me) turned a reddish color and with the same dim and dull appearance. The craft that was flying was completely dark ,so i couldnt make out the actual shape of it. I thought I seen a quick glimpse of the craft as a other source of low light reflected off of it and It appeared to be like a flat triangle shape. The color ! of the craft was a grayish dull steel appearance with intricate box shaped  or square parts on the exterior located towards the center . I know it sounds like I seen alot but I really didnt and it happened so quick that the only image i have in memory to describe it. The craft also wasnt very high off the ground . It was a few hundred feet in the air . I completely lost sight of it after it flew over my car towards Red Mountain . After that main sighting there were 4 seperate bright super bright lights that hovered out South of Phoenix and North West of Phoenix.  2 each on each side of the 202. There were multiple helicopters flying out between these white lights as well as commercial aircraft coming in and out of Phoenix Sky Harbor Airport. The Airplanes and Helicopters are extremely easy to identify whether they are far or near. There was alot of activity in Phoenix at 7pm . I hope others that witnessed what i seen has the inclination to report it as well .. I got footage! of the white lights (4) of them on video on my camera phone. ! I wish I could of captured the dull green lights on the craft that was super close to me, but i wasnt thinking fast enough to get that . that one would even have the Pope believing without a doubt there are UFOs</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151769.html](http://www.nuforc.org/webreports/reports/151/S151769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>About 3 bright green flashes with about 3-5 second spaces between each flash over salt lake city.  Almost resembling lightning in the clouds but its the middle of a snow storm.((NUFORC Note:  Possible power failure, possibly caused by an exploding transformer??  The witness reported that half the neighborhood where the sighting occurred lost power at about the time the flashes occurred.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105459.html](http://www.nuforc.org/webreports/reports/105/S105459.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
