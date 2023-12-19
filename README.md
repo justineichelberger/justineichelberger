@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:37 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Pendleton (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was traveling east on I-84 from Hermiston to Pendleton after work.  I noticed a bright light that appeared at first to be a very bright star.  As I got closer and it got bigger, I realized that it wasn't a star.  It was a bright light with a hazy aura surrounding it.  It stayed fixed above Pendleton. I took 3 pictures and was trying to get home so I could look at it through a scope.  As I dropped into Pendleton, it rose higher until it disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144134.html](http://www.nuforc.org/webreports/reports/144/S144134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Perfect circle of yellow dots of light in the sky at approx 4pm that appeared then disappeared.On Saturday, December 19, 2015, between 3 and 4 pm, I witnessed a circle of clear, distinct yellow lights appear in the sky and then disappear.  I would explain it as if a light switch had been turned on and then off in the sky.  The shape was a perfect circle.  I witnessed it from my vehicle, windows down.  My two children were with me but did not see it, as it only appeared for a brief moment.  We were pulling out of the Sanford Municipal Cemetery on 46A facing north - the object was in the northeastern sky.  The sky was grey overcast yet clear with mild temperature. It was  distinct.  My immediate thought was that the sight was strange, - I had never seen something like that in the sky, but then I dismissed the lights as having been either a firework or blown transformer.  I mentioned to my 9-yr-old son that I saw the lights and he asked me if it looked like a "ferris wheel" - which is exactly what it reminded me of - but it didn't have "spokes&qu! ot; in the center, just the perfect dots of light.  He said he had read about ferris wheel UFO's - I dismissed his statement.  I am submitting this report today (approx 2wks later) because I have yet to figure out what I saw.  There were no fireworks sounds at the time - and the circle was perfect, not oval, slanted, etc.  I had never seen anything like this before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125018.html](http://www.nuforc.org/webreports/reports/125/S125018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
