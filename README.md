@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:41 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Ring of blue light flying in physics-defying pattern around Irvine Spectrum.Circular disc about the size of a helicopter (size cannot be determined, only its location of flight is compared to a helicopter that flew past that region) gliding in circles, dipping and gliding back upwards, gliding down towards the unseen hillside. Re-emerges a few minutes later to continue its erratic physics-defying gliding pattern. Moves at a consistent speed, and moves easily from the ground to very high into the sky.Unidentified craft has only two lighted rings of blue on its underside, thinner ring outside, thicker ring inside, and seems to have a reflective surface. One blinking light was observed. The object seems to emit some motorized humming sound, confirmed by two other witnesses.The craft flew for approximately 10 - 15 minutes on the other side of the 405 freeway from the Irvine Spectrum's Nordstrom parking lot (where the craft was being observed from). 5 minutes later the craft was observed to be hovering over the other side of the Irvine Spectrum, only to dip behind one of the corporate buildings (WTBG Building if memory serves correct) and disappear, observed from the Macy's parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60433.html](http://www.nuforc.org/webreports/reports/060/S60433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tuolumne (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>fast moving light object.one was hovering in on spot. It was a light, a blinking light, like a twinkling star. It would hover there, but while it was hovering it would move very fast in different directions.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95350.html](http://www.nuforc.org/webreports/reports/095/S95350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
