@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oakley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UAP - 15 bright amber lights flying in formation over Oakley, CaliforniaOakley, California, Saturday, December 19, 2020 @ 22:35 hrs. (Pacific) – An Uber driver traveling east on highway 4 bypass, witnessed 15 bright amber lights flying west in formation at about 1000 feet elevation over the city of Oakley, California.They were magnificent as they flew in a pattern of a long string of amber lights, one after the other, at close proximity to the driver within a mile away. They came as close as a half mile away.The string of lights were separated by a trio of lights in a triangular pattern, with 6 lights to the front and 6 lights trailing. All the lights were identical bright amber. There were no red or green directional lights, no red beacons, and no bright landing lights. They kind of had the luminosity of military flares in the night sky. But, these weren't flares, as they were clearly lights. They moved with the behavior of small airplanes. But, if these were planes, why so many, flying in close formation, without directional lights? As the driver turned south on the freeway, they could be seen in the rear view mirror turning to the NW, still in formation. The sighting lasted about 30 seconds.Can anyone explain what they might have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161289.html](http://www.nuforc.org/webreports/reports/161/S161289.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>two objects passed east to west at an altitude of about 1000 feet. No noises and no lights. propulsion method not obvious. objects dark in color.probably passed just south of seatac airport. objects very close together. Diameter of one object two to three full moons . (I am a retired electrical engineer) there were no other witnesses that I am aware of.There was  not time to call anyone to see it. the flight pass was east to west in a straight line  ((name deleeted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11488.html](http://www.nuforc.org/webreports/reports/011/S11488.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
