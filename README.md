@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:36 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Derry (NH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright light flew down through sky at rapid trajectory and disappeared.  Had neon green afterburn, very distinct, vanished.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124769.html](http://www.nuforc.org/webreports/reports/124/S124769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in New Boston (NH) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On December 19, 2020, a UFO was observed in the vicinity of River Road in New Boston, NH. As we were traveling down the road, we saw two low flying objects flying in synch with one another. Both had bright white lights and a blinking red light. At first, we thought they may be airplanes, but as we got closer and the UFOs got lower, we realized this was not the case. As we progressed down the road, we came closer to one of the two UFOs. It increasingly lowered, and at one point I thought it was going to land right in front of us. The other UFO headed northeast and was soon out of sight. The UFO we had eyes on was hovering over a nearby residence. We pulled into a parking lot right across the street and stepped out of the vehicle to have a better look. The UFO was practically silent upon getting out of the vehicle. There was a faint hum and that was it for noise. It was rectangular in shape with two white lights on each side and a blinking red light in the middle. Within a few seconds of us getting out, the UFO stopped hovering and quickly moved away from us, heading over the Hillsborough County fairgrounds. The pattern at which it moved away was strange and like nothing I had seen before.  The UFO moved side to side and up and down. It did not fly in a straight pattern. As it moved away, we headed up to a nearby hill and watched these two objects hover in the distance for nearly 20 minutes. The movements they made seemed unnatural, choppy and sporadic. Soon several airplanes were in the sky and were seemingly looking for something.  It was definitely a strange occurrence that is unexplainable and like nothing I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161256.html](http://www.nuforc.org/webreports/reports/161/S161256.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
