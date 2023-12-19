@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:14 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Redding (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.8 - 0.8 minutes.</sub><blockquote><sub>I saw the most awesome thing.  Glad there was someone with me.  It was huge.  Couldn't see the whole thing.  Bright strobing.  Could feel the light?  Colorful.  I drew a picture.  Never seen anything like it.  Weird.  Diamond strobing orbs?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/115/S115029.html](http://www.nuforc.org/webreports/reports/115/S115029.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Ball of light at high velocity and frightning rate of descent.While driving east down a side street, I noticed a falling ball of yellowish/white light arcing east over Billings with an estimated descent rate of 10,000 fps and a speed exceeding 1000mph.  Estimated altitude upon initial contact was 8,000 AGL.  The object was not an aircraft as it did not have anti collision lights and its rate of descent was frightning.  The object was not a meteor as its parabolic trajectory was too steep to march the Earth's curvature.  Contact was lost as the aircraft disappeared behind trees lining the street.  I am a science teacher, pilot, and very familier with the physics of flight.  What caught my attention was the high velocity and rate of descent which covered a 70 degree sky arc in approximately 7 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85973.html](http://www.nuforc.org/webreports/reports/085/S85973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
