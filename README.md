@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:39 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>a round spinning object stood in the sky for a minute and took off going up at incredible speed.Driving on the 6th st entrance ramp of highway 280 south in san francisco, right over the bay a big round object spinning, it stood there for a minute and took off going up at a lighting speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73755.html](http://www.nuforc.org/webreports/reports/073/S73755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Annapolis (MD) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Strange metallic sound heard in the sky for 10 secondsWe didn't see any craft or object in the sky.  Me and two of my friends were outside on my patio smoking a cigar and just talking and out of nowhere this LOUD and strange sound just started ringing over the sky.  It's hard to explain what this sound was.  But it lasted 10 seconds.  It didn't sound like a plane or a rocket or an explosion.  It had a metallic sound to it.  We all just sat there in silence and looked at each other in disbelief at what we were hearing.  Never heard anything like this in my life.  Haven't heard it since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125336.html](http://www.nuforc.org/webreports/reports/125/S125336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
