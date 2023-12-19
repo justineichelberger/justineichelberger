@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:07 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Hot Springs (AR) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.0033333333333333335 - 0.0033333333333333335 minutes.</sub><blockquote><sub>THE OBJECT WAS LONG LIKE A AIRPLAIN , BUT HAD NO WINGS, ONLY SMALL PROTRUTIONS. IT WAS ALL BLACK , WITH NO LIGHT REFLECTION. NO SOUND. IT WAS ABOUT 1 MILE AWAY, LOW TO THE GROUND.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34118.html](http://www.nuforc.org/webreports/reports/034/S34118.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Winter Springs (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6-8 orange and red lights seen in a somewhat horizontal alignment.I would like to report what may, or may not, have been a UFO sighting.  Some time between 9:15pm and 9:30pm, on December 19, 2014, I saw maybe 6 to 8 orange and red lights hovering in one place in the sky.  They were approximately over Dike Road and Tuskawilla Road in Winter Springs, Florida, but to be honest I could not tell exactly the location since I was driving.  I live near an airport, and I saw some planes fly somewhat close to the lights and thought maybe they would have reported them as well.  They were, as I said before, hovering in one place.  Their alignment was horizontal, but scattered, as in they did not make a straight line.  I wanted to turn around and see them again, but when I went back they were all gone.  I am not sure if this matters, but it got very cloudy after the event.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116139.html](http://www.nuforc.org/webreports/reports/116/S116139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
