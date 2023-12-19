@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw 15 or more red UFO.s over Venice Florida moving over the Gulf of Mexico.Saw approx. 15 or more ufo,s moving east to west over Venice Florida around 20:00 8pm. Their color was red only, moving against a cold front very slowly and not very high in the sky. No other lights or sounds were noted.  Watched the red ufo,s for about 20 or 30 mins moving to the west to the Gulf of Mexico.  Three other people watched with me, we all asked, "What is that?".  They were moving in the clouds against the wind and we were only able to see the red lights when they were out of the clouds banks.  Again there was no sound and no other lights as a plane would have. It was odd that they were moving so slow in rows of two, one higher than the other as the UFOs pasted by heading to the Gulf of Mexico.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105524.html](http://www.nuforc.org/webreports/reports/105/S105524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Oakley (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>UAP - 15 bright amber lights flying in formation over Oakley, CaliforniaOakley, California, Saturday, December 19, 2020 @ 22:35 hrs. (Pacific) – An Uber driver traveling east on highway 4 bypass, witnessed 15 bright amber lights flying west in formation at about 1000 feet elevation over the city of Oakley, California.They were magnificent as they flew in a pattern of a long string of amber lights, one after the other, at close proximity to the driver within a mile away. They came as close as a half mile away.The string of lights were separated by a trio of lights in a triangular pattern, with 6 lights to the front and 6 lights trailing. All the lights were identical bright amber. There were no red or green directional lights, no red beacons, and no bright landing lights. They kind of had the luminosity of military flares in the night sky. But, these weren't flares, as they were clearly lights. They moved with the behavior of small airplanes. But, if these were planes, why so many, flying in close formation, without directional lights? As the driver turned south on the freeway, they could be seen in the rear view mirror turning to the NW, still in formation. The sighting lasted about 30 seconds.Can anyone explain what they might have been?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161289.html](http://www.nuforc.org/webreports/reports/161/S161289.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
