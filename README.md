@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161248.html](http://www.nuforc.org/webreports/reports/161/S161248.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Venice (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Saw 15 or more red UFO.s over Venice Florida moving over the Gulf of Mexico.Saw approx. 15 or more ufo,s moving east to west over Venice Florida around 20:00 8pm. Their color was red only, moving against a cold front very slowly and not very high in the sky. No other lights or sounds were noted.  Watched the red ufo,s for about 20 or 30 mins moving to the west to the Gulf of Mexico.  Three other people watched with me, we all asked, "What is that?".  They were moving in the clouds against the wind and we were only able to see the red lights when they were out of the clouds banks.  Again there was no sound and no other lights as a plane would have. It was odd that they were moving so slow in rows of two, one higher than the other as the UFOs pasted by heading to the Gulf of Mexico.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105524.html](http://www.nuforc.org/webreports/reports/105/S105524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
