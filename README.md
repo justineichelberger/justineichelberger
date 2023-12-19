@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:32 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Wauchula (FL) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a large ufo shaped like a rectangle was observed  while riding a motorcycle in the broad daylight.i was on a motorcycle ride when i spotted this craft. it was pacing me at about 55 mph to my right.atthe same time a small unmarked black helicopter flew back toward me.this was observed at the intersection of polk road and hwy 66.so i then turned west on hwy 66west and later turned on college hill road.i no longer saw it until i reached the end of college hill road and then i could see it to my right.it then flew across the road over a orange grove.i obsered it for about a minute. then i turned left and i noticed it was pacing me at the right again at about 45 mph.i stopped and observed it over a phospate pit for about 30 seconds.since i was low on fuel iproceeded to go back the way i had come.as i turned right on college hill road the black helicopter flew across the road in front of me,but i just kept going.i never saw the ufo or helicopter again .i wish i had a camera. no sound was heard.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85984.html](http://www.nuforc.org/webreports/reports/085/S85984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub></sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161248.html](http://www.nuforc.org/webreports/reports/161/S161248.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
