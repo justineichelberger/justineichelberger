@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Perfect circle of yellow dots of light in the sky at approx 4pm that appeared then disappeared.On Saturday, December 19, 2015, between 3 and 4 pm, I witnessed a circle of clear, distinct yellow lights appear in the sky and then disappear.  I would explain it as if a light switch had been turned on and then off in the sky.  The shape was a perfect circle.  I witnessed it from my vehicle, windows down.  My two children were with me but did not see it, as it only appeared for a brief moment.  We were pulling out of the Sanford Municipal Cemetery on 46A facing north - the object was in the northeastern sky.  The sky was grey overcast yet clear with mild temperature. It was  distinct.  My immediate thought was that the sight was strange, - I had never seen something like that in the sky, but then I dismissed the lights as having been either a firework or blown transformer.  I mentioned to my 9-yr-old son that I saw the lights and he asked me if it looked like a "ferris wheel" - which is exactly what it reminded me of - but it didn't have "spokes&qu! ot; in the center, just the perfect dots of light.  He said he had read about ferris wheel UFO's - I dismissed his statement.  I am submitting this report today (approx 2wks later) because I have yet to figure out what I saw.  There were no fireworks sounds at the time - and the circle was perfect, not oval, slanted, etc.  I had never seen anything like this before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125018.html](http://www.nuforc.org/webreports/reports/125/S125018.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Irvine (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Ring of blue light flying in physics-defying pattern around Irvine Spectrum.Circular disc about the size of a helicopter (size cannot be determined, only its location of flight is compared to a helicopter that flew past that region) gliding in circles, dipping and gliding back upwards, gliding down towards the unseen hillside. Re-emerges a few minutes later to continue its erratic physics-defying gliding pattern. Moves at a consistent speed, and moves easily from the ground to very high into the sky.Unidentified craft has only two lighted rings of blue on its underside, thinner ring outside, thicker ring inside, and seems to have a reflective surface. One blinking light was observed. The object seems to emit some motorized humming sound, confirmed by two other witnesses.The craft flew for approximately 10 - 15 minutes on the other side of the 405 freeway from the Irvine Spectrum's Nordstrom parking lot (where the craft was being observed from). 5 minutes later the craft was observed to be hovering over the other side of the Irvine Spectrum, only to dip behind one of the corporate buildings (WTBG Building if memory serves correct) and disappear, observed from the Macy's parking lot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60433.html](http://www.nuforc.org/webreports/reports/060/S60433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
