@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:14 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:34 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Ball of light at high velocity and frightning rate of descent.While driving east down a side street, I noticed a falling ball of yellowish/white light arcing east over Billings with an estimated descent rate of 10,000 fps and a speed exceeding 1000mph.  Estimated altitude upon initial contact was 8,000 AGL.  The object was not an aircraft as it did not have anti collision lights and its rate of descent was frightning.  The object was not a meteor as its parabolic trajectory was too steep to march the Earth's curvature.  Contact was lost as the aircraft disappeared behind trees lining the street.  I am a science teacher, pilot, and very familier with the physics of flight.  What caught my attention was the high velocity and rate of descent which covered a 70 degree sky arc in approximately 7 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85973.html](http://www.nuforc.org/webreports/reports/085/S85973.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Caracas (Venezuela) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>cratf of cilindrical shape with 2 differents halos seen aroundThis week there was a lot of of ufos activities, like 5 ufos were seen during this week but the climax of such activity was this one. A large cilinder with 4 small wins crossed over the city travelling like a 300 km/h aroung 1000 feets over the ground from east to west .It was incrementing its speed and do it so we can see a red halo over the tail while a white halo was in the front of the craft.We calculate its side as like a 747 jumbo jet.First we thoug was this type of craft but then  we used binoculars to see it well.Then the craft was increasing its speed and altitude.Once thing  that is very important was that it travel like doing not work at all and didnt make any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73747.html](http://www.nuforc.org/webreports/reports/073/S73747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
