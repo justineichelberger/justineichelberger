@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:14:53 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:00:40 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1-hr. - 1-hr. minutes.</sub><blockquote><sub>A RECTANGLE BLACK OBJECT STATIONARY IN MID -AIR ABOUT AN HR. WITNESSES ON HAND.12-20-08 a huge retangle shape dark object was very visable at 12 oclock high,and stationary for about an hour in the sky,as many espectators pointed to the object,then it began to move very slowly toward the southeast,then disappered from the sky.altitude estimated 12,ooo ft.many witnesses from parking lot,and few got out from their cars to see the object.the object did not make any noises.seen two spectators taking pictures with cam corders.410 south,curcit city store and ross store parking lot,between 4:45pm and 5:48pm. GOD IS WITNESS ALSO!  NO JOKE HERE!! from SAN ANTONIO,TEXAS.it might come out on t.v. news.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67566.html](http://www.nuforc.org/webreports/reports/067/S67566.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Silver Lake (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Perfect circle, no movement, outlined by 12 white lights, about 1 mile in diameterDriving East on the 212 in MN we spotted a large object in the sky with 12 white lights evenly spaced around the parameter of the object.  I estimate it had to be at least 1 mile in Diameter and 20 miles away.  I estimate it was over Silver Lake but I could be wrong.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137897.html](http://www.nuforc.org/webreports/reports/137/S137897.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
