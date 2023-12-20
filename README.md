@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:42 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was just getting home from a friends and notice the hair standing on my arm when I was putting my jacket on to get out of the car because it was cold that night. Anyways I thought it was kind of funny how the hair was standing on my arm but I went ahaed and put my jacket on got out of the car and went inside for a minute. As Iw as in the house I heard something outside and went to the kitchen window and looked out towards the back yard and saw some light. I was thinking it was a flashlight or something like that and went outside and then it happened...My hairs started standing up on my arms again as I was walking around the backside of the house I just happened to look up and seen a circular object lightly illuminated hovering about 50 ft to 75 ft in the air over the house. It was glowing from a blue to white haze. I had no sound at all. The sound I heard before I went to look was like someone coughing outside or something. It sat there and hovered for about ten minutes and then slowly started moving from side to side for about 3 minutes, then just like BAM it shot off to the north and and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34130.html](http://www.nuforc.org/webreports/reports/034/S34130.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped glowing white object leaves a trail of 'smoke' in the sky then vanishes .I observed one oval shaped craft heading easterly in the sky. At first it appeared to be a jet of some sort but it was moving sporadically in the sky in a continued forward motion (up and down). It let behind a trail of ‘smoke’. At this point I was thinking it was some sort of meteorite or maybe a fireball. The color was white. As soon as I came to this conclusion is when the object stopped in the sky and it appeared to have some sort of white haze, almost like a fog develop around it. As soon as this happened the trail of ‘smoke’ ceased to be produced. The object grew brighter and moved ahead then absolutely just vanished. I was able to record about 2 ½ minutes from my cell phone.The initial event that caught my attention was not recorded because I was really dumbfounded by what I was looking at in the sky. As soon as the object started to disappear is when I started recording so the video only shows the faint object and the trail of ‘smoke’ which shows the trajectory of the objects movement.I took one still shot when I arrived to work that only showed what was left over from the ‘smoke’ the object produced.It was oval in shape and had a bright white glow. I could see no details other than the shape and the glow. Its shape was very distinct and it did not have wings from what I could tell. No blinking lights or anything of the sort that would make it identifiable as a jet or a helicopter. The sky was clear and it was in fact dark just before sunrise.I will email the photo and video evidence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151747.html](http://www.nuforc.org/webreports/reports/151/S151747.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
