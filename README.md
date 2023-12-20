@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Del Mar (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very large bright (white Light) object falling down out of sky at a controlled rate, did anyone else see it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151757.html](http://www.nuforc.org/webreports/reports/151/S151757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Twelve orange globes in formation over FresnoI saw approximately twelve orange globes hanging in the sky.  I was in the NW part of Fresno looking East at 7 pm.  At first I thought it was Christmas lights but quickly realized they were not attached to a house.  When I pulled back around to get a good look, I saw that they were hanging in the sky hundreds of feet in the air.  They were in formation.  They made no sound.  When I pulled over, another truck had already been parked and was looking at the lights.  They said before I got there, the globes were in a straight vertical line, one on top of the other.  When I first saw them they were not exactly vertical, but the whole group was more or less up and down, hundreds of feet top to bottom.  Then they started to move very slowly into groups of three and four in what appeared to be triangles and the group became more horizontal.  The spacing between the globes was nearly exact.  We watched them for five minutes then they started to fade away one after the other.((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be quite serious-minded.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131822.html](http://www.nuforc.org/webreports/reports/131/S131822.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
