@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:14:53 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saucer shaped soundless object hovering with rectangular lights going around; as soon as on would go off, the other would come on,In december around 8 oclock I was riding with my friend when suddenly in the sky I saw an amazing site. Stop!!! Look!!! oh my gosh... It was a saucer shaped object hovering over with lights appearing to be going around and around it. I noticed it had no sound and that it was kinda dark metallic in color with all of the object being held together with triangle shapes all hooked to each other. There were big round like nots(very large screws) at every point of every triangle shape. Apparently this held it's shape together. I also noticed that when one of the rectangular shaped light's would go off, at that second the next light would come on - in a series of light's all the way around the craft. After a while of starring out the window of the car, the craft started almost unnoticeably going straight upwards, then up and to the side at exact incraments. Soundless, increasing speed all the time, it finally wens so darn fast it was absolutely amazing to the human eye. This is very true yall. I can only say that I have never felt the same since.Thank You For Some Closure Here Sincerely((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66604.html](http://www.nuforc.org/webreports/reports/066/S66604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in San Antonio (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1-hr. - 1-hr. minutes.</sub><blockquote><sub>A RECTANGLE BLACK OBJECT STATIONARY IN MID -AIR ABOUT AN HR. WITNESSES ON HAND.12-20-08 a huge retangle shape dark object was very visable at 12 oclock high,and stationary for about an hour in the sky,as many espectators pointed to the object,then it began to move very slowly toward the southeast,then disappered from the sky.altitude estimated 12,ooo ft.many witnesses from parking lot,and few got out from their cars to see the object.the object did not make any noises.seen two spectators taking pictures with cam corders.410 south,curcit city store and ross store parking lot,between 4:45pm and 5:48pm. GOD IS WITNESS ALSO!  NO JOKE HERE!! from SAN ANTONIO,TEXAS.it might come out on t.v. news.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67566.html](http://www.nuforc.org/webreports/reports/067/S67566.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
