@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Toledo (OH) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>cylider shaped object over Toledo OHObserved object traveling on almost a due west to east course, almost directly overhead. Object appeared to be at height of 30-40,000 feet at a speed comparable to an airliner. Object traveled on straight course, no vapor trail. Object sixe about 1/3 of airliner, bright white, no wings, tail or other details appeared. When almost directly overhead, a commercial airline passed on a east to west course about 3-5 miles to south, appeared to be a simlar altitude.Was definitely not meteor or satelite sighting, brightness did not fade in or out. As amateur astronomer, I ahve seen all these.Sky was clear, no clouds, bright</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/020/S20859.html](http://www.nuforc.org/webreports/reports/020/S20859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flame-like orange light, moved in a straight line, curved slightly, came to a complete stop, and then after a ew seconds, disappeared.I was out getting my mail and and as I was walking back down my path to my house, I saw a strange orange light in the sky.  It was different, so I stood and watched it.  It flickered a bit and reminded me of a flame, and was colored as a flame also.  It moved different than a plane.  When I first noticed it, it was moving slowly and in a straight line and then curved slightly and came to a stop! Then I knew for sure it wasn't a plane!  It stood still for a while and then was slowly getting dimmer.  Then it finally disappeared completely.  I stood and watched for a while to see if it would come back but it didn't.  It was just the night sky then, and I was in disbelief.  The weather was clear - no clouds at all - only the night sky with the stars (the ones you can see in the City anyway).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85974.html](http://www.nuforc.org/webreports/reports/085/S85974.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
