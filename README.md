@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:35 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Browns Valley/Marysville (near Beale Air Force Base) (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>object appears to remain stationary 20-30 minutes, has many greenish-blue flashing lights some rapidly moving white lghts. No noise. Some small white lights entering and leaving larger craft.  Has appeared each night for at least a week. Occasionly turns and disappears. Possibly object is observing BAFB.  Several unit seem to combine as one.I am a WWII aerial observer and navigator.  Flew in B-24's in the western Pacific.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11531.html](http://www.nuforc.org/webreports/reports/011/S11531.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Del Mar (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very large bright (white Light) object falling down out of sky at a controlled rate, did anyone else see it?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151757.html](http://www.nuforc.org/webreports/reports/151/S151757.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
