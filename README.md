@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Four Oaks (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Strange silent color-shifting light seen 10:29pm December 20 towards Garner.Around 10:29pm Sunday night, I noticed a light off in the distance (couldn't tell how far away) Northwest towards Garner, NC.  It hovered, no sound, changed between red & yellow. After grabbing my cell phone & returning, the object had vanished & never reappeared again that evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124955.html](http://www.nuforc.org/webreports/reports/124/S124955.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five lights in a line moving N to S diminished in brightness until invisible.I was walking my dog along the railroad track, two blocks east of where the tracks go over Como ave..  I saw points of light in the sky in the North moving N to S in a line.  These lights formed a rough, not perfect, line.  All moved uniformly and in sync WRT velocity.  My suspicions were raised when I realized no sound was being emitted, contrary to my initial belief that they were military helicopters in formation.  As the four of them passed overhead, the second to the vanguard diminished in brightness and in doing so began emitting a redder light until finally it disappeared.  I then noticed more movement to the North and observed a fifth apparently catching up because of it's slightly higher rate of speed.  At this point there were only four and all continued in the same vector at the same speed.  After a short time, as with the first one, all began disappearing.Each light had a bright center and was enveloped in a fuzzy glow.I felt elated and surprised.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124865.html](http://www.nuforc.org/webreports/reports/124/S124865.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
