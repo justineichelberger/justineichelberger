@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 19 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pelham (NH) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Glowing moon-sized object moves across the sky, only to leave an orange streak behind it before it dissapears.It was a clear sky during a cold night. It was somewhere between 7:15pm and 7:25pm.A very large, and white colored glowing object appeared in the sky, seen from the truck my father and I were in. The object was larger than a full moon, but gave off an illumination similiar to what a star looks like in the night sky.  The object was to the south.  As soon as the object appeared it started traveling to the right (to the west).  It looked as if the object was at an elevation somewhere where an airplane might fly.  The object was moving at very fast speed, and using both of my arms to make an angle, it continued traveling westward for about 4 seconds, making roughly a 20 degree angle from where i was sitting.At the end of its movement, a thin orange streak shot out of the east side of the object.  A half a second after this happened, the object dissapeared instantly.My father also had the same observation of this object.  The only other known probable witness was another car's driver, who was in front of us and pulled over seconds after it started, and went back on the road after we drove by.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95387.html](http://www.nuforc.org/webreports/reports/095/S95387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Macon (GA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saucer shaped soundless object hovering with rectangular lights going around; as soon as on would go off, the other would come on,In december around 8 oclock I was riding with my friend when suddenly in the sky I saw an amazing site. Stop!!! Look!!! oh my gosh... It was a saucer shaped object hovering over with lights appearing to be going around and around it. I noticed it had no sound and that it was kinda dark metallic in color with all of the object being held together with triangle shapes all hooked to each other. There were big round like nots(very large screws) at every point of every triangle shape. Apparently this held it's shape together. I also noticed that when one of the rectangular shaped light's would go off, at that second the next light would come on - in a series of light's all the way around the craft. After a while of starring out the window of the car, the craft started almost unnoticeably going straight upwards, then up and to the side at exact incraments. Soundless, increasing speed all the time, it finally wens so darn fast it was absolutely amazing to the human eye. This is very true yall. I can only say that I have never felt the same since.Thank You For Some Closure Here Sincerely((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66604.html](http://www.nuforc.org/webreports/reports/066/S66604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/165/S165900.html)
-- [230](http://www.nuforc.org/webreports/reports/165/S165907.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161437.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161289.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161240.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
