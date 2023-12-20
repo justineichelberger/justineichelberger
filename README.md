@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Twelve orange globes in formation over FresnoI saw approximately twelve orange globes hanging in the sky.  I was in the NW part of Fresno looking East at 7 pm.  At first I thought it was Christmas lights but quickly realized they were not attached to a house.  When I pulled back around to get a good look, I saw that they were hanging in the sky hundreds of feet in the air.  They were in formation.  They made no sound.  When I pulled over, another truck had already been parked and was looking at the lights.  They said before I got there, the globes were in a straight vertical line, one on top of the other.  When I first saw them they were not exactly vertical, but the whole group was more or less up and down, hundreds of feet top to bottom.  Then they started to move very slowly into groups of three and four in what appeared to be triangles and the group became more horizontal.  The spacing between the globes was nearly exact.  We watched them for five minutes then they started to fade away one after the other.((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be quite serious-minded.  We suspect that he is an excellent witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131822.html](http://www.nuforc.org/webreports/reports/131/S131822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Kokomo (IN) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was just getting home from a friends and notice the hair standing on my arm when I was putting my jacket on to get out of the car because it was cold that night. Anyways I thought it was kind of funny how the hair was standing on my arm but I went ahaed and put my jacket on got out of the car and went inside for a minute. As Iw as in the house I heard something outside and went to the kitchen window and looked out towards the back yard and saw some light. I was thinking it was a flashlight or something like that and went outside and then it happened...My hairs started standing up on my arms again as I was walking around the backside of the house I just happened to look up and seen a circular object lightly illuminated hovering about 50 ft to 75 ft in the air over the house. It was glowing from a blue to white haze. I had no sound at all. The sound I heard before I went to look was like someone coughing outside or something. It sat there and hovered for about ten minutes and then slowly started moving from side to side for about 3 minutes, then just like BAM it shot off to the north and and dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34130.html](http://www.nuforc.org/webreports/reports/034/S34130.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
