@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Flame-like orange light, moved in a straight line, curved slightly, came to a complete stop, and then after a ew seconds, disappeared.I was out getting my mail and and as I was walking back down my path to my house, I saw a strange orange light in the sky.  It was different, so I stood and watched it.  It flickered a bit and reminded me of a flame, and was colored as a flame also.  It moved different than a plane.  When I first noticed it, it was moving slowly and in a straight line and then curved slightly and came to a stop! Then I knew for sure it wasn't a plane!  It stood still for a while and then was slowly getting dimmer.  Then it finally disappeared completely.  I stood and watched for a while to see if it would come back but it didn't.  It was just the night sky then, and I was in disbelief.  The weather was clear - no clouds at all - only the night sky with the stars (the ones you can see in the City anyway).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85974.html](http://www.nuforc.org/webreports/reports/085/S85974.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Crooked River Ranch (OR) reported seeing craft that fit the description of some '' over a period of approximately several min. - several min. minutes.</sub><blockquote><sub>string of red lights evenly spaced travleling across the sky no sounds at all there was a plane or something following no noiseWe saw 5 bright red lights all in a straight line going across the sky, no noise traveling from our northwest to east.  Call authorities had no info for us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/085/S85980.html](http://www.nuforc.org/webreports/reports/085/S85980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
