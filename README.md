@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Bright circular light sat still for 20 minutes then proceeded to move back and forth and up and down.  Two hours later it just disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137913.html](http://www.nuforc.org/webreports/reports/137/S137913.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Helmetta (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>It hovered , sprinted across the sky. Hovered again. Disappeared.The event lasted only a few seconds.  Just returned from a movie with my friends.  Happened to look eastward in the dark sky.  Saw a round object appear out of nowhere.Hovered about 2 seconds. The took off in a northern direction, dashed across the sky.Stopped on a dime. Hovered about a second. Disapperared.Saw UFO sighting accounts on the news that night. In Asbury Park and North Bergen, NJ.I think I saw the object travel from one location to the other.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54756.html](http://www.nuforc.org/webreports/reports/054/S54756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
