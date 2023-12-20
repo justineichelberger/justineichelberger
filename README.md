@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Independence (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately many hours - many hours minutes.</sub><blockquote><sub>weird aircraft over independence missouriMy brother in law works at the mall over night and he was the one who noticed it at first. He notices it around 4 a.m. and it has been going on for quite some time, over a hour as of now. When first glance at the weird aircraft it was red. Then it changed colors, it would go from white to green. Then two little white objects flew around it and disappeared into the bigger object. My husband and I also witnessed it and we saw the colors change. We saw that it was moving up and down and from side to side and the lights were pulsating. Unfortunately it is dark outside so we cant tell for sure the actual shape and size and our camera wouldn't pick it up. By the way it changed colors and how it moved it could not have been a satellite or an air plane. We just don't know what it could be.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79312.html](http://www.nuforc.org/webreports/reports/079/S79312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sweden () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>I read today in Jonkopings Posten that strange lights were reported in the sky over the waters between Denmark and Sweden but I have not been able to find anymore information. Do you people know anything about this occurence?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11438.html](http://www.nuforc.org/webreports/reports/011/S11438.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
