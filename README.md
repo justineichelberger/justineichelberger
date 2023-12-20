@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:42 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Greensboro (NC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Oval shaped glowing white object leaves a trail of 'smoke' in the sky then vanishes .I observed one oval shaped craft heading easterly in the sky. At first it appeared to be a jet of some sort but it was moving sporadically in the sky in a continued forward motion (up and down). It let behind a trail of ‘smoke’. At this point I was thinking it was some sort of meteorite or maybe a fireball. The color was white. As soon as I came to this conclusion is when the object stopped in the sky and it appeared to have some sort of white haze, almost like a fog develop around it. As soon as this happened the trail of ‘smoke’ ceased to be produced. The object grew brighter and moved ahead then absolutely just vanished. I was able to record about 2 ½ minutes from my cell phone.The initial event that caught my attention was not recorded because I was really dumbfounded by what I was looking at in the sky. As soon as the object started to disappear is when I started recording so the video only shows the faint object and the trail of ‘smoke’ which shows the trajectory of the objects movement.I took one still shot when I arrived to work that only showed what was left over from the ‘smoke’ the object produced.It was oval in shape and had a bright white glow. I could see no details other than the shape and the glow. Its shape was very distinct and it did not have wings from what I could tell. No blinking lights or anything of the sort that would make it identifiable as a jet or a helicopter. The sky was clear and it was in fact dark just before sunrise.I will email the photo and video evidence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151747.html](http://www.nuforc.org/webreports/reports/151/S151747.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sartell (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>star took off after watching itMy wife woke up to get ready for work about 5:40 am she looked out the window to the north and noticed 2 stars kinda close together that shes never observed before. I went to the window and we were looking at the stars It was cold that morning. After about 10 minutes the star she and I observed took off It dipped down to the right and headed north very fast.It quickly dissappeared Into the stars.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/075/S75182.html](http://www.nuforc.org/webreports/reports/075/S75182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
