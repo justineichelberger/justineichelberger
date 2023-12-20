@@ -212,7 +212,7 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:45 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:20 on 20 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
 ![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Friday Harbor (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Two light orbs spotted making irregular movements.My husband had stepped out side of our rental to get something from the truck when he looked up and saw an abnormal set of lights in the sky.  He called me to the front porch and I instantly saw the two orbs.  (The orbs were far up in the sky probably about the same height that a plane would fly)  They seemed to be doing figure eights in the sky, they would move up then all of a sudden move to the left making sharp right angle turns.All of the activity happened in one small area of the sky for about 5 minutes then the orb on the left shot off and out of sight. The other stayed in the sky about 15 minutes maybe longer, at that point it became too eerie and we went inside.I later stuck my head outside probably about 7 p.m., and didn't see anything more.Both my husband and I work as healthcare professionals and this was our first sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/088/S88379.html](http://www.nuforc.org/webreports/reports/088/S88379.html)</i></sub></sub></sub><br>
 <h5><details open>
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161265.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161250.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161269.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161247.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161815.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
