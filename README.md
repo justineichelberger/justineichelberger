@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:54 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:18 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Spotted Medium Speed moving object heading NNW, below the clouds.Heading North on Hwy 17 bypass at 2:10 A.M. on 12/21/98. While in a very dark section of roadway, the hood of my pickup truck started to glow gold (brown truck), suddenly above, suddenly above my truck I saw a glowing green object heading NNW, at a medium speed, slower than a meteorite but faster than a jet. It continued in this direction for about 10 seconds, when it suddenly turned left, not a curved left, a sharp angle left, and disappeared over the horizon. It was cloudy, so when I arrived at my destination ten minutes later, I turned on the weather channel to note the cloud level at 10,000 feet. It was definitly below the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05198.html](http://www.nuforc.org/webreports/reports/005/S05198.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary Orange LightsSaw two bright lights - pulsing orangish/red.  They were stationary in the sky, no smoke trails.  Then a third light appeard about 5 minutes later, making a traingular pattern.  Shortly after that, a fourth light appeared equidistant from the first two lights.  Then the third light split into two more lights, making a total of 5 lights.  The two lights that split came back to one, and the fourth light disappeared.  The three remaining lights all remained stationary and ever initially seeing the lights at 8:18pm, they disappeared at 8:28pm.  The lights were very similar to what I observed on 12/6, except instead of being southwest of Maricopa, AZ, the lights were over the Gila River Indian Reservation, inbetween the Estrella mountains and Tablerock Mesa.((NUFORC Note:  Possible military flares??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54115.html](http://www.nuforc.org/webreports/reports/054/S54115.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
