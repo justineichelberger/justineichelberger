@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Niagara Falls (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Lights reflect off spot lights in niagara falls 21 of december 2010 atleast 15 times has been seenLights reflecting again off spot lights, and finally was able to take a pic with my phone cause it was extremely bright this night. Has been viewed by me and many others at least 15 to 20 times since September 2009</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79343.html](http://www.nuforc.org/webreports/reports/079/S79343.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Paterson (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately unkown - unkown minutes.</sub><blockquote><sub>Oval pulsating orb was hovering over city of Paterson NJ on Dec 21, 2010 @ 6:30 am morning of Lunar Eclipse.Oval pulsating orb was hovering over city, the lights where bright white which change to red for a few seconds then return to white. The size of the orb was about the size of a blimp or about half the size of the moon. I thought it was a star at first but it was to low and stars don't pulsate.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79329.html](http://www.nuforc.org/webreports/reports/079/S79329.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
