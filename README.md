@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jeffersonville (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw 5 or 6 crafts, two ascended very very quickly upward-- All were fast, a couple may have been planes (but only one made noise)Saw an object near the moon (which was lower than usual) the object left a cloud behind it...object was ascending upward.  I pulled over to look at it.  The object shot across (over me), Sarah got out of the car, the object shot straight upward in the air (leaving no cloud, or making no noise)  It took fast for object to move over to me.  I noticed a couple other objects (these looked like planes on me, but they were very fast (faster than a jet)).  These objects were close to each other.  They appeared to cross paths.  I saw another that looked like a plane (this made a plane noise)  I saw another object that also shot straight up in the air.  Sarah saw another object, that was far away and disappearing.  I immideatley said and thought that I have never seen this before, and I have never seen this many planes in the same airspace (especially where I live (I live about 20 miles, so I see some planes, but not 5 or 6 in the same airspace).  The two objects tha! t were flying UPWARD had red and white lights BUT A LOT.  These objects were a kind of oval/rectangle look.  THESE WERE SO FAST.  The other objects had red and white lights but on one I don't remember seeing what kind of lights.  It was hard to really process everything happening because it seemed as if these objects were coming from different areas, except for the two objects that came after the first object shot upward.  ALL the objects though traveled in a different direction (to my right, which I am logically guesing is West)  It all happened so fast and they disappeared rather quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79327.html](http://www.nuforc.org/webreports/reports/079/S79327.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Anthem (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Strange object or bird?  Not sure.My security cam in my backyard will send a series of 6 pictures to my email in the event of something flying in front of it.  It usually does not detect birds unless they are very close up.  I received a series of 6 pictures on my email 12/21.  On the 3rd one, usually the 3rd is what is the trigger, I received the attached photo.  The other five are blank, only the 3rd picture shows the attached.  Is this bird?  If so, it’s a really large one.  If this is anything please contact me.  Thanks!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138145.html](http://www.nuforc.org/webreports/reports/138/S138145.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
