@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Geneva (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Triangular shaped, possibly bright white, flashing lights was seen over west central Georgia, USAToday as I was traveling in a  south eastern direction, at app 11 o’clock position in the sky, I saw a triangular shaped object, that appeared to have a halographic type of surface. This could have been bright white, flashing lights. The edges of  the craft were sharp and clean, not rounded or blurry.This is the second one of these I have seen, the first being in July of this year, also in the south eastern skies above Georgia.  I did not report the first, but now that I have seen it again , I feel I must.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95380.html](http://www.nuforc.org/webreports/reports/095/S95380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Baker/Edwards AFB (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Hey people I've got a story for u, yesterday me, my wife,my sister and cousin were on our way home to Delano ca. from Las Vegas nv. and about 2:00 pm we were passing the town of baker, and my cousin started asking about area 51, so I started joking to watch out for ufo's. just then out of the corner of my eye I saw a silver ice cream cone shaped object hovering about the height of the street lights. The object stayed in the air for about 45 seconds, it got bright and then dimmed a little, then it got as bright as the sun and dimmed again but this time in got smaller and smaller until it vanished.  this also happened again around Edwards air force base, but this time all of us noticed about five to ten jet fighters were flying around, the fighter were crisscrossing the sky like they were looking or chasing something. Soon we got in to the mountains and it was over cast so we lost sight of the fighter jets. There was a lot of traffic on high way way 58 so I know other people had to see it.((NUFORC Note:  Report submitted by student.  It would be a very unusual circumstance, we believe, that 5-10 USAF jets would be scrambled, in response to a "bona fide" sighting of a genuine UFO.  Just a guess, however.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34061.html](http://www.nuforc.org/webreports/reports/034/S34061.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
