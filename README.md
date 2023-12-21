@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:18 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Maricopa (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Stationary Orange LightsSaw two bright lights - pulsing orangish/red.  They were stationary in the sky, no smoke trails.  Then a third light appeard about 5 minutes later, making a traingular pattern.  Shortly after that, a fourth light appeared equidistant from the first two lights.  Then the third light split into two more lights, making a total of 5 lights.  The two lights that split came back to one, and the fourth light disappeared.  The three remaining lights all remained stationary and ever initially seeing the lights at 8:18pm, they disappeared at 8:28pm.  The lights were very similar to what I observed on 12/6, except instead of being southwest of Maricopa, AZ, the lights were over the Gila River Indian Reservation, inbetween the Estrella mountains and Tablerock Mesa.((NUFORC Note:  Possible military flares??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54115.html](http://www.nuforc.org/webreports/reports/054/S54115.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 sets of 3 (12) separate flying orbs/fireballs, orange, headed northwest in straight line.four sets of 3 glowing orange orbs traveling northwest coming from south.  First set of 3 were visible along with a few other orange lights in the distance.  I didn’t know at first that they were a set of three until they got a little closer.  Then I saw it clearly that they were traveling in a line.  Each set of 3 had one orb in front with two behind it, each set of 3 forming a triangle.  They didn’t change direction or speed. traveled relatively slowly.  They were slightly bigger than average stars, obviously not stars.  Orange lightly twinkling but never fading or disappearing.  They were all the same size. No noise. One other witness.  fter about 4 mins of seeing them clouds came over head and blocked them from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95408.html](http://www.nuforc.org/webreports/reports/095/S95408.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
