@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mt. Charleston (NV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On our way back home from our ski trip [dad and I], I decided to record the scenery one last time.  We didnt notice the peculiar object in the sky, until once we came home to upload the video.  The object was diamond-shaped and had 4 lighted glows.  The UFO shot through the sky [after emitting its 4 circular lights].  The sky was a bit cloudy, mountains can be seen in the backround, we were heading east, and the UFO was spotted to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67666.html](http://www.nuforc.org/webreports/reports/067/S67666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carthage (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a Fireball UFO glowing Red/Orange. It moved around in all directions.  Very cool!  The last time I saw a Fireball UFO was in Great Falls, Montana, on the 4th of July 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151791.html](http://www.nuforc.org/webreports/reports/151/S151791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
