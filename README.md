@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:37 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Los Banos () reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>My name is ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161257.html](http://www.nuforc.org/webreports/reports/161/S161257.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Quartzite (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Two sets of  three Red Lights in Western sky that appeared and disappeared 10-15° above the Horizon.Walking my dog after sunset. Saw one three red light in the West. Didn’t think much of it until the three lights started fading while at the some time three different red lights appeared lower and to the south of the fading lights. The relative distance between the lights was significant and though at the time I should have heard something if it was an aircraft. I heard nothing. Watched the second set of lights for a minute until they faded too. The lights configuration was middle light slightly higher than the two other lights were slightly lower and equal distance from center light.I waited for maybe 5 minutes for them to return but they didn’t. Heard no noise. The lights were approximately 10-15 degrees above ground. There are no mountains or roads at that height above the flat Terrane of the Quartsite BLM area that’s 6 miles north of Quartsite, AZ.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161270.html](http://www.nuforc.org/webreports/reports/161/S161270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
