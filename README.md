@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:23:54 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bear (DE) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Multiple sightings of a perfect circle of light that is replaced by three dimmer lights in an equilateral triangle.The night before my sighting, my sister told me of a peculiar event of her own. About a week before she had seen strange aircrafts about a half hour apart. She described each of the craft as a perfect circle of light that looked like an over-sized star or planet, which was moving strangely around the night sky. When she paid very close attention to it, trying to figure out what it was, the circle of light disappeared, and was replaced by three smaller, dimmer lights, which formed an equilateral  triangle, as if it were trying to look less bright. The three lights then got dimmer and dimmer, until they disappeared altogether.I was a little skeptical. I believed she saw something, but I thought she must have been mistaken, and that it was really just a helicopter. However, early the next morning, I went outside to go to the bus stop, and in the sky were two circles of light slowly moving in random directions. They were definitely not helicopters, or any other kind of aircraft that I've ever seen.One of the crafts disappeared while I had my eye on the second one. I stood staring at it for about a minute, and then I remembered that my sister had said that it seemed to retreat only when she really tried to figure out what it was. So I focused all my attention on it. Then, The craft spun to show a different side, which had three dim lights that formed and equilateral triangle. I was so in awe, that i didn't think to get out my camera, and all I could do was stare at it.The bus arrived, and so my sighting came to an end. I felt like I had been "visited," as crazy as it may sound, and I felt like it was because my sister tld me about her sighting. It was eerie.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61161.html](http://www.nuforc.org/webreports/reports/061/S61161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Spotted Medium Speed moving object heading NNW, below the clouds.Heading North on Hwy 17 bypass at 2:10 A.M. on 12/21/98. While in a very dark section of roadway, the hood of my pickup truck started to glow gold (brown truck), suddenly above, suddenly above my truck I saw a glowing green object heading NNW, at a medium speed, slower than a meteorite but faster than a jet. It continued in this direction for about 10 seconds, when it suddenly turned left, not a curved left, a sharp angle left, and disappeared over the horizon. It was cloudy, so when I arrived at my destination ten minutes later, I turned on the weather channel to note the cloud level at 10,000 feet. It was definitly below the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05198.html](http://www.nuforc.org/webreports/reports/005/S05198.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
