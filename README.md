@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:45 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Exeter (NE) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>In a rural area, a rotating sphere with red, green, and other colored lights was sighted about 700 feet above the ground in the southwestern sky.  The viewers noticed this craft from a second story farmhouse window on the night of the solar eclipse. The UFO was guessed to be a 30 minute drive from their home.  They are familiar with planets such a Jupiter (which is currently shining in the southwestern sky at this time.)  The craft hovered for over three hours.  The viewers were frightened and did not attempt to get in a vehicle to drive closer for a better view.  They did, however, use binoculars in their attempt to describe the craft.  It was, as stated to me, definitely a sphere, definitely rotating, possessing colored lights around its perimeter, and it maintained a consistent altitude.The 40 year old daughter saw the craft, after nearly three hours of viewing....simply VANISH into thin air.What is the credibility of these witnesses?  All four have bachelor/masters degrees.  They are intelligent, "sensible", low key individuals who do not wish to be interviewed or identified.  They notified me because I share an interest in the night sky.  I can think of no family as credentialed or credible as this family.  The veracity of their statments is beyond question.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79497.html](http://www.nuforc.org/webreports/reports/079/S79497.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mt. Charleston (NV) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>On our way back home from our ski trip [dad and I], I decided to record the scenery one last time.  We didnt notice the peculiar object in the sky, until once we came home to upload the video.  The object was diamond-shaped and had 4 lighted glows.  The UFO shot through the sky [after emitting its 4 circular lights].  The sky was a bit cloudy, mountains can be seen in the backround, we were heading east, and the UFO was spotted to the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67666.html](http://www.nuforc.org/webreports/reports/067/S67666.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
