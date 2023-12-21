@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in New York City (Manhattan) (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Unknown object  hovering over Manhattan Lower East Side Sunday the 21st 0100 hrs..I could not sleep decided to sit near my computer by the kitchen window facing South towards the Freedom Towers.  The night was clear, all is very quiet, I felt as if something was there on my right so I looked and stared at the top of the building across and noticed an unusual object with colorful lights flashing red and blue just hovering above about 4 city blocks away at a height of 20 stories.I have seen stationary helicopters before at a same height and distance and they are very loud or have a fixed light undercarriage and at a greater distance have a vibrating noise very noticeable.This object was just hovering there between two roof lights at a distance, I told my partner and grabbed her cell phone to record, she looked at it and we questioned eachother; what could it be? then while recording this light moved straight up like an elevator and as if spotted then stopped traveled right toward the West in a fine precision turn very quietly into a straight parallel line then it made a turn our direction where it was about 200 feet away, this object was under 7 feet long about 4 feet wide but could not see a shape due to the lights; this is when I got startled because the window was opened and there was no noise coming out of the object just flashing colorful red and blue lights it stopped hovered for about 3 seconds;  Then the object ascended about 1000 feet up and away then stopped where it started to descend slowly as if a slow falling star, the Freedom Tower is noticeable about now in the background.  Then when at an equal height as in the beginning the unknown object made a left sharp fine left turn towards the East moving very parallel straight then stopped again then as if in an escalating motion continued in its path disappearing behind the buildings traveling East as if heading towards the East River; unknown object seemed to be heading towards the Williamsburg Bridge area.My research shows No NYPD, Commercial or News Helicopters reported in the area this date and time thus explains why I am reporting it as an unknown object</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116246.html](http://www.nuforc.org/webreports/reports/116/S116246.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Thousand Oaks (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Driving northbound on the 101 in Thousand Oaks. Saw a bright white flash in the sky at my 12 o’clock position over Newbury Park that lasted approx. 1-3 seconds, and then was gone. The sun was still out and I didn’t see any aircraft flying after seeing the light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161260.html](http://www.nuforc.org/webreports/reports/161/S161260.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
