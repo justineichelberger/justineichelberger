@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Paterson (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately unkown - unkown minutes.</sub><blockquote><sub>Oval pulsating orb was hovering over city of Paterson NJ on Dec 21, 2010 @ 6:30 am morning of Lunar Eclipse.Oval pulsating orb was hovering over city, the lights where bright white which change to red for a few seconds then return to white. The size of the orb was about the size of a blimp or about half the size of the moon. I thought it was a star at first but it was to low and stars don't pulsate.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79329.html](http://www.nuforc.org/webreports/reports/079/S79329.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Geneva (GA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Triangular shaped, possibly bright white, flashing lights was seen over west central Georgia, USAToday as I was traveling in a  south eastern direction, at app 11 o’clock position in the sky, I saw a triangular shaped object, that appeared to have a halographic type of surface. This could have been bright white, flashing lights. The edges of  the craft were sharp and clean, not rounded or blurry.This is the second one of these I have seen, the first being in July of this year, also in the south eastern skies above Georgia.  I did not report the first, but now that I have seen it again , I feel I must.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95380.html](http://www.nuforc.org/webreports/reports/095/S95380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
