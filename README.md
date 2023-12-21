@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laramie/Wamsutter (between) (WY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 unusual flashes of lightWhile driving on the old road from Laramie, WY to Wamsutter, WY, I saw a flash of light that was not related to a car, airplane, light tower, etc.  It was like a hologram.  The first one was a neon blue and bright pink with a horizontal pattern-the way blinds on a window are and it was as if it buzzed into view and then quickly went away.  A short distance later another light flashed but not as large and it was a bright bluish white.  My husband said he saw the same thing as a small boy on the same road but did not ever tell anyone until he saw the way I reacted after seeing the light.  I've never ever seen anything like these lights.  I would not have submitted a report but I noticed that someone saw something very similar to what I witnessed a while back so I know I'm not crazy and it makes me feel like I saw something that was unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67599.html](http://www.nuforc.org/webreports/reports/067/S67599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Jeffersonville (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Saw 5 or 6 crafts, two ascended very very quickly upward-- All were fast, a couple may have been planes (but only one made noise)Saw an object near the moon (which was lower than usual) the object left a cloud behind it...object was ascending upward.  I pulled over to look at it.  The object shot across (over me), Sarah got out of the car, the object shot straight upward in the air (leaving no cloud, or making no noise)  It took fast for object to move over to me.  I noticed a couple other objects (these looked like planes on me, but they were very fast (faster than a jet)).  These objects were close to each other.  They appeared to cross paths.  I saw another that looked like a plane (this made a plane noise)  I saw another object that also shot straight up in the air.  Sarah saw another object, that was far away and disappearing.  I immideatley said and thought that I have never seen this before, and I have never seen this many planes in the same airspace (especially where I live (I live about 20 miles, so I see some planes, but not 5 or 6 in the same airspace).  The two objects tha! t were flying UPWARD had red and white lights BUT A LOT.  These objects were a kind of oval/rectangle look.  THESE WERE SO FAST.  The other objects had red and white lights but on one I don't remember seeing what kind of lights.  It was hard to really process everything happening because it seemed as if these objects were coming from different areas, except for the two objects that came after the first object shot upward.  ALL the objects though traveled in a different direction (to my right, which I am logically guesing is West)  It all happened so fast and they disappeared rather quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79327.html](http://www.nuforc.org/webreports/reports/079/S79327.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
