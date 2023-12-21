@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Carthage (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw a Fireball UFO glowing Red/Orange. It moved around in all directions.  Very cool!  The last time I saw a Fireball UFO was in Great Falls, Montana, on the 4th of July 2012.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151791.html](http://www.nuforc.org/webreports/reports/151/S151791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Approx. 11 pm, A friend and I were walking on Se Morrison on 28th when we noticed a hovering orange light in the sky slowly descending towards the Earth.  It had a glowing aura to it.  A smaller red glowing ball pulled out very closely from the orange ball, and spun around it like a spiral for for several seconds.  The orange ball, in a slow, floating pace, looked like it was heading towards land, but it could have easily dissapeared beyond the horizon. at one moment the ball slowly wobbled back and forth.  No sound was heard.  My friend and I both agreed that it was a unusual, unidentified object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95415.html](http://www.nuforc.org/webreports/reports/095/S95415.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
