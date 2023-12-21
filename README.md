@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 21 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>4 sets of 3 (12) separate flying orbs/fireballs, orange, headed northwest in straight line.four sets of 3 glowing orange orbs traveling northwest coming from south.  First set of 3 were visible along with a few other orange lights in the distance.  I didn’t know at first that they were a set of three until they got a little closer.  Then I saw it clearly that they were traveling in a line.  Each set of 3 had one orb in front with two behind it, each set of 3 forming a triangle.  They didn’t change direction or speed. traveled relatively slowly.  They were slightly bigger than average stars, obviously not stars.  Orange lightly twinkling but never fading or disappearing.  They were all the same size. No noise. One other witness.  fter about 4 mins of seeing them clouds came over head and blocked them from view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95408.html](http://www.nuforc.org/webreports/reports/095/S95408.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laramie/Wamsutter (between) (WY) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>2 unusual flashes of lightWhile driving on the old road from Laramie, WY to Wamsutter, WY, I saw a flash of light that was not related to a car, airplane, light tower, etc.  It was like a hologram.  The first one was a neon blue and bright pink with a horizontal pattern-the way blinds on a window are and it was as if it buzzed into view and then quickly went away.  A short distance later another light flashed but not as large and it was a bright bluish white.  My husband said he saw the same thing as a small boy on the same road but did not ever tell anyone until he saw the way I reacted after seeing the light.  I've never ever seen anything like these lights.  I would not have submitted a report but I noticed that someone saw something very similar to what I witnessed a while back so I know I'm not crazy and it makes me feel like I saw something that was unusual.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67599.html](http://www.nuforc.org/webreports/reports/067/S67599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [268](http://www.nuforc.org/webreports/reports/161/S161295.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161263.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161270.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161268.html)
-- [264](http://www.nuforc.org/webreports/reports/161/S161266.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
