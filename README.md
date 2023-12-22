@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Disc shaped with red orb spottedMe and my wife was out headed west towards Cypress Point beach in Tampa to view and photograph sights of the Jupiter moon. While on our way we happened to snap a shot of the skyline while driving (and without looking up) and proceeded to head towards the beach to view the bright orange moon. However, It wasn’t until we got back home before finding out that there was something else in the air in the photo/video. The good thing about the picture is that it was snapped on the IPhone live shot; so it’s actually a short video. •From the looks of the picture/video: the object is disc shaped with a small red orb leading it•  We did not witness this with our own two eyes, we only happen to snap the shot and seen it on our photo.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162151.html](http://www.nuforc.org/webreports/reports/162/S162151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Loud object with three lights.We first noticed a loud noise, similar to a helicopter but much louder. It was definitely an engine noise. We went outside to see what it was, and saw a formation of lights hovering some distance away. The lights were not in any pattern that we had seen on an aircraft before. There were three visible lights: reddish-orange, blue, and strobing bright white. The white light appeared to be "towed" by the other lights. It was hard to make out any shape of the body of the thing. It hovered for a few minutes and then moved very rapidly southeast. The noise continued to get louder as it came overhead, then got quieter as it moved away. The object stopped suddenly and hovered again for a short amount of time. It then shot off southeast again. Each time it moved it moved extremely smoothly and quickly. When it hovered, it seemed to stay perfectly still. The weather was cloudy with very little wind.((ADDENDUM FROM MR. TOM BOWDEN, STATE DIRECTOR OF MUFON/OREGON))Probably helicopter or ultralight aircraftThis is a follow-up of a report previously submitted. Based on the information given in the report, it is probable that the witnesses saw and heard some sort of helicopter, ultra-light aircraft, or experimental aircraft.  The presence of a loud engine noise similar to a helicopter motor strongly suggests this explanation. I would be glad to investigate further if the witnesses have more information to add to the initial report, or if they feel strongly that this explanation does not fit the profile of the incident.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41233.html](http://www.nuforc.org/webreports/reports/041/S41233.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
