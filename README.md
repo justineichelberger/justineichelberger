@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:18 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:35 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Strathmore (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange light beams over southern albertaMy husband was heading out to the garage and excitedly came in to tell me that the northern lights were out.  It was cold so I checked it out for about a minute.  They were in the south, which I thought strange.  They were very pretty as it was perfectly straight lines of every color shooting straight down, across the entire south eastern horizon.  After a while, I convinced my daughter to come see but she barely peeked because of the cold.  I noticed then that the lights were exactly the same.  Shouldn't northern lights have moved by now?  I watched for a bit, then noticed that almost to the north, after a big dark space, there was a much larger beam of blue light.  After a half hour or so of periodically checking, I decided to take pictures.  The intensity and color isn't there, but you can most definitely see some of the beams.  I told my husband that the lights were still there and hadn't changed so he checked them out again.  We decided then that it was certainly not northern lights.  We came in and when he checked a while later, they were all gone.Two days later, I told an acquaintance about them and she excitedly told me that she had a friend by Edmonton (300km north) posting about this on Facebook.  She also said that two friends of hers by Lethbridge (200km south) were also posting about these lights.  They were also certain it was not northern lights.  So what was it?  I am speculating something either very large (cloaked behind the mysterious clouds on an otherwise clear night), or it was many, many something's.  To be seen so clearly over 500km, it had to be from space.  Also, I could see that the beams did not touch ground; they came from above.  I wonder if I could post my pictures?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105651.html](http://www.nuforc.org/webreports/reports/105/S105651.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Sequencial Lights Disappearing at the Same Location in the SkySee a lot of airplanes fly overhead toward Ohare and Midway.  Initially thought of multiple airplanes traveling on the same IFR, until I noticed the lights never blinked.  Somewhere between 20 and 25 lights were spaced approximately the same distance apart and were traveling in the same direction.  At one location in the sky the lights would becoming dimmer until they disappeared.  They all disappeared at the same physical location in the sky. I could not capture video because my camera could not focus on the dim lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151827.html](http://www.nuforc.org/webreports/reports/151/S151827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
