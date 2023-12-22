@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:38 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Loud object with three lights.We first noticed a loud noise, similar to a helicopter but much louder. It was definitely an engine noise. We went outside to see what it was, and saw a formation of lights hovering some distance away. The lights were not in any pattern that we had seen on an aircraft before. There were three visible lights: reddish-orange, blue, and strobing bright white. The white light appeared to be "towed" by the other lights. It was hard to make out any shape of the body of the thing. It hovered for a few minutes and then moved very rapidly southeast. The noise continued to get louder as it came overhead, then got quieter as it moved away. The object stopped suddenly and hovered again for a short amount of time. It then shot off southeast again. Each time it moved it moved extremely smoothly and quickly. When it hovered, it seemed to stay perfectly still. The weather was cloudy with very little wind.((ADDENDUM FROM MR. TOM BOWDEN, STATE DIRECTOR OF MUFON/OREGON))Probably helicopter or ultralight aircraftThis is a follow-up of a report previously submitted. Based on the information given in the report, it is probable that the witnesses saw and heard some sort of helicopter, ultra-light aircraft, or experimental aircraft.  The presence of a loud engine noise similar to a helicopter motor strongly suggests this explanation. I would be glad to investigate further if the witnesses have more information to add to the initial report, or if they feel strongly that this explanation does not fit the profile of the incident.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41233.html](http://www.nuforc.org/webreports/reports/041/S41233.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1922, an anonymous witness in  (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>It was hazy.Sitings-now that really impresses people.  Are u literate?  Your use of the word indicates otherwise.  Please change to "sightings". (A "site" is a place, as in campsite.  A sighting is a visual observation.)Thank you and good sightings.((NUFORC Note:  We agree.  A "sighting" is when someone sees something.  A "siting" is when someone places something somewhere.  We do not understand the date entered above by the source of this comment.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41917.html](http://www.nuforc.org/webreports/reports/041/S41917.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
