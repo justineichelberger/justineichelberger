@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:39 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesquite (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>when below the clouds, object appeared to change shapes, looked black, and something was emitted or dropped from object or craft,my family flew out to visit me today and while showing them the sites son in law happend to see something strange in the sky.  We stopped to watch it and as we did it appeard to be black and change shapes.  It also appeared as though from time to time some thing or some things fell from it to Earth.  It when below the cloud cover appeared to be black in color.  It moved up and down and from side to side.  It appeard as though the whole thing came down to Earth somewhere in the Desert outside of Mesquite Nevada.  I don't have a clue what it was, and wondering if anybody else happend to see what we all got to observe. Bill Bartko Beaver Dam Az.bartko@cascadeaccess.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48427.html](http://www.nuforc.org/webreports/reports/048/S48427.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Woodbury (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 light DIAGONAL FORMATIONDriving westward on M43 noticed a perfectly aligned and spaced out line of 7 lights thought at first to be stars sitting stagnant perfectly equally spaced apart stretching perfectly diagonally.  They were all very strong in brightness the 7th and top star.  As we drove a couple miles my daughters and I were baffled.  We had just gone to the planiterum on MSU campuses that afternoon and when they showed us what we could see that was DEFINATLY not a constellation. My adult daughter said mom maybe it’s a building and this was all country and I told her no way not even Empire State Building was that high was probably over 2-3 miles high in length and was perfectly diagonal so it could not of been a cell tower.  As we kept going cars were going slower and a few pulling over to side of road to observe.  As we approached Clark road one by on the lowest to the ground ones started to fade away slowly as if they were going away from us leaving only the 7th one at the ! top to stay which was a star as if it was camouflaging in.  Was very scary and definatly UFO.  I mind you this was a very clear night and no light pollution as most is farmland in the area. Also at this moment I lost all cell service which I always have in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151894.html](http://www.nuforc.org/webreports/reports/151/S151894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
