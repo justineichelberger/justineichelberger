@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Fernando (Chile) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 00:03 - 00:03 minutes.</sub><blockquote><sub>TENIA FORMA DE CIGARRO Y DE COLOR BLANCO, AVANZABA LENTAMENTE, SE DETUVO EN UN MOMENTO INCLINANDOSE DE IZQUIERDA A DERECHA 3 VECES PARA POSTERIORMENTE MARCHARSE HACIA LA CORDILLERA DONDE SE OCULTO TRAS UNAS NUBES, AUN ASI,SE PODIA TRASLUCIR SU SILUETA.ES IMPORTANTE INDICAR QUE ESE MES HUBO UNA OLEADA EN ESTA CIUDAD LA CUAL SE DIO A CONOCER EN CANAL 13 TVUC.EL DIA 04 DE ESTE MISMO MES CONDUCIA MI VEHICULO HACIA LA CIUDAD JUNTO A UN AMIGO Y OBSERVAMOS A UNOS 50 METROS SOBRE LA CANCHA DE AVIACION UN OBJETO DE LUZ BRILLANTE QUE ESTABA DETENIDO POR UN ESPACIO DE 4 MINUTOS ANTE LO CUAL EN FORMA REPENTINA HIZO UN VORAGE HACIA SU IZQUIERDA DESAPARECIENDO COMO SI ALGUIEN APAGARA UNA LINTERNA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21944.html](http://www.nuforc.org/webreports/reports/021/S21944.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>large objects hovering over n.y. city unbeleiveable how can this go un seen radars had to pick these objects up.i was on top of my roof looking at the city and planes in the skywhen i sawfast moving objects high in the sky at first i thought they where missles cause they where moving so fast and all the airports are right there so i know how fast a plane shopuld be moving and it didnt seem like a plane but it did leave a smoke trail so i fixed my binoculars on to one of them there seem to be two or three when i did get one of them in my sites it was a jet plane looked like army planes moving real fastone coming from the south the other from the north they then intersevcted in the sky at the point where they intersected i fixed my binoculars on the trail they left and i saw two black and orange dots it looked that way i dont know for sure the shape but it appeared to be round and they werent moving just sitting in place that was oddbecause whatever they were they were real high i say way above where regular planes would be but from the distance they seem to be large objects it was a clear day so but you would not be able to make them out if you didnt know they where therethe only thing that made me see these things were the jets crossing in front of these objects nyc is big and full of people im sure some one else saw these things they sat there for a long time 30 mins or more in one spot then one dissapeared or maybe it moved but its hard to track things in the sky with binoculars the other one sat there for a while it seemed to be black and orange or even transparent orange with black swirls it had to be big from the distances it seemed to be it had to be about theb size of madison square gartden or bigger i dont know but it was strange to see this over the city of new york the other one seemed to move back and forth before just blinking out but it was not a light i was seeing it was an object no lights from as far as i could seeit was a clear day and still light out side well clear enough for me to see it with my binoculars it looked like it blinked out rather than move out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13099.html](http://www.nuforc.org/webreports/reports/013/S13099.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
