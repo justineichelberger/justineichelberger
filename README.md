@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:38 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Margarita (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>2 bright white-cricle lights that changed shapes under a cloud, before dusk (clear sky).Driving El. Camino Real westward towards Santa Margarita, CA. (approx. 4 miles away from town) during a busy traffic after work. Nearing dusk, clear bright darken blue sky with a noticeable large white cloud (west) that was a form of a circle with an opening in the middle with light-faded cloud beams coming out of it, below were 2-small very bright circles that seem to move/change shapes that got my attention to pull my car over and take pictures and a video.  After viewing the photos with enlargement, I can see the different formations that start as a circle, flattens out in a rectangle, and then to crescent shaped with opposite directions.  1-disappears before the other.  The large cloud appeared approx. 10 mins longer after the shapes were gone.((NUFORC Note:  Rocket launch from Vandenberg AFB @ 5:26 p.m..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138031.html](http://www.nuforc.org/webreports/reports/138/S138031.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in El Cajon (CA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3:17 - 3:17 minutes.</sub><blockquote><sub>My mother, brother, and neighbor just saw a flashing object that moved like an octopus ejecting clouds with light as well..the light or clouds did not move.  The object kept gliding across the sky then 2 objects seperated.  One looked like a fireball crashing and the other kept gliding across the sky.  Clouds remain with the glow of light.  Then disappear into the sky.  I have footage.((NUFORC Note:  Missile launch from Vandenberg AFB at 17:26 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137980.html](http://www.nuforc.org/webreports/reports/137/S137980.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
