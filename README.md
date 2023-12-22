@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Woodbury (MI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>7 light DIAGONAL FORMATIONDriving westward on M43 noticed a perfectly aligned and spaced out line of 7 lights thought at first to be stars sitting stagnant perfectly equally spaced apart stretching perfectly diagonally.  They were all very strong in brightness the 7th and top star.  As we drove a couple miles my daughters and I were baffled.  We had just gone to the planiterum on MSU campuses that afternoon and when they showed us what we could see that was DEFINATLY not a constellation. My adult daughter said mom maybe it’s a building and this was all country and I told her no way not even Empire State Building was that high was probably over 2-3 miles high in length and was perfectly diagonal so it could not of been a cell tower.  As we kept going cars were going slower and a few pulling over to side of road to observe.  As we approached Clark road one by on the lowest to the ground ones started to fade away slowly as if they were going away from us leaving only the 7th one at the ! top to stay which was a star as if it was camouflaging in.  Was very scary and definatly UFO.  I mind you this was a very clear night and no light pollution as most is farmland in the area. Also at this moment I lost all cell service which I always have in the area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151894.html](http://www.nuforc.org/webreports/reports/151/S151894.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Missouri City (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately on going - on going minutes.</sub><blockquote><sub>The back yard at 11:30 Pm was lit up like daylight...my dog was spooked...got several pictures..enclosed is best one...I was online on 22-12-98 with my friend from Missouri City (outside of Houston Tx) and he was telling me how his backyard was lit up like daylight and having lived in Texas 25 years had never seen anything like this...So, I told him I would look into finding out what it may have been...When he went to bed at 1pm Tx.time...it was on going... I am the Commander of ((title deleted))  State... I went thru all my emergency channels for information/weather oddities and found nothing...but in fact this is very like what goes on down in Pine Bush NY....which I have seen in person myself...So I am checking for my friend...I will enclose his picture he sent me...one of several. Thankyou for any information you may have or other reports... ((Name and address deleted.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05224.html](http://www.nuforc.org/webreports/reports/005/S05224.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
