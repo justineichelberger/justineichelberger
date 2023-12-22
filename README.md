@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Palm Bay (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Unusual bright red sphere.Multiple videos available from 3 sources (all smartphones).Reddish orange sphere shot across sky and stopped in one spot remaining brightly lit (reddish orange) and remained on the spot for a few seconds before blinking out...a minute later it came back on at the same spot and proceeded to descend about an inch lower than where it was, then blinked off again, a few seconds later it blinked back on and made a silent arch towards the right and descended again about an inch and blinked off...we are still watching the skies as we speak.  Totally silent, brighter than an aircraft and fluid in its movements, almost like what you can project with a laser pen.Object was far away, too far to be able to tell you for sure its distance.  We saw it by two trees and knew it was right over the ocean.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/137/S137946.html](http://www.nuforc.org/webreports/reports/137/S137946.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Dim Red glowing boomerang shaped craft looked as if it was hovering but moving forward fast not in a straight line,  As if flown like remote control helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116350.html](http://www.nuforc.org/webreports/reports/116/S116350.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
