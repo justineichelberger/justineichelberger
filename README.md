@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rancho Cordova (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Dim Red glowing boomerang shaped craft looked as if it was hovering but moving forward fast not in a straight line,  As if flown like remote control helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116350.html](http://www.nuforc.org/webreports/reports/116/S116350.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately pacific west - pacific west minutes.</sub><blockquote><sub>strange light over the west pacific ocean.It glowed over the ocean of the west pacific, very, very bright ball like color.I I see it moving straight up in the clowds slowly. the color is bright green round. like the street signal light, but the light was like somthing i never seen before the light was rapidly blinking, like a high, and low blink. then vanished into the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34191.html](http://www.nuforc.org/webreports/reports/034/S34191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
