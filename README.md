@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:34 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:41 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Merrimac (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4 HR. - 4 HR. minutes.</sub><blockquote><sub>7:00pm went to pick my son up from work.glanced to my right in the sky seen a object rotating red,green,white strobe in middle.it was moving.back and forth.unlike any aircraft.that me and four others have seen.tonight we have seen helecopters fly by them.and airplanes.none of these where.planes nor helecopters.4 objects sphere or diamond shaped where moving left and right. unlike a helecopter,or plane.they where witnessed by 5 of us zig zagging back and forth.up and down .pulsating.red,green,with a white strobe in middle they had precision,movments.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11463.html](http://www.nuforc.org/webreports/reports/011/S11463.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Osceloa (IA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>WHILE I WAS DRIVING AROUND AFTER DINNER I SAW SOME TRIANGLER UFOS OFF THE INTERSTATE AND AT THE MOTEL I WAS AT.I was on a vacation from out of town. On Thursday December 22, 2005 at 8.40 P.M. I was on Interstate 35 at the Osceola Creston exit at exit 33 Highway 34 I was off the Interstate around the bridge.                                                                                                                                                                   I saw 3 triangler UFOS they were a very bright purple they were purple lighted with red dots on the corners they emitted red and yellow beams but made no sound.I just ate at a roadside restaurant and I was driving around and looked up and saw the UFOS. They looked like they landed in a very nearby pasture. And an hour later at 9.40 P.M. I went to the very nearby area there were a bunch of crows flying around the area I didn't find the UFOS I saw.                                                                                                                                                                      Then I went to check in the motel I was staying in and Then I saw 3 more red triangler UFOS. Then like I saw the purple triangler UFOS and the red UFOS they were all gone and I lost them. It was clear and mild that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65411.html](http://www.nuforc.org/webreports/reports/065/S65411.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
