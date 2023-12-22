@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:32 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1922, an anonymous witness in  (NC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>It was hazy.Sitings-now that really impresses people.  Are u literate?  Your use of the word indicates otherwise.  Please change to "sightings". (A "site" is a place, as in campsite.  A sighting is a visual observation.)Thank you and good sightings.((NUFORC Note:  We agree.  A "sighting" is when someone sees something.  A "siting" is when someone places something somewhere.  We do not understand the date entered above by the source of this comment.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41917.html](http://www.nuforc.org/webreports/reports/041/S41917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morrison (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>12 starlike lights traveling faster than an airplane separated equally and would disappear in the same spot.12 starlike lights traveling from the southwest going towards the north. Separated in equal distance and traveled faster than an airplane would. They would travel so far and then disappear in the same spot. Then there was one last light that traveled behind and did the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151848.html](http://www.nuforc.org/webreports/reports/151/S151848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
