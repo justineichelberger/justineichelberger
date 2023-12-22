@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange black object over Houston TX on 12/22/10  Object entered sight in the east / northeast horizon.  Moved across sky in west / southwest direction. Color - black and changed shape as it moved.  Also moving faster than the cloud cover which was moving in a northerly direction from the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79339.html](http://www.nuforc.org/webreports/reports/079/S79339.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Merrimac (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4 HR. - 4 HR. minutes.</sub><blockquote><sub>7:00pm went to pick my son up from work.glanced to my right in the sky seen a object rotating red,green,white strobe in middle.it was moving.back and forth.unlike any aircraft.that me and four others have seen.tonight we have seen helecopters fly by them.and airplanes.none of these where.planes nor helecopters.4 objects sphere or diamond shaped where moving left and right. unlike a helecopter,or plane.they where witnessed by 5 of us zig zagging back and forth.up and down .pulsating.red,green,with a white strobe in middle they had precision,movments.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11463.html](http://www.nuforc.org/webreports/reports/011/S11463.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
