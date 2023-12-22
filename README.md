@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:32 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Morrison (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>12 starlike lights traveling faster than an airplane separated equally and would disappear in the same spot.12 starlike lights traveling from the southwest going towards the north. Separated in equal distance and traveled faster than an airplane would. They would travel so far and then disappear in the same spot. Then there was one last light that traveled behind and did the same thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151848.html](http://www.nuforc.org/webreports/reports/151/S151848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in San Fernando (Chile) () reported seeing craft that fit the description of some 'Cigar' over a period of approximately 00:03 - 00:03 minutes.</sub><blockquote><sub>TENIA FORMA DE CIGARRO Y DE COLOR BLANCO, AVANZABA LENTAMENTE, SE DETUVO EN UN MOMENTO INCLINANDOSE DE IZQUIERDA A DERECHA 3 VECES PARA POSTERIORMENTE MARCHARSE HACIA LA CORDILLERA DONDE SE OCULTO TRAS UNAS NUBES, AUN ASI,SE PODIA TRASLUCIR SU SILUETA.ES IMPORTANTE INDICAR QUE ESE MES HUBO UNA OLEADA EN ESTA CIUDAD LA CUAL SE DIO A CONOCER EN CANAL 13 TVUC.EL DIA 04 DE ESTE MISMO MES CONDUCIA MI VEHICULO HACIA LA CIUDAD JUNTO A UN AMIGO Y OBSERVAMOS A UNOS 50 METROS SOBRE LA CANCHA DE AVIACION UN OBJETO DE LUZ BRILLANTE QUE ESTABA DETENIDO POR UN ESPACIO DE 4 MINUTOS ANTE LO CUAL EN FORMA REPENTINA HIZO UN VORAGE HACIA SU IZQUIERDA DESAPARECIENDO COMO SI ALGUIEN APAGARA UNA LINTERNA.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21944.html](http://www.nuforc.org/webreports/reports/021/S21944.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
