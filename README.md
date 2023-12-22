@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Oklahoma City (OK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Large oval or triangular metallic object hovering in OKCI was driving southeast on NW Expressway at about 3:45 AM and to the East there was some object in the sky.  It appeared to be either oval or triangular in shape and was lightless. The only light that was present was the streetlights reflecting off of what looked like a metal hull.I kept going the same way until I came to a car stopped on the side of the road with two people standing outside staring at the object.  I stopped and got out and asked them how long it had been there and what it was, they said that it just showed up out of nowhere and they didn’t know what it was. After about 30 seconds of us standing there the object moved further east very rapidly until it was out of sight.  We decided to go further down the expressway to see if we could catch another glimpse of it. After about a mile it came into view again for about 1 minute before it flew off even faster than before and we lost all site of it.We talked about what we had seen for a couple of minutes and were honestly just wierded out by the situation.  We decided that there was no reason to call authorities so we said our goodbyes and headed our separate ways.This is not the first time that I have seen an object near or around NW Expressway but it is the first time that anyone else has seen in and it was bigger than ever before.  In all honesty I believe that it was some alien spacecraft, there’s no other way I could explain it.  This was definitely the strangest thing I have ever seen in my life. If anybody else saw this besides us I would love to know.  Thanks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67573.html](http://www.nuforc.org/webreports/reports/067/S67573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>strange black object over Houston TX on 12/22/10  Object entered sight in the east / northeast horizon.  Moved across sky in west / southwest direction. Color - black and changed shape as it moved.  Also moving faster than the cloud cover which was moving in a northerly direction from the south.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79339.html](http://www.nuforc.org/webreports/reports/079/S79339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
