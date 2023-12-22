@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:09:35 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:39 on 22 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Aurora (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Sequencial Lights Disappearing at the Same Location in the SkySee a lot of airplanes fly overhead toward Ohare and Midway.  Initially thought of multiple airplanes traveling on the same IFR, until I noticed the lights never blinked.  Somewhere between 20 and 25 lights were spaced approximately the same distance apart and were traveling in the same direction.  At one location in the sky the lights would becoming dimmer until they disappeared.  They all disappeared at the same physical location in the sky. I could not capture video because my camera could not focus on the dim lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151827.html](http://www.nuforc.org/webreports/reports/151/S151827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Mesquite (NV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>when below the clouds, object appeared to change shapes, looked black, and something was emitted or dropped from object or craft,my family flew out to visit me today and while showing them the sites son in law happend to see something strange in the sky.  We stopped to watch it and as we did it appeard to be black and change shapes.  It also appeared as though from time to time some thing or some things fell from it to Earth.  It when below the cloud cover appeared to be black in color.  It moved up and down and from side to side.  It appeard as though the whole thing came down to Earth somewhere in the Desert outside of Mesquite Nevada.  I don't have a clue what it was, and wondering if anybody else happend to see what we all got to observe. Bill Bartko Beaver Dam Az.bartko@cascadeaccess.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48427.html](http://www.nuforc.org/webreports/reports/048/S48427.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [377](http://www.nuforc.org/webreports/reports/161/S161280.html)
-- [376](http://www.nuforc.org/webreports/reports/161/S161275.html)
-- [375](http://www.nuforc.org/webreports/reports/161/S161288.html)
-- [374](http://www.nuforc.org/webreports/reports/161/S161282.html)
-- [373](http://www.nuforc.org/webreports/reports/161/S161318.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
