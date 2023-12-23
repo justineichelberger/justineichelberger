@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple orange colored lights moving towards downtown Orlando, then ascended upwards and vanished.At approximately 7:55PM, I noticed what I thought was a commercial aircraft coming towards my house with its wings dramatically tilting from side to side...then eventually rotating clockwise as if it were in a barrel roll.  The two distinct lights eventually separated and continued to travel towards the ESE and gaining altitude.  Shortly after the lights separated, approximately 12 more lights came over the horizon following the same path.  At this point, I grabbed my camera to started taking photos.  After the main cluster of lights faded off at a much higher altitude than where they started, two more stray lights came over the horizon and followed the same path.  The entire event lasted around 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86553.html](http://www.nuforc.org/webreports/reports/086/S86553.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mt. Pleasant (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Many colors were seen flashing in a big portion of the sky.I have personally seen a vast section of the sky turn blue, red, and green.  These colors are extremely vibrant and almost concerning.  It has been raining non stop for the past 3 days until about 5 oclock today.  It stopped and the sky was a neon yellow color.  Then, as the sun went down, it began to rain again.  The sky continued to flash from blue to red, then to green.  Again, all colors were vibrant, noticeable, and I captured the fast transition on video.There was also a white orb, looking as if it were a star, in the colors.  When they colors would appear, the orb would vanish.  When the colors would die out, the orb would remain. It is very confusing and breathtaking.  I researched a bit before I contacted you but I couldn’t find anything on the subject.  I hope you can get in contact with me.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152094.html](http://www.nuforc.org/webreports/reports/152/S152094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
