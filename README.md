@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:35 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange light pulses then dissapears.Small single orange light sighted.  Silent and pulsating.  Color of an ember that floated in a straight line at constant velocity.  Comparable to brightness of an airplane light yet it's pulse was strong enough to increase brightness dramatically.  Light flashed a few times before it stopped flashing (only the small orange light left), continued on its path and then disappeared.  Altitude and distance is hard to estimate as nothing else was visible as being part of the light.  Planes fly low over location all the time and if the light was at the same distance and altitude of a plane the brightness of the large pulse would be the diameter of a plane.  I would of said it was just an ember that flew out of someone's chimney but consistency of velocity and brightness and repetition of pulses make me hope someone else besides my party saw it.  I have had the joy to say I have seen a UFO, but a member of my party claims he has and even he said what we saw was "weird! "</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105697.html](http://www.nuforc.org/webreports/reports/105/S105697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright white light in the shape of a huge sphere over Onondaga County/Syracuse and moved very fast in all four directions.It appeared to be a massive sphere... as big as a star in the sky.  When i was driving i first saw it. It was emitting a huge white light.  After about 30 seconds of looking at it it shot up about 5 thousand feet in the sky in about .2 seconds. It wasnt high in the sky.  Pron no more than 7,000 feet.  There werew clouds out and it was in front of the clouds.  It moved very smoothly like it somehow controled the gravity around it.  It had cycles of where it was bright white to where it was yellowish/red.  If you where looking up in the  sky it was a little below the tree line and above the horrizon. I also saw planes flying toward it. The planes must have been 1/100 of the size of the obeject. Then after about 40-45 min the light dimmed and I saw it vanish .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86014.html](http://www.nuforc.org/webreports/reports/086/S86014.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
