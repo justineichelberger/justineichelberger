@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:52 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:29 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Anasco (Puerto Rico) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Strange formation traveling over Anasco Puerto Rico,I was talking on the phone and looking at the sky since there were fireworks being shot and planes flying.  When sudendly I saw one fireball like object   I believed it was a rocket but it flew slowly and really redish.  Not much time pased and then saw 2 more come from where the first one came.  These had a triangle like formation 1 front and 2 on the back at really far distance as if it were an escort.  Recorded it with my phone but the images arent that great.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95454.html](http://www.nuforc.org/webreports/reports/095/S95454.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Baton Rouge (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>white lights moving in staggered formationMy uncle, my 2 sons and I where standing in front my grandmothers house when my 17 yr old says "dad, look at that" we all looked up to see two lights moving in a staggered formation above the high school across the street. there were no no blinking lights or engine hum & the lights appeared to be close enough to have heard either. the lead light seemed to suddenly vanish and within about 5 seconds the second light vanished as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73999.html](http://www.nuforc.org/webreports/reports/073/S73999.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
