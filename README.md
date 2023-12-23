@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Ten large round solid, non-blinking, reddish-orange "orb-like" lights flying in formation over Tucson, AZ.While a passenger in our car heading south in Tucson, Arizona,  I glanced out the window and saw approximately ten large bright round reddish-orange lights flying in formation in the western sky. They formed two parallel but slightly “zigzag” rows: the first few lights forming a straight east to west line with the rest of the line continuing slightly farther back; the second row of lights created an identical row behind it, each light being equidistant from the one in front of and beside it.  The first thing I did was lower the car window to rule out reflections on the glass. I could make out no forms nor sound of aircraft and these lights were solid, not blinking as normally seen on aircraft.  They were not individual lights on a larger craft as I could make out faint clouds in the sky behind and between them.  I watched them move Northward across the sky until I couldn't careen my neck any farther out the car window to see them.  They maintained the same formation the entire time, and did not “fade out” as flares would.  I waited to file a report until I had a chance to:  1) drive down the same stretch of road again, at the same time of day, to see if there were any extremely high light poles or radio towers, etc., that could have accounted for the lights and;  2) contact the local Air Force base to confirm whether they had conducted any drills, flare releases, or other such maneuvers that night. The answer was no on both counts.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133096.html](http://www.nuforc.org/webreports/reports/133/S133096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangular craft followed by multiple conventional planesLarge triangular shaped aircraft hovering over area of Bennsville Rd around 6:30pm.  Bright white lights on all three points, all shining straight ahead in the same direction, northwest.  Smaller white lights in a row from each point into the center, seen from directly below.   Seen while driving, other cars were pulling over to see it as well.  Shortly thereafter observed multiple (at least 10) conventional aircraft flying in every direction in the immediate area, which continued for at least three hours.  My two dogs were agitated, barking, and looking out doors and windows from 1 hour prior until several hours after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105725.html](http://www.nuforc.org/webreports/reports/105/S105725.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
