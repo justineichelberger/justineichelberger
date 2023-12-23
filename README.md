@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:47 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Peotone (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15-20 - 15-20 minutes.</sub><blockquote><sub>Fast, Blue shapped egg craft, very bright.Sudden urge to look out my window, saw a high speed egg shapped craft fly by, very visible. Was blue-ish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79349.html](http://www.nuforc.org/webreports/reports/079/S79349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Low, loud, flat bottomed craft flew over my home.I noticed a very bright light in the sky, towards the direction of the city of Buffalo, which I think is West.  It would have been about 2 miles away and not very high in the sky, as it was at about the height of the radio/tv tower  on top of channel WIVB, which was to this light’s right.  It was stationary for several minutes, then started to move slowly.  It picked up speed, but not altitude.  It went over my house  and  In the direction of Tonawanda.  It had a flatish bottom and on one side of the bottom was a neon green light.  It made the sound of a loud vacuum, a pulsing sound.  Very unlike a plane or a helicopter.  It made a fast  circular maneuver and moved left and out of sight at an incredible speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116157.html](http://www.nuforc.org/webreports/reports/116/S116157.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
