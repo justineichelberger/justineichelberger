@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Charleston (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>While I was in my front yard I saw a strange object above my house.It was on a Friday night December 23, 2005 at 10:45 P.M. I was out in my front yard. I observed an object. It was round on the top and got narrower going to the bottom, round and narrow on the bottom and got wider going to the top the object looked like a top. It was all yellow lighted with red vertical lines all around the sides and it had an orange light in the middle of the top and in the middle of the bottom. It hovered over the house. And then it was still then it got down lower and went over the neighbors house. Then I looked up and it disappeared and it was gone. I didn't see the object no more. It made no sound. It was partly cloudy. I looked around the house and I still didn't see it no more. It was gone. I was wondering what this object was I saw and where it came from.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49611.html](http://www.nuforc.org/webreports/reports/049/S49611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>southbound,az.ave from US60,35degrees above,bright light,unmoving, then was goneat approx 7pm,12/23/00,me,and a friend were out looking for Bubba,saw a bright light about 35 degrees in the sky south of Chandler Az. We were traveling south on Arizona Avenue when I saw the light, very bright, white, and unchanging. We stopped in a parking lot S.E. corner of Az. Ave and Elliott road. I was looking at it with binoculars and after about 10-15 minutes,we decided it was a star. But was too bright. Left the area. Came back to look again at 8:45 or so. Saw light while going east on elliott. Turned south on Az.Ave and was gone.We know it was there and not moving. Camne back with daughter to look again. Saw light in same place, bright, trees were in the way, turned corner to look again, it was gone. We didn't see it leave because of trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15656.html](http://www.nuforc.org/webreports/reports/015/S15656.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
