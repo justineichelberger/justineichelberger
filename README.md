@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:38 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Syracuse (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Bright white light in the shape of a huge sphere over Onondaga County/Syracuse and moved very fast in all four directions.It appeared to be a massive sphere... as big as a star in the sky.  When i was driving i first saw it. It was emitting a huge white light.  After about 30 seconds of looking at it it shot up about 5 thousand feet in the sky in about .2 seconds. It wasnt high in the sky.  Pron no more than 7,000 feet.  There werew clouds out and it was in front of the clouds.  It moved very smoothly like it somehow controled the gravity around it.  It had cycles of where it was bright white to where it was yellowish/red.  If you where looking up in the  sky it was a little below the tree line and above the horrizon. I also saw planes flying toward it. The planes must have been 1/100 of the size of the obeject. Then after about 40-45 min the light dimmed and I saw it vanish .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86014.html](http://www.nuforc.org/webreports/reports/086/S86014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue, red and green flashes seen above east idahoI was driving home from Rexburg to Rigby headed south on Highway 20.  I was just driving along when suddenly to the left or east of me above the Rexburg water tower there was a large blue flash that was brighter than any lighting Ive ever seen.  The chistmas lights and all other light for that matter went out for five seconds then turned back on.  About a minute later about 10 miles south of the first one there was a second one about the same brightness and same color then even further south there was a red flash followed by a green one about 10 seconds apart.  After that I was driving and I thought I may have seen more but was trying to drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105519.html](http://www.nuforc.org/webreports/reports/105/S105519.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
