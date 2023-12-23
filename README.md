@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hammond (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A group of lights moved across the sky.Working in a rail yard, I looked up to the horizon and saw what I thought was a group of stars.  I then saw that the mass of lights moved from the west to the east until it went behind a treeline.  The lights were moving at a rapid speed for about 2-3 minutes.  My coworker also saw the group of lights.  We grabbed our phones to video it, but the lights would not show up on screen.  A helicopter then came into the area and appeared to be following it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116349.html](http://www.nuforc.org/webreports/reports/116/S116349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Multiple orange colored lights moving towards downtown Orlando, then ascended upwards and vanished.At approximately 7:55PM, I noticed what I thought was a commercial aircraft coming towards my house with its wings dramatically tilting from side to side...then eventually rotating clockwise as if it were in a barrel roll.  The two distinct lights eventually separated and continued to travel towards the ESE and gaining altitude.  Shortly after the lights separated, approximately 12 more lights came over the horizon following the same path.  At this point, I grabbed my camera to started taking photos.  After the main cluster of lights faded off at a much higher altitude than where they started, two more stray lights came over the horizon and followed the same path.  The entire event lasted around 15 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86553.html](http://www.nuforc.org/webreports/reports/086/S86553.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
