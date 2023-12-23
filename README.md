@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Chandler (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>southbound,az.ave from US60,35degrees above,bright light,unmoving, then was goneat approx 7pm,12/23/00,me,and a friend were out looking for Bubba,saw a bright light about 35 degrees in the sky south of Chandler Az. We were traveling south on Arizona Avenue when I saw the light, very bright, white, and unchanging. We stopped in a parking lot S.E. corner of Az. Ave and Elliott road. I was looking at it with binoculars and after about 10-15 minutes,we decided it was a star. But was too bright. Left the area. Came back to look again at 8:45 or so. Saw light while going east on elliott. Turned south on Az.Ave and was gone.We know it was there and not moving. Camne back with daughter to look again. Saw light in same place, bright, trees were in the way, turned corner to look again, it was gone. We didn't see it leave because of trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15656.html](http://www.nuforc.org/webreports/reports/015/S15656.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Peotone (IL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15-20 - 15-20 minutes.</sub><blockquote><sub>Fast, Blue shapped egg craft, very bright.Sudden urge to look out my window, saw a high speed egg shapped craft fly by, very visible. Was blue-ish.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79349.html](http://www.nuforc.org/webreports/reports/079/S79349.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
