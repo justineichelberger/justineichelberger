@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:46 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Long cigar shaped object that flashed through the night skyI was outside smoking a cigarette from 1:30 - 1:45am out on my deck while trying to get my cat inside when I saw a quick flash of light to the east and when I looked up I saw nothing.  I kept looking in the direction of the flash and within 2 min of seeing the flash I noticed a long, narrow cigar shaped object jet across the sky silently and very, very fast.  It left behind a slight trail of light and was gone like that! Never before have I seen anything like this before.  It was a clear night also.  The only thing I can reference the shape to was a cigar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73819.html](http://www.nuforc.org/webreports/reports/073/S73819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Allis (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange/amber lights coming in pairs, equidistant from each other.  Some made triangle formationsAround 5:30pm on 12/23/14, my fiance and I were heading back from our daughter's appointment.  We were at the intersection of Hwy 100 and Oklahoma heading East when we noticed 2 orange/amber looking lights in the sky directly in front of us.  One was higher than the other.  We pulled over to the side of the road a few blocks up since they seemed to be right over us at this spot.  The lights were coming from the SW and were heading NE.  They came by the pairs with one usually slightly higher than the other and they all (the pairs) seemed to be equidistant from each other  When directly over us they were a really intense orange/amber color and extraordinarily bright and they all had an aura of color over them that was either white, red or very light baby blue.  At random, some lights would flicker out and then sometimes went back on.  They moved at a steady pace and some even stopped and hovered fora short time before continuing on.  We observed some of them get into a triangle formation, and then moved together at the same speed so as to retain the triangle it had made.  I briefly captured the formation on my phone.  I believe these objects were capable of great speeds due to the fact we were able to see these intense orange fiery orbs go from a massive light to just a point in the sky like a star.  Then as the second the last pair flew over us, one of the lights blacked out (my fiance observed this).  My fiance said he still saw the object moving despite the fact it went out.  After a few moments I saw it too.  It was easy to see it because it had been raining so there was a lot of overcast.  What I saw was a solid black circle silhouetted against the sky.  We watched it until it eventually it disappeared behind the trees in front of us.  The lights either faded away or they either blinked and went out.At first we thought these were helicopter but there wasn't any headlights or anything which was odd since it was dark and overcast out.  I don't think they were flares or anything because they were sometimes stationary, and we were able to observe the shape of the object.  There was no sound except for the cars behind us.We both were able to obtain footage on our phones</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116577.html](http://www.nuforc.org/webreports/reports/116/S116577.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
