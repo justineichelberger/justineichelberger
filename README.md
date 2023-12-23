@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:47 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:35 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kenmore (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Low, loud, flat bottomed craft flew over my home.I noticed a very bright light in the sky, towards the direction of the city of Buffalo, which I think is West.  It would have been about 2 miles away and not very high in the sky, as it was at about the height of the radio/tv tower  on top of channel WIVB, which was to this light’s right.  It was stationary for several minutes, then started to move slowly.  It picked up speed, but not altitude.  It went over my house  and  In the direction of Tonawanda.  It had a flatish bottom and on one side of the bottom was a neon green light.  It made the sound of a loud vacuum, a pulsing sound.  Very unlike a plane or a helicopter.  It made a fast  circular maneuver and moved left and out of sight at an incredible speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116157.html](http://www.nuforc.org/webreports/reports/116/S116157.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Orange (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Orange light pulses then dissapears.Small single orange light sighted.  Silent and pulsating.  Color of an ember that floated in a straight line at constant velocity.  Comparable to brightness of an airplane light yet it's pulse was strong enough to increase brightness dramatically.  Light flashed a few times before it stopped flashing (only the small orange light left), continued on its path and then disappeared.  Altitude and distance is hard to estimate as nothing else was visible as being part of the light.  Planes fly low over location all the time and if the light was at the same distance and altitude of a plane the brightness of the large pulse would be the diameter of a plane.  I would of said it was just an ember that flew out of someone's chimney but consistency of velocity and brightness and repetition of pulses make me hope someone else besides my party saw it.  I have had the joy to say I have seen a UFO, but a member of my party claims he has and even he said what we saw was "weird! "</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105697.html](http://www.nuforc.org/webreports/reports/105/S105697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
