@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Formation' over a period of approximately 9.0 - 9.0 minutes.</sub><blockquote><sub>Stationary lights in formation above the Great Salt Lake.The first night 12/22/07, there were 3 lights to the west over the Great Salt Lake at about 30 degrees up from the horizon in a triangle that just sat there for about 5 minutes, then the top one cruised off to the north and after a few more minutes the other two slowly moved to the north and then they all dissapeared. The second night 12/23/07, at about 11pm, I saw another stationary light to the north at about 40 degrees up from the horizon. I was able to get about 3 minutes of video of the three on the first night. I have an observatory in my backyard,  so I hurried out there and threw the roof open and I got my small refractor on one of the lights and it looked like a big square translucent parachute type thing with 3 spinning orange lights in the middle, and it kinda looked like it was shooting off embers or something wierd.  They eventually all burned out and I lost the object in the darkness.  They seemed to be about 3-4 miles north of the Salt Lake International Airport,  but they were not any kind of aircraft I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61397.html](http://www.nuforc.org/webreports/reports/061/S61397.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Long cigar shaped object that flashed through the night skyI was outside smoking a cigarette from 1:30 - 1:45am out on my deck while trying to get my cat inside when I saw a quick flash of light to the east and when I looked up I saw nothing.  I kept looking in the direction of the flash and within 2 min of seeing the flash I noticed a long, narrow cigar shaped object jet across the sky silently and very, very fast.  It left behind a slight trail of light and was gone like that! Never before have I seen anything like this before.  It was a clear night also.  The only thing I can reference the shape to was a cigar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73819.html](http://www.nuforc.org/webreports/reports/073/S73819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
