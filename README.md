@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:47 on 23 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Rexburg (ID) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blue, red and green flashes seen above east idahoI was driving home from Rexburg to Rigby headed south on Highway 20.  I was just driving along when suddenly to the left or east of me above the Rexburg water tower there was a large blue flash that was brighter than any lighting Ive ever seen.  The chistmas lights and all other light for that matter went out for five seconds then turned back on.  About a minute later about 10 miles south of the first one there was a second one about the same brightness and same color then even further south there was a red flash followed by a green one about 10 seconds apart.  After that I was driving and I thought I may have seen more but was trying to drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105519.html](http://www.nuforc.org/webreports/reports/105/S105519.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Lenore (WV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw  what looked like an aircraft at first.  It was flying east to west, slowly.  As it came over me, I realized one of the lights was red, the other two were white.  There was no sound and it was moving much slower than an airplane.  When it was above me, it made a complete circle and the lights seemed to change places.  Then, it continued on across the sky until it was out of sight. On Dec 31, at 8.9pm I was driving not far from the site of the previous sighting.  I noticed a huge light in front of the car in the sky.  It was much lower, again there were three distinct lights and as I focused on it, I could see the underside of the craft.  Lots of angles, silver or grey in color.  It merged from one to three lights, maybe off and on, or maybe even zig sagged.  It was definitely a craft without sound, and moved extremely slow.  It went out of sight after 30 seconds or so.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86306.html](http://www.nuforc.org/webreports/reports/086/S86306.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [317](http://www.nuforc.org/webreports/reports/161/S161367.html)
-- [316](http://www.nuforc.org/webreports/reports/161/S161293.html)
-- [315](http://www.nuforc.org/webreports/reports/161/S161299.html)
-- [314](http://www.nuforc.org/webreports/reports/161/S161352.html)
-- [313](http://www.nuforc.org/webreports/reports/161/S161301.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
