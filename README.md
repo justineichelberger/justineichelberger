@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:44 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A very bright light about three to four times the size of a star in the sky  that appeared closer like not in space move in circle.On the night of Christmas eve 11:59 pm 1 min till Christmas so me and my girlfriend went to her grandmas back porch to go sit outside and smoke, when we went out there we were sitting and eventually looking at the sky I saw a light twinkling like, it was bright shining light bigger then any star in the sky and it would flash on and off constantly, thats how i noticed it for at least 45 mins we were out there, and two or three times for a sec it would kind of just disappear maybe because clouds were blocking but then it would be right back. After looking at it for so long it hurt my eyes but I saw like this force field of rainbow light emit like a force field around it for like 3 or 4 seconds then disappear but like in perfect shape around the light blue colored purple idk again it could of been my eyes playing tricks but the flashing of the bright light was clear to see.  But i asked around an people said the north star is bright.  IT DOESN'T BLINK LIKE A CHRISTMAS LIGHT DOES IT?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86384.html](http://www.nuforc.org/webreports/reports/086/S86384.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Wayzata (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 15-20 - 15-20 minutes.</sub><blockquote><sub>Summary : ON CHRISTMAS EVE 1990 MY GRANDPA WAS TAKING ME HOME AFTER A CHRISTMAS PARTY.  AS HE WAS DRIVING HE SAW SOMETHING IN THE AIR.  HE PULLED OVER AND WE WATCHED.  THE LIGHTS  JUST SAT THERE FOR ABOUT 15 MINUTES.  AFTER A WHILE MY GRANDPA GOT TIRED OF WATCHING IT AND WE LEFT.ON DECEMBER 24, 1990,  MY GRANDPA WAS DRIVING ME HOME FROM A CHRISTMAS PARTY, AND ABOUT 3/4 OF A MILE AWAY FROM HIS HOUSE, HE SAW LIGHTS IN THE SKY.  HE PULLED OVER OFF HIGHWAY 12 AND WE WATCHED THE LIGHTS JUST SIT THERE FOR ABOUT 15 MINUTES.  HE PUT THE WINDOW DOWN AND WE LISTED AND WE COULDN'T HEAR ANYTHING.  THEN HE PUT THE WINDOW UP BECAUSE IT WAS SO COLD.  WE WATCHED AND WATCHED. IT JUST SAT THERE SILENT AND IT DIDN'T MOVE.  I THINK THAT THERE WERE 14 LIGHTS.  MY GRANDPA TOLD ME IT WAS PROBABLY SANTA CLAUSE AND I BELIEVED HIM UNTIL I STARTED TO HEAR ABOUT UFO's.  I COULD ONLY SEE LIGHTS.  THERE WAS A THIN CLOUD COVER AND IT WAS DARK OUT SIDE SO I COULD NOT SEE THE OBJECT.  THE LIGHTS WERE SO BRIGHT THEY WERE ABOUT THE SIZE OF MY HAND.  THEY WERE NOT IN ANY PATTERN.  THEY WERE JUST SCATTERED ABOUT THE SKY.  THEY WERE NOT STARS I CAN TELL YOU THAT. THEY WERE FAR TOO LARGE AND BRIGHT.  AFTER ABOUT 15 MINUTES MY GRANPA PULLED BACK ON TO THE ROAD AND WE LEFT.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03075.html](http://www.nuforc.org/webreports/reports/003/S03075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
