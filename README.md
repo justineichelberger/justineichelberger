@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:31 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sparta (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>5 large glowing red/white lights traveling close togetherWe, a family of four, saw 5 large glowing red/white lights grouped very close together in the night sky. They were not traveling in an obvious formation but seemed to be traveling together.    A light snow had just started to fall.  The lights were not brilliant but more hazy and of the same brightness.  They slowly faded out, one by one.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95483.html](http://www.nuforc.org/webreports/reports/095/S95483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball over south Stuart Fl. traveling east/northeast.  No lights except for what looked like an orange fireball.Saw it flying over highway 1.  Moving in a east north/east direction.  Seemed to be flying rather slow.  Thought it was a small plane on fire at first.  Watched it for several minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95473.html](http://www.nuforc.org/webreports/reports/095/S95473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
