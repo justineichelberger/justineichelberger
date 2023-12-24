@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:31 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Stuart (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireball over south Stuart Fl. traveling east/northeast.  No lights except for what looked like an orange fireball.Saw it flying over highway 1.  Moving in a east north/east direction.  Seemed to be flying rather slow.  Thought it was a small plane on fire at first.  Watched it for several minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95473.html](http://www.nuforc.org/webreports/reports/095/S95473.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Angola (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>15/20 blue, cigar-shaped, craft hover silently and strobed blue on the length of the crafts. Multiple witnesses.15/20 Blue, cigar-shaped, craft appeared the same location, due north in the night sky, appearing to hover and blue lights flashing the length of the crafts.  Animals in area, although normally noisy, had gone silent.  Aircraft flew around the location as if investigating.  Appearing over Lake Erie, seen between the trees in my backyard, in the same location as reported on the 20th.  Astronomical star charts are not in the same location as the 20th, which makes me believe these are not stars for a few reasons:  star locations are not in the location as previously reported, google sky maps do not show these stars as constellations or any known stars, and the colors are blue only, and move in a pattern that are not consistent with stars, satellites or faa-regulated aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124877.html](http://www.nuforc.org/webreports/reports/124/S124877.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
