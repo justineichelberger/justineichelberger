@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Angola (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>15/20 blue, cigar-shaped, craft hover silently and strobed blue on the length of the crafts. Multiple witnesses.15/20 Blue, cigar-shaped, craft appeared the same location, due north in the night sky, appearing to hover and blue lights flashing the length of the crafts.  Animals in area, although normally noisy, had gone silent.  Aircraft flew around the location as if investigating.  Appearing over Lake Erie, seen between the trees in my backyard, in the same location as reported on the 20th.  Astronomical star charts are not in the same location as the 20th, which makes me believe these are not stars for a few reasons:  star locations are not in the location as previously reported, google sky maps do not show these stars as constellations or any known stars, and the colors are blue only, and move in a pattern that are not consistent with stars, satellites or faa-regulated aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124877.html](http://www.nuforc.org/webreports/reports/124/S124877.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately over an hour - over an hour minutes.</sub><blockquote><sub>object looked like a star, but the color changed back and forwardMy daughter woke me up at 4 in the morning, she was awaken by this loud humming sound out side her bed room window, we stayed at the window for over an hour and then we saw this thing that looked like a star,but this star was moving and then we heard helicopter flying around, end later that after noon I went to put garbage out on the patio and I can still hear that same sound, but saw nothing. this went on for over and hour, before the helicopters came out flying over my townhouse.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41253.html](http://www.nuforc.org/webreports/reports/041/S41253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
