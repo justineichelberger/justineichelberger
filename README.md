@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:32 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Cicero (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange/red lights gliding across sky.Saw 3 orange/red lights gliding through the sky, at an approximate equal distance from one another.  Heading south at first, then they changed course and traveled east.  They then disappeared.  Movements of lights did not appear to be similar to the movement of an airplane or helicopter.  No noise, either.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124883.html](http://www.nuforc.org/webreports/reports/124/S124883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Auburn (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Group of 5 orange lights moving in formation, no sound.Christmas Eve, I was getting into the car to take my mother home at around 9:30 PM.  I happened to look to my left (North) and saw five orange lights moving slowly across the sky.  There was no noise as I tried to listen if they might be aircraft.  I said to my mother, "Look at this.  Have you ever seen anything like this?"We continued to watch for maybe another 5-10 minutes.  They maintained the same formation the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113620.html](http://www.nuforc.org/webreports/reports/113/S113620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
