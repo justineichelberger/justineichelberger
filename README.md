@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Columbia (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately over an hour - over an hour minutes.</sub><blockquote><sub>object looked like a star, but the color changed back and forwardMy daughter woke me up at 4 in the morning, she was awaken by this loud humming sound out side her bed room window, we stayed at the window for over an hour and then we saw this thing that looked like a star,but this star was moving and then we heard helicopter flying around, end later that after noon I went to put garbage out on the patio and I can still hear that same sound, but saw nothing. this went on for over and hour, before the helicopters came out flying over my townhouse.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41253.html](http://www.nuforc.org/webreports/reports/041/S41253.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Philadelphia (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>multi coloredObject was also seen in Antwerp New York.It was several colors that looked like they  rotated and blended with each other.It was traveling southwest and I never saw it change direction((NUFORC Note:  Witness is anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/022/S22726.html](http://www.nuforc.org/webreports/reports/022/S22726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
