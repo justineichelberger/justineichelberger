@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Several reddish/orange lights in formation seen by two witnesses north of Atlanta, GA (Marietta, GA) on Dec. 24, 2016.On the way to a store on Dec. 24, 2016 (7:55 pm), several red/orange lights were observed in the sky by two witnesses as they traveled by car.  They appeared a little larger than the stars in the background.  They had a circular shape and did not blink.  There seemed to be two batches of lights.  Each contained five to six lights per group.  The second group formed a square with one light in the middle.  They moved slowly (if at all), then disappeared suddenly.  It was as if they sank behind the tree line.  Note:  There was an airplane off to the left that could be seen at the same time.  The airplane displayed the normal characteristics of white light with blinking lights and was moving at typical airplane speed.  The red UFO circles clearly appeared much different then the "normal" aircraft flying off to the left.  The red UFOs where bigger in size as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131892.html](http://www.nuforc.org/webreports/reports/131/S131892.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>At 6AM PST i woke to my alarm.  I filled my cup of coffee and went upstairs to have a cigarette. I walked out the french doors on the second level deck; I lit my cigarette and looked towards the trees.  As i looked North East towards the stars i saw what initiallly appeared to be a shooting star.  After a second i realized that light that i saw in the sky was flashing and slowing down getting brighter as it descended. The light appeared to descend into the tress approximately a mile or two away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73832.html](http://www.nuforc.org/webreports/reports/073/S73832.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
