@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:31 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:49 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Five lights fly in straight line.Five orange-red lights flying south to north.  Evenly spaced in a straight line, traveling at the same speed. No sound, flying fast but not super fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95488.html](http://www.nuforc.org/webreports/reports/095/S95488.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangle w/ 1 light on each point.I just want you to know, I'm only 15. My mom, dad, sister and I were driving down a road close to our house when I noticed an object pretty close to the ground. there were no sounds. eventually, we were practically under it and it was flying a little faster than it's slow speed.  It had 3 visible lights; one on each tip of the black triangular shape.  my sister got scared because i said it looked exactly like something i saw in a dream just a few days earlier.  When we got home(we were a street away) my dog was barking insanely.  I witnised the object one other time since then. I ob served it this time in my house.  I was at the computer a little while after Christmas this year(1999) when something told me to look out the window above the computer and i saw it again.  Both times it was close to the ground, silent, and always heading in the direction of south-east; toward my local air-port but both times, the air-port denies a craft such as that or any-craft coming from the direction of my house's area.  I think it might be the infamous Aroura Project but the government won't tell me if it exists and if it does, was it in my area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/008/S08044.html](http://www.nuforc.org/webreports/reports/008/S08044.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
