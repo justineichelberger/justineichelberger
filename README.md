@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:32 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Auburn (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>Group of 5 orange lights moving in formation, no sound.Christmas Eve, I was getting into the car to take my mother home at around 9:30 PM.  I happened to look to my left (North) and saw five orange lights moving slowly across the sky.  There was no noise as I tried to listen if they might be aircraft.  I said to my mother, "Look at this.  Have you ever seen anything like this?"We continued to watch for maybe another 5-10 minutes.  They maintained the same formation the whole time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/113/S113620.html](http://www.nuforc.org/webreports/reports/113/S113620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Several reddish/orange lights in formation seen by two witnesses north of Atlanta, GA (Marietta, GA) on Dec. 24, 2016.On the way to a store on Dec. 24, 2016 (7:55 pm), several red/orange lights were observed in the sky by two witnesses as they traveled by car.  They appeared a little larger than the stars in the background.  They had a circular shape and did not blink.  There seemed to be two batches of lights.  Each contained five to six lights per group.  The second group formed a square with one light in the middle.  They moved slowly (if at all), then disappeared suddenly.  It was as if they sank behind the tree line.  Note:  There was an airplane off to the left that could be seen at the same time.  The airplane displayed the normal characteristics of white light with blinking lights and was moving at typical airplane speed.  The red UFO circles clearly appeared much different then the "normal" aircraft flying off to the left.  The red UFOs where bigger in size as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131892.html](http://www.nuforc.org/webreports/reports/131/S131892.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
