@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 24 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Stellenbosch (South Africa) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orange-red light in sky, Stellenbosch, South Africa.Christmas eve 23:15 in Stellenbosch, South Africa.  Walking to my car with my father and his wife when I noticed a bright orange-red light due south at about a 40 degree angle to the horizon.  I mentioned it to the others and my father suggested it is a planet.  I said it is not in the right place for a planet and it is too bright and deeply coloured.  It seemed to pulsate but not in a predictable pattern.  After some time it smoothly moved further away still going south and the light became dimmer until it eventually disappeared.  We couldn’t explain what it could be. I remember seeing a similar light also on a Christmas eve about 25 years ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105703.html](http://www.nuforc.org/webreports/reports/105/S105703.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Hobe Sound (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>A very bright light about three to four times the size of a star in the sky  that appeared closer like not in space move in circle.On the night of Christmas eve 11:59 pm 1 min till Christmas so me and my girlfriend went to her grandmas back porch to go sit outside and smoke, when we went out there we were sitting and eventually looking at the sky I saw a light twinkling like, it was bright shining light bigger then any star in the sky and it would flash on and off constantly, thats how i noticed it for at least 45 mins we were out there, and two or three times for a sec it would kind of just disappear maybe because clouds were blocking but then it would be right back. After looking at it for so long it hurt my eyes but I saw like this force field of rainbow light emit like a force field around it for like 3 or 4 seconds then disappear but like in perfect shape around the light blue colored purple idk again it could of been my eyes playing tricks but the flashing of the bright light was clear to see.  But i asked around an people said the north star is bright.  IT DOESN'T BLINK LIKE A CHRISTMAS LIGHT DOES IT?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86384.html](http://www.nuforc.org/webreports/reports/086/S86384.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [433](http://www.nuforc.org/webreports/reports/161/S161306.html)
-- [432](http://www.nuforc.org/webreports/reports/161/S161298.html)
-- [431](http://www.nuforc.org/webreports/reports/161/S161585.html)
-- [430](http://www.nuforc.org/webreports/reports/161/S161369.html)
-- [429](http://www.nuforc.org/webreports/reports/161/S161296.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
