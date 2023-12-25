@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:35 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bellingham (WA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>At about 8:30pm - 8:45pm on Christmas Night, I stepped out into my back yard and looked at the western sky.  Through the tall trees in our backyard I could see a bright orange orb in the sky.  I went out to the middle of the back yard to get a better view of the sky, unobstructed by trees, and noticed two more bright orange orbs that matched it.  Together they formed a scalene triangle formation - the two lights to the left were basically one above the other, and the one to the right was further away and sort of centered between the other two.  They were not blinking or moving, they were stationary and glowing the exact same color and were brighter than anything else in the sky.  I called for my husband to come out and look at them.  Clouds were coming in, but he was able to witness one of them for a minute or two before it disappeared behind the clouds.I went back in with my family and started talking about what I had seen, and my Mom said she had seen them about two hours earlier when she was coming over to my home.  She lives on a hill about 1.5 miles away, and had clearly seen them, unobstructed, as she drove down the hill on the way to our home.  She described the exact same three stationary orange glowing objects in the exact same place and in the same triangular position in the western sky.I initially thought the objects may have been lanterns, but there is no way they were if she had seen the exact same objects two hours prior to me seeing them.I also wondered if they were planets, but they were the same size, same color and glowing, not twinkling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124823.html](http://www.nuforc.org/webreports/reports/124/S124823.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 3 orange lights hovering over broward county FL at 10:25pm Christmas eveThree orange lights  moving at  a constant speed in formation then splitting up further away from each other before vanishing from sight.  No blinking indicator lights or any sound as we got out of our car then continued to follow them out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105707.html](http://www.nuforc.org/webreports/reports/105/S105707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
