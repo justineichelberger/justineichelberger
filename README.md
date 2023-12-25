@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:32 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>2 oval shaped bright reddish with yellow to white leading light fire balls in sky over fairbanksI was standing in my kitchen, It was around 4:30/5:00pm late afternoon / early evening in fairbanks, Alaska, Somewhere over the Chena Ridge area headed towards Parks Ridge.  The moon was almost full but not high in the sky yet,  The sky was getting dark however it was also getting lighter because of the rising moon.  I was standing at my kitchen window when something very bright caught my eye, I knew right away this was something very different than what I was use to seeing out my kitchen window and if one was not enough then came another one shortly behind it .  I put down what I was doing and ran outside , I did not turn on any outside lights and my yard is very open and quiet with no street or any other kinds of lights for miles around. What I was looking at was two fire like balls almost an oval shape. about 3/4 of the object around was bright fire red and the leading side had yellowish to white light.  They were moving from the town area over Chena Ridge t! o the Parks Highway area, not to fast and not to slow in a slightly curved direction this only lasted about 2 min start to finish and they were gone when I went outside there was no noise they were very silent or in stealth mode</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95538.html](http://www.nuforc.org/webreports/reports/095/S95538.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Port St Lucie (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Orange Orbs flying silent over Port St Lucie Florida Christmas nightMy wife and I and the neighbors witnessed on Christmas night at around 11:30 - 3 Orange Orb like objects moving in a type of formation 2 together side by side then a third behind them about 20 seconds.  Then the rest of the neighbors saw 5 more fly over.  They made no sound and were oval in shape. They were so bright they almost looked like fireballs in the sky.  I caught them on film and have the proof.  A week later on New Year’s Eve my whole family was out lighting fireworks and they appeared again.  Again I caught them on video.No one can identify them. Haven’t seen them since</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86545.html](http://www.nuforc.org/webreports/reports/086/S86545.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
