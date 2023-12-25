@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in wednesbury () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 round orange coloured spheres dancing in sky,then 1 stopped and the other appeared to move arounf it.lost sight when cloud came over..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67617.html](http://www.nuforc.org/webreports/reports/067/S67617.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hackettstown (NJ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 orange lights in sky.I was walking my dog and saw 3 orange lights in the sky heading NW.  They did not appear to be airplanes because there was no engine sounds and the lights were orange and they were not following typical flight paths that I've seen with planes.  They were in a loose v formation/ obtuse triangle.  I saw stars in between the 3 lights so I knew it was not a single craft.  The light in the more northern position suddenly made a relatively sharp turn and headed north/northeast.  The other 2 continued NW and began to cross cross paths until the tree line of a western mountain/hill blocked my view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105648.html](http://www.nuforc.org/webreports/reports/105/S105648.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
