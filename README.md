@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:33 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:44 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Shiny silver object that reflected the sun emerged in the south sky moving east to west then abruptly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15663.html](http://www.nuforc.org/webreports/reports/015/S15663.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Buckhead Ridge (Okeechobee) (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>bright diamond light over lake Okeechobee followed by double sonic boomAt 810pm i went driving into my drive way in the way home i observed a light hoovering over lake okeechobee i estimate the distance to the light was 2 miles. I noticed the light becasue it was bright and seemed to radiated thru the spectrum.  From intense white red blue yellow. I thought it was a star except no other stars were visable the moon is out but there are low clouds and no stars are visable at all. i parked my truck got out and observed the object then it blinked out at 8:16.  I went inside my home and at 8:22 and heard a double sonic boom that slightly shook my house.  I would like to note that this object was in the same position as a bright red light i reported to you last month.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95500.html](http://www.nuforc.org/webreports/reports/095/S95500.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
