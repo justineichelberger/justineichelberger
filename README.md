@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:08 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sylvania (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two reddish orange glowing ballsTwo reddish orange balls flying east to west remarkable color, made no sound, flew in relatively straight line, when closest were over trees, estimate 500 feet AGL disappeared over treeline to the west.Had enough time to run inside the back door and call my wife out the front door who saw them go over the treetops to the west over US 301</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131870.html](http://www.nuforc.org/webreports/reports/131/S131870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in El Baul (Venezuela) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Object entered atmosphere and disappearedRight after opening christmas presents, in my uncle's farm, my cousins gave my auntie a brand new Celestron telescope. I was just browsing a very clear sky, since we where very far from the nearest city, so millions of star could be seen. Suddenly I watched an object moving slowly, but making very wide turns. Impossible for an aircraft. Besides it had no other lights like the beacons and nav lights. I removed my eye from the telescope, to check if I was just seeing things, and tried to call my cousin. In that moment, the object started to grow amazingly until it reached maybe 10 times its original size, then disappeared. Sadly no one else could see it. I believe it entered the atmosphere.((NUFORC Note:  Date in original report was flawed.  We have corrected the date to the year 2000, which is what we presume the witness intended.  We will check with the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43981.html](http://www.nuforc.org/webreports/reports/043/S43981.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
