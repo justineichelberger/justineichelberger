@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:33 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rocky Poiint (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10:00 - 10:00 minutes.</sub><blockquote><sub>2 bright lights in the sky.  They disappeared then reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116312.html](http://www.nuforc.org/webreports/reports/116/S116312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Upton/Millbury (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>4 lights spreading out from one point, rotating 45 degrees, then meeting again.The objects were circular lights in the clouds, moving in a set pattern in the sky. They would meet at a point, spread out, rotate 45 degrees, then meet again at the same point as one larger light (continuous cycle) There were 4 lights.  They looked like spotlights.  I was traveling west on I-90 and the formation was traveling roughly the same speed, 70 mph, in the same direction, to the North of my car.In Millbury, the formation slowed down and I lost sight of it.  Wife tried to take video, but the lights were not bright enough to show up.((NUFORC Note:  Advertising lights?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124839.html](http://www.nuforc.org/webreports/reports/124/S124839.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
