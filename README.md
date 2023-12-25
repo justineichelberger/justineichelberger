@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:14 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in West Jordan (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 orange lights in sky over Utah2 bright orange lights were flying slowly southeast, flying at a short distance from each other, then 1 light moved away quickly towards the north and disappeared, the 2nd bright light moved slowly northward, and grew smaller until it disappeared.  The night is clear, no clouds, not a lot of stars are visible due to city lights, my grandson, 11 and granddaughter, 8 are witnesses.  I pulled off to the side of the road and we watched the lights until they disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105677.html](http://www.nuforc.org/webreports/reports/105/S105677.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Satellite Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three bright orange objects in sky of east/southeast of Florida.I was out walking my dog and saw three orange objects in sky to east/southeast.  The were stationary for a few minutes then one quickly shot up and was gone, after about 15 seconds the second one did the same.  The third object remained for about a minute and then was gone.  I see helicopters and planes here all the time and these object were quiet and when they moved were beyond the speed of anything I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116304.html](http://www.nuforc.org/webreports/reports/116/S116304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
