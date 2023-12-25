@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:57 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hollister (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Long black, long tindrils at one end and a changing shape like the tail of an aircraft at the other.  No sound.Former Pan Am Flight Attendant 25 years.  Black long metallic with something moving like tendrils at the tail end of it, was able to get binoculars changed shape at the opposite end (forward end)shaped like the tail section of an aircraft.  It moved back and forth, up and down slightly a few times kind of dancing but also appeared to be floating.  No sound.  Began to descend slowly until it disappeared out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116296.html](http://www.nuforc.org/webreports/reports/116/S116296.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in wednesbury () reported seeing craft that fit the description of some 'Sphere' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>2 round orange coloured spheres dancing in sky,then 1 stopped and the other appeared to move arounf it.lost sight when cloud came over..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67617.html](http://www.nuforc.org/webreports/reports/067/S67617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
