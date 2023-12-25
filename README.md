@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Coral Springs (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Saw 3 orange lights hovering over broward county FL at 10:25pm Christmas eveThree orange lights  moving at  a constant speed in formation then splitting up further away from each other before vanishing from sight.  No blinking indicator lights or any sound as we got out of our car then continued to follow them out of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105707.html](http://www.nuforc.org/webreports/reports/105/S105707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Sylvania (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>two reddish orange glowing ballsTwo reddish orange balls flying east to west remarkable color, made no sound, flew in relatively straight line, when closest were over trees, estimate 500 feet AGL disappeared over treeline to the west.Had enough time to run inside the back door and call my wife out the front door who saw them go over the treetops to the west over US 301</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131870.html](http://www.nuforc.org/webreports/reports/131/S131870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
