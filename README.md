@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:45 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bonham (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : Red object moving west to east, person looking southward.  Appear as large as airplanes approaching Dallas/Ft.Worth airport  but traveling faster than the normal airspeed of planes approaching the airport.  First looked like over size red lights on plane but speed faster took a closer look. Object than stopped giving off what appearred as flames from the bottom extremely white than a small white object decended straight down from the red object flames.  The white object disappear but could hear a pop sound at its disappearance.  Red object fades away.Same as above.  Observer is a motel clerk taking a cigarette break outside at time of sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02991.html](http://www.nuforc.org/webreports/reports/002/S02991.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Winter Haven (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>flickers multiple, bright colors not movingLooks like a star but flashes, brightly, multiple colors...red, blue, white...has not moved in over 20 minutes and is still flickering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67662.html](http://www.nuforc.org/webreports/reports/067/S67662.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
