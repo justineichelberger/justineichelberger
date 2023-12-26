@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:56 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Delmar (MD) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Unexplainable bright pulsating yellow-orange object hovering and then flying away at a high rate of speed.I was putting my son to sleep when I noticed a bright yellow-orange ball of pulsating light floating over the back treetops.  Hovered for sometime and then sped up towards leftward direction.  As it sped up the ball of light disappeared and ?changed into flickering lights - appeared to be multiple objects flickering red, blue , white very very quickly ( not like the steady plane lights at night).  It crossed the skyline within seconds. I’m a physician by practice.  This was not natural. I have security camera footage vouching for the 1st half of the story ( the object left the field of the camera).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161379.html](http://www.nuforc.org/webreports/reports/161/S161379.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright green light traveling high speed south west sky.Bright green light traveling at high speed from south east to west over o'fallon missouri</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105636.html](http://www.nuforc.org/webreports/reports/105/S105636.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
