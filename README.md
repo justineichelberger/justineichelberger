@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Deer Lake (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>4 Unidentified AirCraft , 1 blinking a bright red , 3 others blinking a blueish green in a quad formationMy friends and I were sitting on top of a hill. Our one friend always said he saw weird stuff up there, but we never believed him. Just 2 nights ago amazed my beliefs. A single aircraft was blinking a reddish light, and on occasion it would blink a single off-white light 3 times.The weird thing was, where it came from , it would keep going back. Back and forth repeatedly. 3 others eventually showed up, flashing an off-white color 3 times. The part that shocked me was when all 4 got near each other they stopped. And headed opposite directions from where they were coming. I didn't hear an airplane, nor a helicopter. This was very strange. They would keep coming back to the same spot where we saw them again and again. Going back, and than coming back. Again, no helicopters or airplanes were heard. When all 4 finally left, or so I thought, an object appeared out of nowhere. A really bright light showed up, it kind of looked like the North Star, but it wasn't. It would get dimmer and dimmer. And flash back to a bright white light. The really bothered us, so we drove away. I'll tell you one thing, it made me a believer. You HAVE to believe me, I'm not crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11483.html](http://www.nuforc.org/webreports/reports/011/S11483.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1994, an anonymous witness in West Hills (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Slow fireball, low in the skyI was at the West Hills Medical Center with my wife. My daughter was born earlier that day. We were sitting in the room by the window after sunset. A streaking yellow-greenish ball flew through the sky very low at a moderate speed. We thought we would see a crash explosion, but it just vanished with no other visible signs.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37018.html](http://www.nuforc.org/webreports/reports/037/S37018.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
