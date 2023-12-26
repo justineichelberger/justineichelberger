@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:34 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alvin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>UFO or meteor?My husband and I were out on our patio.  My husband said there's our bright star.  I looked up and the bright light started moving east towards the gulf.  It was moving fast.  The light turned green then went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151998.html](http://www.nuforc.org/webreports/reports/151/S151998.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fishkill (on I-84, eastbound; just past) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0:45 - 0:45 minutes.</sub><blockquote><sub>Large disk or saucer-shaped object with yellow and red blinking lights, rotating around its perimeterObject seen was a very large disk or saucer shaped object with yellow and red lights blinking and appearing to rotate around perimeter.  It was spotted while driving eastbound on I-84, just past Fishkill (a bit beyond the prison, I think).  Object appeared to be slowly moving toward us, then at one point it stopped and hovered.  Hard to tell as we were in a car driving, but no unusual sound was noticed when we opened the window to get a better look at it.  I was dropping a friend off at the Southeast train station; on the way back, I saw it again, but it appeared to vanish quickly.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144070.html](http://www.nuforc.org/webreports/reports/144/S144070.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
