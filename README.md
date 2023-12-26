@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Disc shaped UFO sighted in New York  500 Lights On Object0: YesWhat happened - I first heard a loud noise unlike any noise airplanes or helicopters make, it was too loud to ignore.  Then noise stopped suddently after about two minutes and imediately after i heard multiple helicopers in the sky as if they were following what was making the noise.  The helicoper and the unidentified noise were very different.  The unidentified sound was louder and like a pulsing siren, a siren with low bass.Description - At this point i went to look out of my window.  Slightly above the building directly across from me was a line of slowly flashing lights from left to right.  The body of the craft wasnt visible but the lights were in a perfect line like a disk shape.  These lights flashed blue and red. The lights were steady as stars in the sky until minutes later when it grew in size as if it came closer then drifted off to the right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95521.html](http://www.nuforc.org/webreports/reports/095/S95521.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Bonham (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Summary : Red object moving west to east, person looking southward.  Appear as large as airplanes approaching Dallas/Ft.Worth airport  but traveling faster than the normal airspeed of planes approaching the airport.  First looked like over size red lights on plane but speed faster took a closer look. Object than stopped giving off what appearred as flames from the bottom extremely white than a small white object decended straight down from the red object flames.  The white object disappear but could hear a pop sound at its disappearance.  Red object fades away.Same as above.  Observer is a motel clerk taking a cigarette break outside at time of sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/002/S02991.html](http://www.nuforc.org/webreports/reports/002/S02991.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
