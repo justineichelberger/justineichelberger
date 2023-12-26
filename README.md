@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:39 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Charlotte (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary large bright yellowish light with orange flickering lights. Lights in a triangle pattern.My boyfreind and I were heading to my father's house where I grew up to celebrate the holidays.  We were traveling south on Mt. Philo Road in Charlotte when he noticed a large bright yellowish light in the sky to the right of Mt. Philo.  He asked me what I thought it was. I wasn't sure, I told him it might be a planet rising and we would have to ask my father if there were any rising at this time of year. He asked me if it was some kind of radio tower or something of that nature.  It seemed too high in the sky to be a tower like that, and too bright. We began to descend a large hill where the road heads toward the Mt. Philo state park when my boyfreind noticed a very small and dim blue light to left bright one.  At this point he mentioned that he thought it may be a helicopter when all of a sudden the bright yellowish light dimmed out and between where it had been and the dim blue one was, three or four large orange/gold dimmer lights flickered on and off with no rhyme or reason.  We both exclaimed "Whoa, do you see that??."  As we approached it further, there was no sign of it moving from its original location.  We nearly passed underneath it on the road, about 50 feet from the intersection of the state park rd.  I would say it wasn't more than 200 feet in the air above us. Once we passed it, I noticed three super bright white lights in an upside down triangle formation.  After that, I lost sight of it because someone was following us closely and it became difficult to see past their headlights. When we arrived at my father's house, we explained what we had seen.  I returned about 10 minutes later to the spot with my father but it had gone. Last night (Wednesday, January 31, 2006), My father's girlfriend was traveling down the same road at about the same time and saw similar lights at the same location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48971.html](http://www.nuforc.org/webreports/reports/048/S48971.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Toa Alta (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:40 - 00:40 minutes.</sub><blockquote><sub>V shaped object traveling from south-east to north-west between Toa Baja and Toa Alta, PRA triangular shape flying object was observed by 4 persons flying from south-east to north and then change the flight path to west bound. The object has orange sequence tilting lights and white bright lights at the bottom and do not make any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95541.html](http://www.nuforc.org/webreports/reports/095/S95541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
