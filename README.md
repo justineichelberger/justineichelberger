@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:33 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Memphis (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>I was driving down interstate 40 towards appling hwy64 and saw a boomerang shaped disc with one light moved fairly fast then disappeared before i could get my phone out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144071.html](http://www.nuforc.org/webreports/reports/144/S144071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Moneta (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A strange sound, then a light.  My dogs started barking and there was something large in the yard.At approximately 22:15 on 12-26-2007, I was awakened by a strange motor sound and a light.  My family lives near a rural well traveled road, so I was confused by the sound but not really by the light. Sometimes car lights will shine through our windows.  The sound I heard was like nothing I had ever heard before except for maybe on a movie. I laid my head back down and then our dog, along with the neighbors dog, started barking frantically. This was a real shock, my dog normally does not bark. This was when my wife and I both were startled.  After about 10-15 minutes of the barking, I had enough and got out of bed.  I looked through the shade and saw something very large at the outer edge of my yard.  It had no lights, it was on the ground, and it made no noise.  It did not move. The moon was bright, but there were clouds in the sky. I did not have on my glasses, but there was something defiantly there. Approximate size was probably 30x25 ft. It seemed a lighter color on the outskirts and very dark in the middle.I was half asleep when all of this happened, I remember saying something to my wife about it then going back to bed. Then hours later I awoke realizing what had happened. I looked again and there was nothing there. I went to work that day thinking I imagined the whole thing until I got home that evening. That’s when my wife made the comment about our dog barking and not sleeping well. I realized then that possibly there had been something there after all.On Thursday evening, the 27th at around 18:39, while my wife was cleaning up after supper  cooking supper, the dogs started barking again. I arrived back home after taking some trash to the dump. She explained to me about the dogs and I went outside on the back porch. At this time the dogs had stopped barking and I could not see anything.I am a skeptic, and I don’t know what it was that night or the next. And I don’t know what is going to happen tonight.  All I know is that something happened.  Believe me or not, that’s your prerogative. Thanks for listening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60541.html](http://www.nuforc.org/webreports/reports/060/S60541.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
