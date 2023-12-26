@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Toa Alta (Puerto Rico) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 00:40 - 00:40 minutes.</sub><blockquote><sub>V shaped object traveling from south-east to north-west between Toa Baja and Toa Alta, PRA triangular shape flying object was observed by 4 persons flying from south-east to north and then change the flight path to west bound. The object has orange sequence tilting lights and white bright lights at the bottom and do not make any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95541.html](http://www.nuforc.org/webreports/reports/095/S95541.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oswego (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Steady, orange light, moving across the sky and flickering off.A steady, orange light, brighter and slightly larger than typical for a plane moved north across the eastern sky.  Ten seconds after observing it, it became smaller and dimmer and flickered off and on before disappearing.  Atmospheric conditions were very clear.  We do not know how long it may have been observable before we noticed it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116293.html](http://www.nuforc.org/webreports/reports/116/S116293.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
