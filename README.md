@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:28 on 25 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Liverpool (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was in the kitchen, and looked out the window. I seen what I thought was an airplane at first, because I seen a blinking light.  I noticed the object suddenly and quickly flew sideways (zig - zag). I had never seen any craft fly in such a strange pattern.  I noticed the shape of the object was a fluorescent diamond, and the blinking light (that looked to be on top) was a yellow - orange color.  I quickly ran out the front door to get a better view. I noticed there was NO sound! The object seem to be "floating" instead of flying.  It was as if it were weightless. It floated vertically up and down, and shifted horizontally a few times. It then stopped, and it's as if it "twinkled out" or took off at an alarming speed.  It's hard to say exactly what it did, because the object was so different than anything I had seen before.I walked back into the house, and then looked out the kitchen window a few minutes later. I noticed the object was back once again.  It flew exactly the same way and pattern for about two minutes and then banished.  By banish, I assume took off at a high speed or some function unknown.  It's very hard to explain in nature how this object appeared and "banished".I thought about what I saw that evening, but came to no conclusions.  I thought maybe it was someone playing with a remote control plane or UFO; some toy a child may have got for Christmas.  It couldn't have been, because it was floating way too high in the evening sky to have been a toy.  Not only that, but the wind was very rough, and I can't picture someone out playing with a remote control toy plane or UFO.  Again, it floated way too high to be a toy. I thought maybe it was a drone, and I googled and YouTubed drones to observe how they fly.  It was NO drone either! It was too big, and it didn't fly like a drone. The object I observed didn't "fly" anyway, it "floated". It was no airplane, helicopter or anything of this nature either.  Only conclusion of what the object was, is a UFO or something the government may be testing.I'm a perfectly sane, sound person.  I have NEVER seen anything fly or float in the way this object did. I have never seen anything like it. . .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138088.html](http://www.nuforc.org/webreports/reports/138/S138088.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alvin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>UFO or meteor?My husband and I were out on our patio.  My husband said there's our bright star.  I looked up and the bright light started moving east towards the gulf.  It was moving fast.  The light turned green then went out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151998.html](http://www.nuforc.org/webreports/reports/151/S151998.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [389](http://www.nuforc.org/webreports/reports/161/S161322.html)
-- [388](http://www.nuforc.org/webreports/reports/161/S161308.html)
-- [387](http://www.nuforc.org/webreports/reports/161/S161327.html)
-- [386](http://www.nuforc.org/webreports/reports/161/S161304.html)
-- [385](http://www.nuforc.org/webreports/reports/161/S161324.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
