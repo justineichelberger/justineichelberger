@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in O'Fallon (MO) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright green light traveling high speed south west sky.Bright green light traveling at high speed from south east to west over o'fallon missouri</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105636.html](http://www.nuforc.org/webreports/reports/105/S105636.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Centennial/Parker (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I was driving southbound on S. Chambers Rd. nearing Compark Blvd. (at the Centennial/Parker border) when a bright, solid-white light appeared out of nowhere at a very low altitude to the left of me in the pre-dawn darkness.  It zipped south-eastward in the same trajectory as my car, veered northward and down before it just blinked out.  It was much too low & fast for the distant flights ascending/descending out of DIA and much too fast for the smaller planes allowed in the immediate Centennial airspace.  The light was more solidly encompassing, rather than just a twinkle on a plane or helicopter.  My car was the only one on the road in all directions at 5am so there were no head- or tail-lights anywhere in the vicinity to have been reflected on my car windows or against anything external.  I've never seen anything like this before until last month when my husband and I both were startled by a nearly identical occurrence.  Two sightings of my own seems both noteable and worthy of reporting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151992.html](http://www.nuforc.org/webreports/reports/151/S151992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
