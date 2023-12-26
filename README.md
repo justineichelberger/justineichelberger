@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An object that disrupted the star lit sky around it.  Moved 3 miles in approximately 5 seconds.While looking at the star lit evening my wife and I suddenly noticed a very fast moving craft that sped across the sky and covered 2-3 miles in approximately 5 seconds.  The craft did not have lights but was rather a solid substance that appeared to be slightly lighter than the surrounding stars.  A good description is like when you see a jelly fish in water.  It is difficult to see the outlines but you can tell that there is a substance there.  The craft moved silently, and quickly with no sound and was probably only able to be picked up due to the fact that there was a bright quarter moon out also.  It originally reminded me of a batman movie when there was the bat signal in the sky.  Delta shape with softly rounded corners, no flashing lights, but only can be described as a disruption of the space around it.  Perhaps a cloaking device was enabled but one could still make out the speed and shape due to the disruption around it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116273.html](http://www.nuforc.org/webreports/reports/116/S116273.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in New York City (Brooklyn) (NY) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Disc shaped UFO sighted in New York  500 Lights On Object0: YesWhat happened - I first heard a loud noise unlike any noise airplanes or helicopters make, it was too loud to ignore.  Then noise stopped suddently after about two minutes and imediately after i heard multiple helicopers in the sky as if they were following what was making the noise.  The helicoper and the unidentified noise were very different.  The unidentified sound was louder and like a pulsing siren, a siren with low bass.Description - At this point i went to look out of my window.  Slightly above the building directly across from me was a line of slowly flashing lights from left to right.  The body of the craft wasnt visible but the lights were in a perfect line like a disk shape.  These lights flashed blue and red. The lights were steady as stars in the sky until minutes later when it grew in size as if it came closer then drifted off to the right.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95521.html](http://www.nuforc.org/webreports/reports/095/S95521.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
