@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Huntsville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green Light/Orb in Northwestern Sky in Huntsville, Alabama.My wife and I were driving west on I-565.  I glanced towards the northwest and saw a green light/orb studded then rapidly shoot toward the ground.  It wasn’t at a high elevation either so I didn’t think it was a shooting star.  There is a US government arsenal and a NASA branch here.  However, this happened over a populated civilian area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138097.html](http://www.nuforc.org/webreports/reports/138/S138097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tobyhanna (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Red light in the SkyI was smoking a cigarette on my back deck, looking toward my back yard which is faily woodland (but not dense).  Then all of a sudden in the background, I seen a Red Light that seemed to appear from behind the house in back of me (past my lot).  It didnt come from that house, but a fair distance away.  The red light rose at a pretty fast pace (but not extremely fast) almost a perfect line, but wiggled a little bit from side to side (not drastic).  It looked like it left a small trail from its path, but it was snowing out, so cant say for certain.  Then all of a sudden it stopped in mid air for a second, then it was gone.  I didnt see it after that second, because I turned around to open the door and yell to my parents.  It left In my words a red circle where it did stop for around i would say 10 seconds then the red circle "Trail" disapated.  I thought after scrutenizing my sighting that it might have been a firework, or maybe a flare.  We do have a small airport where we are, but not near the direction where I was looking (North).  It did not make a sound, no explosion, nothing like a firework makes.  And if I remember, aeronatical flares stay lit for much longer than what I have seen.  It was very spooky!  I had goose bumps all over my body.  If anybody seen this light at the same time I did, leave a post.  It might have been a flare, but it didnt "Feel" like one.  And it definetly wasnt a small airplane, no flashing lights, no noise and it was much to bright.  Any information regarding this sighting would be very useful and put me at ease.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41271.html](http://www.nuforc.org/webreports/reports/041/S41271.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
