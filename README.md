@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:33 on 26 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oswego (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Steady, orange light, moving across the sky and flickering off.A steady, orange light, brighter and slightly larger than typical for a plane moved north across the eastern sky.  Ten seconds after observing it, it became smaller and dimmer and flickered off and on before disappearing.  Atmospheric conditions were very clear.  We do not know how long it may have been observable before we noticed it.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116293.html](http://www.nuforc.org/webreports/reports/116/S116293.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Ogden (UT) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>An object that disrupted the star lit sky around it.  Moved 3 miles in approximately 5 seconds.While looking at the star lit evening my wife and I suddenly noticed a very fast moving craft that sped across the sky and covered 2-3 miles in approximately 5 seconds.  The craft did not have lights but was rather a solid substance that appeared to be slightly lighter than the surrounding stars.  A good description is like when you see a jelly fish in water.  It is difficult to see the outlines but you can tell that there is a substance there.  The craft moved silently, and quickly with no sound and was probably only able to be picked up due to the fact that there was a bright quarter moon out also.  It originally reminded me of a batman movie when there was the bat signal in the sky.  Delta shape with softly rounded corners, no flashing lights, but only can be described as a disruption of the space around it.  Perhaps a cloaking device was enabled but one could still make out the speed and shape due to the disruption around it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116273.html](http://www.nuforc.org/webreports/reports/116/S116273.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [259](http://www.nuforc.org/webreports/reports/161/S161325.html)
-- [258](http://www.nuforc.org/webreports/reports/161/S161336.html)
-- [257](http://www.nuforc.org/webreports/reports/161/S161379.html)
-- [256](http://www.nuforc.org/webreports/reports/161/S161465.html)
-- [255](http://www.nuforc.org/webreports/reports/161/S161373.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
