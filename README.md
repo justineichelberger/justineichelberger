@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Nazareth (PA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three, solid, orange lights under the cloud ceiling.  The second and third lights (the two farthest from me) appeared to have three or four smaller lights before going back to one. The lights then vanished above the clouds from third to first. A similar formation of three lights was observed on 12/24, but just took it as three planes flying in a row.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116229.html](http://www.nuforc.org/webreports/reports/116/S116229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aliso Viejo (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>round object hovering over city with upper and lower row of lightsAs my fiance and I were entering a Khols department store, we noticed two rows of white lights that seemed to be stationary in the sky above the store, the object appeared to have been within 1/4 mile of our location. There was a single round shaped object that seemed to be hovering over the city. The object had two rows of bright white lights, that were around the edge of the circular shape, and between the two rows of lights was a single bright white light. The object appeared to have been between 500 and 1000 feet in elevation, and was pretty large. The night it happened, there was a low cloud cover, which the object was under. I noticed the cloud cover level, because there was absoulutely no sound coming from the object, and with low cloud cover,and lower elevation of the object, most aircraft would have made some sort of noise. The object moved slowly south, the seemed to sway from side to side loosing and gaining elevation with the sway. The object then slowly turned towards the east and moved away at a very slow pace until it went out of sight behind some buildings. As I changed locations to see the object again, it was no longer visible. My fiance ( who is a marriage and family therapist) and myself (who is an environmental professional) both saw this object for approximately 2 min, and could not identify  what type of know aircraft this could have been.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54462.html](http://www.nuforc.org/webreports/reports/054/S54462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
