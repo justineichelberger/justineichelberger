@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  Made no noise at all. witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  made no noise at all.  Then changed color to bluish glow, rotated and accelerated up and to the south at incredible speed.  Literally disappeared in about 2 seconds.  Several sonic booms were heard as it left.  Neighbors' dogs were barking.  Our pet cat was visibly upset.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138079.html](http://www.nuforc.org/webreports/reports/138/S138079.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laguna Hills (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fast, unusual light movementDimond shape (bright white dot)object moved fast in the sky(compared to air plane), changing trajectory. At some view the red dot appears together with white diamond.  It looks like this object changed the altitude and direction. No noise at this distance (I can roughly estimate as 1 or few miles) was heart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67690.html](http://www.nuforc.org/webreports/reports/067/S67690.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
