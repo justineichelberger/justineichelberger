@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Covina (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Oblong shaped UFO with glowing underbelly sighted over Los Angeles area – no explanation.On December 27, 2010 at approximately 6:15 pm PST my wife and I were in our backyard in West Covina, CA (about 22 miles east of downtown Los Angeles).  It was a very clear evening and I was looking up at the night sky.  In the southwest sky there was a light from what appeared to be a planet and to the right and above the planet I noticed another odd, bright light.  It was oblong in shape and had a glowing white oblong light on its underside.  It was moving at a slow pace in a northerly direction.  It seemed to be moving too slow to be an airplane and it seemed to high and too big to be a helicopter.  I pointed it out to my wife and she also saw it and couldn’t explain it.  We watched it for about 2 minutes and then it suddenly disappeared.  We didn’t see it fly off.  It was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79402.html](http://www.nuforc.org/webreports/reports/079/S79402.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked like a bright orange fire flying across the sky of TucsonMy friend and I pulled up to my brothers house to pick  him and his friend up and I pointed out what looked to be a odd bright orange light, almost like a fireball!  My brother asked is that a plane on fire? Just because it was so incredibly orange like a plane fully engulfed in fire, but it just kept flying across the city sky till we could not see it anymore.  Speed looked about the same speed as a airplane or a fast helicopter but there was absolutely no sound to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105561.html](http://www.nuforc.org/webreports/reports/105/S105561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
