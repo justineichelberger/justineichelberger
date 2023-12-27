@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:38 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:32 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Saco (ME) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>It was hudge and had 7 lights on its under side and one big one in the front of it, there was no tail to this craft !!!!!!I was driving from old orchard me, to Biddeford me. As I entered the town of Saco I noticed A very bright white light to the south of me .As I drove east on Saco ave I had lost it in the trees, Then when I pulled to the intersection of Rt 1 and Saco Ave it was to my Southeast and moving very very slow, So I Pulled into the Shop N Save parking lot and watched the triangle shaped craft move over me it was three times the size of any air craft id seen before and it had a hudge white light in the front and 1 large square in the bottom center of it and three smaller squares on each wing ,With a red light on each wing tip. this was either the stealth bomber or I Have been witness to a top secret craft or a ufo!!!!!!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15641.html](http://www.nuforc.org/webreports/reports/015/S15641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Stonington (CT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Was driving southwest on Pequot Trail approaching intersection of Farmholm Road and was distracted by a very bright greenish yellow light off to my right/front (N) of the vehicle.  Object was fast moving, heading in a downward trajectory as if to hit the ground.  Object appeared to have a round shape behind the light, which was in silhouette.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138096.html](http://www.nuforc.org/webreports/reports/138/S138096.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
