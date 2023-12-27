@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>UFO looses cloak while traveling.I was in my front lawn and loking up at the cloudy sky when an object flew past under the clouds.  It seemed to appear and then disapear in less than a second and in that time it had to have traveled half was to a third of the way through the entire sky. All it was was one large light with a smaller light close behind it, probably connected to the same craft. It absolutely did not come in through the clouds then back up giving the illusion of appearing and dissapearing, it seemed like it was traveling in a straight line very quickly and for some reason became visible or lost its cloak somehow.  Very weird. The shape may have been tear shaped but I could be certain because of the immense speed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54626.html](http://www.nuforc.org/webreports/reports/054/S54626.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Hensley (AR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I noticed what I thought was a satellite in the sky above my house,my daughter pointed out that there were several others.they were moving from east to west and more kept appearing from the east and traveled west and south west. This went on for about an hour or more.some were in V shaped patterns and some that were in a pattern that resembled kites with a tail. We literally saw hundreds of these lights were in the sky at the same time. Most were white in color but there were maybe 20 that were brighter and appeared to be a little larger with an amber color. I made phone calls to several people in west little Rock and they were visible from there as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161330.html](http://www.nuforc.org/webreports/reports/161/S161330.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
