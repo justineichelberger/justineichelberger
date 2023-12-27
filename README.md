@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:11 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Flemingsburg (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Diamond-shaped craft/configuration of lights transforms into rectangular low-flying lightsThe sky was pitch black and when leaving McDonald's I looked southwest toward Crain Creek Road and saw a round white light with two rectangular/elliptical flashing white lights below the first light and side by side, another round white light equidistance below the two lights as the first one was above.  I saw the diamond shape but do not know whether these were separate craft or what.  I saw the whole diamond configuration for only a few seconds the top light disappeared and then the bottom light did as well about 15 seconds after the top one.  It appeared to drift southwest but never went above the horizon.  Instead it appeared to lower and fly through trees.  I rolled my window down but heard no unusual noise.  (No helicopter or airplane noise).  It was as plain as day to me but no one else seemed to notice except my son who saw the lower light and the two middle ones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54204.html](http://www.nuforc.org/webreports/reports/054/S54204.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Frederick (MD) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Object not seen.  Only fleeting light similar to shooting star only thicker and closer.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116274.html](http://www.nuforc.org/webreports/reports/116/S116274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
