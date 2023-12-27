@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:42 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in South Berwick (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Object with a white and red light appeared to be "dancing" in the sky.  At times it would make quick moves up/down and diagonally, and then move randomly again.My wife noticed a light in the night sky. The night was clear and the event was witnessed from our livingroom window. The object appeared to have a white and red light.  At first, she thought it was a plane.  It is very common to see planes in the sky due to the air traffic between the Portland, Me and Boston airports. We usually can determine an airplane in the sky by the lights and the way they appear to move.  What made this so interresting is this object moved distinctly different than the planes.  She watched it for about 15 minutes, then woke me up to take a look. I immediately could tell this was no ordinary plane.  It appeared to be dancing, or moving in random directions, not fast and not in right angles.  It would periodically seem to move quickly up or down, and diagonally, but not far. From our vantage point, we were looking toward the northeast.  There were other air traffic in the sky, but these were normal airliners from the aiports.  There were no other objects in the immediate vicinity. We could not determine any features of the object;  just the lights.  I estimate the object to be approximately 2 - 5 miles away and about 45 degrees up past the horizon. My sister-in-law who lives adjecent to us has said she has seen this in the past also. My wife is 34 years old, administrative specialist for a major supermarket chain. I am 35 years old, ex-navy, submarine, nuclear reactor operator.  I am currently a technical trainer for a semiconductor equipment company. I am baffled as to what this was.  It appears that this object is not an airplane, commercial or military.  My only explaination is maybe a remote control airplane (like a toy), but why at midnight?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11509.html](http://www.nuforc.org/webreports/reports/011/S11509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark Gray smokey shaped saucer above the highwayI reported this before on the website, and was happy to know someone in Stephenville also saw it. Driving into Dallas on Dec 27th, I saw a plate up in the sky and then it turned horizontal and looked exactly like a UFO. It was about 1 mile wide and was very fluid and blurry looking. It was diagonally going down, like it was going to land. It was a VERY overcast day. The craft was dark gray, no lights. I was embarrassed to tell anyone but this website. (see previous entry) I heard no noise, but definitely saw a fluid-like metal object up in the sky for several minutes. It was not a reflection because it kept going down to the left and I was traveling straight ahead down the highway. Please let me know if anyone else has seen this in Garland, between Mesquite and Dallas, Texas, 2 hours East of Stephenville. Thank you so much.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60882.html](http://www.nuforc.org/webreports/reports/060/S60882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
