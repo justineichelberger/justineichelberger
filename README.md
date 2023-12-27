@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:30 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Laguna Hills (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fast, unusual light movementDimond shape (bright white dot)object moved fast in the sky(compared to air plane), changing trajectory. At some view the red dot appears together with white diamond.  It looks like this object changed the altitude and direction. No noise at this distance (I can roughly estimate as 1 or few miles) was heart.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67690.html](http://www.nuforc.org/webreports/reports/067/S67690.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spring Grove (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>My dog awaken me at 5:45am in the morning, as I was getting out bed I glanced outside the window and seen an object moving across the sky.  The object was about 1000' if that above the tree line and about a football field away. I opened the window to get a clear view and to listen for a sound and it appeared to be gliding or floating more so than being propelled.  The only sound was a quite hum that changed in pitch slightly.  The UFO had various color lights on it.  A white light that was underneath changed from white to blueish green when I flicker my outside lights on and off.  A beam of light appeared to shoot down from it but it didn't reach the ground.  My friend who saw it also said it appeared more square.  I saw the various color lights which appeared to be attached to what looked like 3 prongs or legs beneath it.  About 15 mins. later we saw an airplane traveling in the direction of the UFO but it was much higher up than the UFO we saw.  That I know was a plane because I was able to hear the plane sound and see the lights on the plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73837.html](http://www.nuforc.org/webreports/reports/073/S73837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
