@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garland (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Dark Gray smokey shaped saucer above the highwayI reported this before on the website, and was happy to know someone in Stephenville also saw it. Driving into Dallas on Dec 27th, I saw a plate up in the sky and then it turned horizontal and looked exactly like a UFO. It was about 1 mile wide and was very fluid and blurry looking. It was diagonally going down, like it was going to land. It was a VERY overcast day. The craft was dark gray, no lights. I was embarrassed to tell anyone but this website. (see previous entry) I heard no noise, but definitely saw a fluid-like metal object up in the sky for several minutes. It was not a reflection because it kept going down to the left and I was traveling straight ahead down the highway. Please let me know if anyone else has seen this in Garland, between Mesquite and Dallas, Texas, 2 hours East of Stephenville. Thank you so much.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60882.html](http://www.nuforc.org/webreports/reports/060/S60882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in West Covina (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Oblong shaped UFO with glowing underbelly sighted over Los Angeles area – no explanation.On December 27, 2010 at approximately 6:15 pm PST my wife and I were in our backyard in West Covina, CA (about 22 miles east of downtown Los Angeles).  It was a very clear evening and I was looking up at the night sky.  In the southwest sky there was a light from what appeared to be a planet and to the right and above the planet I noticed another odd, bright light.  It was oblong in shape and had a glowing white oblong light on its underside.  It was moving at a slow pace in a northerly direction.  It seemed to be moving too slow to be an airplane and it seemed to high and too big to be a helicopter.  I pointed it out to my wife and she also saw it and couldn’t explain it.  We watched it for about 2 minutes and then it suddenly disappeared.  We didn’t see it fly off.  It was just gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79402.html](http://www.nuforc.org/webreports/reports/079/S79402.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
