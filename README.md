@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Victoria (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright saucer spinning & zig zagging in the night sky.I had just finished watching television and I look out my window.  I saw a light in the sky I didn't think much of it at first until I saw the light was throbbing kind of fading in and out but still maintaining a high light level.  I saw the objective and when I closed one eye I could see the object zig zagging from side to side.  I went into the living room to awake my roomate but he refused to get up and look.  From my living room I saw the ufo on more of a side-rear view and saw the craft moving up, down, and side to side.  The object was white and when concentrated hard on the light u could see multiple colours.  At first it seemed to have been red and blue but over time it went to  other colours as well.  I returned to my room and it was still there i lied in bed and watched it zig zag out of curosity. My lazy eye kicked in and my sight went out of focus.  During this I saw the ufo itself.  It was a disc shape object, I could only see its shape when i wasnt focused on the lights of the craft.  I saw it spinning clockwise with a light shining down on the sky below.  It was I am predicting a few hundred to thousand feet away.  The object was fairly small but still rather large.  I live in the downtown area of Victoria, bc and I believe it was above the Inner Harbor/James Bay area. (This was the second ufo i've seen in the general area within the last 3 weeks.  I saw a craft very simular and a lot closer approxmity 3 weeks prior.  The ufo was hovering about 400-800 feet away with the same bright lights.  It zig zagged back and forth.  Within 12 seconds of me seeing the craft it traveled to 1/3 of the size it was.  Roughly a grape fruit size.  It zig zagged abit then took off from a grape fruit to nothing and I saw it to the last second.  It took roughly 6 seconds to get totally out of sight from a grape fruit to spec.)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54231.html](http://www.nuforc.org/webreports/reports/054/S54231.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Buffalo (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  Made no noise at all. witnessed whitish "tic tac" shaped craft hovering above tree tops for approximately 5 minutes.  made no noise at all.  Then changed color to bluish glow, rotated and accelerated up and to the south at incredible speed.  Literally disappeared in about 2 seconds.  Several sonic booms were heard as it left.  Neighbors' dogs were barking.  Our pet cat was visibly upset.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138079.html](http://www.nuforc.org/webreports/reports/138/S138079.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
