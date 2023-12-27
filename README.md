@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:11 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Glenview (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>Fireball at first, now i just see a glowing light which keeps blinking.I saw a fire ball, it looked as though the very end of a firework where it sizzles off and dissapears. Then i ran downstairs because i freaked out. I thought it was right in the tree in my backyard. I went downstairs and told my father, we have now been looking at a glowing light which keeps getting dimmer and brighter and blinking for about 20 minutes. The dot is not moving, i have sat in the same spot and just waited to see if perhaps it would move. All i see is a glowing object in the sky... it just keeps glowing. It is clearly far away. It looks different than the stars... clearly, because they arent moving and this one is blinking.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79395.html](http://www.nuforc.org/webreports/reports/079/S79395.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Flemingsburg (KY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Diamond-shaped craft/configuration of lights transforms into rectangular low-flying lightsThe sky was pitch black and when leaving McDonald's I looked southwest toward Crain Creek Road and saw a round white light with two rectangular/elliptical flashing white lights below the first light and side by side, another round white light equidistance below the two lights as the first one was above.  I saw the diamond shape but do not know whether these were separate craft or what.  I saw the whole diamond configuration for only a few seconds the top light disappeared and then the bottom light did as well about 15 seconds after the top one.  It appeared to drift southwest but never went above the horizon.  Instead it appeared to lower and fly through trees.  I rolled my window down but heard no unusual noise.  (No helicopter or airplane noise).  It was as plain as day to me but no one else seemed to notice except my son who saw the lower light and the two middle ones.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54204.html](http://www.nuforc.org/webreports/reports/054/S54204.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
