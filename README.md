@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:30 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:30 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Spring Grove (PA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>My dog awaken me at 5:45am in the morning, as I was getting out bed I glanced outside the window and seen an object moving across the sky.  The object was about 1000' if that above the tree line and about a football field away. I opened the window to get a clear view and to listen for a sound and it appeared to be gliding or floating more so than being propelled.  The only sound was a quite hum that changed in pitch slightly.  The UFO had various color lights on it.  A white light that was underneath changed from white to blueish green when I flicker my outside lights on and off.  A beam of light appeared to shoot down from it but it didn't reach the ground.  My friend who saw it also said it appeared more square.  I saw the various color lights which appeared to be attached to what looked like 3 prongs or legs beneath it.  About 15 mins. later we saw an airplane traveling in the direction of the UFO but it was much higher up than the UFO we saw.  That I know was a plane because I was able to hear the plane sound and see the lights on the plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73837.html](http://www.nuforc.org/webreports/reports/073/S73837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Albuquerque/Aiport (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yellow ball accelerates rapidly from a standstill over Albuquerque Int'l AirportSaw what I thought was a bright star in the eastern sky about 10-12 miles from the airport above the Manzano mountains. The glowing ball of yellow-white light was stationary for about 3-4 seconds then, it suddenly accelerated moving West to East over the mountain range.  Acceleration was very rapid and the object appeared to wink out at the end of sighting. This was not a comet or meteor entering the atmosphere.  The object was stationary for at least a few seconds before the rapid acceleration over the mountain range and it did have a tail or a trail behind it.  The object also was not a plane or a helicopter as it had no blinking lights, just solid lights, and the acceleration was incredibly fast from a stationary position, I would say several thousand miles per hour if I had to guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86139.html](http://www.nuforc.org/webreports/reports/086/S86139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
