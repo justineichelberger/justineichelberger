@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:31 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Chelsea (IA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>10-12 circular lights lined up on a hillMy sister and I were traveling to Chelsea.  Driving on E66 we were at the intersection of E66 and T ave seen a row of 10-12 bright circular lights lined up in a perfect line.  They where close to the ground and where probably as long as a semi or if not two semis.  They stayed there for a unknown amount of time and could be seen a couple miles away on 360th street and s ave.  When we went back there was nothing there and it is just a big open field with a hill.  I didn’t think of taking a picture of what we seen until we were almost to our destination, and could still see the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151960.html](http://www.nuforc.org/webreports/reports/151/S151960.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Glenview (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately still happening - still happening minutes.</sub><blockquote><sub>Fireball at first, now i just see a glowing light which keeps blinking.I saw a fire ball, it looked as though the very end of a firework where it sizzles off and dissapears. Then i ran downstairs because i freaked out. I thought it was right in the tree in my backyard. I went downstairs and told my father, we have now been looking at a glowing light which keeps getting dimmer and brighter and blinking for about 20 minutes. The dot is not moving, i have sat in the same spot and just waited to see if perhaps it would move. All i see is a glowing object in the sky... it just keeps glowing. It is clearly far away. It looks different than the stars... clearly, because they arent moving and this one is blinking.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79395.html](http://www.nuforc.org/webreports/reports/079/S79395.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
