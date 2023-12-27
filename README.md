@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:32 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Looked like a bright orange fire flying across the sky of TucsonMy friend and I pulled up to my brothers house to pick  him and his friend up and I pointed out what looked to be a odd bright orange light, almost like a fireball!  My brother asked is that a plane on fire? Just because it was so incredibly orange like a plane fully engulfed in fire, but it just kept flying across the city sky till we could not see it anymore.  Speed looked about the same speed as a airplane or a fast helicopter but there was absolutely no sound to it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105561.html](http://www.nuforc.org/webreports/reports/105/S105561.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Waianae (HI) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>They were hovering over the ocean close to shore I was in my car traveling west and the seem to move in sink with each other  I have never seen anything like it in the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131860.html](http://www.nuforc.org/webreports/reports/131/S131860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
