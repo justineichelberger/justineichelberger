@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in  () reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>just happened 2 triangle shapped objects spotted over fair oaks ,a between Holister and San Juan heading east bound t word sunrise blvd.  This indecent caused traffic to stop on a green light on passenger had got out of there vehical to point out the  the air craft  triangular large size ships in the sky which can be seen from about 400 feet  from the ground.  to stop,((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86143.html](http://www.nuforc.org/webreports/reports/086/S86143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Herculaneum (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Teen daughters saw cylindar shape object with landing legs protruding from bottom, with silver metallic reflection.My daughters were coming home around 4 pm on a back road, turned a corner and saw in the sky a metallic object with the sun reflecting off of it.  The object was similar to cylindrical in shape and had what appeared to be landing legs protruding from the bottom of it.  The object remained in the location for less than one minute, as they turned another bend in the road, the object was gone.  They continued to watch for it, but it never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86141.html](http://www.nuforc.org/webreports/reports/086/S86141.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
