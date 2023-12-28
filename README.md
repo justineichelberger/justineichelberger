@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:38 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:39 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Beacon (NY) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Huge and hanging right over the bridge entranceI didn’t want to be the first person to talk about this sighting so I’ve been scanning the net for the last 2 months hoping someone else would post about it.  This kind of thing makes you doubt your own sanity.I was driving east on 84 headed towards Connecticut, about 5 miles back before the bridge, I had seen something strange. It almost looked like a derby hat hanging (I know goofy but that’s what it reminded me of) in the sky but from a “straight’ on perspective. I could see the bulge in the middle and then what sort of looked like a brim sticking out at the sides. It was weird but I was doing 75 mph and it quickly passed in and out of my field of vision because of mountains and hills that the road cuts through. By the time I got to the Bridge itself I had forgotten all about it. As the highway bears right, just when you’re approaching the bridge, I came around that bend and there in the Sky right above the highway was a massive object, I mean huge in relation to the bridge and the skyline behind it. I couldn’t just slam on the brakes because I was in traffic but I looked up as I went underneath it and it looked to me to be almost Diamond shaped and a matte gray, as I passed fr! om underneath I flipped up my rearview to see if I could see it more, but it was gone.. This all transpired in about 30 seconds. I know I wasn’t hallucinating because I looked around to see if anyone else was looking and the people in the cars around me were also looking up and then back at the road.When I got to the Toll collector I asked her if she had seen it and she said “I finally saw one” she was beaming.. I asked her again because this is a very surreal experience, even for someone like me that has always wanted to see one. And she confirmed that it sort of came from nowhere and then just as suddenly disappeared.  The weirdest thing about it, it looked aquatic almost like a manta ray and had 2 black circles underneath that looked empty just black holes. It was completely still and silent, and really freaked me out... I wondered if it wasn’t a military craft as there’s  a base close and it was that color, but the woman at the toll booth seemed pretty positive it was a UFO.   I tried to snap a pic but all I got was the roofline of my car.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87416.html](http://www.nuforc.org/webreports/reports/087/S87416.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in russlville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A object came up a blue ball came out and then flew away into a trangler thinkI was walken out side steped on somthing it flew up in my face a blue ball came out I picked up a rock and threw it at it it caught it and threw it the other direction after that I took a picture and it floated in the sky and a tranglr thing took it a left. The object looked like a round thing with a point a was light like a light a blue ball came out of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67722.html](http://www.nuforc.org/webreports/reports/067/S67722.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
