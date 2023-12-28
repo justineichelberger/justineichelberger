@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:44 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Townshend (VT) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Three white lights moving in a non-linear fashion traveled from high to low altitude extremely fast.Three white lights moving in a non-linear fashion.  Went from high to low altitude extremely fast.  Lights seemed independently moved non coordinated, but formed a triangle.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151912.html](http://www.nuforc.org/webreports/reports/151/S151912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Orlando (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>Noticed "star" moving across sky...it stopped...continued moving, and changed color...streaked away in a second.While checking the night sky, I noticed a "star", roughly 2/3 the size of Venus at this time of year (which is quite large), moving across the sky, from SW to NE. The light it emitted seemed to be more muted in intensity than the stars or planets, such as Venus. This light had no flicker, nor movement of any kind. Self-illuminated? That was my thought about it. Thquality of this lightimmediately struck me as a bit odd, and it stood out from the rest of the night sky. As I was watching it, I thought I heard jet engines, which I did. Another aircraft passed by, crossing the other vehicle's path, though clearly not at the same altitude. This is when I took special notice... As the jet appeared to get closer to the path of the first craft, the first craft came to a complete stop...totally stationary...and it sat like this for 10 seconds or so.Once the jet had traveled for about 6 seconds, across the path and beyond, the first vehicle returned to motion and continued on its way. At this time, there was no audible sound from that area of the sky, or anywhere else in the sky...eerily silent. As this vehicle continued on, I watched it for another 5 seconds or so...as I did this, its color changed from the white light it was emitting, to a reddish orange color. Once the color changed ocurred, it streaked out of sight...yes, it accelerated from the speed it had been maintaining to "gone in a second". No contrail, no sound...just gone. I went inside and immediately told my husband, who agreed that I should file this report. Just to let you know, I have filed a couple of reports in the past with NUFORC. I am an avid skywatcher, so I tend to notice things that are odd, or out of place.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48536.html](http://www.nuforc.org/webreports/reports/048/S48536.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
