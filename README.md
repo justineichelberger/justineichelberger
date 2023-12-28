@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:39 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in russlville (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A object came up a blue ball came out and then flew away into a trangler thinkI was walken out side steped on somthing it flew up in my face a blue ball came out I picked up a rock and threw it at it it caught it and threw it the other direction after that I took a picture and it floated in the sky and a tranglr thing took it a left. The object looked like a round thing with a point a was light like a light a blue ball came out of it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67722.html](http://www.nuforc.org/webreports/reports/067/S67722.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Rocky Mount (NC) reported seeing craft that fit the description of some 'Formation' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>four orange light formation moving slowly across the sky in eastern north carolina.I saw four Orange lights in a half circle formation slow moving across the sky.  I could not tell if it was four independent objects or one extremely large one.  If it was one object it would be huge.  I was in the car so I couldn't tell if there was any noise with the formation.  When I pulled the car over the lights had all disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86144.html](http://www.nuforc.org/webreports/reports/086/S86144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
