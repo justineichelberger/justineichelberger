@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:13 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:37 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangluar Object very low to the point of seeing detail hanging over the city.driving south on IH 35 from north Austin traffic was very slow as I approched downtown I saw a triangluar object hanging in the sky very low right over the edge of the freeway. Easily seen by all on this part of IH 35. There were no wrecks but very slow traffic. I called my husband on cell phone. When I was past the object and about to turn right onto Slaughter I saw a helicopter moving extremely fast heading North toward the object. Whe I got home I found a phone number of who one should call and got an anwsering machine. I left a message. But was not called back to confirm info. Then called a friend who was visiting her daughter in NC and who had seen one 3/10/1994 also in Austin of the same description and told her about it.  Until I saw it for myself I didn't really believe her.Astonished that it wasn't on the front page of newspaper the next day. Not that I bothered to look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54654.html](http://www.nuforc.org/webreports/reports/054/S54654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Aiken (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Fast moving bright blue orb/ball of lightIn the early morning, while still dark, a very bright blue orb-like ball crossed the sky.  It was very low and close to our car.  It moved very fast, lasted for approximately 3 seconds, and then completely disappeared.  I was not a believer before today but am convinced that the object was a space craft of sorts.  The second observer is educated on this subject yet still could not believe what he had just witnessed.  Definitely a little frightening.  Left us feeling very confused and amazed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131854.html](http://www.nuforc.org/webreports/reports/131/S131854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
