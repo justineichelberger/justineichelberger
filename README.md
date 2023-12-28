@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in West Branch (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw a bright white light with a haze around it when I was on the highway that flew behind a tree and disappeared.All I saw was one ball of white light with a haze around it. After about a minute, it flew behind a tree and I never saw it again. I have always been interested in UFOs but I never thought i would see one. I am 12 years old and in the 7th grade.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34671.html](http://www.nuforc.org/webreports/reports/034/S34671.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in East Hartford (CT) reported seeing craft that fit the description of some '' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Three lights flashing in triangular formThree lights in the sky in a triangular form with one orange ball  hovering and not moving. cI lost it after 30 seconds. cIt seemed pretty low in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/151/S151927.html](http://www.nuforc.org/webreports/reports/151/S151927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
