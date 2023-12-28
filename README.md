@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:31 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:32 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jewett City (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>This object was flashing in the sky.  It wasn't an airplane because it was motionless.  Although we seen a few airplanes circle near the object.  Everytime it flashed it got brighter and brighter.  We watched it flash for 50 minutes until it disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131849.html](http://www.nuforc.org/webreports/reports/131/S131849.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Hamilton (NJ) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>5 dots of white light seen after noon spotted 3 days after Xmas 2013 West of the Hamilton, NJ, train station.Saturday December 28th, 2013.Sighting location: Hamiltion Train Station, Hamiltion NJ Time of sighting: approximately 12:20pm EST  Account:  I was waiting for a New Jersey Transit 12:23 PM train to stop at the Hamilton, NJ, train station, heading north en route to New York City.I was gazing across the tracks towards, I believe, the West, as the winter noon day sun was on my left and the trains from Trenton, NJ, headed north towards New York along tracks from my left to my right.The sky was a clear bright blue and I watched a far-off whitish airplane headed North.  As it did so, I noticed beyond and behind the plane at some further distance, approximately 5 white dots in an erratic formation, rather like balloons, or birds flying.Within the time it took me to estimate how many there were, they blinked out and vanished.  At first I thought maybe they were seagulls, further away than the plane, but then, had seagulls travelled beyond my range of vision, I don't think they would have all instantly vanished at exactly the same time, but would rather, have faded from view, and changed their distance relative to one another.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105567.html](http://www.nuforc.org/webreports/reports/105/S105567.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
