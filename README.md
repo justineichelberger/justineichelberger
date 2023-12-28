@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:22 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:31 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish Orange Lights Above Wenatchee4-5 Redddish orange objects in an a v-shape form over the north end of Wenatchee wa.  They moved slowly up the sky in a sychronized formation for about 5 minutes and the slowly disappeared into the clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95570.html](http://www.nuforc.org/webreports/reports/095/S95570.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Jewett City (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 50.0 - 50.0 minutes.</sub><blockquote><sub>This object was flashing in the sky.  It wasn't an airplane because it was motionless.  Although we seen a few airplanes circle near the object.  Everytime it flashed it got brighter and brighter.  We watched it flash for 50 minutes until it disappeared into thin air.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131849.html](http://www.nuforc.org/webreports/reports/131/S131849.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
