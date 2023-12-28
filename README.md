@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangluar Object very low to the point of seeing detail hanging over the city.driving south on IH 35 from north Austin traffic was very slow as I approched downtown I saw a triangluar object hanging in the sky very low right over the edge of the freeway. Easily seen by all on this part of IH 35. There were no wrecks but very slow traffic. I called my husband on cell phone. When I was past the object and about to turn right onto Slaughter I saw a helicopter moving extremely fast heading North toward the object. Whe I got home I found a phone number of who one should call and got an anwsering machine. I left a message. But was not called back to confirm info. Then called a friend who was visiting her daughter in NC and who had seen one 3/10/1994 also in Austin of the same description and told her about it.  Until I saw it for myself I didn't really believe her.Astonished that it wasn't on the front page of newspaper the next day. Not that I bothered to look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54654.html](http://www.nuforc.org/webreports/reports/054/S54654.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maywood (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Formation Flight of UFOs.Was smoking a cigarette, i looked up and noticed a star like object moving high up....slowly going in a path, then it stopped,hovered, and began circular motion, moving in a 8 pattern rapidly.....then that one, two more appeared, all 3 continued path in formation, then they scattered...lost view for a bit, then saw them again, and more appeared around the sky,  all scattered....lingered in thesky for sometime....way too high to be noticed by other people.....lucky me i spotted them....they all flashed white, turning to red, blue, and orange color.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105555.html](http://www.nuforc.org/webreports/reports/105/S105555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
