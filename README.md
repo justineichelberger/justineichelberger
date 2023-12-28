@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:39 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Haddam (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White circular objects for 10 min.Three circular lights seen in the East Haddam area of CT on 12/28/13 around 11:00 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105537.html](http://www.nuforc.org/webreports/reports/105/S105537.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Harrogate (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Small triangular formation of lights  performs flight display then vanishes over playing field.A small (8 feet) equilateral triangular formation of faint green lights flew past me from north to east at about 30 feet in the air.  As it went past me into the field to my left  it performed a loop the loop type maneuver then continued into the filed for 60 feet or so and then vanished.  There was no discernable craft, just the lights, although they appeared somehow to be joined together.  At first I thought it was birds but that was soon proven to be unlikely because of the way it flew.  The whole thing lasted about 9 or 10 seconds and had a very unearthly feel to it, perhaps because of the silence and ethereal appearance of the lights.  I had the feeling it was somehow displaying, like it wanted me to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105546.html](http://www.nuforc.org/webreports/reports/105/S105546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
