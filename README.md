@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Maywood (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Formation Flight of UFOs.Was smoking a cigarette, i looked up and noticed a star like object moving high up....slowly going in a path, then it stopped,hovered, and began circular motion, moving in a 8 pattern rapidly.....then that one, two more appeared, all 3 continued path in formation, then they scattered...lost view for a bit, then saw them again, and more appeared around the sky,  all scattered....lingered in thesky for sometime....way too high to be noticed by other people.....lucky me i spotted them....they all flashed white, turning to red, blue, and orange color.......</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105555.html](http://www.nuforc.org/webreports/reports/105/S105555.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Iron Mountain (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Four unexplained lights seen near highway in the Upper Peninsula of MichiganI was returning to my home town of Ishpeming, Michigan with my wife and her sister.  We were returning from a medical checkup I had in Madison, Wisconsin. The night sky was clear.  It was about 1 AM.  It was the end of December 2008.  Leaving Iron Mountain, Michigan we turned north on M-95.  We went only a few miles when I noticed 4 white lights off to the right and barely above the pine trees.  (I was in the passenger front seat.  My wife was sleeping in the back seat.  And her sister was driving.)  I told my wife’s sister to look.  We both watched the lights.  They each looked about the size of a silver dollar.  The lights were not overly bright and looked an inch apart.  Then suddenly the 4 lights changed to 2 lights that appeared to be the shape of crescent moons about 9-12 inches apart.  Again they were not overly bright.  We were traveling north.  The lights appeared to be moving south south-west. At first we thought it might have something to do with possible towers in the area.  We have never these lights before.  We have traveled this route countless times before.  I have since been along the same highway four times during the day and night.  Any towers we saw had red lights.  Nothing like what we had seen that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68605.html](http://www.nuforc.org/webreports/reports/068/S68605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
