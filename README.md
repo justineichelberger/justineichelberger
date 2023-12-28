@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Herculaneum (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Teen daughters saw cylindar shape object with landing legs protruding from bottom, with silver metallic reflection.My daughters were coming home around 4 pm on a back road, turned a corner and saw in the sky a metallic object with the sun reflecting off of it.  The object was similar to cylindrical in shape and had what appeared to be landing legs protruding from the bottom of it.  The object remained in the location for less than one minute, as they turned another bend in the road, the object was gone.  They continued to watch for it, but it never reappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86141.html](http://www.nuforc.org/webreports/reports/086/S86141.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Triangluar Object very low to the point of seeing detail hanging over the city.driving south on IH 35 from north Austin traffic was very slow as I approched downtown I saw a triangluar object hanging in the sky very low right over the edge of the freeway. Easily seen by all on this part of IH 35. There were no wrecks but very slow traffic. I called my husband on cell phone. When I was past the object and about to turn right onto Slaughter I saw a helicopter moving extremely fast heading North toward the object. Whe I got home I found a phone number of who one should call and got an anwsering machine. I left a message. But was not called back to confirm info. Then called a friend who was visiting her daughter in NC and who had seen one 3/10/1994 also in Austin of the same description and told her about it.  Until I saw it for myself I didn't really believe her.Astonished that it wasn't on the front page of newspaper the next day. Not that I bothered to look.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54654.html](http://www.nuforc.org/webreports/reports/054/S54654.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
