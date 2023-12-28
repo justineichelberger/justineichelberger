@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:30 on 27 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Albuquerque/Aiport (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Yellow ball accelerates rapidly from a standstill over Albuquerque Int'l AirportSaw what I thought was a bright star in the eastern sky about 10-12 miles from the airport above the Manzano mountains. The glowing ball of yellow-white light was stationary for about 3-4 seconds then, it suddenly accelerated moving West to East over the mountain range.  Acceleration was very rapid and the object appeared to wink out at the end of sighting. This was not a comet or meteor entering the atmosphere.  The object was stationary for at least a few seconds before the rapid acceleration over the mountain range and it did have a tail or a trail behind it.  The object also was not a plane or a helicopter as it had no blinking lights, just solid lights, and the acceleration was incredibly fast from a stationary position, I would say several thousand miles per hour if I had to guess.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86139.html](http://www.nuforc.org/webreports/reports/086/S86139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>At approximately 1845, I walked out of my house in Layton, Utah to go to the store.  It was very dark out, an overcast of thin clouds with about a 1500 foot ceiling based on the commerical airliners landing at Salt Lake International airport at the south end of the Great Salt Lake.  As I took out my car keys from my jacket, I happened to look up to the north end of the valley and saw several aircraft on final descent to the airport. As I was watching them for a moment, I also noticed what appeared to be three lights (white, red, and another white) horizontal to each other skipping between the landing aircaft.  The unidentified lights traveled from the north end of the valley to what appeared to the the airport in about 10 seconds or less and I estimate the distance to be about 30 miles or so in that 10 seconds.  It did not fly in an straight line, but seemed to hop skip a little above and below as it traveled horizontally.  I think the pilots making their approach may have seen this event as it seemed to be in their line-of-sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26785.html](http://www.nuforc.org/webreports/reports/026/S26785.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [233](http://www.nuforc.org/webreports/reports/161/S161361.html)
-- [232](http://www.nuforc.org/webreports/reports/161/S161500.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161330.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161359.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161418.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
