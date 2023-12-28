@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 28 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Havre (MT) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Toy top looking saucerLast night, at 4:00 am, my daughter woke me up, and after I got her back setttled in to bed, I went to the bathroom. While I was in there, I looked out the bathroom window, and saw a bright light SW of here, high in the sky. It was not a star, as it would get brighter, than lighter. I only watched it for maybe two minutes, and it "Blinked out" as it had never been there. There were no clouds around it.It also seemed to have a haze around it, that would come and go, depending on how bright it would get. Then tonight, I was letting my cat outside, as it is nice out tonight, at about 5:50, and there it was again!(A very bright light in the sky.) I grabbed my camera, and took a picture, and grabbed my binoculers. It looked like a sideways white neon light, with a blue spike-like thing on top. Almost like a toy top. It was positioned almost sideways. I am still shaking! I have my my parents video camera from filming Christmas stuff, and as soon as I went in the bedroom to grab it, it was gone when I came back. Other dogs in the neighborhood were barking, but my own, wasn't. It may have moved a little from side to side, but hard to tell since my hands were not steady. When I get the film develpoed, I can send it in, as well as a hand drawn picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15664.html](http://www.nuforc.org/webreports/reports/015/S15664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in East Haddam (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>White circular objects for 10 min.Three circular lights seen in the East Haddam area of CT on 12/28/13 around 11:00 pm.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105537.html](http://www.nuforc.org/webreports/reports/105/S105537.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [280](http://www.nuforc.org/webreports/reports/161/S161338.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161351.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161356.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161355.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161371.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
