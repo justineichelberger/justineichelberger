@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Davenport (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright Red Lighted Object over Davenport, WAAt approximately 21:30 on 12/29/2016, I was sitting in my living room watching a movie on my laptop.  Out of the corner of my eye, I saw a bright red light in the sky out my living room window.  At first I thought it was a firework, but the light stayed constant and there was no sound, such as a whistle or boom.  There were no lights on in my living room at the time of this sighting.  My living room window faces East.I quickly got up from my seated position and alerted my daughters to the bright light in the sky.  One of my daughters had her cell phone handy and I asked her to take a quick picture.  She did take the picture, however, the she had the flash on and the quality of the picture is not the best.  The picture does not accurately reflect the bright red of this unknown thing in the sky.Upon inspection of the picture that my daughter took, I believe there were at least 3 unknown objects in the sky.I continued to watch this bright red thing in the sky until is just disappeared.  It did not appear to have any upward or downward motion, it just disappeared.Honestly, as a skeptic, this has me a little rattled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131922.html](http://www.nuforc.org/webreports/reports/131/S131922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was driving home down 13th street, I saw a object hovering over 13th street very low, at first I could not tell how low as I was approaching it. It had a blue light then a red light then a blue light. That was all I could see of the object as I was appraching it at about 35 mph. I began to wonder what it was because it was so low and seemed to be hovering unmoving. I eventually ruled out plane because of the complete stillness of lights. I ruled out crane or building lights for low flying aircraft because there was nothing above two stories in a 10 block radius. I decided as I got closer it must be a hovering helicopter.I was coming up to the lights now and I could tell they were only about 6 stories high so I was expecting to see a helicopter. As I passed under the object I saw a greyish black boomerang shaped object.My mouth hung open and I said aloud to myself what in the #### is that! I could not stop in my tracks as there were cars behind me. I turned aff at the nest street came to a park postion and jumped out of my car. It was not longer then 30 seconds since I saw the object but it was gone . I jumped in my car after surveying the skyline went up to twelfth went up three blocks and came down thirtenth again.There was nothing above thirtennth or low flying craft anywhere that I could see. I came around again for a second pass and again nothing above thirteenth and nothing anywhere in the sky that I cold see except plane high above (very very high) I then realized something also paculiar about the obect although it had red an blue lights (which made me originally think it was normal air traffic )I realized at the third pass when I saw the other plane high up that the object I saw lights had never blinked once any of them. I had watched it for about 2 minutes coming up to it and not on light ever blinked.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11510.html](http://www.nuforc.org/webreports/reports/011/S11510.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
