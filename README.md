@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:39 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:35 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Sisterdale (TX) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Diamond shaped object that huvered above with a very brite glow.(not lights)Diamond shaped object with very brite glow (not lights) it was at a ranch and in the middle of nowhere came over the tree line went straight up then forward above the truck stayed above for us to use binoculers to look at and then flew off. Just can't explain what it was ... it was no airplane as it was diamond shaped with a very brite glow that lit up the entire field where we were spot light hunting. Second siteing at this ranch.. as the first siting was with the ranch hand several years back when there was a very brite light and object that was on the ground and the ranch hand aproached it with a gun the gun got so hot as he aproached that he had to drop it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15755.html](http://www.nuforc.org/webreports/reports/015/S15755.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152675.html](http://www.nuforc.org/webreports/reports/152/S152675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
