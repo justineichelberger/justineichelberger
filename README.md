@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:46 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We had a rare power outage last night at approx 04:30.  I was unable to sleep so walked out to the back yard.  I noticed the moon had a ring around it and then saw a multi colored object in the sky.  It was changing colors rapidly.  It hovered in that spot for maybe a minute or two.  It then just zipped away going up in a very quick and sudden movemwnt.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124801.html](http://www.nuforc.org/webreports/reports/124/S124801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Asheboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Single bluish white downward arc of fast moving single lightWe were traveling 220 alt south at 65 mph coming into the city limits of Asheboro, when my wife saw a fast moving blusish white light that was traveling from east to west in a downward arc.  I also saw it for a second when it just "went out."My wife is a doubter of UFOs, and I have an open mind to UFOs.  It takes something weird for my wife to make a comment like she did last night.  We both have seen metor showers and this was not a "shooting star."  It wasn't a spot light that stores use in the area.My wife and I are both graduate level mental health and substance abuse therapists.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95604.html](http://www.nuforc.org/webreports/reports/095/S95604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
