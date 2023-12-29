@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bridgeport (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two lights flying, separating and vanishing in midair.Two clear/white circular lights parallel and on a downward angle.  Appeared to resemble a plane flying down, nearing landing into an airport.  The two lights then separated into opposite directions at the same time and vanished.  Was seen from inside a car.  This could not have been a reflection because it was not opaque and at the angle it was at in the sky in regards to reflections from the car windows, it could not have been that, unless it was coming from the floor of the car (Which obviously we would have all seen because it was bright.)  There were 4 people in the car including myself, but one was asleep, the other couldn't see out my window in time, and the driver obviously kept eyes on the road.  Very Strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116193.html](http://www.nuforc.org/webreports/reports/116/S116193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Light dropping other lightsI was on my way to work and had stopped to get some gas. When leaving the gas station I noticed a bright amber/yellow light due east of me heading to the east.  ((NUFORC Note:  Witness meant "west."  Please see note below.  PD)) There were no blinking or marker lights as would be seen on a conventional aircraft. The object would brighten briefly and then in the air below the object, an identical amber light would appear and descend toward the ground then fade out.This was repeated several times as the main object kept heading away from me on a straight and level course. One of the objects that appeared below the main object, descended and then made a right angle turn and moved north before fading out. It was hard to estimate altitude on this object but I would guess it was below 5,000 feet. The main object continued to head east until it faded out of view.((ADDENDUM FROM WITNESS))Mr. Davenport, I filed a report of a sighting in Glendale, Arizona with you on Thursday, December 29, 2005 at 22:37:21. I had the sighting around 3:30am and did not fill out the report until late that evening. I had worked a 10 hour shift that day and was quite tired when I filled out the report. I hope you post the report when you update your data base but, I made a mistake on it that I was hoping you would correct as I want the report to be accurate. Because I was so tired when I filled out the report I got the direction of the sighting backwards. The object(s) I saw were moving WEST and not east as I stated in the report.Thank you,   ((name deleted))((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48540.html](http://www.nuforc.org/webreports/reports/048/S48540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
