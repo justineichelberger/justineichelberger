@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:37 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>A FIREBALL SIGHTING FROM THE SKY LOOKED LIKE A UFOWE SAW A ROUND WHITE FIREBALL FALL FROM THE SKY GOING SO FAST IT WAS UNBELIEVEABLE LOOKED LIKE IT COULD HAVE CRASHED BUT THERE WAS NO SMOKE OR ANYTHING AROUND</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26803.html](http://www.nuforc.org/webreports/reports/026/S26803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Elmhurst (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Bright white spherical object flying low over Roosevelt Road near Elmhurst, ILI was driving eastbound on Roosevelt road near york road in my SUV after having dinner with an old college friend.  Out of the corner of my eye, I noticed what I thought was a very low flying "small air plane, or helocopter).  It was very overcast that night and I could see the outline of the large round object through the clouds.  At a second glance, I clearly saw the object's outline (perfectly round and bright white glow). There was light traffic traveling in both directions. I was surprised that the object was flying relatively close to the ground (approx. 300 feet off of the ground; not much higher than the street lights or the tree tops).  The object emmited a solid, bright white light and moved silently in a northwest direction at what speed I cannot say, but was able to keep pace with it and for 30 secs. and keep it in my sight out of the driver's side window. I called the object to the attention of my passenger, so that I could get a second opinion ! of exactly what the object in question was.  The passenger could not identify with any certainty what the object was either.  I was not playing the radio, given our close proximity we couldn't hear its sound.  That fact surprised us both.  Since I live close to O'hara airport, I am used to hearing and seeing aircraft flying over head. We continued to watch the object until it was no longer in view, as I continued to drive (away from it).  Please know, I'm pretty skeptical about these sorts of things.  Although this happened three weeks ago, I haven't forgotten it. My friend refuses to speak about what we saw.  I just needed to share this experience with others who have encountered something similar.((NUFORC Note:  The date is not specified by the source.  Until we hear back from her, we will assign an arbitrary date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79768.html](http://www.nuforc.org/webreports/reports/079/S79768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
