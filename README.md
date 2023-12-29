@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:40 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Mayerthorpe (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A single silent object with red and white flashing lights seen hovering above the treeline. Lasted 5-10 minutes while I was outside, was still there when I went in.   duration unknown. Shape and color of object body unknown as it was already dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152128.html](http://www.nuforc.org/webreports/reports/152/S152128.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>10 objects, circular, deep orange color (see description)I'm sure I was not the only one to see this. I was in public at the time ~ out running errands.  When I got to the shopping parking lot, these objects were in plain view.  There were about 10 of them - very bright, a deep orange/red color.  All in a straight line front to back, except for three of them (the middle ones) which were in a row / side by side.  The three side by side moved / swirled strangely and around each other.  They were moving all in succession heading from S/SE to the N/NW direction.  At first glance I thought maybe they were helicopters, but they were a deep orange/red color with no sound (not helicopters)!  After watching for about 1 minute or so, the ones in the middle began to fade out, then the ones toward the front, then the ones in the rear.  The "leader" of the lights stayed for another minute, then I stopped watching and went into the store.  There was nobody else in the store parking lot at that time, but surely hundreds of others saw these objects, whatever they were.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95600.html](http://www.nuforc.org/webreports/reports/095/S95600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
