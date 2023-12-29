@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:47 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Summerville (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>While driving down Dorchester Road just before Old Orangeburg Rd. my son pointed out strange lights in the sky. As i looked up i thought it was a satelite, but as i looked closer I could see the lights were on an object which was stationary in the sky just to the south of our location. We rushed home and grabbed my video camera and headed back to the spot where we had spotted the object but it was no where to be seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48542.html](http://www.nuforc.org/webreports/reports/048/S48542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Bridgeport (CT) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Two lights flying, separating and vanishing in midair.Two clear/white circular lights parallel and on a downward angle.  Appeared to resemble a plane flying down, nearing landing into an airport.  The two lights then separated into opposite directions at the same time and vanished.  Was seen from inside a car.  This could not have been a reflection because it was not opaque and at the angle it was at in the sky in regards to reflections from the car windows, it could not have been that, unless it was coming from the floor of the car (Which obviously we would have all seen because it was bright.)  There were 4 people in the car including myself, but one was asleep, the other couldn't see out my window in time, and the driver obviously kept eyes on the road.  Very Strange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116193.html](http://www.nuforc.org/webreports/reports/116/S116193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
