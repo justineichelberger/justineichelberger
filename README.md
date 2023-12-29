@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ballston Spa (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large explosion followed by bright light heard across multiple townsLoud explosion followed by bright light heard across multiple towns in the countyhttps://www.google.com/amp/s/www.timesunion.com/news/amp/Saratoga-County-sheriff-probing-reports-of-large-14939480.php</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152139.html](http://www.nuforc.org/webreports/reports/152/S152139.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in North Dartmouth (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Picking up some take-out food off of Route 6, Dartmouth, MA, my husband called my attention to this object that had traveled over our heads.  The object was large with 5 glowing white lights, shaped like a Jacks (sort of 5 pointed).  We pulled up a bit to get a better look, turned around, and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131951.html](http://www.nuforc.org/webreports/reports/131/S131951.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
