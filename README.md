@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:46 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:29 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Asheboro (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.008333333333333333 - 0.008333333333333333 minutes.</sub><blockquote><sub>Single bluish white downward arc of fast moving single lightWe were traveling 220 alt south at 65 mph coming into the city limits of Asheboro, when my wife saw a fast moving blusish white light that was traveling from east to west in a downward arc.  I also saw it for a second when it just "went out."My wife is a doubter of UFOs, and I have an open mind to UFOs.  It takes something weird for my wife to make a comment like she did last night.  We both have seen metor showers and this was not a "shooting star."  It wasn't a spot light that stores use in the area.My wife and I are both graduate level mental health and substance abuse therapists.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95604.html](http://www.nuforc.org/webreports/reports/095/S95604.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Orleans (Canada) (ON) reported seeing craft that fit the description of some 'Circle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>we were coming home from our chalet and we saw a total of seven crafts with bright red lights on them.i was driving down highway 17 in a car with my dad and my mom, coming back from my cottage, when we spotted 4 bright circles in the sky. we stopped the car to observe these bright orange circles, that seemed to be dancing in the sky. i glanced over at the car clock and saw that it was about 7:31. every minute thereafter  up to 7:34, another craft added on, for a total of seven in the end. Then, the circles got closer and closer to us, getting bigger and bigger, up to a point where we could see that ezch craft had about five lights total and was revolving aroud, like a frisbee when it flies in the air. then , they started spinning faster and faster the lights got blurry and made it seem like they had only one bright red light each, around the entire ship. then, all of a sudden, they just blasted away and we never saw them again.((NUFORC Note:  We wonder whether the effect could have been caused by an advertising light, either laser-based, or a typical revolving spotlight.  Just a guess; we do not know what the witnesses observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15889.html](http://www.nuforc.org/webreports/reports/015/S15889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
