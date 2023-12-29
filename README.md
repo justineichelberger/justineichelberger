@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Simpsonville (SC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>2nd red orb sighting cost me to lose 24 hours of unaccounted for timeMy first experience with these red worms was on Christmas night where I had the most surreal experience of my life.  The days following I was in a haze, knowing something was off but thinking better of questioning if I brushed it off.  A few days after Christmas I left my parents house and Pickens and drove to my apartment in Simpsonville.  As I was driving I began to spot one or two of the same orbs.  Panic set in and I did not know why.  When I got to my apartment I noticed one of them was maybe a mile away from me.  Panicked, I ran into my apartment I locked myself in.  As I sat on my couch trying to convince myself that I needed to calm down but I couldn't shake it.Minutes later, through closed blinds a very bright orb flashed at me and was immediately followed by another.  Again I remember watching them for at least two hours, wishing I could go to sleep but never allowing myself to even try fearing I would be harmed in someway.  At some pointI remember losing The clarity in my hearing and hearing a low drum buzzing noise.  But this point my phone died and I was too afraid to go get my charger from my car.  And that was it. I woke up sometime later on the floor again in a sweat and totally confused.Is about 9 AM I got up took my dead phone and drove to a friend of mine's place.  Upon arrival, she criticize me for standing her up the day before.  That was even more confusing because I knew that she wasn't going to be home until the next day.  As it turns out I had missed the day.  It was a day later and I had no recollection of the events, if any, that occurred the day before.  24 hours was just completely missing.The buzzing kept coming back randomly for a week or so..  My fear got the best of me and I uprooted myself and moved up to New York very shortly after.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117990.html](http://www.nuforc.org/webreports/reports/117/S117990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ballston Spa (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Large explosion followed by bright light heard across multiple townsLoud explosion followed by bright light heard across multiple towns in the countyhttps://www.google.com/amp/s/www.timesunion.com/news/amp/Saratoga-County-sheriff-probing-reports-of-large-14939480.php</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152139.html](http://www.nuforc.org/webreports/reports/152/S152139.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
