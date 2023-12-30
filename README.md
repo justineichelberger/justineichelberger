@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:45 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:31 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in McMinnville (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>JUST PAST MIDNIGHT I LOOKED OUT MY LIVING ROOM WINDOW AND SAW A LOW FLYING FLASHING LIGHT GOING EAST ONLY ABOUT 150' TO 200' OFF THE GROUND I WENT TO MY FRONT DOOR STEP ON THE PORCH THE OBJECT DIDN'T MAKE ANY NOISE THE WHITE FLASHING LIGHT WAS ON THE PORT SIDE OF OBJECT ON THE BACK OR STERN PART OF OBJECT THERE WERE THREE RED LIGHTS IN THE SHAPE OF A TRIANGLE WITH THE PIONT DOWN IT ALMOST LOOKED RED BARS CONNECTING THE RED LIGHTS LIKE CONNECTING THE DOTS SO TO SPEAK,IT STAYED ON EAST BOUND COURSE UNTIL IT WHEN OUT OF SIGHT.SAME AS ABOVE, JUST PAST MIDNIGHT AT 0009HRS FROM MY LIVING ROOM WINDOW I NOTICE A WHITE FLASHING LIGHT FLYING LOW TO THE GROUND.  I WENT TO MY FRONT DOOR STEPPED ON THE PORCH AND SEEN THE OBJECT GOING EASTBOUND ABOUT 150' TO 200' OFF OF THE GROUND THE FLASHING WHITE LITE WAS ON THE PORT SIDE OF OBJECT ON THE BACK OR STERN OF OBJECT THERE WERE THREE RED LIGHTS IN A TRIANGLE WITH THE PIONT DOWN IT ALSO LOOKED LIKE RED BARS OF LIGHT CONNECTED THE THREE RED LIGHTS LIKE CONNECTING THE DOTS. I OBSERVED THE OBJECT FOR APPRX 30 TO 45 SECONDS, IT STAYED AT A CONSTANT SPEED APPRX 40 TO 50 MPH I WOULD GUESS. I AM EX-NAVY '84-'88, AND A FORMER TRUCK DRIVER SO I TRIED TO PAY ATTENTION TO THE DETAIL OF THE OBJECT BUT I GOT A LITTLE SCARED WHEN I REALIZED THIS OBJECT MADE NO NOISE AT ALL.IT WAS A REAL DARK NIGHT AND I COULD NOT MAKE OUT A SHAPE OF THE OBJECT EXPECT FOR THE RED LIGHTS IN BACK IN THE TRIANGLE WITH THE PIONT DOWN</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11613.html](http://www.nuforc.org/webreports/reports/011/S11613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Salina (KS) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>One white circurlar spottingOne White circular craft moving faster than any airplane I have ever seen.Came from North West moving South east.The sky was dark with some clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60572.html](http://www.nuforc.org/webreports/reports/060/S60572.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
