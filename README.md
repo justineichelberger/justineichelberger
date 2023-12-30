@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roy (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6 lights in a random pattern over Roy, Utah.I returned from the store and saw several orange lights in the sky above Roy, UT, driving Westbound on 4800 South at 3700 West.  I stopped and watched them for a couple of minutes, before heading home.  I watched them the entire way as they were headed towards HAFB in a zigzag course and by the time I arrived home they had changed course and headed West.  I entered the house and told my wife to come outside and see them.  Together we watched for a couple more minutes as they flew West.  The lights went out one by one until they were gone.  There was no cloud cover as I was able to see stars in the sky as well as the lights.  The lights were changing from red to orange and then purple.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116178.html](http://www.nuforc.org/webreports/reports/116/S116178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Vassar (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>zigzag beeping objectI was 11 years old at the time. our house was on a piece of property that was located on a private dirt roar that was in the process of being made, we were the 2nd house on this road at the time.  My bedroom window faced out into the woods, where there was no body living due to the fact the road was still a trail.  There were no lights or homes in the direction my window faced.  My window was a big bay window.  At the time my aunt had a car that was very loud, like the engine was loud. I was laying in bed and heard what I thought was their car in our yard so I sat up to listen.  At that moment the woods and the side of the yard my window faced, was illuminated light that I would compare to a florescent shop light color.  I sat there and was thinking some idiot was trying to drive down the trail thinking it was a finished road.  Then in a southeast to northwest direction came this circle possibly oval shaped light in the sky.  I was beeping and moved in a zigzag fash! ion. to see this go across the sky took 3 seconds.  I did not try to look out my other window, I was so scared I covered my head and froze until I fell asleep.  I did notice that the engine sound, beeping and illumination all disappeared once this object went by my house.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83760.html](http://www.nuforc.org/webreports/reports/083/S83760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
