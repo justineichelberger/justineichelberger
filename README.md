@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dumas (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two people saw a bright star moving in all directions in a small area.My girlfriend and I were stargazing pretty far out of town, so we could see as much of the night sky as possible. After about an hour, she noticed what appeared to be a very bright star that was wobbling towards the south (through a bit of a treeline).  I watched it for about 30 minutes as it moved in all directions and in circles.  Without knowing how far away it was, it would be difficult to know how fast it was going, but if I held a dime out at arms length it would almost cover the area it moved around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152125.html](http://www.nuforc.org/webreports/reports/152/S152125.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roy (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>6 lights in a random pattern over Roy, Utah.I returned from the store and saw several orange lights in the sky above Roy, UT, driving Westbound on 4800 South at 3700 West.  I stopped and watched them for a couple of minutes, before heading home.  I watched them the entire way as they were headed towards HAFB in a zigzag course and by the time I arrived home they had changed course and headed West.  I entered the house and told my wife to come outside and see them.  Together we watched for a couple more minutes as they flew West.  The lights went out one by one until they were gone.  There was no cloud cover as I was able to see stars in the sky as well as the lights.  The lights were changing from red to orange and then purple.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116178.html](http://www.nuforc.org/webreports/reports/116/S116178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
