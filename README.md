@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 29 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in York (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lighted objects in the night over York PAObserved multiple objects in the sky over York, Pa..  Orange circular shaped objects, moving at a faster pace then a normal aircraft.  Objects moved and changed direction as well as stayed in place during time periods.  Multiple people observed the occurrence.  At one point, there were 5 which were specifically sighted, other people claim that they saw more.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116181.html](http://www.nuforc.org/webreports/reports/116/S116181.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Albany (near) (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My friend and I were driving  back home to NYC on interstate 87 when I noticed what I thought was an airplane hovering in the sky.  However as I got closer it remained stationary. Being in the passenger seat I put my head out the window to a clear sky and could clearly see the triangular dark structure of it with its green white and red lights flashing.  I although music was playing low I could not hear a sound from the object.  Then when we got under the object it flew in the opposite direction to what I thought the front of it was.  I got  my friend to then pull  over and the object was no longer visible.  The  highway is very dark so the skies are clearly lit with stars and the weather is very cold but  sky is clear I clouds as well.  I expect other cars on highway might have seen it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105755.html](http://www.nuforc.org/webreports/reports/105/S105755.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161572.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161364.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161366.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161392.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161541.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
