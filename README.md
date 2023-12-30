@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:40 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:32 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Zachary (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4 low hovering changing lights in the skyWe saw 2 pair of bright lights flying low in the sky... the airport is not far away but these craft were lower than any plane or copter we're used to seeing.  The first pair was a set of red lights closely spaced together, the left one a little higher than the right one,  they were close together than they flew west about 500 ft.   We followed them with the car and stopped in front of them and took video footage.  They hovered then made their way back east and disappeared from sight...  2 more came from the west these did go back and forth (west to east and back) like the first 2 these just followed the same path as the previous two.  Each one changed colors from red to white to yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86247.html](http://www.nuforc.org/webreports/reports/086/S86247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New River (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I just saw 2-3 looked like stars, not a plane, in the west sky. The one top left &quot;joined&quot; the one bottom right. Top left oneI just saw 2-3 looked like stars, not a plane, in the west sky.  The one top left "joined" the one bottom right.  Top left one was orange/red, bottom right was white.  Looked like a haze or object in the center, more like a haze Til I ran for my phone to take a picture they were gone  Never saw anything like that in my life I've been seeing the large bright "star" in the SW when no other are visible but this tonight really shocked me I've never reported anything like this in my life It really was something I've never seen before I think military base to the west but not sure This was NOT a flare I'm still thinking about what I saw!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131936.html](http://www.nuforc.org/webreports/reports/131/S131936.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
