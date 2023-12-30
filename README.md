@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:22:17 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:08:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Gansevoort (NY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>While driving home with a friend, we both simultaneously witnessed a sort of dull greenish ball or sphere with a yellowish center cross the sky above our eyes in a matter of seconds.  It was headed south from a northerly direction and its path was diagonal and somewhat angled towards the earth.  I do not believe it was a shooting star, for it was a cloudy night (only two stars were visible in the sky) and the object was about the size of a ping-pong ball or half-dollar.  I feel it was denifitely in our atmosphere and relatively close to the earth. Also, it did not have a trail and did not fade out. It was also almost directly above our heads.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11525.html](http://www.nuforc.org/webreports/reports/011/S11525.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Reddish/orange object in sky in Fayetteville, NCSpotted object at about 21:45-22:00 in Fayetteville, NC while driving.  The object flickered between red and orange like it was burning or on fire.  It seemed to be "flying" away, not falling. We attempted to follow it, but it disappeared from view.  We later noticed a helicopter/airplane flying in the same direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86168.html](http://www.nuforc.org/webreports/reports/086/S86168.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
