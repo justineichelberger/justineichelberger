@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:51 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1991, an anonymous witness in Vassar (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>zigzag beeping objectI was 11 years old at the time. our house was on a piece of property that was located on a private dirt roar that was in the process of being made, we were the 2nd house on this road at the time.  My bedroom window faced out into the woods, where there was no body living due to the fact the road was still a trail.  There were no lights or homes in the direction my window faced.  My window was a big bay window.  At the time my aunt had a car that was very loud, like the engine was loud. I was laying in bed and heard what I thought was their car in our yard so I sat up to listen.  At that moment the woods and the side of the yard my window faced, was illuminated light that I would compare to a florescent shop light color.  I sat there and was thinking some idiot was trying to drive down the trail thinking it was a finished road.  Then in a southeast to northwest direction came this circle possibly oval shaped light in the sky.  I was beeping and moved in a zigzag fash! ion. to see this go across the sky took 3 seconds.  I did not try to look out my other window, I was so scared I covered my head and froze until I fell asleep.  I did notice that the engine sound, beeping and illumination all disappeared once this object went by my house.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/083/S83760.html](http://www.nuforc.org/webreports/reports/083/S83760.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Dozen red green blue lights in portland sky that spin with two bright white lights that move so quick like they disappear and reappearAt 10 pm and still going at 3:23 am in se portland towards eastern sky two bright white lights that look somewhat like a plane or helicopter but stays in one spot with a spinning ring of colores red green white and blue lights around it.  One really bright one and about 9-15 or so smaller ones hovering  around it.  Some of them lined up in a row.  I thought at first the airport was backed up and there were planes waiting in the sky to land.  However not the case these move very fast like they disappear and then reappear in a different spot. Some of them seemed to be closer then others.  There are quit a few.((NUFORC Note:  Stars??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/124/S124966.html](http://www.nuforc.org/webreports/reports/124/S124966.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
