@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New River (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>I just saw 2-3 looked like stars, not a plane, in the west sky. The one top left &quot;joined&quot; the one bottom right. Top left oneI just saw 2-3 looked like stars, not a plane, in the west sky.  The one top left "joined" the one bottom right.  Top left one was orange/red, bottom right was white.  Looked like a haze or object in the center, more like a haze Til I ran for my phone to take a picture they were gone  Never saw anything like that in my life I've been seeing the large bright "star" in the SW when no other are visible but this tonight really shocked me I've never reported anything like this in my life It really was something I've never seen before I think military base to the west but not sure This was NOT a flare I'm still thinking about what I saw!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/131/S131936.html](http://www.nuforc.org/webreports/reports/131/S131936.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Dumas (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Two people saw a bright star moving in all directions in a small area.My girlfriend and I were stargazing pretty far out of town, so we could see as much of the night sky as possible. After about an hour, she noticed what appeared to be a very bright star that was wobbling towards the south (through a bit of a treeline).  I watched it for about 30 minutes as it moved in all directions and in circles.  Without knowing how far away it was, it would be difficult to know how fast it was going, but if I held a dime out at arms length it would almost cover the area it moved around.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152125.html](http://www.nuforc.org/webreports/reports/152/S152125.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
