@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:33 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Calimesa (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Red orbs over my local mountainsThis is not the first time we have seen these reddish orbs hovering over our local mountains in the inland empire.  My daughter and I saw 4 of them flying almost directly overhead in July 2010 and again on New years eve the same year.  Tonite my wife and I saw 4 of them, only difference was three of these orbs were a very bright white lite in a horizontal formation.  After watching these lights for approximately ten to fifteen minutes as they stood stationary over our local mountains 2 of them completely disappeared, one of them just kinda dimmed and one red orb appeared for about a minute or two, I asked the wife to grab my binoculars and the second she went to get them the red orb kinda did a flicker thing and disappeared as they usually do?  I have been watching the one white light that remained after the others disappeared for about an hour and I observed it dim itself 2 times.  You can clearly see that there are no houses in the area where they are and I kno! w from personal experience that they are not ranger stations.  I have seen these reddish orbs in the night sky from time to time for over a year now and have discovered that these same orbs are being seen world wide.  There must be a reason why they are often seen in my area, just wish I knew what it is!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95619.html](http://www.nuforc.org/webreports/reports/095/S95619.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Very beautiful lights that arrived after thunderstorm in Greenpoint, Brooklyn.See video: https://www.youtube.com/watch?v=fIOGO2d58xc  Contact: ((deleted))@gmail.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150629.html](http://www.nuforc.org/webreports/reports/150/S150629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
