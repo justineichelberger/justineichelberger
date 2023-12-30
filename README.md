@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in New York (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Hours - Hours minutes.</sub><blockquote><sub>Very beautiful lights that arrived after thunderstorm in Greenpoint, Brooklyn.See video: https://www.youtube.com/watch?v=fIOGO2d58xc  Contact: ((deleted))@gmail.com</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150629.html](http://www.nuforc.org/webreports/reports/150/S150629.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Perth Amboy (NJ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Unidentified crafts and light beamIt was about 1:00am.  My brother and I were watching T.V. last night and eating snacks in our living room.  We have two couches.  I was sitting on the couch closest to the west wall.  Sitting on this couch, my back is facing the neighbor’s front yard.   My brother was sitting on the couch closest to the basement.  From that couch he had a good view of the kitchen and more importantly the kitchen windows. Half way into our movie we heard a very strange noise. It sounded like a “WHOOOOOOSH”. Something flew past my house.  I never heard anything like it.  Since my back was facing outside, I heard it more and felt it!   It seemed like it was going very fast.  It seemed like it came down and flew over my neighbor’s yard!  The lights and the T.V. flickered as if they were about to turn completely off- and they did for about 1 second! It was scary.  My dog sleeps in the kitchen and he immediately got up and started barking.  Me and my brother looked at each other and were like, “What the hell was that?!”  We looked out the windows- him in the back and me in the front but we saw nothing.  We talked about it, decided it may have been my sister making noise upstairs and were freaked out but we continued to watch T.V. About 30 minutes later the same thing happened but this time it was louder and had more of a thunderous sound. “WHOOOOOOOOOOOOOSH”!!!! It flew passed my house again in the same spot but this time went towards my back yard. Then suddenly my whole backyard lit up with blue lights!! My brother saw it most because he could see the yard through the kitchen widows. My living room lit up. It was like a beam shot down and hit my backyard. My whole family ran down the stairs. We were all freaked. We didn’t investigate. We were too scared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60579.html](http://www.nuforc.org/webreports/reports/060/S60579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
