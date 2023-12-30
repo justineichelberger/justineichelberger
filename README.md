@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 30 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in San Rafael (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I am now very scared to go to bed at night.I was outside, and I hear the noise of an airplane, but when I look up I see what looks like a jet with holes in the wings just hovering there with headlights on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55043.html](http://www.nuforc.org/webreports/reports/055/S55043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Zachary (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>4 low hovering changing lights in the skyWe saw 2 pair of bright lights flying low in the sky... the airport is not far away but these craft were lower than any plane or copter we're used to seeing.  The first pair was a set of red lights closely spaced together, the left one a little higher than the right one,  they were close together than they flew west about 500 ft.   We followed them with the car and stopped in front of them and took video footage.  They hovered then made their way back east and disappeared from sight...  2 more came from the west these did go back and forth (west to east and back) like the first 2 these just followed the same path as the previous two.  Each one changed colors from red to white to yellow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86247.html](http://www.nuforc.org/webreports/reports/086/S86247.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [229](http://www.nuforc.org/webreports/reports/161/S161519.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161407.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161372.html)
-- [226](http://www.nuforc.org/webreports/reports/161/S161404.html)
-- [225](http://www.nuforc.org/webreports/reports/152/S152125.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
