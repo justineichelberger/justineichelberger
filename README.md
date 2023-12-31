@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:32 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Venado Tuerto (Argentina) () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>I was taking photographs to the full moon, I cannot see the UFO at that time, I realize about it then checking on my computer.((NUFORC Note:  Source of report also has submitted a photo of an object we are unable to identify.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/081/S81009.html](http://www.nuforc.org/webreports/reports/081/S81009.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrollton (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Orange Spheres moving West to East over Carrollton TX.I had just turned South off of Frankford Rd. onto Scott Mill Rd. when out of the corner of my right eye I caught a glimpse of something out of the ordinary.  Three round fire orange spheres were moving (at a seemingly slow pace) from the Northwest to the Southeast.  These spheres appeared to be about a thousand feet above my vehicle.  As I continued southbound down the road I noticed several people looking towards the sky, so I assume there were other witnesses.  When I returned back travelling north up Scott Mill the lights were gone.  They were only visible (to me) for a few short minutes - maybe three or four.  I've seen plenty of airplane lights and stars and these were definitely not either of those.  WEIRD!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60593.html](http://www.nuforc.org/webreports/reports/060/S60593.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
