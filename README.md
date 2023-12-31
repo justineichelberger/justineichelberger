@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:54 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>there were 3 of them , maybe more but they were there and observing EVERYTHING.It was new years eve and i was down in sydney harbour looking up in the sky waiting for the big fireworks party to begin.At first i saw a shooting star and said to my companion 'did you see that,a shooting' star,she said no so anyway aswe all do i made a wish.THEN i saw a nother one But this time it stoped ,it just sat there looking like all the other stars up there but i kept on staring at Until ZOOM, it shot right up and beyond the clouds where you could not see it. Oh boy was my heart racing i was in complete denial , i thought ah bugger it i didnt see it.so by this time i was in party mode and then bang boom blast,happy new year, the fire works had started it was awsome but i still had this niggling feeling that wouldnt go away it was that so called shooting star i saw and i dont know why but i had paid no attention to the fire works any more and looked behind me away from the fire works over my shoulder straight up in to the semi blacsk clouded sky and there it re apeard.It came right out of the cloud staight down, sat there for 2 seconds and ZOOM staight back up again.I could not believe what i had just saw, this time i was convinced it was a ufo and i will never forget that night ever for as long as i live.I know exactly what they were doing, they wanted to see the biggest fire works display ever just like we all did and being the year 2000 i believe they where celebrating mankinds efforts for making it this far or even giving each other a pat on the back for what they have created US the human race...((NUFORC Note:  We trust that the witness means the date of December 31, 1999.  We have changed it here to the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16827.html](http://www.nuforc.org/webreports/reports/016/S16827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two large orange colored lights over the Auburn skies at nightI was leaving my house to go visit some friends for a New Years party.  As I pulled my car up to the stop sign at the top of my hill, I glanced out towards the Sacramento Valley.  Off in the distance, I saw two large orange amber lights that looked about 5 miles away.  So I rolled down my window to get a better look at them because I never have seen anything like them before.  At the same time looking at them I was desperately trying to get my camera out of my bag to take a picture of these two lights.  These lights were exactly the same color and size and both moved in unison and speed.  One did not move faster or slower than the other.  As I watched them they both made a sharp turn at the exact same time and the lights flickered out.  I never got my picture of them before they disappered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86434.html](http://www.nuforc.org/webreports/reports/086/S86434.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
