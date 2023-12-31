@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in San Pablo (Philippines) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>ORANGE GLOWING OBJECT OVER SAN PABLO CITY,  LAGUNA, PHILIPPINESIt was new year me and my brother went outside the house to check for fireworks when we came outside the night sky was clear but then we sa a  glowing object on the western sky we thought first it was an aircraft but no it wasn't because wew often see an airplane with its blinking red and blue lights the we called our aunt our sister  then the glowing orange object slowly moves away from us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105776.html](http://www.nuforc.org/webreports/reports/105/S105776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Generally agreeing with other reports posted for this event.  Have never seen anything like this; approx. nine yellow-orange lights in random pattern first seen in general area above confluence of Wenatchee and Columbia rivers, spread in sky and moving slowly from northwest to southeast.  Some lights moved up, others down even to below horizon line.  Witnessed by three adults and one teenager from good vantage point near center of Wenatchee.  Lights eventually either died out or moved beyond range to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34313.html](http://www.nuforc.org/webreports/reports/034/S34313.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
