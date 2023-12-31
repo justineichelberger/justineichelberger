@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:32 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:54 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrollton (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>3 Orange Spheres moving West to East over Carrollton TX.I had just turned South off of Frankford Rd. onto Scott Mill Rd. when out of the corner of my right eye I caught a glimpse of something out of the ordinary.  Three round fire orange spheres were moving (at a seemingly slow pace) from the Northwest to the Southeast.  These spheres appeared to be about a thousand feet above my vehicle.  As I continued southbound down the road I noticed several people looking towards the sky, so I assume there were other witnesses.  When I returned back travelling north up Scott Mill the lights were gone.  They were only visible (to me) for a few short minutes - maybe three or four.  I've seen plenty of airplane lights and stars and these were definitely not either of those.  WEIRD!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60593.html](http://www.nuforc.org/webreports/reports/060/S60593.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Sydney (NSW, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>there were 3 of them , maybe more but they were there and observing EVERYTHING.It was new years eve and i was down in sydney harbour looking up in the sky waiting for the big fireworks party to begin.At first i saw a shooting star and said to my companion 'did you see that,a shooting' star,she said no so anyway aswe all do i made a wish.THEN i saw a nother one But this time it stoped ,it just sat there looking like all the other stars up there but i kept on staring at Until ZOOM, it shot right up and beyond the clouds where you could not see it. Oh boy was my heart racing i was in complete denial , i thought ah bugger it i didnt see it.so by this time i was in party mode and then bang boom blast,happy new year, the fire works had started it was awsome but i still had this niggling feeling that wouldnt go away it was that so called shooting star i saw and i dont know why but i had paid no attention to the fire works any more and looked behind me away from the fire works over my shoulder straight up in to the semi blacsk clouded sky and there it re apeard.It came right out of the cloud staight down, sat there for 2 seconds and ZOOM staight back up again.I could not believe what i had just saw, this time i was convinced it was a ufo and i will never forget that night ever for as long as i live.I know exactly what they were doing, they wanted to see the biggest fire works display ever just like we all did and being the year 2000 i believe they where celebrating mankinds efforts for making it this far or even giving each other a pat on the back for what they have created US the human race...((NUFORC Note:  We trust that the witness means the date of December 31, 1999.  We have changed it here to the correct date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16827.html](http://www.nuforc.org/webreports/reports/016/S16827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
