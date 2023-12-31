@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Wenatchee (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Generally agreeing with other reports posted for this event.  Have never seen anything like this; approx. nine yellow-orange lights in random pattern first seen in general area above confluence of Wenatchee and Columbia rivers, spread in sky and moving slowly from northwest to southeast.  Some lights moved up, others down even to below horizon line.  Witnessed by three adults and one teenager from good vantage point near center of Wenatchee.  Lights eventually either died out or moved beyond range to east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34313.html](http://www.nuforc.org/webreports/reports/034/S34313.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Calgary (Canada) (AB) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 bright orange lights.It's New Year's eve, my boyfriend and friend were outside when he started calling my name to come quck!!  I ran outside thinking its another owl in our tree, i saw immediately it was 2 bright glowing round lights moving slowly, seemed quite low, not a plane, moved diagonally, silently across the sky, we watched until one disappeared and the other until out of site, then another one came from the same direction and i called for my daughter and mother, who came outside and saw it too. Ive been googling to see if anyone else has seen it/them here in calgary alberta canada, seems theyre being seen everywhere around the world!!  Very freaky!!!  And exciting!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116409.html](http://www.nuforc.org/webreports/reports/116/S116409.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
