@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Jolla (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange balloon-like fireballs traveling upwards and slightly south from the Pacific Ocean and disappearingorange colored "balloon"-like lights in a line rising slowly as if out of the Pacific Ocean in a slight arc traveling up and slightly southward.  Slight, but noticeable, flashing red and white lights on each one (but mostly static orange color) disappearing out of sight one by one as they rose in altitude until all were gone.  The speed of travel reminded us of the way hot air balloons travel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105811.html](http://www.nuforc.org/webreports/reports/105/S105811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Las Cruces (NM) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 orange glowing orbs forming triangles and   lines	At approximately 2350 on December 31, 201,3 we were up on a roof waiting for fireworks.  We saw an orange orb seem to shoot upward from the west ending up in Northwest Direction (Las Cruces,NM).	This orb hovered,seemed to come closer,then backed away and  moved slowly left to right.  Shortly after, we saw a second one and they were in close proximity to each other,moving in different directions.	After midnight 3 more appeared,slowly hovering around each other. At one point all 5 aligned forming a    straight slanted line.  My daughter felt it looked as one big craft,with lights at its edge at this point.  They all slowly dimmed out, except one.  (During the course of this entire experience,they would dim to the size of a small orange star, less bright-but mainly stayed larger & glowing orange).	About 3 minutes later, the only orb left stopped moving, about 5 seconds later,two orbs appeared below it,forming an acute triangle,it hovered for about 15 seconds.  The other 2 orbs were hovering off to the triangles left.	THEN the orb on the top of the  triangle moved upward to its right aligning itself with the bottom right orb.  The bottom left orb started moving further to its left forming a right triangle.  It stayed this way for about 5 seconds, then we looked away to get down from the roof (as other child became very concerned and upset).  We looked up again and they(all 5) were still hovering slowly around in no particular order.  They remained a very bright glowing orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105850.html](http://www.nuforc.org/webreports/reports/105/S105850.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
