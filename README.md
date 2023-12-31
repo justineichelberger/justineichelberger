@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Warrensburg (MO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>2009 UFO SIGHTING-CLOSE ENCOUNTER-NEAR WARREN AIR FORCE BASE,Warrensburg,Mo.On the night of December 31st 2008, New Years Eve, My friend and I were driving on highway 13 leaving Warrensburg,Mo. Headed towards Higgensville to get on I-70. We were going to a christian concert called I-hop at the Bartel hall in Kansas City, Mo. My friend was driving the van and I was the passenger. I suddenly saw light in my window and looked up to see this huge object  moving along with us in the sky. It was up to the right of the van and coulndn’t have been any higher than a very tall tree.  I yelled for Kim to pull over . She couldn’t see anything but light and didn’t know what was going on. I grabbed my Nikon d70 digital camera(I went to college and took photography classes) and when she stopped I yelled for her to get out and look at this thing and I started taking pictures. I remember her crying and saying ,”lets go, please.” I could only think of getting a photograph of this thing. I think I was just in shock! It was moving with us, but when we stopped the van, it stopped and was just hovering above us. It made no noise at all. It was round and had about eight lights around it and every three seconds would flash on and then off. When the lights would go off, I remembered every thing was completely dark. I had to count, 123…to get a picture. I did get nine photographs, Which later I discovered matched exactely to one I spotted on the internet on you tube that someone had taken! I got in the car because my friend was crying. We pulled up to 1050 rd. and called 911. I spoke to an officer . He asked a lot of questions about what I saw and then said that he was going to get his camera and head out there himself. He said that he would come out the next day and see the photos that I got and he never called. I later discovered My arm hurt and We were sick.We went to the concert that night although we were in a daze and very shaken up. We were headed back on I-70 about 1:30 a.m. and we suddenly saw to our left the object was landed in a field. I know this sounds crazy but it is ! true. Th ere to our right was this big fire ball type thing that flew past the van and vanished. We coulndn't hardly speak. We went straight home and haven't gotten a good nights rest since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68952.html](http://www.nuforc.org/webreports/reports/068/S68952.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in La Jolla (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>orange balloon-like fireballs traveling upwards and slightly south from the Pacific Ocean and disappearingorange colored "balloon"-like lights in a line rising slowly as if out of the Pacific Ocean in a slight arc traveling up and slightly southward.  Slight, but noticeable, flashing red and white lights on each one (but mostly static orange color) disappearing out of sight one by one as they rose in altitude until all were gone.  The speed of travel reminded us of the way hot air balloons travel.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105811.html](http://www.nuforc.org/webreports/reports/105/S105811.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
