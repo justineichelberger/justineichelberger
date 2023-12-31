@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:35 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A silent, silver bell-shaped metallic object which emitted an orange glow was observed in the afternoon by 3 persons in Phoenix, AZ.A silver bell-shaped metallic object which emitted an orange light was observed traveling northbound at a rate of approximately 180 mph & at an elevation of approximately 2000 feet for a period of ten minutes by three individuals in Phoenix,AZ on the afternoon of December 31, 2002. The object noiselessly covered a distance of 30 miles in a period of about 10 minutes, passing over the cities of Chandler, South Phoenix & Scottsdale, AZ. It was moving parallel & nearly directly above the Interstate 10 Freeway. The object was observed from the parking lot of the 3 observers place of employment. The object had an irregular flight path, constantly, if only slightly, changing altitude & direction, but moving in a northerly direction. It was observed from a distance of roughly 1 to 3 miles. Due to the clear daylight conditions and close proximity of its observers, as well as the object's omnidirectional movements, it's shape was clearly discernable & was not that of any aircraft known to the observers. There was no tail, wings, fuselage or propellers visible. As it maneuvered perpendicular to the earth, its underside was seen to be black. When horizontal, it appeared the have a highly reflective metal surface. There was an intermittent orange glow about it. When 1st sighted (at a distance of 3 to 5 miles, it had a diffused look, reminiscent of a gigantic piece of Saran Wrap, but quickly & unexpectedly assumed a much smaller solid & more circular appearance as it quickly moved closer to the initial observer. At its closest point, relative to the observers, its somewhat bell shaped outline became apparent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26822.html](http://www.nuforc.org/webreports/reports/026/S26822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Broken Hill () reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright orange light moving horizontally across the sky.A very bright obvious orange light seen traveling from north eastern sky to north western sky.   Appeared to be approximately 20 degrees above the horizon and was in view for about one minute.  The light did not seem to fade as it travelled past our view.  There was no sound of engines etc and there was no breeze. The same light was seen about 25 mins later in the western sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86217.html](http://www.nuforc.org/webreports/reports/086/S86217.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
