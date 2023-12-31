@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:33 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:29 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.3 - 4.3 minutes.</sub><blockquote><sub>About 10:10 pm new years Eve, walking my dog, I looked up towards the west and saw a huge orange / reddish light moving silent across the sky.  There was no sound, it moved to the so.  East at a slow speed then completely vanished, then to my superise I looked up again and 2 more identical lights exactly as the first one were moving in the same direction this time I videoed them for about 2:45 seconds.  I thought possibly maybe drones, but then, I'm just not sure what they were, there were no strobe lights no wings and no sounds and I was absolutely stunned.  I was wondering if anyone else had seen this event last night? BTW, I have 5 pic's and a 2:42 second video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152170.html](http://www.nuforc.org/webreports/reports/152/S152170.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Brattleboro (VT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Orange or flew 100 miles an hour at least and then disappeared in to spaces at least at speed some 20,000 mph.2 orange lights orbs to be correct flew down from the sky each doing a grid search.  Me and a friend saw them as we were going to go play in the snow with a car pull donuts and stuff.  Our first thought was that they were lanterns falling back to earth but then they just stopped.  Flew at us not hostile like at all just flew over head and then turned back to the town note there a river that runs between us and the town at least 150 feet wide so there's wind always blowing at the town they stopped at the edge of the opposite bank of us turned in to the wind flew at least 100 miles an hour for about 50 yards then stopped abruptly came together and in a blink of an eye they shot back up into the sky and were gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106637.html](http://www.nuforc.org/webreports/reports/106/S106637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
