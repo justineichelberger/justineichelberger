@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:02 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in New Mexico border (driving west on I-40: 20 mi. past) (NM) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Pulsating emerald green sideways teardrop entered the dark sky as if it traveling ar warp speed from the south.  As it was travelling north it left a jet stream trail and turned west align with I-40 west.  It was glowing and pulsating and clearly had a gold halo a third of the way back from the front of the teardrop.  It turned west and shot out the sky with warp speed and it went dark.  The jet stream trail let with it as it disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/127/S127342.html](http://www.nuforc.org/webreports/reports/127/S127342.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Flagstaff (south of) (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>New Year's Eve 2011 UFO sighting around 8:30 pm south of Flagstaff, ArizonaAround 8:20 to 8:40 pm local time, my girlfriend and I were traveling on Interstate 17 Northbound from Sedona to Flagstaff.  About 5 miles south of Stoneman Lake, my girlfriend noticed a glowing sphere moving initially north and then northwest.  I was driving and peered under the top right section of the windshield and saw a large yellow sphere moving parallel to the car then moved very quickly in front and finally disappearing in front of the car.   This all took about 5 secs.  The yellow, slightly greenish sphere was fully illuminated and appeared like a huge falling star or giant fireball.  As it passed our car, the glowing appeared more in front of the sphere like only the semi-circle was lit.  Then when it was fully in the front windshied, only red lights were visible, which made me think it was a plane, but it disappeared in a cloudless night.  If it wasn't for the huge fireball like appearance, I would have thought it was a plane.  The relative size of! the vision was about two times the size of a full moon.  My girlfriend did see the sphere about 2 or 3 seconds more and said the color was changing from green to yellow, though I only saw a yellowish globe.  It traveled mostly parallel to the ground then made about a 30 degree rise as it crossed in front of the car.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86211.html](http://www.nuforc.org/webreports/reports/086/S86211.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
