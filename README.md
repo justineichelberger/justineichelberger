@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Auburn (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Two large orange colored lights over the Auburn skies at nightI was leaving my house to go visit some friends for a New Years party.  As I pulled my car up to the stop sign at the top of my hill, I glanced out towards the Sacramento Valley.  Off in the distance, I saw two large orange amber lights that looked about 5 miles away.  So I rolled down my window to get a better look at them because I never have seen anything like them before.  At the same time looking at them I was desperately trying to get my camera out of my bag to take a picture of these two lights.  These lights were exactly the same color and size and both moved in unison and speed.  One did not move faster or slower than the other.  As I watched them they both made a sharp turn at the exact same time and the lights flickered out.  I never got my picture of them before they disappered.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86434.html](http://www.nuforc.org/webreports/reports/086/S86434.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Cleburne (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Me and my friend was going from his house to my house and in the sky one after another red lights following each other very slow and then taking off very fast and as soon as one will disappear another one will pop up they were bright red and they were coming from north to south Grover Cleveland and as soon as I get on top of us they took off West disappearing into the distance with no blinking lights crazy looking bright neon pink if you will((NUFORC Note:  We attempted to contact via telephone the source of the report, but our call was not answered, and the party has not set up his voicemail box.  Hoax??  PD))((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132140.html](http://www.nuforc.org/webreports/reports/132/S132140.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
