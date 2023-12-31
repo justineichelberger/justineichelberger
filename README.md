@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:34 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:33 on 31 December 2023 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Imperial Desert (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately New Years Eve - New Years Eve minutes.</sub><blockquote><sub>The Object was more round than Oval. It was behind the cloulds, the moon was very bright that night so you could see very good. I looked up to the sky and you could see this round oject hovering above the clouds or below it looked like a black ring moving around.  Then it took off straight up leaving a perfict circle in the clouds! That was unexplainable.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54394.html](http://www.nuforc.org/webreports/reports/054/S54394.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in New Port Richey (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.3 - 4.3 minutes.</sub><blockquote><sub>About 10:10 pm new years Eve, walking my dog, I looked up towards the west and saw a huge orange / reddish light moving silent across the sky.  There was no sound, it moved to the so.  East at a slow speed then completely vanished, then to my superise I looked up again and 2 more identical lights exactly as the first one were moving in the same direction this time I videoed them for about 2:45 seconds.  I thought possibly maybe drones, but then, I'm just not sure what they were, there were no strobe lights no wings and no sounds and I was absolutely stunned.  I was wondering if anyone else had seen this event last night? BTW, I have 5 pic's and a 2:42 second video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152170.html](http://www.nuforc.org/webreports/reports/152/S152170.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [669](http://www.nuforc.org/webreports/reports/161/S161409.html)
-- [668](http://www.nuforc.org/webreports/reports/161/S161478.html)
-- [667](http://www.nuforc.org/webreports/reports/161/S161397.html)
-- [666](http://www.nuforc.org/webreports/reports/161/S161399.html)
-- [665](http://www.nuforc.org/webreports/reports/161/S161388.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
