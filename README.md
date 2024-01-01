@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:33 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Massillon (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>My wife and  I both saw a strange orange  glowing ballon  like object that seemed to float silently above the treesI began investigating these after my son had witnessed a strange orange glowing ballon outside his window about Mid Dec 2007,  my wife and I assumed he had only seen a plane or such.  ON Jan 1 2008 around 1215 am I saw saw a glowing orange ballon shaped obhect that seemed to float over the trees near our house.  It was bright enough that it caught our eyes thru the windows. We were in differnt rooms and differnt floors but both saw it and ran out to try to see what it was.  It really looked like a miniature hotair ballon with a orange glow or fire color.  Object would rise and lower and moved very slowly.  It was not far away 200' or so but made absolutely no noise.  No strong winds or inclement weather, object was clearly visible and easy to see. Object just seemed to disappear as I was watching it.   I would like to say that this object has been reported locally several times in the last few months.  I did not know this or that this web site existed until we later starting researching sightings in Massillon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61190.html](http://www.nuforc.org/webreports/reports/061/S61190.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Marietta (GA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three orange lights in sky on New Year's Eve in Marietta, GAShortly after midnight, we observed three bright orange lights in the sky.  At first, it appeared as if they were helicopters, but there was no sound, they didn't have red or green navigational lights, and the lights were bright orange, not white.Given the date and time, one may easily dismiss these lights as part of a fireworks display, etc.  However, the lights were clearly not fireworks, as there was no fireworks display in the area, the lights moved completely across the sky in perfect formation - one right after the other.  They also didn't dissipate or lose altitude, as is common with fireworks, flares, chaff, or skydivers with lights.The second witness with me thought that the lights were only about one hundred feet in the air, or slightly above the tree top level.  I, however, believe they were at least 1000 feet high.These were three separate lights moving slowly from west to east, and then north and out of sight.  This was a very strange way to bring in the New Year.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86206.html](http://www.nuforc.org/webreports/reports/086/S86206.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
