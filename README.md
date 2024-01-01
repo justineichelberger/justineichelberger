@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:41 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:36 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Kayamkulam (in Kerala state) (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 20:45 - 20:45 minutes.</sub><blockquote><sub>I have seen a mysterious light, flaming, exciting Colour changing, moving towards upwards in the shape of an Indian ‘coin’  I have seen a mysterious light, flaming, exciting Colour changing, moving towards upwards in the shape of an Indian ‘coin’ .At many days and many times I examined the object. But the object is visible only at 6:20 pm to 8:45 pm in the south eastern horizon. It is seen very closer to earth comparatively than other stars. It is seen the object, a big star size flame at times circular and shows some different shapes. After 8:45 pm the object dims and moves slowly upwards and disappears .The colour changing of the object is highly visible. It is an individual object. I have taken 1 hour video picture and I am keeping it as evidence ready to submit on demand now it is e-mailing to ufocntr@nwlink.com . I’m a 24 years old P.G electronics student in kerala .I have invented many electronics devices in the field of Election, Railway, Security and many of them are submitted before the government of India –expecting the implementation. Other witnesses include my grandfather 86, my father 58, my brother-in-law 29 my mother 49, my sister 27 and my two friends.((NUFORC Note:  One of several reports from same source.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60904.html](http://www.nuforc.org/webreports/reports/060/S60904.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1967, an anonymous witness in Opa Locka (FL) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 21.0 - 21.0 minutes.</sub><blockquote><sub>Opa Locka 1967.  Elementary schoolTo the person looking for confirmation of the UFO circa 1967 in Opa Locka.  You left no way to be contacted.I have the information you are looking for.((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48426.html](http://www.nuforc.org/webreports/reports/048/S48426.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
