@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tulare (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Formation that change direction and disappeared.I am a patrol officer and the past two nights I have seen strange objects on the sky.  The first was in the eastern portion of the sky and I saw there were 6 red/orange objects in a line running north to south.  The first 4 disappeared quickly after I noticed them but the last two remained for about one minute.  The one to the north disappeared order and the last one ascended and disappeared.  From what I know there was at least one call to my dispatch about the lights.  I didn't really even believe what I had seen until I heard of the other call.  I heard some loud whooshing but I don't believe it was from the objects because they were too far away.  I tried to film it but you can only barely make out one speck from the distance I was recording from.The second I saw the same looking objects but there were only 2.  I caught them moving out of the corner of my eye.  I saw one drop quickly from the sky below roof line and the second ascended slowly then zig zagged once then disappeared.  I did not hear anything on this occasion.Because they were changing from red to orange and back and because they disappeared quickly, I believe they may have been flares but their movement makes me curious about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95744.html](http://www.nuforc.org/webreports/reports/095/S95744.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in San Jose (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.0 - 0.0 minutes.</sub><blockquote><sub>Red bright light fading away appearing again  in great distances before slowly fading away.  As it moves away in the hillsRed bright object  following straight pattern....Stops in middle of trajectory ..  Than it fades out, re-appears ahead in the sky by a huge distance before fading out completely((NUFORC Note:  Witness provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116380.html](http://www.nuforc.org/webreports/reports/116/S116380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
