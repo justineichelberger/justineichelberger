@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:37 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:17 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1952, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>My great-uncle was certain he saw 2 UFOs over the Wasatch Mountains in the early 1950s.My great-uncle reported seeing two extraordinarily bright lights over the Wasatch mountain range while standing in front of his house in Salt Lake City in the early 1950s.  They were so unlike anything he had ever seen, he was certain they were UFOs.  The sincerity with which he described the experience greatly impressed my mother and me.  Unfortunately, my uncle died shortly after that experience, and that is all the information my mother and I have about the incident.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/032/S32645.html](http://www.nuforc.org/webreports/reports/032/S32645.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on my front porch, which faces east, to film the neighbor hood at midnight, because of New Years. I looked up after filming to watch the fireworks, and saw a bright orange light to the east. I thought it might be a star but was much brighter than Jupiter is right now.  There were several aircraft in the area.  My tree was somewhat in the way, so I moved to a better vantage point on my driveway check to see if it had FAA lights on it. It did not.  I watched it for about a minute.  It seemed to hover, then sped off to the east, the light slowly getting dimmer then disappeared completely.It was originally about 30 degrees above the horizon, and when it sped off seemed to go slightly higher.I am not sure if there were any other witnesses, but I was the only one out on my street at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105857.html](http://www.nuforc.org/webreports/reports/105/S105857.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
