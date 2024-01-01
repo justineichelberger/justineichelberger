@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:17 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on my front porch, which faces east, to film the neighbor hood at midnight, because of New Years. I looked up after filming to watch the fireworks, and saw a bright orange light to the east. I thought it might be a star but was much brighter than Jupiter is right now.  There were several aircraft in the area.  My tree was somewhat in the way, so I moved to a better vantage point on my driveway check to see if it had FAA lights on it. It did not.  I watched it for about a minute.  It seemed to hover, then sped off to the east, the light slowly getting dimmer then disappeared completely.It was originally about 30 degrees above the horizon, and when it sped off seemed to go slightly higher.I am not sure if there were any other witnesses, but I was the only one out on my street at the time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105857.html](http://www.nuforc.org/webreports/reports/105/S105857.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Tulare (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Formation that change direction and disappeared.I am a patrol officer and the past two nights I have seen strange objects on the sky.  The first was in the eastern portion of the sky and I saw there were 6 red/orange objects in a line running north to south.  The first 4 disappeared quickly after I noticed them but the last two remained for about one minute.  The one to the north disappeared order and the last one ascended and disappeared.  From what I know there was at least one call to my dispatch about the lights.  I didn't really even believe what I had seen until I heard of the other call.  I heard some loud whooshing but I don't believe it was from the objects because they were too far away.  I tried to film it but you can only barely make out one speck from the distance I was recording from.The second I saw the same looking objects but there were only 2.  I caught them moving out of the corner of my eye.  I saw one drop quickly from the sky below roof line and the second ascended slowly then zig zagged once then disappeared.  I did not hear anything on this occasion.Because they were changing from red to orange and back and because they disappeared quickly, I believe they may have been flares but their movement makes me curious about it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95744.html](http://www.nuforc.org/webreports/reports/095/S95744.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
