@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:43 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>Two orange fireball shaped craft observed by Military Retiree and son over 17 minutes.Two bright orange fireball shaped objects moving slowly south to north. Just after midnight moving slower than a plane and no plane lights visible.  Not moving in the direction of the wind.  No rotor sounds, basically quiet.  Observed by myself a 56 year old male with 20 years military service, ten of which was in Army aviation units and my 19 year old son.  It was low and close enough that if it was a rotor wing craft we would have heard the rotors.  Not balloons because they moved against the wind.  Not fixed wing because no running lights and moved top slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105870.html](http://www.nuforc.org/webreports/reports/105/S105870.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Lights moving from south to north, low to ground and slow without any sound.The event happened on January 1st, 2007.  It was an exceptionally dark night; usually there is some minimal light pollution out in all directions from my house, but it seemed much lesser that night in retrospect. I was doing work as I generally do at that time of night with my window blinds up, as I like to see the sky.  It happened to be a very nice, clear night out without any clouds. While working away, I noticed out of the corner of my right eye, to the south, something with lights in the sky.  I glanced at it and realized that it wasn't either an airplane or helicopter. As it was so dark that night, I was unable to make out any shape of the object.  It was emitting absolutely no sound, which is the first thing that struck me as strange.  The object was very low to the ground, far too low for a fixed-wing or rotary-wing aircraft; by my best estimation, somewhere between 100-150 feet from the ground. The object had four lights that I could see; two in the front and the other two swept out to the sides and back a bit.  All four of the lights seemed to be emitting a light that looked color-wise to a warm flourescent light, but emitted light as strong and as clear as an industrial bulb would.  I would also like to note that these lights did not seem to shine any light down onto the ground, even from the low altitude. The object was moving at a quite slow, steady pace, estimated at about 20-30 MPH.  It moved from south to north without stopping, changing course or speed as far as I watched. Had I been in my senses, I would have jumped up and ran to the front door; I was, however, stunned at what I had just witnessed, wondering if it could have been something ordinary. I believe it was not, however, due to the facts that a) I saw no landing lights or blinking lights on the craft, and b) There is no landing strip and/or airport north of my house; the nearest one is about three miles south-east.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54379.html](http://www.nuforc.org/webreports/reports/054/S54379.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
