@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Oakland Park (FL) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright flash of blue light came out of nowhere in the clear night skyWe were at a New Years party and a bunch of us was hanging outside the party. About 15 mins after midnight on New Year's Day.  A flash of bright blue light engulfed the clear night sky and traveled east for about 6 seconds total.  We all looked up and questioned what was that?  Asking each other..did you see that?  Everyone confirms a bright flash of blue light an object quickly darted through the sky heading east towards the ocean.. we cannot explain what we saw but know it was not an airplane or man made object...that came out of know where and moved so quickly..not even a sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105949.html](http://www.nuforc.org/webreports/reports/105/S105949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle formation fire ball lights in the skythere where 3 what looked like balls of fire in a perfect triangle formation which we noticed moving along the sky keeping in perfect formation. then they came to a standstill and slowly faded to disapearing gone.i did manage to get my camera phone out and video the objects and you can here that we were amazed at what we were seeing we were at work on our break it was 6:00pm.((NUFORC Note:  We wonder whether this is a serious-minded report, or not.  Possible hoax, but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67807.html](http://www.nuforc.org/webreports/reports/067/S67807.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
