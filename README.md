@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Fort Myers (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>My daughter and I saw a non regular color and shaped object in the sky that went at an angle not known then dropped them dpMy daughter and I saw a Christmas ornament shaped object that was gold/bronze color.  When I asked her to get my phone to record it, I saw it change from a round so to speak object to an upside down bell shape.  We marveled over the fact that it looked completely different in color than what we normally see in the air.  My daughter has been so scared that she is still saying it was just a fire work after 45 minutes.  She has stopped shaking, but yet is scared to death.  Wondering if it is going to attack us.  She states she saw it go up in the sky then drop and disappear.  I saw the same thing.  Neither of us wanted to call 911 because we did not want to make a huge commotion about this as she is, so freaked out this is the only way I can express what happened.  Even now as I ask her what she saw she is still stating it was a firework.  Which we both know was not the case.  It took place at zip code 33908.  Call me at 317-((# deleted)).  Name is ((first name deleted)).  I have left messages elsewhere in the mufon community.  Thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138180.html](http://www.nuforc.org/webreports/reports/138/S138180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spanish Fork (UT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>After fireworks faded, my husband and I were still looking up in the sky when we saw two orange orbs in the sky of equal distance and moving at the same speed.  We stared for 15 minutes and watched the orbs move slowly across the sky, a third light came into our view before all three just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105818.html](http://www.nuforc.org/webreports/reports/105/S105818.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
