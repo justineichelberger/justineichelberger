@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Manitoulin Island (Canada) (ON) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Comet shped UFO's video taped over Manitoulin Island (US Canada border).On January 1st, 2001 between 4:30 and 5:30pm (I believe, I can colloborate with another eyewitnees).  Me and my girlfriends Father seen two UFO's over Manitoulin Island.  I was facing SW.  They appear to be bright yellowish lights and they didn't move.  Each had its own shape.  One cicular and the other was shaped like a comet with two tails and a round head.  The sky was clear and the sun was setting.  They looked like they were on the edge of earths atmosphere.  I video taped about 30 to 60 seconds.  Me and a friend kept an eye on the UFO's as we traveled west on the island.  And as we dipped into valleys we couldn't see them (we were not in a line of sight).  We watched them for about 5 more minutes then we lost track of them.  They appeared to change into a circle as we traveled west.  I have them on 8 MM video. I asked a local store owner about UFO's there and he said he sees them all the time but is afraid to tell anyone in fear they might think he is crazy (its a small town). Does anyone know of any similiar sightings on this island or around the world?  What should I do with this video? Thanks. ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15811.html](http://www.nuforc.org/webreports/reports/015/S15811.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Roanoke (VA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 17.0 - 17.0 minutes.</sub><blockquote><sub>Two orange fireball shaped craft observed by Military Retiree and son over 17 minutes.Two bright orange fireball shaped objects moving slowly south to north. Just after midnight moving slower than a plane and no plane lights visible.  Not moving in the direction of the wind.  No rotor sounds, basically quiet.  Observed by myself a 56 year old male with 20 years military service, ten of which was in Army aviation units and my 19 year old son.  It was low and close enough that if it was a rotor wing craft we would have heard the rotors.  Not balloons because they moved against the wind.  Not fixed wing because no running lights and moved top slow.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105870.html](http://www.nuforc.org/webreports/reports/105/S105870.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
