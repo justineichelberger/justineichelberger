@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clarksburg (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>lights in the sky over clarksburgme and my wife left the house to go next door as we were walking down the street i looked up in the sky and saw five bright lights in a v shape the lights did not move at all. when we got to the house my friend came out side to see the lights but the lights had grown to eight. at that time my wife said i am going inside i dont like this. at this point other friends were out side watching the lights and they could not say what the were .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54366.html](http://www.nuforc.org/webreports/reports/054/S54366.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Garden City (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>One Enflamed craft and large craft above feild.I was in a local feild, Using my telescope. When looking at stars. I scanned by to look at another. And saw 2 mysterious craft. One disk shaped with a red light inside. And one very large one with a blue light inside. Out of no where. The red lighted craft went on fire. At that moment I got the most detail of it. I saw the reflections of the fire on metal with symbols. None ive everseen, The inflamed craft came down, In the feild. I decided since I have a phone with me, To take a picture of it. After the "Click!" of the picture, The fire on the craft engulfed the whole craft and vansished, With only one clue left. A peice of metal. Its symbol was what seemed like the alleged "Crop Circle" Shapes. I took the metal to a neerby cop (who was one of the witnesses) When he was examining the metal. It glowed a vomit-like green. (only the symbol was glowing) and the blue lighted craft flew overhead. The metal vanished like the ship. And the blue craft flew upwards, And went through the cloud layer without making a hole in the cloud! Normally, I wasnt superspicious, But now, This experiance made me belive were not alone. [Note: The witnesses didnt give contact info]((NUFORC Note:  Witness identifies self as a "college student."  Possible hoaxed report, we believe.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54385.html](http://www.nuforc.org/webreports/reports/054/S54385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
