@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 ufos, silent black objects, moving slowlyat first we saw six light reflecting off the clouds. The six lights were grouped into pairs, which at first, traveled together but then moved about eachother in random movements.  they were traveling from east to west.  One of the lights slowly began to fade away as if it were disappearing into the clouds.  Another set followed and eventually the last pair disappeared over our building.  all were silent, and no actual object was seen, only lights.  At that time I looked back to the east and notice a silent black object moving slowly just below the clouds.  Above this craft you cloud see a round light reflecting off the clouds.  at one point it appeared to stop and hover, but it eventually began to move on slowly. Again I looked to the east and seen a larger black object with the same reflecting light above, moving slowly. As we watched both, the first eventually disappeared on the over our roof, and the larger second followed.((NUFORC Note:  Probable hoax.  Witness elects to remain totally anonymous; provides no contact information.  Note flawed date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52294.html](http://www.nuforc.org/webreports/reports/052/S52294.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tarzana (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright green light hovering in the sky that suddenly descended rapidly in a zig zag formation until it dropped out of my line of sight.I went out on my porch with my husband to take my Labrador to the bathroom, when out on the horizon we both saw a shining green light that was so brilliantly bright that at first I thought my eyes were playing tricks on me.  It hovered for about a minute and a half maybe longer in silence.  Then the bright green light suddenly dropped in the sky and proceded to descend in a very fast and strange zig zag formation until it dropped out of our line of sight, over by the Encino CA, area.  The track of houses were also disrupting my line of sight, after the strange descent of the green light. I was scared and my husband who wants to leave this entire thing alone however, was in agreement that this wasn't a common helicopter light like the one's we are used to seeing every day and night, being the Van Nuys airport is 3 miles away from where we live.  This time was different!  We have seen everything from the police helicopters, to the infrared helicopters and the sesna! planes and private jet lights as well as the common passenger and cargo planes. However this time the direction of this green light or object in the sky was over towards Ventura Blvd. and Busway, which is opposite the direction of The Van Nuys Airport, CA.  I am not sure what it was.  However I felt the need to report it because I want to validate what it was I saw, almost as if I am hopping for an explanation other than that of what my gut is telling me,  Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/105/S105932.html](http://www.nuforc.org/webreports/reports/105/S105932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
