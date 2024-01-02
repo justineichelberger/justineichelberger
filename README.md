@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in DeBary (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In daylight, oval object traveled across sky from west to east flashing a red light at irregular intervals - Volusia County, FL.On January 2, 2014, we were at Gemini Springs Park in Deltona, FL.  Still full daylight, at about 5:00 pm, we saw an oval-shaped object high in the sky, traveling at a moderate steady speed, in a direction from west to east.  The object was in view for at least three minutes, as it traversed the sky.  Although difficult to say what color it was (possibly tan or orange?), it clearly emitted a bright red light every few seconds, but sporadically, not at regular intervals.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116517.html](http://www.nuforc.org/webreports/reports/116/S116517.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Clarksburg (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>lights in the sky over clarksburgme and my wife left the house to go next door as we were walking down the street i looked up in the sky and saw five bright lights in a v shape the lights did not move at all. when we got to the house my friend came out side to see the lights but the lights had grown to eight. at that time my wife said i am going inside i dont like this. at this point other friends were out side watching the lights and they could not say what the were .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54366.html](http://www.nuforc.org/webreports/reports/054/S54366.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
