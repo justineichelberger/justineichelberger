@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:34 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 seperate sightings of medium brightness star lights traveling at high speed and great distance and making 90 deree turnsBackground info:  Approx 1 week ago, I noticed a bright steady light about the brightness of a medium star traveling north to south approximately 45 degrees above the horizon initially.  Thought it might be a satelite, but object then made a 90-degree turn to the west, in the only way I know to describe it is 1" from my thumb to index finger.Tonight's sighting:  Saw same brightness object travelling east to west in the sky at about 80 degrees above the southwest  horizon in a straight track at 6:09 am.  (I was standing with my neck completely bent back to look up).  The object made a 90-degree turn soon after and then dimmed to nothing approximately 20 seconds later.Judging distance and speed of object, the velocity and turn radius seemed impossible for high flying plane.  Hopefully my unscientific explanation makes sense.I'll keep an eye out closer now!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116422.html](http://www.nuforc.org/webreports/reports/116/S116422.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Canton (OH) reported seeing craft that fit the description of some 'Disk' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A large disc in the sun was photographed from a cell phone at 1 pm eastern standard time about 5 mi. south of Akron/Canton Airport near the 2 mi. north of the Football Hall of Fame.  The disc was quarter sized at arms length and was directly in the sun. A photo was sent to my email.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54324.html](http://www.nuforc.org/webreports/reports/054/S54324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
