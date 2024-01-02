@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1979, an anonymous witness in Norman (OK) reported seeing craft that fit the description of some '' over a period of approximately ? - ? minutes.</sub><blockquote><sub>encounter, clear recall of it  I was awakened by something,looked to my left and standing there was a thing it was approx.3 foot tall,large oval head,large dark eyes, slick skinned, no clothing,long fingers, seemed to be in a purplish haze and only 4 ft from the bed. seemed to slightly node its head, i do not recall it vanishing or anything, i wake up that morning with this memory and extremely tired.I have turned in other reports with this web sight. two from little axe okla and one from wayne okla.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/091/S91349.html](http://www.nuforc.org/webreports/reports/091/S91349.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 ufos, silent black objects, moving slowlyat first we saw six light reflecting off the clouds. The six lights were grouped into pairs, which at first, traveled together but then moved about eachother in random movements.  they were traveling from east to west.  One of the lights slowly began to fade away as if it were disappearing into the clouds.  Another set followed and eventually the last pair disappeared over our building.  all were silent, and no actual object was seen, only lights.  At that time I looked back to the east and notice a silent black object moving slowly just below the clouds.  Above this craft you cloud see a round light reflecting off the clouds.  at one point it appeared to stop and hover, but it eventually began to move on slowly. Again I looked to the east and seen a larger black object with the same reflecting light above, moving slowly. As we watched both, the first eventually disappeared on the over our roof, and the larger second followed.((NUFORC Note:  Probable hoax.  Witness elects to remain totally anonymous; provides no contact information.  Note flawed date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/052/S52294.html](http://www.nuforc.org/webreports/reports/052/S52294.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
