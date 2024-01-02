@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.25 - 1.25 minutes.</sub><blockquote><sub>A light in the sky flying in a zigzag formation that disappeared after a minute or so.Tonight in San Francisco, I saw a bright star in the Southern sky just to the right (west?) of Orion’s belt.  It was too far away to see the shape but it was brighter than most stars in the sky, and it’s a clear night tonight.  It was moving West in a subtle zigzag formation.  After about a minute it slowed and started to get smaller.  It became dimmer and dimmer until it disappeared, all in about 15 seconds.I’m not sure what it was but it did not look like a plane, nor did it move across the sky as a conventional plane would fly, and there are lots of planes in the bay area sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86295.html](http://www.nuforc.org/webreports/reports/086/S86295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in DeBary (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>In daylight, oval object traveled across sky from west to east flashing a red light at irregular intervals - Volusia County, FL.On January 2, 2014, we were at Gemini Springs Park in Deltona, FL.  Still full daylight, at about 5:00 pm, we saw an oval-shaped object high in the sky, traveling at a moderate steady speed, in a direction from west to east.  The object was in view for at least three minutes, as it traversed the sky.  Although difficult to say what color it was (possibly tan or orange?), it clearly emitted a bright red light every few seconds, but sporadically, not at regular intervals.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116517.html](http://www.nuforc.org/webreports/reports/116/S116517.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
