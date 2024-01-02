@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:50 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:41 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shaped craft with orange-yellow lights that hovered very low near Redstone Arsenal in Madison, AlTriangular shaped craft with orange-yellow lights hovering very low about 5 miles from Redstone Arsenal in Madison, Al.  We turned the car around to take a picture and craft vanished.  We could not see it anywhere.  My husband and I both saw it, and asked each other, "What is that?"  It was almost right over our car and very low.  It did not appear to be moving.  We pulled onto the next side road to stop and get a picture and could not see it anymore.  This was about a half mile from our home and very close to the arsenal in Madison, AL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79499.html](http://www.nuforc.org/webreports/reports/079/S79499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Melba (ID) reported seeing craft that fit the description of some 'Egg' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>This object was a dark color and had white flash lights with a green color left behind it as it flew</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41575.html](http://www.nuforc.org/webreports/reports/041/S41575.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
