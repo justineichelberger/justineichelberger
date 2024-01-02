@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:05 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very hard to explain, the movement, the actions, and the speed...very wierd.Before I explain..or try to explain what I view in the Stary Night skies over Waldorf, I never thought about UFO's or Aliens,etc.  But, on this night I witness something I just can not explain.  I saw two seperate groups of some type of wierd form of flying machine. I thought wow I wonder who they are looking for...But then I notice..it was'nt doing anything but,sitting in place..FOR A LONG TIME!.Suddenly like from a movie, another beam of light comes out of the cloud as if it was already there. As I was bugging out about what I was witnessing. I look further in the sky, and saw one very small cirlce object, with different color lights, blinking in a diamond like formation. It seem to either be small or very far, but the light did'nt resemble anything I ever saw before, and being near a base you tend to be able to reconize every time of plane that flies over your house. Alot more happen, but I believe what I told you is more then enough...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60646.html](http://www.nuforc.org/webreports/reports/060/S60646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>glowing red spaceship flys at car  500 Lights On Object0: YesIt began with a flash of bright light in the sky. at first i thought a plane had malfunctioned, caught on fire and was falling out of the sky. But it started to curved towards our car. At this point, as if by magic, our car had shut off, including any lights that were in the car.  Also, our friend in the backseat was thrashing around and mumbling some wierd language. If the ship had not have come so close to our car, i would have passed it off as a government test or somthing like that.  But then the ship started to gradually speed up and change it course so that it was aimed directly at us.  Our friend in the backseat was thrashing so violently now, the car felt as if an earthquake was centerd directly next to us. Suddenly, right when the ship was about to hit us, everything went white. I couldn't feel or hear anything besides a high pitched ringing in both my ears. It was like i was dead for 10 seconds. I can honestly say it was the scariest moment in my enti! re life. When we all came back to our senses, the entire car was extremely hot to the touch. The ship was gone but I can still remember the glowing red surface of the ship though. If you're wondering, the friend in the back was there, sitting straight up. He still isn't the same person he used to be.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74270.html](http://www.nuforc.org/webreports/reports/074/S74270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
