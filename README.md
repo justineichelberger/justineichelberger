@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 1 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:39 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>triangle formation fire ball lights in the skythere where 3 what looked like balls of fire in a perfect triangle formation which we noticed moving along the sky keeping in perfect formation. then they came to a standstill and slowly faded to disapearing gone.i did manage to get my camera phone out and video the objects and you can here that we were amazed at what we were seeing we were at work on our break it was 6:00pm.((NUFORC Note:  We wonder whether this is a serious-minded report, or not.  Possible hoax, but we cannot be certain.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67807.html](http://www.nuforc.org/webreports/reports/067/S67807.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very hard to explain, the movement, the actions, and the speed...very wierd.Before I explain..or try to explain what I view in the Stary Night skies over Waldorf, I never thought about UFO's or Aliens,etc.  But, on this night I witness something I just can not explain.  I saw two seperate groups of some type of wierd form of flying machine. I thought wow I wonder who they are looking for...But then I notice..it was'nt doing anything but,sitting in place..FOR A LONG TIME!.Suddenly like from a movie, another beam of light comes out of the cloud as if it was already there. As I was bugging out about what I was witnessing. I look further in the sky, and saw one very small cirlce object, with different color lights, blinking in a diamond like formation. It seem to either be small or very far, but the light did'nt resemble anything I ever saw before, and being near a base you tend to be able to reconize every time of plane that flies over your house. Alot more happen, but I believe what I told you is more then enough...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60646.html](http://www.nuforc.org/webreports/reports/060/S60646.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [1076](http://www.nuforc.org/webreports/reports/161/S161380.html)
-- [1075](http://www.nuforc.org/webreports/reports/161/S161408.html)
-- [1074](http://www.nuforc.org/webreports/reports/161/S161527.html)
-- [1073](http://www.nuforc.org/webreports/reports/161/S161557.html)
-- [1072](http://www.nuforc.org/webreports/reports/161/S161748.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
