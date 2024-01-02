@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:35 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Fairfax County (VA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>I was shopping in the Crossroads Shopping Center in Fairlax County on Route 7 (between Alexandria and Falls Church). I saw an object with flashing green and red lights and white strobe lights hovering and then circling over the intersection of Columbia Pike and Route 7. I retrieved my 10 X 50 binoculars from the trunk of my car and tried to discern what the shape of the object was. All I could see was a string of red and green flashing lights and 3-4 white strobe lights. This object gradually moved to the SW and I saw a number of flashing "fireflies" that were green in color detach from the object and fly in various directions. After the object disappeared to the SW I saw several lights from some light aircraft flying in the vicinity of where the object had been hovering. The object emittted a sound like a radial aircraft engine. I saw and heard a similar object flying in circles over my home immediately after September 11, 2001.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34265.html](http://www.nuforc.org/webreports/reports/034/S34265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Blinking white and red star-like object in sky.Just southwest of the Naos star, there was a bright blinking light- white and red.  It did not move or seem to be heading closer or further.  Brightness was more than other stars.  Not a satellite or other object when using SkyView.  Was able to capture on video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125049.html](http://www.nuforc.org/webreports/reports/125/S125049.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
