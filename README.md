@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:41 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glendale/Eagle Rock (Los Angeles) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Apparent meteor apparent meteorAs my wife and I were returning home we entered Yosemite Way headed NNw when in front of us about a quarter mile and at about 200-300 altitude there appeared a bright green-blue object trailing a long orange tail. It was out of sight quickly but seemed to be moving at 300-400 mph. I belive it was a meteor and it must have crashed nearby as best I could tell from the trajectory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12848.html](http://www.nuforc.org/webreports/reports/012/S12848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Thailand () reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>It is like the filim Independence dayI am an Indian working in Thailand.  I was taking the photo of moon in my digital camera to check the function of the new battery is that ok or not. With the photo of moon I found another one objct like a disk that is almost as three times the size of moon in photo.  When I zoom that photo I can see a blusish green ora out side and also two layers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54473.html](http://www.nuforc.org/webreports/reports/054/S54473.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
