@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:41 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waldorf (MD) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Very hard to explain, the movement, the actions, and the speed...very wierd.Before I explain..or try to explain what I view in the Stary Night skies over Waldorf, I never thought about UFO's or Aliens,etc.  But, on this night I witness something I just can not explain.  I saw two seperate groups of some type of wierd form of flying machine. I thought wow I wonder who they are looking for...But then I notice..it was'nt doing anything but,sitting in place..FOR A LONG TIME!.Suddenly like from a movie, another beam of light comes out of the cloud as if it was already there. As I was bugging out about what I was witnessing. I look further in the sky, and saw one very small cirlce object, with different color lights, blinking in a diamond like formation. It seem to either be small or very far, but the light did'nt resemble anything I ever saw before, and being near a base you tend to be able to reconize every time of plane that flies over your house. Alot more happen, but I believe what I told you is more then enough...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60646.html](http://www.nuforc.org/webreports/reports/060/S60646.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Glendale/Eagle Rock (Los Angeles) (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Apparent meteor apparent meteorAs my wife and I were returning home we entered Yosemite Way headed NNw when in front of us about a quarter mile and at about 200-300 altitude there appeared a bright green-blue object trailing a long orange tail. It was out of sight quickly but seemed to be moving at 300-400 mph. I belive it was a meteor and it must have crashed nearby as best I could tell from the trajectory.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12848.html](http://www.nuforc.org/webreports/reports/012/S12848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
