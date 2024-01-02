@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:43 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:50 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 ORANGE LIGHT WERE  MAKING A FORMATION IN MY BACK YARD AND THEN MOVED WEST TOWARDS THE EVERGLADES.MY HUSBAND AND I WERE WATCHING T.V. AND MY HUSBAND LOOKED OUT THE SLIDING GLASS DOOR AND SAID OH MY GOSH WHAT IS THAT!  I FOLLOWED HIM OUT BACK AND THERE WERE TWO ORANGE CIRCLES WHICH MADE NO NOISE, BUT CLOSE ENOUGH TO SEE PERFECTLY.  AT FIRST THEY WENT SLOW AND MOVED WEST, AND MET UP WITH FOUR OTHER LIGHTS AND WERE MAKING A FORMATION IN THE SKY.  WE COULDN'T BELIEVE OUR EYES.  OUR KIDS WERE SCARED, AND MY DOG WAS GOING CRAZY.  THIS IS THE SECOND SIGHTING IN A FEW MONTHS.  I HAVE PICTURES OF THE LAST SIGHTING OVER THE SUMMER.  I LIVE ON WEST BROWARD BLVD AND FLAMINGO ROAD. I NOTICED SOMEONE ELSE NOTICED IT AS WELL. THEY WERE ORANGE AND MOVED SLOWLY THEN FAST.  THEY WERE DOING A FORMATION IN THE SKY.  SOMETHING A PLANE AND HELICOPTER COULD NOT DO. IT WAS INCREDIBLE. I CALLED MY MOM AND RAN TO MY NEIGHBORS.  IT IS A BEAUTIFUL NIGHT TONIGHT.  THERE WERE NO CLOUDS IN THE SKY.  THE OBJECTS WERE NOT VERY HIGH OR TOO LOW, BUT ENOUGH TO SCARE US.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67819.html](http://www.nuforc.org/webreports/reports/067/S67819.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Madison (AL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Triangle shaped craft with orange-yellow lights that hovered very low near Redstone Arsenal in Madison, AlTriangular shaped craft with orange-yellow lights hovering very low about 5 miles from Redstone Arsenal in Madison, Al.  We turned the car around to take a picture and craft vanished.  We could not see it anywhere.  My husband and I both saw it, and asked each other, "What is that?"  It was almost right over our car and very low.  It did not appear to be moving.  We pulled onto the next side road to stop and get a picture and could not see it anymore.  This was about a half mile from our home and very close to the arsenal in Madison, AL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79499.html](http://www.nuforc.org/webreports/reports/079/S79499.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
