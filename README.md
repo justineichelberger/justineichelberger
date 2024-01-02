@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:05 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:34 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>glowing red spaceship flys at car  500 Lights On Object0: YesIt began with a flash of bright light in the sky. at first i thought a plane had malfunctioned, caught on fire and was falling out of the sky. But it started to curved towards our car. At this point, as if by magic, our car had shut off, including any lights that were in the car.  Also, our friend in the backseat was thrashing around and mumbling some wierd language. If the ship had not have come so close to our car, i would have passed it off as a government test or somthing like that.  But then the ship started to gradually speed up and change it course so that it was aimed directly at us.  Our friend in the backseat was thrashing so violently now, the car felt as if an earthquake was centerd directly next to us. Suddenly, right when the ship was about to hit us, everything went white. I couldn't feel or hear anything besides a high pitched ringing in both my ears. It was like i was dead for 10 seconds. I can honestly say it was the scariest moment in my enti! re life. When we all came back to our senses, the entire car was extremely hot to the touch. The ship was gone but I can still remember the glowing red surface of the ship though. If you're wondering, the friend in the back was there, sitting straight up. He still isn't the same person he used to be.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74270.html](http://www.nuforc.org/webreports/reports/074/S74270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in North Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>2 seperate sightings of medium brightness star lights traveling at high speed and great distance and making 90 deree turnsBackground info:  Approx 1 week ago, I noticed a bright steady light about the brightness of a medium star traveling north to south approximately 45 degrees above the horizon initially.  Thought it might be a satelite, but object then made a 90-degree turn to the west, in the only way I know to describe it is 1" from my thumb to index finger.Tonight's sighting:  Saw same brightness object travelling east to west in the sky at about 80 degrees above the southwest  horizon in a straight track at 6:09 am.  (I was standing with my neck completely bent back to look up).  The object made a 90-degree turn soon after and then dimmed to nothing approximately 20 seconds later.Judging distance and speed of object, the velocity and turn radius seemed impossible for high flying plane.  Hopefully my unscientific explanation makes sense.I'll keep an eye out closer now!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116422.html](http://www.nuforc.org/webreports/reports/116/S116422.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
