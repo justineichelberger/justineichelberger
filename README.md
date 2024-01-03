@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 2 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>we are not alone in the universeI really do understand how embarrassed it using solid propellant rocket for propulsion.I just what to say that I have seen real UFO my self.  I Tell you what I have seen on January 2 at 8:28 AM 2008 I was going to Vons grocery store at Downey California and I notice four UFO in low altitude hovering in straight formation over head. I thought that was seeing things. I ask an shopper that was leaving next to me and asked her what is that over head and she only stated that they are kites, others people did looked up and did nothing but stair for a moment. People that did seen what have seen just went on with there business. I was amazed what I have seen I look a closer look and notice orange orb hovering over head and a star light object at mush higher altitude hovering next to it. This was taking place of a period of ten to fifteen minus. After that I seen the conventional aircraft flown buy at low altitude heading south it was a twin engine propeller driven aircraft. Whatever they are, we are not alone in the universe. As for the other that seen this I really do understand how embarrassed it may be to tell other what you seen in fact no body would believe us anyway like the Arizona Lights . This really changes me and my prospective about religion and as for science goes we are still in the Stone Age using solid propellant rocket for propulsion. Thank you for your attention for reading this story.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60937.html](http://www.nuforc.org/webreports/reports/060/S60937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Manchester (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Flashing white light approx. tree top level.Returning home from work on night of the 3rd saw a bright flasing light about tree top level 2 $1/2 to 3 miles east of West Manchester. Light was very bright and was durring a heavy rain storm. Light flashed at regular intervals on 1 second off 2 seconds approx. Saw light just above tree tops and as I approached it seemes to drop below the tree line and was bright enough to back light the trees. I didn't really think anything about it at the time other than it was kind of unusual. Then I recieved this site location from a friend who didn't know of the sighting and thought it might warrent a report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11579.html](http://www.nuforc.org/webreports/reports/011/S11579.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [289](http://www.nuforc.org/webreports/reports/161/S161428.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161429.html)
-- [287](http://www.nuforc.org/webreports/reports/161/S161460.html)
-- [286](http://www.nuforc.org/webreports/reports/161/S161417.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161416.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
