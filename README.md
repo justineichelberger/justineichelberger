@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:39 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oak Hill (WV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 solid red lights in v formation (appeared at least 100ft wide) coming from the south.  Slow moving  no noiseIt was a full moon, sky was clear when 3 solid red lights in v formation(appeared at least 100ft wide)coming from the south.  It was slow moving, with no noise and appeared to be low flying. "Usually" the sky has several aircraft flying (NO other aircraft in sight until after object out of sight). Witnessed by three adults</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54442.html](http://www.nuforc.org/webreports/reports/054/S54442.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lafayette (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>I was at a friend’s house in Lafayette, Colorado, to watch the predawn Meteor Showers at 4:00am.  We were standing outside having a smoke and getting ready to light a fire when I looked up an saw what looked like a flock of geese (V shaped object at first) flying towards us at about 300-500 ft with no lights.I pointed out to her what I was seeing as it was approaching our direction at about 30-40 mph.  We were able to see directly underneath the ship and saw a gray triangle object that was completely silent. I started running after it between my friend’s house and the neighbor’s house to get a better look, and it disappeared directly in front of my eyes.The crazy thing is, later we saw other UFO’s flying around, but nothing as cool and clear and vivid as the first one. There’s a lot of UFO activity in that area.  Check it out for yourself.((NUFORC Note:  See second report from same witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67884.html](http://www.nuforc.org/webreports/reports/067/S67884.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
