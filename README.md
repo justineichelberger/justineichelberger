@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:38 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Keysborough (VIC, Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Summary : red lights bigger than a plane irregular flight patterns travelling sw to ne flying low but not lower enough to get a good descriptionevent occured over a populated area late at night as far as known only three witnesses the event from theyre family backyard. 2 red lights larger than a plane flying irregular patterns, travelling sw to ne and then vanishing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03010.html](http://www.nuforc.org/webreports/reports/003/S03010.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Oak Hill (WV) reported seeing craft that fit the description of some 'Formation' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 solid red lights in v formation (appeared at least 100ft wide) coming from the south.  Slow moving  no noiseIt was a full moon, sky was clear when 3 solid red lights in v formation(appeared at least 100ft wide)coming from the south.  It was slow moving, with no noise and appeared to be low flying. "Usually" the sky has several aircraft flying (NO other aircraft in sight until after object out of sight). Witnessed by three adults</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54442.html](http://www.nuforc.org/webreports/reports/054/S54442.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
