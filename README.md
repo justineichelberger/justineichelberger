@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:35 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:39 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tramore (Ireland) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Variable fireball that stopped and hovered then flew away and faded awayIt looked like a plane on fire at first but it would stop in 1 possition for to long to be. I taped a video on my phone but it is of bad quality. It was bright in the sky, even with cloud cover, for about 5 minutes.It started high in the sky then moved in a what can be judged as diagonal downward left motion as I was facing NW direction it then hovered and this the part I got on video then as it faded it moved back up diagonally right in the direction it had come from.It's light intensity varied at irregular intervals like a fire ball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67845.html](http://www.nuforc.org/webreports/reports/067/S67845.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large gray craft in Watsonville, CA.I left work for lunch and as I was driving SW and to the South hovering over the Aromas area was a huge gray craft shaped like a ball squished semi flat.  My guess is it was 1000+ ft wide. It looked to be about 3 miles away.  I find it hard to believe nobody else saw this.  I drove on until it was blocked from my view.  I don't know what happened to it after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86643.html](http://www.nuforc.org/webreports/reports/086/S86643.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
