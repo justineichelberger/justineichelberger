@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:51 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Vernon (WI) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green FlashWe were driving home dropping off my fiances son, and we were on HWY 164 in Waukesha heading towards Big Bend, and off to the right, we saw something that was like someone had taken a green marker and quickly scratched it across the sky in a downward motion at a 125 degree angle.  It was green, circular at the base.  We guessed it might have been a meteor with a green tail.  Eariler on the 4th, we found out that over Chicago there was a UFO sighting and possibly a meteor shower in Wisconsin.  Are they linked?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54453.html](http://www.nuforc.org/webreports/reports/054/S54453.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Fort Bragg (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 lights hovering over Fort Bragg, CaAt first I thought it was an airplane, until the others had shown up.  My boyfriend was the first to notice the first one.  It was red in color with bits of green.  So where the others, and they varied in size.  They came from the north traveling southwards.  It seemed like the other ones where following the first ones?  Then they hovered in the sky for a moment, then slowly one by one they dissipated into the clouds.  I don't know what they where, I am hoping they where lanterns or something.  I really so not even believe in this stuff.  I mean, I do believe that there are other planets they may have life on them, but I never believed in the whole UFO/alien thing.  I just moved here about 6 months or so ago.  I never seen anything like this. I don't know what else to put.  I am just really freaked out.  Even my cat, ((name deleted)), was freaking out.  I don't know what to think.  I tried to video record it, but I don't think it worked.  I think the only thing showing up is the street lights below?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116496.html](http://www.nuforc.org/webreports/reports/116/S116496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
