@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:39 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:39 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Watsonville (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Large gray craft in Watsonville, CA.I left work for lunch and as I was driving SW and to the South hovering over the Aromas area was a huge gray craft shaped like a ball squished semi flat.  My guess is it was 1000+ ft wide. It looked to be about 3 miles away.  I find it hard to believe nobody else saw this.  I drove on until it was blocked from my view.  I don't know what happened to it after that.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86643.html](http://www.nuforc.org/webreports/reports/086/S86643.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>White light above highway, changed shape, then disappeared.Was driving down Briley Parkway, from Madison to the West side of Nashville.  The time I entered is an approximation, but it was daylight, not long before evening, and I was looking up at what seemed like a very bright star above the road in front of me.  I started thinking it looked more like something lower, like a plane, but it was just one white light and seemed stationary.While I was looking at it, it seemed to stretch or unfurl into a straight line.  When that happened, it looked more like a metallic thing, and the light (which before was all I could see) seemed to all move to the top, above the object...like it was either light reflecting off of it, or flame/exhaust shooting out of it.Then, it looked like it just shrunk into itself and disappeared, or maybe flew away in the direction perfectly away from me, so that it looked like it just shrunk into nothing.  Or maybe it just stopped reflecting light, it's hard to say.I saw another report from the 5th in a nearby area that sounded similar, so I decided to report mine as well.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125414.html](http://www.nuforc.org/webreports/reports/125/S125414.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
