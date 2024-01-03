@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:11 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Simsbury (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A slow moving and hovering triangular shaped object with multiple bright white lights and one red lightOn Jan 3 at 2340 I was traveling on south bound on Terry Plains Road in Simsbury and saw a low flying triangular object hovering along the ridge line then it moved slowly north. I lost sight of the object in the trees so I turned my car around and proceeded to follow the path of it.  In a clearing after the trees I saw it again just hovering and proceeded to travel slowly north. It had multiple white lights with one red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106005.html](http://www.nuforc.org/webreports/reports/106/S106005.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in East Norwich (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>High speed object with bright green light over Nassau County NYI was driving eastbound on Route 25A in Nassau County New York and observed an object proceeding at what appeared to be a high rate of speed, and which was oval with a crescent of metal/silver/white surrounding a single extremely bright green light. Its trajectory seemed to be from west to east and possibly proceeding downward slightly. There was no sound. It was in my vision (through a clear windshield) for probably less than 0.5 sec. The light extinguished suddenly and completely while it was high in the sky. It was a very clear night, very dark, and with a yellow crescent moon practically on the horizon. I was driving on a dark stretch of road with no street lights and no traffic lights. As I continued driving home, I searched for any further signs of activity, but found none. For the record, I do not drink or take drugs. This is my first and only sighting of a UFO</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67846.html](http://www.nuforc.org/webreports/reports/067/S67846.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
