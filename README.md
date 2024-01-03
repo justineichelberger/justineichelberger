@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:40 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Harrisburg (in general area of) (PA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Pink aura flying below cloud cover.On the night of the 3rd I was traveling home from Carlisle using I-81 east bound toward Harrisburg.  After I passed the New Kingston exit while still traveling east I spotted off to my North out of the corner of my eye what appeared to be a light pink aura moving below cloud level to the point that it refracted the color off the bottom of the cloud cover, to appear as if it was in the clouds.  It was traveling from North West in a South Eastern direction.  I was traveling 65mph and at this point, I followed it until it went over my car and then coming back into view through the front windshield of my car.  It could’ve been at least 1500 feet from the ground and the speed was that of a slow moving commuter flight.  I followed it as it moved out of my viewing distance as it was traveling south east and keeping my eye on it and the road was nearly impossible.  I can honestly say that I do not believe that it was a jet flight due to the fact that there were no FAA lights on it or giving the appearance of an aircraft of any sort.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60769.html](http://www.nuforc.org/webreports/reports/060/S60769.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Mt. Morris (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>We were walking into our house and in the northwestwest sky we observed a circular orange color mass with flames that appeared to be floating.We looked away and then looked back and it was gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21023.html](http://www.nuforc.org/webreports/reports/021/S21023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
