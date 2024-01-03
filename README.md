@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:33 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:32 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Reddish lights or fireballs seen moving from west to east in Austin, Texas.Two lights or fireballs went across the sky moving quickly from west to east.  The lights traveled one after the other, in the same direction, same trajectory, and at about the same speed, burning out or disappearing around the same duration.  They were a light reddish in color with some flare.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116479.html](http://www.nuforc.org/webreports/reports/116/S116479.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Temecula (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>blue circle over the skys of temecula flashed and never seened againi was walking witha friend of mine to his house when i saw a blue circle in the sky ...it flashed then disappeared really fast i couldnt even see it any more , i stood there and said wtf and my friend said what whats wrong and i told him he said my face got really white then we went home wondering wft it was</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60649.html](http://www.nuforc.org/webreports/reports/060/S60649.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
