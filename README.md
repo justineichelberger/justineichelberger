@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately  -  minutes.</sub><blockquote><sub>5 white dots flashing in the sky in a "Y" formation at 9:45 pm..Saturday night my boyfriend and I were planning on going to a mini car show on 51 Bell Rd. by freddys burger shop and we arrived around 9:45 pm at the parking lot.  Right when we parked, another fellow friend came up to our vehicle and pointed out something in the sky!  So we both watched the circular shaped flashing balls pulsing in the sky there were about 5 of them in a Y shaped formation orbiting in the sky it was about 10 minutes.  But I remember 3 mins in I did notice that 2 disappeared from the bottom of the Y. and so there were 3 on top like a V-shape balls lighting up.  It goes on for awhile.  But after ten minutes we left that area and drove off to another location.  I've heard of people seeing this object in the sky before but this is the first time I've caught it with my own eyes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116523.html](http://www.nuforc.org/webreports/reports/116/S116523.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Tramore (Ireland) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Variable fireball that stopped and hovered then flew away and faded awayIt looked like a plane on fire at first but it would stop in 1 possition for to long to be. I taped a video on my phone but it is of bad quality. It was bright in the sky, even with cloud cover, for about 5 minutes.It started high in the sky then moved in a what can be judged as diagonal downward left motion as I was facing NW direction it then hovered and this the part I got on video then as it faded it moved back up diagonally right in the direction it had come from.It's light intensity varied at irregular intervals like a fire ball.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67845.html](http://www.nuforc.org/webreports/reports/067/S67845.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
