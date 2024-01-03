@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:23:58 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:11 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in unknown (VT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 21 miites - 21 miites minutes.</sub><blockquote><sub>there were twelve spectrum organized spherical shapes that distorted my perception of distancethere were twleve glowing spheres, they were orginized into the visible light color spectrum. they were either very small and close, or very far away. my perception of distant was very distorted. i ran to my car to get mt camera, but it seemed like i couldnt get to my car, the car was not far away, but it seemed very far away. when i looked back at the spheres i saw that none of them had color anymore, i rubbed my eyes to see if it was me, and the spheres began to fade away, in about ten seconds they were gone.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48947.html](http://www.nuforc.org/webreports/reports/048/S48947.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Simsbury (CT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A slow moving and hovering triangular shaped object with multiple bright white lights and one red lightOn Jan 3 at 2340 I was traveling on south bound on Terry Plains Road in Simsbury and saw a low flying triangular object hovering along the ridge line then it moved slowly north. I lost sight of the object in the trees so I turned my car around and proceeded to follow the path of it.  In a clearing after the trees I saw it again just hovering and proceeded to travel slowly north. It had multiple white lights with one red light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106005.html](http://www.nuforc.org/webreports/reports/106/S106005.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
