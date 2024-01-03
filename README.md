@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:43 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 3 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ada (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I took a small bag to our poly cart already at the curb in front of the house for next day pickup. My eye caught a blinking light in the dark NE sky. I realized the light would blink in various spots within an area of the sky vs traveling in a straight line. Suddenly a bright reddish light, a dot, comes on for about 2 seconds and is off. Then lower and to the right of that spot an equally bright white light shows up above the horizon slowly traveling and then goes off. This is all above the horizon to the NE in the direction of Tulsa. Based on past observations of storm clouds and comparing the observations to the weather radar I would estimate the lights to have been near but South of I-40. I mentioned this to my wife when I returned inside. Later I heard your report on C2C of a UFO sighting from Tulsa, OK and decided when I had the opportunity I would file this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152254.html](http://www.nuforc.org/webreports/reports/152/S152254.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in West Warwick (RI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Sighted three white to bluish lights that came to a stationary halt -watched for 15 min. & fell asleep.I was staying up late and retiring to bed at 2:40. As I looked thru my gridded front window I saw what appeared to be like three (3) white lights in the night sky decending in altitude. The lights halted and remained stationarry for about 15-20 minutes, when I fell asleep. Sightings were by naked eye (could not find my field glasses. I know the object was stationary after moving, because my reference point was two of the grill squares in the window and my head in bed was stationary. No planes to my knowledge opearte to providence airport during these wee morning hours and I doubt a helicopter was in the area. The lights were all I could see and they were white to bluish white and constantly on. The craft was too far away to judge if there was any noise involved.  When Stationary - it was between 2 and 2:30 o"clock from true North and elevation was 30 to 40 degrees Azimuth (elevation)  I now have my field glasses and if this repeats I will be prepared to be more specific.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60689.html](http://www.nuforc.org/webreports/reports/060/S60689.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [302](http://www.nuforc.org/webreports/reports/161/S161452.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161639.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161431.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161653.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161459.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
