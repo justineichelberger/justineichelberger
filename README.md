@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:43 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cedar Rapids (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Two very bright white lights come close together in the northwest sky and one dissapears...I saw something strange tonight when I left the Marion construction office where I was working this evening at 7pm.  I drove south on 11st Street and headed out on East Post Rd to turn east on 30th St.  That’s when I saw two very bright white lights in the northwest sky; one positioned not far above the other.  At first glance I thought they were stars or perhaps a plane and a star, but then I realized they were both positioned unusually low in the sky. The top light appeared to ‘dart’ in its movement.  As I drove into more darkness I could see what looked like a faint beam pointing down to the lower, more southern light.  Then it appeared the top light began moving up and away from the bottom light, and at the same time it’s bright white light changed to numerous red lights (like the underneath of plane.) Within seconds these lights were totally gone from sight!!  Only the bottom bright light remained and it was moving very slowly as if it was floating alon! g.  As I continued to drive eastward this light grew dimmer and dimmer and within about 5 minutes it appeared to be in one place now, with no movement.  About 10 minutes past as I pulled into my driveway (I live on a hill) I took a last look into the northwest sky and could see the dim light appearing to remain static.  I am really wondering what the heck this was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73980.html](http://www.nuforc.org/webreports/reports/073/S73980.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Dallas (OR) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Buring orange sphere burning out over Salem OregonMyself and friends outside when we saw a bright orange in color sphere moving alround.Looked like the craft was in trouble unable to keep stable. It then looked like sparks where falling from it. Then it just vanished! Helicopters are now in the area.. and we have called the authorities and noone seems to know whats going on.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41393.html](http://www.nuforc.org/webreports/reports/041/S41393.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
