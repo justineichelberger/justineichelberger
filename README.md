@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:41 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Fort St. John (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>flash of light a white beem at the end opened a blue starshap opening and vanishI was talkin to a boss at work &and seen a bright flash then a beam start at about a 10 o clock and go down to a 930 positon then the light seemed to open a BLUE star or diomond shape opening and disappear it was rufflie east /south east.  I have had sightings of strange things in the sky before but this was diffrent vary cool to see IF IT WAS NOT THEN WHAT WAS IT meteors do not do that.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125809.html](http://www.nuforc.org/webreports/reports/125/S125809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chesapeake Bay (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately hour - hour minutes.</sub><blockquote><sub>I WOULD LIKE TI BRING TO YOUR ATTENTION, THE DEATH'S OF THOUSANDS OF FISH IN THE CHESAPEAK BAY THE FISH WERE ALL YOUNG FROM ONE TO THREE YEARS OLD,  I THOUGHT IT HAD TO BE CONECTED TO THE EVENT'S IN ARKANSAS AND OTHER STATES OF THOUSANDS OF BIRDS DROPING DEAD,  I BELIEVE THE DEATH'S OF THE BIRD'S AND FISH ARE BEING CAUSED BY RADIATION FROM EITHER UFO'S OR SOLAR FLARES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79547.html](http://www.nuforc.org/webreports/reports/079/S79547.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
