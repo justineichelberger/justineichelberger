@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:18 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:10:25 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>One elongated, rectangular, drone-like UFO with red and green blinking lights traveling West well above the treeline.Moments after putting my car in park after coming home (having used no substances and being well rested), I glanced out of my window and saw one rectangular, drone-like object with red and green lights throughout the body traveling West well above the treeline.  Lights flickered but no quicker than the tick of a clock.  I opened my car door and refocused my eyes while standing and watched the craft travel at a constant speed until it was out of sight in the suburban landscape.  I could see one steady trail via the lights of the UFO.  Its shape was an elongated rectangle--perhaps a 1:4 ratio length to width traveling nose first.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144287.html](http://www.nuforc.org/webreports/reports/144/S144287.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Austin (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Driving on rt 183 north west   saw very very bright light in circle in night sky was clear sky  jan 4 1226 am  it was moving in same direction  and got very big stopped moving then shot up and gone OMG fast</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145740.html](http://www.nuforc.org/webreports/reports/145/S145740.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
