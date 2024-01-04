@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kennewick (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Observed three fireballs in triangular formation.  Objects were moving slowly accross sky.  NNW heading.  Hovered for 3 to five minutes.  Before fading up and to the west.  Objects made no noise like a rocket would.  At first glance it appeared as a plane on fire.  But when object hovered and made no descent, but Instead ascended.  Myself and witness could make no sure deduction as to what we were seeing other than UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125120.html](http://www.nuforc.org/webreports/reports/125/S125120.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1975, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Witnesses saw a bluish-white-light emitting spherical object on the ground a few feet from the edge of a feeder road alongside IH45 So.I was driving north on IH45 So. from Galveston to Houston the first Sunday in January 1975.  My mother, 12 yr old brother, 6 year old son, and 3 yr old niece were with me.  We had been visiting my grandparents and had left at 10:00 pm.  (THE TIME IS VERY IMPORTANT.  WE ALWAYS LEFT AT 10PM BECAUSE THAT'S WHEN MY GRANDPARENTS WATCHED THE 10:00 NEWS AND IT WAS OUR SIGNAL TO GO HOME.)  At that time I always drove in the right or slower lane.  It was clear - no rain or fog.  We were coming to the exit to Ellington AFB which was approx. 2 miles to our right or east of the freeway.  I saw a well-lit object on the ground to our right and pointed it out to my family.  I pulled onto the shoulder and was trying to talk my brother into getting out with me to take a closer look.  My mother became hysterical and insisted I get back on the highway and so I did.  No one else stopped during this time, although I could see cars coming in the opposite direction from Houston and on the exit overpass. At that time, the area was not developed as it is now.  It was mostly used for cattle to roam about and feed on.  An almost continuous barbed wire fence about 4 ft high ran alongside the feeder road about 10 feet from the curb.  The fencing had been there for years.  The object was in front of a small grove of trees on the opposite side of the fence from us.  We could see the upper part of it but not the bottom and I am assuming this was because of the uncut grass and bushes that usually grew up alonside the fence.  The object was about 20 ft wide and 10 ft high.  It emitted a bluish-white light from the entire object.  I could tell it was round because the light was rotating in a counterclockwise pattern (my left to right as I viewed it), reflecting off the treetops when it got to the most extreme right of the object and before it reappeared on the left.  The best comparison I can make is that of a lighthouse.  I could make out rectangles set longside down, rounded edges rather than squared off, and set within a thin frame.  Each was the height of the object and several feet long.  The entire object emitted this light and in addition, each rectangle got extra bright in the counterclockwise sequence, one after the other.  This was also apparent when the light was reflecting off the trees.  We didn't hear any sounds, but we had our windows rolled up.  That's about it!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05450.html](http://www.nuforc.org/webreports/reports/005/S05450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
