@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chandler (Yuma Co.?) (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately <8 - <8 minutes.</sub><blockquote><sub>Traveling west on I-8, when my friends and I noticed bright lights behind us. When we looked behind us we realized it was a UFOMy friends and i were on our way back to base, traveling down I-8. About 5 minutes after we passed though Chandler, we notice some extreamly bright lights behind us. At first we thought that it was another vechile pulling on to the hghway, until we looked behind us. Our intensions were to tell the driver to turn off his brights but then we realized that wasn't a car. We watched the item hoover behind us for a few moments then shoot off towards the south and disappear. We know this can't an aircraft from our panet becuase it was so low to the ground (no higher than 10 feet) but we felt no rumbling of the truck, and heard no air craft noises like that off a plane. Also when it flew off it flew much faster than any aircraft I'd ever seen-and I see them everyday being in the military. This was undoubtingly a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55916.html](http://www.nuforc.org/webreports/reports/055/S55916.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Winchester (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>my girlfriend had pointed out the window to the sky and asked if i could see what looked to be the north star in the wrong direction.it looked stationary at first glance to looking as if it was a meteor burning up. but it slowed down and slowly started to look as if it was two stars rotating tightly together as they fell slowly not a min later the direction slightly changed and it looked as if it projected 3-4  single orange tear drops down faster than the orbs were moving which lasted maybe a split second with a couple seconds between each teardrop. after the 3-4 teardrops the orbs changed back to it original fall direction as the two rotating orbs rotating pattern started to slow as it looked like they slightly spread exposing a glimse of white light and then flickerd as one shape for about a min and disapeared. whole experience was 5-6 minutes.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79522.html](http://www.nuforc.org/webreports/reports/079/S79522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
