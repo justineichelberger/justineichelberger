@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:38 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blue Hill (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Appeared to be a green fireball with a tail shooting from the east towards the southwest into Blue Hill Bay.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106062.html](http://www.nuforc.org/webreports/reports/106/S106062.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Chandler (Yuma Co.?) (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately <8 - <8 minutes.</sub><blockquote><sub>Traveling west on I-8, when my friends and I noticed bright lights behind us. When we looked behind us we realized it was a UFOMy friends and i were on our way back to base, traveling down I-8. About 5 minutes after we passed though Chandler, we notice some extreamly bright lights behind us. At first we thought that it was another vechile pulling on to the hghway, until we looked behind us. Our intensions were to tell the driver to turn off his brights but then we realized that wasn't a car. We watched the item hoover behind us for a few moments then shoot off towards the south and disappear. We know this can't an aircraft from our panet becuase it was so low to the ground (no higher than 10 feet) but we felt no rumbling of the truck, and heard no air craft noises like that off a plane. Also when it flew off it flew much faster than any aircraft I'd ever seen-and I see them everyday being in the military. This was undoubtingly a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55916.html](http://www.nuforc.org/webreports/reports/055/S55916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
