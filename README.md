@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:35 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Longview (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Saw two "hovering" objects in the sky that had different colored lights on them.At about 8:00p.m. on Mon. Jan. 4, 1999, my husband and I were returning home from the grocery store.  Just as we were about to pull into the driveway, I asked him to stop and look at a "star" that seemed to be flashing.  Once he had stopped the car, we could tell that the object wasn't flashing, but were lights that were changing colors.  We got our binoculars (we had just sold our telescope), and could see a circular object with four different lights on it: blue, green, red, and either orange or yellow.  Thinking that our friends may have a telescope, we called them to say we were coming over.  On our way over, my husband asked me to keep my eye on the objects, and that is when I noticed another one.  It was the same distance up in the sky, but seemed to be farther away because it was not as brilliant.  They were probably a mile or two apart.  When we got to our friend's house they came outside to look and saw exactly the same thing.  The brightest of the objects was slightly below the "little dipper" and lined up with one side of it.  The objects were not flying, but maybe hovering.  It was hard to tell because of the distance.  We all watched them for a while and went inside because it was cold.  We checked on them periodically throughout the night and they never moved, even though the "little dipper" did because of the Earth's rotation.  The next morning, Icould faintly see one of them, but it was much harder to see the lights because of the sunlight.  Later that afternoon, they were both gone.  The witnesses included myself, a college student on the Dean's List, my husband, a drafting instructor at a college, and our friend's who are a housewife and a computer programmer.  I also noticed a plane (not a commercial jet) fly very close to the brightest object about 30 minutes after I first spotted it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05291.html](http://www.nuforc.org/webreports/reports/005/S05291.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Blue Hill (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Appeared to be a green fireball with a tail shooting from the east towards the southwest into Blue Hill Bay.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106062.html](http://www.nuforc.org/webreports/reports/106/S106062.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
