@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:55 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Chesapeake Bay (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately hour - hour minutes.</sub><blockquote><sub>I WOULD LIKE TI BRING TO YOUR ATTENTION, THE DEATH'S OF THOUSANDS OF FISH IN THE CHESAPEAK BAY THE FISH WERE ALL YOUNG FROM ONE TO THREE YEARS OLD,  I THOUGHT IT HAD TO BE CONECTED TO THE EVENT'S IN ARKANSAS AND OTHER STATES OF THOUSANDS OF BIRDS DROPING DEAD,  I BELIEVE THE DEATH'S OF THE BIRD'S AND FISH ARE BEING CAUSED BY RADIATION FROM EITHER UFO'S OR SOLAR FLARES.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79547.html](http://www.nuforc.org/webreports/reports/079/S79547.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Williams (OR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>I am submitting this to confirm other possible sighting reports about a flash of bright light (emanating around an even brighter white center) south of of Grants Pass, Oregon this evening at about 18:00 hours, just above the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161462.html](http://www.nuforc.org/webreports/reports/161/S161462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
