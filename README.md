@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:37 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Morehead (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Strange flashing lights in the sky in South East KentuckyOn Thursday Jan 04, 2008 a few friends and I noticed a strange light in the sky. This light was in the South East sky and we noticed it around 7:45 PM.  The light was very bright and seemed at first to be a plane or helicopter of some kind but we noticed it wasn’t moving. If it was moving it was at such an altitude we could not tell. Like I said the light was very bright. The light was blinking red, blue, and white. From the blinking you could see what appeared to be a triangle of light creating itself every time it blinked. The light seemed to get brighter and blink in a pattern – we watched it for awhile (approx. 30 min) and then went inside.While watching the light moved back and forth in sudden motions approxiamtely 1/2 inch the sky.  Approx at 9:30 we went to see if the light were still visible in the sky it had moved more south and wasn’t blinking as much. We at first thought this might be a plane or helicopter. We ruled that out as we could see other planes in the sky at what appeared to be the same altitude and they were moving much faster. We also thought it might be a tower of some sort since at first it was stationary. We ruled that out when we watched several planes fly across the path of the light and it moved. Our next thought was maybe it was some astronomical event so we researched the news, Google Earth’s sky charts, and other astronomy databases. We didn’t find anything remotely close to the area except for Sirius and the description did not match what we witnessed. We also checked the alignments of the planets and noticed the planets were in a straight line on Google Earth - but the only visible one was Mars. We had been watching Mars for a week or so now so we have been watching the sky. We lined up Mars with Orion's belt to see if we could locate this flashing light  - but we could not. As the time passed the light did not follow the path of the other stars and did seem dimmer. We didn’t want to report it to the local news out of fear of being laughed at but we wanted to know if you people had any other reports of a similar affect. Also if you had not what this light might have been.Thank you  ((name and e-address deleted))((NUFORC Note:  Possibly Sirius??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60661.html](http://www.nuforc.org/webreports/reports/060/S60661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Statham (GA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>One deep blue and orange sphere moving at an arc downward.The object was mostly a deep blue color with bright orange and yellow around the trailing edge.  It moved in an arc down towards the ground.  It appeared to have gone down somewhere on Hwy 316 estimating from my house.  There was no sound.  The sphere was the size of a full moon but in closer proximity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144298.html](http://www.nuforc.org/webreports/reports/144/S144298.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
