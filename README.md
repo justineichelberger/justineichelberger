@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 4 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:51 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Berea (OH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>red fire in the sky 1 or 2.I saw a.huge fireball or huge red circle in the night sky.  I don't know if there were 2 of them or if it was the same one.  It lasted for a couple of seconds.  Did anyone see this?!((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106019.html](http://www.nuforc.org/webreports/reports/106/S106019.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Seligman (near) (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Cigar Shaped objects east of Seligman, AZ on I40 EastAt 17:30 hours on 01/05/04 myself and two others were sitting at a gas station in my car filling up i'd say roughly about 40-50 miles east of Seligman, AZ when I noticed 2 white/gray cigar shaped objects hovering one above the other over the mountain range north of us.  I looked at them briefly and assumed they were weather balloons and turned away.  A split second later my friend screamed at me and said   "oh my god, one of them just exploded", to which I turned back and saw that the second cigar shaped object hovering at the lower altitude had turned bright red and began to fall from the sky towards the mountain range.  About half way through the fall object number two disappeared.  After that I saw object number 1 which was also white/gray in color turn a bright red and lower itself in altitude so it was only slightly hovering over the mountain range.  At this point I determined this was neither an airplane or a weather balloon. By this time we were back in the car driving east on the I40.  I then saw object number one fly lateral with the mountain range across an incredible amount of distance at an amazing speed.  I estimate that it moved across 75 degrees of mountain range in roughly 5-10 seconds.  The cigar shaped object appeared to be approximately 1/10-1/20 the diameter of the moon.  It then disappeared when it hit the end of the mountain range and we were all in shock in the car.  We then drove for about 5 more minutes when we looked back at the end of mountain range and saw 6 bright red cigar shaped objects appear in a circular fashion for about 3-5 seconds and then disappear.  We never saw anything after that.  It was an extemely desolate area and I believe we were the only ones on the road.  We took pictures hanging out from the car but I am not sure if they came out.  They are currently being developed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34321.html](http://www.nuforc.org/webreports/reports/034/S34321.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [281](http://www.nuforc.org/webreports/reports/161/S161471.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161473.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161462.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161475.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161457.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
