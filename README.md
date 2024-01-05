@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We witnessed 3 bright objects flying in a circular pattern which at first we thought were birds.  But we realize that the objects were very high in the sky.  They look to be at least Maybe 2000 to 3000 ft over head is my guess.  They were flying in close proximity to one another making large circles and started to pulsate and glow off and on.  We were standing there looking in the sky trying to figure out what the objects were.  Then objects started moving East from our area where we first saw them.  They were still pulsating off and on and moving Eastward.  Seemed that we’re over head at first,then far away before we knew it.I told a young lady that had witnessed the same thing to get a video of the objects before they disappear out of view.  Which we have.  By the time she started recording the objects were faraway from where we were at.  They seem like stars.  Then one object stayed on it seemed and started traveling in a straight line going southern direction.  Came to a st! op.Which at this time it looked like a bright star in the sky.  I was focused on that object when all of a sudden to the left of object another object started to glow like the first one.  They were at the same level ina straight line.  Then they disappeared.  Afterwards, I had notice on my sunglasses yellow dust was on my lens and powder of some sort was on my black hoodie sweater.  If someone wants to collect samples let me know and I won’t wash it.It was a clear sunny day and could see the objects very clearly..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144410.html](http://www.nuforc.org/webreports/reports/144/S144410.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>small airplane like, light, all of a sudden turn hugh and then speed off like a shooting star.It appeared to be an airplane.It looked like a star/ airplane lights- just the main ones, not the collored lights. I saw it in the sky to my left going east on hwy110. It got really bright as if it was coming my direction. All of a sudden it "blew up" to approximately 10-20 times the size. A second later it speed off to the right (going south) really fast. It was really high in the sky, I think. It at first looked like a comet, but I would have heard of it, they don't come that close to earth, and when it speed of it apeared to be a shooting star. I think it had a greenish tint to it when it moved, not when it "exploded" though. It all happened sort of fast, but I can not explain it. I have saw another ufo a year or so ago, but I did not report it. But I would really like to know if any one else saw it/ what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15853.html](http://www.nuforc.org/webreports/reports/015/S15853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
