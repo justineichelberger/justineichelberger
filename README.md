@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:31 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Black silent triangle hovering over a field.I witnessed a black triangle; it has three lights a light on each end of the triangle.  It was silent and stationary in the air.  I was by myself when it happened, I was heading north and stopped my car and witnessed it to the north east hovering over a field, I would say it was 100 yards away and was 200 feet off the ground.  All of my gadgets in my car starting going haywire like the radio turned on and off by itself.  It stayed there for about five minutes before zooming away to the North West.((NUFORC Note:  We spoke via telephone with this witness, and he sounded to us to be quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79542.html](http://www.nuforc.org/webreports/reports/079/S79542.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Detroit (MI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We witnessed 3 bright objects flying in a circular pattern which at first we thought were birds.  But we realize that the objects were very high in the sky.  They look to be at least Maybe 2000 to 3000 ft over head is my guess.  They were flying in close proximity to one another making large circles and started to pulsate and glow off and on.  We were standing there looking in the sky trying to figure out what the objects were.  Then objects started moving East from our area where we first saw them.  They were still pulsating off and on and moving Eastward.  Seemed that we’re over head at first,then far away before we knew it.I told a young lady that had witnessed the same thing to get a video of the objects before they disappear out of view.  Which we have.  By the time she started recording the objects were faraway from where we were at.  They seem like stars.  Then one object stayed on it seemed and started traveling in a straight line going southern direction.  Came to a st! op.Which at this time it looked like a bright star in the sky.  I was focused on that object when all of a sudden to the left of object another object started to glow like the first one.  They were at the same level ina straight line.  Then they disappeared.  Afterwards, I had notice on my sunglasses yellow dust was on my lens and powder of some sort was on my black hoodie sweater.  If someone wants to collect samples let me know and I won’t wash it.It was a clear sunny day and could see the objects very clearly..((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144410.html](http://www.nuforc.org/webreports/reports/144/S144410.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
