@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:16 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:32 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very bright light from east, shoots off in to north sky?Driving east on I-94, just past Sargent road I saw a light I thought was a planet just above the horizon at "one o'clock" my driving direction. This light started very small and was very bright. I was driving about 65 mph, I rolled down the window, it was pretty warm. After Willis road the light was "nickel" sized at arms length and at "eleven o'clock" above my side view mirror. At the Weigh Station (it was open), the light was at "nine o'clock", half-dollar sized, very bright. Suddenly, it shot straight up, leaving a bright streak on my eye, it was gone. It dissappeared, it didn't fade out. It kind of freaked me out, I felt scared and very emotional. It felt like a couple of seconds, but it was at least 3-4 miles of driving at 65mph? As I was watching I noticed partly cloudy conditions, with clear above that. A couple of planes at average altitudes with blinking lights were coming from east and west. I kept expecting to see airplane lights on this light. From several angles there were no other lights or form. At the brightest, this light had a dark band in the middle that could be seen. Upon driving back past this area, Waterloo Recreation area, I noticed that it is a particularly dark area (between Ann Arbor and Jackson) no towers or airports in this area. Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15793.html](http://www.nuforc.org/webreports/reports/015/S15793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bridlington (UK/England) () reported seeing craft that fit the description of some 'Flash' over a period of approximately on/off for approximatly 2 - on/off for approximatly 2 minutes.</sub><blockquote><sub>Bridlington, EnglandI was in my room talking to my boyfriend on the phone when i heard a noise that sounded VERY close. It sounded as if it was down my street kind of the noise a plane would make i guess but more of a consistent humming noise it was very loud and seemed to keep getting louder and louder then stopping completely then about 2minutes later it would return. I guess I am the only witness i put 2 because my boyfriend could hear the sound on the phone. I was really quite scared at this time it didnt cross my mind that it would be a UFO or anything i was thinking more like a helpicopter crash landing at first but then when it stopped and came back again (it repeated this cycle about 3 or 4 times, i had no idea what it could be and i didnt dare look. It got quieter and seemed to be further away so i finally got the courage to go look out the window and i saw a really bright flash of light so i backed up from the window and ran out the room woke my parents up and told them what had happened, they thought i had been dreaming because i looked shocked as if id just has a nightmare. My boyfriend was still on the phone because id just left it on my bed while i looked and he said he had heard a high pitched machine like noise then heard me open my bedroom door so must have been when i ran out. When my parents went to check nothing was there i spent the rest of the night downstairs watching tv and havent heard/seen anything since. I asked my parents to ask the neighbours about it and they just asked are next door ones and they said they hadnt heard anything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41829.html](http://www.nuforc.org/webreports/reports/041/S41829.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
