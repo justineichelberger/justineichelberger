@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:30 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>small airplane like, light, all of a sudden turn hugh and then speed off like a shooting star.It appeared to be an airplane.It looked like a star/ airplane lights- just the main ones, not the collored lights. I saw it in the sky to my left going east on hwy110. It got really bright as if it was coming my direction. All of a sudden it "blew up" to approximately 10-20 times the size. A second later it speed off to the right (going south) really fast. It was really high in the sky, I think. It at first looked like a comet, but I would have heard of it, they don't come that close to earth, and when it speed of it apeared to be a shooting star. I think it had a greenish tint to it when it moved, not when it "exploded" though. It all happened sort of fast, but I can not explain it. I have saw another ufo a year or so ago, but I did not report it. But I would really like to know if any one else saw it/ what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15853.html](http://www.nuforc.org/webreports/reports/015/S15853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Reno/Sparks (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw two bright fire lights shoot up to the sky at a fast steady rate until they disappeared behind the clouds.My sister and brother-in- were walking to my car to leave for the store. When my sister-in-law said to look up ahead at some lights going up in the sky.  We both instantly looked towards the sky about south, southwest, and saw 2 huge bright fire lights going up in the sky at a fast steady pace.At first, one of them was going a little faster than the other.  Then after a minute they were even with each other. They kept going at the same pace the whole time.  And they stayed the same brightness until we couldn't we couldn't see them passed the clouds.We aren't quite sure what it was.  One of us said maybe lanterns or hot air balloons, but they were going pretty fast and in a steady direction.  It was barely breezy out, and about 27F degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95841.html](http://www.nuforc.org/webreports/reports/095/S95841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
