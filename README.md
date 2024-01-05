@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Milliken (CO) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving from installing a laminate floor in Loveland, Co.  It was about 6:45pm I was coming down on highway 34 towards.  The West of Greeley while all the sudden I see 3 spheres of of light hovering very close to what it seem to be the town of Milliken Co.  The spheres were going were very bright!  And would move from side to side after about 4 minutes or so the started to disappear one following the other.  It's not the first time I've seen these lights.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138312.html](http://www.nuforc.org/webreports/reports/138/S138312.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seymour (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Intense ball of white light that changed shape from a ball to a line, to a  pyramid in three minutes observed.Bright ball of white light brighter than starlight.  Changed from a circle to a triangle of lights.  Looked like a pyramid moving through the sky.  Changed shape three times in a period of three minutes observed.  From a ball of light to a line of light then to a pyramid .  Then faded as it moved quickly away.  Left no sound.  Leaving us astonished and shakened.Remembered UFO center from Friday nights report on Coast to Coast am.  Decided it was serious enough to report.  Friend took video on smart phone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125109.html](http://www.nuforc.org/webreports/reports/125/S125109.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
