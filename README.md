@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:37 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:36 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morris Plains (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 bright gold an red colored lights in arrow formations.  Seen near Morristown, NJDriving home near interstate 287 northbound. pulled over to watch the lights. lights lasted about 15-20 minutes then shot off into distance. short video taken with camera.  Both myself and the passenger experienced awe as we watch. Neither of us have seen anything remotely close to this before. The lights must have been visible for miles.  Lights changed in pattern and shape throughout the 20 minutes or so.((NUFORC Note:  Please see video of the five red lights, provided by this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67899.html](http://www.nuforc.org/webreports/reports/067/S67899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.26666666666666666 - 0.26666666666666666 minutes.</sub><blockquote><sub>I was taking my dog out at 2:23 AM on 01/05/07 and while looking to the East toward Liberty, Missouri.I saw the weirdest thing I have ever seen in the sky.  I saw what I first believed to be a star.  However, about three seconds into looking at the star it disappeared.  I then noticed this same light reappear several miles to the Southeast of where I first saw it.  Then the light disappeared again.  The next time I saw the light was about five seconds later.  The light was almost exactly where I saw it the first time.  I thought this was odd flying for an aircraft, especially at this odd hour of the morning.  It almost felt like the object knew or sensed that I was watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54506.html](http://www.nuforc.org/webreports/reports/054/S54506.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
