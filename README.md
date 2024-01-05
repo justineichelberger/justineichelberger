@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:36 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:53 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kansas City (MO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 0.26666666666666666 - 0.26666666666666666 minutes.</sub><blockquote><sub>I was taking my dog out at 2:23 AM on 01/05/07 and while looking to the East toward Liberty, Missouri.I saw the weirdest thing I have ever seen in the sky.  I saw what I first believed to be a star.  However, about three seconds into looking at the star it disappeared.  I then noticed this same light reappear several miles to the Southeast of where I first saw it.  Then the light disappeared again.  The next time I saw the light was about five seconds later.  The light was almost exactly where I saw it the first time.  I thought this was odd flying for an aircraft, especially at this odd hour of the morning.  It almost felt like the object knew or sensed that I was watching it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54506.html](http://www.nuforc.org/webreports/reports/054/S54506.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Highland (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>(Source: Cinde Costello, MUFON SSD, San Bernardino County, So. Calif.)Mr. S.C. was proceeding to pull out of a driveway into traffic on Del Rosa Ave. in Highland (east of San Bernardino) when he looked to the north and saw what he first thought to be a giant black bird hovering over the San Bernardino Mountains in the vicinity of Lake Arrowhead.  He quickly discerned that it wasn't a bird and grabbed his 7X binoculars he keeps in his vehicle for a closer look.  He described the object as black, cylindrical with "seagull-like" wings.  Size estimated to be 3-inches long at arms length.  Duration of sighting approx. 3-4 minutes from the time he first noticed it until he watched it shrink down to pin point size while still viewing it through binoculars. Object was clearly over the mountains suggesting an altitude of approx. 7500-8000 ft.  The witness stated that he'd seen alot of strange lights in the sky before but nothing he couldn't attribute to normal aircraft or stars, this one was different.  He said it made a believer out of him. ((NUFORC Note:  Thank you for the report, Cinde!  Peter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09996.html](http://www.nuforc.org/webreports/reports/009/S09996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
