@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>small airplane like, light, all of a sudden turn hugh and then speed off like a shooting star.It appeared to be an airplane.It looked like a star/ airplane lights- just the main ones, not the collored lights. I saw it in the sky to my left going east on hwy110. It got really bright as if it was coming my direction. All of a sudden it "blew up" to approximately 10-20 times the size. A second later it speed off to the right (going south) really fast. It was really high in the sky, I think. It at first looked like a comet, but I would have heard of it, they don't come that close to earth, and when it speed of it apeared to be a shooting star. I think it had a greenish tint to it when it moved, not when it "exploded" though. It all happened sort of fast, but I can not explain it. I have saw another ufo a year or so ago, but I did not report it. But I would really like to know if any one else saw it/ what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15853.html](http://www.nuforc.org/webreports/reports/015/S15853.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morris Plains (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 bright gold an red colored lights in arrow formations.  Seen near Morristown, NJDriving home near interstate 287 northbound. pulled over to watch the lights. lights lasted about 15-20 minutes then shot off into distance. short video taken with camera.  Both myself and the passenger experienced awe as we watch. Neither of us have seen anything remotely close to this before. The lights must have been visible for miles.  Lights changed in pattern and shape throughout the 20 minutes or so.((NUFORC Note:  Please see video of the five red lights, provided by this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67899.html](http://www.nuforc.org/webreports/reports/067/S67899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
