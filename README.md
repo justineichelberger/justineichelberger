@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in District Heights (MD) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>4 Lights seen in formation then 3 light combined in to one leaving just 2 light then in split second it form again into 4 light movement was stationary then appears to move back and front this took place&for about 20 to 30 minutes it appears to be happening on a nightly &bases may 3 to 4 Times weekly it also appears not be visible to the naked only notice when recording with my phone camera.  It is extremely odd to the fact then airplane and helicopters fly in this area a lot but not sudden change of lights when this happens also notice.    When this happen to dog in the neighborhood go nut I have 3 dogs and when I let them to go to bathroom they start to growl.  Am not so what is going in my area, but seems to extreme activity going on recently I myself and others have experienced strange humming noise threw out the night what I do know is these are helicopters or plane it appears that the Maryland area up and down highway 495 which central avenue a main thorough street seems to have a serious issue which this type of activity goin on in recent week goin back to the late summer of 2016 there is definitely something gonna on in this area and I'm never been more sure that it is if I activity happening here & just not sure why I'm also positive others have seen just maybe to scared to report lots of humming sound threw out the day and night.((NUFORC Note:  Date indicated above is flawed, and we have amended it.  PD))((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132043.html](http://www.nuforc.org/webreports/reports/132/S132043.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morris Plains (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 bright gold an red colored lights in arrow formations.  Seen near Morristown, NJDriving home near interstate 287 northbound. pulled over to watch the lights. lights lasted about 15-20 minutes then shot off into distance. short video taken with camera.  Both myself and the passenger experienced awe as we watch. Neither of us have seen anything remotely close to this before. The lights must have been visible for miles.  Lights changed in pattern and shape throughout the 20 minutes or so.((NUFORC Note:  Please see video of the five red lights, provided by this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67899.html](http://www.nuforc.org/webreports/reports/067/S67899.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
