@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:48 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Morris Plains (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>5 bright gold an red colored lights in arrow formations.  Seen near Morristown, NJDriving home near interstate 287 northbound. pulled over to watch the lights. lights lasted about 15-20 minutes then shot off into distance. short video taken with camera.  Both myself and the passenger experienced awe as we watch. Neither of us have seen anything remotely close to this before. The lights must have been visible for miles.  Lights changed in pattern and shape throughout the 20 minutes or so.((NUFORC Note:  Please see video of the five red lights, provided by this witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67899.html](http://www.nuforc.org/webreports/reports/067/S67899.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in UK/Scotland () reported seeing craft that fit the description of some 'Diamond' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>EXTREMELY BRIGHT ILLUMINATED & DIAMOND SHAPED AND RIGHT ABOVE MY CAR!5th January 2010..appx 7.15 pm I was driving home from a town called DALRY, AYRSHIRE in SCOTLAND towards my home in ARDROSSAN on a country road during and noticed a stationary light in the sky..As I reached the turn off to drive over to Ardrossan the light moved towards me..At that point I stopped my vehicle and what I can only describe as a large DIAMOND shaped craft flew silently over my car.....difficult to guage the size..but I estimate maybe half the size of a soccer pitch...Craft was maybe 100 feet above my car..COMPLETELY silent..NO noise whatsoverand had a large red light at front of base..and a large green light at rear of base ...I was in shock and tried to call my wife as to what I was seeing..My phone signal went when the crafy flew over my car...then the craft veerered to the right and I lost it behind a hill..At that point my cell phone signal came back on..I am STILL in shock as to what I have just seen...This was NO plane or any normal craft ! I have EVER seen in my life....and I just can't believe it.I assure you this is a genuine reporting..I am just in shock</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73989.html](http://www.nuforc.org/webreports/reports/073/S73989.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
