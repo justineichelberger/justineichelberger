@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:30 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:21 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Reno/Sparks (NV) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We saw two bright fire lights shoot up to the sky at a fast steady rate until they disappeared behind the clouds.My sister and brother-in- were walking to my car to leave for the store. When my sister-in-law said to look up ahead at some lights going up in the sky.  We both instantly looked towards the sky about south, southwest, and saw 2 huge bright fire lights going up in the sky at a fast steady pace.At first, one of them was going a little faster than the other.  Then after a minute they were even with each other. They kept going at the same pace the whole time.  And they stayed the same brightness until we couldn't we couldn't see them passed the clouds.We aren't quite sure what it was.  One of us said maybe lanterns or hot air balloons, but they were going pretty fast and in a steady direction.  It was barely breezy out, and about 27F degrees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95841.html](http://www.nuforc.org/webreports/reports/095/S95841.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some '' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw three beings about 4ft tall looking into a cars window.  They spotted my dog an I walking toward them.they lined up, one behind the other and floated one foot off the ground .lost sight of them in between 2 houses.i went to find them, they were gone. help me.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/073/S73760.html](http://www.nuforc.org/webreports/reports/073/S73760.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
