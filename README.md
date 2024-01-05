@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:53 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Highland (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>(Source: Cinde Costello, MUFON SSD, San Bernardino County, So. Calif.)Mr. S.C. was proceeding to pull out of a driveway into traffic on Del Rosa Ave. in Highland (east of San Bernardino) when he looked to the north and saw what he first thought to be a giant black bird hovering over the San Bernardino Mountains in the vicinity of Lake Arrowhead.  He quickly discerned that it wasn't a bird and grabbed his 7X binoculars he keeps in his vehicle for a closer look.  He described the object as black, cylindrical with "seagull-like" wings.  Size estimated to be 3-inches long at arms length.  Duration of sighting approx. 3-4 minutes from the time he first noticed it until he watched it shrink down to pin point size while still viewing it through binoculars. Object was clearly over the mountains suggesting an altitude of approx. 7500-8000 ft.  The witness stated that he'd seen alot of strange lights in the sky before but nothing he couldn't attribute to normal aircraft or stars, this one was different.  He said it made a believer out of him. ((NUFORC Note:  Thank you for the report, Cinde!  Peter</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/009/S09996.html](http://www.nuforc.org/webreports/reports/009/S09996.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in St. Paul (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>small airplane like, light, all of a sudden turn hugh and then speed off like a shooting star.It appeared to be an airplane.It looked like a star/ airplane lights- just the main ones, not the collored lights. I saw it in the sky to my left going east on hwy110. It got really bright as if it was coming my direction. All of a sudden it "blew up" to approximately 10-20 times the size. A second later it speed off to the right (going south) really fast. It was really high in the sky, I think. It at first looked like a comet, but I would have heard of it, they don't come that close to earth, and when it speed of it apeared to be a shooting star. I think it had a greenish tint to it when it moved, not when it "exploded" though. It all happened sort of fast, but I can not explain it. I have saw another ufo a year or so ago, but I did not report it. But I would really like to know if any one else saw it/ what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15853.html](http://www.nuforc.org/webreports/reports/015/S15853.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
