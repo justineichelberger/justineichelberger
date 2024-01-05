@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:30 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:16 on 5 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bloomington/New Unionville (between) (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>On my way home from work tonight I saw a slow moving triangle-shaped craft with a white light in each of the three wing tipsHi folks- Well, I saw a very unusual aircraft on my way home from work tonight. From a distance, driving east on Indiana 45, I saw a bright yellow light with a white light, not as bright, next to it [on the same craft] hovering in the sky. There were tiny red lights on top, none on the belly. As I rounded a bend [between Bloomington and New Unionville, Indiana] I saw that the craft was about 50 feet above treetop and crossing the road right to left, directly overhead. I pulled off to watch and noticed other vehicles behind me had also done so. There was no noise - I rolled down my window to listen - nothing. As the craft passed over my car, I got a good look at it against 'night sky light pollution' from Bloomington - it was triangle-shaped, with a white light in each of the three wing tips and appeared to be black in color. A mile or so down the road, the snow looked blown across the road like drifting. The rest of the roadway was clear. I thought "copter" at first, until I saw the thing. Not like any I had ever seen. It seemed like when motorists had pulled off to watch it flew away.((NUFORC Note:  Time appears to be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15832.html](http://www.nuforc.org/webreports/reports/015/S15832.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Jackson (MI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Very bright light from east, shoots off in to north sky?Driving east on I-94, just past Sargent road I saw a light I thought was a planet just above the horizon at "one o'clock" my driving direction. This light started very small and was very bright. I was driving about 65 mph, I rolled down the window, it was pretty warm. After Willis road the light was "nickel" sized at arms length and at "eleven o'clock" above my side view mirror. At the Weigh Station (it was open), the light was at "nine o'clock", half-dollar sized, very bright. Suddenly, it shot straight up, leaving a bright streak on my eye, it was gone. It dissappeared, it didn't fade out. It kind of freaked me out, I felt scared and very emotional. It felt like a couple of seconds, but it was at least 3-4 miles of driving at 65mph? As I was watching I noticed partly cloudy conditions, with clear above that. A couple of planes at average altitudes with blinking lights were coming from east and west. I kept expecting to see airplane lights on this light. From several angles there were no other lights or form. At the brightest, this light had a dark band in the middle that could be seen. Upon driving back past this area, Waterloo Recreation area, I noticed that it is a particularly dark area (between Ann Arbor and Jackson) no towers or airports in this area. Did anyone else see this?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15793.html](http://www.nuforc.org/webreports/reports/015/S15793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [274](http://www.nuforc.org/webreports/reports/161/S161498.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161503.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161474.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161488.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161508.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
