@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:40 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two orange lights moving due south to due north combining as one then disappearing with no sound.Peter, Upon hearing your comments on C2C with George the other night I have decided to share what I observed with you.  I am 57 years old and not a believer in UFO's.  Around 7:00 p.m I was bringing in firewood from my backyard to my house.  It was completely dark.  As I was walking up my driveway, I saw two lights approaching me from due south above my neighbor's roof line.  At first, I thought they were helicopters with their search lights on. This seemed odd because you always hear a helicopter before you see one.  The lights appeared to be about 500 feet, but ORANGE in color.  There was NO sound!  They were parallel in flight as they approached me.  Suddenly, the light on the right moved diagonally and fell in behind the other light.  They then traveled inline until the rear light collided, or was absorbed by the first.  When I turned my head to watch the singular light directly above my head it completely vanished.  This could not have been a Japanese lantern.  I told my wife and next door neighbor what I saw.  Neither believed me.  As I mentioned earlier, before this occurrence, I never witnessed or believed in UFO's.  Could this be some kind of military hologram?  I do not live in an area close to any Army or Air Force base.  I am only trying to find a rational explanation for what I saw.  Thank you for reading my account.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107213.html](http://www.nuforc.org/webreports/reports/107/S107213.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Racine, WI, lights that moved and copied the night sky in diamond formation.At 12:13am on January 6, 2019, me and my girlfriend saw an object shaped like a diamond with 4 lights directly above us...they appeared to be stars, at first, but only a few hundred feet above.  We stopped the car and got out, as we looked for about 5 seconds out of the car it began to take off slow than really fast till we chased it for 10 seconds in the car before we lost sight of it headed over Milwaukee...  Object moved like a stealth plane making no noise and made turns left to right normal air crafts don't. but again I could see thru it as it copied the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144324.html](http://www.nuforc.org/webreports/reports/144/S144324.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
