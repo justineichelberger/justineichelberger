@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:05 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fruita (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>saw 5 lights or glowing orange yellow and red orbs lights you could say for about 15 minsMe and my friend were standing out side of the house and we saw the first one at around 7:45 pm and we saw five altogether it was about 15 or so mins that we saw all five.  They were yellow orange and red and they all looked adout the same. And there was air plains in the sky at that time.  Ok the first and second one went from left to right at different times and they didn't go straight but same direction. Then two came up from the monument from what i and my friend could tell and went up and disappeared into thin air like the ones befor it. And then a couple mins latter another popped up and did the same as the last two and vanished. None of them went straight just kind of went in that direction. It was amazing. Never saw anything like it</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86404.html](http://www.nuforc.org/webreports/reports/086/S86404.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Nashville (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Green light quickly shoots across sky and changes direction before fading.Standing outside in East Nashville, and in my view appeared a green light moving quickly.  I thought it could be a fireball, but it was bright green and changed direction at the last second.  It only streaked for a second.  It was too high up and too fast to be a firework.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125149.html](http://www.nuforc.org/webreports/reports/125/S125149.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
