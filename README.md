@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:46 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:42 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Chesapeake (VA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>A large white disk shaped object hovering or floating  in sky  on a clear morning and then it vanished.On an early clear morning.  I was standing in my door way of my mobile home and looking up at the SE direction of the clear blue sky I noticed a large white disk shaped object hovering or floating in the sky at a close distance.  I kept my eyes focused on the craft to look for blinking lights to make sure it wasn't an airplane but I didn't see any lights at all, it was just solid white.  I thought it was very unusual and as I kept my eyes focused on the object it just suddenly disappeared. It didn't fly away like an airplane, the craft or object just vanished.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106695.html](http://www.nuforc.org/webreports/reports/106/S106695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 140</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144376.html](http://www.nuforc.org/webreports/reports/144/S144376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
