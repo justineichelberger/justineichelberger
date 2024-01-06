@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:36 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canoga Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright white light, even glowing object, the size was about two 747 airplaines nose to tailDriving north on Topanga Canyon Road, just over the tree tops in a residential area, their was a very bright light I would even say it was glowing.  I just saw a side profile, so I could not make out the shape.  Then the trees block my view, so as I went around less the 100 feet, the object was gone.  If it would have crashed, it  would have been in a residential area.  It was no a helicopter, because the object was long, probably, the size of two 747 airplanes, but made no noise.  Also, if it was a light point up from the ground, you would have seen a trail from the light.  Whatever it was, it was something I've never seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95908.html](http://www.nuforc.org/webreports/reports/095/S95908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 UFOs Over Miami 1/6/07On the night of 1/06/2007 approximately at 20:00 hrs I finished installing a light  on the front of my house the night was clear with few clouds then I look up to the sky and I notice a  ray  of light in the sky descending from south to north at first I thought it was a meteor falling  so I decided to keep looking up expecting more meteors about a minute past but nothing happen  then  the trail of the meteor tail or ray it had disappeared very fast after it was initiated then I notice the first object moving from north to south  it was moving from where the light  had ended it looked like a star shape white and bright yellow at that altitude it looked like a star it moved at a very high speed  I thought it was a satellite passing by but the star object started to zigzagging  trough the stars changing directions moving always from north to west  and every time it accelerated it stopped the object stop 4 times,  then I noticed a second object parallel to the first object just separated by the length and distance of the ray light or the meteor tail I observed the second object was moving  from south to west at a very high speed not stopping  then both objects stopped at the same time parallel to each other  and disappeared into the sky all this events  took approximated about five minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54623.html](http://www.nuforc.org/webreports/reports/054/S54623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
