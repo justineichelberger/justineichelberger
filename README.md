@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:42 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Miami (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>2 UFOs Over Miami 1/6/07On the night of 1/06/2007 approximately at 20:00 hrs I finished installing a light  on the front of my house the night was clear with few clouds then I look up to the sky and I notice a  ray  of light in the sky descending from south to north at first I thought it was a meteor falling  so I decided to keep looking up expecting more meteors about a minute past but nothing happen  then  the trail of the meteor tail or ray it had disappeared very fast after it was initiated then I notice the first object moving from north to south  it was moving from where the light  had ended it looked like a star shape white and bright yellow at that altitude it looked like a star it moved at a very high speed  I thought it was a satellite passing by but the star object started to zigzagging  trough the stars changing directions moving always from north to west  and every time it accelerated it stopped the object stop 4 times,  then I noticed a second object parallel to the first object just separated by the length and distance of the ray light or the meteor tail I observed the second object was moving  from south to west at a very high speed not stopping  then both objects stopped at the same time parallel to each other  and disappeared into the sky all this events  took approximated about five minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54623.html](http://www.nuforc.org/webreports/reports/054/S54623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Montclair (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>burning or bright object not falling to earth but moving back to space moving from east horizon to west horizon less 10 sec.Moving from east to west, start to finish 10 sec in and out of atmosphere glowing as heating but not burning... i.e. light never faded. please send response ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26926.html](http://www.nuforc.org/webreports/reports/026/S26926.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
