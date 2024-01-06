@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Racine (WI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Racine, WI, lights that moved and copied the night sky in diamond formation.At 12:13am on January 6, 2019, me and my girlfriend saw an object shaped like a diamond with 4 lights directly above us...they appeared to be stars, at first, but only a few hundred feet above.  We stopped the car and got out, as we looked for about 5 seconds out of the car it began to take off slow than really fast till we chased it for 10 seconds in the car before we lost sight of it headed over Milwaukee...  Object moved like a stealth plane making no noise and made turns left to right normal air crafts don't. but again I could see thru it as it copied the night sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144324.html](http://www.nuforc.org/webreports/reports/144/S144324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Woodinvile (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Flashing lightI live on the east side of the hill looking over the valley towards Duval Wa. and the Cascade mountains. Pulling the curtains closed for the night I looked out and into the the sky over the cascades. I do this habitually as we live under a commercial flight path and on a clear night you can sometimes see several commercial craft stacked & staggered. Low in the sky at an altitude of what my eyes told me was just a small cesna was a very bright erratically flashing light that seemed to be jumping up & down and from side and heading West sraight towards us! Yelled for my wife to come see. Stepped out the door & watched as it turned to the South and was obscured by the trees. This light was moving right along but I wouldn't say it was going faster than a conventional craft. A few weeks before this a navy jet, think they call them A6's flew over the valley only showing ulta bright strobs on the wing tips. This jet was so low you could not discern it from the trees untill it zoomed dirctly overhead. I thought at the time somebody must have thought it to be a ufo. It sure lit up the sky in an eerie way. This might explain the unidentified light I saw. OH yes, the flashing light made no sound I could hear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15930.html](http://www.nuforc.org/webreports/reports/015/S15930.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
