@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:32 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Montclair (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>burning or bright object not falling to earth but moving back to space moving from east horizon to west horizon less 10 sec.Moving from east to west, start to finish 10 sec in and out of atmosphere glowing as heating but not burning... i.e. light never faded. please send response ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26926.html](http://www.nuforc.org/webreports/reports/026/S26926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Two orange lights moving due south to due north combining as one then disappearing with no sound.Peter, Upon hearing your comments on C2C with George the other night I have decided to share what I observed with you.  I am 57 years old and not a believer in UFO's.  Around 7:00 p.m I was bringing in firewood from my backyard to my house.  It was completely dark.  As I was walking up my driveway, I saw two lights approaching me from due south above my neighbor's roof line.  At first, I thought they were helicopters with their search lights on. This seemed odd because you always hear a helicopter before you see one.  The lights appeared to be about 500 feet, but ORANGE in color.  There was NO sound!  They were parallel in flight as they approached me.  Suddenly, the light on the right moved diagonally and fell in behind the other light.  They then traveled inline until the rear light collided, or was absorbed by the first.  When I turned my head to watch the singular light directly above my head it completely vanished.  This could not have been a Japanese lantern.  I told my wife and next door neighbor what I saw.  Neither believed me.  As I mentioned earlier, before this occurrence, I never witnessed or believed in UFO's.  Could this be some kind of military hologram?  I do not live in an area close to any Army or Air Force base.  I am only trying to find a rational explanation for what I saw.  Thank you for reading my account.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107213.html](http://www.nuforc.org/webreports/reports/107/S107213.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
