@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Arlington/Marysville (WA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>As a pilot I recognized these as aircraft landing lights, but they never moved.Three bright lights north of Lakewood Dr., approx. 2.5 mi. NW Arlington, WA.  Appearedt to be landing lights of aircraft approx 1,800'.  AGL 3 white one rotating red., but stayed in same position for 3-5 minutes.  Extremely bright as an aircraft landing, but never moved.  Faded after a few minutes</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125179.html](http://www.nuforc.org/webreports/reports/125/S125179.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Easton (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Saw bright light while driving girlfriend home and after telling her to film it, it disappeared.My girlfriend and I were driving on Old Mill Road in Forks Township.  We noticed a big bright light in the sky and thought it was Venus.  Upon closer examination, the light had a weirdness about it.  It hung in the air in a way that suggested it was in the atmosphere and not a star or planet.  After telling my girlfriend to film it, we drove past trees that covered our view.  After making a turn on Wagonwheel, we regained a full view of the sky but the object had disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125172.html](http://www.nuforc.org/webreports/reports/125/S125172.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
