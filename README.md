@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large bright white light over downtown PhoenixMy fiancee and I first noticed the very bright large white light in the night sky upon walking out to get in our car to go to the store. It was South-west in the sky and about half again as high above the downtown buildings as the planes after they level off from Sky Harbor. In fact we watched several commercial liners and a helicopter fly in the approximate area of the sky only lower during this "sighting".Basically it was caught our eye because it was so big and so bright-it grew dimmer very gradually till it just faded out from view about 10 minutes after I left the car to go into the store-on my way in-I showed a clerk to look up at it-and she tried to figure out what she was seeing as well.  There were no blinking lights, just one bright white light about 10 times brighter and larger than any typical star in the sjy-but there were no other stars in the sky at the this time. The light never appeared to move-just faded out. It seemed to just "hang" there.((NUFORC Note:  We wonder whether the witness intended a date in 2004, not 2003.  We have amended the date above.  The object may have been Venus, which is in the western sky during the early evening.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34325.html](http://www.nuforc.org/webreports/reports/034/S34325.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Canoga Park (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very bright white light, even glowing object, the size was about two 747 airplaines nose to tailDriving north on Topanga Canyon Road, just over the tree tops in a residential area, their was a very bright light I would even say it was glowing.  I just saw a side profile, so I could not make out the shape.  Then the trees block my view, so as I went around less the 100 feet, the object was gone.  If it would have crashed, it  would have been in a residential area.  It was no a helicopter, because the object was long, probably, the size of two 747 airplanes, but made no noise.  Also, if it was a light point up from the ground, you would have seen a trail from the light.  Whatever it was, it was something I've never seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95908.html](http://www.nuforc.org/webreports/reports/095/S95908.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
