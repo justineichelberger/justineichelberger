@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:20 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hesperia (SSE of) (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Orange, non-blinking hovering object seen at approx 9:45 pm  1/6/2004 for approx 7 mins in Southern California (Hi Desert area)At approx. 9:45 pm - 1/6/2004 - my husband exited front door (facing westly direction) for a smoke, sat on bench at front door.  Looking up and above noticing cloud cover, casually looking to SSE, noticing large ORANGE, NON-BLINKING, HOVERING object - under the clouds. This could have been seen over Big Bear Resort area of CA. It moved VERY slowly, NW, Hovered for few seconds, then very slowly moved back then shot straight up thru the clouds.((NUFORC Note:  Date apparently is approximate, although we do not understand that fact.  The witness submitted the report on the date of the occurrence.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34331.html](http://www.nuforc.org/webreports/reports/034/S34331.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 140</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144376.html](http://www.nuforc.org/webreports/reports/144/S144376.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
