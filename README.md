@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:42 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Montclair (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>burning or bright object not falling to earth but moving back to space moving from east horizon to west horizon less 10 sec.Moving from east to west, start to finish 10 sec in and out of atmosphere glowing as heating but not burning... i.e. light never faded. please send response ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26926.html](http://www.nuforc.org/webreports/reports/026/S26926.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1989, an anonymous witness in Bünde (Birdwood Barracks) (Germany) () reported seeing craft that fit the description of some 'Circle' over a period of approximately Unclear - Unclear minutes.</sub><blockquote><sub>Two red lights circling around a solid dark mass hanging sationary in the night sky.This "Sighting" occured whilst I was serving in the armed forces. Late one evening I remember walking accoss the parade square, returning from the naffi were I had purchaced cigarettes, must have been about 22:00 Hrs, As I walked between two vehicle Hangers I looked up and saw two small red lights about 20 or 30 feet apart. I thought at first they were radio antennas, but then was puzzled as I remembered my unit didn´t have any and certainly not placed on top the vehicle hangers. I stood for a moment, watching these sationary lights, trying to work out what they could be. Then to my alarm they appeared to move closer towards me (the distance between them closed very slowly). As I continued to stare at the lights they apeared to very slowly rotate around some sort of solid body between them although the lights appeared to remain sationary!There was no sound!(difficult to explain) As to what happened next I am unsure- I rememeber being extremely Scared( this was one of the few times in my life i was so scared AND I MEAN SCARED! thats why i can still remember it to this day.)I then remember walking back to my accomadation in the the early morning and I belive I then went to bed. The reason I taken so long to tell anyone is I don´t know what happened in between. I have always supposed it was just a bad dream I cannot forget but after nearly 12 years I had to tell someone even if it was a computer screen, you don´t have to use this information, but it just felt good telling it!((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/017/S17253.html](http://www.nuforc.org/webreports/reports/017/S17253.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
