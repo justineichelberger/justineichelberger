@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:16 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Marietta (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright light go's threw 1/2 the sky and over the horizen in 5 sec.Me and my father was pumping the oil well and I was looking up in the sky at the stars and I said dad look at that light up in the sky , it is going really fast . It was a bright white /yellow light . It covered 1/2 the sky distance in 5 sec. and we watched it go out of sight over the horizen . The light was not flashing  , it was on the whole time . At first I thought that it was a falling star but when it went the intire distance of the sky I knew that it wasn't . There was no tail , just a bright light going very fast .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15817.html](http://www.nuforc.org/webreports/reports/015/S15817.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in El Segundo (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>High speed ball follows jet, and becomes two smaller objects.I observed a lear jet, approx 3-5000 feet and climbing,traveling southwest probably out of Hawthorne airport. I then saw a black ball about 1/3 the size of the jet approach at a very high speed from the east. I thought I was seeing a missle heading for the jet. Then the object stopped, and began following the jet !  At that point I said to my friend, "what the hell is that"? He replied, a UFO! The object followed the jet for about 5 seconds, then the object split into 2 objects!(Horizontally or left and right)  These objects were half the size of the original ball, and looked either white or metallic, as they now looked to have the same reflectivity as the jet. We watched these two smaller spheres follow the jet for approx. 5 more seconds until the three objects traveled out of our range of sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34367.html](http://www.nuforc.org/webreports/reports/034/S34367.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
