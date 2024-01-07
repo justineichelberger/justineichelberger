@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:33 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:37 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sparta (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange looking circle traveling south east over Sparta wi.  No apparent sound noticedand a smaller lite figure above and behind bigger orange circle.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132069.html](http://www.nuforc.org/webreports/reports/132/S132069.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waterford (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Floating Craft zooms away as I stop to look at it, weird!i was driving south from my home on a road with few houses. I saw some red lights and a white light in the trees ahead of me. As I drove up to these lights they were completely stationary making no noise, and i would say about 100 feet off the ground. I 100% thought these were radio towers or cell towers that someone one put up today. I completely stopped the vehicle and put my window down. As soon as I did this the object made a slight roaring noise and accelerated extremly quick to the north. As it flew north it gained altitude and speed untill I could no longer see it.  It had a steady red light on what I would call the front of the craft, a blinking red light on the tail of the craft and a steady white light on the bottom. I could not see the actual craft or its shape, but the orientation of the lights allowed me to make out front back and bottom.  Truly the oddest experience I have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41424.html](http://www.nuforc.org/webreports/reports/041/S41424.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
