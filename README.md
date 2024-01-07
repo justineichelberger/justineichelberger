@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:16 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright Fire Object moving over city in Downey, CaliforniaIt first appeared very low, looked like a clear plastic ball with a burning fire inside. When we first saw it it looked large and was flying low. As it moved rapidly over, it began to get smaller and then paused in one place for about 3 or 4 minutes.  It started to move again back from where it started from then it disappeared.  I caught about 13 seconds of video on my phone and 2 still pictures.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54661.html](http://www.nuforc.org/webreports/reports/054/S54661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Marietta (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Bright light go's threw 1/2 the sky and over the horizen in 5 sec.Me and my father was pumping the oil well and I was looking up in the sky at the stars and I said dad look at that light up in the sky , it is going really fast . It was a bright white /yellow light . It covered 1/2 the sky distance in 5 sec. and we watched it go out of sight over the horizen . The light was not flashing  , it was on the whole time . At first I thought that it was a falling star but when it went the intire distance of the sky I knew that it wasn't . There was no tail , just a bright light going very fast .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15817.html](http://www.nuforc.org/webreports/reports/015/S15817.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
