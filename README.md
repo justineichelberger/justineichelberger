@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:37 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:35 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Waterford (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Floating Craft zooms away as I stop to look at it, weird!i was driving south from my home on a road with few houses. I saw some red lights and a white light in the trees ahead of me. As I drove up to these lights they were completely stationary making no noise, and i would say about 100 feet off the ground. I 100% thought these were radio towers or cell towers that someone one put up today. I completely stopped the vehicle and put my window down. As soon as I did this the object made a slight roaring noise and accelerated extremly quick to the north. As it flew north it gained altitude and speed untill I could no longer see it.  It had a steady red light on what I would call the front of the craft, a blinking red light on the tail of the craft and a steady white light on the bottom. I could not see the actual craft or its shape, but the orientation of the lights allowed me to make out front back and bottom.  Truly the oddest experience I have.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41424.html](http://www.nuforc.org/webreports/reports/041/S41424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1971, an anonymous witness in Tewksbury (MA) reported seeing craft that fit the description of some '' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Nothing in nature or manmade could have produced this light on the same night as other sightings in the area.This is something I never reported before. There were numurous sighting from Stoneham, MA to southern New Hampshire the same night. I was about 12-13 playing in a sand pit a quarter mile behind my house as my parents were saying goodbye to my brother and his wife in the driveway. There was nothing behind our house at the time but woods for about 4 miles. As we began to walk back, a very intense white light hit us from behind. I remember seeing my shadow directly in front of me, so I knew it was behind me, not above me. It only lasted a couple of seconds. By the time I turned around all I saw was the light going out just above the treeline. There was absolutely no sound at all. We got very scared and ran back home. My parents, brother and wife saw what looked like 50 cars in the woods with thier lights on high beam. This made no sense, since there was only woods for about 4 miles. The next day, we read about the other sightings. We walked out to investigate the next day and found nothing. I realize this doesn't sound like much, but perhaps it could correlate with another sighting.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/014/S14380.html](http://www.nuforc.org/webreports/reports/014/S14380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
