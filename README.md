@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:40 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chawton (Hampshire) (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Completely silent White circular orb/sphere witch later had a comet like tailWas outside my home with my Camcorder when I noticed an all white circle hanging stationery in the sky (started to film it)the object then began to drop slowly at an angle toward's cloud's when it reached the cloud it skirted along the top of it heading westward's it's centre seemed to pulsate as it went and it changed it's size later on it come out of the bottom of some more cloud and twice flashed out when it did this it got bigger then went back to original size it appeared to have a comet like tail behind it as it headed westward's for a brief period before stopping and changing direction going eastward's after a brief period it stopped still and increased in size later I stopped filming it but did not stay to see object go.((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43812.html](http://www.nuforc.org/webreports/reports/043/S43812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Andover (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary Chevron Shaped Object visible above tree top level...At approximately 6:00 pm (EST) on January 7, 2005 I was driving north on route 125 (approx. 1 mile south of the intersection with route 114). When bright lights in the sky caught my eye. At first I thought this might be a plane but, as I drove closer I realized it was stationary. My next thought was could it be a helicopter? No, as there was no sound from blades. As I got closer I could see that the object was Chevron in shape hovering about 150 feet above ground level. It had 2 very bright white lights positioned in it's center front section with no additional red or green lights. As I passed beneath the object I could see an orange/gold glow illuminating it's bottom surface. It appeared to be rather large I would estimate it at some 300 feet wide and 50 to 75 feet from front to back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41873.html](http://www.nuforc.org/webreports/reports/041/S41873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
