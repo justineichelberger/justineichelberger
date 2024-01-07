@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:17 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:28 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in New Mexico (southeast) (NM) reported seeing craft that fit the description of some '' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Telephoned Report:((Both witnesses have requested anonymity, so NUFORC has deleted the town/city where the witnesses were located, and not included any personal data here))Report:  Two witnesses were out walking in semi-rural New Mexico, when their attention was suddenly drawn to a dramatic event overhead.  They were walking and facing north, and a very bright meteor crossed the clear night sky, originating behind them and to their right, and traveling generally to the northwest.  It was very bright, one of them reported. The interesting part of the event is that both witnesses were able to hear the event at the same instant they were watching it, even though the object that caused the event, if it was a meteor, was many tens of miles above their heads.  Technically speaking, because sound travels at approximately 1,000-1,100 feet per second, the witnesses should not have been able to "hear" the event until many minutes later.  For technical reasons, we know that one of the witnesses was not able to see the event; he only heard it.  For a short summary of what have come to be referred to as "electrophonic meteors," please see our home page, or click here for the NASA article on the subject:  http://science.nasa.gov/headlines/y2001/ast26nov_1.htm?list49634The phenomenon of "electrophonic" meteors is not at all well understood, but strong evidence seems to indicate that witnesses at ground level are, in fact, often able to "hear" meteors at the same time that they see them high in the atmosphere. ((NUFORC Note:  We express our gratitude to several scientists at Sandia National Laboratories in Albuquerque, NM, for providing the sky camera image of the event and the data about the event that their instruments captured.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21388.html](http://www.nuforc.org/webreports/reports/021/S21388.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Athens (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and a friend woke up to go get breakfast and were walking down to the store.  I look up to see a ball of light which at first glance looked like a star, but I noticed that it was moving, along with another dimmer ball of light adjacent to the brighter one.  One was an even dimmer, barely noticeable if you weren't looking at it.  It was either low flying or very large in size, it was too dark out to really tell.  The triangular shape object disappeared shortly after we spotted it.  It moved at a slow rate, almost like a drifting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152381.html](http://www.nuforc.org/webreports/reports/152/S152381.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
