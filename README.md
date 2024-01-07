@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>looking  on google map looking for ufos in the sealook from delaware up to rhode island on  google map  look off the cliff to the cracks in the wall zoom in on the sea wall  at 10mi  20km  u will  see makeings  on the  floor    and  on the cliff</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74002.html](http://www.nuforc.org/webreports/reports/074/S74002.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dozens of uniform, same speed, random pattern white lights heading west.  Lasted 15 minutes.  Assumed this sight would be blowing up from it, as several of my friends on social media saw them as well!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152421.html](http://www.nuforc.org/webreports/reports/152/S152421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
