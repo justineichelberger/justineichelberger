@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:28 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Athens (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Me and a friend woke up to go get breakfast and were walking down to the store.  I look up to see a ball of light which at first glance looked like a star, but I noticed that it was moving, along with another dimmer ball of light adjacent to the brighter one.  One was an even dimmer, barely noticeable if you weren't looking at it.  It was either low flying or very large in size, it was too dark out to really tell.  The triangular shape object disappeared shortly after we spotted it.  It moved at a slow rate, almost like a drifting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152381.html](http://www.nuforc.org/webreports/reports/152/S152381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Sparta (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange looking circle traveling south east over Sparta wi.  No apparent sound noticedand a smaller lite figure above and behind bigger orange circle.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132069.html](http://www.nuforc.org/webreports/reports/132/S132069.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
