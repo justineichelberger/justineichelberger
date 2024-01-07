@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:40 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Jal (NM) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I got out of my car and I am always scanning the night sky for suspicious activity.  I spotted to the west in the dark morning sky what I tough was a meteor falling.  I told my other fellow oilfield employee to look up and verify what I was seeing.  It became apparent that what we were both looking at was no falling meteor but a sneak like formation of lights that resemble a sneak and appeared to be moving in unison.  The approximate 10 seconds the incident lasted it created a light show for me and my coworker we have never seen in our lifetime.  We both tried to record the sneak formation yellow lights with our cellphones but they conveniently disappeared in the dark morning sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152374.html](http://www.nuforc.org/webreports/reports/152/S152374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Chawton (Hampshire) (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Completely silent White circular orb/sphere witch later had a comet like tailWas outside my home with my Camcorder when I noticed an all white circle hanging stationery in the sky (started to film it)the object then began to drop slowly at an angle toward's cloud's when it reached the cloud it skirted along the top of it heading westward's it's centre seemed to pulsate as it went and it changed it's size later on it come out of the bottom of some more cloud and twice flashed out when it did this it got bigger then went back to original size it appeared to have a comet like tail behind it as it headed westward's for a brief period before stopping and changing direction going eastward's after a brief period it stopped still and increased in size later I stopped filming it but did not stay to see object go.((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/043/S43812.html](http://www.nuforc.org/webreports/reports/043/S43812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
