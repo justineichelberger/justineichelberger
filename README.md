@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:31 on 6 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:40 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Largo (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 140</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144376.html](http://www.nuforc.org/webreports/reports/144/S144376.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alejuela (Costa Rica) () reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>multiple star shape objects moving over volcano range, groups of 2 at time , 5 times within 15 minutesI was at a park in centro alajuela with my wife and kids, when some close friends of my wife happen to be at the park as well getting ice cream from an ice cream shop.  my wife went to the mcdonald's to get ice cream just before the sighting, and as we were standing and sitting aroung talking over the vocano mountain range of volcano poas comes a bright light followed by another light traveling horizontal.  the second light catches up to the first light and then both lights ascend upward and disappear,followed by another pair, again, and again and then again . At first I thought helicopter but the way they ascended into the heavens and disappeared. then I thought shouting star , but someone said , stars dont ascend ,they shout horizontal.  They appeared to be star shapedabout 4 thousand feet up .  we weren't the only ones to see this, the father in law of the persons to observe this had seen the sdame thing miles away and had asked if any one had seen what he !  Witnessed((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86745.html](http://www.nuforc.org/webreports/reports/086/S86745.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [300](http://www.nuforc.org/webreports/reports/161/S161513.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161566.html)
-- [298](http://www.nuforc.org/webreports/reports/161/S161575.html)
-- [297](http://www.nuforc.org/webreports/reports/161/S161497.html)
-- [296](http://www.nuforc.org/webreports/reports/163/S163854.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
