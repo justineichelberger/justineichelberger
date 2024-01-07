@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:34 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:49 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>sphere flying over traffic congestion in Bakersfield Ca January 05I was traveling to the gym for a morning workout at 8:00 am on Rosedale highway heading east and traffic was heavy. I spotted a flying object which I thought was a helicopter flying at about 1,000 feet elevation. It seemed to be gaining speed and as it neared my vicinity, I was trying to see the blades or the tail of the craft. It was about 1/2 mile away and at 1,000 feet. Thinking it was a helicopter, I thought that it must be on a heading for some crime that occured in our area. But, it didn't slow down. It was picking up speed and then turned northwest and as it did, I could see that it had no wings, tail, or blades. It was shaped like the front of a helicopter and on the back were 3 large round purple sphere. It made no noise and seemed to just glide along. Then, I thought it might be a weather balloon. But, the direction of the winds were easterly at 30 miles per hour due to a rain storm earlier in the am. It was heading against the direction of the wind. It gained altitude about 500 feet and maintained its speed north west. There was no jet trail, or sound of it moving. It was if it was scouting for something or sightseeing our city and the traffic. I took several pictures with my throwaway camera. They have been developed and you can see a small object in the distance in each photo. But, because I used a cheap camera, anything more than a 1,000 feet away is just a spot. I called the airport radar tower. They didn't want to say anthing about it. I called the paper, they just sd send an email and copy of the pic. Oh well, I did see other people in thier cars staring at it. As we were stopped at red light for at least 1 minute. I pulled over and took the pics.If there is anybody else that saw the object this morning. Maybe you also took a  photo. email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41421.html](http://www.nuforc.org/webreports/reports/041/S41421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on my way to drop my son off in Pleasanton, Tx for work, when I looked up and saw a diagonal line / with several lights going in a straight line, almost looking like the side of a disk , but I cant be certain because how straight the line was, I though at first it was a firework about to go off, then noticed it was getting bigger as if it were coming closer, I then leaned forward and my son asked what was a looking at, I still thought I was seeing a shooting star maybe, then noticed it was not going anywhere,  I yelled for him to look as I grabbed his arm, he looked and was as stunned as I was, I said what is that??! He was freaking out, then as I tried to take out my camera we saw it fade to the east of us!!!! I have no reason to lie , I have no reason to make this up, we are now believers of something is out there!! I am SHOOK!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152380.html](http://www.nuforc.org/webreports/reports/152/S152380.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
