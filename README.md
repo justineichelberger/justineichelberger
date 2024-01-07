@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:46 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Monticello (AR) reported seeing craft that fit the description of some '' over a period of approximately several minutes - several minutes minutes.</sub><blockquote><sub>We saw some very unusual events in the sky that possibly involved normal aircraft and un-normal aircraft.We were driving from MCGehee, AR, to Monticello, AR, when we saw several aircraft in the sky.  At first only the "odd objects" were there.  Not long after, there were several objects on either side of the "odd objects".  These objects appeared to be normal aircraft of some kind, but the ones in the middle (the ones there first) were entirely different, in shape, movement, etc.  Maybe I'm crazy......Whatever it was it made enough of an impression on me to make this report.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106102.html](http://www.nuforc.org/webreports/reports/106/S106102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atkins (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green lights over field near Cedar Rapids, Iowa, shot off into spaceWas traveling along the highway near Atkins Iowa, just outside of Cedar Rapids, and looked out of the passenger window to my right seeing what appeared to be a plane sized object with green lights (that obscured the actual shape, about 3 lights from what I could tell) hovering above the field. Upon me noticing the object was oddly stationary it shot up and to the left, giving a 'penny in water' type effect as stuff seemingly moved around it. When it shot off it left a green trail. No further sightings on that drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152418.html](http://www.nuforc.org/webreports/reports/152/S152418.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
