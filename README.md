@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Atkins (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green lights over field near Cedar Rapids, Iowa, shot off into spaceWas traveling along the highway near Atkins Iowa, just outside of Cedar Rapids, and looked out of the passenger window to my right seeing what appeared to be a plane sized object with green lights (that obscured the actual shape, about 3 lights from what I could tell) hovering above the field. Upon me noticing the object was oddly stationary it shot up and to the left, giving a 'penny in water' type effect as stuff seemingly moved around it. When it shot off it left a green trail. No further sightings on that drive.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152418.html](http://www.nuforc.org/webreports/reports/152/S152418.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bottoms Bridge (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>01/07/012 new kent va. a green vapor came across the sky at speed not of this earthwe were traveling home from work down interstate 64 east in new kent va.when my friend said "look" I looked forward out the front glass then what appeared to be a flouresent bright green vapor like craft it moved from north to south very fast fster than any airplane could possibly travel as it reached to the right side of the road it turned in almost a southern direction a with a great burst of speed it shot off into the sky and in a matter of 1-2 seconds completely dissapeared we could see the light (vapor) go from large green mass to a tiny flash as it dissapeared. there was no sound coming from it it looked like something you would see on star wars or something.I'am very sincere I have never experinced like this before but this was defintely a ufo when it was going away from us toward the south it was traveling as fast as light it seemed there was no weather to interfere with what we saw it was as clear as a bell.I can not seem to get it off my mind.I have always been a sceptic about ufo's and always dismissed it as military experiments but this was real((NUFORC Note:  Please see other reports from the east coast for this date.  We suspect a more accurate time for the event may be 17:55 hrs..  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21153.html](http://www.nuforc.org/webreports/reports/021/S21153.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
