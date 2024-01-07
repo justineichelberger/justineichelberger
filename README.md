@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1974, an anonymous witness in Lancaster (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Dozens of uniform, same speed, random pattern white lights heading west.  Lasted 15 minutes.  Assumed this sight would be blowing up from it, as several of my friends on social media saw them as well!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152421.html](http://www.nuforc.org/webreports/reports/152/S152421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>sphere flying over traffic congestion in Bakersfield Ca January 05I was traveling to the gym for a morning workout at 8:00 am on Rosedale highway heading east and traffic was heavy. I spotted a flying object which I thought was a helicopter flying at about 1,000 feet elevation. It seemed to be gaining speed and as it neared my vicinity, I was trying to see the blades or the tail of the craft. It was about 1/2 mile away and at 1,000 feet. Thinking it was a helicopter, I thought that it must be on a heading for some crime that occured in our area. But, it didn't slow down. It was picking up speed and then turned northwest and as it did, I could see that it had no wings, tail, or blades. It was shaped like the front of a helicopter and on the back were 3 large round purple sphere. It made no noise and seemed to just glide along. Then, I thought it might be a weather balloon. But, the direction of the winds were easterly at 30 miles per hour due to a rain storm earlier in the am. It was heading against the direction of the wind. It gained altitude about 500 feet and maintained its speed north west. There was no jet trail, or sound of it moving. It was if it was scouting for something or sightseeing our city and the traffic. I took several pictures with my throwaway camera. They have been developed and you can see a small object in the distance in each photo. But, because I used a cheap camera, anything more than a 1,000 feet away is just a spot. I called the airport radar tower. They didn't want to say anthing about it. I called the paper, they just sd send an email and copy of the pic. Oh well, I did see other people in thier cars staring at it. As we were stopped at red light for at least 1 minute. I pulled over and took the pics.If there is anybody else that saw the object this morning. Maybe you also took a  photo. email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41421.html](http://www.nuforc.org/webreports/reports/041/S41421.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
