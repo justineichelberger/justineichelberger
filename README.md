@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:40 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:41 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Alejuela (Costa Rica) () reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>multiple star shape objects moving over volcano range, groups of 2 at time , 5 times within 15 minutesI was at a park in centro alajuela with my wife and kids, when some close friends of my wife happen to be at the park as well getting ice cream from an ice cream shop.  my wife went to the mcdonald's to get ice cream just before the sighting, and as we were standing and sitting aroung talking over the vocano mountain range of volcano poas comes a bright light followed by another light traveling horizontal.  the second light catches up to the first light and then both lights ascend upward and disappear,followed by another pair, again, and again and then again . At first I thought helicopter but the way they ascended into the heavens and disappeared. then I thought shouting star , but someone said , stars dont ascend ,they shout horizontal.  They appeared to be star shapedabout 4 thousand feet up .  we weren't the only ones to see this, the father in law of the persons to observe this had seen the sdame thing miles away and had asked if any one had seen what he !  Witnessed((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86745.html](http://www.nuforc.org/webreports/reports/086/S86745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Poinciana (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>We were driving south on Pleasant Hill Rd. In Poinciana,  I was in the passenger seat.  I looked up at the sky and seen a bunch of little lights that almost looked like a firework going off far far away.  And then it turned into a red light with a red tail trailing it.  And then it started circling pretty fast but it wasnt red anymore it was like a smokey circle.  As soon as it stopped circling the smoke was completly gone and it turned into two red small stars that looked like regular stars except with a red tint.  About 30 seconds later one of the red stars lit up bright orange amd grew in size and then completly disapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138311.html](http://www.nuforc.org/webreports/reports/138/S138311.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
