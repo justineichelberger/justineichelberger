@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:49 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in San antonio (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was on my way to drop my son off in Pleasanton, Tx for work, when I looked up and saw a diagonal line / with several lights going in a straight line, almost looking like the side of a disk , but I cant be certain because how straight the line was, I though at first it was a firework about to go off, then noticed it was getting bigger as if it were coming closer, I then leaned forward and my son asked what was a looking at, I still thought I was seeing a shooting star maybe, then noticed it was not going anywhere,  I yelled for him to look as I grabbed his arm, he looked and was as stunned as I was, I said what is that??! He was freaking out, then as I tried to take out my camera we saw it fade to the east of us!!!! I have no reason to lie , I have no reason to make this up, we are now believers of something is out there!! I am SHOOK!!!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152380.html](http://www.nuforc.org/webreports/reports/152/S152380.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A red ball of fire flew directly over my car along the coast, where aircraft arn't permitted to fly at a speed of appx. 900 mph	I was driving southbound on Highway 101 in Carlsbad, CA. at approximately 9:25 pm, the air was clear and I can see the lights off int the distance of Point Loma near San Diego clearly.  A red glowing object flew directly over my car.  I thought that it was a meteorite because of the brightness and the way that it seemed to blur as it moved across the sky flying directly southbound along highway 101.  I was driving at a speed of 50 miles per hour and I assumed that it would burn out seconds after I saw it, but it did not, it continued on, in a straight trajectory, not losing any altitude.	The next thought that I had was that it was going as fast as a missile and, living in Oceanside, Ca near Camp Pendleton, it may have come from there.  My confusion turned to concern, knowing that it had no other flashing lights like the jets that land at Carlsbad Airport or the commercial jets that fly southbound along the coast over the ocean.  The only other aircrafts that fly along the coast above the land are the police helicopters that fly over head at times, but mostly over the water.	I continued following it down the coast, rarely taking my eyes off of it so as to keep my car on the road.  The light was very bright at first, like a meteorite, bigger that Venus when you can see it on a clear night and it’s closest to the earth.  I had kept my eyes on it for about 2 minutes when I saw that it had seemed to be flying over the Sea World tower, approximately 30 miles away.  I had reached Leucadia, Ca, and couldn’t see past the cliffs at this point, but at my last view it had traveled far enough so the light was just a speck in the distance.	In my approximations, the light was about 1000 feet from the ground and traveling at a speed faster than the F15s from Miramar Air Force Base. 30 miles in 2 minutes would equal about 900 miles per hour.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116561.html](http://www.nuforc.org/webreports/reports/116/S116561.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
