@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Francisville (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>String of white lights moving in a line across the sky.At approximately 8:30pm 2 adults and one child saw a line of simultaneously blinking white lights traveling faster than an airplane across the sky from the southwest to north-northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152456.html](http://www.nuforc.org/webreports/reports/152/S152456.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1968, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>driving home from old tucson w/ parents looked out window(night)to left saw a round shape with dif. colored lites around come up above a small hill close to me, it paused and went back again.it was very close and very clear. no mistake..ive remembered it all these yearsmy folks and their friends and i went to old tucson for the day and on the way home it was dark. we were about half-way to tucson going through a pass and as i was looking out my backseat left window with nothing to do all of a sudden there it was, there was a small hill to the left of us as we were driving and the craft came from the left side of the hill and i saw its bottom come up over the small hill at a slight angle and saw the round shaped craft with different colored lights all around the perimetor base of it, blue, red, yellow colors. the craft looked to be about only 40-50 yards from us..it came up over the hill, then paused as if it saw us too and then went back down behind the hill to the left again. nobody else saw it and i did not even tell them as i was so shocked or excited and also did not think they would believe me. I was about 12 to 14 years old then. I know this probably sounds like a really faint story but i know what i saw. I saw another one when i was older, about 25-26 years old with about 12 other people, in broad daylite..will submit it too</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12433.html](http://www.nuforc.org/webreports/reports/012/S12433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
