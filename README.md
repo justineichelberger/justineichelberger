@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:22 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:34 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Tomahawk (WV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Spotted back in Tomahawk, past Hedgesville. Hovers about 1,000 foot off the ground and has 2 bright large headlights.  It is circle and it might be a drone but I don't know for sure.  It has been spotted for 3 nights now.  Makes a soft humming sound.  Medium sized aircraft.  Flies very quick and sometimes hovers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116600.html](http://www.nuforc.org/webreports/reports/116/S116600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Cambridge City (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Triangle Headed N over Cambridge CityMy wife and myself were driving E on US 40 just passing downtown Cambridge City when we noticed a large triangular (?) shape craft flying very low in airspace that doesn't make sense.  What I mean is, it at first resembled a commercial airplane considering the size and formation of lights, but it was flying at a height just barely above the trees/power lines and housetops, flying N/NW.  There were 2 white lights where wings of a jet or plane might be, and one red light at the tail that was flashing (hence, forming a triangle).  I know this sounds like a commercial airplane, but there's no way that this "plane" would have been flying so low and without sound to boot.  After noticing these anomalies, we began to chase after it, heading N on Graham Street and E on Delaware to jog over to SR-1 N.  As we headed N on SR-1 and could still see the object for a few minutes, this time flying NE/N, until it was gone above the industrial park just south of the! SR-1/I-70 Interchange.  Looking back on the event, and even though this sighting happened after dark, my wife believes that the object looked, most-likely, that it was in fact 1 or 2 separate objects (accounting for both of the white lights) with the red-lit flashing object in tow.  I couldn't necessarily say that I saw anything between the lights, and she's not saying that she could either, but that made more sense to her senses and what she was actually seeing than it being 1 solid craft.  Again, this is a densely-populated area that would not have seen a commercial-sized aircraft this low EVER - but that was precisely the size of it.  Finally, the lights, while appearing not dissimilar in color and size to that of a plane, had an odd, square-shapedness about them.  I have only seen 2 objects in my life that have made me scratch my head and I look up a lot.  It should be noted that my previous sighting (which I did report to NUFORC with the date of 8/15/02) overlapped with this sighting at the location of Graham St./Delaware St.   Meaning th at the object we witnessed last night passed over nearly the EXACT airspace of my only other previous sighting of a shiny spherical UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144374.html](http://www.nuforc.org/webreports/reports/144/S144374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
