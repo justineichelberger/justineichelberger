@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:56 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Smithtown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large green light flying over Western Smithtown, Suffolk County Long IslandI was driving towards my home street with my girlfriend and while I was talking I saw a large bright green light in the night sky. The light was not exceptionally high in the sky but lower, and flew across the sky away from us. After about 1-2 seconds it completely vanished.  My reaction was "What the f--- was that?!" I asked my girlfriend if she saw it and she did and was freaked out.  I'm skeptical of UFOs and aliens but this was unlike any plane or shooting star I've ever seen and was a large green bright light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86433.html](http://www.nuforc.org/webreports/reports/086/S86433.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in DeQuency (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Swarm of 13 ufo fluttering silently by brightly lit up with lights inside the dome.Me,my three young sons, and my mother were working in the north pasture a few years ago late in the afternoon as the sun was almost down but not quite dark when we all saw 13 glowing white objects floating by a few hundred feet away about the height of a fire tower.We see helicopters occasionaly and you would have expexcted a very loud noise on this very still evening as this fleet passes by so close but there was absolutely no sound and they seemed to fly like a swarm of fireflies fluttering up and down in a random order yet as if in a swarm all going in the same direction and with-in the fluttering there was no bumping or confusion.  I took out my binaculars and watched as they floated by and clearly saw a bubble like dome with a red pulsating to brighter orange light from with in the dome reflecting off a curved metallic shape body of the craft. Nothing earth shaking happen as they continued low and to the west like a flock of birds or butterflies and were gone in a minute or so.  I always wondered if there has been reports like this- or do we have helicopters totally quite?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48869.html](http://www.nuforc.org/webreports/reports/048/S48869.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
