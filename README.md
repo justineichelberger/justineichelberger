@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:41 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Amherst (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Triangle with 3 lights low over Amherst, MAI am sending this report as I have heard and seen the news report of this sighting via WPRO radio via their website in Providence, RI.  The sighting was also just announced on WPRO Talk Radio news today, 01/11/13.  The event took place in Amherst, Massachusetts 'just after dark.'   The actual article can be found on the website for WPRO News with quotes from witnesses and police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95909.html](http://www.nuforc.org/webreports/reports/095/S95909.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 18:53 - 18:53 minutes.</sub><blockquote><sub>Several orange fire balls, some caught on videoMy fiancé called me to come out side as she just got home from work.  She said hury come see these objects.  When I came out there was only three left so I watched for a minute then started to film using my iPhone 4S.  After one went to the north (wind out of the north) it faded out leaving one bright fireball, then she honked the horn and pointed to another one rising from the low eastern sky. The last one finally faded out. I have the video if you would like to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95885.html](http://www.nuforc.org/webreports/reports/095/S95885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
