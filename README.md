@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:41 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:36 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Bountiful (UT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 18:53 - 18:53 minutes.</sub><blockquote><sub>Several orange fire balls, some caught on videoMy fiancé called me to come out side as she just got home from work.  She said hury come see these objects.  When I came out there was only three left so I watched for a minute then started to film using my iPhone 4S.  After one went to the north (wind out of the north) it faded out leaving one bright fireball, then she honked the horn and pointed to another one rising from the low eastern sky. The last one finally faded out. I have the video if you would like to see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95885.html](http://www.nuforc.org/webreports/reports/095/S95885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Stephenville (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>1 MILE LONG BY 1/2 MILE WIDE, TRAVELING AT EST 3,000 MPH, BEING CHASED BY MILITARY AIRCRAFT.NOT WITNESSED BY ME.  KNOW THAT CREDIBLE PEOPLE WERE INVOLVED.  MILITARY AIRCRAFT WERE CHASING THE SECOND APPEARANCE.  A COMPLETE ARTICLE IS IN THE STEPHENVILLE EMPIRE TRIBUNE 1-10-08 EDITION .THIS ONE IS FOR REAL!((NUFORC Note:  Several reports.  Extensive news coverage.  Source of this report appeared with me on the Jeff Rense radio program.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60764.html](http://www.nuforc.org/webreports/reports/060/S60764.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
