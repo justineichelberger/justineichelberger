@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:11:56 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trento (Mt. Palmis) (Italy) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Italian UFOWhilst on a school Skiing trip in Trento, Italy, myself, 8 other pupils, a skiing instructor and locals witnessed a ufo.  At the time we were skiing down mount Alpamis and had just reached th bottom of the mountain when a fellow student pointed out an aircraft which looked like an American stealth plane.  After a few seconds we realised the plane was travelling too slowly to be an aircraft as it seemed to be blown by the wind.  The object was around 0.5 km away from our position at the time.  All the students I was with at the time witnessed this, so did a skiing instructor and a few Italians too.  It seemed to be black/dark grey, with no lights and was not shiney. I estimate the object was the size of a small aircraft and was triangular with rounded off edges.  The next day our ski instructor was interviewed by the local police who told him it was most probably a kite or balloon, but admitted to him that in the past few monts there had been more than 14 sightings of the same description.  It was certainly not a kite as it did not weave around like a normal kite and it was certainly not a balloon as its altitude did not change and was too big.  The objects was at an estimated 400 ft above ground level and left no haze and made no noise, although during the event, a truck behind us was reversing and its sirens were going off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60789.html](http://www.nuforc.org/webreports/reports/060/S60789.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Smithtown (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Large green light flying over Western Smithtown, Suffolk County Long IslandI was driving towards my home street with my girlfriend and while I was talking I saw a large bright green light in the night sky. The light was not exceptionally high in the sky but lower, and flew across the sky away from us. After about 1-2 seconds it completely vanished.  My reaction was "What the f--- was that?!" I asked my girlfriend if she saw it and she did and was freaked out.  I'm skeptical of UFOs and aliens but this was unlike any plane or shooting star I've ever seen and was a large green bright light.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86433.html](http://www.nuforc.org/webreports/reports/086/S86433.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
