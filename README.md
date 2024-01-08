@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:08 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Concord (VT) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Golden Orb light that becomes three, and then six lights hovering over the trees.I was driving along Route 2, headed west to a basketball game.  Right before I came into the town of Concord, I notice movement in my peripheral vision, to my left.  I quickly slowed down and pulled to the side of the road.  For a split second I thought I was seeing fireworks, because the light was rising over the tree tops.  I next expected to see it burst into a pretty display.  But I quickly realized the orb of golden light I was seeing were no longer in motion.  It appeared that the one golden orb, quickly split into three, spaced a short distance apart.  That quickly became 6 orbs, 3 in each group. They were in a line completely even with each other, but hovering over the tree tops.  It was dark out, so the lights were very bright, but not extremely large.  Then they disappeared as quickly as they had formed.  I am an outdoor photographer, and have never seen anything like this in my life.  I have driven this road everyday for over 5 years, and sporadically before ! that for over 15 more.  I still can't process what I saw.  I have told a few people and they suggest that maybe it was a drone, seems those have become so popular lately.  But the lights were spaced at least the distance of a midsized car. I am at a loss, and have no explanation for what I saw, so I figured I would report it to you hoping someone else saw something similar.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116584.html](http://www.nuforc.org/webreports/reports/116/S116584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Louisville (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>White light viewed South of Louisville AR, East of HW 29.  Light came on for a few seconds at a time.As we were driving South on HW29 out of Louisville a light from the East caught our eye.  The light was large and white.  It only came on for a few seconds but we kept an eye out for it and viewed it a total of three times over the next 15 minutes.  We were traveling 60 MPH so it appeared to have been moving South with us.  This is the first sighting for any of us.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54687.html](http://www.nuforc.org/webreports/reports/054/S54687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
