@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 7 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Andover (MA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Stationary Chevron Shaped Object visible above tree top level...At approximately 6:00 pm (EST) on January 7, 2005 I was driving north on route 125 (approx. 1 mile south of the intersection with route 114). When bright lights in the sky caught my eye. At first I thought this might be a plane but, as I drove closer I realized it was stationary. My next thought was could it be a helicopter? No, as there was no sound from blades. As I got closer I could see that the object was Chevron in shape hovering about 150 feet above ground level. It had 2 very bright white lights positioned in it's center front section with no additional red or green lights. As I passed beneath the object I could see an orange/gold glow illuminating it's bottom surface. It appeared to be rather large I would estimate it at some 300 feet wide and 50 to 75 feet from front to back.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41873.html](http://www.nuforc.org/webreports/reports/041/S41873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Trento (Mt. Palmis) (Italy) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Italian UFOWhilst on a school Skiing trip in Trento, Italy, myself, 8 other pupils, a skiing instructor and locals witnessed a ufo.  At the time we were skiing down mount Alpamis and had just reached th bottom of the mountain when a fellow student pointed out an aircraft which looked like an American stealth plane.  After a few seconds we realised the plane was travelling too slowly to be an aircraft as it seemed to be blown by the wind.  The object was around 0.5 km away from our position at the time.  All the students I was with at the time witnessed this, so did a skiing instructor and a few Italians too.  It seemed to be black/dark grey, with no lights and was not shiney. I estimate the object was the size of a small aircraft and was triangular with rounded off edges.  The next day our ski instructor was interviewed by the local police who told him it was most probably a kite or balloon, but admitted to him that in the past few monts there had been more than 14 sightings of the same description.  It was certainly not a kite as it did not weave around like a normal kite and it was certainly not a balloon as its altitude did not change and was too big.  The objects was at an estimated 400 ft above ground level and left no haze and made no noise, although during the event, a truck behind us was reversing and its sirens were going off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60789.html](http://www.nuforc.org/webreports/reports/060/S60789.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [332](http://www.nuforc.org/webreports/reports/162/S162787.html)
-- [331](http://www.nuforc.org/webreports/reports/161/S161571.html)
-- [330](http://www.nuforc.org/webreports/reports/161/S161543.html)
-- [329](http://www.nuforc.org/webreports/reports/161/S161542.html)
-- [328](http://www.nuforc.org/webreports/reports/162/S162520.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
