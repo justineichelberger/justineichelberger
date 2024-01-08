@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:39 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Several orange spheres hovering over Hailey, Idaho.Heard a loud noise like a sonic boom, dogs went nuts barking.  So I went out the front door to see what was going on and up in the sky above Della and Carbonate mountains were about six orange spherical lights floating in the sky,  Called my wife to see the lights, was thinking maybe an aircraft had crashed due to the loud noise then realized the lights were hovering.  No noise at all.  Two larger than the other three or four.  They hovered for several minutes and then several of them moved off and faded away. The two larger orange lights hovered near each other and then moved in close to each other almost touching and then moved away - then they were gone.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106135.html](http://www.nuforc.org/webreports/reports/106/S106135.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Amherst (MA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>Triangle with 3 lights low over Amherst, MAI am sending this report as I have heard and seen the news report of this sighting via WPRO radio via their website in Providence, RI.  The sighting was also just announced on WPRO Talk Radio news today, 01/11/13.  The event took place in Amherst, Massachusetts 'just after dark.'   The actual article can be found on the website for WPRO News with quotes from witnesses and police.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95909.html](http://www.nuforc.org/webreports/reports/095/S95909.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
