@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Culver City (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Colorful UFO seen swooping and ascending at top speeds and disappearing and reappearing in West LA areaTwo weeks ago I was walking home and noticed planes in the sky as usual, but noticed one object was flying at speeds that I had never seen before. It looked like it was flying in the culver city area.  Last night around 1:15am I was cleaning my apt and looked out the window and saw the exact same aircraft again.  It would fly from end to end faster than any helicopter or plane.  It would ascend very high and then swoop really low and disappear, the reappear in another side of the sky.  At times it looked like a disc with a row of blue green lights, then when it would fly higher and higher, it would only show a reddish orange light.  The thing about it, was that it kept flying in the same pattern. I had never seen anything fly, disappear and reappear the way that thing did. I ended up driving towards it in culver city, and of course couldn't see anything.  I know that other people who were driving or were out in the city saw it too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100694.html](http://www.nuforc.org/webreports/reports/100/S100694.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in St. Francisville (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>String of white lights moving in a line across the sky.At approximately 8:30pm 2 adults and one child saw a line of simultaneously blinking white lights traveling faster than an airplane across the sky from the southwest to north-northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152456.html](http://www.nuforc.org/webreports/reports/152/S152456.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
