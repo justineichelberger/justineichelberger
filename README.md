@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:45 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Murfreesboro (TN) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>3 extremely BRIGHT lights in a straight line.While driving out of my subdivision, I saw 3 extremely BRIGHT lights in a straight line, above a tree line. Then they were gone. They were close together but far enough apart to see 3 separate  lights in a row. As soon as they disappeared a black object appeared and then descended backwards very fast. It was a cloudy day with low clouds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86449.html](http://www.nuforc.org/webreports/reports/086/S86449.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Highlands (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball in North Carolina Mountains.I was at work and had decided to have a cigarette outside. I usually stare up into the night sky to look at the moon and clouds pass by as I smoke my cigarette and this night was exceptionally clear. As I was looking at the stars, a bright orange fireball appeared out of nowhere and was traveling from west to east.  The fireball seemed to only be illuminated for approximately two to three seconds before it flared out. It was bright orange in color and seemed to be fairly close to the ground.  Being that it was only visible for only a couple of seconds, it was hard to gauge size and distance; however, I would have to approximate that it was larger than a basketball and around 1000 yards up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79611.html](http://www.nuforc.org/webreports/reports/079/S79611.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
