@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:43 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:42 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Waconia (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 seemingly connected translucent white dots moved accross entire sky in 5 to 7 seconds.20:45 clear night no wind walking dog on frozen Minnesota lake 40 miles West of Minnepolis, several passenger planes visible. 3 seemingly translucent white dots moved from NW to SE across the entire sky in 5 to 7 seconds. About the size of a dress shirt button held at arms lenght. Coarse and altitude appeared to remain constant. Object had a translucent glow with a faint hint of a trail.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60742.html](http://www.nuforc.org/webreports/reports/060/S60742.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Satellite Looking Star Stopped In Orion's BeltWhat appeared to be a satellite travelled from the Southwest of Kansas City toward the Northeast.  I've lived at my location for 20 years, and have never seen a satellite because of the light pollution.  I watched it enter toward Orion's Belt for about a minute, then it stopped.  I observed it in a stopped posItion for around 3 minutes.  It was slightly brighter than any star, but was too high to be a conventional aircraft.  It looked like a star.  I went indoors to get a video camera, and when I went back outside 1 minute later, it was gone.  Nothing else in the sky in the direction it was travelling was moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138316.html](http://www.nuforc.org/webreports/reports/138/S138316.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
