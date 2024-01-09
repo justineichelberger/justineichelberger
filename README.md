@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:42 on 8 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Kansas City (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Satellite Looking Star Stopped In Orion's BeltWhat appeared to be a satellite travelled from the Southwest of Kansas City toward the Northeast.  I've lived at my location for 20 years, and have never seen a satellite because of the light pollution.  I watched it enter toward Orion's Belt for about a minute, then it stopped.  I observed it in a stopped posItion for around 3 minutes.  It was slightly brighter than any star, but was too high to be a conventional aircraft.  It looked like a star.  I went indoors to get a video camera, and when I went back outside 1 minute later, it was gone.  Nothing else in the sky in the direction it was travelling was moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138316.html](http://www.nuforc.org/webreports/reports/138/S138316.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Ashville (OH) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>A stunning display of 6 objects,incredibly fast,no plane can move out and back in formation like that.While out walking the dog and observing constellations 6 craft in "V"formation flew by at an incredible speed.I was looking at Orion and they appeared at that level,North and East of Orion.Direction flying due west.There were three on each side of the v and the middle craft on the north side veered out and then back in formation.They were not real bright....only as bright as a faint star.They were well below the rest of the planes in the sky at the level of Orion at 6:45.No noise at all.Much faster than any plane for sure.All the dogs in the neighborhood were barking.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41441.html](http://www.nuforc.org/webreports/reports/041/S41441.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [304](http://www.nuforc.org/webreports/reports/161/S161573.html)
-- [303](http://www.nuforc.org/webreports/reports/161/S161562.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161546.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161563.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161559.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
