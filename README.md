@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>loud noise heard.loud noise (similar to what plane make while resting) heard for about 15 minutes. did not go out to check, so no visual.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106151.html](http://www.nuforc.org/webreports/reports/106/S106151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Coppell (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Light object flying toward groundMy boyfriend and I were sitting outside on his balcony in Coppell, TX.  We were discussing finances.  I was sitting on a patio chair looking out and he was facing me.  While we were in the middle of a discussion, I saw a light object fly towards the ground and disappear in mid-air.  It had no tail or streak.  It was approx. the diameter of a pinky finger nail at arms distance.  The object seemed to be very close.  Not like a shooting star, but more like a light that would turn on and off from a short distance.  The object appeared in my viewing area going towards the ground and disappeared shortly.  It did not "fade out," it was as if it was turned off.  The night was clear w/ no clouds in the area.  There was no noise associated with the viewing.  It was a very still and quiet night.  Not sure what it was.  I do know that it was not a shooting star, satellite, or aircraft of terrestial origin.  My boyfriend is an avid star gazer.  We have seen many shooting stars and satellites.  The object seemed so close.  Very weird!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41440.html](http://www.nuforc.org/webreports/reports/041/S41440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
