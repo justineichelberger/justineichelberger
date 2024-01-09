@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:38 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Worcester (Midlands) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We had just turned off a slip road to get on to the motorway, as I was heading back to University, when I saw a light in the sky which was perfectly stationary, the light was piercing, white with maybe a hint of blue. I asked my Mother if she was watching it and she had been. We carried on watching for maybe a minute or so, and then it simply disappeared, we were only a maybe a mile away from it, the sky was amost perfectly clear and well lit;it was over some fields with cows in, so you could percieve the scale. I could tell that the source of the light was small, but I could see no object, nothing. Then it was gone, not a trace. Observers(Undergraduate and Speech Therapist)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12640.html](http://www.nuforc.org/webreports/reports/012/S12640.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sanford (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>loud noise heard.loud noise (similar to what plane make while resting) heard for about 15 minutes. did not go out to check, so no visual.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106151.html](http://www.nuforc.org/webreports/reports/106/S106151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
