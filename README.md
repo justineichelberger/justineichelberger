@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:04:35 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four lights in a row, in the sky, faded and flew off in the same direction.Four, very bright, lights all in a vertical row, in the sky. One by one, they faded and started to look like airplanes. And one by one, they flew off in the same direction.Small blinking lights were seen around them.((NUFORC Note:  Later report from same witness follows.  PD))Four bright lights, all in a vertical row, faded into changing colors and flew of in the same direction every time.My friend, grandma, and I were on my deck when I spotted four very bright lights shining through the window in the east. All in a row. We went out side, and they were all in a vertical line. Starting from the top, they faded off, one by one, and started to look like air planes, but they changed colors. They separatly flew off to the south west. The last one stayed longer than the other three.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21150.html](http://www.nuforc.org/webreports/reports/021/S21150.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Brookhaven (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1:00 - 1:00 minutes.</sub><blockquote><sub>I saw a star like object moveing in swearls with light on and offI am located in stonybrook hospital overnight for my son worried I started to stare outside and just was watching the stars when I saw a light like if it was a star moveing but it was swirling and it was beaming light it had red color and it was moveing wierd when a airplane was in the sky toi it stood stil then it when baack to play then a second one appeard I am located on the 11 floor it could deff be seen clear am frecked out its the fist time am not sure what it was doing but onne thing for sure it not normal  it left lines((NUFORC Note:  We have corrected the date above.  We are uncertain as to whether this is a serious report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86445.html](http://www.nuforc.org/webreports/reports/086/S86445.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
