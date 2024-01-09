@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:11 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Kapula Bay (Maui) (HI) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two round white lights moving fast and steady, (left to right) across a body of water, rising and disappearing.We were looking out onto Kapalua Bay whale watching, when two round lights appeared in the middle of the Bay.  At first I thought it was a boat as it started to move across the water.  The two lights moves together very smoothly, that I then thought it was a plane flying very close to the water.  As it moved steadily across the Bay I ran into my room to get my binoculars.  I then watched the two lights move from right to left.  With the binoculars I still could not see anything but two round lights.  There was not any craft or any kind of mass around the lights.  If it had been a plane, the object would have had to be coming in our direction.  As the objects reached towards the shore on the left of the Bay they rose like a plane, then disappeared.  At this point they were going away from our direction and they were still two rounds lights.  If it had been a plane there would not have been two round lights because of the direction they were going.  Besides I would have seen the outline of the plane while I looked through the binoculars.  All of this took only approx. 2 minutes.  Even a speed boat would take longer to cross the Bay.  It was a beautiful clear morning.  There had to be someone else who must have seen it as there are many tourists out whale watching around the Bay in Maui at this time of the season.  We left that same day for home, so I don't know if anything was reported.  I asked one of the employees at the hotel but she didn't know what it might have been.  I don't know what this was, if anything.  It puzzled me and I could not could not come up with a reasonably explanation for these lights.  I know there is an observation station on Maui whether it had anything to do with it.  If someone could explain it to me I would appreciate it.((FOLLOW-UP COMMUNICATION))No, I have not attempted to contact any news media etc., I feel uncomfortable inquiring about it for the obvious reasons.  My husband was the only other witness that I am aware of and he is as perplexed as I am.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21381.html](http://www.nuforc.org/webreports/reports/021/S21381.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Cleveland (TN) reported seeing craft that fit the description of some 'Other' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>my daughter went with her mother to look for a job, at hickery springs mfco.she toke a picture of her self seting in the drivers set. and when she got home that evening she put them on her lap top compiture. sunday march 14th she was looking at them, and in back ground you can see a strange object in the sky.we made the picture larger , but dont no what it is , it got a x shaped like thing on the end of it.it has a long thing that allmost goes strate up. i took a picture of it with my cell phone from her lap top. a lot of peeple whants to no what it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74673.html](http://www.nuforc.org/webreports/reports/074/S74673.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
