@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:04:35 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Rutherford (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFO sighting in North JerseyI was in my car and saw a bright light to the right of me I looked up and I thought it was a plane comming down. Then as it got closer I realized that it wasn't in the shape off a plane it was circular. It had two bright lights in the front of it like head lights and around it were little white lights with a few green and red. It was comming down fast, so it seemed, circling down to the ground and then it was gone. out of sight or dissapeared.((FOLLOW-UP COMMUNICATION))I believe that it was in rutherford...I was actually getting on route 3 west out of lyndhurst when I saw it. And it was in the direction of Rutherford.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21143.html](http://www.nuforc.org/webreports/reports/021/S21143.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in New Richmond (WI) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Four lights in a row, in the sky, faded and flew off in the same direction.Four, very bright, lights all in a vertical row, in the sky. One by one, they faded and started to look like airplanes. And one by one, they flew off in the same direction.Small blinking lights were seen around them.((NUFORC Note:  Later report from same witness follows.  PD))Four bright lights, all in a vertical row, faded into changing colors and flew of in the same direction every time.My friend, grandma, and I were on my deck when I spotted four very bright lights shining through the window in the east. All in a row. We went out side, and they were all in a vertical line. Starting from the top, they faded off, one by one, and started to look like air planes, but they changed colors. They separatly flew off to the south west. The last one stayed longer than the other three.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21150.html](http://www.nuforc.org/webreports/reports/021/S21150.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
