@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:45 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bluegrass (IA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Single white light that I originally assumed it was a star. I watched it for a couple minutes while I was driving south on US 61. I glanced over to look one more time and seen this light dim, brighten back up and go out.  The difference in brightness of this light was similar to high/low vehicle headlights. Possibly a plane, however I've never seen landing lights have a high beam and low beam. Also I didn't see any identification lights that a plane would have. Sorry this isn't a really exciting possible sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152489.html](http://www.nuforc.org/webreports/reports/152/S152489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Broadstairs (UK/England () reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>we saw a white moving light in the sky which changed intoa large orange fire ball,followed by a smaller concave orange shapeON 1ST sept08 while visiting a friend in Broadstairs we decided to let her dog out into her garden before retiring at approx 23;00hrs.I observed that it  was a dark evening no moon or stars were visible.Suddenly I saw a white shape appear in the sky.I called my friend and we both agreed that it was  moving closer and its shape and colour changing from a white roundish  shape into a bright orange cone.The orange cone appeared to have a flame at the top and was becoming larger as it appeared to move closer.We moved towards her door as we were afraid it was a flare or some sort of firework, even though there was no sound.The shape changed to a circle and appeared to have flames inside it.The circle appeared to float over the buildings but we were distracted by another orange shape which suddenly appeared to the left and seemed to be lower in the sky, so the first shape could have disappeared.The second shape also had what appeared to be orange flames inside it, but it didnt develop into a large circle, it was concave in shape.This second shape appeared to tilt to the left and a conical flame was seen in its centre.This floated to the left and out of our sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/065/S65562.html](http://www.nuforc.org/webreports/reports/065/S65562.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
