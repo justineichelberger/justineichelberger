@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:21 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:39 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vaudreuil (Canada) (PQ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>A bright object seen from a far distance on a cold winter morning which changed shape as it moved and left a trail of light.During breakfast with my family I noticed from my patio window an extreamly bright object in the southern sky. It hovered for about 3-4 mins. at approximately 500-700ft above the tree lines and highway below. Traffic on the highway below was moving rapidly but other motorists must have noticed this object just from it's sheer brilliance. After hovering for some time the object proceeded to move slowly West following Hwy.20 below. Stopped and proceeded East along the higway slowly at first then gatering speed as it proceeded East. As the object moved it left a trail infront and behind of the craft. As it moved it also changed shape, from cigar shaped to saucer shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15932.html](http://www.nuforc.org/webreports/reports/015/S15932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mercey Hot Springs/Firebaugh (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Another bright white flash above Mercey Hot Springs!This is the third time that I have seen this same exact thing in the same place, same part of the sky, whilst soaking in the hot tub at Mercey Hot Springs.  A flash of a bright white star like object, one flash only this time, high up in the sky.  Could this be an iridium flare?  I have no idea!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106193.html](http://www.nuforc.org/webreports/reports/106/S106193.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
