@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in McGregor (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>We seen an Explosion over Ft Ripply MN at 13:00 on Jan 10 2012 along with lots of UFO Activity.Explosion over Ft Ripply MN air space at exactly 13:00 Jan 10 2013.  We have video and Photos as we were out taking Photos of the Chemtrails at the time.  I have 280 photos of this day with more activity then i wish to admit to because it scares the crap out of our thought of well being, but  (The Truth Must Be Known.)((NUFORC Note:  We have spoken with the witness on several occasions.  We received twenty photos from the witness, and none of them appears to us to be of an authentic UFO.  All of them appear to be photos of birds and distant contrails.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95939.html](http://www.nuforc.org/webreports/reports/095/S95939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mexico (volcano) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary disc watches Mexican volcano erupting!!On the weather channel today, they showed footage of a volcano erupting and during the minute or more was a stationary "saucer" [?] that also resembled a dash mark with a round bulb on the top and bottom center.  I would guess that it wasn't a drone due to extreme lack of movement.  I punched record on my dvr, and can probably record that to dvd disc if you like.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116623.html](http://www.nuforc.org/webreports/reports/116/S116623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
