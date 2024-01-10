@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:23 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:07 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red, white and blue lights over Staten Island green beltI was returning home from brooklyn and I was going thru the streets of staten island to beat the traffic. I got off on slosson ave exit off the staten sland exwy, went up slosson ave half way up I looked up and I seen lights pulsating, I looked closer and i could see the outline of the object. It was wierd because it was still not moviing but the light where going off like someone where shuting and putting on lights. I don't think it was a UFO because the light where red, white and blue...I rreally think what i saw was the aruora. Iwatched it for like 4 mins then i drove off when i got to aurthur kill rd i could see it moving not like a plane or helicopter just gliding off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54688.html](http://www.nuforc.org/webreports/reports/054/S54688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Nordmaling (Sweden) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Me and my brothers saw a flying object in the sky.As i was walking to school with my brothers, i looked up at the sky and saw something. It looked like one of the stars, but it was a bit bigger. At first i thaught it was just a plane or something, but it was too big for a plane. We stopped and looked at it, and suddenly it turned and went the other way. It was going really fast for a while, but suddenly it slowed down, we saw a bright white flash, and it dissapeared. I wish i had a camera. Then you would know that i am not lying. Me and my brothers are sure it was a UFO. What else could it have been...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/013/S13556.html](http://www.nuforc.org/webreports/reports/013/S13556.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
