@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:34 on 9 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:23 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Strange lights over Glendale, Arizona.Three bright lights were heading North when they suddenly changed direction and turned back South in a matter of a second. The lights continued to move at an increasing pace, now heading West.  We had tried to keep up in an automobile for as long as we could, but the lights had shot out and extended far West at an incredible rate until they could no longer be seen.P.S.--I tried to call the telephone line and I was only welcomed with a rude response that I was creating a hoax.  I feel as though I was discriminated against for being so open about my experience.((NUFORC Note:  We apologize to the source of the report, if, in fact, it is a serious report.  However, we received his telephone call amidst a number of other calls from the same area code at about the same time our Hotline received a number of other calls from rude, impudent, foul-mouthed youth, who apparently placed calls to hoax and pester our Center.  We are uncertain as to whether this is a serious report, but the source of the report claims that it is.  Again, we apologize is our assumption that the call was a prank was wrong.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67949.html](http://www.nuforc.org/webreports/reports/067/S67949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in New York City (Staten Island) (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>red, white and blue lights over Staten Island green beltI was returning home from brooklyn and I was going thru the streets of staten island to beat the traffic. I got off on slosson ave exit off the staten sland exwy, went up slosson ave half way up I looked up and I seen lights pulsating, I looked closer and i could see the outline of the object. It was wierd because it was still not moviing but the light where going off like someone where shuting and putting on lights. I don't think it was a UFO because the light where red, white and blue...I rreally think what i saw was the aruora. Iwatched it for like 4 mins then i drove off when i got to aurthur kill rd i could see it moving not like a plane or helicopter just gliding off.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54688.html](http://www.nuforc.org/webreports/reports/054/S54688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/161/S161558.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161574.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161554.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161580.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161578.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
