@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:50 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:34 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in De Leon (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>Saw two bright redish/orange lightsI was watching tv at my house about 5 miles east of De leon right off of highway 6.  After listening for a few minutes to what sounded like jets, I walked outside and saw two balls or reddish/orange light to the south.  They stayed in on spot for a few seconds, then they went in to a rapid decent, only to disappear.  Then when I looked up there was about 10 or 15 jets that all seemed to all be heading for the area where I had just saw the lights.  It was like a giant light show in the sky from all the jets.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86507.html](http://www.nuforc.org/webreports/reports/086/S86507.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Large bright object traveling high over Florida appearing to be burning into the atmosphereI was walking my dog and saw the object high in the sky leaving a short contrail in its wake.  At first, I thought this was a high altitude aircraft which I often see and paid it no mind.  As I got closer to home I noticed that it was pretty big even though it was very high up and seemed to be traveling west.  At that moment my son was pulling into the driveway exclaiming, "What the hell is that!"  I told him I thought it was a high altitude aircraft and he disagreed.  He said "Dad, really take a look at it!  Thats no plane!"  I told him to run inside and get my binoculars and when he returned with them, the object was farther away and nearing the treeline.  We observed this object, which he was right, was no plane, traveling high and appearing to be burning up in the atmosphere.  It was cylindrical in shape and was bright orange and yellow and leaving a smoke trail behind it.  It also seemed incredibly large in size considering that it was so high up. We couldnt make out any windows or control surfaces such as wings and such, but it was very high and far downrange when we finally looked at it with binoculars.  large object entering our atmosphere and  Also at the time I looked at it with binoculars it seemed to have changed from traveling like a missle, to traveling on its side and like a bar and at an angle so contrails were forming from both its ends.  Very cool looking and extremely odd to see at that time of day.  The sun wasnt exactly setting yet and it was pretty much still daylight outside.  The sun really brightened up the contrails in the sky too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60768.html](http://www.nuforc.org/webreports/reports/060/S60768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
