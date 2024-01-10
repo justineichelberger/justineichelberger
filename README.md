@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:45 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:46 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Paradise (just east of; Yankee Hill) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Humming sound outside--unlike any other I've heard around here.I woke up around 0245, couldn't sleep so I went into living room to read for awhile.  I heard a soft humming sound outside that had two long periods and one short period of duration.  Unfortunately, I did not go out to look.  Unfortunate because I understand a lady may have seen what I heard on the same night--tape played on Art Bell Sunday night.  She was one ridge to the west in Paradise.  We have had other instances of ufo here too.  Had a bright square shaped light in the garden area a year ago--didn't go out to investigate it either--both my wife and I saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05323.html](http://www.nuforc.org/webreports/reports/005/S05323.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Helsby, Cheshire (UK/England) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>A Groupd of Dark objects moving rapidly across the evening sky.Hello,  At 18:12GMT I was looking up at the sky to see what type of weather was approaching, I then observed about 10 possibly more grey dots moving rapidly in an East to Westerly direction. Using my binoculars I could see dark grey dots at different levels and had a job keeping track of them as they were moving quite fast. The conditions were bright overcast and the dots were below the clouds.Apart from possibly being military jets, I have no idea what these might of been. Certainly not birds.Regards, ((name deleted))((NUFORC Note:  Date of the event may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/059/S59037.html](http://www.nuforc.org/webreports/reports/059/S59037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
