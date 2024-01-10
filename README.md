@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:45 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Four Oaks (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Strange yellow lights near GarnerAround 10:40 pm, I noticed 2 yellow lights somewhere towards Garner, Clayton and 3 cell-phone towers (Northwest from my home back porch).  The pulsating light was soundless, moved around some and then I saw a second light.  The 2 lights soon disappeared (moved Northwest), I recorded a video with my cell phone, but the camera couldn't record the UFO's due to darkness.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125220.html](http://www.nuforc.org/webreports/reports/125/S125220.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Paradise (just east of; Yankee Hill) (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Humming sound outside--unlike any other I've heard around here.I woke up around 0245, couldn't sleep so I went into living room to read for awhile.  I heard a soft humming sound outside that had two long periods and one short period of duration.  Unfortunately, I did not go out to look.  Unfortunate because I understand a lady may have seen what I heard on the same night--tape played on Art Bell Sunday night.  She was one ridge to the west in Paradise.  We have had other instances of ufo here too.  Had a bright square shaped light in the garden area a year ago--didn't go out to investigate it either--both my wife and I saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05323.html](http://www.nuforc.org/webreports/reports/005/S05323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
