@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Mercey Hot Springs/Firebaugh (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Another bright white flash above Mercey Hot Springs!This is the third time that I have seen this same exact thing in the same place, same part of the sky, whilst soaking in the hot tub at Mercey Hot Springs.  A flash of a bright white star like object, one flash only this time, high up in the sky.  Could this be an iridium flare?  I have no idea!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106193.html](http://www.nuforc.org/webreports/reports/106/S106193.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Evansville (IN) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>Two lights over Evansville, IN early in the morningI went outside to smoke a cigarette when I notice a bright light in the eastern sky. At first I thought it was a star or planet such a Venus or something, however, I noticed it slowly moving in the South East direction. The first light to catch my attention was brighter than Venus on a clear evening. It was following another dimmer light. There were no sounds from them and they appeared to be far off in the distance. I watched them make their way across the night sky. Both objects moving in the same direction keeping the same amount of distance between them. The faded as the reached the horizon line. I live near an airport and I'm used to seeing objects in the sky, however, these two objects acted differently. I wouldn't have thought anything of it if there hadn't been two of them. The first one I saw dimmed quicker than the one leading the two lights. I've never seen aircraft do this, they have flight patterns and generally there are no flights out of our a! irport this late. I don't believe it was a helicopter because they usually fly solo. This was different.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86465.html](http://www.nuforc.org/webreports/reports/086/S86465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
