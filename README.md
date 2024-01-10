@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:39 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:43 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mexico (volcano) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Stationary disc watches Mexican volcano erupting!!On the weather channel today, they showed footage of a volcano erupting and during the minute or more was a stationary "saucer" [?] that also resembled a dash mark with a round bulb on the top and bottom center.  I would guess that it wasn't a drone due to extreme lack of movement.  I punched record on my dvr, and can probably record that to dvd disc if you like.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116623.html](http://www.nuforc.org/webreports/reports/116/S116623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Grimsby (UK/England) () reported seeing craft that fit the description of some 'Changing' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>bright orange light like a fire in the sky took my camera to take picture it was low at first when i went to my backyard it had gain height immensly took 2 snaps then zoomed in o my camera  not sure what it is but it looks good would like to no what you thing am no expert thankyou</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72733.html](http://www.nuforc.org/webreports/reports/072/S72733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
