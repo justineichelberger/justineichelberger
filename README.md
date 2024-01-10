@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:38 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Beals (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.26666666666666666 - 0.26666666666666666 minutes.</sub><blockquote><sub>On my porch my friend and I saw a  round, white light in the sky it moved  acrossed the sky faster then the average plane.  After about 13 sec. it shot up at a  very high speed then it disapeared. After about a min., it reapeered in the same aproximate area as before. It move back and forth in the same area and then it disapeared again.It was located in the NE section of the sky.((name deleted))  8th grade ((2nd name deleted)) 7th grade</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05083.html](http://www.nuforc.org/webreports/reports/005/S05083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Srinagar, Kashmir (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A rotating circular and saucer shaped object changing colour with falshing lights and fast coming down towards the earth.There was a sudden cicular moving object in the sky whcih was green in colour and changed colour to blue and then red. The object was making rotational movements and was also having right to left movements. The first of the witnesses (a 8-year old child) asked her brother(10 years) and her cousin (11 years) to look up and watch it. The children got terrified as the object seemed to be fast approaching them and they believed it would strike the earth anytime. The child and the cousin ran inside but the brother thought it was just a flash and he continued playing. However on looking up after a minute or so, he also observed the same thing which was like a saucer with multiple lights flashing from its undersurface. There was a projection from the top surface and he thought a planet is falling down on the earth. It was blue and then changed to red. The lights under the surface were very bright and there was a fast rotational movement of the object going on and it was fast coming down towards him. Scared he also rushed inside and kept crying and holding on to their uncle. The uncle came out to check but couldnt find anything. The children satyed terrified for a long time and were reluctant to come out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48678.html](http://www.nuforc.org/webreports/reports/048/S48678.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
