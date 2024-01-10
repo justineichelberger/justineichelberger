@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Srinagar, Kashmir (India) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A rotating circular and saucer shaped object changing colour with falshing lights and fast coming down towards the earth.There was a sudden cicular moving object in the sky whcih was green in colour and changed colour to blue and then red. The object was making rotational movements and was also having right to left movements. The first of the witnesses (a 8-year old child) asked her brother(10 years) and her cousin (11 years) to look up and watch it. The children got terrified as the object seemed to be fast approaching them and they believed it would strike the earth anytime. The child and the cousin ran inside but the brother thought it was just a flash and he continued playing. However on looking up after a minute or so, he also observed the same thing which was like a saucer with multiple lights flashing from its undersurface. There was a projection from the top surface and he thought a planet is falling down on the earth. It was blue and then changed to red. The lights under the surface were very bright and there was a fast rotational movement of the object going on and it was fast coming down towards him. Scared he also rushed inside and kept crying and holding on to their uncle. The uncle came out to check but couldnt find anything. The children satyed terrified for a long time and were reluctant to come out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48678.html](http://www.nuforc.org/webreports/reports/048/S48678.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Pittsburgh (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Mock helicopter seen above city of Pittsburgh.I witnessed two very strange things this morning.  It was a craft that mocked a helicopter, but I noticed something was off with it.  It maneuvered much like a helicopter.  It had the directional lights on it, as well as a strobe light.  It was circling above the City of Pittsburgh, though higher than the buildings.  I couldn't see any body of the helicopter.  At one point, all of the lights turned off but one.  It looked much like a star in the sky.  Then all of a sudden, it turned into a VERY bright light that was painful to stare at.  It then proceeded to turn back on it's directional lights and strobe light.Just a few short miles up river on the Allegheny, I saw a similar craft.  It could have been the same, but would have had to move at a lightning speed.  It did the exact same thing with the lights as the first craft.I live fairly close to an airport.  I have seen planes and helicopters at night before.  I have seen them from all different angles and making many turns.  This was unlike anything I have ever seen before.  And again I stress, all I saw was the lights.  There was no body to either crafts.I would have taken pictures, but it was very dark, and I a passenger in a vehicle driving to work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86485.html](http://www.nuforc.org/webreports/reports/086/S86485.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
