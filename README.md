@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:34 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:21 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kissimmee (FL) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 40.0 - 40.0 minutes.</sub><blockquote><sub>Large bright object traveling high over Florida appearing to be burning into the atmosphereI was walking my dog and saw the object high in the sky leaving a short contrail in its wake.  At first, I thought this was a high altitude aircraft which I often see and paid it no mind.  As I got closer to home I noticed that it was pretty big even though it was very high up and seemed to be traveling west.  At that moment my son was pulling into the driveway exclaiming, "What the hell is that!"  I told him I thought it was a high altitude aircraft and he disagreed.  He said "Dad, really take a look at it!  Thats no plane!"  I told him to run inside and get my binoculars and when he returned with them, the object was farther away and nearing the treeline.  We observed this object, which he was right, was no plane, traveling high and appearing to be burning up in the atmosphere.  It was cylindrical in shape and was bright orange and yellow and leaving a smoke trail behind it.  It also seemed incredibly large in size considering that it was so high up. We couldnt make out any windows or control surfaces such as wings and such, but it was very high and far downrange when we finally looked at it with binoculars.  large object entering our atmosphere and  Also at the time I looked at it with binoculars it seemed to have changed from traveling like a missle, to traveling on its side and like a bar and at an angle so contrails were forming from both its ends.  Very cool looking and extremely odd to see at that time of day.  The sun wasnt exactly setting yet and it was pretty much still daylight outside.  The sun really brightened up the contrails in the sky too.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60768.html](http://www.nuforc.org/webreports/reports/060/S60768.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Vaudreuil (Canada) (PQ) reported seeing craft that fit the description of some 'Changing' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>A bright object seen from a far distance on a cold winter morning which changed shape as it moved and left a trail of light.During breakfast with my family I noticed from my patio window an extreamly bright object in the southern sky. It hovered for about 3-4 mins. at approximately 500-700ft above the tree lines and highway below. Traffic on the highway below was moving rapidly but other motorists must have noticed this object just from it's sheer brilliance. After hovering for some time the object proceeded to move slowly West following Hwy.20 below. Stopped and proceeded East along the higway slowly at first then gatering speed as it proceeded East. As the object moved it left a trail infront and behind of the craft. As it moved it also changed shape, from cigar shaped to saucer shaped.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15932.html](http://www.nuforc.org/webreports/reports/015/S15932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
