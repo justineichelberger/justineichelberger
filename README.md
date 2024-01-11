@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:36 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Shelton (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball with flaming tail shooting across mid-sky.We were walking near the WA Correction Center, facing about 70* E, with a full moon at mid-sky just to our right.  At the same level as the moon, from left to right a large fireball with a flaming tail went across the sky.  The flaming tail kept breaking apart.  The fireball and tail were bright orange with a bright yellow ring around the fireball.  We thought it might be a satellite breaking apart in the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132129.html](http://www.nuforc.org/webreports/reports/132/S132129.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harleyville (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately days - days minutes.</sub><blockquote><sub>Bright light, appearing as a star but not!  The light is very different, appears to be in our atmosphere, it appears some times right at dusk dark and other times after dark.  we have been seeing it for two weeks now about 4 days out of each week!  we have also seem military hele's in the area.  It will move some nights to different heights.  There appears to move quickly sometimes in short zig zag movements.  We have see drone type flying objects around it at high levels with one red blinking light each, with NO sounds to be heard, I am typing this  and it is out side as I write, also, there seems to be a red haze behind the white light???</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132134.html](http://www.nuforc.org/webreports/reports/132/S132134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
