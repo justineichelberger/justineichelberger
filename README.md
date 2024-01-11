@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:01 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:10 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large bright blue/green light with a long white tail was traveling south at a fairly fast speed.  It was above the horizon, but not as high up as an airplane.  In an instant, it disappeared.  There were many reports of this sighting that night, all the way from Denver to Nebraska, Wyoming and SDakota.  I have confirmed it with at least 7 others that saw it also, all in various locations in Larimer county.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15965.html](http://www.nuforc.org/webreports/reports/015/S15965.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two bright orange objects hovering,pulsing lights, akward movementsWe were walking home just after midnight from grabbing some food and I saw a very bright orange light.  And I turned to my boyfriend and pointed it out to him.  Him being so skeptical, I thought he was going to dismiss what I was seeing, but he looked up and said, "what is that?".  We both agreed it was not a plane or like anything we have ever seen before.   I am pretty positive it wasnt a plane because planes have red or white lights flashing and are always flying over head as we live near 2 major aiports; and seeing so many, this was in no way a plane.  The light was very bright, large and orange in color, wierd in shape (fireball-ish?), like nothing I've seen before. As we stared we noticed that the orange light was very bright and large for being a distance away. It was heading Northwest to Southeast, towards us. The first one stopped, stood still or hovered for more than a few seconds and then headed west. There was a second one behind it, just as bright orange as the first. It was coming from the same direction. It stopped and was hovering. It pulsed as did the first one when it was hovering, almost to the point of dissapperance. It did a small square flight pattern(looked very unatural), and headed west(was out of site pretty quickly once heading west-within 3-4 seconds). The duration was about 2 min and there was absolutely no sound whatsoever associated w/ the objects. My boyfriend is very skeptical, but he said it was like nothing he has ever seen before. The color was just such a bright rich orange color and the flight pattern was very akward. I have no idea what it was, I just know it was a first that I have seen something like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67996.html](http://www.nuforc.org/webreports/reports/067/S67996.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
