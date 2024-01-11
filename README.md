@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:20 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Dubois (WY) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.025 - 0.025 minutes.</sub><blockquote><sub>Bright , fast falling lightDriving from Riverton to Dubois, Wyoming. Saw a flash of light NW of me. I was heading west on Hwy 26, and thought it was a meteor, but I was listening to KOA radio in Denver, and they were talking about this bright light that was seen at the same time I saw mine.  It was headed toward the ground at a great rate of speed, and at the time we had a lot of cloud cover. This light was below the ceiling.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15881.html](http://www.nuforc.org/webreports/reports/015/S15881.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>Silver or white cigar shaped aircraft with no wings.Saw it flying over Tucson Headed North West.  No trail, no wings...silver or white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106225.html](http://www.nuforc.org/webreports/reports/106/S106225.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
