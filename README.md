@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:35 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:49 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Brush (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>A bright shooting light.We were driving in the car when we saw a very bright light that flew across the sky very fast.  It made the whole sky light up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15908.html](http://www.nuforc.org/webreports/reports/015/S15908.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bellevue (NE) reported seeing craft that fit the description of some '' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Alien contactI have been experiencing a alien voice in my head after a very strange experience a voice in my head for two days now, after a strange experience while I was sleeping.  I felt a hand reach in my head, and it left something.  I thought I was dreaming. I have since heard a voice call itself the hookstra.  They are asking me questions about our planet. They are trying to learn more about humans.  They are telling me to let everyone know they do not come in piece and they want to evict us from the planet.  The way the talk to us is very strange, whatever they use hooks our thoughts.  After you answer, the say things like “smart”, and don’t flip the script if I ask questions they do not want to know.  I thought ai was dreaming but I did see an enitity run off and I do have a photo of the likeness of what it looks like. I do not know how to send you a photo.  I am sending a photo via email. My phone number is 402-XXX-XXXX ((deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152555.html](http://www.nuforc.org/webreports/reports/152/S152555.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
