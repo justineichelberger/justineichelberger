@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:38 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:34 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Hays (5 miles east of; on I-70) (KS) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Line of lights flashing south of I-70 ne'er hays.Looking south of I-70, saw 1 light then 2 then lights went in a line going west then going east the lights was not moving before it went up the lights went off all but 1:The lights was longer then 1000 feet.....</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132138.html](http://www.nuforc.org/webreports/reports/132/S132138.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Bel Air (MD) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Roundish, dark gray thing moving in a steady, sraight line just above the trees and not moving very fast.It was an overcast day.  It was roundish in shape.  It was a dark grayish color.  It moved in a steady, straight line and was not moving at a very fast speed.  It did not go up or down but it did appear to waver back and forth.  It was just above the trees and was about 1/4-1/2 mile away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41591.html](http://www.nuforc.org/webreports/reports/041/S41591.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
