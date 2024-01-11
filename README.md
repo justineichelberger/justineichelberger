@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 10 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Roselle (IL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 pulsing red/orange lights heading south to north at a slow pace.Looking out a south facing window, I noticed 3 red to orange lights.  They were pulsing the colors (not blinking).  The sky was clouded.  Within seconds of my seeing the lights, one of them disappeared.  I believe it entered the cloud layer. I lost the other two as they continued to head north and past my line of vision.   I checked out a north facing window, but did not see the lights again.Note – I am 12 miles west of O'Hare airport, and 1 mile from a small local airport.  These lights were clearly not planes.I opened the window, and heard no sound.((ADDENDUM FROM WITNESS))It was 1/10/15, sorry for the error.  I've heard you talk about fire balls on C2C for sometime now, and I've read many of the reports online.  It would seem to me that they would/should be making noise.  Do people note that?  I heard nothing and the speed of what I saw was way to slow in my mind for these to be falling rocks, etc..  In this case, I am leaning towards controlled objects, but I can now see how people would use the term 'fire ball' to describe them.((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116635.html](http://www.nuforc.org/webreports/reports/116/S116635.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Blue ball with red, orange and yellow glowing brightly from center.Walked outside to take trash out.  Noticed object right away, it was just getting dark.  To the south-east, saw what looked like a hot air balloon shape, a blue circle at the bottom and the top glowing fierce, shaped like a hot air balloon, but was bright flaming red with yellow, orange.  I called my boyfriend out and ran in to get my phone, snapped a photo (did not come out very good).  Ran back in to grab better camera.  I turned camera on and the object just went black, just a black floating ball.  Then it was gone!  I came in and painted a picture of what it looked like.  It was too high to be a balloon, and it was almost dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116657.html](http://www.nuforc.org/webreports/reports/116/S116657.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [341](http://www.nuforc.org/webreports/reports/161/S161598.html)
-- [340](http://www.nuforc.org/webreports/reports/161/S161584.html)
-- [339](http://www.nuforc.org/webreports/reports/161/S161595.html)
-- [338](http://www.nuforc.org/webreports/reports/161/S161586.html)
-- [337](http://www.nuforc.org/webreports/reports/161/S161804.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
