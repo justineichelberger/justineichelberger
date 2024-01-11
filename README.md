@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:34 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:42 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A rectangular object flying lower than plane height with one bright light.  Light was shining forward towards the skyline.  Object was moving at a moderate pace in the same direction as the light.  Making a loud machine like noise.  I noticed it from the road, pulling into my driveway.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86536.html](http://www.nuforc.org/webreports/reports/086/S86536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Confirming: 8 years later  I saw Them lights Two  {on 1-11-01}Me and my co-worker drive tow trucks, we were traveling on the by-bass Rt20/I39 between, Rt2 and meridian rd exits when the other driver radio me to look toward the north over the lovespark area. We both pulled our trucks off the road in the west bound emergency lane and observed 7-9 lights in the northern sky flickering. they were random and looked like the were dancing in the sky, but fixed in the same formation. we observed these lights for about 1/2 hour before, I got called to a accident, but still followed the lights as long as i could. It was weird that the call i had was a young lady on the by-pass who had driving her self off the shoulder watching the same lights. Later that evening it was reported on our local tv channels. I`m always looking for UFO`s while out driving, but that was a crazy cold night. I noticed Today other reports about this sighting on this date, and now believe what i saw did happen that night. I guess i was in denile. I just ha! d to let you know now that what every one saw, i saw, and my wife actually beleives me now.I hope you post this just so other people will know that even tho some people may think you are crazy and you might think you may be crazy. After 8 years you find out maybe your not.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72684.html](http://www.nuforc.org/webreports/reports/072/S72684.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
