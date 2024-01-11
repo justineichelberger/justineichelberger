@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:53 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tucson (AZ) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 4:00 - 4:00 minutes.</sub><blockquote><sub>Silver or white cigar shaped aircraft with no wings.Saw it flying over Tucson Headed North West.  No trail, no wings...silver or white.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106225.html](http://www.nuforc.org/webreports/reports/106/S106225.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Muskego (WI) reported seeing craft that fit the description of some 'Flash' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Light Flashes and BeamsAs we were driving home from work, we encountered bright flashes of what looked like an extremely bright almost flourscent light, followed by shafts of light coming from a small spot in the sky. Lights pulsed and flashed in an irregular manner for several minutes, before merging into a single beam upward, which ran from the ground, tracking upward.  We were not the only people who observed this phenomonon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41474.html](http://www.nuforc.org/webreports/reports/041/S41474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
