@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:01 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Englewood (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Blue ball with red, orange and yellow glowing brightly from center.Walked outside to take trash out.  Noticed object right away, it was just getting dark.  To the south-east, saw what looked like a hot air balloon shape, a blue circle at the bottom and the top glowing fierce, shaped like a hot air balloon, but was bright flaming red with yellow, orange.  I called my boyfriend out and ran in to get my phone, snapped a photo (did not come out very good).  Ran back in to grab better camera.  I turned camera on and the object just went black, just a black floating ball.  Then it was gone!  I came in and painted a picture of what it looked like.  It was too high to be a balloon, and it was almost dark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116657.html](http://www.nuforc.org/webreports/reports/116/S116657.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Loveland (CO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A large bright blue/green light with a long white tail was traveling south at a fairly fast speed.  It was above the horizon, but not as high up as an airplane.  In an instant, it disappeared.  There were many reports of this sighting that night, all the way from Denver to Nebraska, Wyoming and SDakota.  I have confirmed it with at least 7 others that saw it also, all in various locations in Larimer county.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15965.html](http://www.nuforc.org/webreports/reports/015/S15965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
