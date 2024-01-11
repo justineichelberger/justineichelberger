@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:35 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:31 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Rockford (IL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>A number of orange/yellow lights appeared and began moving erratically in two groups.At approximately 9:15pm (CST) a number of orange/yellow lights appeared in the sky in eastern Rockford.  I first saw a group of 7 that were moving slowly, but not falling -- they were moving laterally.  After a few minutes, a number of Rockford residents (hundreds) had pulled off the side of the road to watch the phenomenon.  There was also a second group of about 18 circles that appeared and began moving east.  Our local police department had over 100 calls, and the local news and TV media still have not determined what caused the lights. The lights were just below cloud level (which was high that night).((NUFORC Note:  We believe the correct date should be 11JA01.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15925.html](http://www.nuforc.org/webreports/reports/015/S15925.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Downingtown (PA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I thought it was a plane but it had no wings and did not move.I was traveling East on Rt 30 bypass, as I past the Rt 322 (Manor Ave) overpass, I noticed something in the sky to the north of me.    I first thought that the object was a plane, only I could not see any wings or defined tail section.  It was grayish white and metallic.  It did not move from the time I noticed it until the time I got off the bypass at the Quarry Rd exit.  I believe it was still there when I got the intersection of business Rt 30 and Quarry Rd.  The sky was clear and the sun was to the south east.  It appeared to be over Loinville. Not a helicopter.  Not reflection of light.  Not a balloon.  No vapor trail like the plane flying higher than this object.  Either, a hovering plane or UFO!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54677.html](http://www.nuforc.org/webreports/reports/054/S54677.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
