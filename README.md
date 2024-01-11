@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Bordentown (NJ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bordentown NJ Fire Orange Sphere'sI have 3 videos. I was walking my dog and I watched as 5 separate golden spheres traveled along in an almost perfect line. Then came together in groups of 3 in geometric formation and one by one vanished out of sight to higher altitude. I have had 2 other daytime sightings but this was my first evening. I asked them for a a "show" and I wasn't disappointed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161611.html](http://www.nuforc.org/webreports/reports/161/S161611.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Lake Pleasant (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Dancing Orange and red starAs a looked up at the sky my eyes were immediately drawn to a bright orange/red star.  At first it just looked like a star.  I had to look closely and use a vantage point(power lines) and other stars to see that it was moving around in a jerky/ bouncy way. It would split in two and reform into one. A smaller but very bright red light formed just under it then it would just be the bright orange light again.  The light color would change to white blue and green. It was hard to make out what was going on.  I wish I could have zoomed in or had a telescope to help me see it because it seemed like there was a lot of activity, but it it was too far away for me to see specifically what was happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161588.html](http://www.nuforc.org/webreports/reports/161/S161588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
