@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:40 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:32 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple red lights decending towards earthI was working the gravyard shift as a security officer in Santa Fe, and while making a routine partol I noticed a strange looking red light off in the distance.(not moving) I stopped and watched it for a couple minutes. After about 3-4 minutes I realized it was starting to move.  I quickly climed up on the roof of the Mall to get a better look.  While up on the roof I watched as this strange light changed from a normal red to a very odd looking red and back again. Then it slowly moved to the left, stopped, and moved to the right.  Then seemingly out of know where a second red light appeared directly below the origonal. Slowly this second light started decending towards earth. I watched it go down untill it was behind the mountains. I looked back up and there was another one decending in the same way as the first. I watched it all the way down, looked up expecting to see another, but instead it was just the origanal one (I'm assuming). Then poof it was gone. Just like that. I'm still in awe of what I saw that night.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42159.html](http://www.nuforc.org/webreports/reports/042/S42159.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright light fades to nothingnessAs I drove on my street heading home I noticed a very bright light in the SW sky, not very high up.  It was, perhaps, 4 times the brightness of Venus.  Since planes are often seen in that part of the sky I reckoned it was a plane heading for Green Airport in Warwick, RI.  But as I watched the bright yellowish-white light it faded out to a tiny point of white light and disappeared.  It did not change its position. It faded out into nothing.  There were no landing lights, only this one extremely bright whitish light.  I estimate that it was from 2 to 5 thousand feet in the air.  I see planes regularly coming from the SW toward Warwick but this was not a plane or a star or anything else I can think of.  I watch the skies often for UFOs and am reporting this as it is enough out of the ordinary to warrant it a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48695.html](http://www.nuforc.org/webreports/reports/048/S48695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
