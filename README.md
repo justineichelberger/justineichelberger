@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:37 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:35 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 21.0 - 21.0 minutes.</sub><blockquote><sub>Unknown light hovering in sky toward TownvilleIn the early hours of January the 12th, a friend and myself walked to my car and started it in an effort to get some heat on a cold morning. As we sat and waited for my car to get warm, I noticed a peculiarly bright light in the Western sky. The light caught my attention initially because it was the brightest light in the sky, much brighter than any of the stars. But then as I sat and watched it, I noticed it was traveling incredibly akward to be a plane. First off, it was traveling left to right, then remaining stationary (hovering like a helicopter), then continuing to take off again, sort of zig-zagging. As it proceeded this routine, I ran back inside and grabbed my digital camera and batteries (nothing substantial seemed to come out, but they're open for review). I did notice, however, as i tried to focus on the object with the camera, i could clearly see a purple, cyan, blue alternating color pattern (this could just be coincidental, but even with the naked eye an alternating strobe could be seen).All in all, I'm not saying it was ever close enough for me to say it was an alien craft or UFO. I am, however, asking for an explination for the object I most certainly witnessed in the sky. Take into concideration that my father has worked with airplanes his entire life and being that we live less than a mile from the city airport (that has no military connection), I'm familiar with the common planes.Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67976.html](http://www.nuforc.org/webreports/reports/067/S67976.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Belleville (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>My son and I were siting in the Kitchen when a military helicopter flew low overhead (under 500').  We went outside to see what was happening and we saw the first helicopter flying south.  Then a a 2nd helicopter was spotted to our west at about 1500'.  It was also flying south.We stood outside for a minute watching the 2nd helicopter and looking across the sky to see what they were following.  That is when  an overhead star I was directly looking at started to move.  It was much higher than the two helicopters and it started flying south too, but then turned up into the sky and disappeared into the distance.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161630.html](http://www.nuforc.org/webreports/reports/161/S161630.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
