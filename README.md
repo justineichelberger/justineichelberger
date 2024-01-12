@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright light fades to nothingnessAs I drove on my street heading home I noticed a very bright light in the SW sky, not very high up.  It was, perhaps, 4 times the brightness of Venus.  Since planes are often seen in that part of the sky I reckoned it was a plane heading for Green Airport in Warwick, RI.  But as I watched the bright yellowish-white light it faded out to a tiny point of white light and disappeared.  It did not change its position. It faded out into nothing.  There were no landing lights, only this one extremely bright whitish light.  I estimate that it was from 2 to 5 thousand feet in the air.  I see planes regularly coming from the SW toward Warwick but this was not a plane or a star or anything else I can think of.  I watch the skies often for UFOs and am reporting this as it is enough out of the ordinary to warrant it a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48695.html](http://www.nuforc.org/webreports/reports/048/S48695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Anderson (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 21.0 - 21.0 minutes.</sub><blockquote><sub>Unknown light hovering in sky toward TownvilleIn the early hours of January the 12th, a friend and myself walked to my car and started it in an effort to get some heat on a cold morning. As we sat and waited for my car to get warm, I noticed a peculiarly bright light in the Western sky. The light caught my attention initially because it was the brightest light in the sky, much brighter than any of the stars. But then as I sat and watched it, I noticed it was traveling incredibly akward to be a plane. First off, it was traveling left to right, then remaining stationary (hovering like a helicopter), then continuing to take off again, sort of zig-zagging. As it proceeded this routine, I ran back inside and grabbed my digital camera and batteries (nothing substantial seemed to come out, but they're open for review). I did notice, however, as i tried to focus on the object with the camera, i could clearly see a purple, cyan, blue alternating color pattern (this could just be coincidental, but even with the naked eye an alternating strobe could be seen).All in all, I'm not saying it was ever close enough for me to say it was an alien craft or UFO. I am, however, asking for an explination for the object I most certainly witnessed in the sky. Take into concideration that my father has worked with airplanes his entire life and being that we live less than a mile from the city airport (that has no military connection), I'm familiar with the common planes.Thank you for your time</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67976.html](http://www.nuforc.org/webreports/reports/067/S67976.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
