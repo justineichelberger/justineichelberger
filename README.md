@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:36 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:38 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Eugene (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Awaken by several episodes of BRIGHT FLASHING LIGHT and a very LOUD mysterous noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74065.html](http://www.nuforc.org/webreports/reports/074/S74065.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Greenwich (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5:30pm - 5:30pm minutes.</sub><blockquote><sub>Two Very Bright Lights, vertical position, of the Hudson River.The formation I saw was two very bright lights, it looked like they where stacked on top of one another, you couldn’t see anything except the bright lights. At first I saw them and thought it was a airplane. And then it never moved and the lights where arranged differently, and they where to big and bright to be a airplane. At the same time I looked around because they would keep disappearing and reappearing. And I saw a plane way to the right of me and that was moving and blinking (like planes do). So I kept watching for this formation, I finally stopped my car and watched for it, because when the lights would go away, there was NOTHING there. Then it would appear in the same spot again, not moving. The area I saw this is over the hudson river between Mechanicville – Saratoga area. When I drive home I can see this stretch of the river for about 20-25 mins., because I drive parallel to the river.  All of the sudden it just disappeared and was gone. I just got the nerve up to tell the guys at work and they gave me this site. My Husband just laughed at me, but I had a really weird feeling when this whole thing was happening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21474.html](http://www.nuforc.org/webreports/reports/021/S21474.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
