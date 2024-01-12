@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:43 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:34 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Chelmsford (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO N Chelmsford Sun Jan 12It seemed to be square and black with green and red lights, noisy low flying going in different directions, it seemed to big and loud and too many lights to be a drone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152546.html](http://www.nuforc.org/webreports/reports/152/S152546.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Pueblo West (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 second flash of what appeared to be 5-8 orange lights in a row, really close together, like a craft and happened 2X within 2 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161604.html](http://www.nuforc.org/webreports/reports/161/S161604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
