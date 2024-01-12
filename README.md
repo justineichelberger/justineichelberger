@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:01 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:43 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Cleveland (OH) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>15 balls of light moving quite fast in a line towards Lake Erie.I was looking out my 6th floor apartment window towards the west (towards Lakewood, Rocky River, and points west along the Lake Erie shoreline).  Several (15) balls of light came up from the horizon, made an arc movement into the sky, and proceeded to quickly move towards Lake Erie.  Within about 30 seconds, each light would be over the lake and they disappeared as they moved towards Canada.  They were crossing paths of planes on approach to Cleveland Hopkins that were also out over Lake Erie. They were moving much faster than the planes, seemed to be above the planes that were coming in to land, and they had no flashing lights like the planes (just a red ball of light).  Weirdest thing I've ever seen, no explanation other than they were definitely not satellites, meteors, planes, or lanterns (I've seen all of these before).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106240.html](http://www.nuforc.org/webreports/reports/106/S106240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in North Chelmsford (MA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>UFO N Chelmsford Sun Jan 12It seemed to be square and black with green and red lights, noisy low flying going in different directions, it seemed to big and loud and too many lights to be a drone</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152546.html](http://www.nuforc.org/webreports/reports/152/S152546.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
