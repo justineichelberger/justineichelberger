@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:37 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Paisley (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very large, Oblong Triangle UFO, white and red flashing lights, flying fast, with smaller object following, Paisley, ORJanuary 12, 2019, Witnessed something very unusual, at around 7:15pm, there were flashing Red and Solid, non-flashing White/clear lights in the sky, the shape of a very large somewhat oblong, triangle, flying North over the town of Paisley, OR.  It was moving much faster than the airliners/jets we see.  Pretty high up.  There was also a very small object, flying a short distance behind , and a little lower, with only flashing Red lights.  They were traveling together.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144675.html](http://www.nuforc.org/webreports/reports/144/S144675.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bridgeville (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 720.0 - 720.0 minutes.</sub><blockquote><sub>Bright Light In SkyDate: 12/01/2008 – 01/12/2009 Time: 6:00 PM – 5:30 AM Duration: Approx 12 Hours For the past month myself and several witnesses have observed a bright light coming from approx 215 degrees south.  This light will appear about 3 hours after dark and slowly move across the sky in a south to north direction.  The light moves way too slowly to be a plane or satellite, and is not always present in the sky, which rules out a star, as previously thought.  On occasion I have seen this light move south to north quickly and then return to its original location.  The light does have star light characteristics but its unusual movement and brightness have aroused the curiosity of local witnesses.((NUFORC Note:  Source of report indicates that the date of the incident is approximate.  PD))((NUFORC Note:  Sighting of Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/067/S67985.html](http://www.nuforc.org/webreports/reports/067/S67985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
