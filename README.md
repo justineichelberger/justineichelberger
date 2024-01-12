@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:44 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:40 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Kennesaw (GA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ONE BRIGHT ORANGE OVAL SHAPED CRAFT CAME IN LIKE A JET TO WITHIN 300 YARDS OF HOME, BUT SILENTLY, AND THEN HOVERED SLOWLY BEFORE DISAPPEARING.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/095/S95984.html](http://www.nuforc.org/webreports/reports/095/S95984.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Santa Fe (NM) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Multiple red lights decending towards earthI was working the gravyard shift as a security officer in Santa Fe, and while making a routine partol I noticed a strange looking red light off in the distance.(not moving) I stopped and watched it for a couple minutes. After about 3-4 minutes I realized it was starting to move.  I quickly climed up on the roof of the Mall to get a better look.  While up on the roof I watched as this strange light changed from a normal red to a very odd looking red and back again. Then it slowly moved to the left, stopped, and moved to the right.  Then seemingly out of know where a second red light appeared directly below the origonal. Slowly this second light started decending towards earth. I watched it go down untill it was behind the mountains. I looked back up and there was another one decending in the same way as the first. I watched it all the way down, looked up expecting to see another, but instead it was just the origanal one (I'm assuming). Then poof it was gone. Just like that. I'm still in awe of what I saw that night.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/042/S42159.html](http://www.nuforc.org/webreports/reports/042/S42159.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
