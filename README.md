@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 11 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Trumbull (CT) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>A rectangular object flying lower than plane height with one bright light.  Light was shining forward towards the skyline.  Object was moving at a moderate pace in the same direction as the light.  Making a loud machine like noise.  I noticed it from the road, pulling into my driveway.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86536.html](http://www.nuforc.org/webreports/reports/086/S86536.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  66</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152819.html](http://www.nuforc.org/webreports/reports/152/S152819.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [303](http://www.nuforc.org/webreports/reports/161/S161588.html)
-- [302](http://www.nuforc.org/webreports/reports/161/S161611.html)
-- [301](http://www.nuforc.org/webreports/reports/161/S161607.html)
-- [300](http://www.nuforc.org/webreports/reports/161/S161592.html)
-- [299](http://www.nuforc.org/webreports/reports/161/S161796.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
