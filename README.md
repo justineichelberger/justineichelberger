@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Grand Rapids (MI) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I submitted this report back in 2005.   I have been reviewing my report from that time.  There are a couple of things that are incorrect.  The sighting was South of Lake Michigan Drive and West of Covell Road.   A few more things I would like to point out.  The craft may have been 3 to 4 times the size that I stated (200-300 ft.)  As we were driving up Cenntenial Drive (steep incline) the lights caught my eye.  It was about 20-30 miles away, it was coming at us at a very high rate of speed.  It had multiple lights rotating around the middle of the saucer.  As in other reports that I read, the middle of the craft did not come to a point, it had was a verticle surface (5-10 feet or more)  The strangest thing was that as soon as the spot lights under the object focused on us (my friend who was driving killed the lights and coasted to the end of the road, so I felt it did not know we were there) it rose and speed off at an unbelievable rate of speed (thousands of miles an hour or more)  I was in the passenger seat and never took my eyes off of it.  It traveled 30 miles in two or three seconds.  We jumped on 196 East and followed it for about ten minutes.  It looked like a moving star off in the distance.The strangest thing of all is that after we headed back home, none of us spoke about it to each other or anyone that night (family members, etc.).  It wasn't until weeks later that we were all hanging out together, and I mentioned it as a dream.  Instantly both of my friends who were with me had the wierdest looks on thier faces.  I could tell they were freaked out.  We had one or two other friends present at this time.  They thought we were joking.  Each of us took turns telling exactly the same thing that happened.If anyone would like to talk to me about this, I would like to talk to someone if possible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/066/S66724.html](http://www.nuforc.org/webreports/reports/066/S66724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Paisley (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Very large, Oblong Triangle UFO, white and red flashing lights, flying fast, with smaller object following, Paisley, ORJanuary 12, 2019, Witnessed something very unusual, at around 7:15pm, there were flashing Red and Solid, non-flashing White/clear lights in the sky, the shape of a very large somewhat oblong, triangle, flying North over the town of Paisley, OR.  It was moving much faster than the airliners/jets we see.  Pretty high up.  There was also a very small object, flying a short distance behind , and a little lower, with only flashing Red lights.  They were traveling together.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144675.html](http://www.nuforc.org/webreports/reports/144/S144675.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
