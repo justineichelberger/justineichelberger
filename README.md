@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:40 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chico (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange star-like ball of light, erratic motion, no noise.Large bright star-like light, mostly orange.  Travelled from N or NE towards South, basically in a line, but with an erratic motion: pausing, moving up and down randomly, etc.  There was no aircraft noise, no flashing lights, no red/green/white lights that would normally be seen on aircraft.  Light faded out as it moved towards the south, seemingly moving farther away.  Observers: two 30-year-old women.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41502.html](http://www.nuforc.org/webreports/reports/041/S41502.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Georgetown (KY) reported seeing craft that fit the description of some 'Light' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Orange streaks of light over Georgetown.My wife and I were headed southwest on 62 between Leesburg and Georgetown when our son said he saw a falling star.  We looked and the object appeared to have a vapor trail that was bright orange so at first we believed it to be a plane.  As we continued to drive we noticed the craft was no moving enough to make a noticeable difference and the light trail was much shorter than what is typically seen behind an airplane.  We soon cleared the tree cover and noticed 3 objects to the direct north all flying diagonally in different directions at different altitudes.  When we made a more southern turn we noticed 2 more streaks of orange light parallel to one another almost in a direct southwest direction.  As we neared Georgetown we noticed one more streak above the Toyota plant but it seemed to be noticeable farther away.  By the time we got home we could no longer see any of the streaks they just seemed to have faded away.  The closest lights had what looked like ! a triangular vehicle in front of them.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106234.html](http://www.nuforc.org/webreports/reports/106/S106234.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
