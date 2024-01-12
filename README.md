@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:12:22 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:33 on 12 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Portland (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Sighting of lights over willamette river in Portland, OR Saturday 1/12/02 @ 4:10pm near two rainbowsI have never in my life seen anything like I saw today on my way to a movie in NW Portland. We were travelling north on Macadam Boulevard right near the industrial area on the west bank of the willamette river when I looked up and noticed two rainbows that broke off mid way up in the sky as above them loomed a thick cloud formation that covered most of the eastern sky. While examining the rainbows my girlfriend (who was driving at the moment) noticed little lights which were floating either in front of or within the cloud formation. The lights, looked EXACTLY like stars but it was 4:10pm in the afternoon and they appeared to be in front of the clouds. There were 6-10 lights all hovering and moving both in formation and separately (I definitely counted 6 I could see at one given time while my girlfriend claimed to see as many as 10 at one given time). These were not like any planes I have ever seen as they remained stationary and were able to move back and forth in relation to one another with surprising speed and no need for turning radii. One moved in the northern direction, then stopped on a dime, hovered for a while and then returned in the direction it originally came from. They moved quite quickly and seemed quite agile.  The group of lights occupied no more than 35 degrees of the sky  horizontally and all appeared around the same altitude (guesstimate of 200-300 feet high) Neither one of us could tell the size or distance of the lights as they appeared as little more than pin pricks of light but we both agreed that they appeared to be somewhat close and the way they moved only heightened that sensation. If I had to guess I would say they were no more than 2-3 football fields away. This is my first UFO experience and I hope other people were looking in the direction of the rainbows and can back up our story. Did anybody else see this? I have no idea what they were but it was one of the most amazing things I have ever seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21424.html](http://www.nuforc.org/webreports/reports/021/S21424.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in South Kingstown (RI) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Bright light fades to nothingnessAs I drove on my street heading home I noticed a very bright light in the SW sky, not very high up.  It was, perhaps, 4 times the brightness of Venus.  Since planes are often seen in that part of the sky I reckoned it was a plane heading for Green Airport in Warwick, RI.  But as I watched the bright yellowish-white light it faded out to a tiny point of white light and disappeared.  It did not change its position. It faded out into nothing.  There were no landing lights, only this one extremely bright whitish light.  I estimate that it was from 2 to 5 thousand feet in the air.  I see planes regularly coming from the SW toward Warwick but this was not a plane or a star or anything else I can think of.  I watch the skies often for UFOs and am reporting this as it is enough out of the ordinary to warrant it a UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48695.html](http://www.nuforc.org/webreports/reports/048/S48695.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [272](http://www.nuforc.org/webreports/reports/161/S161604.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161608.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161670.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161630.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161616.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
