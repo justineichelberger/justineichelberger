@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:10 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Hugoton (KS) reported seeing craft that fit the description of some 'Flash' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Way bright light that does not move at all.  Not even a bit .Looks like a helicopter light but way up high. Its much to bright.  Does not move at all.  Not even a bit.  As I keep on staring at it.  It appears to be above the city of liberal but I can see it from Hugoton.((NUFORC Note:  Party does not respond to any of our attempts to communicate.  We strongly suspect that the report is a hoax.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107100.html](http://www.nuforc.org/webreports/reports/107/S107100.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Poland (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>orange light over mechanic falls maine, hovers and disappearsi was with my girlfriend,her father,and her cousin.my girlfriend is disabled, her father is a retired veteran, her uncle is a roofer,and i am in auto parts sales.we were taking a ride on tiger hill road.we stopped so the guys could "water the trees" so to speak.we were three men,one woman.we got back into the car and turned around.thats when we noticed the "thing" in the sky.from the viewpoint we had the craft was over the mechanic falls or south paris area.we studied it for a few minutes and ruled out venus,as the craft was too large and orange colored.it definitly was no comet.we watched it all the way to rt.26 intersection.we got out of the car to go into the store.when we looked up it was gone.now my girlfriends father is sceptics sceptic.the look on his face when he could not find the object was priceless.especially after all the jokes of m.i.b.'s coming after us.the object was an orange oval,w/a dark center and circular lights around its perimiter.it was a pretty strange event and it sticks with us as if we saw god himself.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54774.html](http://www.nuforc.org/webreports/reports/054/S54774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
