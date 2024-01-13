@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:22 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>4 orange lights in a row with another one across from them, lights went out one by one.i was in my back yard walking my dog and something caught my eye. i saw 5 orange-ish glowing lights in the sky. they appeared to be maybe a mile away. in comparison to the stars,each light was about 5 times the size of one star.  there were 4 lights in a row, then one light across from the others. they were solid in color, didn't fade or blink or anything. then, one by one, each light went out. they didn't fade out, it's like they just shut off one by one. i've never seen anything like it. the next day on the radio i heard that there had been up to 30 reports of the same thing in the area.((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34485.html](http://www.nuforc.org/webreports/reports/034/S34485.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Malone (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange glowing lights in triangle formation3 fireball like glowing lights in a triangle shape.  These lights would intermittently change position with the other lights in a ''whirling'' motion.  Left as quickly as it was spotted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86724.html](http://www.nuforc.org/webreports/reports/086/S86724.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
