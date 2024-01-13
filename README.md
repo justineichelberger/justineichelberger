@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:35 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:34 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rancho Cucamonga (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Small Oval Like Object Splits Into Two and Zips Back and Forth from in Under 3/12 Minutes Over San Gabriel Mountains.During the evening while sitting around our fire pit, my family and I noticed a small yellow/orange oval-shaped object zipping across the night sky traveling well over the normal speed of a plane/jet or fighter jet.  Going from left to right (W to E) from our perspective, it was zipping across the top of the San Gabriel Mountains.As crazy as it sounds, once it just got passed Cajon Pass, the oval-shaped object split into two.  When this occurred, the second object became red and both the yellow/orange and red object looped around in a full complete circle.Once the object meets up with one another during the course of the loop, the object became one again only making the yellow/orange oval shape visible and flew back westward towards Mt. Baldy.  When it got past Mt. Baldy, the object seemed to have vanished, not to be seen by our eyes any longer.We tried to capture what we were seeing via our cell phones, as we didn't have a camera on hand, but we were to far away for our cameras to capture the oval-shaped object.This all occurred in under 3 and half minutes (31/2 minutes)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138400.html](http://www.nuforc.org/webreports/reports/138/S138400.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Johnstown (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Orangish cigar shaped object moving irregularly, changed position in the sky over several hoursAt 8:30pm, I went outside to smoke a pipe.  It was a clear night out and the stars were visible, so I looked up to check out what stars were visible.  I observed an orange cigar shaped object directly above me, high up in the sky.  It was moving about in a zig-zag pattern. I didn't think much of it and went inside when I finished my pipe.  When I went out again around 11:30pm to smoke, again I observed the same object to the right of its original position, this time moving left to right, back and forth.  This time I called my step-father outside and he saw it as well.  He had no explantion for what it was either.  When he went to pick my mother up from work, he looked to see if it was still there and he said it was now off to the left in the sky, again moving in a left to right pattern and pointed it out to my mother.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116700.html](http://www.nuforc.org/webreports/reports/116/S116700.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
