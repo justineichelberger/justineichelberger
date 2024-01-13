@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:38 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>20 or more magenta colored lights in the sky moving in formation, yet independently.20 or more round, magenta colored objects.  Seen from Howarth Park looking northeast. The magenta lights were moving independently and all moving north.  Some appeared to be dimming in brightness.  Over the course of 2-3 minutes, all 20+ of them disappeared.  A separate observer filmed the sighting and claims that near the bottom of the formation, there was a bright wisping white circle.  There appeared to be 3-4 man made lights approaching the magenta lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132160.html](http://www.nuforc.org/webreports/reports/132/S132160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Scottsdale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Erractic pinpoint of light observed in  the night skies of greater Phoenix.At approximately 10:00 PM, I was relaxing in the outdoor spa of my apartment complex when I noticed a star-sized point of light in the eastern sky.  The point of light moved erratically to the right, then downward and to the left and then roughly northeast and out of my field of vision behind the apartment building, all the time very wobbly and erratic. There is a lot of air traffic in the area and, being a private pilot myself, I am familiar with most aircraft lighting configurations.  What's more, there was an airliner visible several miles behind the luminous object heading nearly due west while the object moved in the foreground.  I had no way of estimating its size or range. I can't say for sure what the luminous object was, but I can say with some confidence what the object was not.  It wasn't a meteor because it stopped and reversed direction.  It was not a model airplane because it moved too rapidly, and it was not a balloon because it was a windless evening and again, it moved too quickly.  It was almost certainly not a firework or flare --- it moved silently. This is the first unusual sighting I've observed in the night sky.  I was not dreaming or intoxicated.  In fact, the event happened so quickly that I didn't have a chance to be surprised.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34450.html](http://www.nuforc.org/webreports/reports/034/S34450.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
