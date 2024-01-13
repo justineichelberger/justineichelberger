@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:38 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately Early Morning - Early Morning minutes.</sub><blockquote><sub>It was being chased by a plane!This object was a sort of tear drop, a pewter color that was shining into my eyes. I had just gotten really wasted and had had an orgy so that is why i had two other people watching. The craft was moving east toward the rising sun and it looked like it was running away from a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48793.html](http://www.nuforc.org/webreports/reports/048/S48793.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Rushville (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately Unknown - Unknown minutes.</sub><blockquote><sub>2 non-blinking lights (one red and one blue) on a stationary, triangular objectI saw two non-blinking lights on the edge of the craft.  On one point was a blue light and on the other was a red. Niether of the lights were blinking and I thought perhaps it was a tower I had never noticed on my way home from working going towards Brookville.  But as I got closer, I realized that it was directly above the road about 100 to 150 ft in the air.I then thought maybe it was a low flying plane or helicopter until I got directly below it and realized it was not moving and it was triangular in shape with no blinking lights as required on each wing of an airplane or aircraft.I then continued down the road and did catch a glimpse of it in my review mirror but decided not to turn around because I figured I would find a clear answer of what it was when I got home, but I had no such luck.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106279.html](http://www.nuforc.org/webreports/reports/106/S106279.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
