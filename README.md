@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:20 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a blue light that hovered for a few seconds and quickly disappearedIt was very dark there was a fague blue light in the sky about 100 feet off the ground it lasted for about 20 seconds and then quickly moved northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41496.html](http://www.nuforc.org/webreports/reports/041/S41496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>18:01 13/01/01 ORANGE FIREBALL PLUNGED DIRECTLY TO EARTH N.EAST ROTHER VALLEY PARK, AIRCRAFT NEARBY BUT MOVING AWAY SHEFFIELD ENGLAND.ORANGE FIREBALL PLUNGED DIRECTLY TO EARTH TOWARDS NORTH EAST OF SHEFFIELD INDIRECTION AROUND ROTHER VALLEY PARK - NO IMPACT FLASH OR SOUND. PLANE PASSING CLOSE BY BUT MOVING AWAY AND AT LOWER ALTITUDE. REPORTED TO LOCAL POLICE WHO SAID NO OTHER REPORTS RECEIVED. I AM AN IT HELPDESK OPERATOR AT SOUTH YORKSHIRE PASSENGER TRANSPORT EXECUTIVE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15943.html](http://www.nuforc.org/webreports/reports/015/S15943.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
