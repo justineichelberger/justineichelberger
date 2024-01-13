@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:34 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:20 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Johnstown (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 300.0 - 300.0 minutes.</sub><blockquote><sub>Orangish cigar shaped object moving irregularly, changed position in the sky over several hoursAt 8:30pm, I went outside to smoke a pipe.  It was a clear night out and the stars were visible, so I looked up to check out what stars were visible.  I observed an orange cigar shaped object directly above me, high up in the sky.  It was moving about in a zig-zag pattern. I didn't think much of it and went inside when I finished my pipe.  When I went out again around 11:30pm to smoke, again I observed the same object to the right of its original position, this time moving left to right, back and forth.  This time I called my step-father outside and he saw it as well.  He had no explantion for what it was either.  When he went to pick my mother up from work, he looked to see if it was still there and he said it was now off to the left in the sky, again moving in a left to right pattern and pointed it out to my mother.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116700.html](http://www.nuforc.org/webreports/reports/116/S116700.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Milwaukee (WI) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>a blue light that hovered for a few seconds and quickly disappearedIt was very dark there was a fague blue light in the sky about 100 feet off the ground it lasted for about 20 seconds and then quickly moved northeast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41496.html](http://www.nuforc.org/webreports/reports/041/S41496.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
