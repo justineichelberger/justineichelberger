@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:42 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:34 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Trapezoidal object seen in Fairbanks in 2005.From the Wal~Mart Parking lot looking south we observed a large Trapezoidal Object with multiple lights hovering in and coming toward us.  We observed it for 15 minutes then it moved 5 degrees to the right.  And hovered again for another 15 minutes.  After driving home I continued to observe it from my balcony for another fifteen minutes before I went to bed.   Infrasound readings taken of it seem to point to the fact that it had a low in audible sound like engines.  And that it disapeared after the 45 minutes were up.  Using trigonometry, GPS, and angles I estimated the object to be about 23 miles wide.((NUFORC Note:  We spoke via telephone with the witness, and he reports that he did not take a photograph.  We are skeptical of the report, but the source assured us that it is a truthful rendition of what he experienced.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/118/S118185.html](http://www.nuforc.org/webreports/reports/118/S118185.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Lebec (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>small streaks of light (or cloud) shooting out of huge cloud formation and returning in the cloud.We were on our way to Lancaster, Ca on Jan. 13, 2006, via I-5 freeway. I noticed a strange formation of clouds when we were close to the city of Grapevine. The cloud formation was nothing I've seen before. It was like a painting on the sky. Very smooth, with horizontal lines near the center. It was huge and oval in shape. I stopped on the shoulder and observed 3 streaks that looked like smaller portions of the cloud, shooting away from the cloud. 2 of the streaks, joined together, it seems, and returned to the cloud. These 2 made a single formation, with 2 tails. They were not flying very fast. There was no trail, but the small objects looked like they had exhaust. No sound. I took 2 short videos and 14 stills of the clouds and the small streaks.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48712.html](http://www.nuforc.org/webreports/reports/048/S48712.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
