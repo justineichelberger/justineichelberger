@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:38 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Malone (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Strange glowing lights in triangle formation3 fireball like glowing lights in a triangle shape.  These lights would intermittently change position with the other lights in a ''whirling'' motion.  Left as quickly as it was spotted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86724.html](http://www.nuforc.org/webreports/reports/086/S86724.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Providence (RI) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately Early Morning - Early Morning minutes.</sub><blockquote><sub>It was being chased by a plane!This object was a sort of tear drop, a pewter color that was shining into my eyes. I had just gotten really wasted and had had an orgy so that is why i had two other people watching. The craft was moving east toward the rising sun and it looked like it was running away from a plane.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48793.html](http://www.nuforc.org/webreports/reports/048/S48793.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
