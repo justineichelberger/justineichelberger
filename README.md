@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:00 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Nuriootpa (Australia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I witnessed about ten or so star lights travelling in a south easterly direction.They appeared to move like satellites but a lot faster and they randomly flashed very brightly only once and dim back down to a low  star light brightness.They seemed to be travelling like a fleet then disappear or blend into the stars.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152573.html](http://www.nuforc.org/webreports/reports/152/S152573.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Butler (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Mysterious glowing objectOn 1/14/2019 I stood outside to have my usual cigarette and coffee.  I looked up into the sky and saw a really bright star, possibly a planet.  Then I noticed 3 way smaller stars, 1 to the south, 1 to the east, 1 to the south east of the big star, essentially forming a rectangle.  I was thinking what a nice star formation.  While looking at the star to the east, I suddenly noticed a white/blue very bright constant light appear out of nowhere slightly to the left of the star..  I thought that it was a star that I overlooked at first until It started moving from left to right direction which startled me,  I observed it moving for about 15 seconds until it disappeared.  Even moved my glasses around because I thought I could be tripping, but the light was still there and moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144492.html](http://www.nuforc.org/webreports/reports/144/S144492.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
