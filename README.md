@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:00 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Butler (PA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Mysterious glowing objectOn 1/14/2019 I stood outside to have my usual cigarette and coffee.  I looked up into the sky and saw a really bright star, possibly a planet.  Then I noticed 3 way smaller stars, 1 to the south, 1 to the east, 1 to the south east of the big star, essentially forming a rectangle.  I was thinking what a nice star formation.  While looking at the star to the east, I suddenly noticed a white/blue very bright constant light appear out of nowhere slightly to the left of the star..  I thought that it was a star that I overlooked at first until It started moving from left to right direction which startled me,  I observed it moving for about 15 seconds until it disappeared.  Even moved my glasses around because I thought I could be tripping, but the light was still there and moving.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144492.html](http://www.nuforc.org/webreports/reports/144/S144492.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying object seen making darting and odd manuevers for 30 minutes.I was at the east bound exit ramp of hwy 40 and hwy 86.  I casually looked up at the sky to see maybe the big dipper.  I then notice what I thought was a shooting star but it travelled in a straight line for 5 seconds and came to a complete stop.  It then started moving back and forth perpendicular to the origianl path. It did this oscillating motion for several minutes and the would make darting and hook like movements, erratic then settle down a little, then start up again. it proceed to my right. I tried to call several friends, I reached one and asked to go outside and look at the sky. I told where to look based on the bright stars in a vertical line. I told her to look to her left quite aways and look at the star by itself. I said what do you see. She said its moving up and down. I called other friends but by then it had receded. The event lasted about 30 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54803.html](http://www.nuforc.org/webreports/reports/054/S54803.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
