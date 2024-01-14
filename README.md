@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:33 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:20 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Darien (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Fireball gliding in the sky over Darien, CT 1/14/12 @ 9:15 p.m.I was driving on Old Kings Highway, at the stop sign just by the YWCA.  At first I thought it was another planet shining in the sky because it was so large, but no, it was moving horizontally across the sky toward me from the right hand side of my wind shield gliding toward the left.  It was so strange, an orange ball of fire that did seem to flicker, but was so steady.  I'd never seen anything like it. It looked like a floating fire ball, but it was moving at a steady, intentional pace. It kept heading what I think was northward.  I tried to rationalize it but can't really figure how to do so because it was so high up.  But it was large enough to look the size (diameter) of a pen top from where I sat in my car.  NO I hadn't been drinking or taking anything at all.  Not even Advil. I was happy to see the reports from Southbury and Bridgeport not to long before.  They are towns relatively close to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86584.html](http://www.nuforc.org/webreports/reports/086/S86584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bethel (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>black smoke contrails over Bethel, AlaskaObserved black contrail across Bethel, Alaska.  Headed westerly direction.  Contrail was at about a 40 degree angle from ground to event horizon.  Unusual as it was jet black and contrail was zigzag shaped at top as if wind was blowing it in various directions it was then a soild line and then forked into two distinct contrails and tgen formed back into one. Object continued westerly for over ten minutes observation.  Used 7x35 binoculars to watch it.  Minimal clouds at time.  Round? Object, about dime sized in binoculers and it continued across sky till unable to observe it with glasses.  Black smoke dissipated but object was still visable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116714.html](http://www.nuforc.org/webreports/reports/116/S116714.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
