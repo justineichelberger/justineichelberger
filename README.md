@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:44 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:38 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mortimer (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellow bright orb object seen over Berkshire, England.On January 14th at 17:30 in the evening in England, Berkshire.I saw a bright yellow light in the distance, almost as bright as the moon, but slightly smaller than the moon in size.  As I observed, it was moving very strangely, short burst movements, it would move a little bit then stop and move again.  It was very low in the sky, about the same height as tree tops.As I continued to watch, it moved behind a chimney for a few seconds, before it came out at the top of the chimney, revealing itself again.  This bright yellow light suddenly became dimmer and kept moving vertically in the sky.  Eventually it was so dim it became as bright as a distant star.  Shortly after that it just vanished from view.  Unfortunately, I was interrupted by a family member at the time it went so, I missed part of the sighting.However, this all happened in a matter of about 2 minutes roughly I would say. Not seen anything quite like it.  Certainly not a plane, I did wonder if it was a helicopter, but it was moving rather strange, plus it left so quickly, which almost rules out a helicopter I think.  I do not believe there was any sound, but I was inside the house looking out of my window.  So its hard to say if there was any sound, I certainly don't recall any sound at all.  Very exciting, I was blown away by it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125265.html](http://www.nuforc.org/webreports/reports/125/S125265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sandersville (GA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15-30 seconds a piece - 15-30 seconds a piece minutes.</sub><blockquote><sub>My husband and I were driving on Linton Rd. headed south, when he said did you see that and I replied no see what? Then he pointed south east and as I watched the night sky we saw what looked like a flare(blueish white), except that there was no smoke after the light diminshed and as we kept watching the sky we saw this occur three more times in the same location each time and then it just ceased and we no longer saw them.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49838.html](http://www.nuforc.org/webreports/reports/049/S49838.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
