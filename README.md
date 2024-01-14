@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:40 on 13 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Pine Mountain (AR) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>went out to warm up truck at 06:30 and i saw a light to my south;i thought it was venus but it was to far south for that time was there for for two min at least moving slowly west/ then it shot off to the west at  great speed ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11666.html](http://www.nuforc.org/webreports/reports/011/S11666.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball/meteor flying below clowd cover East to WestI was on my way to work, waiting for the traffic signal change at the intersection of Hwy. 9 & Hwy. 92, facing west.  I saw a green ball of light similar to meteors I have witnessed in the military, however unlike the meteor I saw(which was large & had a tail), this ball was low at about 9,000 feet, guessing by the high cloud cover. It was well below the clouds.  It flew due West from the East.  It was a clear bright ball flying faster than any aircraft I know of, but not as fast as a "shooting star".   It didn’t have a tail or anything trailing it. >From my viewpoint it was the size of a streetlight, as compared in contrast of a full moon. This ball was perfectly round and very bright green.  It didn’t make any turns before going out of view, it could have been a meteor but I seriously can’t believe it was.  It is also hard for me to believe it is something alien, but I would like to know what it is other than "it’s just another meteor".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05524.html](http://www.nuforc.org/webreports/reports/005/S05524.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [292](http://www.nuforc.org/webreports/reports/161/S161619.html)
-- [291](http://www.nuforc.org/webreports/reports/161/S161974.html)
-- [290](http://www.nuforc.org/webreports/reports/161/S161618.html)
-- [289](http://www.nuforc.org/webreports/reports/161/S161625.html)
-- [288](http://www.nuforc.org/webreports/reports/161/S161623.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
