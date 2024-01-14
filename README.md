@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:49 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:20 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in St. Clair (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately On going - On going minutes.</sub><blockquote><sub>triangular shaped light in SE sky.With Orion on my left and facing south, it's in the South East sky and within the tree line.  I don't know if it's Venus or another celestial body.  It seems triangular shaped and a very white, bright light. Just sitting there and not moving other than seeming to turn.  But that could be atmospheric interference.  I wish I knew more about where things are in the sky.Edit:  This was in the South West sky, not SE  (Orion was on my left) and after 2 hours, it disappeared.  I went out to check on it and it was gone.  It wasn't high in the sky. It was at the tops of the trees.  I checked it about every 30 minutes.  It seemed to just sit there and turn.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132171.html](http://www.nuforc.org/webreports/reports/132/S132171.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Belgrade (Serbia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three orange flying objects fly above me, they were making no sounds, about 20 meters off the ground.I was walking from the store and suddenly this orange light was about 20 meters above me. It didnt make any sound, just kept moving in a straight line, it was moving real fast.  After 20-30 seconds it was gone, but when I looked in the sky again I saw another one, moving in a little different direction but also to the north, it was the same size, no noise, fast, it got away.  After minute or two third one went above me different but he was moving north east.  I never seen such a thing before...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106270.html](http://www.nuforc.org/webreports/reports/106/S106270.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
