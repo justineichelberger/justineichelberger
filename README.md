@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:44 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:44 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Antioch (IL) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Formation of orange spheres in sky.Spotted 8-10 glowing orange orbs in formation, with a leading triangle and the rest side by side heading West to East then turning North.  The orbs appeared over the Antioch, IL, downtown area.  Saw them for at least 3 minutes, until we drove out of line of sight.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125284.html](http://www.nuforc.org/webreports/reports/125/S125284.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Mortimer (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Yellow bright orb object seen over Berkshire, England.On January 14th at 17:30 in the evening in England, Berkshire.I saw a bright yellow light in the distance, almost as bright as the moon, but slightly smaller than the moon in size.  As I observed, it was moving very strangely, short burst movements, it would move a little bit then stop and move again.  It was very low in the sky, about the same height as tree tops.As I continued to watch, it moved behind a chimney for a few seconds, before it came out at the top of the chimney, revealing itself again.  This bright yellow light suddenly became dimmer and kept moving vertically in the sky.  Eventually it was so dim it became as bright as a distant star.  Shortly after that it just vanished from view.  Unfortunately, I was interrupted by a family member at the time it went so, I missed part of the sighting.However, this all happened in a matter of about 2 minutes roughly I would say. Not seen anything quite like it.  Certainly not a plane, I did wonder if it was a helicopter, but it was moving rather strange, plus it left so quickly, which almost rules out a helicopter I think.  I do not believe there was any sound, but I was inside the house looking out of my window.  So its hard to say if there was any sound, I certainly don't recall any sound at all.  Very exciting, I was blown away by it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125265.html](http://www.nuforc.org/webreports/reports/125/S125265.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
