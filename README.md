@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:33 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Irregular, white light sitting low inthe SW sky over Melbourne, FL.Bright irregular shaped, bright light visible  in the S W sky.  I was driving west on hey 192, the low, white light was not moving.  It was still very light as it was approximately 5:30 pm.  It was irregular in shape leaning toward anjagged oval.  It was not a plane or star it was large and sat there as long as I drove, then stopped to watch it for over 30 min.  It was still visible when I stopped watching.  I would like to learn what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132180.html](http://www.nuforc.org/webreports/reports/132/S132180.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Kelowna (Canada) (BC) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large light bigger than fullmoon moving in a circular and oval orbit in the sky above cloud lineWhile outside I looked up towards the moon and saw a light shrouded above the cloud cover making a circular and sometimes oval  counter clockwise path.  We watched it for about 15 minutes then the clouds moved in more and it disappeared.  Note - there are no search lights and we saw a plane fly by but it was beneath the cloud cover and we could hear it.  This we did not hear any noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106304.html](http://www.nuforc.org/webreports/reports/106/S106304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
