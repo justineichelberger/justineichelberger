@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:20 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:45 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Belgrade (Serbia) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Three orange flying objects fly above me, they were making no sounds, about 20 meters off the ground.I was walking from the store and suddenly this orange light was about 20 meters above me. It didnt make any sound, just kept moving in a straight line, it was moving real fast.  After 20-30 seconds it was gone, but when I looked in the sky again I saw another one, moving in a little different direction but also to the north, it was the same size, no noise, fast, it got away.  After minute or two third one went above me different but he was moving north east.  I never seen such a thing before...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106270.html](http://www.nuforc.org/webreports/reports/106/S106270.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1993, an anonymous witness in Ridge (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>A very large craft with 3 lights underneath flew slowly over the trees silently  from east to west.((NUFORC Note:  Witness elects to remain anonymous.  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/037/S37584.html](http://www.nuforc.org/webreports/reports/037/S37584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
