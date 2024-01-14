@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:49 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Fireball/meteor flying below clowd cover East to WestI was on my way to work, waiting for the traffic signal change at the intersection of Hwy. 9 & Hwy. 92, facing west.  I saw a green ball of light similar to meteors I have witnessed in the military, however unlike the meteor I saw(which was large & had a tail), this ball was low at about 9,000 feet, guessing by the high cloud cover. It was well below the clouds.  It flew due West from the East.  It was a clear bright ball flying faster than any aircraft I know of, but not as fast as a "shooting star".   It didn’t have a tail or anything trailing it. >From my viewpoint it was the size of a streetlight, as compared in contrast of a full moon. This ball was perfectly round and very bright green.  It didn’t make any turns before going out of view, it could have been a meteor but I seriously can’t believe it was.  It is also hard for me to believe it is something alien, but I would like to know what it is other than "it’s just another meteor".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05524.html](http://www.nuforc.org/webreports/reports/005/S05524.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in St. Clair (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately On going - On going minutes.</sub><blockquote><sub>triangular shaped light in SE sky.With Orion on my left and facing south, it's in the South East sky and within the tree line.  I don't know if it's Venus or another celestial body.  It seems triangular shaped and a very white, bright light. Just sitting there and not moving other than seeming to turn.  But that could be atmospheric interference.  I wish I knew more about where things are in the sky.Edit:  This was in the South West sky, not SE  (Orion was on my left) and after 2 hours, it disappeared.  I went out to check on it and it was gone.  It wasn't high in the sky. It was at the tops of the trees.  I checked it about every 30 minutes.  It seemed to just sit there and turn.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132171.html](http://www.nuforc.org/webreports/reports/132/S132171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
