@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying object seen making darting and odd manuevers for 30 minutes.I was at the east bound exit ramp of hwy 40 and hwy 86.  I casually looked up at the sky to see maybe the big dipper.  I then notice what I thought was a shooting star but it travelled in a straight line for 5 seconds and came to a complete stop.  It then started moving back and forth perpendicular to the origianl path. It did this oscillating motion for several minutes and the would make darting and hook like movements, erratic then settle down a little, then start up again. it proceed to my right. I tried to call several friends, I reached one and asked to go outside and look at the sky. I told where to look based on the bright stars in a vertical line. I told her to look to her left quite aways and look at the star by itself. I said what do you see. She said its moving up and down. I called other friends but by then it had receded. The event lasted about 30 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54803.html](http://www.nuforc.org/webreports/reports/054/S54803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Darien (CT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Orange Fireball gliding in the sky over Darien, CT 1/14/12 @ 9:15 p.m.I was driving on Old Kings Highway, at the stop sign just by the YWCA.  At first I thought it was another planet shining in the sky because it was so large, but no, it was moving horizontally across the sky toward me from the right hand side of my wind shield gliding toward the left.  It was so strange, an orange ball of fire that did seem to flicker, but was so steady.  I'd never seen anything like it. It looked like a floating fire ball, but it was moving at a steady, intentional pace. It kept heading what I think was northward.  I tried to rationalize it but can't really figure how to do so because it was so high up.  But it was large enough to look the size (diameter) of a pen top from where I sat in my car.  NO I hadn't been drinking or taking anything at all.  Not even Advil. I was happy to see the reports from Southbury and Bridgeport not to long before.  They are towns relatively close to me.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86584.html](http://www.nuforc.org/webreports/reports/086/S86584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
