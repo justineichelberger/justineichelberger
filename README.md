@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:40 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carrboro (NC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Flying object seen making darting and odd manuevers for 30 minutes.I was at the east bound exit ramp of hwy 40 and hwy 86.  I casually looked up at the sky to see maybe the big dipper.  I then notice what I thought was a shooting star but it travelled in a straight line for 5 seconds and came to a complete stop.  It then started moving back and forth perpendicular to the origianl path. It did this oscillating motion for several minutes and the would make darting and hook like movements, erratic then settle down a little, then start up again. it proceed to my right. I tried to call several friends, I reached one and asked to go outside and look at the sky. I told where to look based on the bright stars in a vertical line. I told her to look to her left quite aways and look at the star by itself. I said what do you see. She said its moving up and down. I called other friends but by then it had receded. The event lasted about 30 minutes or so.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54803.html](http://www.nuforc.org/webreports/reports/054/S54803.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Perry (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red-orange light above horizon that rose slowly and zigzagged before disappearing.I was carrying in some groceries and I saw a flickering orange-red light up above the horizon. The sky was perfectly clear with no clouds. At first, I thought maybe it was a planet or something until it started moving. It seemed to rise slowly while zigzagging back and forth. After watching it for a little over a minute it completely disappeared. The object looked to be a mile or two away west-southwest toward Dawson. I live out in the country surrounded by farmland so I have a pretty good view all around me. This is probably the 3rd time in the last two months I've seen this same light around my house. Also, I saw several planes out and about but as far as I know it didn't make any sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68033.html](http://www.nuforc.org/webreports/reports/068/S68033.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
