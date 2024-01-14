@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:20 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:34 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bethel (AK) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>black smoke contrails over Bethel, AlaskaObserved black contrail across Bethel, Alaska.  Headed westerly direction.  Contrail was at about a 40 degree angle from ground to event horizon.  Unusual as it was jet black and contrail was zigzag shaped at top as if wind was blowing it in various directions it was then a soild line and then forked into two distinct contrails and tgen formed back into one. Object continued westerly for over ten minutes observation.  Used 7x35 binoculars to watch it.  Minimal clouds at time.  Round? Object, about dime sized in binoculers and it continued across sky till unable to observe it with glasses.  Black smoke dissipated but object was still visable.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116714.html](http://www.nuforc.org/webreports/reports/116/S116714.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Melbourne (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Irregular, white light sitting low inthe SW sky over Melbourne, FL.Bright irregular shaped, bright light visible  in the S W sky.  I was driving west on hey 192, the low, white light was not moving.  It was still very light as it was approximately 5:30 pm.  It was irregular in shape leaning toward anjagged oval.  It was not a plane or star it was large and sat there as long as I drove, then stopped to watch it for over 30 min.  It was still visible when I stopped watching.  I would like to learn what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132180.html](http://www.nuforc.org/webreports/reports/132/S132180.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
