@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kimberly (ID) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Several Fireball followed by three red triangles.Saw several yellow balls flashing in to view before fading out.  They constantly changed positions and brightness before 3 red triangles came into view and took off south in a tight delta formation.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106348.html](http://www.nuforc.org/webreports/reports/106/S106348.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Fletcher (NC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A large triangle object  w/ 3 lights and a glowing center which made no sound.  Flying below the full moon.The object was about 1-2 miles high. It had 3 lights in the triangle shape and a glow in the center of the craft. The craft was moving southeast. The craft looked the size of a jet airliner, but was much lower than an airliner. I looked outside because the wind was blowing real hard and I wanted to check to see if any trees had fell near our home. Then I seen it coming over the mountian and I went back inside to get my son up and he went outside on the back deck with me. He saw the object also, and we came back inside to notify you. I have seen other objects in the sky here. But this time, it was really large and bright!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48718.html](http://www.nuforc.org/webreports/reports/048/S48718.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
