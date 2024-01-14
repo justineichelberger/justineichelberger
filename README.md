@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:40 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 14 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Perry (IA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Red-orange light above horizon that rose slowly and zigzagged before disappearing.I was carrying in some groceries and I saw a flickering orange-red light up above the horizon. The sky was perfectly clear with no clouds. At first, I thought maybe it was a planet or something until it started moving. It seemed to rise slowly while zigzagging back and forth. After watching it for a little over a minute it completely disappeared. The object looked to be a mile or two away west-southwest toward Dawson. I live out in the country surrounded by farmland so I have a pretty good view all around me. This is probably the 3rd time in the last two months I've seen this same light around my house. Also, I saw several planes out and about but as far as I know it didn't make any sound at all.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68033.html](http://www.nuforc.org/webreports/reports/068/S68033.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Fort Mill (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Orange orbs moving in formation and 'winking outI went out side around 6:20 and saw 3 orange spheres moving rapidly up from the NW toward Charlotte . I am in the Fort Mill, SC AREA. The formed up a triangle, hanging motionless. Then Two of the orange lights appeared to merge into one, then slowly vanished. My neighbor and my wife both saw this. My neighbor stood outside watching as two more orange orbs move upward and hung motionless in the same area as the other 3 had been. These were brighter, more orb-like. The hung there motionless, sometimes they looked like they were dancing around each other until they vanished. Two more, much brighter and more spherical rose up from the same direction. They were much brighter than the previous 5 that I had seen.  My Neighbor and I continued to watch. These too slowly faded out, to a low magnitude star-like appearance, then disappeared.I asked my neighbor if he had ever seen anything like this.  He said he was a trained pilot, had been in the military and seen a lot of aircraft, but none behaved like this. There was a lot of air traffic coming  out of Charlotte Airport (we are in the flight path and one airplane flew almost directly over head.  In the distance, beyond the tree line I could see other aircraft making their approach to the airport.What ever these orange orbs were, they did not behave like aircraft.  Nor were they meteors and fireballs (I have observed and reported these also in the past to the American Meteor Society). They were not planets, or stars (I’ve been a sky watcher/amateur astronomer for years). They did not behave like fireworks.I did not notice any more orbs after 6:28PM, as I was taking garbage to recycle.  I keep looking but failed to observer any further orange orbs as I drove off and came back.I do not know what these were.  But there were at least 3 witnesses who observed the same thing in the sky.I would be happy to discuss this with someone and show them where I saw the orbs.  I reported this to MUFON. They also had similar sighting on that evening.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87784.html](http://www.nuforc.org/webreports/reports/087/S87784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [277](http://www.nuforc.org/webreports/reports/161/S161656.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161627.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161807.html)
-- [274](http://www.nuforc.org/webreports/reports/161/S161675.html)
-- [273](http://www.nuforc.org/webreports/reports/161/S161649.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
