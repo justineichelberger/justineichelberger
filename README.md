@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Murphysboro (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Pinkish light zig zags in sky.I was walking my dog last night and looked up in the sky as I usually do at night to view the stars.  When I looked in the South East sky I saw what appeared to be a star moving in my direction.After about 5 seconds it immediately stopped for about 3 seconds and made a sharp right turn very quickly.  It appeared to go several miles in just a couple of seconds and stopped again for a few seconds, made a left turn then zipped off to the east at a very high rate of speed.It was a pinkish light and seemed to be in space and not our atmosphere and about the size of a star.I called the local authorities however they were not interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86620.html](http://www.nuforc.org/webreports/reports/086/S86620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Atchafalaya (LA) reported seeing craft that fit the description of some 'Light' over a period of approximately 35.0 - 35.0 minutes.</sub><blockquote><sub>Light seen over the Basin Bridge in La.First of all I am a trucker and that morning I had left out of Egan, La heading east on Interstate 10. After six am, I noticed a light in the sky just a little north of the highway but off in the east.  I looked at it for a bit and decided that it was probably a star- but it just didn’t seem like the right place for one- not too mention I didn’t see any other stars.  So, I just watched it as I traveled east.  As I headed east, I went onto the Basin Bridge, also known as the Atchafalaya Swamp Freeway.  Light began to break and I watched the light, I had also thought maybe it was an airplane, but it had no Navigational Lights and it should have passed me by now.  At about 6:40 am, I was nearing the end of the bridge about the 134 mile marker and there was more light out side, when I could see that it was cloudy above this “light”, in fact it was very cloudy with the high altitude clouds.  And this light was actually not all that far up in the air…  It was stationary and I watched it until I was under it, I moved the truck onto the shoulder and I could not see it anymore, I looked in the mirror and I still could not see it. The area that it was over, is also the same area where the Natural Gas Pipe blew up in December. (I think that’s the right month.)  This is at mile marker 135 on the I-10. I called this into the hotline just after I lost it…within a very few minutes.This one bright white light-looked like a star.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61042.html](http://www.nuforc.org/webreports/reports/061/S61042.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
