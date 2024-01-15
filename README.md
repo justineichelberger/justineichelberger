@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:03 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:41 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Morton (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately ? - ? minutes.</sub><blockquote><sub>3 lines become 1I was on my way to school when I saw above the sunrise three lines in a triangular pattern. They appeared to be illuminated by the rising sun, as they were the same color as the clouds around them. My glance drifted away for a while, but then I looked back out of curiosity. The lines had seemed to had joined into one bright line in the eastern sky. I watched the line for as long as I could. It stayed level, then leaned slightly. At this point, I arrived at school and had to stop watching.((NUFORC Note:  Date is approximate.  Student report. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41912.html](http://www.nuforc.org/webreports/reports/041/S41912.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Falling green object north of JacksonvilleMy wife and I witnessed a fairly large bright green object seeming to fall through the sky at a rapid rate.  We did not see an impact flash.  The object seemed to fall within a few miles of I-95, on the east side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54776.html](http://www.nuforc.org/webreports/reports/054/S54776.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
