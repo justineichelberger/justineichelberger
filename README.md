@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:41 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Sarasota (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Triangle shape with light at each point.While driving east,I noticed a large grey triangular object in the sky at about 45 degrees from me view.I watched it for a while.It seemed to hover without a sound.As  drove by some large trees I tried to keep an eye on it.I did for a while,then i passed by a rather large tree that blocked my view of the sky.As my view was renewed the object was gone.I looked around for it at different sky angle but could not find it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21465.html](http://www.nuforc.org/webreports/reports/021/S21465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Groton (CT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>On the night in question the skies were clear, also two of the wittnesses had an experiences in the past with a UFO.High in the atmosphere a glowing diamond shaped object appeared over the Northern sky in Groton, CT. around the time and date noted. The object also seemed to have an illuminating red ball that lit up every five minutes or so lasting for a few seconds.  The event was witnessed first by one member, than another and finally one more who took a more closer look at the object through a telescope. His findings were that the object had to be a star that was close?  Upon trying to find the object minutes later in a sky that had too much clearance for anything to have had disappeared that quick, and knowing it could not have been a satellite, or airplane, the only conclusion is that it was something flying that was unidentified... UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68048.html](http://www.nuforc.org/webreports/reports/068/S68048.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
