@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:49 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1966, an anonymous witness in Ft. Smith (AR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Clarification of timing of Ft. Smith,  AR, sighting, circa 1966/1967 (with additional sighting details)This report is a supplement to previous reports of sightings in Ft. Smith, AR ca. 1966/1967. As a child, my family loved in Ft. Smith Arkansas during these sightings and I can clearly remember being brought outside so view the unidentified aircraft.  Although I was very young  (4 or 5 years old), I can clearly remember a few items:  - The unidentified aircraft were clearly flying in formation.My father (recently discharged from the Army) viewed the behavior and maneuvering of the aircraft as unusual.Multiple people in our neighborhood were out in the evening viewing the aircraft with a collective uneasiness bordering on panic.Real-time media reports (radio & TV) followed the incident.The local paper had front page coverage, with photographs, the next day.Less clear memories include recollection of the unidentified aircraft hovering and/or landing at the airport and of military aircraft in pursuit (roar of jet engines and visible identification of military aircraft separate from unidentified aircraft).The timeframe for the sighting is only approximate, but -must- have occurred prior to the fall of 1966.  My family moved to St. Louis in the fall of 1966 (where I entered kindergarten)  Media coverage of this incident was extensive, so I am perplexed why there is no existing and/or available records of this.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74083.html](http://www.nuforc.org/webreports/reports/074/S74083.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Murphysboro (IL) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Pinkish light zig zags in sky.I was walking my dog last night and looked up in the sky as I usually do at night to view the stars.  When I looked in the South East sky I saw what appeared to be a star moving in my direction.After about 5 seconds it immediately stopped for about 3 seconds and made a sharp right turn very quickly.  It appeared to go several miles in just a couple of seconds and stopped again for a few seconds, made a left turn then zipped off to the east at a very high rate of speed.It was a pinkish light and seemed to be in space and not our atmosphere and about the size of a star.I called the local authorities however they were not interested.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86620.html](http://www.nuforc.org/webreports/reports/086/S86620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
