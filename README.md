@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:31 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>i have top footage of this event , and i dont think anyone can question itthis craft u.f.o etc was seen by my wife approx 19.30 hrs, she then shouted me as i was in the loft upstairs, as my wife watched the craft dissapier behind some hills, becouse we live next to a golfcourse, it vanished for about 35 minutes,which gave me time to set the video camera up. next came a vehicle being driven across the course, only three verry bright lights showing becouse it was dark, these lights were a lot brighter than halogen lights, anyway the vehicle stoped, after a few seconds these lights became one big ship, now the strange thing is that if you watch the video footage and keep your eyes on the lights of the vehicle they dont moove at all,what im trying to say is the vehicle became the ship itself, this happened twice in about three hours. now the video footage i can tell you must be a one off becouse you can see the ship clearly, its like a light bulb shape with lights at the top of the bulb and rotating coloured lights at the base of the bulb, like i say it all on video. if you would like some more information please feel free to do so  " cheers"</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/015/S15990.html](http://www.nuforc.org/webreports/reports/015/S15990.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Oak Park (GA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Very large object flipped once then circle once paused in air then change to rectangular shape.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132276.html](http://www.nuforc.org/webreports/reports/132/S132276.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
