@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:41 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Groton (CT) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>On the night in question the skies were clear, also two of the wittnesses had an experiences in the past with a UFO.High in the atmosphere a glowing diamond shaped object appeared over the Northern sky in Groton, CT. around the time and date noted. The object also seemed to have an illuminating red ball that lit up every five minutes or so lasting for a few seconds.  The event was witnessed first by one member, than another and finally one more who took a more closer look at the object through a telescope. His findings were that the object had to be a star that was close?  Upon trying to find the object minutes later in a sky that had too much clearance for anything to have had disappeared that quick, and knowing it could not have been a satellite, or airplane, the only conclusion is that it was something flying that was unidentified... UFO?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68048.html](http://www.nuforc.org/webreports/reports/068/S68048.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Stratford (CT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Straight out of the woods green ball quick sound of a Hover and flash gone I mean gone gone that fast.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/146/S146542.html](http://www.nuforc.org/webreports/reports/146/S146542.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
