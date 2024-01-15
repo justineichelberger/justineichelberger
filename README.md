@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:29 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:39 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>flashing hot pink lights, no particular pattern, shooting across the sky, up and down, side to side just above the interstate. glowing white circle of light (donut shaped) in the middle appeared about 10 seconds-drowing out the flashing pink lights, revealing a cone shaped front. flying and darting quickly back and forth and up and down the sky with seemingly no rhyme or reason. disappeared behind a building as I exited the highway. hwy 270 N was at a standstill, worst traffic i'd seen at 6pm after leaving work. i figure other must have seen it. cannot guess as to the size--it was visible from 1-2miles away. other airplane were flying far high overhead and were very distinguishable from this craft. it flew no higher at times than the tops of bldgs and trees. i waited for the news to report something that night or next day, they did not. a small blurb was in the Post Dispatch paper, but i was only told about it, I did not see it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/012/S12114.html](http://www.nuforc.org/webreports/reports/012/S12114.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lingering orange lights spotted in sky over Canon City, CO near Prison FacilitiesI spotted two orange lights in about a thumb's distance apart (measured by holding my thumb close to my face). Then about 30 seconds later I noticed two more lights above the other two lights. And about every 30 seconds the lower two lights would start to dim out and two new lights would appear above the two old top lights lights. At one given time there were 6 orange lights present. The lights seemed to stay in the same formation except for the fact that it would move up. Through a spotting scope you can see the shape of an object from the glare of the lights. They exited the sky with each light slowly dimming until they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60889.html](http://www.nuforc.org/webreports/reports/060/S60889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
