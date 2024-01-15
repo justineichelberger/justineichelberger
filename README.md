@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Falling green object north of JacksonvilleMy wife and I witnessed a fairly large bright green object seeming to fall through the sky at a rapid rate.  We did not see an impact flash.  The object seemed to fall within a few miles of I-95, on the east side.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54776.html](http://www.nuforc.org/webreports/reports/054/S54776.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Burbank (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>yellowish/orange lights over Burbank / N. Hollywood Area.  4th sighting !I have seen these objects a total of four times. It is best described that they appear just west and south of the Burbank Airport.  They are at an alititude just a little higher than commercial aircraft.  They move in a controlled manner almost "jetting" from one position to the next.  I have inquired with Burbank authorities and they have no information or will admit to inquiries from other curious people.  I have also noticed abnormal planes being flown around the same time (very late at night).  Usually dark in color with very different lights, unlike the commercial aircraft which has multiple blinking lights.  These almost seem to be military or something simular.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27094.html](http://www.nuforc.org/webreports/reports/027/S27094.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
