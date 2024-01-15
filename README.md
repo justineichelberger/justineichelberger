@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Canon City (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>lingering orange lights spotted in sky over Canon City, CO near Prison FacilitiesI spotted two orange lights in about a thumb's distance apart (measured by holding my thumb close to my face). Then about 30 seconds later I noticed two more lights above the other two lights. And about every 30 seconds the lower two lights would start to dim out and two new lights would appear above the two old top lights lights. At one given time there were 6 orange lights present. The lights seemed to stay in the same formation except for the fact that it would move up. Through a spotting scope you can see the shape of an object from the glare of the lights. They exited the sky with each light slowly dimming until they were all gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60889.html](http://www.nuforc.org/webreports/reports/060/S60889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Multiple roundish or teardrop shape orbs seen during the daytime.I stopped at a convenient store during my lunch hour today and looked up at the sky because I heard a helicopter.  While I was watching the helicopter, the sky was clear and blue but I noticed that there was a bright whitish light it looked like an orb with a beam of light or tail coming down from it and when it moved it had a silver metallic shine to it but it didn't seem to be moving like a normal object.  I looked at it for a moment and thought "that is cool someone released a balloon maybe?"  But as I was thinking this a dozen or maybe more white orbs started to appear-they were dimmer than the first one I spotted but were just appearing like a light switch was turning them on one by one.   When I saw this all thoughts of balloons left my head.  I watched these things switch on for about 5-10 minutes.  I got scared and did not see anyone in the parking lot to talk to about what it was so I quickly went inside to make my purchase and clear my head.  I thought when I went back out I could decipher what I was seeing more clearly.  I spent about a minute inside and when I came back out they had all just disappeared.   My hands were shaking when I got into my car and I quickly tried to google any type of celebration or memorial where balloons were being released but I could not find anything significant happening in our area today.  The helicopter that was flying by at the time was white with either a black or dark blue bottom like a police helicopter.  I did not see any name on the side of it.  Could it have been dropping something.  I'm just curious if anyone else saw this and new what it was.   I am having a hard to determining whether I should submit this but.......I would like to know what it was or if anyone else seen it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106323.html](http://www.nuforc.org/webreports/reports/106/S106323.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
