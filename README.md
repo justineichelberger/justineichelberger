@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:13 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:03 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>UFO's over  Saint Louis and Metro East Counties.It was about 4 AM on the night of January 15th 2004, When my friend and I were driving home from another friends house in Belleville IL. Between Belleville and Centerville IL, there is about a 5-8 mile strrtch of wood encompassed Highway, and thats when we saw and experienced the following events: About a mile or so past Fairview Hieghts, I inexplicablly had the sensation to look over my shoulder and to the left of me. At that moment I noticed something very out of the ordinary. Shining down on the surface of the adjacent, Westbound side of Interstate 64/40 were three blue circles of light. Even stranger, was that these concentric circles were pacing our car...in the same direction we were traveling, on the opposing westbound highway. Then what seemed to begin happening is that a state of...Oh well,What can I do...feeling came over me, not fear or panic, just....Oh well. My friend looked over after I said to look, she looked back at me, we looked at the clock on her car radio and it read 4:05 AM. We looked back at the lights and then eachother, and the next thing I knew it was 4:30 or so by the radio clock and we were entering the highway interchange near Centerville IL. about 6 or 7 miles from were we had just been! To this day me and my girl still talk about it.We also saw about a Year later, another strange object at her apartment complexs in Kirkwood Missouri. It was about noon, in the broad day light. I went out onto her back patio to smoke a cigarette, and as I was lighting it, I looked up to my left to see a jetliner cruise by and its contrail forming. Only, at the end of the contrail, and seemingly following the jetliner, was a bright green, glowing sphere of light. As soon as I noticed it though and called for my griend to qiickly grab her camera, it seemed to take notice in me. It bounced arounded and darted from point to point in the sky, almost as if it were putting on a show for me, just to make a point of saying "Hi you can see me, I also see you." It kept this up until my friend returned with her camera, at which point this object shot right to my zenith. She quickly snapped a picture, and with that the object simply zipped off out of view. Although we knew whatever came out on that film would be low and questionable quality, nontheless we were still excited to see what we did have on it. When the film was developed though, oddly, every single print was blank.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/050/S50024.html](http://www.nuforc.org/webreports/reports/050/S50024.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Morton (IL) reported seeing craft that fit the description of some 'Changing' over a period of approximately ? - ? minutes.</sub><blockquote><sub>3 lines become 1I was on my way to school when I saw above the sunrise three lines in a triangular pattern. They appeared to be illuminated by the rising sun, as they were the same color as the clouds around them. My glance drifted away for a while, but then I looked back out of curiosity. The lines had seemed to had joined into one bright line in the eastern sky. I watched the line for as long as I could. It stayed level, then leaned slightly. At this point, I arrived at school and had to stop watching.((NUFORC Note:  Date is approximate.  Student report. PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41912.html](http://www.nuforc.org/webreports/reports/041/S41912.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
