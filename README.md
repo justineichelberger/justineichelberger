@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:45 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1985, an anonymous witness in Sunbury (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Memory of UFO sighting in Sunbury Pennsylvania during mid 80'sThe date provided is by no means exact.  This incedent occured in my early teenage years which would be somewhere between 1984 and 1987.  It also occured during a cold month like december thru march.  I was with my Aunt and my brother.  We had just parked in the visitors section of the elderly highrise building on front street, which runs beside the susquhanna river.  We began walking toward the highrise when we noticed a large object (memory is to unclear to define shape) it was flying very low and moving at a unhurried pace.  It did not zoom or pause in mid air it simply continued very slowly across the sky.  I also remember that it was very silent, there were no load noises or roaring or humming sounds.  I do remember that there were a few lights( three or four in total) which were white and were on the outside perimeter, there were no lights in it's center.  The object flew directly over us.  It flew so low that we were worried for a few minutes it might hit the highrise building, which is fifteen stories high.  After it passed over the building it seemed to blend into the night sky and totally disapper.  My Aunt who is a huge skeptic of such things went right into my grandmas building and called local athorities to see if any other such sightings had been reported or if they knew of anything that was supposed to be flying in the area.  No other calls had been received and to there knowledge nothing had been noted as flying low in the area.  I know that I remember thinking that there was no way the object looked like a plane or a blimp.  It had been very low and not hard to determine that it was an object unlike anything we had ever seen.  To this day I still find myself wondering what we saw, explained or unexplained it was indeed a unique experience.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/033/S33307.html](http://www.nuforc.org/webreports/reports/033/S33307.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Livermore (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was out checking for predators around our livestock when I glanced to the south west where I saw solid bright white lights that seemed pretty large.  Definitely not aircraft (Air Force veteran) but passenger aircraft lights where present in area, lights seemed to be higher than aircraft flight altitude but we do get a lot of air traffic coming and going from DIA over our area so can’t be sure of altitude.  My first thought it was drones that has been in our state news recently but my opinion changed once the lights started to disappear to the west.  Rough degrees of travel was from 240 degrees traveling to 270 degrees roughly before fading out.  Flight path seemed to be the same for all, with roughly the same spacing in between and was just a continuous stream of them with aircraft traveling opposite direction but close to same flight altitude maybe a hair higher.  By time I returned to house to get the phone to get video the last few disappeared fading out! site all roughly in the same area around the 270degree mark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152634.html](http://www.nuforc.org/webreports/reports/152/S152634.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
