@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:35 on 15 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Livermore (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I was out checking for predators around our livestock when I glanced to the south west where I saw solid bright white lights that seemed pretty large.  Definitely not aircraft (Air Force veteran) but passenger aircraft lights where present in area, lights seemed to be higher than aircraft flight altitude but we do get a lot of air traffic coming and going from DIA over our area so can’t be sure of altitude.  My first thought it was drones that has been in our state news recently but my opinion changed once the lights started to disappear to the west.  Rough degrees of travel was from 240 degrees traveling to 270 degrees roughly before fading out.  Flight path seemed to be the same for all, with roughly the same spacing in between and was just a continuous stream of them with aircraft traveling opposite direction but close to same flight altitude maybe a hair higher.  By time I returned to house to get the phone to get video the last few disappeared fading out! site all roughly in the same area around the 270degree mark.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152634.html](http://www.nuforc.org/webreports/reports/152/S152634.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Trenton/Grosse Ile (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I saw a rectangle flying at high speeds in the night skyI enjoy looking at the stars from time to time.  When I was leaving my car to walk into my house, I decided to look up at the night sky.  I then noticed an almost completely black figure shaped like a rectangle flying at about the same altitude as a normal airplane would, but I noticed it was traveling about 2 or 3 times faster than a normal airplane.  I don't know how I caught it, but it was very hard to see.  I know what I saw though.  A Rectangular craft. I've never seen anything like it.  Maybe a secret government plane?  It was just weird.  Cool, but weird.  Is this a common sighting?  I've seen UFOs many times before, but nothing like this</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/141/S141629.html](http://www.nuforc.org/webreports/reports/141/S141629.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [465](http://www.nuforc.org/webreports/reports/161/S161640.html)
-- [464](http://www.nuforc.org/webreports/reports/161/S161638.html)
-- [463](http://www.nuforc.org/webreports/reports/161/S161637.html)
-- [462](http://www.nuforc.org/webreports/reports/161/S161634.html)
-- [461](http://www.nuforc.org/webreports/reports/161/S161633.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
