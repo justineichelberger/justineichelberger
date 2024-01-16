@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:39 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White lights on triangular object over coronaMy cousin and I were walking her dog around 19:49 PM on saturday night when I had turned around and noticed a strange object had came into view behind a tree.  The object appeared triangular in shape, traveling from West to East at a slow speed.  It had five white lights on what appeared to be the side of the object.  As it passed over, there were ten lights on the rear. The lights would flash from the corners torwads the middle and repeat.  All the lights on the object were the same color, white, and the same size.  As it passed infront of a cloud, it appeared to be a flat on top as well as the bottom.  The object made no sound as it had hovered by.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74107.html](http://www.nuforc.org/webreports/reports/074/S74107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodside (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw a large, oval bright blue light in the sky that stayed for about 10 minutes.My boyfriend and I were walking in a North East Direction when I noticed a strange light in the sky.  It was dark and cloudy outside, but there was an unusual color in the sky, what looked like a purple, blue oval shaped light.  The object was large, about the size a hand held at arm's length and hidden behind clouds.  At first we speculated that it could be a spotlight, but there was no ray coming from the ground leading up and clouds moved in front of the light, obscuring our vision of the object, leading me to believe that it could be a large, bright object that was far away.  We watched and took several pictures and walked in the direction of the light.  When taking the last pictures, my phone camera acted strangely, with the rays of light coming from other lit objects going from the normal, scattered pattern to a straight up and down pattern, stopping at the lit object.  After 10 minutes, the light disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125310.html](http://www.nuforc.org/webreports/reports/125/S125310.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
