@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:35 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:59 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Clinton (ME) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>green object trailing hazeIt was around ten thirty at night I was laying in bed, watching tv. It was a ice cold, clear night. My window is one the left side of my bed. I looked out the window real quick and got ready to shut my eyes when I opened them again I saw a greenish object shoot thru the air it was a perfect circle. It almost had a greensih tail too it, it could have been a comet or something, but the real unusal thing is that it when up than down towards the woods in a split second. After that I got up looked around alot longer, nothing was seen again accept I saw eight to nine planes flying thru the air after that happened. It is not the first time I have seen unusal activity during the cold winter months. I am going to try to get my video camera to see if it happens again. Also these last 2 days my truck will not start. And the baby moniter, and alarm clock make high pitched buzzings noises in the middle of the night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48738.html](http://www.nuforc.org/webreports/reports/048/S48738.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellingham (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blinking light zig-zagging across the sky.I observed a light in the Southern sky.  Crystal clear night, no moonlight.  Naturally thought it was a plane because it was blinking, but i observed no other lights, so i thought it may be a satellite.  The light began to zig-zag numerous times, then would continue on a straight line but at a different angle from it's original path.  No sound accompanied the object.  I could see it for at least two full minutes, before it flashed away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74104.html](http://www.nuforc.org/webreports/reports/074/S74104.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
