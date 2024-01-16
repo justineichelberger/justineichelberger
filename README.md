@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:35 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Bethpage (NY) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>I looked up to the South sky and saw a round white light traveling east in an S-like pattern.As I walked outside to go to work I looked up to the South sky and saw a round white light traveling east.  The light was bright and round but wider in the center traveling in an S like pattern and then suddenly disappeared.  It appeared faster than a typical airplane and the sudden change of direction is inconsistent with a small meteor.  The day was a cold, clear with no rain, early morning still semi dark with a clear view of the sky.  Object would have been over the water on the south shore of Long Island.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116757.html](http://www.nuforc.org/webreports/reports/116/S116757.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bandon (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I jumped out of my camper at Coquille Point in Bandon Oregon on the coast, looked in the sky and thought the stars were moving.  Then I realized there were what looked to be stars, were silently moving over us.  Then banking right after entering Bandon from to southwest off the coast. Now moving east still in line formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152664.html](http://www.nuforc.org/webreports/reports/152/S152664.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
