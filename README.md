@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:35 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Woodville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My husband and I have been seeing a light on the western horizon right at about 6pm every night for a while now. We traveled west on Hwy 72 and the light was not a plane or a tower light and I don't believe that it was a planet. It was yellow-orange in color and would move slightly from left to right. It wasn't blinking. As we got into Huntsville, the light was still there but not as bright because of the city lights. It had gone further down the horizon because it takes about 20 minutes to get to Huntsville. I know my planets and stars and I know that this isn't suppose to be where it is. What is it? An asteriod? It doesn't have a noticeable tail or anything. Just looks Venus but much brighter and not white but yellow-orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55336.html](http://www.nuforc.org/webreports/reports/055/S55336.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kawartha Lakes (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Light followed by pulsating red glowAt approximately 3:00 am we were awaken by a very bright flash in the sky and bang ... When we looked out the window we could see a pulsing red glow on the south east side of canal lake to what would be the Hwy 48 and Bolsover road area.  The glow continued and pulsed for approximately 10-15 min then stopped.  The power had gone on and off... I went to the balcony and could hear a pulsating sound in the distance...  It had looked like something was on fire in the distance... We assumed it was possibly a pole or electrical fire of some kind...  We drove over to the area to check the area but no signs of fire or electrical issues in the area…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125300.html](http://www.nuforc.org/webreports/reports/125/S125300.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
