@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Woodside (NY) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We saw a large, oval bright blue light in the sky that stayed for about 10 minutes.My boyfriend and I were walking in a North East Direction when I noticed a strange light in the sky.  It was dark and cloudy outside, but there was an unusual color in the sky, what looked like a purple, blue oval shaped light.  The object was large, about the size a hand held at arm's length and hidden behind clouds.  At first we speculated that it could be a spotlight, but there was no ray coming from the ground leading up and clouds moved in front of the light, obscuring our vision of the object, leading me to believe that it could be a large, bright object that was far away.  We watched and took several pictures and walked in the direction of the light.  When taking the last pictures, my phone camera acted strangely, with the rays of light coming from other lit objects going from the normal, scattered pattern to a straight up and down pattern, stopping at the lit object.  After 10 minutes, the light disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125310.html](http://www.nuforc.org/webreports/reports/125/S125310.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Extremely bright object moving very slowly at a extremely high altitudeI was on break at work outside and I looked up and noticed a very bright object extremely high in the air.  My initial thought was it was a satellite.  After a few minutes of studying the object I realized it was not a satellite or it would of passed already.  The object did not go in a straight line either.  A gathering appeared and one theory is it was a weather ballon, I am hoping your sight would be able to confirm if a weather ballon was in the area.  The reason I do not think it was a weather ballon is it changed directions.  Due to the height of the object it was to hard to give an exact description.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27117.html](http://www.nuforc.org/webreports/reports/027/S27117.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
