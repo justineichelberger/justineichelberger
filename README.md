@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baytown (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>vertical and horizontal flares moving slowly in the skyI saw a bright vertical streak of light high in the sky. When I went out into the backyard to get a better look I noticed there was another one but it was perfectly horizontal. As the horizontal one moved slowly to the left (south), the vertical one descended slowly toward the treetops until they both faded away. The horizontal one was probably 3 times as long as the vertical one. There may be a perfectly good explanation for this but I sure don't know what it is. I read that iridium flares only last for a few seconds, and this lasted for about 5 minutes so I ruled that out. If you have any ideas I would really appreciate an explanation. I did get a couple of pictures of the vertical one. I am sending them to you. Thanks!((NUFORC Note:  Both photos are of contrails against a clear sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41585.html](http://www.nuforc.org/webreports/reports/041/S41585.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Forsyth (MO) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>fire in the skyI went outside on my porch to have a cigarette.  I always look to the stars.  I noticed a bright orange "star" or a planet south west to a bright blue star that i look at every night.  Then i realized it was twinkling, planets don't twinkle (to my knowledge).  So i kept watching it, seemed to get brighter.  As i put out my cigarette I looked back again to notice it was now almost parallel to the blue star.  I tell my boys to come look, at this point it was very obvious it was moving, looked to be moving straight upand getting faster, passed the star and went into the clouds.  No strobe lights like aircraft would have.  And best way to describe color is fire orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106372.html](http://www.nuforc.org/webreports/reports/106/S106372.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
