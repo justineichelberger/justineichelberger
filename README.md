@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Bandon (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I jumped out of my camper at Coquille Point in Bandon Oregon on the coast, looked in the sky and thought the stars were moving.  Then I realized there were what looked to be stars, were silently moving over us.  Then banking right after entering Bandon from to southwest off the coast. Now moving east still in line formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152664.html](http://www.nuforc.org/webreports/reports/152/S152664.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Westminster (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Noticed a white light expanding and contracting approximately 300 yards from my window. It approached my direction at around 500 feet above the ground. There was no sound. It made it's way directly over my apartment complex and I lost sight of it. I caught the first few seconds on my security camera.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161641.html](http://www.nuforc.org/webreports/reports/161/S161641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
