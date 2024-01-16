@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Simi Valley (CA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Extremely bright object moving very slowly at a extremely high altitudeI was on break at work outside and I looked up and noticed a very bright object extremely high in the air.  My initial thought was it was a satellite.  After a few minutes of studying the object I realized it was not a satellite or it would of passed already.  The object did not go in a straight line either.  A gathering appeared and one theory is it was a weather ballon, I am hoping your sight would be able to confirm if a weather ballon was in the area.  The reason I do not think it was a weather ballon is it changed directions.  Due to the height of the object it was to hard to give an exact description.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27117.html](http://www.nuforc.org/webreports/reports/027/S27117.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hagerstown (sww of,  on I81, Intersect.I70 & I81) (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>In west, brilliant point of light (larger than star or planet) & streak fell nearly vertical from sky.Almost due west, a very bright point of light leaving a streak, not a tail, fell from the sky toward the ground, in a distance that seemed to be only a mile or two ahead.  It seemed to be traveling not as faast as a meteor but faster than a free fall object.  It appeaared to disappear at treetop level.  I think that it was in front of the mountains +/- 10 miles ahead.   It appeaared to land just north of Williamsport, Md., perhaps in the Potomac River.  No reports of any sightings weere made to any local radio stations, T.V. station, newspapers, or police.  Perhaps it was an object further away & just mistaken for something closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11756.html](http://www.nuforc.org/webreports/reports/011/S11756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
