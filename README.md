@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Kawartha Lakes (Canada) (ON) reported seeing craft that fit the description of some '' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Bright Light followed by pulsating red glowAt approximately 3:00 am we were awaken by a very bright flash in the sky and bang ... When we looked out the window we could see a pulsing red glow on the south east side of canal lake to what would be the Hwy 48 and Bolsover road area.  The glow continued and pulsed for approximately 10-15 min then stopped.  The power had gone on and off... I went to the balcony and could hear a pulsating sound in the distance...  It had looked like something was on fire in the distance... We assumed it was possibly a pole or electrical fire of some kind...  We drove over to the area to check the area but no signs of fire or electrical issues in the area…((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125300.html](http://www.nuforc.org/webreports/reports/125/S125300.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Baytown (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>vertical and horizontal flares moving slowly in the skyI saw a bright vertical streak of light high in the sky. When I went out into the backyard to get a better look I noticed there was another one but it was perfectly horizontal. As the horizontal one moved slowly to the left (south), the vertical one descended slowly toward the treetops until they both faded away. The horizontal one was probably 3 times as long as the vertical one. There may be a perfectly good explanation for this but I sure don't know what it is. I read that iridium flares only last for a few seconds, and this lasted for about 5 minutes so I ruled that out. If you have any ideas I would really appreciate an explanation. I did get a couple of pictures of the vertical one. I am sending them to you. Thanks!((NUFORC Note:  Both photos are of contrails against a clear sky.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41585.html](http://www.nuforc.org/webreports/reports/041/S41585.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
