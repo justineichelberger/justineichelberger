@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:49 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:19 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Decatur (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 night. 2 witnesses. 3 lighted disk. And a whole lot of confusion.A friend of mine decided to spend the night at short notice. We were working on a project, when the wind began to blow very hard.Though the news had just said there was a chance of a storm, I went outside to look around.2 disk like objects hovered in the air (they were far off, but bigger than the stars), soon another joined, but didn't move slowly. It was more of a jerk; left, right, up, down. They followed each other for a while, and my friend and I watched.We weren't sure what to think, seeing as neither of us believe in aliens and whatnot.The lighted disks flew away in a triangular formation... leaving us stunned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48733.html](http://www.nuforc.org/webreports/reports/048/S48733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harwich (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>A distinct vortex cloud formation, created by an aircraft, or other object, was seen in photos of a cloudless sky.An odd cloud formation was discovered in two photos taken during a nature walk.  It appears to be a small, solitary vortex created by an aircraft or other object traveling at high speed.  It was a cloudless winter morning, and I don’t recall hearing any aircraft, when I photographed some backlit phragmites against a background of blue sky.Upon later review of my photos, I noted the small bright vortex cloud in IMG_3842.  I created a cropped version of this image to get a closer look at it.  IMG_3843, taken a second or two later, also shows the same vortex cloud contours, but faintly.I am not suggesting a UFO caused this odd cloud, but would like to know if any similar images have been reported to NUFORC.  I had never before seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147007.html](http://www.nuforc.org/webreports/reports/147/S147007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
