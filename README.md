@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:59 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:05 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Bellingham (MA) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Blinking light zig-zagging across the sky.I observed a light in the Southern sky.  Crystal clear night, no moonlight.  Naturally thought it was a plane because it was blinking, but i observed no other lights, so i thought it may be a satellite.  The light began to zig-zag numerous times, then would continue on a straight line but at a different angle from it's original path.  No sound accompanied the object.  I could see it for at least two full minutes, before it flashed away.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74104.html](http://www.nuforc.org/webreports/reports/074/S74104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ely/Tower (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>Driving south on hwy 169 just out of Ely, MN, a bright orange star was seen to the south.  Less than a minute later, the star disappeared.  The time of day was dusk.  About 30 minutes later, south of tower and near Pike Sandy, there were multiple thin, skinny clouds that were radiating out of the area that the bright orange star was seen, which is now in the eastern sky.  Around the clouds were several contrails that appeared to be made by an aircraft of some kind, doing circles around the area where the bright orange light was seen.  Another witness in the area had heard what sounded like military jets in the area.  The clouds remained until about 20:00 and had dissipated into the atmosphere.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144538.html](http://www.nuforc.org/webreports/reports/144/S144538.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
