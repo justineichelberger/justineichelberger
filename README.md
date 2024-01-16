@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:43 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>CA, Corona White Flashing LightsWhile driving, on a Saturday through industrial/ manufacturing area of our town near a railroad, we noticed flashing lights in the sky.  It was unlike anything we’ve ever seen, to us the form was not clear, but what was clear was the shape and color of the lights.  It was six to seven squared lights lined up next to each other to form a long rectangle the lights flashed on and off in a sequence.  Centered above the lights was one squared light that did not turn off.  The light was intense with a true bright white color.  It seemed to hover close then went further until it went out of sight.  Also, we tried calling from a cell phone twice and the call would not go through.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74105.html](http://www.nuforc.org/webreports/reports/074/S74105.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Wallingford (CT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>brightblue light decending at high speed it was the size of small car about 1/4 mile from my location and end was red it shocked meOn january 16 at approcimetly10:15pm is was driving on the highway when i noticed a bright light decinding from my top left coming at an 90 degree angle, it was bright blue like a halogen bulb the size was like a sub-compact car,i saw it about a quater mile away at the end of it was red it was moving at an high rate of speed then it just disappeared. When i saw it i said "what the@#$% was that"excuse my language and i repeated that until i went home, i was very intriged by what i saw so when i got home i made a call to the wallingford police department to explain what i saw but ofcorse she said it must have been a lightningbolt  note that the sky was clear and there was no rain falling. It had no flashing lights like an helicopter or a plane. i am putting this on the sight because i would like some explination on what was it i saw until today i am still in aww at what i saw and cannot keep my eyes out of the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48825.html](http://www.nuforc.org/webreports/reports/048/S48825.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
