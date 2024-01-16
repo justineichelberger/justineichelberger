@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:19 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:41 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Harwich (MA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Few seconds - Few seconds minutes.</sub><blockquote><sub>A distinct vortex cloud formation, created by an aircraft, or other object, was seen in photos of a cloudless sky.An odd cloud formation was discovered in two photos taken during a nature walk.  It appears to be a small, solitary vortex created by an aircraft or other object traveling at high speed.  It was a cloudless winter morning, and I don’t recall hearing any aircraft, when I photographed some backlit phragmites against a background of blue sky.Upon later review of my photos, I noted the small bright vortex cloud in IMG_3842.  I created a cropped version of this image to get a closer look at it.  IMG_3843, taken a second or two later, also shows the same vortex cloud contours, but faintly.I am not suggesting a UFO caused this odd cloud, but would like to know if any similar images have been reported to NUFORC.  I had never before seen anything like this.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/147/S147007.html](http://www.nuforc.org/webreports/reports/147/S147007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boaz (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round object appeared in the sky opend parichuted out thn turned into a small plane then vanishedthe craft was white at first then it had deffernt colors they huverd then the top seemed to open up then it looked like something poked its head out,then the arms rasied then it looked liked it perishuted out of the circle and it looked like it just came down for aways then it looked like it changed into a small plane and then it dissaperd, i have a vido tape of it .if i can get info. about where to send the tape where it can be obserserved i will send it ,the tape will explain what i said but better,seen more of them but did not tape them .     p.s.thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27102.html](http://www.nuforc.org/webreports/reports/027/S27102.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
