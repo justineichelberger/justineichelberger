@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Dallas (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Object chased by Jets producing jagged contrails for over 30 minutes....At 0700 central time, I noticed a large lit object , almost directly overhead...Assumed it was venus (as commonly reported)..The sun was not up yet, and I called to my wife to see the VERY bright planet. When We looked again some ten minutes later, it had moved about a foot at arms length. (too far to move for a planet in the short timeframe)  Wife dismisssed it...Until fifteen minutes later, we both saw that it had disappeared!  Ten minutes past that, as I drove her to work, we saw contrails of two VERY fast moving jets converging on the EXACT spot where the light had been. They crossed this same patch of sky over and over again in an "x" pattern seemingly searching for the object(approx fifteen minutes).  When I returned home, I got binoculars to observe, and could only make out the contrails (puffy, and definately corkscrewed) converging again and again on this spot.(approx 30 minutes)..Then to my surprise, The light then reappeared (I could make out that it was round with shadow)!  Both jets made tight turns and converged on the spot again....and as they were a foot away at arms length the light blinked off! as the planes crossed each other, I saw the light reappear to the south about two feet away at arms length!..Again, the Jets executed tight turns and converged on the same spot, only to have the light dissappear again. this occured two more times, and then the light disappeared totally.... I witnessed the short, jagged contrail-producing jets criscross that patch of sky over and over again until 10:30.  I saw a multitude of commercially identifiable planes (S.West and American) fly under the area in question producing no trails...Did anyone else witness this?((NUFORC Note:  We spoke with this witness over the telephone, and found him to be quite credible and serious-minded.  We do not know what the witnesses witnessed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27107.html](http://www.nuforc.org/webreports/reports/027/S27107.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>White lights on triangular object over coronaMy cousin and I were walking her dog around 19:49 PM on saturday night when I had turned around and noticed a strange object had came into view behind a tree.  The object appeared triangular in shape, traveling from West to East at a slow speed.  It had five white lights on what appeared to be the side of the object.  As it passed over, there were ten lights on the rear. The lights would flash from the corners torwads the middle and repeat.  All the lights on the object were the same color, white, and the same size.  As it passed infront of a cloud, it appeared to be a flat on top as well as the bottom.  The object made no sound as it had hovered by.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74107.html](http://www.nuforc.org/webreports/reports/074/S74107.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
