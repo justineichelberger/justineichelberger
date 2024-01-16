@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:41 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:35 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Boaz (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>round object appeared in the sky opend parichuted out thn turned into a small plane then vanishedthe craft was white at first then it had deffernt colors they huverd then the top seemed to open up then it looked like something poked its head out,then the arms rasied then it looked liked it perishuted out of the circle and it looked like it just came down for aways then it looked like it changed into a small plane and then it dissaperd, i have a vido tape of it .if i can get info. about where to send the tape where it can be obserserved i will send it ,the tape will explain what i said but better,seen more of them but did not tape them .     p.s.thank you</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27102.html](http://www.nuforc.org/webreports/reports/027/S27102.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Woodville (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>My husband and I have been seeing a light on the western horizon right at about 6pm every night for a while now. We traveled west on Hwy 72 and the light was not a plane or a tower light and I don't believe that it was a planet. It was yellow-orange in color and would move slightly from left to right. It wasn't blinking. As we got into Huntsville, the light was still there but not as bright because of the city lights. It had gone further down the horizon because it takes about 20 minutes to get to Huntsville. I know my planets and stars and I know that this isn't suppose to be where it is. What is it? An asteriod? It doesn't have a noticeable tail or anything. Just looks Venus but much brighter and not white but yellow-orange.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55336.html](http://www.nuforc.org/webreports/reports/055/S55336.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
