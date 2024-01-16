@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:49 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Van Nuys (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.4166666666666667 - 0.4166666666666667 minutes.</sub><blockquote><sub>It got my attention by the reflection of the sun.I was getting my Limo repaired just standing around waiting on the mechanic to finish. I just started looking up at the clear blue sky because of the conversation these 2 guys standing near me. They were reminiscing about the US Airways plane crash on the 15th of January 2009. I saw an object in the shape of a diamond moving slowly from east to south west at about the speed of a floats in a parade. I believe it was metallic because it reflecting from the sun. It had no wings, no stabilizer and no propellers, just a diamond like shaped object. I viewed it for about 25 seconds. If I stick my finger out at it, it would be the size of a writing pen tip. The time was about 9:00am. I didn’t have my video camera with me. It was in my other car. I normally carry a mini DV cam in my car.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68071.html](http://www.nuforc.org/webreports/reports/068/S68071.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Decatur (TX) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>1 night. 2 witnesses. 3 lighted disk. And a whole lot of confusion.A friend of mine decided to spend the night at short notice. We were working on a project, when the wind began to blow very hard.Though the news had just said there was a chance of a storm, I went outside to look around.2 disk like objects hovered in the air (they were far off, but bigger than the stars), soon another joined, but didn't move slowly. It was more of a jerk; left, right, up, down. They followed each other for a while, and my friend and I watched.We weren't sure what to think, seeing as neither of us believe in aliens and whatnot.The lighted disks flew away in a triangular formation... leaving us stunned.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48733.html](http://www.nuforc.org/webreports/reports/048/S48733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
