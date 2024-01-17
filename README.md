@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:41 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in National City (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>i was at the kitchen ,,then i heard a strange sound,.sounded like an UFO hovering on the top of our roof,.n all of a sudden,. all of our cabinet smashed open and some of the used frying oil on the counter started boiling,.,,and when the sound disappeard,, the boiling had stoped and all the door cabinet was left open.way too different sound to be an any military aircraft.,sounded like those lazer swords in the star wars movie,.,…((NUFORC Note:  Witness elects to remain totally anonymous.  We post this report, however, because of other events that allegedly were taking place in the Los Angeles area at the same time as indicated in this report.  We would like to communicate with this witness, who elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27160.html](http://www.nuforc.org/webreports/reports/027/S27160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange and white lights traveling across the sky.1 orange light appeared in the S/SSE.  Moved E on a horizontal path, stopping irregularly.  As it moved E,= its brightness fluctuated.  It grew to dim to see.Shortly following the disappearance of the orange light, a bright white light appeared in the S.  It traveled short distances and stopped irregularly as well.  It emitted three bursts of smaller white lights.  The last burst of lights proceeded to swirl around the main light and disappear.  The light faded away shortly thereafter.Roughly 3-5 minutes after the white light disappeared, 2 more orange lights appeared in the E and traveled SSE.  They were further on the horizon and more difficult to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106435.html](http://www.nuforc.org/webreports/reports/106/S106435.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
