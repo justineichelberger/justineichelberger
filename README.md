@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:37 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:35 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Boca Raton (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I was looking out my back door and saw a red glowing object approaching from the east no more than 2000 feet high.  After watching the object come closer it went "dark," then it suddenly turned red again, and then the object descended to an altitude of 1500 feet.It started to change into a teardrop shape heading due west.  Object was silent the whole time and disappeared west of SR 441 and Palmetto Park Road.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116782.html](http://www.nuforc.org/webreports/reports/116/S116782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Photo Capture - Photo Capture minutes.</sub><blockquote><sub>Chicago UFO - Sears TowerThe ufo was only captured on a digital camera.  Me and my Brother were driving though Chicago right before rush hour on our way to South Dakota. Niether of us saw the ufo, but after looking over the pictures we had just taken of the chicago skyline, we noted that there was a saucer shaped object plain as day in one of the pics.  I will email the pic to the center. We've had this picture posted on our website for 2 years now...http://www.probush.com/ufo_over_chicago.htm  We believe this to be the same UFO United Airline workers saw this past November at O'Hare.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54637.html](http://www.nuforc.org/webreports/reports/054/S54637.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
