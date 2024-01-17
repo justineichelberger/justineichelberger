@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:39 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:41 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>long missile shaped objectMe and my friend were outside at mountain Pointe highschool. I was looking at planes in the sky when i noticed that there was a huge black missle looking object in the sky. I could not see any wings. From where i was standing it seemed to be smooth like a missile.It had a smoke trail behind it like an ordinary jet but slightly bigger. When i compared it to other planes flying at the same altitude, i decided that it had to be at leat 40 times bigger looking than the jets. It was moving southwest at a fairly high rate of speed. I lost sight of the object when it flew out of seeing range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48743.html](http://www.nuforc.org/webreports/reports/048/S48743.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Princeton (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I am an educator at a boarding school in Princeton, NJ.  I was scheduled to interview prospective students by skype from China so I was driving to campus at about 5:30 am on Friday, Jan. 17, 2020 when I noticed a strange object in a jet black pre-dawn sky.  At first I thought it was clouds partially covering the moon, but the object was far too big for that.  I realized quickly that it looked like a huge floating platform just hovering in the sky above a large shopping center near my house.  It was black and solid, blacker than the dark winter sky, with white, and the occasional red and green lights irregularly placed around it so it looked strange and caught my eye.  Since it was off at an angle and above me, it wasn’t clear if it was a rectangle shape or a triangle.  It looked like a gigantic sound platform like you see at concerts but much bigger than that, hanging silently in the air.  As I drove down the road with the object hovering to my left, I could ! see that it was ridiculously huge hanging there, dwarfing the large shopping center below it.  As soon as I could, I pulled off the road, rolling my window down to hear any sounds.  I couldn’t calculate how high it was in the sky, but I’d say it was somewhere between where a helicopter would fly but well above the top of the shopping center.  It was much bigger than the center and had no sound.  I stared at it for 10 minutes trying to figure out what it was.  I’ve never seen anything like it.  Finally, it silently drifted off beyond the tree line and I drove off to work so I wouldn’t be late for my calls.The next day I googled to see if anyone else had reported this.  No one had, but there were 2 reports from the previous year of having seen a large triangle like that with similar lights in nearby towns at night. When I looked for images on google, the black triangle looked closest to what I saw from the ground.I’m sure I saw something huge and unusual early that morning.  I still can’t get it out of my head.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/154/S154235.html](http://www.nuforc.org/webreports/reports/154/S154235.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
