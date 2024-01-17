@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Laguna Beach (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Spheres off of Laguna coastMy wife and i saw 6 orange spheres,above the ocean off of Laguna,from our condo on PCH</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55691.html](http://www.nuforc.org/webreports/reports/055/S55691.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shawano (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>three whitish blue lights move simultaneously parallel through the night skyThere were three glow objects in in exact row which at first were assumed to be stars but after careful watch they appeared to be moving.   I watched for several minutes and notice the to outside lights were slightly drifting in and out but all three were moving parallel in the same direction.  I went in got second witness and a camera that was not able to record any images, cheap camera.  Event was watched for several minutes more then decided to check out UFO information on the internet. This report is being written during the event.   This report is not making any claim of aliens or crafts just stating the fact of three objects moving simultaneously parallel through the night sky and of found this site and decided to make the report.  For further information the two witnesses were viewing the event facing the southwestern part of the sky the lights seemed to be moving northeast at first then more directly north from our point.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74116.html](http://www.nuforc.org/webreports/reports/074/S74116.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
