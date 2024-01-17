@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:41 on 16 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:43 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Hagerstown (sww of,  on I81, Intersect.I70 & I81) (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>In west, brilliant point of light (larger than star or planet) & streak fell nearly vertical from sky.Almost due west, a very bright point of light leaving a streak, not a tail, fell from the sky toward the ground, in a distance that seemed to be only a mile or two ahead.  It seemed to be traveling not as faast as a meteor but faster than a free fall object.  It appeaared to disappear at treetop level.  I think that it was in front of the mountains +/- 10 miles ahead.   It appeaared to land just north of Williamsport, Md., perhaps in the Potomac River.  No reports of any sightings weere made to any local radio stations, T.V. station, newspapers, or police.  Perhaps it was an object further away & just mistaken for something closer.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11756.html](http://www.nuforc.org/webreports/reports/011/S11756.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Skudai (Malaysia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>a disk shape object moving with high speedabout 9.30pm, I discuss something with my dad. I saw like orange color flying object move from east to west above my dad's house. At first I think is a chinese lan deng which it will drop very soon.But this object seem too fast and stabil when it moving. It seem going up and not going down. I sure this is a fly object and when it is close I can see a disk shape. The UFO slow a bit on top of us and seem like also notice we look at them. After few mins it continue with fast and stabil speed and disapear behind the crown.This is fifth time I saw UFO in this two years. Last time is more close, more big, we even can see the "windows" of UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27164.html](http://www.nuforc.org/webreports/reports/027/S27164.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161666.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161643.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161641.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161642.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161803.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
