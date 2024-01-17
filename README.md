@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:42 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Shawano (WI) reported seeing craft that fit the description of some 'Light' over a period of approximately  -  minutes.</sub><blockquote><sub>three whitish blue lights move simultaneously parallel through the night skyThere were three glow objects in in exact row which at first were assumed to be stars but after careful watch they appeared to be moving.   I watched for several minutes and notice the to outside lights were slightly drifting in and out but all three were moving parallel in the same direction.  I went in got second witness and a camera that was not able to record any images, cheap camera.  Event was watched for several minutes more then decided to check out UFO information on the internet. This report is being written during the event.   This report is not making any claim of aliens or crafts just stating the fact of three objects moving simultaneously parallel through the night sky and of found this site and decided to make the report.  For further information the two witnesses were viewing the event facing the southwestern part of the sky the lights seemed to be moving northeast at first then more directly north from our point.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74116.html](http://www.nuforc.org/webreports/reports/074/S74116.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Swinnomish Channel (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Ball of light had bow tie shaped babies, That went over oil refinery. The babies retured to ball and it disappeared.We are 60 year old  seniors who were eating at the indian casino because of the cheap meal. ( We take high blood pressure medication and so never drink)  When we left the Casino to get in our car,  we saw a glowing ball the size of a basketball floating in and out of  the clouds over the water  by cherry point. We watched it for  a time, and suddenly the ball no longer had any cloud covering. It glowed, and then out of the ball came seven small bow tie shapes that flew around the ball and then  flew over the cherry point oil  refinery. The bow ties were small about 1/20 of the size of the main ball of light. The bow ties then returned to the ball of light and the ball simply disapeared.((NUFORC Note:  We suspect the witness means a date of January 17, 2002.  We will attempt to verify the date.  She indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/024/S24004.html](http://www.nuforc.org/webreports/reports/024/S24004.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
