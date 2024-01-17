@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:43 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:19 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Skudai (Malaysia) () reported seeing craft that fit the description of some 'Disk' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>a disk shape object moving with high speedabout 9.30pm, I discuss something with my dad. I saw like orange color flying object move from east to west above my dad's house. At first I think is a chinese lan deng which it will drop very soon.But this object seem too fast and stabil when it moving. It seem going up and not going down. I sure this is a fly object and when it is close I can see a disk shape. The UFO slow a bit on top of us and seem like also notice we look at them. After few mins it continue with fast and stabil speed and disapear behind the crown.This is fifth time I saw UFO in this two years. Last time is more close, more big, we even can see the "windows" of UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27164.html](http://www.nuforc.org/webreports/reports/027/S27164.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Krum (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Still there - Still there minutes.</sub><blockquote><sub>Bright light in sky observed on and off for 10 months nowFor nearly 10 months now I have been observing some unual lights in the sky.  All started one night on the way home from work where I dont usually get off until 12:30AM.  I have tried to rule out airplanes and stars but the light never moves and is too big to be a star.   I understand about "gases" on survice of stars and how they give off color.   What I have been seeing are different colors together but they are in a straight line with usually a bright white light slightly below.I've pointed these lights out to my Son and Husband but their reaction is..it's a star.  Well, tonight I saw the biggest and brightest one of all since Christmas Eve, 2008.  The light was much, much lower then previous lights and therefore was bigger they most lights I have seen.I came out my back door around 8:30PM to go to town to grocery store.  I watched the light for several minutes before pulling our of driveway and it never changed position.  Went to townm did my shopping and when I came back out the light was still there.As I drove home (going West out of Denton, TX) I continued to observe the light.  When I arrived at home it appeared to have gone further West of where I had first observed it but still very bright and low.  I mentioned it to my Husband when he came outside and he confirmed that he had seen it earlier...about two hours ago.I have been seeing similar lights now over the past 10 months.  They appear for several nights in a row and then disappear only to reappear later.  Sometimes they come back in different location.  They always have the same appearance.  A even level of colored lights with a singular white light slightly lower to the left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68095.html](http://www.nuforc.org/webreports/reports/068/S68095.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
