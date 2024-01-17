@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:27 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Naples (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Orange and white lights traveling across the sky.1 orange light appeared in the S/SSE.  Moved E on a horizontal path, stopping irregularly.  As it moved E,= its brightness fluctuated.  It grew to dim to see.Shortly following the disappearance of the orange light, a bright white light appeared in the S.  It traveled short distances and stopped irregularly as well.  It emitted three bursts of smaller white lights.  The last burst of lights proceeded to swirl around the main light and disappear.  The light faded away shortly thereafter.Roughly 3-5 minutes after the white light disappeared, 2 more orange lights appeared in the E and traveled SSE.  They were further on the horizon and more difficult to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106435.html](http://www.nuforc.org/webreports/reports/106/S106435.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in High Falls (NY) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Figures seenAt like 11:30, a few of my friends and I were at my parents party.  We weren't drunk or high. We saw 3 cigar formed flying objects with green, yellow, and purple lights flashing erratically above the main falls. They weren't very high up, but they were high enough.  They were silent, and moving in a very glitchy type of movement. After that we began to see figures coming up the hill.  They looked like just blank black forms.  They didn't look like human figures, they were curvy.  Please. Some one come and investigate this manner. I am scared to sleep now.  Once in a while I still see them...I'm only 17, and I know what I saw. I am not sure that they weren't people. It was dark.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96028.html](http://www.nuforc.org/webreports/reports/096/S96028.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
