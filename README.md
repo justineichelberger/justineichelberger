@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:44 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:39 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Pearland (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>green light moving fast across sky seen in pearlandi was talking to my brother around 11:00 pm at my job when i noticed in the direction i was staring in outside the window a green ball of light moved very fast.faster than anything i have evr seen in my life.when i ran outside to see it had been long gone.it streaked across like a meteor or shooting star but was much faster than both.much faster.i work nights and i take out trash at my job so i see planes at night in pearland.this was not a plane.and ive also seen fighter jets fly over the bootcamp i was in at odessa texas.still no where near this.im not crazy and i pray that someone else seen this.ill take a lie detector test to prove it.green light moving across the sky.if anyone else seen this please report it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96014.html](http://www.nuforc.org/webreports/reports/096/S96014.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.5 - 1.5 minutes.</sub><blockquote><sub>long missile shaped objectMe and my friend were outside at mountain Pointe highschool. I was looking at planes in the sky when i noticed that there was a huge black missle looking object in the sky. I could not see any wings. From where i was standing it seemed to be smooth like a missile.It had a smoke trail behind it like an ordinary jet but slightly bigger. When i compared it to other planes flying at the same altitude, i decided that it had to be at leat 40 times bigger looking than the jets. It was moving southwest at a fairly high rate of speed. I lost sight of the object when it flew out of seeing range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48743.html](http://www.nuforc.org/webreports/reports/048/S48743.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
