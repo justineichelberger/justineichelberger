@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:32 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Broomfield (CO) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Three strange lights in triangular formation, one brighter than any aircraft I have ever seen; one passed overhead.I was driving home from Boulder on W 120th Avenue when I noticed 3 very peculiar lights to the southwest in a triangular formation.  One of the lights was very bright, brighter than any aircraft I have ever seen.  I continued to drive east for a few minutes when one of the objects passed several hundred feet overhead: I looked upwards and saw a craft that did not look like any aircraft I had ever seen with a very strange shape.  I had denied my having seen this craft and dismissed it as another human aircraft (an airport was a few miles to the southeast) until this evening when I discovered this website and watched Paul Hellyer's interview with Sophie Co.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107549.html](http://www.nuforc.org/webreports/reports/107/S107549.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Mesquite (NM) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Yellowish orange lights seen over the organ mountains</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152704.html](http://www.nuforc.org/webreports/reports/152/S152704.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
