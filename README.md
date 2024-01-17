@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:41 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Union City (CA) reported seeing craft that fit the description of some 'Changing' over a period of approximately 45.0 - 45.0 minutes.</sub><blockquote><sub>Girating ,shape changing ufos bouncing in the Bay Area sky with military planes monitoring the situation.My husband and I were looking at Venus through the telescope when I noticed what at first looked like other stars in the sky which I quickly realized were definately not stars because they were girating and disappearing and reappearing at a different spot in the sky. As these ships would rotate they appeared to change shape from disk shaped to almost like that of a eagle. There was flashing lights on these objects and what appeared to be beams of light being shot down from them. Where we live being that we are near 3 major airports there is generally tons of commercial air traffic at all times of the day directly overhead, however the commercial air traffic was obviously being rerouted to accomidate these visitors. The ultimate confirmation though was that there were military planes circling the area we saw at least 4. Our friend that was over visiting was really tripping because it was his first time seeing a ufo. This was just the most recent sighting at this location for my husband and I. Prior to living at our current residence I had never seen a ufo, but our 1st night here 5/20/01 I was awakened to the reality that we are not alone. We have seen ufo's many times since that night here,it appears to be a hotbed. Really it makes perfect sense since here in the extremely populated Bay Area there is so much light distortion and air activity they could conduct whatever business they have without hardly ever being noticed by the general public. We most definately noticed though and if granted the privelage in the future we will continue to notice as often as possible. ,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34511.html](http://www.nuforc.org/webreports/reports/034/S34511.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver Reflecting Disk shape object over Azusa.CAAt 14:35 at my work, I was doing a foot patrol and something caught my attention in the sky. From north east from the San Gabriel Mountains, there was an object that looked like a plane but I look further and it was like chrome and had no wings or tail wing.  It was shining light from the sun or its own it appeared.  It came from north east headed south then west slowly.After observing it for 5 minutes it appeared to be a disk to long disk shape and I got a feeling whatever it was it was observing me.  I ran to my car to get my binoculars. Then it took off north west. About 2000 feet or so I guess it would be the altitude of the object. The mountians tops at the mountain it came from is about 4000 feet.  The direction was from NE over the mountains slowly sweeping down heading West then up again over the mountains heading NW then speeding fast. It was gone after it went NW. The flight patterns here I know from years of watching and that object took a different one.  May be a military flight pattern but disk shape?  It did not make noise.  Even planes at 2000 feet make some noise.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62131.html](http://www.nuforc.org/webreports/reports/062/S62131.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
