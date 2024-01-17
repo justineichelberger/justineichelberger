@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:41 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:41 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Silver Reflecting Disk shape object over Azusa.CAAt 14:35 at my work, I was doing a foot patrol and something caught my attention in the sky. From north east from the San Gabriel Mountains, there was an object that looked like a plane but I look further and it was like chrome and had no wings or tail wing.  It was shining light from the sun or its own it appeared.  It came from north east headed south then west slowly.After observing it for 5 minutes it appeared to be a disk to long disk shape and I got a feeling whatever it was it was observing me.  I ran to my car to get my binoculars. Then it took off north west. About 2000 feet or so I guess it would be the altitude of the object. The mountians tops at the mountain it came from is about 4000 feet.  The direction was from NE over the mountains slowly sweeping down heading West then up again over the mountains heading NW then speeding fast. It was gone after it went NW. The flight patterns here I know from years of watching and that object took a different one.  May be a military flight pattern but disk shape?  It did not make noise.  Even planes at 2000 feet make some noise.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62131.html](http://www.nuforc.org/webreports/reports/062/S62131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in National City (CA) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>i was at the kitchen ,,then i heard a strange sound,.sounded like an UFO hovering on the top of our roof,.n all of a sudden,. all of our cabinet smashed open and some of the used frying oil on the counter started boiling,.,,and when the sound disappeard,, the boiling had stoped and all the door cabinet was left open.way too different sound to be an any military aircraft.,sounded like those lazer swords in the star wars movie,.,…((NUFORC Note:  Witness elects to remain totally anonymous.  We post this report, however, because of other events that allegedly were taking place in the Los Angeles area at the same time as indicated in this report.  We would like to communicate with this witness, who elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27160.html](http://www.nuforc.org/webreports/reports/027/S27160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
