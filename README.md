@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 17 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Chicago (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately Photo Capture - Photo Capture minutes.</sub><blockquote><sub>Chicago UFO - Sears TowerThe ufo was only captured on a digital camera.  Me and my Brother were driving though Chicago right before rush hour on our way to South Dakota. Niether of us saw the ufo, but after looking over the pictures we had just taken of the chicago skyline, we noted that there was a saucer shaped object plain as day in one of the pics.  I will email the pic to the center. We've had this picture posted on our website for 2 years now...http://www.probush.com/ufo_over_chicago.htm  We believe this to be the same UFO United Airline workers saw this past November at O'Hare.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54637.html](http://www.nuforc.org/webreports/reports/054/S54637.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Mayrhofen (Austria) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red circle craft sighted over Mayrhofen, Austria.  Outer border was bright with a bright dot at it's centre.My brother and I had arrived in Mayrhofen, Austria for our skiing holiday.  Our sighting happened on our first evening whilst stepping outside to the balcony to smoke a cigarette.The red circle as it appeared to us in the sky appeared over the mountain horizon and continued upwards, sometimes moving very slightly to the left or right.  It continued to move slowly and then gained speed and moved still upwards.  As it gained speed it grew fainter until the light had disappeared from sight.We took a video although this was low quality.  However upon examining the photograph taken, the red circle was brightest at it's centre with a bright outer border.  There were no visible trails of exhaust from any propulsion.  The light remained constant for the entire sighting and there were no additional lights or flashes.I've searched the internet and found nothing similar...I will forward the photograph to this website as evidence of the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68129.html](http://www.nuforc.org/webreports/reports/068/S68129.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [263](http://www.nuforc.org/webreports/reports/161/S161676.html)
-- [262](http://www.nuforc.org/webreports/reports/161/S161662.html)
-- [261](http://www.nuforc.org/webreports/reports/161/S161665.html)
-- [260](http://www.nuforc.org/webreports/reports/161/S161663.html)
-- [259](http://www.nuforc.org/webreports/reports/161/S161658.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
