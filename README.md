@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:46 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:35 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Glendale (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Green light streaked across the sky at a low level and then disappearedMy daugther and I were sitting at my older daughters soccer game, when I looked up and saw a light streak across the sky and then disappear. I started to make a wish thinking it was just a falling star, but then realized it was much to low for that and it went in more of a vertical direction and was green in color. The light appeared to be just above the school gymnasium rather then high in the sky like you would see with a falling star.  I then said something to my daughter sitting next to me and she said "wow, you saw that too!  I wasn't going to say anything because I just thought that was my imagination".   Once we were home from the game and we were eating dinner my younger daughter and I started talking about it and that's when my older daughter spoke up and said "You saw that too?! I just happened to look up in the sky when I was out on the soccer field and saw this green light fly across the sky above the gymnasium and then disappear."   I find that inte! resting because we had not said anything about it being green or right above the gymnasium, so it appears that she saw the same thing that we did.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79733.html](http://www.nuforc.org/webreports/reports/079/S79733.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 62</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161873.html](http://www.nuforc.org/webreports/reports/161/S161873.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
