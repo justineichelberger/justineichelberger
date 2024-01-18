@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:58 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:40 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Crescent City (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>((NUFORC Note:  Missile launch from Vandenberg AFB near Los Angeles at this time.  Many other reports.))Saw a bright light (looked like police chopper with spotlight).   watched a few sec, noticed a blue tail of smoke???   Saw light beam get bigger, total light... light went out... then big ball of smoke.  Smoke was white in color, and only lasted about 30 sec's.   Blue tail stayed lit for over 5 Min's...Driving S/B on Hwy 101 about 3 miles north of Crescent City. Driver noticed a brite light in sky, just south/west of us... perhaps a few miles up (hard to say), at about 30 deg south south west of us.   He pointed it to me and I saw a very brite light,it seemed to be focused  bright light that showed the outline of the light beam.   at first it appeared to be a focused spotlight from a police helicopter, pointed towards the ground.   I also noticed a blue smoke pattern about 500 feet away from the light and looking like it was tapered and also pointed toward the ground in a 30 deg angel. While we were driving, we slowed, and a few vehicles around us slowed, all looking at this light. The light focused on the tail, expanded it's beam, and lighting up the source with a very bright white light, totally involving into a ball, and disappeared.   A large ball of white smoke expanded around this source and disappeared.   After about 30 seconds, the white smoke disappeared, but the blue trail was still illumines for at least 5 minutes..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11745.html](http://www.nuforc.org/webreports/reports/011/S11745.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Alamo (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>    My uncle had seen it moving across the sky tapped my shoulder then asked me if it was a satellite.  I witnessed what I can only describe as a light that looked almost like a star. The object was moving northwest in the sky going straight but was also zig zagging.  I told my uncle to go get some other family members to come out and see the light, but as they came out the light started ascending up further into the atmosphere.   As i was watching it go further up the light slowly got dimmer and dimmer, but stayed almost exactly in the same spot in the sky.  This is the second or third time I've seen this happen.  I cant recall the exact date, but it was the exact same description.  A light that looked the exact same color as a bright star.  This was a few months ago same location i'm not sure if this helps, but there it is.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152716.html](http://www.nuforc.org/webreports/reports/152/S152716.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
