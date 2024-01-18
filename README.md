@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:37 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Arroyo Grande (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately milisec - milisec minutes.</sub><blockquote><sub>Two bluish-green lights moving NNE over Arroyo Grande, CA at unbelievable speed.On January 18, 2010, over Arroyo Grande, CA at 8:55 PM my assistant and I watched two lights flying eastward, approximately NNE. Both lights were bright and bluish-green.One light was three times as wide as a “falling star”; the other light was a pinpoint, but completely observable. No sound.The smaller light was below and to the left of the large light and remained in the same position as they moved. The large light left a trail from almost overhead (when first observed) to disappearance. The small light left no real trail.They covered the distance from overhead to horizon (disappearance) in, say, less than 1/10th of a second. The disappearance judged to be two hand widths high.The sky was clear; stars clearly seen. Both witnesses are adults. The lights were too blue and too fast to be from my planet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74133.html](http://www.nuforc.org/webreports/reports/074/S74133.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lake Havasu City (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright orange, low flying objects at high speed.3 bright orange round objects moving at high rate of speed.  Low flying and silent.  They moved together across the sky from the west.  Then they started going up higher and higher until they were no longer visible.  We tried to record them, but the video quality on our phones was poor and they just look like blurry lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106454.html](http://www.nuforc.org/webreports/reports/106/S106454.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
