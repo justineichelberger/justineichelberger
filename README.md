@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:37 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:35 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Crystal River (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>It stayed completely still for at least 30 minutes, it kept getting brighter.((NUFORC Note:  Venus??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132229.html](http://www.nuforc.org/webreports/reports/132/S132229.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Timberline Lodge/Mt Hood (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>to the ssw a huge bright light was shining down as if on the back of a large jet liner and was moving up like a rocket upward at about a 45 degree angle . This all lasted only a few seconds and then it appeared to explode((NUFORC Note:  Please see similar reports from Coos Bay, OR, for the same date.  At first, we assumed that these reports resulted from the missile launch from Vandenberg AFB at approximately 1816 hrs. (PST) on this date.  However, many witnesses in Oregon express strong opposition to this theory, stating that what they saw did not look like a missile launch, and the object observed illuminated the ground with a beam, or cone (?), of light.  This sighting occurred 82 minutes after the missile launch.  Moreover, our theory is predicated on the assumption that a missile launched from near Los Angeles could be seen from northern Oregon.  That may not be correct.))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11792.html](http://www.nuforc.org/webreports/reports/011/S11792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
