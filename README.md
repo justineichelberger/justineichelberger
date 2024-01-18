@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:27 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Trenton (NJ) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 62</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161873.html](http://www.nuforc.org/webreports/reports/161/S161873.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Canton (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 0:52 - 0:52 minutes.</sub><blockquote><sub>Boomerang shape over Canton, TXOn January 18, 2009 at approximately 0:50 a.m. in Canton, TX in Van Zandt county I spotted an unidentified flying object. I had just stepped out side to have a smoke and was looking up into the clear night sky when I noticed a boomerang shaped object. The object was coming from the south headed north and banked and headed North East. I am not a good judge of distance but I would say it was about 200 to 300 feet up and about 50 feet long. The color was opaque. It was very well camouflaged against the night sky and I had to concentrate first to make sure what I was seeing was what I was seeing and second not to lose site of it. On the bottom of it I could make out 5 circles that appeared to have a slight glow about them. There were no lights on the object but the circles had the appearance like glow in the dark stars when they are dim. The object made no noise and move about the speed of a glider. The whole event lasted about a min. and a half and it just appeared to fade into the sky.I am not a pilot or expert in such matters. I am a computer repair technician. In fact I am somewhat of a skeptic but I did find my experience interesting enough that I thought I should share it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68101.html](http://www.nuforc.org/webreports/reports/068/S68101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
