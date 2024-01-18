@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:45 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Estill Springs (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>spaceships sited in estillsprings tenessee wed. nite midnite.It was about almost midnite' and my two older boys and my niece were outside messing around and my oldest son happen to look up at the sky noticing something blinking'and so he stood there and tol his younger brother and my niece to lookup' they got all nervous and came in and said ma we see something in the sky and we think its a spaceship'so I didn't take them serious so I went out and didn't see anything at first and I said those are just stars' my oldest said ma look above you straight up'so I did and I couldn't believe my eyes ' there was one great big object.  Above my head and I froze'as I watched it it looked as if the clouds were breathing with its movement' but there were several smaller ones around it and it had white and red and geen blinking lites' they stayed for the longest time and all the sudden they disappeared but the sky had the strangest glow till about 3am' we stayed up all the nite afraid ofr course I know now we are being watched and I ! put my hand to god for what we saw and I am a sphycic and I have a very bad f</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86731.html](http://www.nuforc.org/webreports/reports/086/S86731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Easton (MD) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>A big flash of white light by the moon followed by a very bright light that skipped across the sky then faded to black.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106407.html](http://www.nuforc.org/webreports/reports/106/S106407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
