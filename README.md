@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Formation' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 light's clustered together north of I-44 from the Industrial Park on KearnyAt approximately 5:15 am Sunday Jan 18, 2009 I was in a parking lot in the industrial park  on East Kearny in Springfield, MO. Looking north across I-44 I saw 3 square lights close together and approximately 20 stories in the air. They made no sound and the object appeared to be rotating extremely slow. I watched it for at least 15 minutes and it remained stable. I called the local news station and was told that there aren’t any towers in that direction and they did not know what it could be.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68734.html](http://www.nuforc.org/webreports/reports/068/S68734.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Blackwell (08 mi. north of) (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Light, like a star moving fast and staright.It was a very cold night, you could see your breath. I pulled off at road side park on highway 70, just north of Blackwell Tx. I turned off the truck and got out, It was very dark and the stars were bright.I noticed that I was looking at the cluster or the milkey way, because there was a ban of stars, and I could see very small stars that are usually difficult to see. Then I noticed a object or a light, about the same intensity of a star moving very quickly south to north, this light was not as fast as a falling/shooting star, but faster than a aircraft. the light was moving in a straight, uniformed direction, and did not turn or slow down. (Steady Speed). Then I lost sight of it as it went behind trees.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/026/S26263.html](http://www.nuforc.org/webreports/reports/026/S26263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
