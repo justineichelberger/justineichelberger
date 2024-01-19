@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:44 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Super Bright Object appears over Graham, Washington in the Southwest sky approximately 7:30PM on 1/19/2009Upon coming home approximately at 7:30PM, I observed an extremely superbright star  in the Southwest sky.The object was not moving. I ran to get my camera and took a picture of it. When I enlarged the picture, it appears to be circular with a greenish-light blue and purple background and appears to have craters and a rough moon-like surface.Within an hour, the object traveled quickly and disappeared.I thought perhaps this was a new planet, but when it disappeared, that was not possible.I called one friend immediately and she looked out to the Southwest and saw the object and took a picture as well. A third person we called later said she saw the object traveling quickly away and disappeared.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68144.html](http://www.nuforc.org/webreports/reports/068/S68144.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cedaredge (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large bright round light, darting  across the sky, after 10 minutes - the light just went out.I often watch the stars, we have an beautiful large view facing south off the Grand Mesa.  I had mentioned to my husband that at any given time of day or night, there would be a minimum 3 planes in the sky view.  Traffic from Denver to Salt Lake City etc.  This was not a plane. I saw a round light through the first of three large panes of glass in my bedroom. I thought what a bright star, huge. I watched, it seemed to be moving, so I thought satelite.  No, this was skirting left, up, down & right not dramatically but noticeably. It was in the distance, how far I don't know but close enough to see the back and forth movements. I watched it cross to the second pane of glass, still bright. No flashing lights like a plane, of which there were three I could see in the same sky area. It wasn't consistant moving like a statelite would very high in the sky.  This was a bright round moving light.  As it entered the third pane of glass, I woke my Husband to ensure someone else could see this.  He did, very clearly and he saw the darting motion...then poof !  It disappeared, we both gasped and confirmed what we saw.  It didn't drop, or speed away, the light went out - poof.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27175.html](http://www.nuforc.org/webreports/reports/027/S27175.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
