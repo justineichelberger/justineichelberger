@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:52 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bayville (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 orbs in a tight triangle formationSaw 3 dark orange-brown orbs in a very tight triangle formation, although at one point one of the orbs leap-frogged another one.  Initially, I thought it was lazer beams pointed at the sky, however their were no clouds, thus nowhere for the beams to shine on.  It hovered above my head for a second and then flew across the sky at such incredible speeds that it vanished beyond the horizon in a matter of seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138501.html](http://www.nuforc.org/webreports/reports/138/S138501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Fairbanks (AK) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>4 Balls of Fire Dance in The Northern Sky4 Balls of Fire, or reddish-orange balls of light if you will, danced in front of me in the Night Sky of January 19th, 2013 at around 9pm, 2100 hours.  I walked up my driveway to check my mailbox and saw them come into view, but not suddenly, rather gradually.  The 4 balls of light made a formation, two in the middle, top to bottom, and two to either side, and then proceeded to "dance," or move around in a seductive type of aerial display if you will.  I had the presence of mind to take video of it on my cell phone, though it did not come very well due to it being dark out.  I was absolutely mesmerized and the objects held my gaze and wonder for several minutes, until they slowly, not suddenly, but not lagging either, just slipped away to the North, Northwest. This was the 2nd time I had witnessed this type of aerial activity.  The first occurence happened in July of 2009 at around 3:45am in the morning whilst driving down Farmers Loop Road at which time! I was heading East, only to be visually waylayed by a large black disk in the sky that was slowly hovering North.  The memory is one of time being slowed down, almost made meaningless.  I took several cell phone pictures of it in the spot I first saw it in, though it appeared later on, down the road.Please contact me and I will email your organization the video and pictures.  I was inspired to file my reports after hearing Peter Davenport on Coast to Coast AM, my favorite form of media and most loved radio show ever.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/098/S98052.html](http://www.nuforc.org/webreports/reports/098/S98052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
