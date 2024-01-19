@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:39 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Byron (IL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>One triangular craft observed over the Rock River during night time. Near a local saloon between Rockford and Byron.  Object was seen by three observers, who were traveling south on Rt. 2 towards Byron.  Object was also seen near historical landmark and rest area/ boat launch.  Similar sightings near this area have also been spotted say sources. Similar in shape to a modified B-2A ATB bomber aircraft, used by American Military. The craft was suspended about 25 to 30 feet above the River. Two conical white lights opposed to each other about 45 degrees of an angle based on the crafts horizon near what may be the front of ufo .  One pointed at the Rock River, the other pointed to the sky.  There were around three red lights visible, with a possibility of five to six completely around the craft from the "front" to the "rear" of craft.  The craft was a dark ashen gray or black.  After craft was spotted it fled the area at supersonic speeds.  Unfortunately no camera or recording device was present at sighting.((NUFORC Note:  Witness indicates that the date of the incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/051/S51682.html](http://www.nuforc.org/webreports/reports/051/S51682.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Graham (WA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Super Bright Object appears over Graham, Washington in the Southwest sky approximately 7:30PM on 1/19/2009Upon coming home approximately at 7:30PM, I observed an extremely superbright star  in the Southwest sky.The object was not moving. I ran to get my camera and took a picture of it. When I enlarged the picture, it appears to be circular with a greenish-light blue and purple background and appears to have craters and a rough moon-like surface.Within an hour, the object traveled quickly and disappeared.I thought perhaps this was a new planet, but when it disappeared, that was not possible.I called one friend immediately and she looked out to the Southwest and saw the object and took a picture as well. A third person we called later said she saw the object traveling quickly away and disappeared.((NUFORC Note:  Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68144.html](http://www.nuforc.org/webreports/reports/068/S68144.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
