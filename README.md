@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:02:24 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Edmond (OK) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I was taking a spa, when I looked in the east and seen at first lights that I thought were an jet air plane.  Typically I see them coming into Oklahoma City all the time to land but this time the lights were higher than normal and appeared stationary.  Then they went North stopped then went straight up 90 degrees.  The speed seemed beyond what any known aircraft could do for the given height in the sky.  I estimate that the craft was at normal jet passenger traveling elevation of 10,000 to 20,000 feet.  Then the craft went rapidly to the south and descended at an extremely fast pace.  I would lose it in the light overcast clouds and then it would reappear in the East at a point I first noticed it.  Its movements were very quick but directional, meaning a straight line.  You could follow it with the naked eye but were amazed at the speed.  From the east it went southwest and I would lose it in the clouds only to find it again in the east.  Again, I would observe it going from the east to the northwest appear to stop and then takeoff at a rapid speed to the east.  This went on for about 30 minutes.  The object had 3 red lights that were in a V-type formation.  Once only once I saw a whit light.  It was not flashing.  When it moved the 3 red lights didn’t follow the v path of the lights.  The object did not make any audible sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116854.html](http://www.nuforc.org/webreports/reports/116/S116854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Sheffield (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>We do not have aircraft that fast which can turn so sharplyTaking garbage out to the bins and looked to the sky as it was clear. There was a plane overhead to my left then three other objects which I thought were initialy planes tracked along the same flight path but seemingly higher. after only a few seconds it was obvious that the three new object were far faster than the aircraft and they were not flashing, at this point one of the light changed direction very dramatically 60-70 degrees and disapeared towards the horizon the other two swept around on a much more circular path and followed.Thirty seconds later the fouth craft came overhead and from behind me on a direct "chasing" path towards the first three, the speed was simmmilar to that you would see on a shooting star excepting it did not burn out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48768.html](http://www.nuforc.org/webreports/reports/048/S48768.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
