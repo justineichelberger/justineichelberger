@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:47 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:23 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sphere shaped object with aura at sunsetMesa, AZ  Thursday, Jan 21, 2021 @ 5:40, 5:42 and 5:43 (mountain standard time)  After reviewing live photos taken of the sunset, observed a sphere with an aura in 2 of the three pictures. A jet also in one of the 3 photos dwarfed the sphere object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161731.html](http://www.nuforc.org/webreports/reports/161/S161731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Clio (MI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Was driving down I-75 south, saw extremely right lights to the right of the freeway and it did not move for at least 10 mins and the all of a sudden it raced across the freeway to the left side and dropped down low enough for us to tell it was a circle shape and not an airplane.  We kept looking at it for another 15 mins and it just kept hovering and barley moving and then all of a sudden disappeared.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125351.html](http://www.nuforc.org/webreports/reports/125/S125351.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
