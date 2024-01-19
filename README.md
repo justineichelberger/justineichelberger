@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sphere shaped object with aura at sunsetMesa, AZ  Thursday, Jan 21, 2021 @ 5:40, 5:42 and 5:43 (mountain standard time)  After reviewing live photos taken of the sunset, observed a sphere with an aura in 2 of the three pictures. A jet also in one of the 3 photos dwarfed the sphere object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161731.html](http://www.nuforc.org/webreports/reports/161/S161731.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Grey visitation and abduction.I was awaken by the sound of booming thunder on the morning of January 19 , 2000 and as I looked at the clock on my bed stand ( it said 3:00am ), I saw GREY ALIENS approach from the foot of my bed and stare into my eyes , paralyzing me .I couldn't move my body but I could move my eyes and I shut them and said over and over in my head" You're not here...you're not here " .  But when I opened my eyes they were there , moving closer to my face .  It seemed as though there were about 5 or 6 of them . It was the typical GREY description , being 3-4 feet tall , big heads and large black eyes .I shut my eyes again and then I had a sensation of flipping over and over , head to foot .Suddenly I heard what sounded like thunder again and I was awake in my bed , the clock said it was 3:20 am .I still cannot recall just exactly what happened but 20 minutes passed and it seemed as only a few had . I had no memory recall of being on or in a craft .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150182.html](http://www.nuforc.org/webreports/reports/150/S150182.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
