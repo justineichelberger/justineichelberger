@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:36 on 18 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:47 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Brunswick (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Uncommonly fast moving light east of Albany, NYWhile driving southbound on State Route 278, approximately 1/10 of a mile south of state Route 2, my wife and I saw a bright aircraft-like light traveling at great speed in a west-south-west direction.  Because of the speed, it would be arguable the light was an aircraft crashing toward the sky.  Because we were driving we were not able to hear any sound.  The object was visible for approximately 1 to 2 seconds, then had passed the horizon.  Estimated speed would be 3000 - 5000 MPH.  Unable to determine elevation.  Did not see shape of object, only the light.  This is a rural area and where I live, there are few streetlights.  I see airplanes flying overhead on a regular basis.  I have also seen hundreds of 'shooting stars'.  This was neither.  It did not have any flashing or blinking lights like an airplane would have, and it did not have a tail like a meteor.  The light was also more yellow than a meteor.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/060/S60999.html](http://www.nuforc.org/webreports/reports/060/S60999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A sphere shaped object with aura at sunsetMesa, AZ  Thursday, Jan 21, 2021 @ 5:40, 5:42 and 5:43 (mountain standard time)  After reviewing live photos taken of the sunset, observed a sphere with an aura in 2 of the three pictures. A jet also in one of the 3 photos dwarfed the sphere object.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161731.html](http://www.nuforc.org/webreports/reports/161/S161731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [279](http://www.nuforc.org/webreports/reports/161/S161680.html)
-- [278](http://www.nuforc.org/webreports/reports/161/S161677.html)
-- [277](http://www.nuforc.org/webreports/reports/161/S161672.html)
-- [276](http://www.nuforc.org/webreports/reports/161/S161819.html)
-- [275](http://www.nuforc.org/webreports/reports/161/S161673.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
