@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in West Palm Beach (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Grey visitation and abduction.I was awaken by the sound of booming thunder on the morning of January 19 , 2000 and as I looked at the clock on my bed stand ( it said 3:00am ), I saw GREY ALIENS approach from the foot of my bed and stare into my eyes , paralyzing me .I couldn't move my body but I could move my eyes and I shut them and said over and over in my head" You're not here...you're not here " .  But when I opened my eyes they were there , moving closer to my face .  It seemed as though there were about 5 or 6 of them . It was the typical GREY description , being 3-4 feet tall , big heads and large black eyes .I shut my eyes again and then I had a sensation of flipping over and over , head to foot .Suddenly I heard what sounded like thunder again and I was awake in my bed , the clock said it was 3:20 am .I still cannot recall just exactly what happened but 20 minutes passed and it seemed as only a few had . I had no memory recall of being on or in a craft .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/150/S150182.html](http://www.nuforc.org/webreports/reports/150/S150182.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tampa (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>somthing  came out of the ocean and flew up with a boom, out of sight in seconds3 buddies and I went fishing on a 42 ft.boat about 80 miles s.w. mcdill a.f.b. we fished all day and around midnight we saw a lil storm north west of us going south, lightning was realy cool, flashed greenish color on the ocean and some wind but nothing we havent seen before.but we was on gaurd in case the storm got worse.now around 2:00 am the storm got a lil closer and we where all watching it. a lil later evey thing on the boat went dead,radio,fish finder ,sonar ,lights,even our battery powered flash lights whitch was weird cause they where battery powered.cell phones where also dead.we noticed the ocean started to rummble a lil bit, but it was not thunder the water began to vibrate a lil,flash of lighning showed up greenish on the ocean, we didnt know what to think we was talking about going in to shore rather than stay till day break.a lil later may be 30 mins. we saw a greenish glow in the ocean it was pretty big ,a buddy joked it was a sub.well then s! omething came out of the ocean with a greenish glow,rippleing the water,then hovering over the ocean about a mile or two away from our boat for about 10 mins.it must have been 3-4 times the size of our boat or bigger.it was glowing greenish.then it went west out to sea and then straight up, a flash , and gone. then a boom. it seemed to turn to check us out before leaving the area.when the event was over we started the boat and everything came back on. so we headed back to shore.half way back the sun started to rise.we looked at the time and we lost about 4-5 hours out on the ocean.it should not have been sun up yet.we didnt know what to think but we was alright and we had our fish we caught that day still on ice. we talked about what we saw and came to say ,that it was a ufo. not a sub, plane, ship ,boat, ect. not millitary, that i know of.you may email me if you like</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79916.html](http://www.nuforc.org/webreports/reports/079/S79916.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
