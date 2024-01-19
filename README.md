@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:23 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:41 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Azusa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Date 1/19/2010 21:05-11 Red lights blinking or turning on/off in an estimated shape of a triangle.Witnesses: 1 Azusa, CA  At around 21:05 hours. Evening dark sky partly cloudy. One witness was at his work walking his normal route. As he walked outside of the building he was in. He looked around at his surroundings and a very bright red light in the sky caught his attention. He looked to the south eastern sky and saw a group of red lights. They were blinking or turning on and off. It seemed to be in a pattern then turned randomly and one small white light in the middle of them all on for the duration of the sighting. It was slow moving to the north west from the south west. The witness looked at the lights and could not make of it any conventionally known craft other than experimental. The planes that usually fly by have red, white and green lights that are flashing or blinking in a sequence. These did not match of those seen normally. And military aircraft run infrared or red and green lights. At about 21:09, the witness took some video and pictures with his cell phone but are useless due to th! e poor technology in cell phone cameras. The red lights were traveling north west to the San Gabriel Mountains near Azusa, CA when it makes an abrupt turn north. And goes north over the mountains and seems to be exactly leveled with the peaks of the mountains which are around 6,000 ft. And was not seen again at about 21:11 hours.No body or fuselage could be clearly seen with the red lights. The red lights all seemed to be attached to something other than being in formation separately. One white light in the middle of the other lights that seem to be on at all times but very dim. The red lights seen were 2-3 red lights at front of the group of lights, 2-3 on the sides of it and 2-3 at the rear. The witness thinks the object was a triangle shape due to the position of the lights. The altitude would be an approximate of 7-15,000 ft. No sound was herd from the lights. Nothing else unusual was seen that night.The witness is has seen many commercial aircraft in the area before and is knows what to look for in normal characteristics. This sighting could be an experimental conventional military aircraft of sorts but it was unidentified flying object that could possibly be the real thing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74429.html](http://www.nuforc.org/webreports/reports/074/S74429.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A circular object with a trail of white light heading north.  It looked as if the object left in a sideways u-parabola, disappearing traveling to my right.  The travel of the aircraft lasted at a span of approximately 3 seconds.  I am a high school student who has lived in the city of Prescott Valley, Arizona, for more than 10 years.  I also will be submitting photos of where I was and where I saw the unidentified flying object, as well as a picture of the description of the way it traveled before it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106560.html](http://www.nuforc.org/webreports/reports/106/S106560.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
