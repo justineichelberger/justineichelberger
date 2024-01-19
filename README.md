@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:41 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:52 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>A circular object with a trail of white light heading north.  It looked as if the object left in a sideways u-parabola, disappearing traveling to my right.  The travel of the aircraft lasted at a span of approximately 3 seconds.  I am a high school student who has lived in the city of Prescott Valley, Arizona, for more than 10 years.  I also will be submitting photos of where I was and where I saw the unidentified flying object, as well as a picture of the description of the way it traveled before it vanished.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106560.html](http://www.nuforc.org/webreports/reports/106/S106560.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bayville (NY) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>3 orbs in a tight triangle formationSaw 3 dark orange-brown orbs in a very tight triangle formation, although at one point one of the orbs leap-frogged another one.  Initially, I thought it was lazer beams pointed at the sky, however their were no clouds, thus nowhere for the beams to shine on.  It hovered above my head for a second and then flew across the sky at such incredible speeds that it vanished beyond the horizon in a matter of seconds.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138501.html](http://www.nuforc.org/webreports/reports/138/S138501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
