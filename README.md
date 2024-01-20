@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>colorful, bright,  fast light of lineI saw an incredible, colorful(yellow, red, blue, green, purple) bright line of light. The aparent size of the line of light was 30 m long and about 30 cm. The light appeared for less than a second not at a very high altitude. It was so bright, fast and colorful like anything I seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21501.html](http://www.nuforc.org/webreports/reports/021/S21501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Alexandria (LA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>It was a very large metal disc-shaped aircraft with bright lights hovering just above the tree line and then shot off into the sky.Several members of my family saw the same thing, even though they live 5-8 miles apart.  One family member saw it the best; a very believeable sane family member I might add.  She said it was hovering just above the tree line, and that it was huge, about the size of a hundred airplanes.  It was metal and had very bright lights, and then the lights all went off and it shot off back into the sky until it looked the size of a very large star, all in a matter of seconds.  I asked her if it could have been a weather balloon and she became very angry with me.  My son also saw it, in another part of town and pointed it out to his friend.  Two other family members saw it in still another part of town.  It frightens me because all of the people I have mentioned above are wonderful, believable people who do not make things like this up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34614.html](http://www.nuforc.org/webreports/reports/034/S34614.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
