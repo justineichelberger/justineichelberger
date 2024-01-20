@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:38 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:32 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Morgan Hill (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Morgan Hill, CA, 3 min., white object tumbling down 200-300 feet,2 sets of lights, stops and flies horizontally.Morgan Hill, California approx 1711 to 1713 hours.  1/20/08  While photographing a double rainbow I noticed a white object tumbling down directly under the rainbow. It tumbled approx. two to three hundred feet. It stopped then  took off horizontally to the right. I watched it fly in and out of the clouds until I lost it. It was flying  at a rate faster than anything I have seen. I have been around aircraft for many years and this was not the norm. I have one picture, taken while it is tumbling that shows two sets of lights and with in each set are seven to eight  smaller lights. It is white, but looks solid and not quite flat with lights in the front. Another picture is taken that shows it flying horizontally, no fixed wing or jet engine that I can see, at this point it looked flat. Other pictures are when it is too high to see any detail and these pictures were taken before I even noticed it tumbling.  It was only upon enlarging  these photos did I see it above the rainbow. Later in the evening , when it was dark, I was walking home from my parents place next door and saw six or seven lights high in the sky. No formation but  all seemed to be flying the same speed. They were not like the airliners or private planes with blinking/strobe lights. The San Jose Airport path is almost directly over head so I am very familiar with their landing prep. These were solid, possibly military.  They were headed north.  I do not know if there was a connection to  my earlier sightings.((NUFORC Note:  We have looked at the photo, and cannot tell what the object is.  It could be a bird, trash, or anything.  It is unidentifiable.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61045.html](http://www.nuforc.org/webreports/reports/061/S61045.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>What was that?Saw three blinking lights in the sky moving in formation and blinking at different times.  The shape the lights made were in a triangle against the blue sky and then gone…</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106502.html](http://www.nuforc.org/webreports/reports/106/S106502.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
