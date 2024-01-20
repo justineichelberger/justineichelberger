@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:35 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:39 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Norwich/Thetford (VT) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Trio of very bright lights appear then fadeAround 7pm driving north up I-91 approaching Norwich exit, first one very bright gold/yellowish light appears then fades as another appears then fades away.  To the left another of the same kind of very bright light appears..there were three total and kept appearing then fading away for maybe 30 seconds total.  Few minutes later driving north on Rt 5 Thetford looking left into sky over field, same lights no particular pattern but very bright, appear then fade.  Slowed car to really look, window down, couldnt see anything and there was no sound.  Minute late, what looked like a series of military heat flares dropped down in succession, transponder lights off in distance heading north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125372.html](http://www.nuforc.org/webreports/reports/125/S125372.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Temple CIty (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Broad daylight. Sunny day, partly cloudy. Exited my home and shortly after noticed a silver/metallic like object floating in the sky. Initial thoughts it was a balloon - not the case . There were no identifiable wings or rotors. Filmed I-Phone observation indications the object changed shape and was able to move erratically and quickly covering miles in less than a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161702.html](http://www.nuforc.org/webreports/reports/161/S161702.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
