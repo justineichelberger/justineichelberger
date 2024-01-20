@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:35 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:38 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Janesville (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.2 - 0.2 minutes.</sub><blockquote><sub>Flashing light object that flew low to the ground, was quiet, and was not fast, nor slow.I normally do not look outside my window when there is an airplane that passes by, but tonight, we practically have a blizzard outside, and it wasn't as loud as airplanes usually are.  I looked outside my bedroom window, and there was something in the sky, a backwards V-Shaped object, with the lights flashing, not like those on airplanes do.  It was flying so close to the ground, and I live on the hill, surprised it passed over the hillside.  It was a really huge object, nothing like you would see in the United States airforce, or probably any airforce in the world, it was too big.  I can't say the objects, as it was snowing too badly to see how big it truely was.  All I could see was the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61041.html](http://www.nuforc.org/webreports/reports/061/S61041.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Bahama (NC) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>THE SKY WAS CLEAR, NO CLOUDS.  WE SAW A BALL OF LIKE FIRE WITH A STREAK BEHIND IT.WE BOTH SAW THE SAME THING, SO I KNOW I WAS NOT IMAGINING IT.  IT WAS VERY BRIGHT AND BIG.  I HAVE LOOKED ON THE NEWS TO SEE IF A METEOR HAD FALLEN BUT I HAVE NOT SEEN ANYTHING PERTAINING TO IT, SO I DECIDED TO REPORT OUR SIGHTING TO SEE IF IT WAS SEEN BY ANYONE ELSE.  WE ARE COUSINS.  FEMALES AND IN OUR EARLY 30'S.  WE DO NOT DRINK ALCOHOL OR DO ANY DRUGS OF ANY KIND.  WE WERE WONDERING WHAT IT WAS, BECAUSE AS LONG AS I HAVE BEEN LIVING I HAVE NEVER SEEN ANYTHING LIKE THAT BEFORE.THANK YOU,</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21498.html](http://www.nuforc.org/webreports/reports/021/S21498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
