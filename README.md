@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:35 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:17 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Stevens point (WI) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving southbound on I-39 in Stevens Point we witnessed 6 circular large glowing lights that seemed relatively close.  Two were to the left and were aligned and the other four were perfectly aligned horizontally.  As they disappeared, the lights faded from the right to the left all within one minute.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161709.html](http://www.nuforc.org/webreports/reports/161/S161709.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Green Cove Spring (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Driving, just getting into GCS when to the southeast corner, what seemed right above St. Johns River, hundreds of feet above, was an orange flame that looked like a meteor because of the trail behind it, but it never moved closer, only hovered.  7 cop cars whizzed by me with blue lights and sirens within seconds of it appearing.  What scared me the most is it seemed nobody else saw what I was pointing out.  What scared me the most was that as soon as cops appeared, the light in the sky started to........ disappear.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116860.html](http://www.nuforc.org/webreports/reports/116/S116860.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
