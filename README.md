@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:11:20 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Pt. Mugu/Oxnard (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>aurora borealis objectHi, due to the nature of this incident it occurred next to a navy base.  What I can't explain truthfully was why it had a strange eerie glow emanating from it.  The green white colors and comet like tail was the most profound thing I have ever seen on this planet.  It couldn't have been a missile test.  Rockets don't make strange colors like that and it appeared so beautiful like I had died and seen an angel.  Before I talk more I'd like to explain to the reader who I am.  I am 28 now this occurred 2 years ago.  I have been diagnosed by a medical doctor with no phychological problems except a mild form of ptsd from the past.   What I saw was witnessed by another older man in his 40s.  We were both on the same road driving on highway 1 from santa monica to oxnard , right around mugu rock all of a sudden my vehicle shut down completely , no lights no engine slowly stalled to a stop on the pullout.  The man in his dodge charger in front of me stopped too about 30 yds ahead.  These were the only vehicles on the road that night me and him.  Okay so when I got out to investigate the disturbance I got the weird feeling and looking over the ocean and the other man looking to saw the object, it was so amazing I could not believe what I was seeing all my years in college I could not explain in physics how the object moved with no noise at all.  I thought I was seeing something paranormal but I don't believe in ghosts so scratch that thought.  The object moved so slow and it went back towards the horizon but at first it was close then as it disappeared the cars miraculously started up.  I never believed in ufos before now I'm definitely a believer.  I thought I was witnessing a miracle but nothing really happened it appeared and that was it. I'm sorry I did not have a cam phone to record it at the time all I can say are words.I was coming from lax airport at the time.  The object looked like aurora borealis is all I could come up with.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/100/S100112.html](http://www.nuforc.org/webreports/reports/100/S100112.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>colorful, bright,  fast light of lineI saw an incredible, colorful(yellow, red, blue, green, purple) bright line of light. The aparent size of the line of light was 30 m long and about 30 cm. The light appeared for less than a second not at a very high altitude. It was so bright, fast and colorful like anything I seen before</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21501.html](http://www.nuforc.org/webreports/reports/021/S21501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
