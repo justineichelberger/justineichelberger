@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:38 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:39 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Toronto (Canada) (ON) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Orbs of light travelling in a line, equally spaced apart, NE direction; changing from red to white.  We saw approx 11 of themDisclosure:  ((deleted--not high quality)) iphone that i don’t know how to effectively use.  I was able to get the more distant ones coming in our direction, travelling NE.  That night CTV news reported strange lights at Yonge/Sheppard, 10pm news.  Local police chalking it up to a hobbyist w/ an expensive toy...  In total, my mother and I witnessed 12 of them.  We live in the NW part of the city.  We are located close to the highways and airport, however these objects did not have the shape of airplanes, nor did they make any sound - an entire line of fhem and no sound.  At one point my mothers voice faded away as did the sounds of conversation from the tenants in the parking lot below us.  That is when I noticed one bulb-orb was bright white emitting more light than the rest, not just glowing.I barely noticed the first three bc we were having a smoke and chatting; they were passing directly over us at that point.  I could see more coming and ran in to the apt to get the phone...i came back out to photo the end of the line which was just travelling over us by that time but the phn woudn’t work - I thought it was over but then another light started coming up frm the horizon (7:35pm) and before I knew it another line was forming, coming our way.  This is what I was able to capture.  I had frequent pauses and panic trying to work the cell phone.  I got a really good look at one orb-bulb.  It was almost like I could see into it.  My mother was with me and witnessed everything.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138526.html](http://www.nuforc.org/webreports/reports/138/S138526.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Kannapolis (NC) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>UFOs that have humans coming out of them!!!!We saw 2 rectangular shaped objects that had a redish light to it that looked like a stoplight but not aqs bright, it had no sound at all it was about 5 to 600 yards in the air it looked like a rockets fule going out. I looked at my friends to see if they saw what I did and they did. AS i looked back in the sky there was 7 more of these recytangular shaped objects. Then seconds later it looked as if a human was floating in the air with a long black coat. To this day me and my friends have no idea what this was we even brought this to the city of Kannapolis and goverment.((NUFORC Note:  Witness elects to remain totally anonymous;  provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54851.html](http://www.nuforc.org/webreports/reports/054/S54851.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
