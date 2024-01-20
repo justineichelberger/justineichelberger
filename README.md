@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 19 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:36 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Cedaredge (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A large bright round light, darting  across the sky, after 10 minutes - the light just went out.I often watch the stars, we have an beautiful large view facing south off the Grand Mesa.  I had mentioned to my husband that at any given time of day or night, there would be a minimum 3 planes in the sky view.  Traffic from Denver to Salt Lake City etc.  This was not a plane. I saw a round light through the first of three large panes of glass in my bedroom. I thought what a bright star, huge. I watched, it seemed to be moving, so I thought satelite.  No, this was skirting left, up, down & right not dramatically but noticeably. It was in the distance, how far I don't know but close enough to see the back and forth movements. I watched it cross to the second pane of glass, still bright. No flashing lights like a plane, of which there were three I could see in the same sky area. It wasn't consistant moving like a statelite would very high in the sky.  This was a bright round moving light.  As it entered the third pane of glass, I woke my Husband to ensure someone else could see this.  He did, very clearly and he saw the darting motion...then poof !  It disappeared, we both gasped and confirmed what we saw.  It didn't drop, or speed away, the light went out - poof.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27175.html](http://www.nuforc.org/webreports/reports/027/S27175.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rectangular grid of orange lights hovering over Apple Valley, CAWe saw a rectangular grid of orange lights in the sky over Apple Valley, Ca. The grid was 3 rows of lights tall, and at least 7 lights across. As we watched it, the lights went out one at a time, first only in the middle and bottom rows end sections. Then, in very fast procession starting at the top row end light until they were all off. We pulled over to the side of the road to wait for it to turn back on, but after 10 minutes, we had to leave. Our backgrounds: I'm a 44 year old female business owner, middle class American. My daughter, who also saw it, is a 14 year old straight A's student.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68158.html](http://www.nuforc.org/webreports/reports/068/S68158.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [238](http://www.nuforc.org/webreports/reports/161/S161692.html)
-- [237](http://www.nuforc.org/webreports/reports/161/S161961.html)
-- [236](http://www.nuforc.org/webreports/reports/161/S161695.html)
-- [235](http://www.nuforc.org/webreports/reports/161/S161693.html)
-- [234](http://www.nuforc.org/webreports/reports/161/S161694.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
