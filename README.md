@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Bright light disapears 2 times then reveals an objectI was driving north on Telegraph Rd going into Monroe on Saturday morning with my 17 yr old daughter.  It was apx 8:20 am and it was just beginning to turn daylight.  My daughter and I saw a single bright light in the sky ahead of us, slighly off to the left.  It looked slightly smaller than a dime from our view.  We watched this bright light, first it looked like it was hovering, but then it was slowly moving.  Real slow. The light was shimmering, not blinking, but like it would dim then grow brighter, dim again, etc. We watched for abt. 1 min and it just disappeared.  Like a light switch, it was on and then it was off and there was nothing there.   We saw it again about 2-3 minutes later, except by the second sighting it had moved it's position in the sky to where it was directly ahead of us.  We watched for about a minute, and again, like a light switch, it just vanished.  It was totally light out at this point now and there was not a cloud in the sky.  We found it a third time in the sky, and we could tell it was moving slowly again. We followed it with our eyes, and within a minute, the bright light went totally out again, but this time instead of being nothing there, as soon as the bight light went out, we saw some kind of object (resembled a rocket) with three blinking lights running parallel  underneath it ( two white, one red).  It had two small...wings, for lack of a better word, positioned midway on the object.  It looked black or a dark color.  The three lights were not the same bright light that we had originally saw when we first spotted it in the sky.  These were different lights, much smaller. This object just disapeared in the sky, just like it had the first two times we saw it.  No trail, tail, no haze, no nothing.  There one minute and gone the next.  It didn't fly off, it just disapeared into thin air.  This was unlike any plane I have ever seen.   I should also mention that this sighting was near the Fermi Nuclear Power plant in Monroe, Mi. The 'wings' that I mention! ed were very small.  It was like this thing had some sort of cloaking device that made it invisible.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54848.html](http://www.nuforc.org/webreports/reports/054/S54848.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Daytona Beach (FL) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>6 red balls, and each ball had a microsized ball next it, red balls turned silver or grey then disappeared6 red balls rise up over planet fitness in the sky they fly away, each red ball had a micro sized ball next to it, as they flew over they turned grey/silver then dissapeared((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  We assume an evening sighting, and we have amended the date above.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86730.html](http://www.nuforc.org/webreports/reports/086/S86730.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
