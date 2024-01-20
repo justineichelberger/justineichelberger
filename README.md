@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:36 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:41 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Victorville (CA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rectangular grid of orange lights hovering over Apple Valley, CAWe saw a rectangular grid of orange lights in the sky over Apple Valley, Ca. The grid was 3 rows of lights tall, and at least 7 lights across. As we watched it, the lights went out one at a time, first only in the middle and bottom rows end sections. Then, in very fast procession starting at the top row end light until they were all off. We pulled over to the side of the road to wait for it to turn back on, but after 10 minutes, we had to leave. Our backgrounds: I'm a 44 year old female business owner, middle class American. My daughter, who also saw it, is a 14 year old straight A's student.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68158.html](http://www.nuforc.org/webreports/reports/068/S68158.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Royal Palm Beach (FL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node  76</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152965.html](http://www.nuforc.org/webreports/reports/152/S152965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
