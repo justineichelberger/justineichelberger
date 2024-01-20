@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:39 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:34 on 20 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Temple CIty (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Broad daylight. Sunny day, partly cloudy. Exited my home and shortly after noticed a silver/metallic like object floating in the sky. Initial thoughts it was a balloon - not the case . There were no identifiable wings or rotors. Filmed I-Phone observation indications the object changed shape and was able to move erratically and quickly covering miles in less than a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161702.html](http://www.nuforc.org/webreports/reports/161/S161702.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Aberdeen (NJ) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very bright, bell-shaped objects dissapear and reappear over Monmouth County, New Jersey.My father and I were returning from a family dinner in Edison, New Jersey. We were traveling south on the Garden State Parkway when we saw a bell-shaped UFO above the horizon to our front-left. At first we assumed it was a normal plane simply too far away to make out correctly. Then, while I was absentmindedly staring at it, it simply vanished.  I was stunned.  I began informing my father about what I had just seen when I noticed it had reappeared many miles west from where it disappeared. This happened approximately three more times in a span of about 4 minutes. (While this was happening, I was lucky enough to have my camera with me, so I started snapping a few pictures.) Then it finally vanished from plain view for about five minutes. Then I noticed a jet-fighter flying high in the sky, moving west to east over the trees on the right side of the highway. As I began thinking this could somehow be related to the UFO I had just seen, I noticed it was actually pursuing a UFO of the same description.  I witnessed this happen for about fifteen seconds when a second UFO appeared behind and slightly below the jet-fighter. Seconds later both UFOs vanished before my eyes and the jet-fighter was left alone in the sky. For the rest of the ride home, the sky remained UFO-less but I noticed at least a dozen jet-fighters in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61066.html](http://www.nuforc.org/webreports/reports/061/S61066.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [324](http://www.nuforc.org/webreports/reports/161/S161711.html)
-- [323](http://www.nuforc.org/webreports/reports/161/S161708.html)
-- [322](http://www.nuforc.org/webreports/reports/161/S161709.html)
-- [321](http://www.nuforc.org/webreports/reports/161/S161710.html)
-- [320](http://www.nuforc.org/webreports/reports/161/S161720.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
