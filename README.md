@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:01:19 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:36 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>white ball of light seen by a truck driver off of I-20 westI seen a ball of light moving from north to south. After watching it for about 10 sec. It shot out in front of it two more lights of similar dimensions.  The lights spread to a equal distance apart from each other. Then after 5 or 10 sec.  All three disappeared. All three lights was moving at about the speed of a small passager jet and the lights was not as bright as meter and was not losing attitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96074.html](http://www.nuforc.org/webreports/reports/096/S96074.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Weippe (ID) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>6 lights seen flyin in different uniformity patterns at night.Three red blinking lights were first observed in a straight line from right to left.. In front of them were three bright white lights in the same exact distance and pattern from the red ones..  Object(s) were moving from west to east and flying towards me.. Unable to judge height or distance in the air as it was dark with a few stars showing but being over the town the building lights were making it harder to see.  The object(s) were moving slowly towards me and off to my left.  I called over a local official who was across the street and he witnessed them as well and was not able to identify them either.  We then watched them change pattern and closed formation and moved more towards the south..  After about 2 minutes they again changed pattern to where they were flying end to end (white/ red, white/red and white/red) and began moving in a easterly direction again. We observed them for about another 2 minutes until they moved out of our view. The official then g! ot into his vehicle and followed them. Unknown what he found after that.These object(s) were in a square, diamond, and rectangle and then in a straight line pattern while maintaining the uniformity in all patterns… Also noted was there was absolutely no sound.No pictures were taken but 5 sketches have been drawn as best as I can remember.Weather:  about 28 degrees, clear skies with some stars, some light haze at first when noticed the object then it moved into clearer skies.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116885.html](http://www.nuforc.org/webreports/reports/116/S116885.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
