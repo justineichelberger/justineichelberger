@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:41:35 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:23 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Grant County (KY) reported seeing craft that fit the description of some 'Sphere' over a period of approximately  -  minutes.</sub><blockquote><sub>ufo.in car going down highway 36 four objects appeard in front of truck it seemed like we went through a tunnel before it was around 12:00 we apperd in the same spot looked at the time and it was 5:38.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116871.html](http://www.nuforc.org/webreports/reports/116/S116871.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Clackamas (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>7-9 Amber colored, zig-zag patern. I CANNOT be the only one that saw these! I took pix too.At the time listed above it was partly cloudy. I just finished warming up my car and leaving the parking lot when I saw about 5 up-right rectangles (cylinders), amber (like street lamps) in color, slowly come out of the clouds. I was facing West, they were heading East. First 5 then 6,7... I stoped counting. I franticlly grabed my old Nikkon SLR in the dark and put the telephoto lens on the best I could without seeing much of what I was doing. I managed to get off 3 pictures then ran out of film. I continued tring to take the best mental notes I could; they were in a zig-zag pattern (horizontally),then broke formation. The Northern-most one vanished in the clouds, another went North, a couple southern ones went South, the middle one was the most interesting because I could watch it with out any possible abstrution from clouds. I watched it go up, up, up through the clearing eventually vanishing.I later called PDX (airport) and told them my story. They said that it was reflactions of a jet in the clouds (I saw no jets,blinking lights, or heard sound). She was unable to help, so she directed me to this site. I saw these lights no more that 8 miles south-east of Portland, there has to be someone eles that saw them.As for my pix, the photo depatment could only do so much for my poor photography. Can I send the negatives to someone who can develope them more effectivelly?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35155.html](http://www.nuforc.org/webreports/reports/035/S35155.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
