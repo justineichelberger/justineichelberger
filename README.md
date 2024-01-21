@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:42 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:01:19 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hermitage (PA) reported seeing craft that fit the description of some 'Other' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>there were strange vertical horizontal lights in the sky.i was dropping a friend of mine off at his home and when i returned home and got out of my vehicle i looked up in the sky and saw multiple vertical beams of light all through out the sky and they were unmoving and very bright and appeared to be different colors.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68162.html](http://www.nuforc.org/webreports/reports/068/S68162.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>white ball of light seen by a truck driver off of I-20 westI seen a ball of light moving from north to south. After watching it for about 10 sec. It shot out in front of it two more lights of similar dimensions.  The lights spread to a equal distance apart from each other. Then after 5 or 10 sec.  All three disappeared. All three lights was moving at about the speed of a small passager jet and the lights was not as bright as meter and was not losing attitude.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96074.html](http://www.nuforc.org/webreports/reports/096/S96074.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
