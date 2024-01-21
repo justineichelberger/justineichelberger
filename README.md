@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Rockwall (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>January  2004 , two sigtings, 3 objects  9 (correction 1st date was actually wrong) seen on 21st and 23rdMy daughters, age 9 and 11, were waiting outside for the school bus when a miniture craft approached. They thought it was a remote control airplane at first, then it got closer and was an oval/diamond shape.  They tried to "catch" it and it began to change shape and size. It was at times less than 8 inches in diameter and grew to be larger than a car before it instantaneously took off.  On 1-25-04, last Friday morning, it reappeared with two other craft. One was what they called "christmas tree shaped" and it had a bright yellow/white light beam the others did not have.The other was cigar shaped like a plane and had a tail like a plane, but no wings. The three crafts seemed to play with the children and were circling each other.  The children got on the school bus and while discussing it, they said another child overheard and began describing the same thing saying he saw it a few streets over. I have had experiences myself, so has my mother and I kept this from the children.  Until they described the "mini ufos"  I had never heard of this, however my research on the internet backs up what they have told me. These are smart girls that are not prone to making things up. The younger had also had a dream that Thursday night about an "alien" in a ship and that it had a "tube" connecting to her for what she says is "reading her mind".  But she says that was just a dream and is very clear in making that distinction.  I have heard strange sounds around the house lately and the dogs have been very disturbed.  I have been trying to research  if anyone else in Rockwall or surrounding areas saw the same thing that day or recently.  I did not find anything other than a similar sighting in Indiana that same morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34698.html](http://www.nuforc.org/webreports/reports/034/S34698.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Richmond (City of) (VA) reported seeing craft that fit the description of some 'Chevron' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>8-10 lights flying in circle formation during lunar eclipse.I was outside viewing the lunar eclipse around midnight.  To the south of the moon I saw movement and there were approximately 8-10 faint white lights in a circle.  There were some clouds so maybe they were behind them.  They were really high in the sky and I thought from their angular shape they were birds at first.  They flew in formation and each light peeled away from the ring and made a spiral in the sky, like drawing a number 9, then disappeared.  It all happened within a minute or so.  I kept looking to see if I could see them again, but they were gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144604.html](http://www.nuforc.org/webreports/reports/144/S144604.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
