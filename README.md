@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:46 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Ann Arbor (MI) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 210.0 - 210.0 minutes.</sub><blockquote><sub>Object moving erratically in 5-10 degree radial patch of night sky recorded above SE Michigan, other sky objects moved predictablySingle small very bright object in the southern sky above southeastern Michigan-–observed and recorded by a scientist moving around a small radial area of the night sky (a 2-dimensional radial area approximately 5-10 degrees in diameter) located about 5 degrees above the horizon.  Moves in an erratic manner not consistent with any known planetary object in motion or manmade aircraft or spacecraft trajectory.  Luminosity consistent with a near atmospheric object.  Movement of the bright object is not a consequence of atmospheric conditions or of intrinsic sensory/motor tremor or micro-movements, as “naturally-occurring” near space manmade satellites or far space stellar objects near this object moved in known, predictable patterns and were also recorded.  Since I do not believe in UFO’s, is this possibly a new class of drone?  (funded by the Defense Advanced Research Agency (DARPA?)).</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144609.html](http://www.nuforc.org/webreports/reports/144/S144609.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1981, an anonymous witness in Chula Vista (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Blimp shaped craft floating over I805  January 21, 1981 5pmI was 31 years old at the time , single and working as a technician for At&t.On January  21, 1981 I was on my way to a wedding in Bonita, California called the Chapel of the Roses.  I was coming from west Chula Vista.  I  came down E St. heading east and got lost.  I grew up there so I was surprised that i was lost.In those days Bonita still had farmland up in the hills and I  found myself near one and on a dirt road with a great view overlooking  I805 looking west.  It was still light with little  clouds.  I saw the Goodyear Blimp over the freeway which wasn't unusual, although this one had  lights covering the ENTIRE body, not just a screened area.  The lights moved clockwise together vertically, row by row. I was actually enjoying watching it just floating over the freeway very slowly and calmly going in and out of small clouds and not too high. Blimp height, just like a blimp.While I was watching this and thinking how I hadn't ever seen a blimp like this, it suddenly took off upward sooo fast leaving a trail toward the south.  My hair stood on end.  I realized it was dark now and shook all the way down the hill. I found the Chapel and was still shaking when I told my friends.  No one believed me.I did report it to a UFO reporting sight where you could call in the sighting.  The guy who took my report said there were no other reports in that area that night.  I no longer remember what reporting entity it was but it was in Washington State.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96756.html](http://www.nuforc.org/webreports/reports/096/S96756.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
