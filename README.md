@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crowley (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green light at 2amI worked as a manager at a popular fast food chain and after closing, I was getting a ride home with another employee. As we drove down the street late at night, we suddenly saw what appeared to be a bright green star. It grew in intensity, made the whole sky seem to glow slightly green, then split in two and shot off in different directions. We were both completely silent for about 15 seconds before he asked if I saw that. I confirmed that I did. It was very cold that night but at that point, it felt much colder.((NUFORC Note:  If object was visible for one minute, it probably was not a meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61160.html](http://www.nuforc.org/webreports/reports/061/S61160.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>I was just sitting on my front porch smoking a cigarrette when I looked at the sky as I normally do and I noticed that there was a very bright blue colored star that I had never seen before.  The more I watched, i noticed that it was moving, but very little.  It's altitude stayed pretty much the same but it was bouncing from side to side as if to steady.  The blue light is not star blue, rather, it appears LED.  But it is only blue, a perfect circle of blue emitted light.  For the past hour it has changed altitude and position slightly, but still in relative proximity.  My wife came out to watch and noticed yet another light within a couple of miles of the other.  Focusing in with a camera reveals that the light is luminated by what appear to be hundreds of small lights of different colors, yet primarily blue.  I have see an oval and one cone in my lifetime.  They were both hauling some serious ass.  These ones un-nerve me, because they are so stationary, in what seems a strategic distance apart.   If i could elevate myself in my current position, I fear that I would see more of them in a line.  This has been going on for an hour now, and they have yet to break position.  Pictures are unfortunately on my camera because my phone will not zoom in to that altitude..  Which says A LOT because six days ago I was able to zoom in on the FEMA cargo carrier that landed at McGee Tyson, and be able to identify it from 15,000 feet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138527.html](http://www.nuforc.org/webreports/reports/138/S138527.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
