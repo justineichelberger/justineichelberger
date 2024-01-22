@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White light being followed by red blinking light, moving slowly across skyI went outside to my patio, facing east and saw what looked like a star, when I noticed next to it a stationary blinking red light.  Then the white "star" next to it began to move left, and the blinking red light followed, never coming nearer or farther to the white light.  The two lights traveled very slowly across the sky until they appeared to stop, about a minute later.  Then the white light flashed once, then was just gone, while the blinking red light continued to move, eventually out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106572.html](http://www.nuforc.org/webreports/reports/106/S106572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Heavener (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Light object in the sky near Heavener, OklahomaI was traveling north on hwy 59 in Heavener, Oklahoma when the sighting occurred A large blueish white light appeared in the sky towards the west. I started to point out what I thought was a falling star at the same time as my friend was asking me if I saw the light. We quickly realized it was not "shooting star" it appeared to stay stationary for about 30 seconds, then the light appeared to accelerate toward the ground and vanished.  This light/object was very large, We saw planes shortly after, and the lights on planes at a mile away were just tiny flecks of light compared to the object we witnessed</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161733.html](http://www.nuforc.org/webreports/reports/161/S161733.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
