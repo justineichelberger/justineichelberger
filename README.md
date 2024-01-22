@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:40 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Flaming silent object near joint military base JBLM in south Tacoma.Seen out a north facing window.  Appeared as a large, balled up sheet of paper on fire, and was moving rapidly south, just east of I-5.  I ran outside and saw it continue southward silently at about sixty mph.  It neither slowed down, nor speed up.  It traveled straight and level and, as I wrote before, was completely silent.The weird thing-as though that wasn't weird enough-was that the orange glow and subdued flames were not streaming behind it.  The flames/glow were as if it was actually a stationary object even though it was traveling through the air (as I wrote) at about sixty mph.  It soon disappeared behind a tall stand of firs, where I lost track of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125407.html](http://www.nuforc.org/webreports/reports/125/S125407.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Micco (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Falling circles dance together then leave.2 circles (almost like falling stars but brighter) falling equidistance from each other toward earth, then suddenly stop, circle each other with the same distance between them, then quickly move in opposite direction across the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106601.html](http://www.nuforc.org/webreports/reports/106/S106601.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
