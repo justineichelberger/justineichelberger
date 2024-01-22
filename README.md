@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:37 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Wilsonville (OR) reported seeing craft that fit the description of some 'Light' over a period of approximately still happening as I writ - still happening as I writ minutes.</sub><blockquote><sub>Might be a UFOI was setting an item on my deck in the back of my apartment and I noticed a bright light blinking light coming from the sky.  So I turn my head expecting to see a plane moving across the night sky but instead I see an almost motionless blinking light.  I thought well maybe it is a satellite but then I noticed a satellite to the left of the light that was pretty faint in comparison.I called my Roommate over to look at it to double check to make sure I wasn't crazy and I was seeing what I was seeing.  She came to the deck and I didn't even need to point the object out.  She noticed it right away.  She saw it move in a little circle but it was so far up in the atmosphere it was barely noticeable.The colors it is Blinking is red, blue, green and white.  It is too far up to make out an actual shape.  And who knows we could be wrong and it could just be a really low satellite. ((NUFORC Note:  Possible twinkling star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61123.html](http://www.nuforc.org/webreports/reports/061/S61123.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Crowley (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Bright green light at 2amI worked as a manager at a popular fast food chain and after closing, I was getting a ride home with another employee. As we drove down the street late at night, we suddenly saw what appeared to be a bright green star. It grew in intensity, made the whole sky seem to glow slightly green, then split in two and shot off in different directions. We were both completely silent for about 15 seconds before he asked if I saw that. I confirmed that I did. It was very cold that night but at that point, it felt much colder.((NUFORC Note:  If object was visible for one minute, it probably was not a meteor.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61160.html](http://www.nuforc.org/webreports/reports/061/S61160.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
