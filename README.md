@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:38 on 21 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Saint Augustine (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>I went to get my mail from my mail box at around 6:50 PM and then I saw a dense light on the sky.  I called my husband and my son to see it and it was a white dense light circling 360 degrees miles above the clouds going faster than a plane with no sound and it flew in a circular formation and we stopped counting the time it circled over the sky after 500 times until it disappeared at around 7:12 PM.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132263.html](http://www.nuforc.org/webreports/reports/132/S132263.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rolling Hills Estates (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was looking up in the sky while I was waiting for my dog to finish eating.  I noticed a light which was pretty high like a star moving Southwest towards San Diego.  It was an even light, low constant glow, moving fast for the high altitude it was moving at.  I thought maybe it was an aircraft but it had no marker lights flashing.  Then, I thought well it was a Satellite, I have seen them before moving straight across the sky, but then it curved out to the sea, and faded out.  You don't see aircraft at night unless they have flashing lights and Satellites move in straight lines.  I'll keep looking.  Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138574.html](http://www.nuforc.org/webreports/reports/138/S138574.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [231](http://www.nuforc.org/webreports/reports/161/S161951.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161721.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161872.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161699.html)
-- [227](http://www.nuforc.org/webreports/reports/161/S161704.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
