@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:45 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:44 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Vancouver (Canada) (BC) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>white circle one quarter size of full moon appeared NNW, sky, disappeared SSEsky, no trail.At 18:42 PST my mother let our two small dogs out into the back yard and was standing on back porch waiting for them to come back in.  She looked up at the sky and saw a white circle about the size of a small pea held at arm's length or one quarter size of a full moon.  She said it suddenly appeared in the North to Northwest sky and was visible for about 1.5 to 2 seconds as it sped toward the SSE sky and suddenly disappeared.  There was only the one object and the sky was partially obscured by a layer of cirrostratus cloud.  She called to me and I went out to look at the sky.  The object was gone by this time but I did note the cloud cover and that I was able to see a slightly fuller than crescent moon and some brighter stars through the thin cloud cover.  She said there was no trail behind the object and it didn't look like a fireball.  My mother is a retired store manager and I am a  librarian.  She informed me the following day that the new space station was apparently visible in the sky during the time she saw the object.  This brings up many questions. It moved from the NW horizon to the SE in under 2 seconds.  If it indeed was the space station she saw, is it capable of such speed?  Is it tumbling which would cause it to reflect the sun's light and then seem to disappear?   Is it's orbit in a NW to SE direction?   My mother feels that is what she saw--the new space station.  But I am not so sure.  About 2-3 minutes before she saw the object the was a loud rumble like a sonic boom.  It definitely was not thunder; the sky was basically clear and here on the west coast of British Columbia we get few thunderstorms mainly from April to early September.   Thank you for your time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05387.html](http://www.nuforc.org/webreports/reports/005/S05387.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I live in Arlington, Tx. Is the norm to hear planes all the time.  DFW Airport is just north of us and only 20 min away.   This morning at 05:25 I'm walking to my truck where is always parked in the drive way I look up and there it is!!  Is huge!!  The size of about 3 football fields and the shape is a triangle with this lights around it.  The sound is different. I call my wife who is standing at the front door which she does everyday I leave to work.  She hurries towards me and I tell her to look up!   Now we are both looking at it and my wife's points out that the object is transparent that she can see the stars and the clouds thru it.  Is not cloudy or just a few clouds and the moon and the stars are bright.  I quickly pull out my iphone to record it, but if you have an iphone you know is not great at night from a distance. It was awesome to see something like that.  I don't know what it was.  Maybe a new spy plane?  All I know it was huge.  I have the video I will d! o my best to post it.  I hope someone else seen what I did.  Feed back will be great.  My first time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96051.html](http://www.nuforc.org/webreports/reports/096/S96051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
