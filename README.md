@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:38 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Antinito (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>Object discovered in picture.This is a picture of landscape and mountains.  The object was discovered a few days later, after checking the pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125616.html](http://www.nuforc.org/webreports/reports/125/S125616.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Middle Village (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Bright object arched path across dark sky.Parked in front of home waiting for my girl to drive to the train.Looking out my driver side window (think it is East Rockaway Beach is that direction) Looking at what I think is part of the current planet alignment, planets looked bright.When from right to left, something as bright as the planets, moves across dark sky.Bright “round-ish” light, no form to say, very far away, moving quickly from my right to left.I am amazed, just looking at it.  My girls comes outside, I rolled down passenger window and told her to look.  She said, "Yes yes, stars are nice."  I asked do you see the moving one… Holy ((deleted))! She saw same as me.  We both looked in amazement.I had about a minute view before she exited our home, and about a minute together looking before we had to go to the train.The object moved from my right to left in the sky, it did look like it had an arch kind of path, not sure to explain, but did not look like a straight line.We live near airports and highways, flight path is right over us and helio's are always around.  I know what they look and sound like, and are much closer than what I saw, even at high altitude.What I saw was no plane, very far away and sure looked like it was cutting across the sky faster than planes I know.  It was as bright as the planets I was looking at.Hope some people saw it too.Maybe space junk? Saw this posted when I was looking to see if anyone saw the same as me.http://spaceflight101.com/re-entry/2015-075b-briz-m-break-up/ If it is something in orbit, I wonder if will see around same time again tomorrow morning.Was cool start to the morning, whatever it was!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125391.html](http://www.nuforc.org/webreports/reports/125/S125391.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
