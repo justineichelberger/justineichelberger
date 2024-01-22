@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:13:30 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:38 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Union Beach (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Sets of 4 dancing lightsThis is an exact siting to the one reported for 3/18/03, in Union Beach N.J. also.  The only difference is that my dog..as far as I can remember..did not act funny before or during the sighting.I too was walking my dog after the Superbowl in January around midnight (not sure if it was 02/03?  Same sighting, cloudy, 1 dancing lights formation to my west over my neighbors home, and in shock and disbelief one right over my house.  I too got very unnerved and scared..and ran back into my house after about 5 or so minutes of staring at them..and becoming really scared.  I did not attempt to look out a window to see what happened..I really was scared.  The radius of each was at least two spread hands wide.They danced around in a circle, then into the middle, then back out again.I just wanted to validate that person's sighting with the sighting I had at a different time.Thank you.I have since moved to another state!!! I was at the time 54 or 55, I am an amateur astronomer, housewife and have other hobbies also.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63475.html](http://www.nuforc.org/webreports/reports/063/S63475.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Antinito (CO) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately  -  minutes.</sub><blockquote><sub>Object discovered in picture.This is a picture of landscape and mountains.  The object was discovered a few days later, after checking the pictures.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125616.html](http://www.nuforc.org/webreports/reports/125/S125616.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
