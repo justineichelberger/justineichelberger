@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:26:39 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Rolling Hills Estates (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I was looking up in the sky while I was waiting for my dog to finish eating.  I noticed a light which was pretty high like a star moving Southwest towards San Diego.  It was an even light, low constant glow, moving fast for the high altitude it was moving at.  I thought maybe it was an aircraft but it had no marker lights flashing.  Then, I thought well it was a Satellite, I have seen them before moving straight across the sky, but then it curved out to the sea, and faded out.  You don't see aircraft at night unless they have flashing lights and Satellites move in straight lines.  I'll keep looking.  Thank You</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138574.html](http://www.nuforc.org/webreports/reports/138/S138574.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange light shooting through skyApproximately 9:11pm on Saturday January 22, 2005 I was watching TV and saw a bright orange light, like a match flame, heading southwest from my window.  I went out outside and it looked like a ball of orange fire and seemed to be fading out as it traveled, lasting about 1minute, I called my wife to see it but by the time she came out there was only a long smoke trailing heading southeast from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41599.html](http://www.nuforc.org/webreports/reports/041/S41599.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
