@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:37 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Eureka (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>White light being followed by red blinking light, moving slowly across skyI went outside to my patio, facing east and saw what looked like a star, when I noticed next to it a stationary blinking red light.  Then the white "star" next to it began to move left, and the blinking red light followed, never coming nearer or farther to the white light.  The two lights traveled very slowly across the sky until they appeared to stop, about a minute later.  Then the white light flashed once, then was just gone, while the blinking red light continued to move, eventually out of my sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106572.html](http://www.nuforc.org/webreports/reports/106/S106572.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Columbus (GA) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Bright light over Ft. Benning!!!  I’d thought I’d do this as quickly as possible.  The first sighting was at 6:35am Jan 22, 2011.  My friend was giving me a ride home from his house.  As we got closer to my home, I noticed an unusually bright star.  We continued driving, but then out of nowhere, my friend and I noticed at the same time, that the star was no star.  The light we saw grew even more intense and then disappeared just as fast.  We herd absolutely no sounds what so ever.  We then pulled into a parking lot and continued to watch.  The craft was hovering very close to Ft. Benning.  As we got out of the car, I flashed a flashlight in the direction of the light; it disappeared very quickly, but with a small delay. Thinking it was over, again out of nowhere, no other sounds or lights; the craft instantly appeared less than a mile away, just a couple hundred feet up.  I saw a disturbing sight.  The light was being emitted from the bottom of a craft.  The bottom of the craft was smooth a! nd flat, but tapered to a blunt top, similar to a spinning top.  On the side of the craft, there was a reddish light.  It was sweeping in a clockwise rotation, if viewed from directly underneath the craft.  The red sweeping light never made a full 360 degree swoop around the craft.  It maintained this close distance for less than a minute, and then disappeared again, just as quick.  As the sun was rising, it kept its position in the sky, and would blink as the bottom craft light grew and dimmed in intensity.  We managed to capture a one minute video of it blinking and changing intensity.  And eventually we lost sighting at about 7:30am the same morning.  Again, this just occurred an hour ago and for the amount of time it stayed visible, I’m very sure that my friend and I weren’t the only ones to see it! And I also want to mention that during the course of this sighting, we witnessed several shooting stars falling at the same time!!!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79797.html](http://www.nuforc.org/webreports/reports/079/S79797.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
