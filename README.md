@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:45 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Los Angeles (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>very high, very large boomerang shaped craft, ex-ray like white soft translucent glow color, turn and sped away at rapid speed.sitting in back yard with girlfriend.  i often look into the night sky. love star watching. i see a lot of helicopters, blimps, spot lights, low aircraft small planes, 36,000 feet high commercial plans, loads of chem trail planes, so i know the typical lights. we saw a boomerang shaped craft, a cloudy white, translucent light glow.  my girlfriend described it perfectly, it looked like an ex-ray, boomerang shape, guessing 100,000/150,000 feet high, large, about half mile wide, slowly drifting high across the sky.  if you held your arm up straight and held your finger and thump one inch apart, that was about the size of the craft we saw.  after watching it cross the sky for 20/25 seconds, i got up to run inside for binoculars, the craft turn left to head north, and speed away at a rapid speed.  it has really freaked my girlfriend out. me not so much.  i've also seen a black triangular craft... reported both sightings with mufon.  please feel free to contact.  thank you.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116265.html](http://www.nuforc.org/webreports/reports/116/S116265.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 black circular aircrafts flying in triangular formation</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161726.html](http://www.nuforc.org/webreports/reports/161/S161726.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
