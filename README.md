@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:44 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:45 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Arlington (TX) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>I live in Arlington, Tx. Is the norm to hear planes all the time.  DFW Airport is just north of us and only 20 min away.   This morning at 05:25 I'm walking to my truck where is always parked in the drive way I look up and there it is!!  Is huge!!  The size of about 3 football fields and the shape is a triangle with this lights around it.  The sound is different. I call my wife who is standing at the front door which she does everyday I leave to work.  She hurries towards me and I tell her to look up!   Now we are both looking at it and my wife's points out that the object is transparent that she can see the stars and the clouds thru it.  Is not cloudy or just a few clouds and the moon and the stars are bright.  I quickly pull out my iphone to record it, but if you have an iphone you know is not great at night from a distance. It was awesome to see something like that.  I don't know what it was.  Maybe a new spy plane?  All I know it was huge.  I have the video I will d! o my best to post it.  I hope someone else seen what I did.  Feed back will be great.  My first time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96051.html](http://www.nuforc.org/webreports/reports/096/S96051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Byhaila (MS) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>bright blue orb that moved away very fast then disapearedI was driving south on byhalia road and I was looking up in front of me at the stars that were out on a slightly cloudy night.  I noticed a bright blue light that was quite far away but it was about five times brighter than the brightest star.  It was high in the sky and remained motionless until I looked directly at it, then the light accelarated back and up at a tremendous speed until it disapeared.  I do not really believe in ufo stuff but I cannot shake the fact that I saw this so plainly.  I am absolutely convinced that due to the speed, color, and brightness that this was absolutely not a plane or helicopter.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68252.html](http://www.nuforc.org/webreports/reports/068/S68252.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
