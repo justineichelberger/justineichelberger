@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:18 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:34 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Tallmadge (OH) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Extremely bright cigar shaped craft over Tallmadge, Ohio.It was about 6:45pm on Saturday, January 22, 2011.  My mom and I were driving home.  We were about a minute from our house when we saw a cigar shaped craft.  At first my mom was trying to figure out what kind of aircraft it was because it had so many lights.  It had one flashing red  light on the bottom of the craft but was flying extremely low and the craft had lights all along the side of it that were extremely bright.  They resembled windows or panels.  We stopped thinking it was a commercial plane because of the extremely low altitude it was flying at, and how bright it was.  The craft was flying too extremely  low to be a plane.  When we rounded a corner, I continued to look at it through the back window. As I was looking it completely stopped mid-flight.  It sat for approximately 1-2 seconds and then made what looked like a complete ninety degree turn.  I’ve never seen a commercial plane or any plane at all fly that low and certainly none of them are capable o! f stopping mid air.  We also never noticed any sound coming from the craft which doesn’t make sense considering how low it was flying.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79801.html](http://www.nuforc.org/webreports/reports/079/S79801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Flaming silent object near joint military base JBLM in south Tacoma.Seen out a north facing window.  Appeared as a large, balled up sheet of paper on fire, and was moving rapidly south, just east of I-5.  I ran outside and saw it continue southward silently at about sixty mph.  It neither slowed down, nor speed up.  It traveled straight and level and, as I wrote before, was completely silent.The weird thing-as though that wasn't weird enough-was that the orange glow and subdued flames were not streaming behind it.  The flames/glow were as if it was actually a stationary object even though it was traveling through the air (as I wrote) at about sixty mph.  It soon disappeared behind a tall stand of firs, where I lost track of it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125407.html](http://www.nuforc.org/webreports/reports/125/S125407.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
