@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:26:39 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:13:30 on 22 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Tacoma (WA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>bright orange light shooting through skyApproximately 9:11pm on Saturday January 22, 2005 I was watching TV and saw a bright orange light, like a match flame, heading southwest from my window.  I went out outside and it looked like a ball of orange fire and seemed to be fading out as it traveled, lasting about 1minute, I called my wife to see it but by the time she came out there was only a long smoke trailing heading southeast from the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41599.html](http://www.nuforc.org/webreports/reports/041/S41599.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Union Beach (NJ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>2 Sets of 4 dancing lightsThis is an exact siting to the one reported for 3/18/03, in Union Beach N.J. also.  The only difference is that my dog..as far as I can remember..did not act funny before or during the sighting.I too was walking my dog after the Superbowl in January around midnight (not sure if it was 02/03?  Same sighting, cloudy, 1 dancing lights formation to my west over my neighbors home, and in shock and disbelief one right over my house.  I too got very unnerved and scared..and ran back into my house after about 5 or so minutes of staring at them..and becoming really scared.  I did not attempt to look out a window to see what happened..I really was scared.  The radius of each was at least two spread hands wide.They danced around in a circle, then into the middle, then back out again.I just wanted to validate that person's sighting with the sighting I had at a different time.Thank you.I have since moved to another state!!! I was at the time 54 or 55, I am an amateur astronomer, housewife and have other hobbies also.((NUFORC Note:  Witness indicates that date of incident is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63475.html](http://www.nuforc.org/webreports/reports/063/S63475.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [218](http://www.nuforc.org/webreports/reports/161/S161745.html)
-- [217](http://www.nuforc.org/webreports/reports/161/S161733.html)
-- [216](http://www.nuforc.org/webreports/reports/161/S161725.html)
-- [215](http://www.nuforc.org/webreports/reports/161/S161729.html)
-- [214](http://www.nuforc.org/webreports/reports/161/S161728.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
