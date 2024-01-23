@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:57 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:37 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red glowing lights form triangleI work Security at night, and I was just leaving some ones house that was a loud party call. My partner called me, he is about a mile away locking up a pool and dock area, he tells me to look up in the sky, I  do, and there is a big triangle,( the point is at the rear, ) with red glowing lights at each point. Now when I say lights, I don't mean like car or plane or copter lights. They looked like a glow from a fire or if a trash can was turned upside down and a huge road flare was put inside of it. I didn't see anything else to describe, no hull, nothing else.It was very cloudy that night due to an earlier rain, the clouds were low, and it moved right in them. It also moved very slow.  As it moved further away from me, the back      light trailed back and the front left light trailed to the left. And that is the last I seen of it. It was also big, hard to tell exactly, best guess, about 60 to 75 feet.It was some what close, about 100 to 150 yards in front of me, and about 3 light poles up, I am not great at guessing feet when it comes to altitude. There was no sound that I could hear.Juan, my partner said he seen some of the hull, and saw the lights crossing. I will try to get him to fill a report out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68484.html](http://www.nuforc.org/webreports/reports/068/S68484.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lufkin (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving on Hwy 69 near Hwy 59 on North side of Lufkin and noticed 10-12 orange and white lights in a row in the sky. They were maybe 100 yards apart. At first, I thought they were radio tower lights, but as I kept driving, I noticed the lights were moving in a North to South direction. I stopped the truck and watched the lights, but I couldn't hear any noise like plane or helicopter. We only have 1 small airport that closes down at dark. The lights were about 2000 feet up and stayed in a general straight line and didn't seem to be moving very fast, until they were past me. Then they sped up and the lights disappeared.(("Starlink" satellites??))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152863.html](http://www.nuforc.org/webreports/reports/152/S152863.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
