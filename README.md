@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Flash' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Looking North from my balcony at 7:00 pm, I saw a series of 10 I would say flashing lights moving eastward out into ocean.  Flashing about every 2 seconds.  Not dropping like a flare.  I am ex military and I know how flares work.  These were not flares.  They continued to move east ward out into ocean.  Tiny but bright quickly flashing sparkles.  Yet Sparkled back to their moving positions which was fast.  Not fireworks but something moving across sky.  Quick flashing eastward in unison.  Then they disappeared and I then saw lower orangeish brighter lit flashes in the sky where they had been and they lasted for about a minute and moved east as well.  I doubt Chinese candles as they were quick sparkles and I also know what Chinese candles look like.  These were flickering UFO's.  In uniform that were there for a couple minutes and then gone.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106587.html](http://www.nuforc.org/webreports/reports/106/S106587.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Council Grove (KS) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Red orange light hovered in the sky in front of my car, then disappeared.I was driving east on Highway 56 and saw a bright red and orange light fly in from the south, turn and hover in the sky in front my my car for about a minute, then instantly disappear.  The light was slowly changing color as it moved between red and orange.  I had music playing on a USB connection from my phone that started skipping songs as soon as the light appeared, until it started playing a song called 'Creep In A Shirt' from about halfway in, where he sings the word alien.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125428.html](http://www.nuforc.org/webreports/reports/125/S125428.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
