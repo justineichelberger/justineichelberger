@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:35 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:37 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Plymouth Township (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>low flying object with bright white lights and two blinking red lights flying low overhead in residential areaWas out for my daily morning walk between 5 am and 5:30 am, and saw an object flying at low level (approx between 100 to 400 ft off the ground) from Ann Arbor moving North East and low speed.  At first I thought it might be an airplane as it had white marking lights and two blinking red lights and the residential subdivision I walk in is near two airports. However, as it got closer, it appeared to move like a helicopter, yet was not shaped like a helicopter (it appears to be either a triangle or x/cross shaped, similar to like a 4 motor drone), nor did it make any noise...was completely silent.  It made one pass on the northern end of the subdivision, then dipped below the tree line.  After a few minutes, it approach from the South and headed North East again.  When airplanes flew overhead, it seemed to duck down and disappear.  Saw the same item again a bit further East at about 8 am in the morning.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152833.html](http://www.nuforc.org/webreports/reports/152/S152833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Santa Rosa (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>bright light - high altitude crossing sky at high velocity, (no collision beacons).A co-worker and I were standing outside the parking lot after a shift at work when we sighted an odd object crossing the sky.  The object crossed the horizon within 3-5 minutes.  I initially noticed the object when it was low on the horizon and was struck by its high velocity.  I initially thought it was a satellite.  The object appeared as a bright light (no collision beacons), as it passed overhead on a southwest to northeast course the object became brighter as it moved farther east.  A few minutes later, my co-worker and I were able to compare the object to other aircraft in the sky.  The object was 10X brighter ,5X higher and 4-5X faster than the propeller driven craft that were in the sky nearby.  I have never seen craft travel that quickly at that altitude and never appear that bright.  The object was much brighter and lower in the sky than any satellite that I have observed.  It appeared to be at the general altitude that airliners cruise at. My initial impression was that of a government test aircraft and it's vector would have brought it near Beale AFB in Marysville, 100Mi. East.((NUFORC Note:  Date is approximate.  Could not have been the ISS, if the time above is correct.  The ISS passed over this area at 17:54 hrs. on this date, as indicated at <www.heavens-above.com>, which is the source of the data below for overflights of the ISS:  22 Jan 1.3 18:58:20 10 W  19:00:45 21 NNW 19:01:12 21 NNW 23 Jan 0.0 17:54:03 10 WSW 17:56:58 47 NW  17:59:54 10 NE  24 Jan 1.6 18:27:08 10 WNW 18:29:14 17 NNW 18:31:11 11 NNE We do not know what the witness observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34842.html](http://www.nuforc.org/webreports/reports/034/S34842.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
