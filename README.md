@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:41 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Leeds () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Red & white spherical triangular shape objectYeadon, leeds United kingdom A spherical/ triangular shape of light moving quickly downwards and across under the moon, disappearing and reappearing at the other side too fast if you would have blinked you would have missed it. Took a few shots quickly on a samsung a40 and zoomed in, red tail colour</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161746.html](http://www.nuforc.org/webreports/reports/161/S161746.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carroll Valley (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange round object in fieldMy brother and I were laying in the fresh snow when I saw an orange light appear in the field across the street. This field contains a gravel road which is government property and two wells for Government Site R.The object was low enough that it disappeared behind the neighbors house which was between us and the field. The object moved similar to a butterfly's sporadic up and down fluttering, although much faster. I informed my brother and we kept watch for about 5 minutes until we both saw another one appear and disappear.  About 15 minutes later I saw one more object move in the same path the other two had.My brother's friend also saw something similar near his home on the same night, 7 miles away.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56937.html](http://www.nuforc.org/webreports/reports/056/S56937.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
