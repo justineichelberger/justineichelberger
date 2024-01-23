@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:53 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Lufkin (TX) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>I was driving on Hwy 69 near Hwy 59 on North side of Lufkin and noticed 10-12 orange and white lights in a row in the sky. They were maybe 100 yards apart. At first, I thought they were radio tower lights, but as I kept driving, I noticed the lights were moving in a North to South direction. I stopped the truck and watched the lights, but I couldn't hear any noise like plane or helicopter. We only have 1 small airport that closes down at dark. The lights were about 2000 feet up and stayed in a general straight line and didn't seem to be moving very fast, until they were past me. Then they sped up and the lights disappeared.(("Starlink" satellites??))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152863.html](http://www.nuforc.org/webreports/reports/152/S152863.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Slidell (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright red, green , white and blue sphere shaped objectWe saw a very bright object in the sky and at first thought it was a star. But, it was too bright and too close to be a star.  It was sphere shaped and with binoculars looked like there was ring around the middle. It was white, green, red and blue.  It was not noticeably moving but we went inside and when we went outside 30 minutes later it was in a different location.  When I looked through the binoculars the object appeared to be very slightly moving up and down.  I really do not know what it was--I know it wasn't a plane, helicopter, satellite or star.  We went inside again and when we came out about 30 minutes later the object was gone.  I have never seen anything like this before nor had anyone else in my family.((NUFORC Note:  We suspect Sirius or Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68210.html](http://www.nuforc.org/webreports/reports/068/S68210.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
