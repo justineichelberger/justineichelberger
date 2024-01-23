@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:47 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bradford (West Yorkshire) (UK/England) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Small bright light, moving rapidly and randomly before dissapearing.We were walking through a water park, we stopped to look at the stars, facing west.  We noticed a small white light that appeared to be moving, slightly bigger than an average star. it was west of us at about a 30 degree angle. We stopped to watch it as it moved from left to right, curved around a star and headed straight down towards another star until it was just to the right of the star, then went to the right then curved upwards and disappeared. it appeared to be very high up, possibly out of our atmosphere and there were no sounds or flashing lights with it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86787.html](http://www.nuforc.org/webreports/reports/086/S86787.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Alberton (MT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Seen blinking in and out, over the mountains overhead.  No sound came from it.  It stayed in the air for about an hour moving around.  Then blinked out and was gone.  The craft was circle shaped and had red,blue and white lights blinking around it.  No longer visible when blinkedout.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03420.html](http://www.nuforc.org/webreports/reports/003/S03420.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
