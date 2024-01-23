@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:41 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:38 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Belgrade (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 orange bright glowing lights Belgrade...At 9:52pm, I stepped out for a smoke, and in Manhattan, MT, I have been watching the LoveJoy comet, and in the direction of the Belgrade Airport, I see 2 orange glowing orbs rising straight up from the ground.  So I yelled to my step son to come outside and check this out, and they flew/floated.  They wasn't going very fast, and the flight pattern was definitely not an airplane or any other Flying Machine the 2 crossed like they was confused and then 4 more came up from the ground in a vertical flight flying very close to each other still at a slow pace and headed straight up toward the east and disappeared into the cloud cover.I took a little video my camera sucks and the battery was dying, but I caught a couple of them on video at least they made no sound at all just 6 bright orange burning lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116927.html](http://www.nuforc.org/webreports/reports/116/S116927.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Mims (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>3 unidentified craft/yellow lights/totally silent/observed 3 minutes/ flying  SSW 19:17 hrs  towards OrlandoI am retired from the Canadian Air Force and am familiar with aircraft shapes and sounds.At 1917 hours on 23 January 2008 I observed what I thought was an aircraft light heading south at approx 180 degrees.  As this light got closer I realized that it was a yellow light and there were no flashing red, green or strobe lights visible.  Upon further observation as this object got closer I realized that this object was flying in a vertical position with yellow lights down the center and on vertical arms on both sides of the main body. The object changed directions slightly to the South West onto a heading of approx 210 degrees heading towards Orlando. Further to viewing this craft I observed that there was absolutely NO sound emitting from it.  This craft disappeared into the South West without appearing to speed up.Approximately a minute or so later I observed two more similar craft coming from the North.  These two craft followed the same flight path and were traveling at the same altitude and speed as the first one that I reported.  The only difference was that the second craft was not lit up near as much as the first one.  The third craft was lit up more than the second one but not as much as the first one.I have been observing commercial aircraft on a regular basis here in Florida and they fly overhead and continue south to Miami or Fort Lauderdale.  The three unidentified craft I observed last evening turned to the South West which was not the normal flight pattern for commercial aircraft.In conclusion I cannot name what I saw, but I can say, the three objects I observed were NOT AIRCRAFT (jet, prop. Or helicopter)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61174.html](http://www.nuforc.org/webreports/reports/061/S61174.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
