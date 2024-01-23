@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:32 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:57 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Fontana (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>The UFO was completely illuminated by light and spunned extremely fast.  It's shape was of a saucer and it hoovered slowly over the city as if it were looking for something or just plainly sightseeing. We were in our car and started following it at one point we came so close to it (about a 3 block distance) that there is no doubt in our minds that this was a UFO.   It then started to fly a little faster and started going eastward towards San Bernardino, it became hard for us to continue following it, and unfortunenately we didn't have a camera with us to prove to anyone that we did see this. It was an ahhhing experience and has erased any doubts in our minds that they do exist.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11791.html](http://www.nuforc.org/webreports/reports/011/S11791.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>red glowing lights form triangleI work Security at night, and I was just leaving some ones house that was a loud party call. My partner called me, he is about a mile away locking up a pool and dock area, he tells me to look up in the sky, I  do, and there is a big triangle,( the point is at the rear, ) with red glowing lights at each point. Now when I say lights, I don't mean like car or plane or copter lights. They looked like a glow from a fire or if a trash can was turned upside down and a huge road flare was put inside of it. I didn't see anything else to describe, no hull, nothing else.It was very cloudy that night due to an earlier rain, the clouds were low, and it moved right in them. It also moved very slow.  As it moved further away from me, the back      light trailed back and the front left light trailed to the left. And that is the last I seen of it. It was also big, hard to tell exactly, best guess, about 60 to 75 feet.It was some what close, about 100 to 150 yards in front of me, and about 3 light poles up, I am not great at guessing feet when it comes to altitude. There was no sound that I could hear.Juan, my partner said he seen some of the hull, and saw the lights crossing. I will try to get him to fill a report out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68484.html](http://www.nuforc.org/webreports/reports/068/S68484.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
