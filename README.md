@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:40 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Nashua (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Bright green fireball seen falling across sky in Nashua, NH.I was driving along Route 3 when I saw a bright green fireball come into view.  It was falling at a roughly 33 degree angle to the West and the visual lasted for around 3 seconds.  There were other cars on the highway and the sky was very dark and very clear, so others must have seen it as well.((NUFORC Note:  Possible meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96075.html](http://www.nuforc.org/webreports/reports/096/S96075.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bloomington/Minneapolis (MN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I was driving on a highly used freeway across a bridge.  I Don't remember much, I just remember feeling like this doesn't seem normal.  Planes don't just stay still.  The first one i saw was right over my head and did NOT look like a plane.  It had odd bright lights on it.  Driving further down i saw another formation of lights further away.  I had seen three bright "pulsing" lights in formation of a large triangle. One car ahead of me had pulled over to get a better look so i decided to do the same.  Unfortunately, when I pulled over, it was out of sight. I arrived home and thought about going across the bridge again to see if i could get a better look.  So i did, but i didn't see the same things,just planes.  I called several friends but they just made fun of me.  But one of my friends was actually driving too about an hour after i did and noticed the same things.  A part of me logically says they were just planes, but another part of me says that it was more than that. never seen anything like it((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68219.html](http://www.nuforc.org/webreports/reports/068/S68219.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
