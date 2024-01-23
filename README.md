@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:41 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Carroll Valley (PA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>orange round object in fieldMy brother and I were laying in the fresh snow when I saw an orange light appear in the field across the street. This field contains a gravel road which is government property and two wells for Government Site R.The object was low enough that it disappeared behind the neighbors house which was between us and the field. The object moved similar to a butterfly's sporadic up and down fluttering, although much faster. I informed my brother and we kept watch for about 5 minutes until we both saw another one appear and disappear.  About 15 minutes later I saw one more object move in the same path the other two had.My brother's friend also saw something similar near his home on the same night, 7 miles away.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56937.html](http://www.nuforc.org/webreports/reports/056/S56937.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Belgrade (MT) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>6 orange bright glowing lights Belgrade...At 9:52pm, I stepped out for a smoke, and in Manhattan, MT, I have been watching the LoveJoy comet, and in the direction of the Belgrade Airport, I see 2 orange glowing orbs rising straight up from the ground.  So I yelled to my step son to come outside and check this out, and they flew/floated.  They wasn't going very fast, and the flight pattern was definitely not an airplane or any other Flying Machine the 2 crossed like they was confused and then 4 more came up from the ground in a vertical flight flying very close to each other still at a slow pace and headed straight up toward the east and disappeared into the cloud cover.I took a little video my camera sucks and the battery was dying, but I caught a couple of them on video at least they made no sound at all just 6 bright orange burning lights</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116927.html](http://www.nuforc.org/webreports/reports/116/S116927.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
