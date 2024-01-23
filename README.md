@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:53 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:42 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Slidell (LA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Bright red, green , white and blue sphere shaped objectWe saw a very bright object in the sky and at first thought it was a star. But, it was too bright and too close to be a star.  It was sphere shaped and with binoculars looked like there was ring around the middle. It was white, green, red and blue.  It was not noticeably moving but we went inside and when we went outside 30 minutes later it was in a different location.  When I looked through the binoculars the object appeared to be very slightly moving up and down.  I really do not know what it was--I know it wasn't a plane, helicopter, satellite or star.  We went inside again and when we came out about 30 minutes later the object was gone.  I have never seen anything like this before nor had anyone else in my family.((NUFORC Note:  We suspect Sirius or Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68210.html](http://www.nuforc.org/webreports/reports/068/S68210.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Bright orange object, seemed to be heading north/west, moving fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106588.html](http://www.nuforc.org/webreports/reports/106/S106588.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
