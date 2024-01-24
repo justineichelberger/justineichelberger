@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:42 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:36 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Whitetail (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>While driving home my sister and I witnessed a streak of light travel across the horizon and dissapear.My sister and I reached the bottom of the valley right before Whitetail and I was looking ahead at the road when a FAST streak of white/gray light went through the middle of my windsheild moving west to east, it was horizontal with the horizon so it couldn't of been a shooting star and it was so fast and thin that it couldn't of been a aircraft.  My sister and I were so stunned we didn't think to look at it as it left to go east but after a few seconds we looked to the east and it had dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21543.html](http://www.nuforc.org/webreports/reports/021/S21543.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Gainesville (FL) reported seeing craft that fit the description of some 'Other' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>I saw a white object hovering, with no earthly shape as it was jagged and had spike/triangle shapes attached to the craft.So it starts when I go home from school.  I walk to my car.  Feel a bit off.  Saw a normal-looking helicopter flying off to the North-East.  On my drive, this is what I saw.It was some type of aircraft. It was white, and was hovering around. No trail, no noise. Just kind of slightly descending for a bit.  Then in another direction.  The movements definitely seemed deliberate, and from the photos I've seen they look nothing like a weather balloon. Normally, I'd probably brush that off.  But here's the issue.  I cannot describe the shape in one word.  It had at least 3-4 "wings" which were different sized spikes, long, and jagged.  It looked incredibly bizarre.  Nothing like anything I've seen before in my life, especially in the damn sky.I saw it about 4 times within 5 minutes.  Each time, it was going in a totally different direction.  The last time I saw it, it was very translucent, and it was glowing a pinkish-reddish hue.  It really wasn't that high up in the sky; it was high, but low enough that I was able to be pretty damn sure of what I was looking at.After that, I had about 10 more minutes of driving.  I saw that same helicopter that I saw earlier going NE, except this time it was going South to South West.  Then a minute later I noticed a big black helicopter.  It looked like one some type of police force or military would use.  It went very fast, I lost sight of it within 10-15 seconds.The final part was when I got home, I parked outside. Looked up in the sky again hoping I'd see the original object I saw.  There were about 3-4 very tiny planes.  Just white with wings, kind of like a drone considering how small they were.  I don't know what to make of that.I did take videos, but my damn camera made it very blurry; cell-phone cameras really are not able to produce clear images of objects 100-500 feet away.  They just look mostly like blurry spherical things in the sky for the most part.Can anyone explain what in the world that was?  Has anyone seen anything similar?  Where should I take this from now?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138605.html](http://www.nuforc.org/webreports/reports/138/S138605.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
