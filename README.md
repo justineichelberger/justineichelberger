@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:37 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Scott Depot (WV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Small red/orange balls of light seemed to rise from behind the trees floating slowly up in the air and hovering changing shape several times as they went higher into the sky.   After watching for several minutes the balls of light just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96085.html](http://www.nuforc.org/webreports/reports/096/S96085.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Bolton (NY) reported seeing craft that fit the description of some 'Changing' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Object over Lake George, NY observed by commercial aircraftI am a commercial pilot on a VFR flight.  My course line over Lake George, NY, took me from Sandy Bay to Northwest Bay.  At my cruising altitude 2500 Ft MSL, I noticed what I first thought to be another aircraft heading towards me at same altitude off my 11:30 - 12 o'clock position.  I first estimated its distance to be 5-6 miles away.  As I continued I turned on all lights to become more visible.After about the first minute of observation, the object appeared stationary with a gradual increase in its altitude.  Its color and shape changed from looking like a distant white landing light initially, to slightly larger rectangle of reddish/yellow color flickering like a waving flag.  The sighting coincided with the time of sunset that day, however I ruled out reflected sunlight due to the many layers of clouds creating relatively flat light.As I approached the object, I had a growing concern that it may be a balloon of some type possibly on a cable or cable suspended below it.  I changed course about 5-10 degrees east to avoid possible hazard.After about the 6th or 7th minute of observation the object completely vanished!  The rest of the flight was uneventful.I have not witnessed an object like this in over 20 years of commercial flying; truly unidentified!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125587.html](http://www.nuforc.org/webreports/reports/125/S125587.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
