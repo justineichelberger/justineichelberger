@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:55 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:39 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO with bright white tail almost crashed on highway but vanished just before impact.This happened on Friday Jan 24th, 2014, just before 7:00 pm CST while driving northbound on 35 just north of business 121.  Out of nowhere, bright white streak of light fell from the sky.  It was a perfect white line of burning white light heading straight towards the ground.  It left no smoke trail, there was no burst or noise before, during or after it appeared, and no real noticeable "head" on the streak of light.  As it  got closer, I could see that it had a yellow round section on each side of the bright white line at the lead.  It was no shooting star nor like any meteor I've ever seen and it seemed so close.  Everyone on the highway immediately started breaking, as though we were all instinctively reacting and preparing for it to crash land on the highway & cause a massive pile up.  Then, just when it seemed to be only about 50ft overhead and moving FAST towards us all, it vanished without a trace.  As quickly as it appeared, it was gone.  It started & ended in 7 seconds, tops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106623.html](http://www.nuforc.org/webreports/reports/106/S106623.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huntingdon (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There were three reddish orange lights, then a fourth light came up and joined the first three then all four disappeared.Latitude: 35.69867. Longitude: -88.835306:  At first, there were three reddish orange glowing round lights, and then a fourth orange light came up and joined the first three.  When the fourth orange light caught up with the other three lights, then they all vanished.  No sound heard from any of the objects.  The night was clear.  Temp of the air was about 35 degrees f.  The objects came from the South to the North across the sky.  Age of observer 60.  Glasses were on at the time of the sighting.  The observer does not drink, smoke, or take medication.  Occupation is a teacher.  No aircraft was in the vicinity of the four objects.  The light appeared to be the objects instead of lights being on the objects.  Objects left no trail or haze.  The objects did not emit other objects, beams, or changed colors.  To my knowledge, the objects did not land.  Not a close encounter.  Did not see any animals to determine if they responded to the event. I was able to start my vehicle and drive home without incident.   I thought maybe heli! copters, but they make noise.  Then I felt small planes, but they make noise.  Next, I thought to hang gliders, but they moved to quickly. Then I thought lighted lanterns, but these moved together in a formation as if being directed by other than just wind.  Another thought was drones.  If that were the case, they would have to be huge to be seen from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125448.html](http://www.nuforc.org/webreports/reports/125/S125448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
