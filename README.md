@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:40 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:38 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Del Mar (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Five silver disks produce five different messages in the sky on a clear bright Sunday afternoon.On Super Bowl Sunday afternoon observed 5 UFO's flying in formation on a clear, bright day above the ocean.  They wrote a message in morse code, each one producing a comtrail in dots and dashes.  It looked like a ribbon, and dissipated within 5 minutes.  They produced 5 of these messages within the course of an hour and 1/2.  The ships were clearly visible.  No sound accompanied this manifestation, and they "winked" out one by one, then would appear about 15 minutes later to make another one.  Three messages ran from north to south over the ocean, and two of them went from east to west right above my car.  I had requested a sign from the Galactic Federation, and they gave me even more than I had anticipated!((NUFORC Note:  Witness indicates that date is approximate.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27465.html](http://www.nuforc.org/webreports/reports/027/S27465.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Kingston (Canada) (ON) reported seeing craft that fit the description of some 'Light' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Huge Orb!!!!I was outside sitting on my front step which faces SW. It is cold out so I only planned on having a quick cigarette. I saw this huge bight light. It looked like it was maybe hovering above Lake Ontario/ St-Lawrence river. I thought it might be a helicopter since I live close to the Kingston Airport, but the light did not move or have any other flashing lights just a blue haze around it. I called my mom out to the step and ask her if there were any planets that would be that huge and bright and close this time of year. She informed me that she did not hear of any on the news. Sometimes they let us know if you can see them without a telescope. I came back inside and googled planets to see if there was one this big and close. There were no head lines. The closest and brightest one for this time of year was Sirius and it was so far and small and distant compared to what I saw. I thought this bizzare and went outside to look again. The light was still there. It was. same spot, not moving, no sounds of engines. Just sat there motionless. I was just turing around to go back inside because it was so cold and I took one last look. I am not shitting you when I say this light took off almost faster than my eyes could see!! I didn't know what to do, and had to sit and think about what i just saw. Unless the news says otherwise I saw a UFO. I know I did. I cannot think of any other explanation. Weather balloons don't move that fast. Nor do helicopters or any airplane I have seen or know about! Looking from where I saw on my step this thing had to have been huge! I am terrible at guessing but the light was like 3 of the lights that the jail I work in. All put together.  I don't drink or do drugs and my mom saw it too!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68236.html](http://www.nuforc.org/webreports/reports/068/S68236.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
