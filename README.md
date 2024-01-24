@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:45 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:55 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Norristown (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>I saw two lights that looked like stars or aircraft flying in formation to the northwest when I walked outside to at around 5:55 am EST. I observed them for a minute trying to figure out what the were, thinking military craft because I could see they were slowly moving in formation. I leaned over (to put something down) looked up again and they were completely gone. They were slightly bluish like Sirius or Venus and about the brightness of Venus, or slightly less bright. This is my first actual UFO sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161750.html](http://www.nuforc.org/webreports/reports/161/S161750.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Lewisville (TX) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>UFO with bright white tail almost crashed on highway but vanished just before impact.This happened on Friday Jan 24th, 2014, just before 7:00 pm CST while driving northbound on 35 just north of business 121.  Out of nowhere, bright white streak of light fell from the sky.  It was a perfect white line of burning white light heading straight towards the ground.  It left no smoke trail, there was no burst or noise before, during or after it appeared, and no real noticeable "head" on the streak of light.  As it  got closer, I could see that it had a yellow round section on each side of the bright white line at the lead.  It was no shooting star nor like any meteor I've ever seen and it seemed so close.  Everyone on the highway immediately started breaking, as though we were all instinctively reacting and preparing for it to crash land on the highway & cause a massive pile up.  Then, just when it seemed to be only about 50ft overhead and moving FAST towards us all, it vanished without a trace.  As quickly as it appeared, it was gone.  It started & ended in 7 seconds, tops.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106623.html](http://www.nuforc.org/webreports/reports/106/S106623.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
