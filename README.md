@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:36 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Portsmouth (NH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 stationary lights w/ possible light structure below viewed near Pease Tradeport in Portsmouth NH.Driving north on I95 from Hampton I first saw a cluster of lights up near Pease TradePort as I went under the Breakfast Hill road overpass. I assumed it was landing lights from a plane.  As I got closer I noticed it hadn't moved and I could see 3 separate closely-grouped lights and what seemed to be a slight reflection of those lights off an object that the lights sat on top of. I could not distinquish the shape of the object.  Thought it might be an advertising balloon belonging to one of the nearby car dealerships but it was too high for that and no tether was visible.  As I passed the Portsmouth traffic circle and continued to the I95 Piscataqua Bridge the object stayed stationary in a position that seemed to be between Pease TradePort and Woodbury Ave.  It was dusk and difficult to distinguish shape of object just below the 3 lights but there did seem to be something with no well-defined shape- sort of like a light framework was all it looked like.  I lost sight of the object just before I crossed the I95 bridge.  Took exit 1 after bridge and pulled over as I had binoculars in my truck but could no longer find the object.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96089.html](http://www.nuforc.org/webreports/reports/096/S96089.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Houston (TX) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>flew by it, 300 meters away, it was floating not moving at 15000 ft, looked directly across at it.I was on a plane coming from Dallas to Houston and as we approached Houston we entered a storm and heavy clouds.  As I looked out the window I saw, what looked like the top of a radio tower with 3 spires pointing up sticking out of the clouds.  It was not moving and very close to the airplane, maybe 200 - 300 meters tops.  So I though "wow we are really close to the ground in thick fog", then we went through another break in the clouds and I saw the ground around 20,000 feet below.  I'm not aware of any radio towers that tall or big.  It was quite large with the base and 3 spirest was big, probably the sized of a small house (800 - 1200 sq ft) base with 3 long spires sticking out the top (sorta like the San Francisco radio tower).  The spires where about the length of an interstate light pole with other things hanging off of it. It was dark grey like a titanium wedding ring color.  I saw from the time it came to view in the front of the window then I leaned forward! and watched it until we went into new cloud bank. It wasn't moving so it was like flying by a building 15 - 30 seconds.  A few people looked  concerned/confused on the plane and I should have stopped and asked the pilot but in all honesty I was a little bit worried about asking around.  I can assure you it was not an illusion or reflection, it was solid as a rock and not obscured.  It was just like staring at a building as you fly by.  There were no flashing lights or anything like that.  I did try and take a picture but my phone didn't boot in time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79836.html](http://www.nuforc.org/webreports/reports/079/S79836.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
