@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Lake Wales (east of ) (FL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>We Saw Disc-Like Object, Flashing Bright Lights and Smaller Lights Dotting The SkyWe were on Hwy. 60 near River Ranch and Lake Wales, Fl when I noticed big lights on an object in the sky - it looked like a disk with lots of lights (window like) which was moving about 45 degrees from the horizen.  At this same time, I saw bright lights resembling a flare ( about a half-dozen) that sparked and then were gone.  In addition there were little lights flashing all over that area that reminded me of grasshoppers jumping from place to place. We tried to pull off of the highway in a safe place, finally found one and my husband got out the binoculars and by the time he got them adjusted, the disk-like object was gone.  However, I still saw the bright lights (a second time), and the little lights dancing around like grasshoppers were all over the sky.((NUFORC Note:  Wife's report of same event reported by husband.  Event was reported to have occurred on Monday evening, January 24, 2005.  We have amended the date above.  PD))((COMMENT FROM READER))Likely explaination for sighting in Lake Wales  1/24/2005Referencing the sighting reported on this date, I am very familiar with this area. The direction the folks were traveling (east) and the fact the wife sighted the lights to her right (south), this was most likely military activity over Avon Park Bombing Range. Flares are frequently dropped from high flying aircraft that float slowly on parachutes. The high altitudes and distance make the flares seem motionless without a reference.((END COMMENT))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41632.html](http://www.nuforc.org/webreports/reports/041/S41632.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Scott Depot (WV) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Small red/orange balls of light seemed to rise from behind the trees floating slowly up in the air and hovering changing shape several times as they went higher into the sky.   After watching for several minutes the balls of light just disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96085.html](http://www.nuforc.org/webreports/reports/096/S96085.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
