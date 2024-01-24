@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:02:42 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:40 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Fresno (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>2 lights flying close to each other & disappeared 5 seconds from each other.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144782.html](http://www.nuforc.org/webreports/reports/144/S144782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At 6pm, I was driving east on rt 5, heading to Schenectady.  As i entered Scotia, I saw 3 red orbs atop one another moving across the sky.  I saw something big light up in the sky.  It looked like a huge scoreboard all lit up.  I pulled over.  This large object glided in front of  me.  No sound at all.  It looked like a goal post with lights all over it and the under belly was oval and lit up gliding past me.  My video does not do justice to what I saw, it's much larger then the video shows.  I assume all the bright lights on it caused a poor video.  Theres a strange noise on my video that I can't explain where it's coming from.  2 cars pass by, other then that I was alone in silence.  Very big object, all lit up, no sound, gliding by me.  NOT an airplane!!((NUFORC Note:  We spoke via telephone with the witness, and we found here to be sincere, and passionate about her sighting.  We have viewed the video, and the object she describes above is not at all apparent to us.  We see a small, lighted object, which appears to be an aircraft in flight, with standard red and green navigation lights visible.  However, the witness insists that she had seen something else.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138606.html](http://www.nuforc.org/webreports/reports/138/S138606.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
