@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dixon (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i saw lights in a field that lit up the area and a barnI was driving southbound on Maries county road heading back to Dixon when my boss said something like 'look do you see that'. All that i saw was lights in a field thats it.The whole area was lit up and there was a barn in the area to the south of where the light was at and there was light visible all over the area and on the barn.That is all that i saw was lights in the field and in the area. I have no clue what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69250.html](http://www.nuforc.org/webreports/reports/069/S69250.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bunker (MO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Over the hill to the North there were weird looking strobing lights....Phase #1:  I was sitting on the living room sofa, which faced me to the NW, looking out a double window.  There is a high hill directly behind the house.  I saw a glow at the tree line, the tops of the trees lit up.  Then a line of lights in a row, rose in an arc, maybe 9 or 10 of them.  They were orange, bright orange with a steady glow, not pulsating.  They were bigger than Venus and brighter.  Maybe like hand-held spot lights.  They illuminated the tree line. Moving not too rapid.  Moving from left to right.  The  formation slowly reveled itself. Looked like something big in that direction.  It looked like the leading edge of a solid object, with more hidden down below.  I thought, "I’ve got time (to get to the back door)" and jumped up and ran to the back door.  By the time I got out there, they had slid down below the hill.   I could still see a glow.  At the top of the hill, the glow dissipated.  I called my wife, but by the time she got there they were gone.Phase#2: My wife and I saw this.  Over the hill to the North there were weird looking strobing lights.  They were white.  I saw at least three, and they were set to form triangles in groups of three.  Three with three lights each.  These were a little dimmer than the string of lights.  A real fast strobe, a series of fast flickers, then nothing, then fast flickers, then nothing.  They all strobed at the same time.  The size of the clusters, each triangle of three lights was maybe like a quarter held at arm’s length.  Larger than a dime.  A friend told me he saw jet fighters come up from the South, slightly before 6:30.  They were in formation, flying fast.Report taken by Lou Ashby for the Missouri Investigators Group  http://ufomig.bravehost.com    B. Becker  ufomig@yahoo.com((NUFORC Note:  We express our sincere gratitude to the MISSOURI INVESTIGATORS GROUP, and to its Director, BARBARA BECKER, for their having shared this report with our Center.  If you have had a sighting in Missouri, please consider contacting that organization, at the website above, to share your sighting with their investigators, in addition to submitting a report to NUFORC.  Thank you!!  PD)</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/063/S63907.html](http://www.nuforc.org/webreports/reports/063/S63907.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
