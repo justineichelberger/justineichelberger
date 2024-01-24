@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:39 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Huntingdon (TN) reported seeing craft that fit the description of some 'Formation' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>There were three reddish orange lights, then a fourth light came up and joined the first three then all four disappeared.Latitude: 35.69867. Longitude: -88.835306:  At first, there were three reddish orange glowing round lights, and then a fourth orange light came up and joined the first three.  When the fourth orange light caught up with the other three lights, then they all vanished.  No sound heard from any of the objects.  The night was clear.  Temp of the air was about 35 degrees f.  The objects came from the South to the North across the sky.  Age of observer 60.  Glasses were on at the time of the sighting.  The observer does not drink, smoke, or take medication.  Occupation is a teacher.  No aircraft was in the vicinity of the four objects.  The light appeared to be the objects instead of lights being on the objects.  Objects left no trail or haze.  The objects did not emit other objects, beams, or changed colors.  To my knowledge, the objects did not land.  Not a close encounter.  Did not see any animals to determine if they responded to the event. I was able to start my vehicle and drive home without incident.   I thought maybe heli! copters, but they make noise.  Then I felt small planes, but they make noise.  Next, I thought to hang gliders, but they moved to quickly. Then I thought lighted lanterns, but these moved together in a formation as if being directed by other than just wind.  Another thought was drones.  If that were the case, they would have to be huge to be seen from my location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125448.html](http://www.nuforc.org/webreports/reports/125/S125448.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object obseved for a few seconds...Then Disappeared!I was driving in my car with my daughter and saw a really bright light in the sky. It was big and it flickered. It was greenish white. It was falling towards the ground fast, and I originally thought that it must be a aircraft falling out of the sky but then it just disappeared. It was oval shaped, it was white with a greenish tint to it. I stopped the car and asked my daughter if she sees this and she said yes she did. we got out of the car and looked over a block wall expecting to see something crashed, but there was nothing there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61191.html](http://www.nuforc.org/webreports/reports/061/S61191.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
