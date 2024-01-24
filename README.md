@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:40 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Scotia (NY) reported seeing craft that fit the description of some 'Other' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>At 6pm, I was driving east on rt 5, heading to Schenectady.  As i entered Scotia, I saw 3 red orbs atop one another moving across the sky.  I saw something big light up in the sky.  It looked like a huge scoreboard all lit up.  I pulled over.  This large object glided in front of  me.  No sound at all.  It looked like a goal post with lights all over it and the under belly was oval and lit up gliding past me.  My video does not do justice to what I saw, it's much larger then the video shows.  I assume all the bright lights on it caused a poor video.  Theres a strange noise on my video that I can't explain where it's coming from.  2 cars pass by, other then that I was alone in silence.  Very big object, all lit up, no sound, gliding by me.  NOT an airplane!!((NUFORC Note:  We spoke via telephone with the witness, and we found here to be sincere, and passionate about her sighting.  We have viewed the video, and the object she describes above is not at all apparent to us.  We see a small, lighted object, which appears to be an aircraft in flight, with standard red and green navigation lights visible.  However, the witness insists that she had seen something else.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138606.html](http://www.nuforc.org/webreports/reports/138/S138606.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lakveville (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange glows in the sky going fast an low with absolutly no sound of jet engines or rotor bladesOur house has large windows facing East and we see planes going in and out of MSP all the time.  We also have a medical helicopter that goes over regularly. On Sunday Jan 24, 2016, we were relaxing watching TV, when I noticed an orange ball, low in the sky, coming straight out of the east.  I noticed it did not have the signature flashing white lights of a plane or of a helicopter and no red light… just orange an orange glow. I got up and opened our patio door to see if I could hear rotor blades or a jet engine…there was nothing but silence.  I then saw a second orange ball trailing the first and just off to the north of the first orange ball.  They moved about as fast as a small private jet but had no flashing lights and absolutely no sound.  They appeared to be flying just above the cloud deck.  I am not a UFO type of person and the way I saw a definite formation to the two objects I would think military?  I have been an aviation buff since I was young but this is by far the strangest thing I have ever seen in my life.  Absolutely no sound from a jet engine or rotor blades and they were both close enough to me that I should have heard something.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125440.html](http://www.nuforc.org/webreports/reports/125/S125440.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
