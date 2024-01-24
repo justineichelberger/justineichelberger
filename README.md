@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:44 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:41 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Longs (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At & pm i recieved a phone call from a friend 30 miles to the south and informed me he was looking at a craft above his home.  We went oustisde to look and saw several single flashing lights moving about in an ununiformed formation.  My wife looked west and pointed out a large slow moving triangle with flashing lights.  We watched it for 15 minutes go 10 miles north then turn and return towards us and passed us by heading towards the ocean(5 miles away).  It was probably hundreds of feet long with three lights that were flashing like laterns.  We also watched several single lights for 20 minutes.  We tried to take photos using 3 different devices with no results.  Very very clear night. one of the clearest i have seen in months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86812.html](http://www.nuforc.org/webreports/reports/086/S86812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brunswick (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright solid white light in sky that vanished.While Driving on Route One towards Bath, Maine, we saw a bright white lite to the East hovering in the sky for approximately 5 minutes.  It was a very clear crisp night, the  lights, did not flash they where solid bright white and it was stationary...the lights where brighter than the space station.We both noticed it and mentioned it to one another and while we where looking at the object the light disappeared.  The object just vanished from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138584.html](http://www.nuforc.org/webreports/reports/138/S138584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
