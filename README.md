@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:43 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Lakveville (MN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Two orange glows in the sky going fast an low with absolutly no sound of jet engines or rotor bladesOur house has large windows facing East and we see planes going in and out of MSP all the time.  We also have a medical helicopter that goes over regularly. On Sunday Jan 24, 2016, we were relaxing watching TV, when I noticed an orange ball, low in the sky, coming straight out of the east.  I noticed it did not have the signature flashing white lights of a plane or of a helicopter and no red light… just orange an orange glow. I got up and opened our patio door to see if I could hear rotor blades or a jet engine…there was nothing but silence.  I then saw a second orange ball trailing the first and just off to the north of the first orange ball.  They moved about as fast as a small private jet but had no flashing lights and absolutely no sound.  They appeared to be flying just above the cloud deck.  I am not a UFO type of person and the way I saw a definite formation to the two objects I would think military?  I have been an aviation buff since I was young but this is by far the strangest thing I have ever seen in my life.  Absolutely no sound from a jet engine or rotor blades and they were both close enough to me that I should have heard something.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125440.html](http://www.nuforc.org/webreports/reports/125/S125440.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Dixon (MO) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>i saw lights in a field that lit up the area and a barnI was driving southbound on Maries county road heading back to Dixon when my boss said something like 'look do you see that'. All that i saw was lights in a field thats it.The whole area was lit up and there was a barn in the area to the south of where the light was at and there was light visible all over the area and on the barn.That is all that i saw was lights in the field and in the area. I have no clue what it was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/069/S69250.html](http://www.nuforc.org/webreports/reports/069/S69250.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
