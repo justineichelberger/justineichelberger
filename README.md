@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:45 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:40 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Bruin (KY) reported seeing craft that fit the description of some 'Disk' over a period of approximately ~15' - ~15' minutes.</sub><blockquote><sub>Bright varying color / intensity (blue-white) ; disc-like "glob" - erratic movements.Possible UFO sighting   CONDITIONS  Approximately 10:17pm until approximately 10:35pm; Saturday, January 24, 2009.Latitude 38o 1979’N   Longitude 83o 0188’W. Clear sky.  Remote area, no light interference. General location;  W. of Little Dipper.  Estimated  position eleven o’clock  E. NE.Planes use general air space frequently.  Air traffic regular; several passenger jets traversing simultaneously. Lights clearly visible at night. Following consistent flight paths. Planes visible by day. Occasional vapor trails; numerous -6 - 8 simultaneously with proper atmospheric conditions. Estimated altitude ~ 18,000 to ~ 20,000 ft.Small plane traffic less regular, mostly “puddle jumper” connecting flights -  2,000 - 5,000ft.  Also regular.Passenger jets always audible,  ~ 10 seconds after visible contact of plane’s sighting.Small planes audible propulsion closely associated with position.Typical routine.  Stepped out on patio, have a “smoke” and “night cap” before bed. Always observe night sky; sometimes counting numbers of lights of jet traffic or watching for “falling” stars. Observe Saturn disappearing into Eastern horizon.Venus traveling ~ 1 o’clock ~ South.Suddenly appeared a twinkling star-like image. Blue-white- seemed changing.I observed in awe as it’s position shifted erratically. Quickly moving vertically; wavering; returning close to original position.  Rapid movement vertical and horizontal.  Best analogy would emulate a burning cigarette in darkness; moving erratically-within limited space.  Vanished!  Immediately reappeared 10 o’clock E. Repeating erratic movements.Awakened  companion to bring her glasses, and witness what I was seeing.  Validated erratic movements and varying light intensities.Called father to observe also; 11 miles S. No answer. Left message of object’s position; - he’s retired Air Force. Probably thinks I was “seeing things” …. I was!  Indescribable movements. Varying light intensities.Previously skeptical; now astounded by what I and my companion witnessed.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68240.html](http://www.nuforc.org/webreports/reports/068/S68240.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Del Mar (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Five silver disks produce five different messages in the sky on a clear bright Sunday afternoon.On Super Bowl Sunday afternoon observed 5 UFO's flying in formation on a clear, bright day above the ocean.  They wrote a message in morse code, each one producing a comtrail in dots and dashes.  It looked like a ribbon, and dissipated within 5 minutes.  They produced 5 of these messages within the course of an hour and 1/2.  The ships were clearly visible.  No sound accompanied this manifestation, and they "winked" out one by one, then would appear about 15 minutes later to make another one.  Three messages ran from north to south over the ocean, and two of them went from east to west right above my car.  I had requested a sign from the Galactic Federation, and they gave me even more than I had anticipated!((NUFORC Note:  Witness indicates that date is approximate.   PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27465.html](http://www.nuforc.org/webreports/reports/027/S27465.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
