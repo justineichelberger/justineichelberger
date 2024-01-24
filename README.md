@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:49 on 23 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:44 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Carson City (NV) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.1 - 0.1 minutes.</sub><blockquote><sub>3 blue lights over carson city in the vicinity of  E 5th st.there was three stationary blue lights in the sky, the lights stayed still  for around six to seven seconds. then the lights disappeared and they were nowhere to be seen. Vicinity((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74161.html](http://www.nuforc.org/webreports/reports/074/S74161.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Longs (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>At & pm i recieved a phone call from a friend 30 miles to the south and informed me he was looking at a craft above his home.  We went oustisde to look and saw several single flashing lights moving about in an ununiformed formation.  My wife looked west and pointed out a large slow moving triangle with flashing lights.  We watched it for 15 minutes go 10 miles north then turn and return towards us and passed us by heading towards the ocean(5 miles away).  It was probably hundreds of feet long with three lights that were flashing like laterns.  We also watched several single lights for 20 minutes.  We tried to take photos using 3 different devices with no results.  Very very clear night. one of the clearest i have seen in months.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86812.html](http://www.nuforc.org/webreports/reports/086/S86812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/161/S161737.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161735.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161847.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161736.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161746.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
