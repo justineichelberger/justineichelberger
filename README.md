@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:25:41 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:12:34 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Brunswick (ME) reported seeing craft that fit the description of some 'Oval' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Bright solid white light in sky that vanished.While Driving on Route One towards Bath, Maine, we saw a bright white lite to the East hovering in the sky for approximately 5 minutes.  It was a very clear crisp night, the  lights, did not flash they where solid bright white and it was stationary...the lights where brighter than the space station.We both noticed it and mentioned it to one another and while we where looking at the object the light disappeared.  The object just vanished from sight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138584.html](http://www.nuforc.org/webreports/reports/138/S138584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Lacey (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Solid red light with a blinking green light in the sky in Lacey, WA.I was out side the house and I looked up to see a red light that had evidently just pass over me from behind.  Though I do not know how high it was, it did not seem to be be more than several thousand feet up. The fact that I heard no noise was strange.  All the time the object was red with a green blinking light.The object continued on a short ways in front of me(heading south)and then it hovered for a short while and then backed up, then in move to my right (west) and stopped again.  I just went outside again and I note it is overcast outside.  As the red light did not seem to be obscured at all, this seems to verify the fact that it could not have been to high in the sky.Aside from me my mother also saw this after I called her out side. She is 93 and I am in my mid 50's.  I am college educated and have seen aircraft all of my life.  As Ft. Lewis in nearby, I am accustom to seeing the aircraft they operate a lot and this was nothing like like a helicopter.  When it stopped there was no deceleration and when it moved again there was no acceleration.  Though its speed was about the same as a helicopter, the fact that it made no noise at all makes me think it was something else.As it flew away, it was heading to the southwest towards the Olympia Airport.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116933.html](http://www.nuforc.org/webreports/reports/116/S116933.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
