@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 24 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object obseved for a few seconds...Then Disappeared!I was driving in my car with my daughter and saw a really bright light in the sky. It was big and it flickered. It was greenish white. It was falling towards the ground fast, and I originally thought that it must be a aircraft falling out of the sky but then it just disappeared. It was oval shaped, it was white with a greenish tint to it. I stopped the car and asked my daughter if she sees this and she said yes she did. we got out of the car and looked over a block wall expecting to see something crashed, but there was nothing there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61191.html](http://www.nuforc.org/webreports/reports/061/S61191.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Whitetail (MT) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>While driving home my sister and I witnessed a streak of light travel across the horizon and dissapear.My sister and I reached the bottom of the valley right before Whitetail and I was looking ahead at the road when a FAST streak of white/gray light went through the middle of my windsheild moving west to east, it was horizontal with the horizon so it couldn't of been a shooting star and it was so fast and thin that it couldn't of been a aircraft.  My sister and I were so stunned we didn't think to look at it as it left to go east but after a few seconds we looked to the east and it had dissapeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21543.html](http://www.nuforc.org/webreports/reports/021/S21543.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [273](http://www.nuforc.org/webreports/reports/162/S162081.html)
-- [272](http://www.nuforc.org/webreports/reports/161/S161773.html)
-- [271](http://www.nuforc.org/webreports/reports/161/S161740.html)
-- [270](http://www.nuforc.org/webreports/reports/161/S161754.html)
-- [269](http://www.nuforc.org/webreports/reports/161/S161750.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
