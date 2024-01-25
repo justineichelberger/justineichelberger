@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:36 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:38 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Filion (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 32.0 - 32.0 minutes.</sub><blockquote><sub>dimond shaped object in michigans huron county sky.the object was in the west sky, it was west above the horizon. the color of the object looked like a brite white lite at first, after taking a closer look at it it had a red streak in it.the object made very slight movement from right to left and up and down,but it stayed hovering in the same spot for a long time.it appered to me that it was about 5 miles away. it was very clear that night. the object was about as brigt as a full moon,brighter than any star in the sky, brighter than any plane that has ever been seen.the last five min. it was visable it very slowly moved west till it got below the horizon. as it moved west it changed colors like a orange color.this was truly a amazing sight.((NUFORC Note:  We suspect Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16052.html](http://www.nuforc.org/webreports/reports/016/S16052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Bricktown (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A disk hoovered above the house I was staying at and then shot quickely out of sight.I was visiting an old roommate in New Jersey.  I had move out of state two years before.  She's the only one that knew about my reocurring nightmares.  I was discussing the fact that I hadn't had them since I left New Jersey.  It was my second day back since I moved.  I told her I hadn't even thought about them till last night when I had them again.  I use to dream of being in my crib and these small people would come right thru the walls and surround me.  I was unable to move.  As I was talking about it, we saw a bright light coming thru the livingroom window.  We went out side and looked up only to see a very large craft just hoovering above her house.We watched it for about 2 minuets before it began to move away very slowely, then it shot up and disappeared so fast.  We knew nothing on earth could move that quickely.I looked at her and said, "I didn't see anything, did you"?  She said, " me either".Neither one of us have talked about since.  I have never had the nightmares again.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28151.html](http://www.nuforc.org/webreports/reports/028/S28151.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
