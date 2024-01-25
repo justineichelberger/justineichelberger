@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:39 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:26 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Seneca (KS) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Star in the sky that moved.  An airplane would move in a straight line.Latitude is :  +39.768436 Longitude is :  -9593377590  About 9 pm we were outside and looked into the sky to the southeast of  where we were standing.  There was a star in the sky.  	BUT  as we watched it, it began to move.  It moved left a ways, and then down a ways then back a ways, up a ways  etc.   In other words.  Stars and planets sit in one place and don’t zig zag.This looked like a star but not sure what it was?????  Can you help define this movement?  I am not sure if it was ufo or not.   About an hour later we went out to look again and it was gone. ((NUFORC Note:  Sighting of star, we believe.  We corresponded with the witness, and believe the star was Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125509.html](http://www.nuforc.org/webreports/reports/125/S125509.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object seen passing over Lycoming Mall in Williamsport, PennsylvaniaI was traveling Southeast on Rt. 180 just before the highway turned to 65 MPH.  It was a cobalt blue sky.  I was observing the appearing stars and planets when a bright light caught my eye to the left.  Of course, I figures it was landing lights on a circling plane.  There is a small airport approxamately 4 miles from that location.  As I followed the road,  i lost sight of the light several times.  I hit a long stretch of road.  I saw a red light in front, green on one side, and blue on another.  The light that seemed to be coming from the belly was no longer visible.  I quickly pulled over and rolled down the window.  It was now at an altitude of between 2500 and 3500 feet.  It creeped across the sky, and made no sound.  At that point in time, I was a bit shocked.  I felt a nagging urge to drive on.  I was disturbed that no one else seemed to notice this, or didn't feel the need to invertigate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21600.html](http://www.nuforc.org/webreports/reports/021/S21600.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
