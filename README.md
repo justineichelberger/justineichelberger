@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:38 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 13:55 - 13:55 minutes.</sub><blockquote><sub>Rotating dark object that climbed in altitude and traveled southeastI am a full time student at City College of San Francisco and I also work for a public relations company part-time.  I recently moved to this part of San Francisco.  My house is on a hill and there is a window facing the ocean.  The ocean is about 3 miles away.What I saw was a rising object that looked like a shiny black disc.  When I spotted it, it was a little west of San Francisco State University.  Then the UFO drifted upwards and east.  It revolved horizontally and I was able to see that it was egg or cigar shaped because it would be a small dot and then it would be long and skinny.  When it was long, it was about 3 times the length of when it was a dot.  There was a glare on top of it from the sun.I looked at the UFO more closely with binoculars and it had a black underside and maroon/redish topside. It also appeared to have fins like a fish.  The fins were translucent green and in the same locations as a fish.  A fin on top, a fin on bottom, and a larger "tail" fin.  It was as large as a blimp but I didn’t see any entry points on the UFO.I was unable to see it after it climbed in altitude and was in front of the sun.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86833.html](http://www.nuforc.org/webreports/reports/086/S86833.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Belize (during cruise) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>on jan 25 2005 about ten at night we noticed bright lights that were very strangewe were on a cruise.While sitting out on owr balcany I notice a intence light flashing red green and white.I thought it was a airplane,but the light never got any closer or further away.we notice that the lights were exstremely bright. as we kept watching it it started darting around real fast and go back to the same spot.my partner went to bed i kept watching it,it seem to be shooting or lawnching something from it.there would be a streak of light shoot in to space. I have short film footage of the object ((NUFORC Note:  Possible sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41688.html](http://www.nuforc.org/webreports/reports/041/S41688.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
