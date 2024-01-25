@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Westport (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Green fluorescent sphere over Saugatuck River.While driving on I-95 South last night at 9:40 pm, I observed a fluorescent green sphere traveling up the Saugatuck River at a slow rate of speed.  The object descended as it made its way toward I-95, then appeared to disappear from sight as it approached the rooftops of the houses that are located on the riverbank.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125458.html](http://www.nuforc.org/webreports/reports/125/S125458.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sterling (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 orange and red flashing lights flying west in a formationOn Wednesday, January 25, 2012 at approximately 7:20 in the evening, I went to the porch door to let our dog in (east side of the house).  As I opened the door, I looked north and to the sky and saw five red and orange flashing lights moving in a formation.  I immediately ran to the kitchen and yelled for my wife.  She, along with our three children, came to the porch door and witnessed not all five lights, but some of the moving lights.  The light formation was moving west.  I walked through the house to the front door, put on my shoes and went out to the sidewalk.  I saw nothing.  I walked backwards with my eyes in the same spot and still saw nothing.  I walked north towards the end of the street and still nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86837.html](http://www.nuforc.org/webreports/reports/086/S86837.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
