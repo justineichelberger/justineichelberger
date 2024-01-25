@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:39 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:25:56 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilbraham (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Are there LED powered spotlights?I was driving home 100% sober, I was traveling NW, and I saw between 8-12 lights that looked spotlights, the problem that I have was that there was no expansion of the light beam and it was brighter in intensity the higher in the sky.  The lights were equally spaced  and appeared to be in a straight line or file. I first observed then to my left and when I finished driving the lights were to the right of me; I was traveling on a mostly straight road.  The closest I can come to explaining this is that maybe there's new LED spotlights that I have never heard of or seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96096.html](http://www.nuforc.org/webreports/reports/096/S96096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Corona (CA) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>blue and green light surrounding cigar shaped object  light with no focal point such as lamps, green on top and blue at bottom apparantly encapsulating an object similar in shape to fron section of SR-71 aircraft.  one aircraft observed at approx. 150 yds. from observer at approx. 1,000- 2,000 ft. elevation. The craft was the size of a light aircraft to small fighter such as F-16.  It flew in partly cloudy skies over populated area heading south towards mountains and ocean. It flew it flew from the clear part of the sky into a thin cloud where it remained visible but did not come out of the cloud possibly making a turn toward the east. I observed the craft while on duty as a security officer. My background as follows: 60 yr. old Hispanic male, naturalized citizen with a background in law enforcement.  Taking prescription drugs that have no known hallucigenic effects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68314.html](http://www.nuforc.org/webreports/reports/068/S68314.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
