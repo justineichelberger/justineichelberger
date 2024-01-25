@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:26 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:40 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Williamsport (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Triangular object seen passing over Lycoming Mall in Williamsport, PennsylvaniaI was traveling Southeast on Rt. 180 just before the highway turned to 65 MPH.  It was a cobalt blue sky.  I was observing the appearing stars and planets when a bright light caught my eye to the left.  Of course, I figures it was landing lights on a circling plane.  There is a small airport approxamately 4 miles from that location.  As I followed the road,  i lost sight of the light several times.  I hit a long stretch of road.  I saw a red light in front, green on one side, and blue on another.  The light that seemed to be coming from the belly was no longer visible.  I quickly pulled over and rolled down the window.  It was now at an altitude of between 2500 and 3500 feet.  It creeped across the sky, and made no sound.  At that point in time, I was a bit shocked.  I felt a nagging urge to drive on.  I was disturbed that no one else seemed to notice this, or didn't feel the need to invertigate.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21600.html](http://www.nuforc.org/webreports/reports/021/S21600.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Antioch (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>4 ufo witnesses antioch caI live in Antioch California.  At precisely at 9:25 at night my Mom came running in the house stating that there were Aliens in the sky. Curious but doubtful I walked to the front porch.  Once outside, I got the first glimpse of what I believed to be a UFO. There were four Red/Orange illuminated orb shaped objects.  A single orb disappeared as three began to form a triangle.  I  ran back inside shocked, amazed, and a little spooked.  That's when I briefly described it to my cousin Chad and my roommate Elly and my Mom.  Quickly convinced we all sprinted back to the porch in time to see the red/orange orbs drifting in  our direction heading West to East.  The three remaining orbs formed an Isosceles   Triangle with the high point of the triangle leading.  The lit up orbs were flickering the entire time.  It drifted to the point that it was almost right above us.  At the first glance there seemes to be a transparent craft causing blurred vision between the triangle points.  Almost as if the three triangle points were holding something together.  It continued East for a moment and one of the back orbs disappeared.  And the left back orb headed South and disappeared momentarily.  The tip orb of the triangle continued on East and disappeared within 40 seconds.  Ffreaky stuff. any questions reply back to</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86844.html](http://www.nuforc.org/webreports/reports/086/S86844.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
