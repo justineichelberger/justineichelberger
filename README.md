@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:36 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Belize (during cruise) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>on jan 25 2005 about ten at night we noticed bright lights that were very strangewe were on a cruise.While sitting out on owr balcany I notice a intence light flashing red green and white.I thought it was a airplane,but the light never got any closer or further away.we notice that the lights were exstremely bright. as we kept watching it it started darting around real fast and go back to the same spot.my partner went to bed i kept watching it,it seem to be shooting or lawnching something from it.there would be a streak of light shoot in to space. I have short film footage of the object ((NUFORC Note:  Possible sighting of Sirius.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41688.html](http://www.nuforc.org/webreports/reports/041/S41688.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My kids and I walked outside and to the north we saw a very bright sphere of white light.  It was moving very slowly northward and did not appear to be falling.  Just slowly hovering across the sky, and much brighter than any stars.In an instant the light just disappeared.  What we saw is very similar to report below in Claremore, Oklahoma, which is only a few miles away.I was able to catch the light on video.  There was no sound or blinking lights.  And no trail behind like a comet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138613.html](http://www.nuforc.org/webreports/reports/138/S138613.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
