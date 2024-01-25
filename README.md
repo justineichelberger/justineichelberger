@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:37 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:37 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Aurora (OH) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Aurora, Ohio, string of lights deep in the woods at 2 in the morning hovering above the ground, revolved and whistled. 20 min.The object sighted was 8 yellow shperes aligned and slightey bowed down towards the ground, it appeard as though they were all linked together, this object was about 15 feet long and hovering above the ground 10 feet. The other witness and I were deep in the woods camping, we were away from the fire gathering wood when we heard a high pitch noise such as a tea pot going off, we looked over and there it was hovering and slighty revolving, and of course it was night time so it appeared to be glowing, when we came upon it, it started to revolve faster and faster and get louder and louder, then it just appeared to fold into itself, and the light it had given off slowly dissapated. this all took place at about 2 in the morning.  the other witness and i sprinted back to the campsite through the woods and told the others, who were skeptical even though we were clearly shaken.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49147.html](http://www.nuforc.org/webreports/reports/049/S49147.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Barcelona (Spain) () reported seeing craft that fit the description of some '' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I and my friend have seen a black circular plate flying over the trees. It entered inside the wood and after 2 minutes aprox. it got out and disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74177.html](http://www.nuforc.org/webreports/reports/074/S74177.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
