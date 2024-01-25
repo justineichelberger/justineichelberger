@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:38 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Sterling (IL) reported seeing craft that fit the description of some 'Formation' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>5 orange and red flashing lights flying west in a formationOn Wednesday, January 25, 2012 at approximately 7:20 in the evening, I went to the porch door to let our dog in (east side of the house).  As I opened the door, I looked north and to the sky and saw five red and orange flashing lights moving in a formation.  I immediately ran to the kitchen and yelled for my wife.  She, along with our three children, came to the porch door and witnessed not all five lights, but some of the moving lights.  The light formation was moving west.  I walked through the house to the front door, put on my shoes and went out to the sidewalk.  I saw nothing.  I walked backwards with my eyes in the same spot and still saw nothing.  I walked north towards the end of the street and still nothing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86837.html](http://www.nuforc.org/webreports/reports/086/S86837.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Lake Stevens (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Monday the 25th and the 26th. I am up at 4:45am every morning, went out to have a smoke.  The skys were clear, both mornings, I saw what looked like a star, except it was moving very fast.  I watched it go from north to south over the mountains, as i watched it ,i saw another one coming from the south heading to the north.  They passed each other and i watched them till they were out of my sight. As I pondered over what i just saw and was trying to explain it away in my mind, I saw another,now my mind is really racing. I watched it till  it was gone. Then another,going north. This time I said in my mind if this is really happening then make that moving star go faster.  That, whatever it was, shot off and was gone in a second. scared the crap out of me and i went in side The next morning i went out hesitantly, and saw the same, moving stars. I had this feeling that the star new that i was watching it, and i swear that i saw this star move up and down. I did not believe my own eyes so i thought in my mind to move in a circle and it did. Right away too.  Still, i am not convinced on what  was happening. I thought  show me more  prove to me this is happening. I saw 2, what looked like shooting stars in about 1 minute. Then i saw a very dark mass of something go over ahead of my town.  Well needless to say, I was done. I ran in my house Stopped thinking and have be searching sites for info ever since.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74239.html](http://www.nuforc.org/webreports/reports/074/S74239.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
