@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:02:47 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 or 4 lights going in circular motions & then meeting as 1.We noticed 3 or 4 lights above our home going in circular motions & then meeting as 1.((NUFORC Note:  Consistent with advertising lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68258.html](http://www.nuforc.org/webreports/reports/068/S68258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Annapolis/Severna Park (MD) reported seeing craft that fit the description of some 'Oval' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Object appeared only a few miles from the Naval Academy in Annapolis, MDI was standing in a school parking lot between 8:15-8:30 p.m.  I noticed an oval (round) object slowly drift out from behind a puffy cloud (it was a very windy evening, but a clear sky with a few puffy clouds).  The object was a bluish/grayish color, but not shiny.  The material looked like concrete.  The object was lit, but I could not tell where the lights were coming from.  It had roman-type arches all the way around it (which were lit up).  There was no sound.  The object moved at a very slow rate of speed.  I stared at it for a few seconds and it just disappeared. The location of this sighting occured a few miles from the Naval Academy in Annapolis, MD.  If anyone else saw something that night, please post a sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48861.html](http://www.nuforc.org/webreports/reports/048/S48861.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
