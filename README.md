@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:28 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:41 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Wilbraham (MA) reported seeing craft that fit the description of some 'Other' over a period of approximately 14.0 - 14.0 minutes.</sub><blockquote><sub>Are there LED powered spotlights?I was driving home 100% sober, I was traveling NW, and I saw between 8-12 lights that looked spotlights, the problem that I have was that there was no expansion of the light beam and it was brighter in intensity the higher in the sky.  The lights were equally spaced  and appeared to be in a straight line or file. I first observed then to my left and when I finished driving the lights were to the right of me; I was traveling on a mostly straight road.  The closest I can come to explaining this is that maybe there's new LED spotlights that I have never heard of or seen before.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96096.html](http://www.nuforc.org/webreports/reports/096/S96096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hayward (CA) reported seeing craft that fit the description of some 'Disk' over a period of approximately  -  minutes.</sub><blockquote><sub>took a picture of the clouds and captured disk like objects.Just took a picture of the clouds but did not see anything while taking the picture.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68246.html](http://www.nuforc.org/webreports/reports/068/S68246.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
