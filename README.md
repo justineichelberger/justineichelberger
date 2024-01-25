@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:38 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:40 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1992, an anonymous witness in Bricktown (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A disk hoovered above the house I was staying at and then shot quickely out of sight.I was visiting an old roommate in New Jersey.  I had move out of state two years before.  She's the only one that knew about my reocurring nightmares.  I was discussing the fact that I hadn't had them since I left New Jersey.  It was my second day back since I moved.  I told her I hadn't even thought about them till last night when I had them again.  I use to dream of being in my crib and these small people would come right thru the walls and surround me.  I was unable to move.  As I was talking about it, we saw a bright light coming thru the livingroom window.  We went out side and looked up only to see a very large craft just hoovering above her house.We watched it for about 2 minuets before it began to move away very slowely, then it shot up and disappeared so fast.  We knew nothing on earth could move that quickely.I looked at her and said, "I didn't see anything, did you"?  She said, " me either".Neither one of us have talked about since.  I have never had the nightmares again.((NUFORC Note:  Date may be approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28151.html](http://www.nuforc.org/webreports/reports/028/S28151.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Yakima (WA) reported seeing craft that fit the description of some 'Other' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>3 or 4 lights going in circular motions & then meeting as 1.We noticed 3 or 4 lights above our home going in circular motions & then meeting as 1.((NUFORC Note:  Consistent with advertising lights.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68258.html](http://www.nuforc.org/webreports/reports/068/S68258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
