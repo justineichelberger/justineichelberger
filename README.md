@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:36 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:33 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rogersville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red light in sky Moving Quickly and Disappeared.Driving on Hwy 70 North. I would say 2 miles from Hwy 11w. .02 miles away from passing Devil's Nose Road. The hwy. is 2 lane and residential. There are hills on both sides of the hwy.Well lighted hwy, by a few street lights. Not far from Rogersville City limits.What i saw to my right was as if it were a red light rising from the top of the hill. As i watched the road and slowed down. The object was around 1/4 mile away from my position,and moving up and away slowly.The object i can not identify as a specific shape or form was moving quicker than an aircraft and the lights did not correspond to any aircraft i have seen in my life.I noticed that when the object started moving up,and away,it got brighter in color. The shape as i said before i can not confirm, but looked like it had no specific shape. It got bright Red very quickly. Then the object disappeared at the point it reached its brightest color of red. That was it. Saw nothing else.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41687.html](http://www.nuforc.org/webreports/reports/041/S41687.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Moncks Corner (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>We, my husband & myself, heard a very loud, hard, noise and it seemed to impact the front of the roof over the kitchen and the porch (I was outside on the porch, my husband was inside the house in the kitchen which is right by the porch.)  What I heard was as if something very big & very hard hit the top of the porch-but there was nothing to be seen and no damage that we could see done to the porch.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125462.html](http://www.nuforc.org/webreports/reports/125/S125462.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
