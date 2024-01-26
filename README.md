@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:40 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:43 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anaheim/Brea/Diamond Bar (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 Orange Orb hovering the california sky.Driving home from anaheim to Diamond Bar see the halicopter take off from close air port and fly by the car, 1 minutes later i see the helicopter and 2 small air craft tracing 2 Orange Red color Oval object, thes 2 object moving up and down left and right in the extram high speed over the sky, when it moving it seem's have the tail whitch is like ocular spectrum one of the object seems can teleporting from the top of the sky to very button in 1 second, thes 2 object keep flying from south toward north every one driving on the free way was slow down try to see the event, it's been 2 years never see this kind of thing in my life.here is the post by other people:http://www.americanchronicle.com/articles/view/51263 here is the video i found on youtube shoot at same day in maxico, they looks like the same, only the video's object didnt move in fast speed http://www.youtube.com/watch?v=ANuCiQNHVUg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78304.html](http://www.nuforc.org/webreports/reports/078/S78304.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Set of Orange Lights in the sky in San FranciscoLooked liked orange lights in the sky, could have been Chinese lanterns but did not move uniformly as I would expect them to if blown by the wind.  After conversing with several people on the street, I watched them fade one by one.  My daughter called later and said she saw 15 lights; I only saw 7.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be well-spoken, serious-minded, and quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79854.html](http://www.nuforc.org/webreports/reports/079/S79854.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
