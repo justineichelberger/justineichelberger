@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:45 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:42 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stockton Springs (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Fiery orange object descended rapidly through the sky, appeared to strike earth.At 19:10 eastern standard time, Friday, January 26, 2007, I was driving with two of my sons. I took a left onto Green Valley Road, Stockton Springs, Maine from Old County Road. I and my son riding in the front seat saw a fiery object rapidly descending from the sky to the east of our position. My son in the rear seat did not see it. The object was orange (according to my son; I am color blind), it appeared to me to be the color of fire).  At first I thought it might be a shooting star but it lasted a bit too long and appeared to be very close to earth.I then thought it might be a flare or, perhaps, an exploding transformer since the temperature was below zero Fahrenheit.  But it seemed to fall way too rapidly and in too straight a path to be either of those things.  It doesn’t seem plausible that it was any known aircraft since it featured just the one fiery light.It looked like it might have landed behind our house, perhaps within hundreds of feet.  Of course if it was a large object, it’s possible it fell miles away.  Less than three miles to the east here takes you over the ocean.   Green Valley Road is a sparsely populated neighborhood in a very small town in a very rural state. To give you some perspective, our back yard is 44 mostly wooded acres.  Anyway, we went up the road a few hundred yards to see if anything was smoldering but saw nothing of the sort. We took a listen but the wind was howling with gusts, I believe, of more than twenty miles per hour, perhaps twice that.  Obviously, conditions not conducive to detecting unusual sounds.I speculate it was a meteor or a piece of space junk.  Do you have any knowledge of space junk reentering earth’s atmosphere and falling at about the time referenced above, visible in this location?  Thanks for your consideration. ((NUFORC Note:  Possible space debris or meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54969.html](http://www.nuforc.org/webreports/reports/054/S54969.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I was travelling north on Capital Circle and had just passed the federal prison, when I noticed a slow moving light about 40 degrees up and straight ahead over the intersection.  After focusing on the light that seemed to be maybe a half mile beyond Mahan Drive, I clearly saw a triangular airship not that dissimilar from a stealth bomber in size shape and color.  There were no other lights on the airship other than the bright white light coming from the bottom center of the ship.  After a brief second or two, it instantaneously accelerated and disappeared beyond the horizon heading east southeast.  It went from close to hovering speed to maybe the speed of a meteorite, with no gradual acceleration.  The entire experience lasted maybe 4-5 seconds.  There was no noise related to this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144812.html](http://www.nuforc.org/webreports/reports/144/S144812.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
