@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:38 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:23 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange lights dropping sparkley substances are seen by many above American Fork Utah 1-26-11.Upon pulling into my driveway in Lehi,  Utah, my 10 year old son said: "Dad, what are those?"   He pointed out three fairly bright red lights that were hovering high above an adjacent town to the east, American Fork.  These lights were periodically dropping white, sparkley substances.  I happened to have a flip-cam in my car and began filming.  During the filming, my children, neighbor kids and I discussed candidly what we were seeing.  At about the 5 minute point of this video, the lights began to dim and drift south.This video can be seen at "UFO over American Fork 1-26-11" on youtube.  Enough people witnessed this event that a local newscast, ABC4 carried the story for a couple of days without coming to any conclusion regarding the source of these lights.An interesting side-story occurred on this same evening when Dugway Proving Grounds, a military base about an hour west of this sighting, went on a very lengthy lockdown.  "Mis-labeled nerve agent" was the released reason for this lockdown.((NUFORC Note:  We have watched the video, and it is interesting.  We cannot identify the red objects, which were photographed with a video camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79911.html](http://www.nuforc.org/webreports/reports/079/S79911.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Holden (MA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 02</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144731.html](http://www.nuforc.org/webreports/reports/144/S144731.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
