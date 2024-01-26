@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:48 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Fort Walton Beach (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.11666666666666667 - 0.11666666666666667 minutes.</sub><blockquote><sub>Black triangle flying low over northwestern Florida.I walked out back to smoke a cigarette, watched a plane fly over and disappear over the Gulf of Mexico (due south) was looking at Orion, trying to pick out some of the fainter stars. By now my night vision was fairly good. I caught movement out of the left corner of my eye, and startled, I instinctively ducked. At first, I thought it was a hang-glider, basing this initial impression on the shape alone.  I was startled, as this had "sneaked" up on me without any noise, no cutting of the wind, nothing. Coming from due east headed due west, this triangle was of a conflicting description.  It was darker than the night sky, no lights, but also seemed somewhat transparent in that the outside/frame/shape was more clearly defined than the middle. Black but with the appearance of "transparency" toward the center mass.  Contradicting terms, but that's the best words I can use accurately.  It was so quiet and stealthy, had I not been looking south at that part of the sky at that moment, I would have never detected it.  That part startled me the most. It glided overhead, less than 400' AGL, and remained in my vision for seven to nine seconds until it dropped behind the trees.  In other words, moving steadily, but not very fast.  I would estimate the width greater than 25 feet. Hurlburt Field is due West of here.  If it maintained it's heading for a few more miles, it had to cross it the base and certainly the runway. During my observation, there was no change in altitude or direction, nor change in velocity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68371.html](http://www.nuforc.org/webreports/reports/068/S68371.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Randolph (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright orange lights over Randolph, NJ, evening of 01/26/09 in Tringular formationAt approximately 20:20 on 1/26/2009, I was outside getting wood for our fireplace with my husband and we saw 3 bright orange lights in triangular formation moving across the sky slowly.  We did not hear any noises such as engines, etc.  I watched whatever it was move slowly across the sky to the left and I walked to the street to see where it was going because the trees began to obstruct my view and I brought it to the attention of a neighbor, who was walking his dog, and he said the same thing "that it had 3 bright orange lights, in a triangular formation, and was moving slowly and in perfect formation.  I decided to come online to see if anyone else had seen it and came across this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68269.html](http://www.nuforc.org/webreports/reports/068/S68269.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
