@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:44 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:37 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Set of Orange Lights in the sky in San FranciscoLooked liked orange lights in the sky, could have been Chinese lanterns but did not move uniformly as I would expect them to if blown by the wind.  After conversing with several people on the street, I watched them fade one by one.  My daughter called later and said she saw 15 lights; I only saw 7.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be well-spoken, serious-minded, and quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79854.html](http://www.nuforc.org/webreports/reports/079/S79854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Jaipur (India) () reported seeing craft that fit the description of some 'Light' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>I am resident of jaipur ,at 8.30 PM on 26 jan 2009. I saw an object like star but 3-4 times bigger and blinking brightly more than a star .light of the object were orange white and purple. Most of the time it was white at times it was showing  orange and purple  color also. I called many friends all of them confirmed it. Lights were shining bright and sometimes getting dim.  Object pretend very near to earth  .we saw it for 1-1.5hours.it was facing west.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  Possible sighting of either Venus, or Sirius, we wonder??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68263.html](http://www.nuforc.org/webreports/reports/068/S68263.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
