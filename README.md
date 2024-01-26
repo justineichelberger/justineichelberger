@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:43 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:45 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in San Francisco (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Set of Orange Lights in the sky in San FranciscoLooked liked orange lights in the sky, could have been Chinese lanterns but did not move uniformly as I would expect them to if blown by the wind.  After conversing with several people on the street, I watched them fade one by one.  My daughter called later and said she saw 15 lights; I only saw 7.((NUFORC Note:  We spoke via telephone with this witness, and we found him to be well-spoken, serious-minded, and quite credible.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79854.html](http://www.nuforc.org/webreports/reports/079/S79854.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Stockton Springs (ME) reported seeing craft that fit the description of some 'Light' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>Fiery orange object descended rapidly through the sky, appeared to strike earth.At 19:10 eastern standard time, Friday, January 26, 2007, I was driving with two of my sons. I took a left onto Green Valley Road, Stockton Springs, Maine from Old County Road. I and my son riding in the front seat saw a fiery object rapidly descending from the sky to the east of our position. My son in the rear seat did not see it. The object was orange (according to my son; I am color blind), it appeared to me to be the color of fire).  At first I thought it might be a shooting star but it lasted a bit too long and appeared to be very close to earth.I then thought it might be a flare or, perhaps, an exploding transformer since the temperature was below zero Fahrenheit.  But it seemed to fall way too rapidly and in too straight a path to be either of those things.  It doesn’t seem plausible that it was any known aircraft since it featured just the one fiery light.It looked like it might have landed behind our house, perhaps within hundreds of feet.  Of course if it was a large object, it’s possible it fell miles away.  Less than three miles to the east here takes you over the ocean.   Green Valley Road is a sparsely populated neighborhood in a very small town in a very rural state. To give you some perspective, our back yard is 44 mostly wooded acres.  Anyway, we went up the road a few hundred yards to see if anything was smoldering but saw nothing of the sort. We took a listen but the wind was howling with gusts, I believe, of more than twenty miles per hour, perhaps twice that.  Obviously, conditions not conducive to detecting unusual sounds.I speculate it was a meteor or a piece of space junk.  Do you have any knowledge of space junk reentering earth’s atmosphere and falling at about the time referenced above, visible in this location?  Thanks for your consideration. ((NUFORC Note:  Possible space debris or meteor??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54969.html](http://www.nuforc.org/webreports/reports/054/S54969.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
