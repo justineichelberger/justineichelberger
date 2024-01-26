@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:41 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Randolph (NJ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>3 bright orange lights over Randolph, NJ, evening of 01/26/09 in Tringular formationAt approximately 20:20 on 1/26/2009, I was outside getting wood for our fireplace with my husband and we saw 3 bright orange lights in triangular formation moving across the sky slowly.  We did not hear any noises such as engines, etc.  I watched whatever it was move slowly across the sky to the left and I walked to the street to see where it was going because the trees began to obstruct my view and I brought it to the attention of a neighbor, who was walking his dog, and he said the same thing "that it had 3 bright orange lights, in a triangular formation, and was moving slowly and in perfect formation.  I decided to come online to see if anyone else had seen it and came across this site.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68269.html](http://www.nuforc.org/webreports/reports/068/S68269.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cape Girardeau (MO) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Circular object appears to "float" over cityI observed a circular object travelling southbound approximately 400 feet in altitude and no more than 30 MPH. The object appeared to "float" and made no noise. The object was approximately 50 feet in diameter and white or a "shiney" color which reflected light from below.  The object was not displaying its own lights and could only be seen from the reflection of lights below.  I aimed a hand-held radar at the object, but did not receive a reading.  A report of the incident was reported to the UFO Center by telephone following the event.((NUFORC Note:  We spoke with this individual, and found him to be exceptionally credible.  He appeared on the Jeff Rense Radio Program on 12FE02, an archived copy of which probably is available at the <www.Rense.com> website.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21594.html](http://www.nuforc.org/webreports/reports/021/S21594.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
