@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:42 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Tallahassee (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>I was travelling north on Capital Circle and had just passed the federal prison, when I noticed a slow moving light about 40 degrees up and straight ahead over the intersection.  After focusing on the light that seemed to be maybe a half mile beyond Mahan Drive, I clearly saw a triangular airship not that dissimilar from a stealth bomber in size shape and color.  There were no other lights on the airship other than the bright white light coming from the bottom center of the ship.  After a brief second or two, it instantaneously accelerated and disappeared beyond the horizon heading east southeast.  It went from close to hovering speed to maybe the speed of a meteorite, with no gradual acceleration.  The entire experience lasted maybe 4-5 seconds.  There was no noise related to this experience.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144812.html](http://www.nuforc.org/webreports/reports/144/S144812.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kearny (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.1666666666666667 - 1.1666666666666667 minutes.</sub><blockquote><sub>Red light emitting from a cloudwas walking home when a red light in the clouds Caught my eye.  so I decided to record it I watch the light for about a minute 10 seconds till then it sped off for the most part it look like a light that was coming out of the cloud((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106686.html](http://www.nuforc.org/webreports/reports/106/S106686.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
