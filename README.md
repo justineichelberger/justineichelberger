@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:44 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Alexandria (VA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 141</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144732.html](http://www.nuforc.org/webreports/reports/144/S144732.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>I had been wondering for years if there was a place to report sightings. This sighting occured either on the 26th or 27th of January 1997.My family and I were moving from Altus AFB, Oklahoma to Travis AFB, California.I was driving a big yellow Ryder moving van, I believe a 26' truck, with a base station CB radio installed and my wife was driving our black Dodge Caravan with a regular CB radio installed.We were traveling west bound on Interstate 40 between the times of 0800pm and 1045pm, and were between Flagstaff, Arizona and Barstow, California, when a bluish/green light appeared about 400 to 600 yards to the south. It was the color of the stars or planets. I thought it was a train coming towards us at first, But it was traveling the same direction we were traveling so this was no train. The light was about at the same level as our vehicles. It traveled at about the same speed we were going and continued along with us for about five to seven miles.After it disappeared, I called to my wife on the CB radio and said, "Did you see that?" She replied, "I thought it was just me." I said, "No, I was watching it too."  We continued on to Barstow, California and stayed there for the night.Still to this day, we have no idea of what the object was.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68709.html](http://www.nuforc.org/webreports/reports/068/S68709.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
