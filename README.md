@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:17 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:40 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Limassol (Cyprus) () reported seeing craft that fit the description of some 'Flash' over a period of approximately still ongoing - still ongoing minutes.</sub><blockquote><sub>flash of light moving in different directions every three minutes near orionwe have been watching near the star orion we think when we saw a bright light appear for only one second at a time, then it appeared again, i have timed it and it appears every three minutes. i know that the stars move from left to right but this light is moving from right to left and moving up at an angle it then moved at a different angle three minutes later to what it was moving in. we dont know what it is i have tried to film it but my camcorder isnt good enough to pick it up. can someone help and maybe look at it aswell, thanks((NUFORC Note:  We spoke with this witness via telephone, and he seemed to be an exceptionally credible witness.  NUFORC has received a number of similar reports, of peculiar blinking lights in the night sky, over recent months.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41641.html](http://www.nuforc.org/webreports/reports/041/S41641.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Anaheim/Brea/Diamond Bar (CA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 Orange Orb hovering the california sky.Driving home from anaheim to Diamond Bar see the halicopter take off from close air port and fly by the car, 1 minutes later i see the helicopter and 2 small air craft tracing 2 Orange Red color Oval object, thes 2 object moving up and down left and right in the extram high speed over the sky, when it moving it seem's have the tail whitch is like ocular spectrum one of the object seems can teleporting from the top of the sky to very button in 1 second, thes 2 object keep flying from south toward north every one driving on the free way was slow down try to see the event, it's been 2 years never see this kind of thing in my life.here is the post by other people:http://www.americanchronicle.com/articles/view/51263 here is the video i found on youtube shoot at same day in maxico, they looks like the same, only the video's object didnt move in fast speed http://www.youtube.com/watch?v=ANuCiQNHVUg</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/078/S78304.html](http://www.nuforc.org/webreports/reports/078/S78304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
