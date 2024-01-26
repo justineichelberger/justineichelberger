@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:37 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:39 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Route 66 West (Exit 50) (VA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was super fast.  Idk what it was to be honest, but it really freaked me out.  I know it wasn't a shooting star, cause it was a lot bigger.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125461.html](http://www.nuforc.org/webreports/reports/125/S125461.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Santa Ana (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>several objects seen over Central Orange County  (Santa Ana College Area)I reported something similar on 01-05-2006. This afternoon I was at lunch and about 12:15 I happened to look up and saw it again, at very high altitude this bright white object hovering for several minutes right at the top of the sky (90 degrees)  it hovered in place for about 15 minutes then suddenly it released some smaller objects, (about fifteen in total) and as they started to drop, they formed a  V formation and began to move at high speed towards northern orange county.  The original object started to move in a north-east direction.  It took fifteen to 20 minutes to slowly move about 2-3 miles in that northeasterly direction.During this time at a much higher altitude there was another object that had a very reflective surface as it would shimmer with the sunlight (it was not white like the first one, but actually reflected the sunlight).  This object was way much higher than the first one ( it was barely visible to the naked eye), and it stayed in place throughout all the time that the other object did its maneuvers. eventually after 20 minutes or so, I lost track of those two bright objects.  I am going to take my digital camera tomorrow to see if I can catch them again and see If I can take some pictures of them.  I am a county employee and I am college educated. I have studied astronomy and I can tell a star from a planet from an airplane at high altitude.  these were not planes or a mickey mouse balloon, and not seagulls either.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68278.html](http://www.nuforc.org/webreports/reports/068/S68278.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
