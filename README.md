@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:42 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Kearny (NJ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.1666666666666667 - 1.1666666666666667 minutes.</sub><blockquote><sub>Red light emitting from a cloudwas walking home when a red light in the clouds Caught my eye.  so I decided to record it I watch the light for about a minute 10 seconds till then it sped off for the most part it look like a light that was coming out of the cloud((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106686.html](http://www.nuforc.org/webreports/reports/106/S106686.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Rogersville (TN) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Red light in sky Moving Quickly and Disappeared.Driving on Hwy 70 North. I would say 2 miles from Hwy 11w. .02 miles away from passing Devil's Nose Road. The hwy. is 2 lane and residential. There are hills on both sides of the hwy.Well lighted hwy, by a few street lights. Not far from Rogersville City limits.What i saw to my right was as if it were a red light rising from the top of the hill. As i watched the road and slowed down. The object was around 1/4 mile away from my position,and moving up and away slowly.The object i can not identify as a specific shape or form was moving quicker than an aircraft and the lights did not correspond to any aircraft i have seen in my life.I noticed that when the object started moving up,and away,it got brighter in color. The shape as i said before i can not confirm, but looked like it had no specific shape. It got bright Red very quickly. Then the object disappeared at the point it reached its brightest color of red. That was it. Saw nothing else.((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41687.html](http://www.nuforc.org/webreports/reports/041/S41687.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [211](http://www.nuforc.org/webreports/reports/161/S161774.html)
-- [210](http://www.nuforc.org/webreports/reports/161/S161770.html)
-- [209](http://www.nuforc.org/webreports/reports/161/S161788.html)
-- [208](http://www.nuforc.org/webreports/reports/162/S162083.html)
-- [207](http://www.nuforc.org/webreports/reports/161/S161782.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
