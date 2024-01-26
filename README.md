@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 25 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:38 on 26 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Owasso (OK) reported seeing craft that fit the description of some 'Light' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>My kids and I walked outside and to the north we saw a very bright sphere of white light.  It was moving very slowly northward and did not appear to be falling.  Just slowly hovering across the sky, and much brighter than any stars.In an instant the light just disappeared.  What we saw is very similar to report below in Claremore, Oklahoma, which is only a few miles away.I was able to catch the light on video.  There was no sound or blinking lights.  And no trail behind like a comet.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138613.html](http://www.nuforc.org/webreports/reports/138/S138613.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in American Fork (UT) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Strange lights dropping sparkley substances are seen by many above American Fork Utah 1-26-11.Upon pulling into my driveway in Lehi,  Utah, my 10 year old son said: "Dad, what are those?"   He pointed out three fairly bright red lights that were hovering high above an adjacent town to the east, American Fork.  These lights were periodically dropping white, sparkley substances.  I happened to have a flip-cam in my car and began filming.  During the filming, my children, neighbor kids and I discussed candidly what we were seeing.  At about the 5 minute point of this video, the lights began to dim and drift south.This video can be seen at "UFO over American Fork 1-26-11" on youtube.  Enough people witnessed this event that a local newscast, ABC4 carried the story for a couple of days without coming to any conclusion regarding the source of these lights.An interesting side-story occurred on this same evening when Dugway Proving Grounds, a military base about an hour west of this sighting, went on a very lengthy lockdown.  "Mis-labeled nerve agent" was the released reason for this lockdown.((NUFORC Note:  We have watched the video, and it is interesting.  We cannot identify the red objects, which were photographed with a video camera.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79911.html](http://www.nuforc.org/webreports/reports/079/S79911.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [284](http://www.nuforc.org/webreports/reports/162/S162059.html)
-- [283](http://www.nuforc.org/webreports/reports/161/S161765.html)
-- [282](http://www.nuforc.org/webreports/reports/162/S162080.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161775.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161768.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
