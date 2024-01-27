@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:30 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Massachusetts/New Hampshire (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge fireball tracking beside car on passenger side and no other clear memories with trip t aking too long - extreme fear.We were heading north ~Springfield, MA to Manchester, NH on a Sunday (can be timed to Kiss concert at Springfield Civic Center for 1977-1978).  There were three of us sitting in front seat.  What I clearly remember:  a fireball that took up passenger side of car.  Fireball tracked us exactly beside car.  Fireball was directly outside passenger window.  All three of us were absolutely terrified and trying to get away from that side of the car.  Last clear memory was intense fear and pushing into driver trying to get away from passenger side of car.  Next memory is arriving in Manchester and noting that the trip took longer than should have.((NUFORC Note:  Rock bank, KISS, performed in Springfield, MA, on January 27, 1978.  PD))((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56040.html](http://www.nuforc.org/webreports/reports/056/S56040.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10,000 - 10,000 minutes.</sub><blockquote><sub>It was very bright and had lights that were very red, the disk was silver, and it stayed in the air for about 5 minutes.It was a very disturbing sight.  Its lights were brighter than the stars.  It stayed in the same spot for over 5 minutes, and flew away at over 100 mph.  It hovered right over Lake Hood Elementary School.  There were many people there that night, and they were just as afraid as I was.  I could've sworn I saw some sort of body or figure moving inside the craft.  It was a silver disk, and had bright red lights all around it.  It was a very dark night, and nothing could possibly be that bright-not even the Northern Lights!  I never believed in aliens or UFOs until that very night. I just hope it never happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55007.html](http://www.nuforc.org/webreports/reports/055/S55007.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
