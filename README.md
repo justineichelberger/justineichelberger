@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:37 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:52 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153258.html](http://www.nuforc.org/webreports/reports/153/S153258.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in St. Louis (MO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Bright ball coming from large star.On January 27, 2016, at around 6:00p.m., my brother-in-law called me and told me to look toward the East for a bright star that was twinkling a lot.  I walked outside, looked to the East and saw a large, bright star changing from white to blue to red.  My brother-in-law said he thought he saw what were spotlights coming off of it for a brief moment.  Then I saw a bright ball, smaller than the star, shoot away from it, change directions and then the bright ball was gone.  I kept going outside all night to look at it and never saw anything else coming from the “star.”((NUFORC Note:  We suspect the object may have been a "twinkling" star.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125487.html](http://www.nuforc.org/webreports/reports/125/S125487.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
