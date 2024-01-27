@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:47 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:30 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>triangles and balls of light appeared in monroe MI 3 carloads of whitnesses the were by the power plants and the cory'sme and my old roomate were driving home at about three AM and we saw in the air near his house what we thought was a hellicopter. it was flashing red and blue so we thought it might have been the poliece. it was hovering. so we drive towards it and as we get almost under it we are like that no hellicopter. it was a triangle and as we said this it starts moving west. really fast. so we chase after it. we lived in a prewtty seclududed area so we had no problem speeding. so this craft goes west about 2 miles than makes a sharp turn north. so we turn as well. aas he is driving i am looking at the sky and i saw what i can describe as the stars were moving cause there were a bunch of lights way up in the sky that were just white than they started moving and comming closer. and im telling my friend this and at that time this first cradft took off out of sight. so he stops and we are looking up from outside the car and a big triangle comes silently over us just above tree level and makes its way towards some houses and shines a beam of light on the houses. and as we are standing there we see in the distance more craft AND balls of light doing figure eights and pulsing different colors (green blue red and white)the balls of light are what really impressed me. its been about an hour already of driving and looking at these things so we get back in the car and we are heared twords the coury and we notice other cars following these craft in the same northerly direction we are going. so there are 3 cars total that all seen these things we went back to his house and saw more balls of light and a 2 more craft hovering. we saw more over the next couple days.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39398.html](http://www.nuforc.org/webreports/reports/039/S39398.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular, dimly-lit craft that made no noise and flew slowly.On my way to work, I noticed a triangle shape quickly approaching me from the north.  It was around 200 feet up in the air, closer than any aircraft I see flying in this area on a daily basis.  It was a large right triangle shape, with dimly lit lights that were dome shaped - spaced about a thumb width apart if I were to hold my hand up to it.These lights went all the way around the craft.  The space in the middle was black (it blocked out the stars).  It was a clear night, no wind or clouds for miles.   It flew over my head, heading south.  I would estimate at about 30-40 miles per hour.  I told my friends and family about it.  My sister told me today that one of her co-workers who lives in my area saw it too on his drive in to work.It made no noise, and i watched it until the lights were no longer visible (estimating 2-3 miles away).  The lights were a really dim beige color, no other colors or flashing of any sort.  They seemed to be illuminating from within and were almost hard to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96134.html](http://www.nuforc.org/webreports/reports/096/S96134.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
