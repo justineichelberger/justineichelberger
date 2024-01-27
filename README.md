@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:47 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:33 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orangish oval shape that slowly disappeared in sky seen by two friends.I saw it when I was driving my friend home and he actually saw it first and then pointed it out to me.  we were driving straight towards it and it was very high in the sky.  it was almost a doughnut shape but after we saw it,  it begin to almost disappear but from top to bottom and slowly. it was almost a kinda bright orange similar to a streetlight but much larger and not as bright.  I could also see the stars and there were no clouds in that direction which was SE according to my car compass.  it took as much space in the sky as if you held a quarter about a foot from your face.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106707.html](http://www.nuforc.org/webreports/reports/106/S106707.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Sacaton (AZ) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle shape UFO in Gila River Indian Reservation.We were outside playing soccer and we happen to look up and see a triangle shape figure in the sky it was spinning real fast and it was in the sky floating sideways and the lights were colorful and would go dim and then get real bright, it was up there for at least 30 mins and then disappeared.  While we seen this occurring, we looked down the street and people were looking at it.  About 10 or more people saw it maybe more.The so called UFO has been coming almost every week around that time, and it's always in plain view, some planes go by it but turn the other way.  It must be a space craft, because all the planes that go by it turn the other direction.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/116/S116985.html](http://www.nuforc.org/webreports/reports/116/S116985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
