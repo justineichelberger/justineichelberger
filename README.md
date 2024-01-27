@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:37 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:47 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Gabriel Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Craft was more or less in a holding pattern where it's path was none directional... and apered to rotate 180 degrees on its axis..or too much art bell.... which ever comes first.. or you want to belive! It changed course and headed west towards San Fernado Valley or about 35 miles untill oyut of sight...I cant believe that this might be what everybody is all talking about . I thought how nice....,it finally happened to me.............. ..but who knows....UFO  you bet ! What is it ? no idea.                                                                      I thought if somebody else saw what I did,, I would'nt look like one of those other Wacked out people somewhere in the mid-west or wherever! Let me know what's up!  ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11806.html](http://www.nuforc.org/webreports/reports/011/S11806.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Monroe (MI) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>triangles and balls of light appeared in monroe MI 3 carloads of whitnesses the were by the power plants and the cory'sme and my old roomate were driving home at about three AM and we saw in the air near his house what we thought was a hellicopter. it was flashing red and blue so we thought it might have been the poliece. it was hovering. so we drive towards it and as we get almost under it we are like that no hellicopter. it was a triangle and as we said this it starts moving west. really fast. so we chase after it. we lived in a prewtty seclududed area so we had no problem speeding. so this craft goes west about 2 miles than makes a sharp turn north. so we turn as well. aas he is driving i am looking at the sky and i saw what i can describe as the stars were moving cause there were a bunch of lights way up in the sky that were just white than they started moving and comming closer. and im telling my friend this and at that time this first cradft took off out of sight. so he stops and we are looking up from outside the car and a big triangle comes silently over us just above tree level and makes its way towards some houses and shines a beam of light on the houses. and as we are standing there we see in the distance more craft AND balls of light doing figure eights and pulsing different colors (green blue red and white)the balls of light are what really impressed me. its been about an hour already of driving and looking at these things so we get back in the car and we are heared twords the coury and we notice other cars following these craft in the same northerly direction we are going. so there are 3 cars total that all seen these things we went back to his house and saw more balls of light and a 2 more craft hovering. we saw more over the next couple days.((NUFORC Note:  Date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/039/S39398.html](http://www.nuforc.org/webreports/reports/039/S39398.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
