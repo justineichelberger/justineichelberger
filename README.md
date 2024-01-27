@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:25 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:35 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cary (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was a disc shaped craft with red, blue, and green lights that hovered too low to be a plane and was out of eye sight in 5 seconds.I heard a loud sound, like a plane hovering but much louder, it made my house shake. I looked outside and about two houses away i saw a very low disc shaped craft that had green, blue, and red lights flashing on the side, they were like disco light looking. As soon as I looked out my window, it like sensed I saw it and started flying away, it just suddenly took off so i ran to the front of my house and ran outside and I saw it flying way too fast to be a plane and within 5 seconds it was out of eyesight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61245.html](http://www.nuforc.org/webreports/reports/061/S61245.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Green Bay () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A rectangular shiny object floating in the sky and disappearing behind a cloud.Hey silver rectangular object hovering in the sky.  It went behind a cloud and disappeared.  I knew it wasn’t a plane because it wasn’t moving fast at all it was hovering in the sky.  It then just disappeared into a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144697.html](http://www.nuforc.org/webreports/reports/144/S144697.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
