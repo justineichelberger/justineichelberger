@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:00 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:47 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Armagh (Republic of Ireland) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>the lights in our town were too bright for anyone to see stars, and there was no cloudsflashed multi colours, when observed though telescope it looked like two objects. a picture was taken picture has swervey lines colour of red-orange.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48883.html](http://www.nuforc.org/webreports/reports/048/S48883.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Englewood (FL) reported seeing craft that fit the description of some 'Changing' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Orangish oval shape that slowly disappeared in sky seen by two friends.I saw it when I was driving my friend home and he actually saw it first and then pointed it out to me.  we were driving straight towards it and it was very high in the sky.  it was almost a doughnut shape but after we saw it,  it begin to almost disappear but from top to bottom and slowly. it was almost a kinda bright orange similar to a streetlight but much larger and not as bright.  I could also see the stars and there were no clouds in that direction which was SE according to my car compass.  it took as much space in the sky as if you held a quarter about a foot from your face.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106707.html](http://www.nuforc.org/webreports/reports/106/S106707.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
