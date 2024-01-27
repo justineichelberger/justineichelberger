@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:55 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Green Bay () reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>A rectangular shiny object floating in the sky and disappearing behind a cloud.Hey silver rectangular object hovering in the sky.  It went behind a cloud and disappeared.  I knew it wasn’t a plane because it wasn’t moving fast at all it was hovering in the sky.  It then just disappeared into a cloud.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144697.html](http://www.nuforc.org/webreports/reports/144/S144697.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ocean & Monmouth Counties (NJ) reported seeing craft that fit the description of some '' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>We heard and felt what was like an earthquake throughout Southern New Jersey.  However, according to the NJ12 News (link provided with full report), it was not an earthquake according to the USGS and it was not originated by joint military bases, McGuire-Fort Dix in Lyndhurst) according to their representatives.  The authorities are reporting that it was most likely sonic booms - but how can aircraft sonic boom travel - simultaneously - from as far as Lakewood down to Cape May?  Full report can be found at this link:  pressofatlanticcity.com/news/south-jersey-residents-hear-boom-feel-shake/article_3eebda3c-c5ee-11e5-94f5-07735cc23e30.html#.VqpoumwE9kU.facebook Here is a better one: http://news.yahoo.com/mysterious-sonic-boom-reported-over-jersey-225145406.html ((NUFORC Note:  Link above did not work for us at NUFORC.  However, apparently the U. S. Navy is now reporting it probably was some of their jet aircraft that caused shock waves, while flying at supersonic airspeeds.  Here is the link:http://www.foxnews.com/us/2016/01/28/official-fighter-jet-likely-caused-sonic-booms-along-coast.htmlPD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125490.html](http://www.nuforc.org/webreports/reports/125/S125490.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
