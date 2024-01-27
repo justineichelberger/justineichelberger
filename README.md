@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:30 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:25 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Lakewood (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular, dimly-lit craft that made no noise and flew slowly.On my way to work, I noticed a triangle shape quickly approaching me from the north.  It was around 200 feet up in the air, closer than any aircraft I see flying in this area on a daily basis.  It was a large right triangle shape, with dimly lit lights that were dome shaped - spaced about a thumb width apart if I were to hold my hand up to it.These lights went all the way around the craft.  The space in the middle was black (it blocked out the stars).  It was a clear night, no wind or clouds for miles.   It flew over my head, heading south.  I would estimate at about 30-40 miles per hour.  I told my friends and family about it.  My sister told me today that one of her co-workers who lives in my area saw it too on his drive in to work.It made no noise, and i watched it until the lights were no longer visible (estimating 2-3 miles away).  The lights were a really dim beige color, no other colors or flashing of any sort.  They seemed to be illuminating from within and were almost hard to see.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96134.html](http://www.nuforc.org/webreports/reports/096/S96134.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Cary (IL) reported seeing craft that fit the description of some 'Disk' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>It was a disc shaped craft with red, blue, and green lights that hovered too low to be a plane and was out of eye sight in 5 seconds.I heard a loud sound, like a plane hovering but much louder, it made my house shake. I looked outside and about two houses away i saw a very low disc shaped craft that had green, blue, and red lights flashing on the side, they were like disco light looking. As soon as I looked out my window, it like sensed I saw it and started flying away, it just suddenly took off so i ran to the front of my house and ran outside and I saw it flying way too fast to be a plane and within 5 seconds it was out of eyesight.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61245.html](http://www.nuforc.org/webreports/reports/061/S61245.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
