@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:35 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:37 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Meda (Indonesia) () reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Please tell us the truth. 500 Lights On Object:  YesI lived in city of Medan-North Sumatera Province-Indonesia.  Analisa as a biggest local newspaper in Sumatera Island report  the headline on 29 Januari 2007 and 30 January 2007. (http://analisadaily.com/0-2.htm)  as folowwing:  On 27 Januari 2007 in Medan- North Sumatera-Indonesia, at  05.20 AM (WIB) many people in Medan saw a very bright light in the sky and that light enter their home and their office.  Some people said ‘blue light’ the other said like gold light but all of them have similiarity that the was so bright. Till Wednesday 31 Jan 07, I have been meet with more than 4 people that be a witness and have made chatting through amateur radio with more than 5 person that  saw the light directly let us say for "1 up to 4" seconds. These people live in city of Medan.  Till city of Siantar around 100 km’s from medan.  All of them made true confession and I believe them they spoke truely.This morning 31 Jan 07, LAPAN (Space Institution of Indonesia) told in the Analisa headline that it must be a meteor.According to their statement, think they were lie to us.(just click on that site)  I hope some of you can give us an honest report, what is really happen about that BRIGHT LIGHT.   Is that a kind of Earthquake Light or what..? I ever sent my report to this site that we ever saw the UFO  at night in the sky of Medan for around 3 hours and 3 objects that made few fantastic manuver on the sky</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55055.html](http://www.nuforc.org/webreports/reports/055/S55055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in San Gabriel Valley (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Craft was more or less in a holding pattern where it's path was none directional... and apered to rotate 180 degrees on its axis..or too much art bell.... which ever comes first.. or you want to belive! It changed course and headed west towards San Fernado Valley or about 35 miles untill oyut of sight...I cant believe that this might be what everybody is all talking about . I thought how nice....,it finally happened to me.............. ..but who knows....UFO  you bet ! What is it ? no idea.                                                                      I thought if somebody else saw what I did,, I would'nt look like one of those other Wacked out people somewhere in the mid-west or wherever! Let me know what's up!  ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11806.html](http://www.nuforc.org/webreports/reports/011/S11806.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
