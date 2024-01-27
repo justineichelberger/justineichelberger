@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:32 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:37 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Fishersville (VA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>the craft was much larger than a helicopter and oval shaped grey with spinning colored lights and followed beside my car.I was traveling from Care Corners in Fishersville, Virginia to my home in Waynesboro, Virginia. At exactly 10:30 pm I was traveling EAST on US Route 250 near 38.092862, 78.936428 (latitude-longitude)  when I saw the UFO traveling South almost directly toward my car. At that time my car was set on cruise control @53 mph. The UFO was a large oval shaped sphere with red, blue, green and bright white lights around the edge of the sphere. The lights appeared to be spinning around the outer edge of the UFO. My estimation is that the UFO was approximately 500 ft in diameter. Almost immediately the UFO was beside the highway and it made a hard left angle turn to the East, just beyond the power lines that are alongside the North side of the highway. Next the UFO traveled parallel to my car for approximately 1/8 mile. Next the UFO made a hard right angle turn and came directly above my car. At that point it just seemed to disappear. I could not see the UFO in any direction. I then proceed to my home and immediately wrote down all that I saw and witnessed and drew my diagram of the incident.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153237.html](http://www.nuforc.org/webreports/reports/153/S153237.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Newburgh (IN) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR Node 142</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153258.html](http://www.nuforc.org/webreports/reports/153/S153258.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
