@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:36 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Disk' over a period of approximately 10,000 - 10,000 minutes.</sub><blockquote><sub>It was very bright and had lights that were very red, the disk was silver, and it stayed in the air for about 5 minutes.It was a very disturbing sight.  Its lights were brighter than the stars.  It stayed in the same spot for over 5 minutes, and flew away at over 100 mph.  It hovered right over Lake Hood Elementary School.  There were many people there that night, and they were just as afraid as I was.  I could've sworn I saw some sort of body or figure moving inside the craft.  It was a silver disk, and had bright red lights all around it.  It was a very dark night, and nothing could possibly be that bright-not even the Northern Lights!  I never believed in aliens or UFOs until that very night. I just hope it never happens again.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/055/S55007.html](http://www.nuforc.org/webreports/reports/055/S55007.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Washington (NC) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>An incredible sight of a saucer flying through the night sky with a reddish/orange vapor trail that dissappearedMy boyfriend and I were on our way home from visiting our parents who live in Belhaven, NC.  We live in Greenville, NC.  We were coming into Washington, NC when right above the tree-tops there was a flying object.  It was maybe 100-200ft up in the sky.  It was around 9:25PM and we watched it for a minute or less.It was flying from right to left.  It was something unbelievable.  At first we thought it was a plane but they have never and wouldn’t fly that low over the Washington area.  We live by an airport and could learly tell it wasn’t a plane.  It was cloudy tonight so if it was an airplane, we shouldn’t have been able to see it.It appeared to be silver in color and was more oval or the typical “UFO” shape.  It was flying incredible fast, faster than any airplane I have ever seen.  It had lights that could have been underneath of it but they looked more along the sides and on the middle of the craft.  The lights were different colors of white, yellow, and red.  They didn't have a synchronized pattern in their flashes either and they all flashed at different times.  It seemed to have a reddish/orange vapor trail following.When it got toward the 1 minute mark it just seemed to vaporize and it was gone.  We can only believe that it was a UFO and it was amazing.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96123.html](http://www.nuforc.org/webreports/reports/096/S96123.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
