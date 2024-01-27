@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:34 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:30 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Beloit (WI) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>a row of white lights, red flashing lights, no soundMy daughter said,"what is that?" I looked and said that it was an airplane. But I thought something was different. It was flying lower than the other planes in the night sky, and it must have been going perfectly straight away from us because it was getting smaller and moving closer to the horizon. But the strange thing about it was that it had a complete row of white lights from wing to wing if it were a plane. The other planes in the sky didn't have that. The object did also have 2 lights blinking from the bottom of the craft. One light was for sure red the other I am not sure if it were red or a different color. There was no noise, but I didn't hear any noise from the other airplanes either. Maybe this was an airplane, but it was lower than the rest and there was no noise, and I don't know if there is an airplane out there that has white lights all across the width of it like that. The row of white lights were about 5 to 7 lights. I tried to count them but I ran in the house to get my Husband and by the time I got back out, It was further away and I couldn't get a good count. My 2 daughters, my husband and I saw this. The object was probably moving at the regular speed of an air plane. I would just like to know if there is an airplane out there that has lights that would look like this from the rear, and if anyone else saw it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48888.html](http://www.nuforc.org/webreports/reports/048/S48888.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1978, an anonymous witness in Massachusetts/New Hampshire (NH) reported seeing craft that fit the description of some 'Fireball' over a period of approximately  -  minutes.</sub><blockquote><sub>Huge fireball tracking beside car on passenger side and no other clear memories with trip t aking too long - extreme fear.We were heading north ~Springfield, MA to Manchester, NH on a Sunday (can be timed to Kiss concert at Springfield Civic Center for 1977-1978).  There were three of us sitting in front seat.  What I clearly remember:  a fireball that took up passenger side of car.  Fireball tracked us exactly beside car.  Fireball was directly outside passenger window.  All three of us were absolutely terrified and trying to get away from that side of the car.  Last clear memory was intense fear and pushing into driver trying to get away from passenger side of car.  Next memory is arriving in Manchester and noting that the trip took longer than should have.((NUFORC Note:  Rock bank, KISS, performed in Springfield, MA, on January 27, 1978.  PD))((NUFORC Note:  Source of report elects to remain anonymous; provides e-mail address only.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/056/S56040.html](http://www.nuforc.org/webreports/reports/056/S56040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
