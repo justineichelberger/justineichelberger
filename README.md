@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:33 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:37 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Rocky Mount (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Witnessed a bright stationary object seen next to passing jet travelling at cruise altitude.I witnessed a bright stationary object next to passing jet travelling in a south west direction at cruise altitude. Clear blue skies were present. I was outside my office and I looked up at a passing commercial jet.  As the jet passed over, it flew by a stationary bright (white in color) object, I could not tell the actual size or altitude of the object. Based on my observation it appeared to be slightly larger than the jet with no wings. It did not have a well defined shape, but it was close to rectangular with lumps on each side. It was sort of blurry with no sharp edges.  I don't think it was the same altitude of the jet because the passing aircraft did not alter course. The object could have been above or below the aircraft. The distance between the jet and object was about the width of a pencil held at arms length. At first glance I thought maybe it was a clump of balloons; however when I took out my cell phone camera to snap a picture and looked back u! p, the object had vanished.  I knew where to look because the aircraft contrail was still present.  I searched for it for another 5 minutes, but could not locate. I wish I had kept my eyes on it. Note:  This event occurred in January 2008 and had made note of immediately afterward.  I’m just now reporting because I wasn’t aware of this site.  Also, I'm a retired USAF SNCO (1981-2001) and very familiar with all types of aircraft.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/072/S72334.html](http://www.nuforc.org/webreports/reports/072/S72334.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mesa (AZ) reported seeing craft that fit the description of some 'Oval' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Lights over Phoenix again& again.On wed, the 28 of jan, my band was playing at a rv resort in mesa az.After the first set my wife & I went outside for some fresh air.These huge lights appeared rather suddenly in the south eastern part of the sky.My uncle lives about 15 miles from the rv resort,& he's told me about those wierd reddish/goldish lights,he keeps seing west of his residence.These lights were almost the size of the moon.Igrabbed the pentax 35 mil, camera& snapped the last 2 pictures on that roll.What came out on film is a little spooky.THESE lights were very bright but on the 2 pictures they appeared as black spots in the sky.I want you  folks to see these pics.If you need the negatives, you can have those to.According to my uncle these lights appear frequent.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34938.html](http://www.nuforc.org/webreports/reports/034/S34938.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
