@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:29 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sultana (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rapid circle in the clouds that turn triangular green and disappearsDriving late at night by myself from my car I notice a small circle light moving rapidly in the sky draws my attention immediately because of the speed and the turns into a triangular green bright light almost like a poof explosion and vanishes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106728.html](http://www.nuforc.org/webreports/reports/106/S106728.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Paranaque (Philippines) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>black triangle with red and blue lightsWhen we went home coming from a family gathering together with my husband and baby boy, I saw a very bright light and stopped.  This was my 3rd experience seeing objects like these, my husband who didn't believe in things like these got interested too and began looking at the bright object.  When we started focusing and looking at it, it flew so fast and seemed like it turned off its light for we can still see the triangular object which was clearly visible even at that hour (1:00 am).  It moved from east to west and stopped, until 3 am we looked at the mysterious triangular object which seemed like it was just floating up and down.  It kept on turning its light on and off.  It reflected a purple light which was a combination of blue and red lights.  It was amazing to see it with my husband for he didn't believe at all, and now I have a proof, he was there standing right next to me and was also amazed for what he saw. Well, to see is to believe!((NUFORC Note:  Witness does not indicate a date for the sighting.  We will attempt to contact the source of the report, and request a correct date.  PD))((NUFORC Note:  Witness indicates that date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74220.html](http://www.nuforc.org/webreports/reports/074/S74220.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
