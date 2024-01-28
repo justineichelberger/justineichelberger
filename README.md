@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:40 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fayetteville (AR) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Streak of Green Light.Glanced through my window and saw a stream of green light bolt through the sky and disappear as if in the speed of light.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107367.html](http://www.nuforc.org/webreports/reports/107/S107367.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Dexter/Ann Arbor (general area) (MI) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black cone shaped object hovering above Dexter then landed (i think).My husband was driving home from work at about 9:30 am and he told me to go look outside towords Dexter.  It's a clear day with not one cloud in the sky, except for some chem trails off in the distance.  We saw this black shiny, what looked like an ice cream cone, object with lights and the top half looked like it was rotating.  It looked like the object was moving closer and getting bigger, then far away, it was getting smaller. Then it looked like it was starting to land, maybe towords Chelsea.  I lost it behind the trees and wasn't able to see it again.  I made sure to show my brother-in-law, his girlfriend, my friend from next door and my father-in-law.  You could probably see it from I-94 heading west out of Ann Arbor.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117012.html](http://www.nuforc.org/webreports/reports/117/S117012.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
