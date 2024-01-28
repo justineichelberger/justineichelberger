@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:28 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:42 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I often see an object in Ada county but my best sighting was in Blaine near Hailey.  I was at my parents' house a few miles out of town on Superbowl Sunday.  I see an object almost every night for the last 6 or 7 years.  I saw it as I turned off the highway and could see it was lower than the hills around it and very bright.  I stopped and looked at it through binoculars I could see it was rotating and it has multi colored lights that shine blue, green, yellow, orange and red.  I watched for 2-3 minutes it as the object looked like it was diamond shaped and seemed to be rotating.  Once it seemed to realize it was being observed it rose up just above a hill that it was next to it began to follow the ridge line.  I began to follow as it wasn't going all that fast.  It soon got up to around 55-60 mph as I going as fast as I could on a road that's gravel and it's snow covered.  It soon got to the point where the valley closes up and goes higher into the hills.  I watched it cross the valley where I had stopped it was just ahead of me as it went from left to right and rose out of sight.  I've bizarre dreams and other sightings since then and before occurrence too.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122262.html](http://www.nuforc.org/webreports/reports/122/S122262.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>17:15 Destin, Fl, Sphere 2 minute duration Orange shere Light fading in and out and big then small and big again.We just arrived earlier in the evening for our vacation in Destin, Florida,.  I stepped outside to take a walk and saw a large orange glowing globe type light.  It would fade in and out get small then large.I immediately told my husband to hurry come outside and, he saw it.  When I called for my husband to come see this orange light there was also another older gentleman down stairs walking and he looked up to also witness this orange round light.  This was approximatky 7:15 pm on Saturday, Janurary 28, 2014.  We would have been facing straight north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107360.html](http://www.nuforc.org/webreports/reports/107/S107360.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
