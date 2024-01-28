@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:42 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:49 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Destin (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>17:15 Destin, Fl, Sphere 2 minute duration Orange shere Light fading in and out and big then small and big again.We just arrived earlier in the evening for our vacation in Destin, Florida,.  I stepped outside to take a walk and saw a large orange glowing globe type light.  It would fade in and out get small then large.I immediately told my husband to hurry come outside and, he saw it.  When I called for my husband to come see this orange light there was also another older gentleman down stairs walking and he looked up to also witness this orange round light.  This was approximatky 7:15 pm on Saturday, Janurary 28, 2014.  We would have been facing straight north.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107360.html](http://www.nuforc.org/webreports/reports/107/S107360.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Gunter (TX) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Large weird Smoke Ring near Gunter, Texas.Our family was traveling in the outskirts of Dallas, Texas.  Our GPS led us astray, and somehow we got off track, and started traveling down gravel roads instead of the turnpike which we should have taken in the first place.  We were traveling down this little highway when I looked up and noticed this black smoke ring up in the clouds.  Nothing else in the sky even resembled it, and I didn’t see any air craft in the area at all.In fact I took pictures of it and I had it in my view for miles.  I commented on it to my husband.  We live in Missouri, so I am not familiar with this area at all.  The closet town that we came to was Gunter, Texas. In one of the pictures I saw different crafts that I didn’t see with my eyes.  I thought it may have been dirt and grime on the wind shield, but if that we true the dirt would show up in the other frames.   This reminded me of something a smoker would puff up in the air but the smoke was very dark.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87345.html](http://www.nuforc.org/webreports/reports/087/S87345.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
