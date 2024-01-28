@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:06:21 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Amsterdam (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately Several minutes - Several minutes minutes.</sub><blockquote><sub>My mother saw a weird craft flying in an abnormal pattern.  She said it had suddenly stopped behind the tree.  She had called me over and I had saw what didn't look like a star nor doesn't sound/look like any air craft or tot craft I have seen.  It was hovering in one area.  No noise coming from it.  It flashed yellow, red, green, and a possible orange like color of lights.  The green was mainly shown on the sides from my point of view.  Where I was in my location, the width was about 1cm and the height was about half a centimeter.  It started to fly away north of my direction.  As it did, a quiet humming sound came directly from it.  I don't know what I have saw.  But it is truly my first time witnessing and unknown flying object, a UFO.((ADDENDUM FROM WITNESS))I am sorry, I mean January 28, 2016.  Again, sorry for the mix upSent from my iPhone((END ADDENDUM))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125499.html](http://www.nuforc.org/webreports/reports/125/S125499.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Richmond (VA) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately still there as of 19:25 - still there as of 19:25 minutes.</sub><blockquote><sub>in the northeast sky from my home in the west end of richmond as i was walking my dogs i noticed a bright object in the sky just standing still[ia m guessing it was at about 10.000 feet]in the clear night sky,as i stopped to look closer it pulsed a metalic and steel blue light,as i write this at 19:30 it is still in the sky and has not moved an inch...i called the local cbs affiliate here in richmond and simply told them what i saw in the sky,i also had my wife and stepson take turns outside looking at it through my binoculors and they had no idea what it was either</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34738.html](http://www.nuforc.org/webreports/reports/034/S34738.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
