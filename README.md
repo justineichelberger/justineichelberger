@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:15 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:07:48 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hamlet (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A bug shaped flashing craft.It looked like a bug, or a wasp. At first I thought it was a star, but then it went lower. thats when I saw its shape. It was red and blinked white. A plane was a about 200 ft over it, and it went up to meet it.the light got bright and the plane was gone. where it was, was a light that flashed, also white. the craft lowered alti tude, and turned redder, still blinking white, then i watched it far as i could throgh different windows. then it went to far away.((NUFORC Note:  Witness indicates that date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41661.html](http://www.nuforc.org/webreports/reports/041/S41661.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Florala (AL) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>3 objects.  first object was miles apart from the other two.  it just flew from the southeast to the north west, until no longer visible.  The other two well to the North East of Florala seem to complete a full long circle flying pattern but then some what stopped, shifted or like slid in an instant change going from north to east.  It then completed the circle pattern and flew off north East till out of sight.  All 3 objects had the same series and sequence of white blinking lights.  There were no signs of red or green lights as on aircraft or helicopters.  It would flash 3 times in an interval then go dark for about ten seconds and repeat.  There were no visible distinction of an object shape, just lights and no sounds.  No other aircraft sounds were heard in this time frame or helicopters.  Florala is used by Fort Rucker for training flights, but no helicopter noises were heard.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117032.html](http://www.nuforc.org/webreports/reports/117/S117032.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
