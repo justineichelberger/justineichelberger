@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:34 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Noosa (Queensland, Australia) () reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Green Object streaks across the sky while jet fighter crashes in ocean...On the Saturday the 28th of January at 2050hrs i was on my way to work with a collegue when we both witnessed a green teardrop object with a tail that waved left to right streak past heading north east (towards the ocean).The following day i heard a report on the news that a Fighter Jet from the USS Ronald Reagan had gone down in the ocean whilst on night exercises.The Pilot ejected safely and was picked up by search and rescue within 15 minutes.I have witnessed many shooting stars but i have never seen anything like this before and when i heard the report on the news, it made me wonder wether the two incidents were related?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48917.html](http://www.nuforc.org/webreports/reports/048/S48917.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Semmes (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Six red lights evenly spaced, moving slowly across the sky....We saw approx 6-8 small red lights low in the sky, evenly spaced apart and moving very slow from left to right.  The lights all faded out but not all at once.  It was amazing to watch.((NUFORC Note:  Source provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117023.html](http://www.nuforc.org/webreports/reports/117/S117023.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
