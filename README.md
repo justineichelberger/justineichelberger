@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:45 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:15 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large triangular metal object hurling through the sky.At approximately 14:00, I was on my back deck.  I saw a triangular shaped metal object moving at a high rate of speed.  It looked like a silver more streamlined Stealth bomber.  It was tumbling end over end, the "bottom" was flat and shiny like chrome and the "top" was dull and bulged out in the middle like a cockpit.  Other than that there were no remarkable details that I could see. The object was moving northeast.  There was no smoke trail or other trail behind the object.  Because of its velocity, I moved indoors because I was afraid there might be a sonic boom.  There was no boom in my area, but I saw on Twitter last night that there were sonic booms heard in parts of the northeast shortly after I saw this object (confirmed by USGS).  It had to have crashed somewhere; it was spinning out of control.I was by myself.  As a hobby I keep my eye on the sky observing airplanes, satellites, astronomical objects, cloud formations, etc.  I've seen mid-air refueling, Air Force One, satellites, and "shooting stars" from my deck, but this is the first time I've seen something I can't explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125501.html](http://www.nuforc.org/webreports/reports/125/S125501.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Hamlet (IN) reported seeing craft that fit the description of some 'Other' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>A bug shaped flashing craft.It looked like a bug, or a wasp. At first I thought it was a star, but then it went lower. thats when I saw its shape. It was red and blinked white. A plane was a about 200 ft over it, and it went up to meet it.the light got bright and the plane was gone. where it was, was a light that flashed, also white. the craft lowered alti tude, and turned redder, still blinking white, then i watched it far as i could throgh different windows. then it went to far away.((NUFORC Note:  Witness indicates that date is approximate.  PD))((NUFORC Note:  Witness elects to remain totally anonymous.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41661.html](http://www.nuforc.org/webreports/reports/041/S41661.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
