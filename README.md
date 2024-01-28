@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:37 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:28 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Woodland (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>As I was leaving work on Tuesday (1/28/2020), I looked to the night sky and saw about five (possibly more) orange orbs in the sky.  They were unlike anything I have ever seen.  They appeared as if they were hovering/floating in an upward, diagonal direction.  The orbs would float higher and higher until they disappeared one by one.  The entire event lasted about 5-7 minutes.I work in the middle of town near both residential and industrial areas.  I am not sure exactly how far the orbs  were from myself.  The Orbs did not make any noise that I could hear.  They were a glowing orange color and glowed at a consistent brightness.  As I said, I am not sure what I saw, I only know that I have never seen anything like it before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152939.html](http://www.nuforc.org/webreports/reports/152/S152939.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Hailey (ID) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>I often see an object in Ada county but my best sighting was in Blaine near Hailey.  I was at my parents' house a few miles out of town on Superbowl Sunday.  I see an object almost every night for the last 6 or 7 years.  I saw it as I turned off the highway and could see it was lower than the hills around it and very bright.  I stopped and looked at it through binoculars I could see it was rotating and it has multi colored lights that shine blue, green, yellow, orange and red.  I watched for 2-3 minutes it as the object looked like it was diamond shaped and seemed to be rotating.  Once it seemed to realize it was being observed it rose up just above a hill that it was next to it began to follow the ridge line.  I began to follow as it wasn't going all that fast.  It soon got up to around 55-60 mph as I going as fast as I could on a road that's gravel and it's snow covered.  It soon got to the point where the valley closes up and goes higher into the hills.  I watched it cross the valley where I had stopped it was just ahead of me as it went from left to right and rose out of sight.  I've bizarre dreams and other sightings since then and before occurrence too.((NUFORC Note:  Source of report indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/122/S122262.html](http://www.nuforc.org/webreports/reports/122/S122262.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
