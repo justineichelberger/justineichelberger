@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:35 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:43 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Semmes (AL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>Six red lights evenly spaced, moving slowly across the sky....We saw approx 6-8 small red lights low in the sky, evenly spaced apart and moving very slow from left to right.  The lights all faded out but not all at once.  It was amazing to watch.((NUFORC Note:  Source provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117023.html](http://www.nuforc.org/webreports/reports/117/S117023.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Jacksonville (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>1 WAS SITTING ON AN OCEANFRONT BALCONY LOOKING AT THE VAPOR TRAILS OF PASSENGER JETS ARRIVING FROM EUROPE. OVER A 45 MIN. TIME SPAN AT LEAST 12 JETS CAME OVER HEADING SOUTH AT PROBABLY 30,000 TO 41,000 FT. AS I WAS LOOKING THRU THE BINOCULARS I SUDDENLY SAW ROUND WHITE OBJECT STANDING MOTIONLESS AT 60 DEGREES ABOVE EAST IN ONE OF THE VAPOR TRAILS. AS THE VAPOR TRAIL DISPERSED THE OBJECT REMAINED.NO WAY TO TELL AT WHAT ALITUDE IT WAS,BUT I THINK IT WAS WAY HIGHER THAN THE PLANES. IT WAS ABOUT THE SAME SIZE AS THE JETS TO MY EYES. IT STAYED IN ONE SPOT FOR ABOUT 10 TO 15 MINUTES AND THEN WAS LOST IN SOME VERY HIGH CLOUDS.  IT DID NOT HAVE THE APPEARANCE OF A STAR,BUT SEEMED FLAT WHITE.((NUFORC Note:  Witness does not indicate date of event; does not provide e-address, so we are unable to confirm the date.  Because of a somewhat similar report from Puyallup, WA, for January 28,  we have elected to post this report, despite the missing date.  We have assume the witness may have meant that the date of the sighting was the same as the date he submitted the report, so we have arbitrarily assigned the same date to his report, until we hear otherwise from the witness.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27339.html](http://www.nuforc.org/webreports/reports/027/S27339.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
