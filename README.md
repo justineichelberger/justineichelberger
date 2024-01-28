@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 27 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2007, an anonymous witness in Hatillo (Puerto Rico) () reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>A STAR BRIGHT OBJECT FLYIN THEN VANISHED IN THE SKYI was just finished jogging about 11 pm and I layed to rest and do some abs exercise ..I was just there  laying looking at the sky , it was a clear night a lot of stars, no clouds  and then I saw  this star bright object moving , I thought it was a plane , but it did not look like a plane it was very up in the sky  as far as the stars that were there in the sky at the moment and the object  was not blinking , usually plane’s lights blink, so I just kept watching and  it lasted  like 3 minutes then it just wanished up in the sky, remember there were no clouds in the sky so it just disappeared up in the sky   that’s when I realized it was an UFO .</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/054/S54999.html](http://www.nuforc.org/webreports/reports/054/S54999.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Knoxville (TN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>Large triangular metal object hurling through the sky.At approximately 14:00, I was on my back deck.  I saw a triangular shaped metal object moving at a high rate of speed.  It looked like a silver more streamlined Stealth bomber.  It was tumbling end over end, the "bottom" was flat and shiny like chrome and the "top" was dull and bulged out in the middle like a cockpit.  Other than that there were no remarkable details that I could see. The object was moving northeast.  There was no smoke trail or other trail behind the object.  Because of its velocity, I moved indoors because I was afraid there might be a sonic boom.  There was no boom in my area, but I saw on Twitter last night that there were sonic booms heard in parts of the northeast shortly after I saw this object (confirmed by USGS).  It had to have crashed somewhere; it was spinning out of control.I was by myself.  As a hobby I keep my eye on the sky observing airplanes, satellites, astronomical objects, cloud formations, etc.  I've seen mid-air refueling, Air Force One, satellites, and "shooting stars" from my deck, but this is the first time I've seen something I can't explain.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125501.html](http://www.nuforc.org/webreports/reports/125/S125501.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [226](http://www.nuforc.org/webreports/reports/161/S161837.html)
-- [225](http://www.nuforc.org/webreports/reports/161/S161776.html)
-- [224](http://www.nuforc.org/webreports/reports/161/S161778.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161792.html)
-- [222](http://www.nuforc.org/webreports/reports/152/S152910.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
