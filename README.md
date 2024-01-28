@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:31 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:29 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Elsmere (DE) reported seeing craft that fit the description of some 'Light' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>I saw a bright pulsating orb that lit up the South East sky.Went to close my shade and a bright pulsating orb that lit up the South East sky caught my eye.  (This was the second time).  Stayed there for a long time.  I took pictures and video.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117030.html](http://www.nuforc.org/webreports/reports/117/S117030.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sultana (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Rapid circle in the clouds that turn triangular green and disappearsDriving late at night by myself from my car I notice a small circle light moving rapidly in the sky draws my attention immediately because of the speed and the turns into a triangular green bright light almost like a poof explosion and vanishes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106728.html](http://www.nuforc.org/webreports/reports/106/S106728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
