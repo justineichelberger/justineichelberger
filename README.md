@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:35 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Billings (MT) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Dull white glowing teardrop object moving northeast @ 2232 MSTWhite dull glowing "teardrop" object moving northeast low altitude, at about 25 degree angle.Glowing white tail lasted about 4 or 5 seconds.((NUFORC Note:  We spoke via telephone with the witness, and he seemed to us to be quite serious and sober-minded.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117052.html](http://www.nuforc.org/webreports/reports/117/S117052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Belchertown (MA) reported seeing craft that fit the description of some 'Formation' over a period of approximately  -  minutes.</sub><blockquote><sub>We had just parked our car on top of a hill.  I pointed out what I thought was a bright white spotlight we hadn't seen on the way up and realized the entire beam of light was moving towards us.  As it got about 50 feet in front of the car it broke from a bean of light to three small white lights in a triangle formation.  Slowly other lights started to materialize around it, including a red light.  Now there were 5 small lights in a triangular formation hovering and bobbing in front of the car.  We watched it go out over the trees and slowly hover and make a jagged triangle shape over the landscape.  Suddenly, all of the small lights came together to form one glowing orange light and the light came flying at an unbelievable speed towards the car and then disappeared into thin air a couple hundred yards away.  I jumped out of the car and heard no sound other than our car.  Truly unexplainable.Waited long enough to watch other planes pass over the same area and no planes moved or materialized like what we had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144894.html](http://www.nuforc.org/webreports/reports/144/S144894.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
