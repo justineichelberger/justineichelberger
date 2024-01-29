@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:40 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:38 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Springfield (MO) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Clear sky.  2 section, rectangular, 3 dimensional, silver, low-flying object, approx. semi trailer size.Sunny, clear, blue sky.  At approximately 2:00 PM, I was driving north on 65 highway and saw a silver shape in the sky ahead of me, to my northwest moving east.  I got closer to it and identified the shape as rectangular; proportions similar to a semi trailer or possibly slightly longer.  It was traveling slower than a helicopter and slightly higher than helicopters usually fly.  It was pretty low.The craft was sharp and clear.  Size, thumb at arm’s length would probably cover the height but not the length.  It seemed to have two sections.  The back section was the same height but only about ¼ or &#8531; the length of the leading section.  The sections were slightly separated although there was some sort of narrow bar between the sections connecting them. The rectangle was a burnished silver color.  The bottom was darker, I suppose because the sun was not shining directly on it.  Between the two sections it was much brighter except for the bar.  It either had a light source or perhaps it was the angle of the sun. I don’t know.  There were disruptions in the texture along the side of the front section.  They were indistinct.  They didn't look like windows but there was something different along the side in four or five noticeable areas.I took the sunshine street exit and while stopped at the traffic light at the bottom of the ramp, the object crossed my path about a quarter mile in front of me.  Nobody else seemed to see it and I was trying to catch another driver's eye to look up but I was unsuccessful.  I wanted to take a photo but there was no place to pull over so I decided to follow it by turning east on Sunshine.  I followed for about 3 miles impeded by traffic.  It was travelling in an ESE direction.  Sunshine goes directly east.  Soon I was looking at the back of it and it was pulling away from me.  There was traffic and no place to pull over until it was nothing but a silver spec in the sky.  It looked like it would cross hwy 60 just south of Rogersville.  At that point I was able to pull over.  I got out of the car and could no longer see anything of the object.  I immediately called my husband at 2:18 pm, and told him what I had seen.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125568.html](http://www.nuforc.org/webreports/reports/125/S125568.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Fort Wayne (IN) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>3 lights in the shape of a triangle hover and then travel S, SW.While looking out the window, my two children(ages 13 and 15) spotted a stationary object with three lights in the form of a triangle.  It was about 45 min after we spotted lights in the sky while driving home.  I also saw this object, and it appeared to be traveling at a very slow rate, going South-South West.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106759.html](http://www.nuforc.org/webreports/reports/106/S106759.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
