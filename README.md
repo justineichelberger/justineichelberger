@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:33 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Levittown (PA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>i was out driving around with my girlfriend when i noticed bright lights in the sky . i was watching them as i was driving so just so i didnt lose them i pulled into a section where theres a little open feild so i could watch them alittle better.up in the sky was 2 triangle objects with 4 very bright lights on the bottom of both of them. they were so close together i knew they couldnt be airplains. my girlfriend turned down my radio and told me to open my window to see if it made any noise. and it didnt.so we sat there watching it for about 20 min then the one turned enough so where u could see red and green lights along the sides of them. and they started moving slow...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34964.html](http://www.nuforc.org/webreports/reports/034/S34964.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Mount Pocono (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Very large and bright flash at treeline - directly in front of meI was with a friend looking at the stars in an empty and dark field. We were pretty acclimatized to the darkness and were able to see very well at this point.  My friend was looking slightly to the left of where the object appeared (if it was at 12 o'clock, she was looking in the 10 o'clock direction).  I was looking directly in that area. All of a sudden this HUGE bright light just "exploded" in the sky right at treeline.  It was very bright and very intense, but there was no sound associated with it.  It was yellow-ish and white.  We came back to the area about 40 minutes later after investigating surrounding areas with no luck.  I saw the flash a second time after spending another 5-10 minutes looking in the sky.  The second time it was a very quick flash of light...bright, but not as large, and above treeline a little farther up in the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48923.html](http://www.nuforc.org/webreports/reports/048/S48923.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
