@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:38 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Plaistow (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellowish - Red Orbs seen from my car.  One of the orbs traveled towards me.Driving near my home with my small children at 5:45pm.  A dark winter night, but the sky was clear.  Two small yellowish-red balls in the sky.  I was facing east.  I could see two airplanes in the sky at the same time.  Both the planes and the reddish balls seemed far away but the planes were higher and further away than the balls.  I didn't know what they were,  but the color was unusual so I stopped my car.  They were not travelling in straight lines...but not really zig-zagging either.  One of the balls stayed far away from me.  It traveled from left to right right in front of me and appeared to travel several miles in just a few minutes.  One of the reddish balls came straight toward me.  It took me about 30 seconds to realize that it was actually traveling towards me.  I was shocked to realize how close it was.  It stopped about 2 houses away from me and went behind a tall pine tree.  I could see it through the branches.  It was small, but certainly visible enough to get my attention.  It wasn't losing altitude.  It was hovering.  I turned my car around and got out of there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106778.html](http://www.nuforc.org/webreports/reports/106/S106778.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw bright green light pretty far up above my city while leaving the gym this morning.  Just when I was trying to figure out what it was the green lights shut off and some dim white lights were left as it darted off very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152945.html](http://www.nuforc.org/webreports/reports/152/S152945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
