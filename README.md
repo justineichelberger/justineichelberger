@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:35 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:10 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The way the lights put a certain beam off was nothing I've seen before!!.  I would be glad to draw a picture if possible.Was returning home from taking red box movies back and I seen thus weird light in sky and it was looking normal until I noticed the way the lights we're beaming in a half circle in front or behind whatever the object was.  I never seen something so strange.  My fiance told me I was seeing stuff because I tell her I seen weird objects all the time over here by HILL FIELD BASE BUT THIS WAS DIFFERENT.  IT STARTED TO DO WEIRD SHAPE FORMATIONS AS IF IT WAS UNDER WATER AND I NEVER SEEN ANYTHING IN OUR KNOWN FLY TECHNOLIGY DO WHAT I SEEN AT THE SPEEDS OR AT HOW QUICK IT WAS.  IT WAS NOT NORMAL.  THEN THE CLOSE I GOT HOME THE QUICKER IT GOT AWAY STILL DOING INFINITY SIGN FORMATIONS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132374.html](http://www.nuforc.org/webreports/reports/132/S132374.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Scranton (KS) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Summary : My son and I saw a something slowly falling out of the sky.  It looked like a VW on fire very bright and moving very slowly downward.  We lost sight of it behind a hill.  We were within a 1/4 mile and it was low we watched it from about 1000 feet to about 25 feet off the ground before we lost sight of it.  I stopped the car thinking we would hear a crash but did not.  We went home and called the police reporting what looked like a VW Car on fire falling slowly from the sky.  We went back but could not see anything.  My son is on crutches and could not go the terrain at night and I was too afraid to walk over the hill on my own.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03065.html](http://www.nuforc.org/webreports/reports/003/S03065.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
