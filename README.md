@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:38 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:39 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Visalia (CA) reported seeing craft that fit the description of some 'Egg' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Orange objects in the skyLast night 1/29/06  I went outside to check the mail. On my way back inside my house, I looked up in the sky because I heard an airplane. Above the airplane were 2 Bright orange Egg type of things to the left of the little dipper moving and a good speed in all directions, I couldn't believe it. I ran inside to get my brother to tell him, he didn't believe me but came out anyways. Once we both were outside, we looked up and noticed they were no moving to the right of the little dipper, at an unreal rate of speed, I mean like 10x faster than an airplane would, so he called up his friend Nate C. who then went outside to see what was going on. The objects then stopped moving and sort of hovered there for awhile, a few minutes pasted and all the sudden both started to drop, what looked like sparks, out of the bottom. Then a few more appeared out of no where and also started to drop out the mysterious sparks.  There were now 6 of the objects flying around in every direction, up, down, diagonal. I then called up my friend Adam B. and told him to go outside, He saw it also, we were tripping out, we couldn't believe what was going on, after awhile they each, one by one, slowly disappeared. After we got of the phone with eachother I went back inside. About 12:00 am I went back out and 2 more were there and 1 of the object started to drop the sparks out of it and both of the objects then disappeared.This is 100% true, no lies, I couldn't believe it either. I'm not crazy, I have 3 other witnesses that saw it at the same time I did.((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48933.html](http://www.nuforc.org/webreports/reports/048/S48933.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wells (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green Fire ball with an Orange nose falling at a 45-degree angle from West to East.  We were driving North on I-95 at mile marker 10 when the object appeared to be a few miles ahead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86903.html](http://www.nuforc.org/webreports/reports/086/S86903.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
