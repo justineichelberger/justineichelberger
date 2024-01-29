@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:43 on 28 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:37 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Mile 35 (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Highway 1 Mile 36 nine lights observed.While driving North on Alaska Highway 1 at 8:49PM, I seen what I thought was a radio tower that had red lights, abouts 2 miles in front of me.  I thought to myself when did someone build a huge tower out here by the Y junction?  I was confused with what I was looking at while trying to drive on the icy road.As I approached closer I then observed that there was no tower and just 9 red lights that were aligned in a row vertically.  My first impression was someone is setting Chinese flying lanterns.  I then began to observe the lights were moving about & 8 turned color to a amber orange color.I noticed another vehicle coming my direction in opposite lane. I slowed to about 25mph and pulled towards the shoulder of the highway.When the vehicle passed I then thought about getting my cell phone and stopping to take pictures or video.  I changed my mind because I had my 2 children asleep in their car seats. So I kept driving slowly, and and kept looking at the lights which are now within 400 yards of my van.I remember looking at my dash display and it read -1 degrees outside. Visibility was unlimited and it was cold and clear out.  I could see the stars out & these lights were definitely not stars.  These lights were not drones. I've seen drones and it was below zero.  Who would be flying 9 drones in frigid weather anyway I thought.As I passed the lights, I noticed a red light just above the trees that began to travel upwards moving in a intelligent manner among the other amber orange lights.  I kept driving until I got to a pullout at the Y junction.I got out of my van and looked at the direction I came from.  Now I can only see 1 red light that is going vertically up into the night sky.  I lost track of it and then got back inside my vehicle.I then called my family in Seward and described to them what I just seen.  My sister was going to check Facebook to see if any one else put it online.I counted 5 other vehicles coming and going during this period.  Another black pickup was parked above me and what appeared to be viewing this also.I continued North towards Anchorage and I haven't heard of any one else making a report of the lights that night.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138824.html](http://www.nuforc.org/webreports/reports/138/S138824.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>On a trip down the M6 passing manchester my family spotted what we initially thought was a police search helicopter due to bright white light in sky on the left of motorway. On getting closer to the light, we discovered there was no beam to the ground and 3 deep pink stationary lights sitting in triangular shape with the white of to the side.  We tried to take a photo on our moblie but it was too dark & we couldn't stop on the road.  It was just completely still.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68396.html](http://www.nuforc.org/webreports/reports/068/S68396.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [283](http://www.nuforc.org/webreports/reports/161/S161829.html)
-- [282](http://www.nuforc.org/webreports/reports/161/S161834.html)
-- [281](http://www.nuforc.org/webreports/reports/161/S161816.html)
-- [280](http://www.nuforc.org/webreports/reports/161/S161854.html)
-- [279](http://www.nuforc.org/webreports/reports/161/S161826.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
