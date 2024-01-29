@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:37 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:35 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Manchester (UK/England) () reported seeing craft that fit the description of some 'Triangle' over a period of approximately  -  minutes.</sub><blockquote><sub>On a trip down the M6 passing manchester my family spotted what we initially thought was a police search helicopter due to bright white light in sky on the left of motorway. On getting closer to the light, we discovered there was no beam to the ground and 3 deep pink stationary lights sitting in triangular shape with the white of to the side.  We tried to take a photo on our moblie but it was too dark & we couldn't stop on the road.  It was just completely still.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68396.html](http://www.nuforc.org/webreports/reports/068/S68396.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Layton (UT) reported seeing craft that fit the description of some 'Other' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>The way the lights put a certain beam off was nothing I've seen before!!.  I would be glad to draw a picture if possible.Was returning home from taking red box movies back and I seen thus weird light in sky and it was looking normal until I noticed the way the lights we're beaming in a half circle in front or behind whatever the object was.  I never seen something so strange.  My fiance told me I was seeing stuff because I tell her I seen weird objects all the time over here by HILL FIELD BASE BUT THIS WAS DIFFERENT.  IT STARTED TO DO WEIRD SHAPE FORMATIONS AS IF IT WAS UNDER WATER AND I NEVER SEEN ANYTHING IN OUR KNOWN FLY TECHNOLIGY DO WHAT I SEEN AT THE SPEEDS OR AT HOW QUICK IT WAS.  IT WAS NOT NORMAL.  THEN THE CLOSE I GOT HOME THE QUICKER IT GOT AWAY STILL DOING INFINITY SIGN FORMATIONS.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132374.html](http://www.nuforc.org/webreports/reports/132/S132374.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
