@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:38 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Eloy (Arizona City) (AZ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>VERY LARGE DISK SHAPED OBJECT WITH MULTIPLE LIGHTS SLOWLY MOVING ABOVE ELOY TRUCKSTOPSINTO S.E DESERTWHILE DRIVING HOME ON I-84 ILOOKEDUP TO MY LEFT AND NOTICED A LARGE DISK SHAPED OBJECT SLOWLY ALMOST FLOATING MOVING IN A SOUTHEAST DIRECTION LOW TO THE GROUND A GUESS ABOUT 1000'. i WAS A BOUT 2 MILES AWAY AND THIS THING WAS HUGE FROM MY LINE OF SIGHT AT LEAST 500TO A1000' IN DIAMETER AND SEVERAL STORIES HIGH.AND IT HAD NUMEROUS LIGHTS OF DIFFERENT COLORS FLICKERING ON AND OFF .i PULLED OFF TO THE SIDE OF THE ROAD TO WATCH THIS THING JUST SLOWLY GLIDE THROUGH THE AIR. AS IT PASSED OVER THE TRVEL CENTER I GOT BACK IN MY TRUCK AND SPED UP SUNLAND GIN RD TO GET A CLOSER LOOK. SINCE IT WAS MOVING VERY SLOW. I CHASED IT AS FAR AS ARIZONA CITY AND STOPPED AND GOT OUT OF MY TRUCK AS I WATCHD IT SLOWLY CRUISE SOUTH EASTERLY THROUGH THE DESERT UNTIL IT WAS OUT OF SIGHT MY ONLY REGRET IS THAT i DIDNT HAVE A WAY TO RECORD THIS EVENT. NEXT TIME IM GOING TO BE PREPARED.  IT SEEMS LATLY THAT SOUTH CENTRAL ARIZONA  IS HAVING ITS FAIR SHARE OF THESE STRANGE VISITORS IN WHICH i HAV BEEN PRIVY TO A FEW OF THEM RECENTLY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48966.html](http://www.nuforc.org/webreports/reports/048/S48966.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Ft. Lauderdale (FL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>On my way home from work traveling northbound on Interstate I95, I could not help but to notice 3 bright yellow lights toward the E horizon of Ft. Lauderdale.  At first glance I believed them to be planes, since the airport is in that same vicinity, however these lights hovered for over 30 minutes and never moved.  They looked like flares that would not turn off.  What are those?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132385.html](http://www.nuforc.org/webreports/reports/132/S132385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
