@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:36 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:33 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately prolonged - prolonged minutes.</sub><blockquote><sub>Friend and I saw a planet or moon.  Reddish yellow and craters. Half showing in west,  20 times size of moon half showing with horizon.I could not cut and paste on my computer.  My friend and I were going about 6 blocks away to Lowes.  When we turned West on Panama Lane, I said, "Do you see what I see?" My friend said, "Yes."   It looked bright and reddish yellow with craters.  I thought it was Mars and then the moon.   It wasn't far from us.  It was about 30 times the size of the moon.  It seemed as though it would collide into Earth.  (It was that close)  We could see half as it was in the horizon like the sun going down.  I was so busy and figured that I would here about it from TV or radio or newspaper.   I was so busy that I didn't even try to here from the media the next day.   So many people were driving.  I should have flagged people down or ran back to get my camera.   It bothers me that I don't hear about anyone seeing this.((NUFORC Note:  Witness indicates that the date is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96729.html](http://www.nuforc.org/webreports/reports/096/S96729.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Plaistow (NH) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellowish - Red Orbs seen from my car.  One of the orbs traveled towards me.Driving near my home with my small children at 5:45pm.  A dark winter night, but the sky was clear.  Two small yellowish-red balls in the sky.  I was facing east.  I could see two airplanes in the sky at the same time.  Both the planes and the reddish balls seemed far away but the planes were higher and further away than the balls.  I didn't know what they were,  but the color was unusual so I stopped my car.  They were not travelling in straight lines...but not really zig-zagging either.  One of the balls stayed far away from me.  It traveled from left to right right in front of me and appeared to travel several miles in just a few minutes.  One of the reddish balls came straight toward me.  It took me about 30 seconds to realize that it was actually traveling towards me.  I was shocked to realize how close it was.  It stopped about 2 houses away from me and went behind a tall pine tree.  I could see it through the branches.  It was small, but certainly visible enough to get my attention.  It wasn't losing altitude.  It was hovering.  I turned my car around and got out of there.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106778.html](http://www.nuforc.org/webreports/reports/106/S106778.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
