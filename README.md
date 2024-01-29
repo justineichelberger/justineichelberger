@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:38 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:42 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Coeur d'Alene (ID) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>I saw bright green light pretty far up above my city while leaving the gym this morning.  Just when I was trying to figure out what it was the green lights shut off and some dim white lights were left as it darted off very fast.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/152/S152945.html](http://www.nuforc.org/webreports/reports/152/S152945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Barrington (NJ) reported seeing craft that fit the description of some 'Disk' over a period of approximately 7.0 - 7.0 minutes.</sub><blockquote><sub>Saucer like ship in the sky that was hovering unnaturally and made a immediate vertical ascent.I was waiting for the bus and saw this strange silver, shimmering disk with blue lights around it.  I was baffled and frightened.  I am confident it was not a plane.  I know what I saw, and it was not any type of plane.  It moved in an unnatural way hovering and then shot straight up at an astounding speed.  However after it left, I realized I missed my bus, and I was ten minutes late for school.  And have been having nightmares of waking up at night and seeing a strange beings at the foot of my bed.  This is not a hoax so please don't think it is I'm not making any of this up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125522.html](http://www.nuforc.org/webreports/reports/125/S125522.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
