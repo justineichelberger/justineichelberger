@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:35 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two stationary dots in the vicinity of the moon.Hello Peter,  I've heard you on Rense several times. 7:10 AM, I am in Snohomish.  Looking at the waning crescent moon in the south-southeastern sky, at 1-1/2 fingerwidths out at the 7 o'clock position is a dim dot, I presume Venus.  Three fingers east of this dim dot is a much brighter dot, stationary now for at least 15 minutes.  Possibly an unusual planetary configuration...? --I tried taking a photo with my cellphone, and the bright dot is visible in it. There is also in the photo a chemtrail running near the bright dot and a second about equally bright dot near the first one, neither of which is visible to the naked eye. --7:19 now, and both "dim Venus" and the bright dot are still visible in the dawn light. --7:26, the bright dot is still visible.  Could it be that the bright dot is Venus and it just happens to be extraordinarily close and/or bright, and the dimmer visible dot is another planet which just happens to be by coincidence very close to ! the moon?((NUFORC Note:  Planets, Venus and Jupiter??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144720.html](http://www.nuforc.org/webreports/reports/144/S144720.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Prince George (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I received a call on the toll free line from a woman who resides in Prince George, British Columbia. She wanted to report seeing a circular ball of red light approx: one block from her home. It was bright and the witness watched the object rise up from behind the trees in the neighborhood. It stopped briefly then moved slowly towards the west for a short distance before it came to a complete stop. The red light dropped down towards the trees, but stopped just short of the tops. Again it rose up rather quickly, then stopped and sat stationary for a few seconds. It finally continued it's travels maneuvering in a strange fashion towards the west. The witness said as it flew a long it would make a tight maneuver on a curve, in other words it looks as if it was going around a bend. The object continued in this motion until it was out of her line of sight. Also the lady I talked with had called her Mother out of the house when she first saw it, both daughter and Mother observed the object. No sound was reported associated to it. Thank you to the witnesses for their report. Brian Vike, Director HBCC UFO Research Canadian email: hbccufo@telus.net website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35540.html](http://www.nuforc.org/webreports/reports/035/S35540.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
