@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:06:07 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:34 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gaston (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light, cigar shapeI noticed a very large light in the S.W. sky.  It did not move the whole time I was watching it.  The light had no color and changed from very bright, to dull, and bright again.  I took a picture of it and when you zoom in on it.  You can see a cigar shape.  The fog came in and covered it up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117055.html](http://www.nuforc.org/webreports/reports/117/S117055.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Snohomish (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Two stationary dots in the vicinity of the moon.Hello Peter,  I've heard you on Rense several times. 7:10 AM, I am in Snohomish.  Looking at the waning crescent moon in the south-southeastern sky, at 1-1/2 fingerwidths out at the 7 o'clock position is a dim dot, I presume Venus.  Three fingers east of this dim dot is a much brighter dot, stationary now for at least 15 minutes.  Possibly an unusual planetary configuration...? --I tried taking a photo with my cellphone, and the bright dot is visible in it. There is also in the photo a chemtrail running near the bright dot and a second about equally bright dot near the first one, neither of which is visible to the naked eye. --7:19 now, and both "dim Venus" and the bright dot are still visible in the dawn light. --7:26, the bright dot is still visible.  Could it be that the bright dot is Venus and it just happens to be extraordinarily close and/or bright, and the dimmer visible dot is another planet which just happens to be by coincidence very close to ! the moon?((NUFORC Note:  Planets, Venus and Jupiter??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144720.html](http://www.nuforc.org/webreports/reports/144/S144720.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
