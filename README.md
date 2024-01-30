@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:49 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:54 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Milton (FL) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.13333333333333333 - 0.13333333333333333 minutes.</sub><blockquote><sub>It was dark(about 7pm) an I had just passed NAS Whiting Field on hwy 87 heading south towards Milton, alongside a few other vehicles.Right before hwy 89 came up on my right-hand side, 3 bright lights in a triangle shape caught my eye for about 8 or so seconds. Between 500ft to 2000ft in ele. moving southwest at 300-600 mph in a steady line. Lost sight because of tress after less than 10 seconds.Lights were moving in perfect unison so I assume it was one craft that was triangle shape but it was dark an only saw the lights.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161842.html](http://www.nuforc.org/webreports/reports/161/S161842.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Spokane (WA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately continuous - continuous minutes.</sub><blockquote><sub>Spokane, WA, lights.HI, I am originally from Spokane.  Here is my question.  When I am in Post Falls at night I look toward Spokane at a 45 degree up angle and I can see a light that flashes green then red then white in a repeating pattern.  As I drive into Spokane Valley, the light disappears although I can still see surrounding stars.  If I continue on up Sunset Hill and get out by Spokane international airport and look back east to Spokane, I can see the blinking lights again at a 45 degree angle to the east.  The lights are stationary.  Other people have seen lights like this.  Here is a youtube video that looks like what I see.https://www.youtube.com/watch?v=jdNSUIua7l8 I have seen these lights over different towns that I have visited.  You could go and look for yourself at the Spokane light.  It is located above the tower mountain area just south of the city. I have no idea what it is.  I just found it weird that I could triangulate its location.  That makes me consider that it is not at a very high altitude.((NUFORC Note:  Source of report indicates that the date of the sighting is approximate.  PD))((NUFORC Note:  Possibly a planet or "twinkling" star??  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144728.html](http://www.nuforc.org/webreports/reports/144/S144728.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
