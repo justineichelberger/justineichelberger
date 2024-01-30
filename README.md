@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:33 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:39 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1995, an anonymous witness in Harrisburg (PA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>County emergency supervisor reports taking UFO report from observer.  Object was reported to be triangular, and it emitted three beams of light down at the ground.  Police were dispatched, but saw notheing.  Several citizens called to police with similar reports.  At least one report that something had been seen to descend to the ground from the ship.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/000/S00295.html](http://www.nuforc.org/webreports/reports/000/S00295.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Dickinson (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 6.0 - 6.0 minutes.</sub><blockquote><sub>Very bright  colorsWe were getting ready to head out and my vehicle was facing east towards Galveston, and we notice this bright light changing color from red purple very bright It did stayed up there for like 5 minutes then start It going down slowly and disappear , we never seem anything that brite , I know it wasn't a Helicopter or an air plane ..</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125554.html](http://www.nuforc.org/webreports/reports/125/S125554.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
