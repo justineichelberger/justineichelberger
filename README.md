@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:35 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:38 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Prince George (Canada) (BC) reported seeing craft that fit the description of some 'Light' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>I received a call on the toll free line from a woman who resides in Prince George, British Columbia. She wanted to report seeing a circular ball of red light approx: one block from her home. It was bright and the witness watched the object rise up from behind the trees in the neighborhood. It stopped briefly then moved slowly towards the west for a short distance before it came to a complete stop. The red light dropped down towards the trees, but stopped just short of the tops. Again it rose up rather quickly, then stopped and sat stationary for a few seconds. It finally continued it's travels maneuvering in a strange fashion towards the west. The witness said as it flew a long it would make a tight maneuver on a curve, in other words it looks as if it was going around a bend. The object continued in this motion until it was out of her line of sight. Also the lady I talked with had called her Mother out of the house when she first saw it, both daughter and Mother observed the object. No sound was reported associated to it. Thank you to the witnesses for their report. Brian Vike, Director HBCC UFO Research Canadian email: hbccufo@telus.net website: http://www.hbccufo.com((NUFORC Note:  We express our gratitude to Brian Vike for submitting this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35540.html](http://www.nuforc.org/webreports/reports/035/S35540.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Front Royal (VA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Orange looking spheres about 20 of them, moving very slow and disappeared after about 3 minutes.  There was no sound.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106830.html](http://www.nuforc.org/webreports/reports/106/S106830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
