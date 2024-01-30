@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:39 on 29 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Wells (ME) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Green Fire ball with an Orange nose falling at a 45-degree angle from West to East.  We were driving North on I-95 at mile marker 10 when the object appeared to be a few miles ahead.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86903.html](http://www.nuforc.org/webreports/reports/086/S86903.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Phoenix (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Three Lights reappearing over the NW valley...again!Three lights that would alternate between red and yellow. Seemed to hang over the NW valley. These lights were lined up horizontally and moved together in a WSW direction. I and my neighbors observed these lights for seeral minutes then then just disappeared. The lights then reappeared 30 seconds later much farther away. At this time two of the lights were together some distance West of where they were. The third light reappeared at the same time to the North of its original sighting. These lights all appeared and dissapeared in synchronicity. This time we noticed the lights for @ 2 minutes, then they all moved to the SW for about 10 seconds and then Poof! they all disappeared again. I have really bad video footage that shows a minute or so of activity. These lights are very similar to lights I have recorded several months ago.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48945.html](http://www.nuforc.org/webreports/reports/048/S48945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [251](http://www.nuforc.org/webreports/reports/162/S162188.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161828.html)
-- [249](http://www.nuforc.org/webreports/reports/161/S161831.html)
-- [248](http://www.nuforc.org/webreports/reports/161/S161830.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161833.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
