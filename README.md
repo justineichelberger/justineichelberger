@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:36 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:45 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Walker (LA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle shaped craft with bright white lights along the edges and blue and red lights at corners, dark black in center, was stationary high in the sky to the east of our land between Walker South and Highway 16 in Denham Springs.  After watching it for at least 30 minutes it started to grow smaller and smaller but still in same place in the sky then it just disappeared.  Did anyone else notice it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117072.html](http://www.nuforc.org/webreports/reports/117/S117072.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Greenville (SC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Triangle of 3 lights seen from I-85 hovering over Mauldin Rd areaDriving down 85 South, looking over the Mauldin Rd area, I saw three solid white lights in the form of a triangle.  There was a tiny blinking red light.  I’m not sure what it was, but it sat in the same spot in the sky for the four or five minutes I was approaching it, then once I got a little ways past it, the lights disappeared.  I just wonder if others saw the same thing because several cars around me slowed down and were swerving.  I saw this light cluster between 11:40pm and 11:44pm on 30 January 2014.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106784.html](http://www.nuforc.org/webreports/reports/106/S106784.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
