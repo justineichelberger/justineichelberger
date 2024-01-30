@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:21:22 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:06:07 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Catonsville (MD) reported seeing craft that fit the description of some 'Changing' over a period of approximately hours - hours minutes.</sub><blockquote><sub>Please have someone prove me wrong!!I live near an airport and I see objects chasing and circling aircraft as they approach.  Shape hard to tell, could be round or oblong.  They have very dim lights, but are visible against the night sky.  I see so many, it's like an invasion.  Thankfully, no harm DONE.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132403.html](http://www.nuforc.org/webreports/reports/132/S132403.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Gaston (OR) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright light, cigar shapeI noticed a very large light in the S.W. sky.  It did not move the whole time I was watching it.  The light had no color and changed from very bright, to dull, and bright again.  I took a picture of it and when you zoom in on it.  You can see a cigar shape.  The fog came in and covered it up.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117055.html](http://www.nuforc.org/webreports/reports/117/S117055.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
