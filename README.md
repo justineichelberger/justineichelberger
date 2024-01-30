@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:27 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:41 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2021, an anonymous witness in Long Beach (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 4.0 - 4.0 minutes.</sub><blockquote><sub>Bright light similar to a star on broad day light remained static for about 6 minutes over the city of long beach on 1/30/21 at 14:25Bright light, similar to a star was observed up in the sky, this object was at about 5K high and remained static, in the same place for about 4 to 7 minutes.  This happened on 01/30/2021 at around 2:25 pm over the city of Long Beach, California. Me and my friends had just finished playing soccer when i looked up in the sky and noticed the bright light, similar to a star completely static,  i then told my friends about it and 3 of them were able to spot it as well.  However, I was able to take a photograph of the object  that minutes later disappeared, but could be used for evidence that it is an UFO.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/161/S161862.html](http://www.nuforc.org/webreports/reports/161/S161862.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Oakland (CA) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Bright light small explosion or crack, then turned red and didappeared.Bright light going straight down then turning red by the tail right before disappearing. Viewed from Jack London square</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117075.html](http://www.nuforc.org/webreports/reports/117/S117075.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
