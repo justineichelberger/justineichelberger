@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:40 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Winchester (VA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Strange light shooting down from the sky and staying around.I was driving down I66 to go home from work.  As I am driving I call my fiancé to tell her I am off of work and I am heading home.  Well when the phone started to ring I was just starring into the sky up to the left out of my windshield.  Then as soon as she said hello this bright light zoomed down and made the sky bright and it seemed like lighting hit the ground but it was white then purple then bluish.  After that I just figured it was a shooting star or comet.  Though I have seen many of those this looked nothing like that.  We'll on down the road I started seening this light thinking it was a star I looked closely at it and realized it was changing colors.  So I watched it till I got home.  Then I sat in my truck and parked it in my driveway where I could still see the light.  As I sat and watched it it didn't move and yet it grew larger and then shrunk while becoming larger it changed colors from white to blue to purple and orange.  So I have no idea what I saw.  I just wanted to know if anyone else saw what I saw that night.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106851.html](http://www.nuforc.org/webreports/reports/106/S106851.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Katy (TX) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.08333333333333333 - 0.08333333333333333 minutes.</sub><blockquote><sub>Fireball fast moving to Earth. Witnessed a bright flash of light that looked like a plane burning or meteor descending at 30 den north to south.  Looked to be landing or crashing to the ground.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132392.html](http://www.nuforc.org/webreports/reports/132/S132392.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
