@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:31 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mill Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very high altitude object hovered in the eastern sky at very high altitude. Moved rapidly south and again remained stationary for a few minutes. It was a round shiny object.It did not look like an airplane and was too high. A weather balloon maybe? Extremely weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34840.html](http://www.nuforc.org/webreports/reports/034/S34840.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Reidsville (NC) reported seeing craft that fit the description of some 'Other' over a period of approximately several hours - several hours minutes.</sub><blockquote><sub>Triangular cab with a long body, almost like a 'tail', many flashing lights.Craft was seemingly several hundred yards above ground then moved (slowly) in many different directions for hours until finally moving directly up towards another craft similar to it.Craft:  It was hard to make out.  I couldn't get a good sighting of it with my Nikon DSLR 200mm lens.  I used binoculars and barely make it out.  However it seemed to have some sort of 'retractable' end that can only be described to be similar to a tail.  It would move this 'tail' one way and go in that direction while other times go in the other direction, so the propulsion is unknown.  The 'tail' had several flashing red lights, the other end was somewhat triangular shaped with many flashing lights.  Lights ranged form flashing clear bright white to a slight tint of green and also red.  The lights were soo bright (even being so far away) that while looking inside my binoculars the flashes would be very distinctive in my lenses.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106791.html](http://www.nuforc.org/webreports/reports/106/S106791.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
