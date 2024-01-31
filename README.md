@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:37 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:35 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 Orange-White ORBS flying southwest WYOMING into UTAH.At 7:20pm MST, I looked outside towards the west of town, and saw a white orb.  The light was over the rooftops of the houses nearby but was probably about 5-10 miles away.I jumped in the car and left Evanston heading southwest when I realized there were two orbs...the original one higher in the sky, and a lower one.Both orbs were moving southwest and a slow speed at first, then faster.  I gave chase in my car, and stopped at a lookout ridge about 8mi southwest of town.  The lower orb was gone behind the distant mountains at this point, and the higher orb stayed in the lower sky for 15 minutes.  It was orangish in color and brilliant.  The higher orb eventually went below the distant mountain range.  They were heading in the direction of Ogden, UT.  I tried to take pics with a digital camera, but due to the dark sky, it picked up the ORB out of focus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117108.html](http://www.nuforc.org/webreports/reports/117/S117108.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On January 31st, 2002, my Pinto broke down as I was driving home from work. I got out of the car, unhooked the bungee cord holding my hood closed, and as I was lifting it, I noticed a cross-shaped stationary object hovering in the eastern sky. It was the brightest object in the sky. I got on my CB radio to call a trucker to confirm what I was seeing... but it was dead. As I stepped out of the car... I suddenly lost all balance, and landed in a heap next to my car... receiving several scratches in the process. As I looked up to the sky again... the "cross" disappeared. Just then, my car started up and started to roll towards a creek bed off of the side of the road... I must have left it in gear. I started to walk home... and managed to catch a ride from a police officer.This account was also recorded in the Hamilton County Sherriff's Department booking office, as witnessed by two police officers and my attorney.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21985.html](http://www.nuforc.org/webreports/reports/021/S21985.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
