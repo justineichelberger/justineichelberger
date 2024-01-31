@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 08:00:34 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 09:00:33 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1996, an anonymous witness in Buckhead Ridge (FL) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.5 - 5.5 minutes.</sub><blockquote><sub>SUMMARY:  I observed an object apparently making a controlled reentry or entry into the atmosphere.  It was the size of a medium sized star and  fairly far away.The object caught my attention by leaving a bright yellow and orange trail down toward earth at about an attitude of 40 degrees above the horizon which lasted for about 20-30 seconds before it disappeared from the highest point of origin to the lowest.  It was round and tiny like a medium magnitude star and appeared at the time of the orange trail's disappearance and proceeded to move about directly East and perfectly parallel to the horizon, not appearing to lose any altitude at all.  I noted the time at the initial observation and it travelled eastward for 5 minutes before it disappeared over some high cirrus or haze.It appeared to be NNW of me,  perhaps over Orlando around a hundred miles away.I checked and there were no shuttles up that night.  I am a private pilot, a scientist and a weather spotter, with a degrees in Psychology and Education as well as having been recognized by Who's Who for outstanding career achievement.  I was advised to record this for posterity.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/001/S01956.html](http://www.nuforc.org/webreports/reports/001/S01956.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange lights, moving slowly up from the ground, hovering and moving away to the SW.6 bright orange colored lights rose up from the ground one at a time moving slowly and sometimes stoping in a hover over the Westchester Lagoon area.  Lights appeared close to my location in downtown Anchorage.  They rose straight up, moved in a northerly direction, circled, turned and moved southwest.  The light only appeared to be on the forward side for as they turned the light faded and a dim cylinder shape could be seen probably due to the reflection of city lights suggesting that they were not very high.  They showed no navigation lights common on airplanes or helicopters.  There was too much city noise to hear if the objects made any noise themselves.  One object moved off to the east.  The event lasted about 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106827.html](http://www.nuforc.org/webreports/reports/106/S106827.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
