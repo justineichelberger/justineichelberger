@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:32 on 30 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:35 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Bragg Creek (Canada) (AB) reported seeing craft that fit the description of some 'Disk' over a period of approximately 480.0 - 480.0 minutes.</sub><blockquote><sub>At about 2am, A freind and I were awoken in his country home south of Bragg Creek. We heard a low humming noise and clattering against all the windows of the house.We looked outside, and saw 20 or more tiny blue lights in the sky. We quickly picked up the video camera and began filming. The objects were very high up in the night sky, but were clearly not human, they moved freely in any direction, or they hovered together, one ontop of the other, a few miles apart in the sky. This continued for about an hour. We noticed the objects getting much larger, as they slowly lowered themselves to earth. We managed to get one or two close ups on video, but the quality was not the best. The ridge above the house, about 1 1/2 miles to the north began to emit a daylike glow. Most of the objects were no longer visible but the humming sound had become almost deafening. Suddenly the wind began to rip at the house, out of the north. the lights pulsated on the horizen and clouds of smoke appeared to rise up slowly from each light, there were about 6 lit up areas. I picked up the phone to call someone, but the line wasnt working , it was buzzing like it does when the tv has no channel on it. We leaned out the window to see better, and listen. We heard the most erie howl, not like any coyote we had ever heard, almost a siren, but not as perfect. They came from each lit up hilltop. They were followed by a loud bloodcurdling deep scream, definatly not human. It filled the entire valley, and what followed was odd for mid winter in canada, a warm strong breeze came from the north, almost hot, and it smelled like burning plastic, or somthing close to that. The sensor light outside kept coming on, and we heard crashing and banging against the house, scratching through the walls on every side. Neither one of us saw anything for sure but we both thought we saw a tall very pale figure, that had a humanlike shape, and glowing eyes, running across the driveway. Petrified, we shut ourselves in and listened intently. We looked out the window for a bit longer to see the smoke puff up from the lit up hilltops again. and than tiny blue lights like we had seen earlier, shot up qickly from them to an instant hover, and than began getting smaller as the flew higher into the sky, they remained visible for a long time.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/048/S48949.html](http://www.nuforc.org/webreports/reports/048/S48949.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Ten mile (TN) reported seeing craft that fit the description of some 'Light' over a period of approximately Seconds - Seconds minutes.</sub><blockquote><sub>I look at the sky every night and again a light moving close to Orion's belt and it disappeared.  Close by another one a flash of light.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125563.html](http://www.nuforc.org/webreports/reports/125/S125563.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [224](http://www.nuforc.org/webreports/reports/161/S161843.html)
-- [223](http://www.nuforc.org/webreports/reports/161/S161844.html)
-- [222](http://www.nuforc.org/webreports/reports/161/S161857.html)
-- [221](http://www.nuforc.org/webreports/reports/161/S161968.html)
-- [220](http://www.nuforc.org/webreports/reports/161/S161850.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
