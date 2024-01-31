@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:31 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:38 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Summit Point (WV) reported seeing craft that fit the description of some 'Other' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>The object was conical, changing colors and hung motionless in the sky.Early in the morning. Before Dawn, approximately 0545, I saw a glowing orb in the sky, southeast over my house. The object was a glowing orb. It hung motionless in the sky. Stationary, if you will. Object glowed red on the end. Object was conical in shape, similar to a shuttlecock from badmitton. The tip was red, the middle was glowing green and the opposite end was a pale glowing yellow.((NUFORC Note:  Date is approximate.  We do not know what direction the witness was looking, but we wonder whether he might have been looking at a long-lasting contrail, which was reflecting sunlight from the rising Sun.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/028/S28247.html](http://www.nuforc.org/webreports/reports/028/S28247.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hackberry (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observatory in the SkyMe and my boyriend was heading to store before it closed approximately at 9pm. When we reached to stop sign at hwy 27 there was a strange blue ball type light coming from the west (where we have a goverment oil reserve) heading straight to us.  I kept asking my boyfriend, "what is that, what is that?"  I got my phone and reached out the window and started snapping pictures.  It appeared to reach the Hwy an seemed like it stalled a moment as if it were watching us and turn right running along side of the road heading south to the gulf of mexico, at this point it seemed to have a dark formation triangle like with a circle of lights that were vertical in shape, there was no noise, it was pretty low but not low enough to get a positive look.  It was not going that fast but was steady pulling away from us as we reached the store it crossed over the Hwy still heading south but had left the curvy roadway and was flying (floating like) over pasture and marsh area's.  I called my girlfriend  who lived in the area it appeared to be passing but she did not see anything.  It disappeared into the night.  The pictures are crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70945.html](http://www.nuforc.org/webreports/reports/070/S70945.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
