@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:32 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:40 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne (Australia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>in Australia Melbourne a triangular shaped sped in a large cirlce disapeared reapeared where i last saw it the vanishedI was looking straight up along the milky way with the Southern cross to the left of me and backwards a bit. i saw a speeding object that was in a bird formation that looked like a triangle with out a bottom that aimed the way it moved. there were 5 lights in perfect length and angle from each other it performed a wide circle movement then went towards the Saucepan and went below that and then went away in the distance i lost sigh of it then about 2 minutes later it reapeared were i last saw it, it went in a straight line turned aroud and shot off again from were i last saw it leave i did not see it again and the time was around 12:00 am and 1:00 am on the 31st((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79950.html](http://www.nuforc.org/webreports/reports/079/S79950.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Salem (OR) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.5833333333333334 - 0.5833333333333334 minutes.</sub><blockquote><sub>Formation of glowing red objectsI was approaching Front Street coming from the north east, coming up to the stop sign and prepare to turn right I had spotted something odd in the sky to the south.  I take my right turn and grab my phone while keeping an eye on what these objects could be.  Front St runs parallel with the Willamette river and along waterfront Park and Marion Street bridge spanning across the river to West Salem.  I started up my video recorder on my phone and was approaching the overhang of the bridge so I discounted the idea that these objects weren't attached to the bridge.  After coming from under the bridge that was when I was able to get a clear and unobstructed view.  These objects were solid red in color and never changed to any other color, just a constant red, I counted at least 10 of these objects all within a loose cluster, they weren't too far from one another and they appeared to be in what I can remember was a zig zag formation, like the letter "Z".  At that time I ! was approaching a stop light and was basically right under the formation of these objects.  I was stopped in my vehicle and studying these objects and as I was looking directly at them the upper part of these objects broke formation and slowly started towards the south with the bottom half heading in all different directions, so five broke south and the other five went in random directions.  What shocked me the most was when I witnessed these things break formation none of them made any sounds whatsoever.  I went back to the video I had recorded after I got back to my place of employment and watched it frame by frame and  was able to capture a few screenshots of my siting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106848.html](http://www.nuforc.org/webreports/reports/106/S106848.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
