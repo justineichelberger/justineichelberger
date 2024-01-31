@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:32 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Anchorage (AK) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Bright orange lights, moving slowly up from the ground, hovering and moving away to the SW.6 bright orange colored lights rose up from the ground one at a time moving slowly and sometimes stoping in a hover over the Westchester Lagoon area.  Lights appeared close to my location in downtown Anchorage.  They rose straight up, moved in a northerly direction, circled, turned and moved southwest.  The light only appeared to be on the forward side for as they turned the light faded and a dim cylinder shape could be seen probably due to the reflection of city lights suggesting that they were not very high.  They showed no navigation lights common on airplanes or helicopters.  There was too much city noise to hear if the objects made any noise themselves.  One object moved off to the east.  The event lasted about 10 minutes.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106827.html](http://www.nuforc.org/webreports/reports/106/S106827.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Melbourne (Australia) () reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>in Australia Melbourne a triangular shaped sped in a large cirlce disapeared reapeared where i last saw it the vanishedI was looking straight up along the milky way with the Southern cross to the left of me and backwards a bit. i saw a speeding object that was in a bird formation that looked like a triangle with out a bottom that aimed the way it moved. there were 5 lights in perfect length and angle from each other it performed a wide circle movement then went towards the Saucepan and went below that and then went away in the distance i lost sigh of it then about 2 minutes later it reapeared were i last saw it, it went in a straight line turned aroud and shot off again from were i last saw it leave i did not see it again and the time was around 12:00 am and 1:00 am on the 31st((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79950.html](http://www.nuforc.org/webreports/reports/079/S79950.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
