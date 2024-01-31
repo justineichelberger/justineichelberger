@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:34 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:01:37 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Winnipeg (Canada) (MB) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Red orb flys like plane, then comes stright down.as i was driving over the saalter bridge at this time i notyiced a bright bright star and seemed red and it was moving thought ok maybe it's a plane, but as i looked closer there was no flashing light  and it was bright read so i was thinking if its a ufo it would nove direction as i thought that it went from moving  forword like a plane to striaght down  and as i told my father theres a ufo he didnt want to hear it .. i tuned off the street but i posted a stauts and others seen it as well((NUFORC Note:  Witness provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117096.html](http://www.nuforc.org/webreports/reports/117/S117096.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Mill Valley (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Very high altitude object hovered in the eastern sky at very high altitude. Moved rapidly south and again remained stationary for a few minutes. It was a round shiny object.It did not look like an airplane and was too high. A weather balloon maybe? Extremely weird.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34840.html](http://www.nuforc.org/webreports/reports/034/S34840.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
