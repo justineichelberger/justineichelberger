@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:37 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Minneapolis/Duluth (MN) reported seeing craft that fit the description of some 'Disk' over a period of approximately Minutes - Minutes minutes.</sub><blockquote><sub>A couple driving to the north toward Duluth witness a disc-shaped object cross the road in front of them.  Sighting occurred during daylight hours, at 11:42 a.m. on January 31st, 2012.Telephoned Report:  A man and wife called to report have witnessed a disc-shaped craft cross the road in front of their automobile, as they drove from Minneapolis to Duluth.  It was so close, they reported, that they could see various details on the exterior surface of the craft.The object crossed the road in front of them, and then disappeared behind trees to their right.  Then, a short time later, it appeared again, traveling in a different direction.  It disappeared from their sight a second time, and then reappeared, providing them with a third sighting of the strange object.The couple were traveling north, and were approximately 2 hours' drive south of Duluth.The witnesses will submit their own report, sometime in the near future.  Their ability to write a report has been delayed by a death in their family.  They will submit a report, once they return to their home.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87131.html](http://www.nuforc.org/webreports/reports/087/S87131.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Evanston (WY) reported seeing craft that fit the description of some 'Light' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>2 Orange-White ORBS flying southwest WYOMING into UTAH.At 7:20pm MST, I looked outside towards the west of town, and saw a white orb.  The light was over the rooftops of the houses nearby but was probably about 5-10 miles away.I jumped in the car and left Evanston heading southwest when I realized there were two orbs...the original one higher in the sky, and a lower one.Both orbs were moving southwest and a slow speed at first, then faster.  I gave chase in my car, and stopped at a lookout ridge about 8mi southwest of town.  The lower orb was gone behind the distant mountains at this point, and the higher orb stayed in the lower sky for 15 minutes.  It was orangish in color and brilliant.  The higher orb eventually went below the distant mountain range.  They were heading in the direction of Ogden, UT.  I tried to take pics with a digital camera, but due to the dark sky, it picked up the ORB out of focus.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117108.html](http://www.nuforc.org/webreports/reports/117/S117108.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
