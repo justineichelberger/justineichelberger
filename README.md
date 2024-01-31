@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:38 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:37 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Hackberry (LA) reported seeing craft that fit the description of some 'Other' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Observatory in the SkyMe and my boyriend was heading to store before it closed approximately at 9pm. When we reached to stop sign at hwy 27 there was a strange blue ball type light coming from the west (where we have a goverment oil reserve) heading straight to us.  I kept asking my boyfriend, "what is that, what is that?"  I got my phone and reached out the window and started snapping pictures.  It appeared to reach the Hwy an seemed like it stalled a moment as if it were watching us and turn right running along side of the road heading south to the gulf of mexico, at this point it seemed to have a dark formation triangle like with a circle of lights that were vertical in shape, there was no noise, it was pretty low but not low enough to get a positive look.  It was not going that fast but was steady pulling away from us as we reached the store it crossed over the Hwy still heading south but had left the curvy roadway and was flying (floating like) over pasture and marsh area's.  I called my girlfriend  who lived in the area it appeared to be passing but she did not see anything.  It disappeared into the night.  The pictures are crazy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/070/S70945.html](http://www.nuforc.org/webreports/reports/070/S70945.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1977, an anonymous witness in Rural (MT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>Lights in the night sky tracked us after completing maintenance on an ICBMIt was the winter of 1976-1977, I was traveling south on Interstate I15 at approximately 0200 hours, in rural Montana, north of the town of Dutton.  I was a member of Minuteman Maintenance team, returning to our base at Great Falls, Montana, after completing diagnostic systems work and returning a missile to launch ready state.My team chief, an Air Force officer, and our security guard, were asleep, while I drove after a long dispatch.  I became aware of three points of red lights, in a triangular shape, that was visible just below the roof line of the truck windshield.  I had no idea what it was, and continued to keep an eye on it.  Its relative position never changed over a period of approximately ten minutes or more.My team chief woke up, and asked what I was looking at.  I directed his gaze to the lights, and told them I had been observing them for some time, and that they seemed to be keeping pace with us.  We continued to watch for another five minutes, while theorizing what they were.My officer, formerly an Air Force pilot, pointed out the light configuration was not anything he encountered in aviation.  We continued this discussion as we watched, and suddenly the lights made a 90 degree turn and left in a slight blur of red light.  It was incredibly fast.My officer and I then discussed whether or not to report it.  He was aware of pilots who made reports of unidentified objects being subject to ridicule, harassment and obstacles to career advancement.  We were both subject to the Human Reliability Program, and could have our security clearances pulled as a result.We decided to keep it to ourselves.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/145/S145337.html](http://www.nuforc.org/webreports/reports/145/S145337.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
