@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:35 on 31 January 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:45 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Cincinnati (OH) reported seeing craft that fit the description of some 'Cross' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>On January 31st, 2002, my Pinto broke down as I was driving home from work. I got out of the car, unhooked the bungee cord holding my hood closed, and as I was lifting it, I noticed a cross-shaped stationary object hovering in the eastern sky. It was the brightest object in the sky. I got on my CB radio to call a trucker to confirm what I was seeing... but it was dead. As I stepped out of the car... I suddenly lost all balance, and landed in a heap next to my car... receiving several scratches in the process. As I looked up to the sky again... the "cross" disappeared. Just then, my car started up and started to roll towards a creek bed off of the side of the road... I must have left it in gear. I started to walk home... and managed to catch a ride from a police officer.This account was also recorded in the Hamilton County Sherriff's Department booking office, as witnessed by two police officers and my attorney.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21985.html](http://www.nuforc.org/webreports/reports/021/S21985.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tomball (TX) reported seeing craft that fit the description of some 'Circle' over a period of approximately seconds - seconds minutes.</sub><blockquote><sub>I was traveling north on hwy 290 into Tomball, TX. I saw a round, green object just above the horizon travelling west to east.  I didn't see where the object originally came from.  It was in my sight from above the horizon travelling east.  I didn't see where it landed but it was bright green with yellow around it.  It lasted only a few seconds and was gone. It was very bright and I thought it would be reported by hundreds.  I am a secretary and I believe what I saw was a meteor.  It was beautiful.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87110.html](http://www.nuforc.org/webreports/reports/087/S87110.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [232](http://www.nuforc.org/webreports/reports/161/S161841.html)
-- [231](http://www.nuforc.org/webreports/reports/161/S161858.html)
-- [230](http://www.nuforc.org/webreports/reports/161/S161859.html)
-- [229](http://www.nuforc.org/webreports/reports/161/S161879.html)
-- [228](http://www.nuforc.org/webreports/reports/161/S161855.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
