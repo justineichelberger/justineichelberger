@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:36 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:41 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cromwell (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw large craft flying silently with several lights on it.  Some blinking.  About the size of a couple school buses, side by side.  Not completely certain on shape but triangle seems to be most accurate description.  It blended in with the stary night until it got close.  The lights made it impossible to make out what the craft actually looked like and you could only see a shadowy outline.  My sister and I saw it up close standing outside a church.  I could have threw a rock and hit it.  It was completely silent and moving slowly.  It came to a complete stop.  It turned on several more lights that appeared to be spot lights that gave a loud noise when they came on.  One light was centered right on us.  The craft then made a loud screeching sound as it turned around.  It then was silent again and it hovered off over the top of the trees.  We watched it for a couple minutes until it disappeared over the horizon beyond the trees.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139051.html](http://www.nuforc.org/webreports/reports/139/S139051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Greer (SC) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>I observed a white, illuminating dot hovering in the night sky and then elevating towards the sky and disappearing.It was my mother and I and we were pulling into our neighborhood late at night, after a trip to Charleston.  As we approached the house, I saw a small white light in the air that looked like a star.  A second after noticing it, it ascended at a rapid elevation into the sky until disappearing.  To note, the object rate of acceleration was too high to have been a helicopter, so I Immediately discarded that idea.  I did however, suspect it to be an LED helicopter, which are small, colorfully illuminated toys that are flung up into the air at a high speed.  If not a manned craft of some nature, this would appear to be the most likely explanation. However, this white object lacked any of the flashing colors of the LED toy (which would consist of blue, red, green, etc), and did not fall back to the ground at any noticeable time.  It merely hung in the sky for a single second, and then took off into the sky.  I myself am very open minded to the possible existence of extraterrestrial UFOs; however, I also firmly believe that the majority of such sightings are either hoaxes or misinterpretations.  This understanding is what prevented me from making a post earlier when it happened. However, after learning through research that there has been a number of small UFO sightings in the unexpected area of upstate South Carolina, I thought that perhaps mentioning my quick encounter could be worth while.  Do note that I am not making a firm conclusion that it was of extraterrestrial origins, but rather that I cannot come to any definite conclusion to what I saw.((NUFORC Note:  Source of the report elects to remain anonymous; provides no contact information.  PD))((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/134/S134617.html](http://www.nuforc.org/webreports/reports/134/S134617.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
