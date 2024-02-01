@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:08:50 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:35 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Cottage Grove (OR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>black silent triangle flighs over dorena lake ruinning my fishing tripI was fishing in the lake when i saw a the silent black triangle assend out of the cloud cover I whatched it bank through the cannon and go up and over a nere hill, it was the size of a small jet, and I asummed it was a stelth fighter. i told my parents and not much more was mentioned about it.  I remember thinking what I woulden't give to be the pilot.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62809.html](http://www.nuforc.org/webreports/reports/062/S62809.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Val-Court (Canada) (QC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Traveling through these small villages from Drummondville into Val-Court Quebec at six pm we arrived at her parents' place as her mom had made a hot meal of this time for us.  It was six o'clock pm.  We came in and we ate. I give it six thirty.That this time this same object was in back behind the house where there is a private road and it was cold,  We just walked up a little ways from the house.  As this Object where it happen was in Val-Court Quebec.Well, this craft as I and my wife witness had lights red white blue it looked like a top with a like A tear drop it was circling in one position.  Something close to that like a Christmas Tree ornament shining bright like at the point.  I had blinked my lantern light on it to see if would move"   And it had moved to my wife and my direction very fast.  So my wife was scared that it would pick us up.  So we ran in the house on that very cold evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86385.html](http://www.nuforc.org/webreports/reports/086/S86385.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
