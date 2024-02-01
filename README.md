@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:36 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:34 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw red floating orbs floating over my house in Lauderdale.I was sitting on the back porch, when I saw a red light floating across the sky.  I didn't think anything of it at first because my house is right next to the airport.  However, as it got closer I realized it was not an aircraft from the airport.  It was flying relatively low, and it was completely silent.  It floated over the house and then disappeared.  Two more floating in the same path came by within five minutes.  I saw three total.  I wasn't able to completely focus on it as it flew over.  It appeared to be a red glowing orb that twinkled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117087.html](http://www.nuforc.org/webreports/reports/117/S117087.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hawthorne (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>Two white round star objects moving very slowly over Los Angeles during daytime bright blue skies.skiesLooking north,to over Los Angeles,Ca.from Hawthorne,Ca.from my large sit-down looking out window,listening to radio,I saw what looked to be a white daytime star moving very slowly north west against a very blue sky.It moved in one direction a little,then in another,then at times coming to a complete stop.I then wondered if it was a white baloon....but a baloon would have been wind blown east,not moving a little,then stopping.Then just after 12 noon out of no-where another white star appeared fairly near-by the other white star looking object.Yes,they both moved just a little,with one seemingly looking down at Hollywood,and the other looking down at the San Frenando Valley parts of Los Angeles....8 minutes after 12 noon my eyes were too light-struct to keep watching,so gave up following them.Later after 10 minutes I checked to see if they were still there,but saw nothing futher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34830.html](http://www.nuforc.org/webreports/reports/034/S34830.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
