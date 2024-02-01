@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:45 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in lynwood (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>cluster of objects in the sky for about 1 hrApproximately 2009 I was flying a kite with my child at my parents home using a fishing reel and using two roles of string. The kite was soo far away that all I could see  was a small dot on the sky. Every few minutes I would lose site of the kite and had to scan the sky for it. On one of this occasions as I was looking for the kite I came upon a strange site in the sky. I saw multiple dots in the sky approximately one dot surrounded by about eight dots. At first I thought that they where air crafts, for the reason that my parents live close to LAX and there is an air route over head. After a few minutes I continue to focus on the clusters of dots even after bring in the kite.In my mind I thought they where aircraft as I use to observe them during my time as an Air Traffic Controller at a tower. But the cluster of dots did not move or change pater, then i thought that it was a combination of planes and aircraft in the distance but they would still not move. After about half an hour I decided to look for my camera to use the zoom lens to see if I could identify the dots. After looking for my camera I found a different camera that was a digital with auto zoom. I started to scan the sky to look for the dots that where originally in a circle but I found that  the dots started to skater. I attempted to use the focus on the camera but the dots would not come in to focus. Eventually I took some pictures but all I can see are dots in the sky being skater. As the dots held in place for close to an hour I do know that they where not airplanes or planets/stars. After a few minutes I was unable to find the dots and I was not able to take the picture of the ! cluster when they were form in to a circle</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/162/S162228.html](http://www.nuforc.org/webreports/reports/162/S162228.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1997, an anonymous witness in Cromwell (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw large craft flying silently with several lights on it.  Some blinking.  About the size of a couple school buses, side by side.  Not completely certain on shape but triangle seems to be most accurate description.  It blended in with the stary night until it got close.  The lights made it impossible to make out what the craft actually looked like and you could only see a shadowy outline.  My sister and I saw it up close standing outside a church.  I could have threw a rock and hit it.  It was completely silent and moving slowly.  It came to a complete stop.  It turned on several more lights that appeared to be spot lights that gave a loud noise when they came on.  One light was centered right on us.  The craft then made a loud screeching sound as it turned around.  It then was silent again and it hovered off over the top of the trees.  We watched it for a couple minutes until it disappeared over the horizon beyond the trees.((NUFORC Note:  Witness indicates that the date of the event is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139051.html](http://www.nuforc.org/webreports/reports/139/S139051.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
