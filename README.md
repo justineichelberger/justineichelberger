@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 15:00:43 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 16:00:41 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Boutte (LA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>A slow moving object with rotating lights in the early morning sky, 10 miles southwest of New Orleans.On the morning of February 1, 2009, at approximately 0300hrs, the reporting officer observed an object in the sky at a 45 degree angle above the horizon.  At arms length the object was 3 inches wide as seen between index finger and thumb.  The object is estimated to have been 1/4 of a mile away from the reporting officer's location at the beginning of sighting.  The object was moving in a southerly direction at a very slow rate of speed.  The object stopped and was stationary for close to 2 and one half minutes before it continued to move on.  The object had on one side a rotating blue light, the other side had a rotating white and yellow light.  The center of the object had a larger red light that rolled in an vertical manner, not a rotating horizontal manner as the other lights.  The reporting officer was outside and no sound was heard.  No shape was noticed, though the lights were appearing to be on opposite ends on each other, with the center light centered between them and slightly lower.  The event lasted 9min 30 seconds to 10min.  I am a deputy sheriff in the same parish as the sighting.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68383.html](http://www.nuforc.org/webreports/reports/068/S68383.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Windsor (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very large craft hovering above me, complete silence, apprx 150 ft wide, one beam underneath and one round light on each side.Heading south on Sullivan Avenue, I noticed a very large plane or military helicopter moving extremely slow. Within seconds i realized it was neither.  This object was practically hovering above me without any sound.  One glowing strobe light across the entire underside, with one round light on each end.  These lights were not bright, somewhat muted. It also seemed as if it was composed of box like shapes within the sphere.  It began to slowly change direction, and when I turned my vehicle around towards Rt 5, it was gone.  No sound, hovering above me, probably 150 ft oval/square shape…I was the only vehicle in all directions, complete silence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125584.html](http://www.nuforc.org/webreports/reports/125/S125584.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
