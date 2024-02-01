@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:34 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Hawthorne (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 11.0 - 11.0 minutes.</sub><blockquote><sub>Two white round star objects moving very slowly over Los Angeles during daytime bright blue skies.skiesLooking north,to over Los Angeles,Ca.from Hawthorne,Ca.from my large sit-down looking out window,listening to radio,I saw what looked to be a white daytime star moving very slowly north west against a very blue sky.It moved in one direction a little,then in another,then at times coming to a complete stop.I then wondered if it was a white baloon....but a baloon would have been wind blown east,not moving a little,then stopping.Then just after 12 noon out of no-where another white star appeared fairly near-by the other white star looking object.Yes,they both moved just a little,with one seemingly looking down at Hollywood,and the other looking down at the San Frenando Valley parts of Los Angeles....8 minutes after 12 noon my eyes were too light-struct to keep watching,so gave up following them.Later after 10 minutes I checked to see if they were still there,but saw nothing futher.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34830.html](http://www.nuforc.org/webreports/reports/034/S34830.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Flagstaff (AZ) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.06666666666666667 - 0.06666666666666667 minutes.</sub><blockquote><sub>Huge cloaked UFO over FlagstaffToday I felt compelled to tell this small story of my sighting that occured in the winter of 2000.  I have not taken the opportunity to report this to any official agency only because of local redicule.  But anyway, here is my story.It was in the late evening and my wife worked the grave yard shift so my son and myself went out to start and gas up her vehicle.  As we stepped out of our apartment doorway we just happened to look off to our upper left at the sametime.  What we saw was unbelieveable.  What ever it was, it was quite huge according to my recollection.  This thing was partially cloaked.  The only way I can describe is when you would watch the Romulan spaceship on Star Trek cloak itself.  You can see almost right thru it, but at the same time you kno something is there.  This thing flew at a high rate of speed going from SE to NW with absolutely no sound at all.  Nothing. In the movie, Aliens vs Predator. There is a seen that reminded my son(now age 23) of that time.  Its the seen where the Antarctic Team is looking down the tunnel in the ice and all of a sudden the Predator spacecraft flies over head with no sound at all.  The duration of that particular seen was about the same duration as my son and I! 's encounter.I could safely say that this UFO was approxiamately a football field or two long.  As to the width. We could'nt tell only because of the angle we were at.  I felt stunned after what we saw.  I sent my boy to bed and decided that I should stay up late in case of any occurances.  I'm full blooded native american.  I have seen things that would turn alot of other folks' heads completely around.  This is one of those things that I'll remember for the rest of my life.((NUFORC Note:  Witness indicates that the date of the sighting is approximate.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/080/S80325.html](http://www.nuforc.org/webreports/reports/080/S80325.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
