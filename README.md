@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:34 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:32 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Canton (TX) reported seeing craft that fit the description of some 'Other' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>about five moving "stars", not a meteor shower no shooting stars, to slow, airplanes apeared afterward.Last Sunday, it was pretty nice weather outside so I decided to go out on the porch. We live in a house with a lot of trees around it so I had to position myself just right to see the stars. I had been looking up for about 30 seconds and then I saw something that caught my attention. It appeared to be a star slowly moving across the sky. I could tell it wasn't an airplane and it was moving to slow to be a shooting star.I blew it off for a few minutes thinking my mind was playing tricks on me until I saw another one.  After I watched this one slowly drift across the sky, I raced inside to get my sister to come see this.  She walked with me outside and we looked up at the sky.  I explained to her what I saw and she wanted to go back in.  I told her just stay a few more minutes.  Sure enough about a minute and 30 seconds later, we saw another one!  We watched as i behaved just as the other two and then it disappeared.As we sat there a few more minutes we watched a few more pass over us.  We finally grew tired of watching and went into the house.  About 5-10 minutes later we went back out side.  We began watching the sky again and saw a number of airplanes now circling above.  We saw no more "UFOs" after that so we went back inside.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68512.html](http://www.nuforc.org/webreports/reports/068/S68512.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Fleet of silver UFO trio fly north at high speed.I am filing a report for my wife since she is a new United States Citizen, so is unfamiliar to this organization to report a sighting herself.  She stated that on February 1, of 2014, there was a faintly visible fleet of 3 silvery objects traveling in triangular-shaped formation heading north at high speed.  She stated that there was clearly 3 separate object rather than 1 since they all had a random drift pattern in flight.  No lights or sound were noticed while she watched, these objects move in a direct path in the daylight sky.  She was only able to see these after noticing a plane flying close to the area of the sighting. After viewing the trio of UFOs she said there appeared to be a military-type plane that followed (after the objects left) the same direction the craft went, only moving slower.  Perhaps classified Air Force surveillance?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106882.html](http://www.nuforc.org/webreports/reports/106/S106882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
