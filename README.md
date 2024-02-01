@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 16:00:41 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 17:00:36 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in South Windsor (CT) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Very large craft hovering above me, complete silence, apprx 150 ft wide, one beam underneath and one round light on each side.Heading south on Sullivan Avenue, I noticed a very large plane or military helicopter moving extremely slow. Within seconds i realized it was neither.  This object was practically hovering above me without any sound.  One glowing strobe light across the entire underside, with one round light on each end.  These lights were not bright, somewhat muted. It also seemed as if it was composed of box like shapes within the sphere.  It began to slowly change direction, and when I turned my vehicle around towards Rt 5, it was gone.  No sound, hovering above me, probably 150 ft oval/square shape…I was the only vehicle in all directions, complete silence.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125584.html](http://www.nuforc.org/webreports/reports/125/S125584.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Plantation (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Saw red floating orbs floating over my house in Lauderdale.I was sitting on the back porch, when I saw a red light floating across the sky.  I didn't think anything of it at first because my house is right next to the airport.  However, as it got closer I realized it was not an aircraft from the airport.  It was flying relatively low, and it was completely silent.  It floated over the house and then disappeared.  Two more floating in the same path came by within five minutes.  I saw three total.  I wasn't able to completely focus on it as it flew over.  It appeared to be a red glowing orb that twinkled.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117087.html](http://www.nuforc.org/webreports/reports/117/S117087.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
