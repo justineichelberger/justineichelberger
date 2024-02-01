@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:35 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:44 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Val-Court (Canada) (QC) reported seeing craft that fit the description of some 'Teardrop' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Traveling through these small villages from Drummondville into Val-Court Quebec at six pm we arrived at her parents' place as her mom had made a hot meal of this time for us.  It was six o'clock pm.  We came in and we ate. I give it six thirty.That this time this same object was in back behind the house where there is a private road and it was cold,  We just walked up a little ways from the house.  As this Object where it happen was in Val-Court Quebec.Well, this craft as I and my wife witness had lights red white blue it looked like a top with a like A tear drop it was circling in one position.  Something close to that like a Christmas Tree ornament shining bright like at the point.  I had blinked my lantern light on it to see if would move"   And it had moved to my wife and my direction very fast.  So my wife was scared that it would pick us up.  So we ran in the house on that very cold evening.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86385.html](http://www.nuforc.org/webreports/reports/086/S86385.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Fleet of silver UFO trio fly north at high speed.I am filing a report for my wife since she is a new United States Citizen, so is unfamiliar to this organization to report a sighting herself.  She stated that on February 1, of 2014, there was a faintly visible fleet of 3 silvery objects traveling in triangular-shaped formation heading north at high speed.  She stated that there was clearly 3 separate object rather than 1 since they all had a random drift pattern in flight.  No lights or sound were noticed while she watched, these objects move in a direct path in the daylight sky.  She was only able to see these after noticing a plane flying close to the area of the sighting. After viewing the trio of UFOs she said there appeared to be a military-type plane that followed (after the objects left) the same direction the craft went, only moving slower.  Perhaps classified Air Force surveillance?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106882.html](http://www.nuforc.org/webreports/reports/106/S106882.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
