@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:32 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:33 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Sacramento (CA) reported seeing craft that fit the description of some 'Formation' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Fleet of silver UFO trio fly north at high speed.I am filing a report for my wife since she is a new United States Citizen, so is unfamiliar to this organization to report a sighting herself.  She stated that on February 1, of 2014, there was a faintly visible fleet of 3 silvery objects traveling in triangular-shaped formation heading north at high speed.  She stated that there was clearly 3 separate object rather than 1 since they all had a random drift pattern in flight.  No lights or sound were noticed while she watched, these objects move in a direct path in the daylight sky.  She was only able to see these after noticing a plane flying close to the area of the sighting. After viewing the trio of UFOs she said there appeared to be a military-type plane that followed (after the objects left) the same direction the craft went, only moving slower.  Perhaps classified Air Force surveillance?</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106882.html](http://www.nuforc.org/webreports/reports/106/S106882.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Grand Junction (CO) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>2  bright  orbs of lightbrilliant blue/red/clear light objects seen moving up and down in a controlled manner. there was two of these ojects near each other. they were not police helicopers.  we were close enough to hear them if they were making a sound.  There was no sound from them. other aircraft were noted flying into grand junction airport.  These aircraft would have seen these light objects.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96171.html](http://www.nuforc.org/webreports/reports/096/S96171.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
