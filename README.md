@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:42 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:21:31 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Harcourt (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white diamond with red lower surfaceObject appeared just over tree line. Very bright with red light on lower surface.Within minutes moved erratically left and right, up and down. Within ten minutes it had moved further into the distance. Still visible at 6:00 am in the south eastern sky.((NUFORC Note:  Both Venus and Mars are in the eastern sky at this time of the morning.  We do not know what the witness observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27489.html](http://www.nuforc.org/webreports/reports/027/S27489.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Chawton (The Village of) (UK/England) () reported seeing craft that fit the description of some 'Light' over a period of approximately ONGOING - ONGOING minutes.</sub><blockquote><sub>Bright White light staying VERY Still increasing and fading continually in brighness also giving of an orange and definate red colour.I came out of my parents house and immediately in front of me saw a very bright white light in the night sky not that far away above the nearby village of chawton about a thousand feet from the ground i stood and watched it and assumed that it was a normal helicopter or other aircraft and that I would see it move across sky which it did'nt it definately is not a star as it is to close to the ground the light seems to increase in brightness and then fade and then increase once more in fact after 10 minutes or so it has still not moved from it's location and is still there now as I write this as i can see it from out of my window.  I am baffled as to what it is and why it has not moved the light also is giving of a slightly orange colour I have also just been outside and looked at it again and it is now emitting a particually scarlet/bright red beam like light I have seen Geniune Alien craft in the past (this took place almost 10 years ago on June 22nd 2002 and also on july 1st 2002 To be precise) and have very close up footage on video cassette of it i.e a pure milk white disc/saucer shaped craft even my mother did not know what this object was and concluded the same as me.I have just been outside again and the object has now gone it was very out of the blue and was very strange indeed don't know what it could have been as normal aircraft could not stay that still for that long.((NUFORC Note:  We wonder whether the object may have been a celestial body, perhaps Venus, or Sirius.  PD))((NUFORC Note:  One of multiple reports from same source, who provides a minimum of contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86962.html](http://www.nuforc.org/webreports/reports/086/S86962.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
