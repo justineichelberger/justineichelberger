@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:05:52 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:31 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Shady Valley (TN) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 60.0 - 60.0 minutes.</sub><blockquote><sub>Walking into my garage, I see a set of 2 very bright lights over the treetops about 150 meters to my northeast, they dont appear to be moving although slight movement though very slow is seen drifting to the right from where im looking at it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153011.html](http://www.nuforc.org/webreports/reports/153/S153011.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>There were 2 sets of 4 all in a straight line.  Slowly one by one the bright light started to disappear (as if the light was being turned off by a dimmer switch) in the first set of 4.  The second set of 4 - the second light from the left slowly went downward toward the earth. and then slowly disappeared. Then the first light, fourth light and third light (in that order) slowly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21659.html](http://www.nuforc.org/webreports/reports/021/S21659.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
