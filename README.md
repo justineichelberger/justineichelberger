@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:42 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:36 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rotterdam (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright white lights in a bowed triangular shape moving from ESE to WNW towards Schenectady, NYI was looking out my back window to watch my dog after letting her out in the morning when I spotted a bright light in the East-South-East sky.   At first I thought it was a star.  I looked away for a moment and when I looked back it had moved higher in the sky towards me.Soon it got bigger and there was a triangular shape with four or five white lights on each side.  They all blinked off twice and back on.  The three sides were bowed outwards.  It went over my house so I ran to the front of my house but it never reappeared.  As it got lighter I noticed it was cloudy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87101.html](http://www.nuforc.org/webreports/reports/087/S87101.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Henderson (NY) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>A large bright orange colored light with 2 or 3 smaller lights surrounding it.saw a bright orangish light hovering over lake ontario. thought it might have been mars or venus because of the color but it was a lot bigger and brighter than i've ever seen either of them.  the object seemed to stay still in the sky for about 10 or 15 minutes. when i looked at it through a pair of binoculars i could see a red light and a white colored light and possibly a third light that looked like it may have been white.  it looked almost like the lights were in a triangular shape but it was hard to tell because there was a lot of glare from the brightness.  after a while it appeared to move to the right(north) a little bit and then after sitting still for a couple more minutes it slowly started moving in what appeared to be a southwestern direction (toward oswego ny) until i was no longer able to see it over the tree line.((NUFORC Note:  Sighting of Venus.  Timing is correct for Venus, which currently is in the southwest sky, during the early evening.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86973.html](http://www.nuforc.org/webreports/reports/086/S86973.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
