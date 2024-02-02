@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:44 on 1 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:42 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Kent (WA) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>This was a spherical object adjacent to an airplane contrailI was on my back deck observing through binoculars an airplane approaching from the south laying down a contrail when I noticed a spherical object adjacent to the contrail (it was slightly east of the trail if the object was at the same altitude) and about 5 degrees behind the plane.  The object was dark except for a lighted area in the lower lefthand quadrant.  The lighted area was changing from silver to orange and back at a rate of about 5 to 7 seconds per cycle.  I observed this object for about three minutes and it appeared to be stationary with respect to the contrail and was at about 60 degrees off of the horizon slightly west of due south.  I pulled the binoculars away from my eyes expecting to see it with the naked eye but could not and was not able to locate it thereafter. I called the Renton Airport to see if they had observed anything on radar at that time.  They explained that their radar does not have the range to locate anything in that area (South Kent to North Auburn) and directed me to the Seattle Air Traffic Center.  I called them and left a message but have not heard back at this time.  The person I talked with at the Renton Airport was very interested and asked if I would give him a call back if anything was noted by the Seattle Center. By way of background I have a degree in Mechanical Engineering.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41713.html](http://www.nuforc.org/webreports/reports/041/S41713.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Harcourt (Canada) (ON) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright white diamond with red lower surfaceObject appeared just over tree line. Very bright with red light on lower surface.Within minutes moved erratically left and right, up and down. Within ten minutes it had moved further into the distance. Still visible at 6:00 am in the south eastern sky.((NUFORC Note:  Both Venus and Mars are in the eastern sky at this time of the morning.  We do not know what the witness observed.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27489.html](http://www.nuforc.org/webreports/reports/027/S27489.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [349](http://www.nuforc.org/webreports/reports/162/S162050.html)
-- [348](http://www.nuforc.org/webreports/reports/161/S161878.html)
-- [347](http://www.nuforc.org/webreports/reports/162/S162086.html)
-- [346](http://www.nuforc.org/webreports/reports/162/S162094.html)
-- [345](http://www.nuforc.org/webreports/reports/162/S162095.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
