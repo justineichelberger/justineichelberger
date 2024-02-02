@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 11:00:36 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 12:00:37 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ourinhos (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Irregular trajectory speed and jumpOn 02/02/2012 21:10 was in the garage of my house when I saw the first object he had spherical shape with a reddish blue color was opaque. At first thought it was a satellite for its shape and trajectory, but he jumped up speed disappearing.The second had a strong and intense glare with dark center and caught my attention because of their trajectory. He moved slowly, stopped, turned and followed a little later on, stopped again and went back a little further back, was so far as I could observe, after the object disappeared from distant trees.The first and the second was to the north west of my city.The time is clear and cloudless as the sky and great visibilade stars. Temperature 28 degrees Celsus.Location and Data General Ourinhos SP Territorial unit area: 296 km2 Latitude of the district headquarters of the city: 22.97889 Â°  Longitude of the district headquarters of the city: 49.87056 Â°  flat geography of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86970.html](http://www.nuforc.org/webreports/reports/086/S86970.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Islandia (NY) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Moon like object passing sun and remaining to the right.While looking for a parking spot at B.J.’s in Islandia, LI, N.Y. my daughter yelled for us all to look toward the sun. She saw what she assumed was the moon pass quickly in front the sun. By the time I looked, about 15 seconds later the moon like object was positioned to the right and lightly below the sun. At first I thought, eclipse ? But I did not hear of any expected. We observed it for a few moments. It just sat there motionless. Clouds passed in front of both the sun and the object and it remained there. I checked online to see if there was an eclipse and as I thought, there was not. Not to mention this object passed in front of the sun in a matter of 5 second. She was the only one to see it pass in front of the sun. My self and my other daughter saw the object, as well as my other daughter, sitting there. It was a mild day for February and partly cloudy. Macarthur Airport is approximately 8 mile east of this location.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61377.html](http://www.nuforc.org/webreports/reports/061/S61377.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
