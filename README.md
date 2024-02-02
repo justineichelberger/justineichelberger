@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:33 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:40 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Atlanta (GA) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Rectangular Gray Object Seen over Atlanta GAI was exiting the Wachovia Bank at 2942 N Druid Hills Rd NE Atlanta, GA 30329, across from the Toco Hills Shopping Center at approximately 14:05, facing SW.  It was an overcast day, with intermittent showers.  As I was opening my umbrella, I noticed something in the air.  Looking carefully, I see a boxy, rectangular, dark gray shape tumbling through the air.  There was no sound coming from it, and it appeared to be a long way away.  It, for all intents and purposes, looked like a bag inflated with some lighter than air gas that had been released, and yet it did retain its shape rather well.  I reached for my digital camera in my pocket, and took three pictures (I will include these as attachments).  I also took a short video clip (about 1:01), but nothing was obvious when I watched it later.  Approximately 3-4 minutes after I first sighted the object, it disappeared into the cloud cover.I must say that I may not be the ideal witness for such an event.  I am a science fiction fan, as well as an amateur digital artist.  I have also been described as, " slightly out of touch" with reality.  However,  I do not make up stories like this.  I am not a glory hound, nor do I believe that aliens visit our planet.  Based on our present understanding of physical law, visiting even a relatively near star (like, say Alpha Centauri, 4.3 LY away) would be a tremendous undertaking.  So, my personal beliefs belie an extraterrestrial origin.  However, It was definitely something that was flying, and I have no idea what it really was, therefore it meets the requirement of being a UFO, in my book.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68421.html](http://www.nuforc.org/webreports/reports/068/S68421.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2004, an anonymous witness in Tillamook (OR) reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Brightly lit cylindrical object rises slowly above Tillamook Bay, OregonDriving north on Highway 101 to my home in Bay City, OR I observed a bright cylinder shaped light approximately 500 feet above the south end of Tillamook Bay.  At my home in Bay City, OR I observed the bright light through binoculars.  The object appeared to be a fully illuminated cylinder that was rising slowly in a northwesterly direction.  The cylinder entered a broken cloud cover and illuminated the clouds around the cylinder.  The cylinder continued to rise and disappeared from view after approximately 5 minutes.  Approximately 5 minutes after the cylinder disappeared, jet fighter aircraft were heard above the Bay City, OR area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/034/S34841.html](http://www.nuforc.org/webreports/reports/034/S34841.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
