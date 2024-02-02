@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:33 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:43 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Hartford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately months - months minutes.</sub><blockquote><sub>Two sets of blinking lights in the sky.  Can be seen on clear nights.I have seen a blinking light in the sky during many nights.  I have pointed it out to many of my friends and they all see it too.  There are 3 different colors that it blinks rapidly.  Red, White, and Blue.  Just recently I was able to see the lights very well in the clear night and I looked at it with binoculars and was able to see it a little clearer and it is definetly blinking white blue and red.  I had my friend look at it too and she saw it in the binoculars as well.  Then I looked up the street that we were standing on and there was another blinking light off in the distance that wasn't moving either.  The lights were both staying in the same places for the whole entire night and I can go out on a clear night and point them out to anyone who might be able to explain what it is.  If there is someone that I can contact to investigate these strange lights please email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41741.html](http://www.nuforc.org/webreports/reports/041/S41741.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow oblong object tracked across evening sky over Sandpoint, ID.Between hours of roughly 5:30 pm and 6:30 pm PST on Feb 2, 2019, we were sitting in our hot tub.  It was dark night conditions with clouds and no stars visible.  Suddenly a yellow oblong shape tracked across the sky in a N - NNE route.  It would have been below the cloud cover.  There was no 'tail'.  It was distinctly not round, and not fully teardrop, but just oblong.  The event didn’t last more than 1 minute, and though I didn’t see it 'appear' because the hot tub lid obscured the view, it disappeared as a sort of blur that seemed to me that it was being obscured by clouds, as it headed away from us.  It was never directly over us as if trying to BE over us personally.  It just tracked along a bit to the east of our exact position as we looked up.It was a golden yellow color like campfire flame, not white or red or green as would normal aircraft lights be.  The entire shape was the same color, not blinking or shifting intensity, and not leaving behind a trail or tail of any kind.  The full shape just moved across the sky.  And there was no noise at all, but then again, we were in the hot tub and that was making noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144763.html](http://www.nuforc.org/webreports/reports/144/S144763.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
