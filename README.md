@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:31 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:39 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Lake Wales (FL) reported seeing craft that fit the description of some 'Egg' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>There were 2 sets of 4 all in a straight line.  Slowly one by one the bright light started to disappear (as if the light was being turned off by a dimmer switch) in the first set of 4.  The second set of 4 - the second light from the left slowly went downward toward the earth. and then slowly disappeared. Then the first light, fourth light and third light (in that order) slowly disappeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21659.html](http://www.nuforc.org/webreports/reports/021/S21659.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in New Hartford (CT) reported seeing craft that fit the description of some 'Light' over a period of approximately months - months minutes.</sub><blockquote><sub>Two sets of blinking lights in the sky.  Can be seen on clear nights.I have seen a blinking light in the sky during many nights.  I have pointed it out to many of my friends and they all see it too.  There are 3 different colors that it blinks rapidly.  Red, White, and Blue.  Just recently I was able to see the lights very well in the clear night and I looked at it with binoculars and was able to see it a little clearer and it is definetly blinking white blue and red.  I had my friend look at it too and she saw it in the binoculars as well.  Then I looked up the street that we were standing on and there was another blinking light off in the distance that wasn't moving either.  The lights were both staying in the same places for the whole entire night and I can go out on a clear night and point them out to anyone who might be able to explain what it is.  If there is someone that I can contact to investigate these strange lights please email me at ((e-address deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41741.html](http://www.nuforc.org/webreports/reports/041/S41741.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
