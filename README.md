@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:48 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:42 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Harrington (WA) reported seeing craft that fit the description of some 'Oval' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>very slow moving object in night skyOn February 2, 2017, I saw a lighted object moving through the sky straight north.  It was moving very slowly, at a low altitude.  It was 1:35 am when I spotted this through the window.  I watched this for about 10 minutes in the house.I stepped outside to continue watching.  It seemed to be about 2000 feet above the buildings. I didn’t hear any engine noise or any noise of any kind, no running noise.  There were blinking red and green lights on opposite corners of the object.  It did not appear to be an airplane, helicopter, etc.We live in an area where there are frequent airplanes, helicopters, life bird flights at various times of day.  The object I saw did not seem to be any of that.  What I saw seemed to be egg-shaped or oblong, about 30 to 35 feet across both ways.((NUFORC Note:  The source of this report is well known to us, and we hold him in very high regard.  We strongly suspect that the event is described quite accurately in this report.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/133/S133026.html](http://www.nuforc.org/webreports/reports/133/S133026.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Rotterdam (NY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>Bright white lights in a bowed triangular shape moving from ESE to WNW towards Schenectady, NYI was looking out my back window to watch my dog after letting her out in the morning when I spotted a bright light in the East-South-East sky.   At first I thought it was a star.  I looked away for a moment and when I looked back it had moved higher in the sky towards me.Soon it got bigger and there was a triangular shape with four or five white lights on each side.  They all blinked off twice and back on.  The three sides were bowed outwards.  It went over my house so I ran to the front of my house but it never reappeared.  As it got lighter I noticed it was cloudy.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87101.html](http://www.nuforc.org/webreports/reports/087/S87101.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
