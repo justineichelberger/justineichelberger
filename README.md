@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:35 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:44 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Highland (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>SEVERAL ORANGE GLOWING LIGHTS-LIGHTS WOULD GET DIMMER AT TIMES-SOULNDLESS-OVER OLD AFB.WE WERE LOOKING TOWASRD THE EAST SIDE OF THE OLD NORTON AFB NEAR ALABAMA ST. HIGHLAND CALIF.  THESE WERE ROUND GLOWING ORANGE LIGHTS AS THEY WOULD RISE UPWARD THEY WOULD GET DULLER IN COLOR, THEN DISAPPEAR, THEN A COUPLE MORE WOULD APPEAR....NO SOUND AT ALL.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106885.html](http://www.nuforc.org/webreports/reports/106/S106885.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Spring Grove (PA) reported seeing craft that fit the description of some 'Flash' over a period of approximately 0.016666666666666666 - 0.016666666666666666 minutes.</sub><blockquote><sub>Flash across the midnight sky.My boyfriend and I were on the way home at about 12:15am.  As I gazed out the windshield a streak of bluish white light flashed across my view from left to right.  It was about midway between the top of a hill and the the top of my sight.  It happened so fast, and then it was gone.  I later asked my boyfriend, who was driving, if he had seen it, and he hadn't.  I have never seen anything like it before.  We were quite near a small airport, but this was  not a plane.  A minute or so later there was a high-pitched screeching noise, almost like the sound of electrical saw sawing metal or something.  It was very loud and both of us heard it.  We checked out his car this morning and found nothing wrong with it.((NUFORC Note:  We wonder if the witness means a time and date of 0015 hrs. on the morning of Sunday, 03FE02.  We will attempt to clarify the date.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21644.html](http://www.nuforc.org/webreports/reports/021/S21644.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
