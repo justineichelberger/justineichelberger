@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:56 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:32 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Elk Grove (CA) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Large Mechanical Black Widow Measures BrainI woke to a sound like mechanical gears turning.  I opened my eyes and saw what looked like a giant black widow directly above me.  It seemed to be as large as the ceiling, although, since it was directly above me, I'm not sure if it was just too close to me and therefore, I couldn't tell the exact size.  The eyes were red like laser dots.  The body was also black, but made of many round disks like gears that constantly turned - one on top of the other, seemingly as if measuring something.  The legs looked mechanical, as if jointed like a mechanical spider would be.  They seemed to be moving up and down in relation to whatever the gears were doing, each leg individually, and in a super creepy way, as if to scare someone who was arachnophobic like myself.  I knew that it was measuring my brain.  I tend to be sensitive spiritually, and I just simply knew what it was doing.  It was measuring every part of my brain, and also every flaw in it, every tendency I had in my personality, just anything that can be measured in my brain, such as how quickly the synapses responded.  Black widows are some of my worst fears so I was pretty much petrified.  My response was to hide under my covers and pray till I fell asleep.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/156/S156104.html](http://www.nuforc.org/webreports/reports/156/S156104.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Leawood (KS) reported seeing craft that fit the description of some 'Circle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>I could see that it had lights all around it and it was very large and disc shapedAbout 9 pm i looked out my window and saw a disc shaped white craft with light all around glowing in my neighbor's backyard.  When i stepped out on my porch to get a good look at it, it started moving away really quickly.  It was silent and didn't make any sound.  I was about 50yrds away.((NUFORC Note:  We spoke via telephone with this witness, and he sounded to us to be quite serious-minded and sincere.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74274.html](http://www.nuforc.org/webreports/reports/074/S74274.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
