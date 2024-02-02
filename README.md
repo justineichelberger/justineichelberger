@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:34 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Carlsbad (CA) reported seeing craft that fit the description of some 'Light' over a period of approximately 8.0 - 8.0 minutes.</sub><blockquote><sub>Bright light(s) witnessed in Carlsbad on 2/2/09I spotted a very bright orange/yellow light in the evening sky just north of Carlsbad.  I couldn't tell how far away it was, only that it was large enough to know it wasn't a star.  I watched it for about 20 seconds then I went inside to get my husband.  It took me about 10 seconds to get back outside, and it was gone.  I waited for a couple of minutes, then I saw it again.  It was in the exact same spot.  I called out for my husband again but then it slowly disappeared behind the mountains.  I waited again then I saw 2 lights appear out of nowhere.  The larger light was there and a new, smaller light.  The smaller light began to disappear, but the larger light stayed in its position.  I called out for my husband again and he finally made it outside in time to witness the light.  I asked him what it was, and he said he didn't know.  I asked him to get my cell phone so I could record it.  The light then slowly began to dim and finally went out.  It didn't go behind the mountains.  The light just started to dim and then disappeared.  I was unable to catch the light on my cell phone.  After it disappeared, I didn't see it again.  I came directly inside and got on the internet to see if anyone else had reported it.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68415.html](http://www.nuforc.org/webreports/reports/068/S68415.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in Ojai (CA) reported seeing craft that fit the description of some 'Diamond' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>2 people observed large white diamond-shaped object flash across NW sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153026.html](http://www.nuforc.org/webreports/reports/153/S153026.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
