@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:43 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:36 on 2 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Sandpoint (ID) reported seeing craft that fit the description of some 'Cigar' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Yellow oblong object tracked across evening sky over Sandpoint, ID.Between hours of roughly 5:30 pm and 6:30 pm PST on Feb 2, 2019, we were sitting in our hot tub.  It was dark night conditions with clouds and no stars visible.  Suddenly a yellow oblong shape tracked across the sky in a N - NNE route.  It would have been below the cloud cover.  There was no 'tail'.  It was distinctly not round, and not fully teardrop, but just oblong.  The event didn’t last more than 1 minute, and though I didn’t see it 'appear' because the hot tub lid obscured the view, it disappeared as a sort of blur that seemed to me that it was being obscured by clouds, as it headed away from us.  It was never directly over us as if trying to BE over us personally.  It just tracked along a bit to the east of our exact position as we looked up.It was a golden yellow color like campfire flame, not white or red or green as would normal aircraft lights be.  The entire shape was the same color, not blinking or shifting intensity, and not leaving behind a trail or tail of any kind.  The full shape just moved across the sky.  And there was no noise at all, but then again, we were in the hot tub and that was making noise.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144763.html](http://www.nuforc.org/webreports/reports/144/S144763.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Ourinhos (Brazil) () reported seeing craft that fit the description of some 'Light' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>Irregular trajectory speed and jumpOn 02/02/2012 21:10 was in the garage of my house when I saw the first object he had spherical shape with a reddish blue color was opaque. At first thought it was a satellite for its shape and trajectory, but he jumped up speed disappearing.The second had a strong and intense glare with dark center and caught my attention because of their trajectory. He moved slowly, stopped, turned and followed a little later on, stopped again and went back a little further back, was so far as I could observe, after the object disappeared from distant trees.The first and the second was to the north west of my city.The time is clear and cloudless as the sky and great visibilade stars. Temperature 28 degrees Celsus.Location and Data General Ourinhos SP Territorial unit area: 296 km2 Latitude of the district headquarters of the city: 22.97889 Â°  Longitude of the district headquarters of the city: 49.87056 Â°  flat geography of the city.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/086/S86970.html](http://www.nuforc.org/webreports/reports/086/S86970.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [286](http://www.nuforc.org/webreports/reports/161/S161950.html)
-- [285](http://www.nuforc.org/webreports/reports/161/S161883.html)
-- [284](http://www.nuforc.org/webreports/reports/161/S161875.html)
-- [283](http://www.nuforc.org/webreports/reports/153/S153047.html)
-- [282](http://www.nuforc.org/webreports/reports/153/S153028.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
