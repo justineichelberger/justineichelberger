@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:04:27 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:36 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holywell (UK/Wales) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>very bright daylight sighting with video and photoTall thin object looking like an orange flame changing to a blueish colour. VERY bright even in day light. low to the ground, within feet. hight of object 25 to 35 ft. video and photo taken (mobile phone). 3 hrs later smaller lights (torches) seen in area. The area is above an old militry cave, very well fenced off. This is still going on 18:30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61859.html](http://www.nuforc.org/webreports/reports/061/S61859.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>REPORT:Fast moving blue/white lights in the shape of a triangle.Houston, British Columbia Date: February 3, 2003 Time: approx: 8:10 p.m.Today, Friday, February 7, 2003 I was contacted about a sighting which took place here in Houston, B.C. A Canfor employee who run a track mobile at the saw mill was moving around chip cars on company property. He said he climbed down off the machine he was operating to switch over to another track, when an extremely fast object, or for a better word, three bright, hazy blue/white lights came out of the north and disappeared to the south. The witness said everything happened to fast that he could not make out any type of outline to what he was viewing. The forestry worker said the three lights were in a triangular shape, and held the same shape until he lost sight of it. I asked the witness if he might be able to give me a rough idea of the altitude the lights were at. (I gave him a few examples). In the end he mentioned the lights were not that high above him. But had to be high enough to clear the mountains to the south. (approx: 2500 to 3000 feet).HBCC UFO Note: Again we have another reported sighting in the area of the Morice Valley country, where many strange sighting were witnessed by many in 2002. I have giving the fellow a couple of days and plan to sit down and chat with him again, maybe he may be able to remember something important.((NUFORC Note:  We express our gratitude to Mr. Brian Vike, independent UFO investigator in northern British Columbia, for sharing this report with NUFORC.  Contact information for Mr. Vike appears below:   Brian Vike   (Yogi)Independent UFO FieldInvestigator/Researcher HBCC UFO ResearchBox 1091Houston, B.C.CanadaVOJ-1ZO Editor: Canadian Communicator (Paranormal Magazine)Paranormal MagazinePhone/Fax - 1-250-845-2189 Email - hbccufo@telus.nethbccufo@yahoo.comhttp://www.geocities.com/hbccufo/home.html PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27620.html](http://www.nuforc.org/webreports/reports/027/S27620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
