@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:37 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pecks Pond (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Moving (shooting) light that dead stops then shoots again. Reoccurring same times ever 2amSmall light, comes every evening/early morning same times 2-4am.  Sometimes closer, sometimes farther.  Moves side to side or up and down VERY fast.  Than suddenly stops.  Been hoping for days.  We stay up to check.  Even in clouds it’s there.  Tried to video but wasn’t showing up, will try again from outside on a nice evening.((NUFORC Note:  We suspect a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144801.html](http://www.nuforc.org/webreports/reports/144/S144801.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Lake Worth (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>Two circles of light  with orange glow over West Palm Beach Fl.Two circles of light surrounded by orange glow approched at high speed from NNE heading SSW.  Traveled in straight line then darded 90 degrees in lateral steps 3-4 times then travled straight then darted again.  At one point one darted to right and the other to the left.  They were well within air traffic altitude.I have a history of military training in aircraft identification and have never seen objects such as this.Also noted no sound associated with event, however background noise was present.The rate of speed could have been supersonic as the distance traveled in the short time was great.No trail or exhaust noted.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68448.html](http://www.nuforc.org/webreports/reports/068/S68448.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
