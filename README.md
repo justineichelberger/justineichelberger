@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:36 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:34 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Houston (Canada) (BC) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 0.03333333333333333 - 0.03333333333333333 minutes.</sub><blockquote><sub>REPORT:Fast moving blue/white lights in the shape of a triangle.Houston, British Columbia Date: February 3, 2003 Time: approx: 8:10 p.m.Today, Friday, February 7, 2003 I was contacted about a sighting which took place here in Houston, B.C. A Canfor employee who run a track mobile at the saw mill was moving around chip cars on company property. He said he climbed down off the machine he was operating to switch over to another track, when an extremely fast object, or for a better word, three bright, hazy blue/white lights came out of the north and disappeared to the south. The witness said everything happened to fast that he could not make out any type of outline to what he was viewing. The forestry worker said the three lights were in a triangular shape, and held the same shape until he lost sight of it. I asked the witness if he might be able to give me a rough idea of the altitude the lights were at. (I gave him a few examples). In the end he mentioned the lights were not that high above him. But had to be high enough to clear the mountains to the south. (approx: 2500 to 3000 feet).HBCC UFO Note: Again we have another reported sighting in the area of the Morice Valley country, where many strange sighting were witnessed by many in 2002. I have giving the fellow a couple of days and plan to sit down and chat with him again, maybe he may be able to remember something important.((NUFORC Note:  We express our gratitude to Mr. Brian Vike, independent UFO investigator in northern British Columbia, for sharing this report with NUFORC.  Contact information for Mr. Vike appears below:   Brian Vike   (Yogi)Independent UFO FieldInvestigator/Researcher HBCC UFO ResearchBox 1091Houston, B.C.CanadaVOJ-1ZO Editor: Canadian Communicator (Paranormal Magazine)Paranormal MagazinePhone/Fax - 1-250-845-2189 Email - hbccufo@telus.nethbccufo@yahoo.comhttp://www.geocities.com/hbccufo/home.html PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/027/S27620.html](http://www.nuforc.org/webreports/reports/027/S27620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Puerto Vallarta (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two round objects travelled in complete silence over water as I watched from my hotel roomOn February 3, 2008 I was staying at the Bougainvillia Resort in Puerto Vallarta, Mexico on the 23rd floor. At approximately 9:45 P.M. I was on the balcony when I noticed a round dull red/orange ball the size of a small moon coming along the water about 50 feet off shore, 1000 to 1200 feet away from me, going about 30-35 mph. The height seemed almost the same as the 23rd floor of the hotel, but it could have been one or two floors higher. Behind it approximately 800 to 1000 feet was another round ball, the same size but it was a much brighter.The dull one passed in front of me and continued on for approximately another100 feet, turned 180 degrees and proceeded back in the direction it had come from still about 50 feet out from the shoreline.The second one almost duplicated the turn but may have gone a little further before turning.This whole viewing took three or four minutes. During the complete viewing time, there was absolutely no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62328.html](http://www.nuforc.org/webreports/reports/062/S62328.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
