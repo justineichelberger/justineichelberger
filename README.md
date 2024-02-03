@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:20:10 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:04:27 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2003, an anonymous witness in Minneapolis (MN) reported seeing craft that fit the description of some 'Light' over a period of approximately unknown - unknown minutes.</sub><blockquote><sub>After seeing a UFO with a bunch of friends at a lake in 1974 (Minnesota),I have had many odd occurances.This one happened in my home right after I had gone to bed.I was laying there and saw the bright white/blue light coming from the area at the back of the house off my porch.(I'VE SEEN THIS LIGHT BEFORE) Next thing I am laying there unable to move and there is a strange small lizardy looking creature next to my bed.Think of a lizardy looking Ewock from Star Wars.My thought is it seem ludicrous how it's attired.Next thing I'm waking up.But I remember the incident,Cause I wasn't asleep yet.((NUFORC Note:  Date is approximate.  Witness describes self as a professional in the field of medicine.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/035/S35695.html](http://www.nuforc.org/webreports/reports/035/S35695.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Holywell (UK/Wales) () reported seeing craft that fit the description of some 'Cylinder' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>very bright daylight sighting with video and photoTall thin object looking like an orange flame changing to a blueish colour. VERY bright even in day light. low to the ground, within feet. hight of object 25 to 35 ft. video and photo taken (mobile phone). 3 hrs later smaller lights (torches) seen in area. The area is above an old militry cave, very well fenced off. This is still going on 18:30</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61859.html](http://www.nuforc.org/webreports/reports/061/S61859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
