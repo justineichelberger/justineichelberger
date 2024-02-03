@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:39 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:39 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Google moon 22 34'56.06" N 142 40'54.30" E  Square shape same light arrangement of other UFO nearby to the left  My name is ((name deleted))Google moon 22 34'56.06"N 142 40'54.30"E Square shape same light arrangement of other UFO nearby to the left.My name is ((name deleted)) and feel free to call me ((number deleted)) (aussie mobile number)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106889.html](http://www.nuforc.org/webreports/reports/106/S106889.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Myrtle Beach (SC) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>In response to the Myrtle Beach Reports: I was vacationing in Myrtle Beach. I saw red lights off the coast. A few seconds later, they appeared again, at least a mile from where they first appeared.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41859.html](http://www.nuforc.org/webreports/reports/041/S41859.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
