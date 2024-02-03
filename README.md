@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:40 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:39 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in King William (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle object and bright ball of light fall to the ground.let me start by telling why I watch the horizon, about 2 years ago I had a triangle craft fly less than 500 ft over my house and it was moving at about 10MPH.  It had the strangest metalic color and crazy looking round lights at each corner, kinda weird blue color.  the strangest thing was that it didn't make a sound as it hovered over! well friday night I noticed the same kinda of object catch my eye again so I stood on my back deck and just watched for about 20 minutes with camera in hand cause I knew this was it! but it was so far away and it kept moving left and right and down real slow and to far for a camera. then its light went out and a hugh ball like a shooting star slowing fell to the ground glowing real bright, it scared the hell out of me!!!!  it was to fast for a camera and to slow for to be a shooting star?? when I tried to report the craft on a gentlemans website, it was shut down about a week later?? I feel that I can be a reliable witness, I wo! rk for a school system in the area and am a 10 year disabled army veteran and a god fearing man! so please believe me and what I have seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87054.html](http://www.nuforc.org/webreports/reports/087/S87054.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Australia () reported seeing craft that fit the description of some 'Other' over a period of approximately  -  minutes.</sub><blockquote><sub>Google moon 22 34'56.06" N 142 40'54.30" E  Square shape same light arrangement of other UFO nearby to the left  My name is ((name deleted))Google moon 22 34'56.06"N 142 40'54.30"E Square shape same light arrangement of other UFO nearby to the left.My name is ((name deleted)) and feel free to call me ((number deleted)) (aussie mobile number)((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106889.html](http://www.nuforc.org/webreports/reports/106/S106889.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
