@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:47 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:32 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Conway (I-40 north of, mile marker 120) (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saw 3 triangle craft followed by regular small prop plane. these craft made no sound,had marker lights, no strobesOn the above date and time while in route to flagstaff az. I was alerted by my passenger mrs.bobbie sue cahhal. that there were some strange lights outside the left side of our vehicle. At that point I saw three crafts of some kind approaching. I was looking out my driver side window,which would be looking north west. I saw 3 craft with a steady red light on the left and a steady white  light on the right . I thought this was strange due to the fact that faa regulations require a strobe on all aircraft. I estimate the craft were around 300 ft and moving around 40-50 mph.as the craft went over head I pulled to the side of the road. It was a large moon and as myself and the passenger looked up we observed the triangle shaped craft fly to the north east. these craft made no sound .at that time I observed a small prop plane following these craft at a safe distance.I ((Name deleted)) saw the above craft and swear that the above statement is true and correct.2-12-99</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05569.html](http://www.nuforc.org/webreports/reports/005/S05569.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Napavine (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue/white light slowly fading and disapeared, resonant humming observed.Object was Blue white in color, fairly bright in intensity. Heading from west to east flight path curving slowly varying north and south. The light faded slowly, may have appeared slightly red and then disappeared. While still in open sky , no cloud cover.Just faded out..... (as usual).Also observed was a low humming sound not unlike that of an airplane engine. The humming sound continued perhaps 20 to 30 seconds after object became invisible. The sound seemed to resonate in the air,ground and trees.While I am hesitant to compare the sound to a conventional aircraft I will include that information anyhow, be assured this was not just a Cessna with it's landing lights on, cessna's do not disappear in open sky. I have observed this type of light/object in the area before.Object was Somewhere north of Avery Road west. Possibly over Napavine.I would estimate altitude between 20 and 30 thousand feet if not higher.These types of object can be Observed in the area, relatively frequently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61406.html](http://www.nuforc.org/webreports/reports/061/S61406.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
