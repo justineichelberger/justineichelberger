@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:32 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:46 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Napavine (WA) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>Blue/white light slowly fading and disapeared, resonant humming observed.Object was Blue white in color, fairly bright in intensity. Heading from west to east flight path curving slowly varying north and south. The light faded slowly, may have appeared slightly red and then disappeared. While still in open sky , no cloud cover.Just faded out..... (as usual).Also observed was a low humming sound not unlike that of an airplane engine. The humming sound continued perhaps 20 to 30 seconds after object became invisible. The sound seemed to resonate in the air,ground and trees.While I am hesitant to compare the sound to a conventional aircraft I will include that information anyhow, be assured this was not just a Cessna with it's landing lights on, cessna's do not disappear in open sky. I have observed this type of light/object in the area before.Object was Somewhere north of Avery Road west. Possibly over Napavine.I would estimate altitude between 20 and 30 thousand feet if not higher.These types of object can be Observed in the area, relatively frequently.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61406.html](http://www.nuforc.org/webreports/reports/061/S61406.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow-moving craft with rectangular light that changed colors as it swept through an arcI was out walking my dog after dinner, when I saw a very slow-flying craft just to the north of our location.  I would estimate that it was less than a quarter-mile away, but could not make out the shape of it due to the glare of street lights in the area.The craft had two small red and blue flashing lights on the bottom and was moving so slowly that it seemed to just be hanging in the air. It made a sort of whirling sound as it moved by toward the east.  When it passed us I could see a small, steady red light on the right rear of the craft and a small, steady amber light on the left rear.After a few minutes of it traveling slowly east/northeast it turned enough that I could see what appeared to be a very large rectangular panel of light on the left side of the craft that rotated side-to-side in an arc.  The light was very bright white when it swept from the back to the front, and very bright green when it swept from the front toward the back.By the time I thought to get my cellphone out to try to get a photo, it had moved out of range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125620.html](http://www.nuforc.org/webreports/reports/125/S125620.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
