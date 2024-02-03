@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:44 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:42 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Ocala (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately 10.0 - 10.0 minutes.</sub><blockquote><sub>perfect circle  with middle invisibleI SEEN A PERFECT CIRCLE WITH LIGHTS, IT WAS INVISABLE IN THE MIDDLE THE LIGHTS WAS THE SHAPE OF THE OBJECT, IT WAS SEVERAL HUNDRED FEET UP EACH TIME I LOOKED AWAY FOR SEVERAL MIN IT WOULD LOWER A HUNDRED FEET AND COME CLOSER TO MY HOUSE . AFTER IT CAME ABOUT THREE HUNDRED FEET ABOVE ME AND TWO THE LEFT I RAN INSIDE THE HOUSE LIKE A CHILD,  IT WAS AS IF IT KNEW I WAS LOOKING AND WANTED TO LOOK AT ME.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74822.html](http://www.nuforc.org/webreports/reports/074/S74822.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in El Dorado (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>round or circular multicolored shimmering object  just suspended without moving for almost a minute then it streaked away toward the north and was lost from sight in about a second.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16655.html](http://www.nuforc.org/webreports/reports/016/S16655.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
