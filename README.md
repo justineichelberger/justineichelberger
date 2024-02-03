@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:33 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:47 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>MADAR</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/139/S139775.html](http://www.nuforc.org/webreports/reports/139/S139775.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1999, an anonymous witness in Conway (I-40 north of, mile marker 120) (AR) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>saw 3 triangle craft followed by regular small prop plane. these craft made no sound,had marker lights, no strobesOn the above date and time while in route to flagstaff az. I was alerted by my passenger mrs.bobbie sue cahhal. that there were some strange lights outside the left side of our vehicle. At that point I saw three crafts of some kind approaching. I was looking out my driver side window,which would be looking north west. I saw 3 craft with a steady red light on the left and a steady white  light on the right . I thought this was strange due to the fact that faa regulations require a strobe on all aircraft. I estimate the craft were around 300 ft and moving around 40-50 mph.as the craft went over head I pulled to the side of the road. It was a large moon and as myself and the passenger looked up we observed the triangle shaped craft fly to the north east. these craft made no sound .at that time I observed a small prop plane following these craft at a safe distance.I ((Name deleted)) saw the above craft and swear that the above statement is true and correct.2-12-99</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/005/S05569.html](http://www.nuforc.org/webreports/reports/005/S05569.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
