@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:53 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Liberty Twp (OH) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 0.05 - 0.05 minutes.</sub><blockquote><sub>Blue light flashes across the sky, with no trail.I was standing outside looking at the stars, visibility was very good. Suddenly, out of nowhere, I see this blue ball of light flash across the sky. It had no tail, it was silent and it vanished. My first thoughts were; was that a comet? was that some sort of shooting star? The only problem I had with either of those theories was that the object was heading away from earth. I'm not sure what this was but I'm very curious to find out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/061/S61391.html](http://www.nuforc.org/webreports/reports/061/S61391.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2019, an anonymous witness in Pecks Pond (PA) reported seeing craft that fit the description of some 'Light' over a period of approximately 120.0 - 120.0 minutes.</sub><blockquote><sub>Moving (shooting) light that dead stops then shoots again. Reoccurring same times ever 2amSmall light, comes every evening/early morning same times 2-4am.  Sometimes closer, sometimes farther.  Moves side to side or up and down VERY fast.  Than suddenly stops.  Been hoping for days.  We stay up to check.  Even in clouds it’s there.  Tried to video but wasn’t showing up, will try again from outside on a nice evening.((NUFORC Note:  We suspect a star or planet.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/144/S144801.html](http://www.nuforc.org/webreports/reports/144/S144801.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
