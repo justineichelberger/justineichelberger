@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:34 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:40 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2008, an anonymous witness in Puerto Vallarta (Mexico) () reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>two round objects travelled in complete silence over water as I watched from my hotel roomOn February 3, 2008 I was staying at the Bougainvillia Resort in Puerto Vallarta, Mexico on the 23rd floor. At approximately 9:45 P.M. I was on the balcony when I noticed a round dull red/orange ball the size of a small moon coming along the water about 50 feet off shore, 1000 to 1200 feet away from me, going about 30-35 mph. The height seemed almost the same as the 23rd floor of the hotel, but it could have been one or two floors higher. Behind it approximately 800 to 1000 feet was another round ball, the same size but it was a much brighter.The dull one passed in front of me and continued on for approximately another100 feet, turned 180 degrees and proceeded back in the direction it had come from still about 50 feet out from the shoreline.The second one almost duplicated the turn but may have gone a little further before turning.This whole viewing took three or four minutes. During the complete viewing time, there was absolutely no sound.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/062/S62328.html](http://www.nuforc.org/webreports/reports/062/S62328.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in King William (VA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Triangle object and bright ball of light fall to the ground.let me start by telling why I watch the horizon, about 2 years ago I had a triangle craft fly less than 500 ft over my house and it was moving at about 10MPH.  It had the strangest metalic color and crazy looking round lights at each corner, kinda weird blue color.  the strangest thing was that it didn't make a sound as it hovered over! well friday night I noticed the same kinda of object catch my eye again so I stood on my back deck and just watched for about 20 minutes with camera in hand cause I knew this was it! but it was so far away and it kept moving left and right and down real slow and to far for a camera. then its light went out and a hugh ball like a shooting star slowing fell to the ground glowing real bright, it scared the hell out of me!!!!  it was to fast for a camera and to slow for to be a shooting star?? when I tried to report the craft on a gentlemans website, it was shut down about a week later?? I feel that I can be a reliable witness, I wo! rk for a school system in the area and am a 10 year disabled army veteran and a god fearing man! so please believe me and what I have seen!</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87054.html](http://www.nuforc.org/webreports/reports/087/S87054.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
