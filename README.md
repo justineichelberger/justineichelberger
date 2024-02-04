@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 14:00:32 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 15:00:36 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>saucer shaped object in flight over oceanThe object was not seen until I looked at two photos I had taken of a barge being towed in the ocean.  In the first picture, only a speck is visible (under enlargement).   In the second photo the object is quite clear and appears to have a slight trail. I enlarged these photos slightly.  They were taken from my hotel balcony at 4:07pm.  When I first looked at the object I thought it was an oblong shape, but when I looked at it some more, it looked more saucer shaped with lights. I had some people look at the photos and no one seems to be able to identify what it is, I'm hoping you can help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99992.html](http://www.nuforc.org/webreports/reports/099/S99992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Colorado Springs (CO) reported seeing craft that fit the description of some 'Disk' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Red fog in room, blueish chrome disk outside of front door, buzzing and pop noise, weird behavior from wife and dog.   I was awoken from sleep by a presence in the room last night.  When I opened my eyes there was a red fog engulfing the entire room.  I tried to wake my wife up but she wouldn't budge.  Not even my dog who was sleeping on the bed would wake up.  Just like a vacuum, I watched the fog get sucked out of my bedroom door (which was open).  I was extremely scared but chose to run to my front door.  There was a slight buzzing noise coming from outside (sorry I'm getting goosebumps real bad just thinking about this).  I opened the door and looked up.  Not 50 feet above the ground was a blueish chrome disk sitting almost motionless in the air.  This was at night and it's weird how I was able to see the distinct blueish chrome color of the disk.  There was a slight wobble to it also.  I felt like something was staring at me.  The disk was about 30 feet around and had a small "base" on top of it.  There were no lights or markings on it.  It sat there for about! a minute or two (I think but it's almost like I had been staring at it for 15 minutes) and the buzzing noise stopped.   There was a pop that came from it (there go the goosebumps again) like a balloon popping and it slowly lifted straight into the air.  When it got about I'd say 100 or so feet up it faded out of sight into nothingness.  I ran back into my house to check on my 2 year old son and he was fine.  I was able to wake my wife up and asked if she had seen anything.  She got teary eyed and without saying anything went immediately back to sleep.  My dog almost looked sad and went back to sleep as well.  This by far is the weirdest and unnerving thing I have ever witnessed in my life.  I'm am scared s**tless since last night.  While I have seen "UFO's" in the sky before and reported them on this site, this again by far has confirmed my belief that something else is out there.  I know I wasn't dreaming, I don't do drugs, I wasn't on any medication, nothing.  What the hell happened last night?((NUFORC Note:  We spoke via telephone with the source of the report, and he sounded to us to be sincere, and sober-minded.  We suspect that he is an excellent, and reliable, source of information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125641.html](http://www.nuforc.org/webreports/reports/125/S125641.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
