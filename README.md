@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:43 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:32 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Oval' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Black oval shaped object moving slow with no change in elevation.  Snowy conditions and low clouds, but object was well below cloud cover.  I was driving south bound on Colorado Blvd and  crossing  over  E. Bayaud Ave.  The object was moving east to west and seemed to be pretty much heading to go over the Cherry Creek mall.   Went  out of my field of vision with me honestly scratching my head.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106922.html](http://www.nuforc.org/webreports/reports/106/S106922.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Ormond Beach (FL) reported seeing craft that fit the description of some 'Circle' over a period of approximately  -  minutes.</sub><blockquote><sub>saucer shaped object in flight over oceanThe object was not seen until I looked at two photos I had taken of a barge being towed in the ocean.  In the first picture, only a speck is visible (under enlargement).   In the second photo the object is quite clear and appears to have a slight trail. I enlarged these photos slightly.  They were taken from my hotel balcony at 4:07pm.  When I first looked at the object I thought it was an oblong shape, but when I looked at it some more, it looked more saucer shaped with lights. I had some people look at the photos and no one seems to be able to identify what it is, I'm hoping you can help.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/099/S99992.html](http://www.nuforc.org/webreports/reports/099/S99992.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
