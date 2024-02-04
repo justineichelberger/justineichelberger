@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 20:00:45 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 21:00:33 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Friendship area (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 dimly white sphere shaped objects; independent rapid movement; at times would form into one objectAt approximately 18:05 while traveling north/north east on MD RT 32 between Tridelphia Rd and MD Rt 44 notice 4 dimly white sphere shaped objects.  The formation of the objects was pretty tight, moved quickly in different directions, and at times seemed to form back into one object, then break off again.  There was low cloud cover and the outside temprature (according to my car) was 27F.  If I was to guess, I'd say the circumferance of each object was between 10-20 feet but hard to judge not knowing the cloud ceiling.  At first I thought these were some type of high powered lights but this is a relatively rural area moderately populated with no large commercial businesses/structures that might account for the lights.  I pulled to the side of the road and attempted to photograph and video the episode though my car window with very bad results.  The spheres headed east and I lost them through the trees.  There were other cars on the road as RT 32 is a main artery to northern Howard and Carroll Counties for commuters and would be very interested if anyone else witnessed a similar event.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106932.html](http://www.nuforc.org/webreports/reports/106/S106932.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A star-like object flying past the moon, faster than a jetI walked out of the house at 4.45 PM and looked up at the gibbous moon which was halfway between the eastern horizon and zenith in a mostly blue sky.  A starlike object, i.e. a point of light, was moving faster than an jet but in a smooth trajectory, from the 7 o'clock position a few degrees away from the moon and headed up past the moon on the upper left side of it.  This is when I swiftly ran back into the house to grab my binoculars which were right by the door.  I came back out and it took me a few seconds to find the object, which was now heading more in a downward fashion and was between 5 and 10 degrees to the lower right of the moon, at about 4 o'clock.  Unfortunately, I could not locate it in the binoculars so it was quickly gone.  It appeared to be reflecting light rather than self-luminous.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16178.html](http://www.nuforc.org/webreports/reports/016/S16178.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
