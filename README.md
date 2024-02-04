@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:42 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:33 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2013, an anonymous witness in Whitney (TX) reported seeing craft that fit the description of some 'Changing' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>V-shaped UFO 's that changed shape that are bright white  in colorI was out in the back of my yard  taking photos of the sky and landscape.  I caught three different objects in the sky over my house.  They were bright white V shaped objects high in the sky . Two were coming from the dark clouds I had just taken photos of ; north of me.  The other one was on the opposite side of the sky ; south in the clearing/no clouds; it changed shapes.  They were high in the sky.  I noticed them because they were bright.  I put my photos on my computer and looked at them.  I zoomed in on the objects and saw they had changed shape.  It was fast moving.  They were not the black stealth planes either.  These were V ; with bright white lights on them.   No sound.  They were coming over Lake Whitney,Texas ,area.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/096/S96264.html](http://www.nuforc.org/webreports/reports/096/S96264.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Garden Bay (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright , round with fin like things on the endThe Reporter Newspaper,  A Sunshine Coast B. C Paper.  reporter dated February 4  Newpaper report states ( The Reporter Seschelt B/C.---  have you seen anything strange in the skies?The reporter received a call from a man in Garden Bay that he had spotted unidentified flying objects over Texada Island objects were bright, round with fin like things on the ends." Apparently he observed the objects moving around for a few nights, at times going down fairly low. This article was pulished in The Reporter Newspaper, Sechelt British Columbia Canada February 4, 2001... ((NUFORC Note:  We are suspicious of the planet Venus in this instance.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16186.html](http://www.nuforc.org/webreports/reports/016/S16186.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
