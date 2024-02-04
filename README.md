@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 05:00:44 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 06:00:36 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bight Fireballs in the skyI and My Children were on our way home, the sky was clear, you coud see the the stars bright. then appeared in the fields to the left side of the road 2 large fireballs, they were still, the moved cris-cross from each other., then disappeared. We pulled over at the rest area between Newton, Il and Olney, IL. got out of the vehicle. look up at the sky. there was alot of air trafic of plans we seen. but the stars or lights in the sky seemd to dance, then appeared another fireball by itself in the sky. we stayed to watch more as we weere amazed. then left we drove toward Olney,Il.  again the FireBalls appeared this time on the right side of the the road. there was othe traffic on the road and Im sure they seen this too because they were drivings slow also watching the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41792.html](http://www.nuforc.org/webreports/reports/041/S41792.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Benson (AZ) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.5 - 0.5 minutes.</sub><blockquote><sub>strange lights in benson arizonaim unfaliliar with the area i was with a friend going to dinner on I-10 when i looked over at the mountains  and noticed a light alwayws curious a stared expecting the light to flash like a plane or do something then iwondered if it was someones house ligt but it was the only light that high up and there areno houses that high. well we went to dinner and it was still on my mind so i asked the young lady my girlfriend and i took to dinner has she ever seen lights she replied she has not but people around town could probably tell me more about the lights and other strange things in the mountains..around fort huachuca  im probably not spelling that right its an army base.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41928.html](http://www.nuforc.org/webreports/reports/041/S41928.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
