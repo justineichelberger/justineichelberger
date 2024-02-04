@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 10:00:33 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 11:00:29 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Garden Bay (Canada) (BC) reported seeing craft that fit the description of some 'Oval' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>Bright , round with fin like things on the endThe Reporter Newspaper,  A Sunshine Coast B. C Paper.  reporter dated February 4  Newpaper report states ( The Reporter Seschelt B/C.---  have you seen anything strange in the skies?The reporter received a call from a man in Garden Bay that he had spotted unidentified flying objects over Texada Island objects were bright, round with fin like things on the ends." Apparently he observed the objects moving around for a few nights, at times going down fairly low. This article was pulished in The Reporter Newspaper, Sechelt British Columbia Canada February 4, 2001... ((NUFORC Note:  We are suspicious of the planet Venus in this instance.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16186.html](http://www.nuforc.org/webreports/reports/016/S16186.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Las Vegas (NV) reported seeing craft that fit the description of some 'Other' over a period of approximately 0.3333333333333333 - 0.3333333333333333 minutes.</sub><blockquote><sub>ON SUNDAY NIGHT, 2-4-01, AT 2045 HRS, MYSELF AND A FRIEND WERE LOOKING UP AT A DARK LAS VEGAS SKY AND SAW A BOOMERANG SHAPED OBJECT, AMBER IN COLOR, FLYING IN THE N.W. SKY.  THE OBJECT WAS FAINTLY LIT UP, AND AMBER IN COLOR.  FOR 20 SECONDS, WE WATCHED IT.  IT WAS FLYING SOUTHBOUND, THEN INVERTED ITS FLIGHT, SO THAT IT FLEW NORTH BOUND AND THEN SOUTH BOUND AGAIN.  EVENTUALLY, IT FADED FROM THE SKY AFTER 20 SECONDS. MY FRIEND SAID IT WAS NOT GEESE, BECAUSE WE HEARD NO HONKING. IT MAINTAINED A PERFECT BOOMERANG SHAPE EVEN WHEN IT INVERTED AND CHANGED ITS DIRECTION.  WE HEARD NO SOUND AT ALL.  IT IS HARD FOR ME TO ESTIMATE HOW FAR AWAY AND HOW BIG THE OBJECT WAS.  I WOULD LIKE TO KNOW WHAT I SAW IN THE SKY.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16304.html](http://www.nuforc.org/webreports/reports/016/S16304.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
