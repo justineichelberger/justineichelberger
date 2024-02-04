@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 21:00:33 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 22:00:34 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Denver (CO) reported seeing craft that fit the description of some 'Light' over a period of approximately 0.75 - 0.75 minutes.</sub><blockquote><sub>A star-like object flying past the moon, faster than a jetI walked out of the house at 4.45 PM and looked up at the gibbous moon which was halfway between the eastern horizon and zenith in a mostly blue sky.  A starlike object, i.e. a point of light, was moving faster than an jet but in a smooth trajectory, from the 7 o'clock position a few degrees away from the moon and headed up past the moon on the upper left side of it.  This is when I swiftly ran back into the house to grab my binoculars which were right by the door.  I came back out and it took me a few seconds to find the object, which was now heading more in a downward fashion and was between 5 and 10 degrees to the lower right of the moon, at about 4 o'clock.  Unfortunately, I could not locate it in the binoculars so it was quickly gone.  It appeared to be reflecting light rather than self-luminous.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16178.html](http://www.nuforc.org/webreports/reports/016/S16178.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green saucer sighted over Reno, Nevada.A green saucer was sighted over the Reno Convention Center.  It was moving extremely fast.  A photo was being taken of the moon and the saucer entered the frame and then left.((NUFORC Note:  We suspect that the object is a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117163.html](http://www.nuforc.org/webreports/reports/117/S117163.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
