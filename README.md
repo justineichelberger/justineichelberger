@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:24:25 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black Triangular Object Over Salt Lake City, Utah.Triangle, obtuse. Barely below cloud cover. Cloud cover approx 7,000 feet. We were parked in a parking lot at 5600 South and 900 east in Salt Lake City.Black in color. Just below cloud cover knowing that because it would enter and exit cloud camouflage.Spotted by 2 of us as the object was heading South for approximately 15 miles.  We both thought it was a ballon or plastic thinking it was likely in whatever wind direction at that altitude at the time.  Object came to an abrupt stop directly over Murray Utah.  The object stayed completely still for 5-8 minutes and then headed in a direct Easterly direction at likely 100 MPS for 8-10 seconds and came to a stop again.  At times the object looked like it was spinning slowly clockwise for several seconds followed by an abrupt stillness.  At last sight apoximately 20 minutes the object would waver back and forth at rediculasely high speed by what may be a Mile or two east to west. No binoculars or good enough camera to zoom in.  Though at that altitude it appeared to measure 1/4" from our viewpoint if we had a measuring device against the sky.   Therefore, size from our viewpoint taking in to our estimated altitude of the object would be 40-70 feet in length and 30-50 feet in width! .  Though appearing small with two of us noticing the object zipping through the sky at the same time I can't imagine that out of the Salt Lake City out and about population we would be the only noticing by standers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138800.html](http://www.nuforc.org/webreports/reports/138/S138800.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>line of white lightsi saw a string of white lights very high in a straight line equally spaced heading west to east, i watched them appear from nowhere 1 at a time and going at same pace</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153052.html](http://www.nuforc.org/webreports/reports/153/S153052.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
