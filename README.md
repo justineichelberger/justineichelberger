@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:29 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:36 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Talkeetna (AK) reported seeing craft that fit the description of some 'Light' over a period of approximately ongoing - ongoing minutes.</sub><blockquote><sub>several blue/wht lighted objects traveling at different speeds across sky and then back up to a larger light higher up in the skyseveral blue/white light type objects were seen moving quickly over the sky dropping down from a large lighted object high up in the sky, traveling in a 90 degree angle, horizontally, across, down and then back up to the larger light in the sky.  the smaller objects were traveling at different speeds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21681.html](http://www.nuforc.org/webreports/reports/021/S21681.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Killeen (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>viewed bright white lights in oval shape that conitinued to flash to smaller white lights nearer the center of the oval.Viewed from Backporch looking toward the northwest were 10 medium sized white lights that formed an oval shape that did nothing at first but later repeatedly flashed to other smaller lights near the center of the oval. Looked to be about 200 ft high and about 1/4 mile away. and about 300 feet diameter.It was completely silent. There was a light fog and no actual oval object could be seen only the shape formed by the lights. After viewing for 2 and half hours it ascended straight up. It never moved through the entire sighting until it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18685.html](http://www.nuforc.org/webreports/reports/018/S18685.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
