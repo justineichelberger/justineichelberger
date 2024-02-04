@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 04:00:30 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 05:00:44 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2000, an anonymous witness in Prescott Valley (AZ) reported seeing craft that fit the description of some 'Circle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Yellow-orange objects moving NNW and N 'til they formed a perfect "V" formation on the horizon.My wife, Mother, Step-Son, Sister and myself observed 4 objects N of our home moving NNW and N. One large, bright object on the Left seperate from 3 smaller objects on the right close together in a straight line. Three smaller objects moved faster than the larger object. The far right smaller object turned NNE at a faster speed than the middle object which turned due north. The three smaller objects became further apart 'til the center object picked up speed and was closer to the horizon than the other three. The large object on the left and the three smaller objects formed a perfect "V" formation 'til they dissapeared over the horizon.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/011/S11992.html](http://www.nuforc.org/webreports/reports/011/S11992.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2005, an anonymous witness in Newton (IL) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 0.25 - 0.25 minutes.</sub><blockquote><sub>Bight Fireballs in the skyI and My Children were on our way home, the sky was clear, you coud see the the stars bright. then appeared in the fields to the left side of the road 2 large fireballs, they were still, the moved cris-cross from each other., then disappeared. We pulled over at the rest area between Newton, Il and Olney, IL. got out of the vehicle. look up at the sky. there was alot of air trafic of plans we seen. but the stars or lights in the sky seemd to dance, then appeared another fireball by itself in the sky. we stayed to watch more as we weere amazed. then left we drove toward Olney,Il.  again the FireBalls appeared this time on the right side of the the road. there was othe traffic on the road and Im sure they seen this too because they were drivings slow also watching the sky.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/041/S41792.html](http://www.nuforc.org/webreports/reports/041/S41792.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
