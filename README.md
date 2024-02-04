@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:45 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 light, joined by two more form triangle and perform some formations, before disappearing and flying away in a pattern.First off..i was coming home from a friends house, when i saw, what i believed to be an extrememly bright star.  I looked at it for a while, since i am quite interested in the sky, and stars and the such, and after looking for a good minute or so, i noticed 2 more of the same circular lights form behind it seemingly out of nowhere.  They then moved into a triangular shape and began to move foward.  They then started performing some type of movements..where the back two objects would split apart from the formation, and the front object would come foward..afer doing this formation three times, the back two lights disappeared completely and suddenly, and the first one took off in a straight line at an alarming rate of speed.  It then turned left after going for a good 10 seconds..then 5 seconds later turned right, headed straight for another 20 seconds, then turned left again and kept going.  This all happened over a little culvasack street, at about 6 at night or so.  It really freaked me out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21706.html](http://www.nuforc.org/webreports/reports/021/S21706.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in West Friendship area (MD) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>4 dimly white sphere shaped objects; independent rapid movement; at times would form into one objectAt approximately 18:05 while traveling north/north east on MD RT 32 between Tridelphia Rd and MD Rt 44 notice 4 dimly white sphere shaped objects.  The formation of the objects was pretty tight, moved quickly in different directions, and at times seemed to form back into one object, then break off again.  There was low cloud cover and the outside temprature (according to my car) was 27F.  If I was to guess, I'd say the circumferance of each object was between 10-20 feet but hard to judge not knowing the cloud ceiling.  At first I thought these were some type of high powered lights but this is a relatively rural area moderately populated with no large commercial businesses/structures that might account for the lights.  I pulled to the side of the road and attempted to photograph and video the episode though my car window with very bad results.  The spheres headed east and I lost them through the trees.  There were other cars on the road as RT 32 is a main artery to northern Howard and Carroll Counties for commuters and would be very interested if anyone else witnessed a similar event.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/106/S106932.html](http://www.nuforc.org/webreports/reports/106/S106932.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
