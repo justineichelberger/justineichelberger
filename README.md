@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:36 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Killeen (TX) reported seeing craft that fit the description of some 'Oval' over a period of approximately 150.0 - 150.0 minutes.</sub><blockquote><sub>viewed bright white lights in oval shape that conitinued to flash to smaller white lights nearer the center of the oval.Viewed from Backporch looking toward the northwest were 10 medium sized white lights that formed an oval shape that did nothing at first but later repeatedly flashed to other smaller lights near the center of the oval. Looked to be about 200 ft high and about 1/4 mile away. and about 300 feet diameter.It was completely silent. There was a light fog and no actual oval object could be seen only the shape formed by the lights. After viewing for 2 and half hours it ascended straight up. It never moved through the entire sighting until it left.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/018/S18685.html](http://www.nuforc.org/webreports/reports/018/S18685.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Downey (CA) reported seeing craft that fit the description of some 'Circle' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>1 light, joined by two more form triangle and perform some formations, before disappearing and flying away in a pattern.First off..i was coming home from a friends house, when i saw, what i believed to be an extrememly bright star.  I looked at it for a while, since i am quite interested in the sky, and stars and the such, and after looking for a good minute or so, i noticed 2 more of the same circular lights form behind it seemingly out of nowhere.  They then moved into a triangular shape and began to move foward.  They then started performing some type of movements..where the back two objects would split apart from the formation, and the front object would come foward..afer doing this formation three times, the back two lights disappeared completely and suddenly, and the first one took off in a straight line at an alarming rate of speed.  It then turned left after going for a good 10 seconds..then 5 seconds later turned right, headed straight for another 20 seconds, then turned left again and kept going.  This all happened over a little culvasack street, at about 6 at night or so.  It really freaked me out</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21706.html](http://www.nuforc.org/webreports/reports/021/S21706.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
