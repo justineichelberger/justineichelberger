@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 23:00:46 on 3 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 00:00:32 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2016, an anonymous witness in Salinas (CA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>Slow-moving craft with rectangular light that changed colors as it swept through an arcI was out walking my dog after dinner, when I saw a very slow-flying craft just to the north of our location.  I would estimate that it was less than a quarter-mile away, but could not make out the shape of it due to the glare of street lights in the area.The craft had two small red and blue flashing lights on the bottom and was moving so slowly that it seemed to just be hanging in the air. It made a sort of whirling sound as it moved by toward the east.  When it passed us I could see a small, steady red light on the right rear of the craft and a small, steady amber light on the left rear.After a few minutes of it traveling slowly east/northeast it turned enough that I could see what appeared to be a very large rectangular panel of light on the left side of the craft that rotated side-to-side in an arc.  The light was very bright white when it swept from the back to the front, and very bright green when it swept from the front toward the back.By the time I thought to get my cellphone out to try to get a photo, it had moved out of range.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/125/S125620.html](http://www.nuforc.org/webreports/reports/125/S125620.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Salt Lake City (UT) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>Black Triangular Object Over Salt Lake City, Utah.Triangle, obtuse. Barely below cloud cover. Cloud cover approx 7,000 feet. We were parked in a parking lot at 5600 South and 900 east in Salt Lake City.Black in color. Just below cloud cover knowing that because it would enter and exit cloud camouflage.Spotted by 2 of us as the object was heading South for approximately 15 miles.  We both thought it was a ballon or plastic thinking it was likely in whatever wind direction at that altitude at the time.  Object came to an abrupt stop directly over Murray Utah.  The object stayed completely still for 5-8 minutes and then headed in a direct Easterly direction at likely 100 MPS for 8-10 seconds and came to a stop again.  At times the object looked like it was spinning slowly clockwise for several seconds followed by an abrupt stillness.  At last sight apoximately 20 minutes the object would waver back and forth at rediculasely high speed by what may be a Mile or two east to west. No binoculars or good enough camera to zoom in.  Though at that altitude it appeared to measure 1/4" from our viewpoint if we had a measuring device against the sky.   Therefore, size from our viewpoint taking in to our estimated altitude of the object would be 40-70 feet in length and 30-50 feet in width! .  Though appearing small with two of us noticing the object zipping through the sky at the same time I can't imagine that out of the Salt Lake City out and about population we would be the only noticing by standers.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138800.html](http://www.nuforc.org/webreports/reports/138/S138800.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [248](http://www.nuforc.org/webreports/reports/161/S161885.html)
-- [247](http://www.nuforc.org/webreports/reports/161/S161907.html)
-- [246](http://www.nuforc.org/webreports/reports/161/S161886.html)
-- [245](http://www.nuforc.org/webreports/reports/161/S161887.html)
-- [244](http://www.nuforc.org/webreports/reports/161/S161941.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
