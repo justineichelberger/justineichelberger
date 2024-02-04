@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 01:24:25 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 02:09:09 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2020, an anonymous witness in London (UK/England) () reported seeing craft that fit the description of some 'Unknown' over a period of approximately 20.0 - 20.0 minutes.</sub><blockquote><sub>line of white lightsi saw a string of white lights very high in a straight line equally spaced heading west to east, i watched them appear from nowhere 1 at a time and going at same pace</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/153/S153052.html](http://www.nuforc.org/webreports/reports/153/S153052.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Tempe (AZ) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Fireballs turn into jelly-saucersI was backing out of my driveway with my girlfriend and sister in the car when we noticed what appeared to be a fireball directly to the west, about halfway between the horizon and looking straight up.  We immediately pulled back into the driveway and got out of the car (which I left running).The object continued to ascend higher and higher into the atmosphere while a second object appeared slightly closer to the horizon compared to where the first object initially appeared.  A few seconds later the first object disappeared leaving the second object headed east.  Then what appeared to be a third object (or the return of the first) tailed the second object.At this point the two objects lost their firey appearance. They could still be seen on their easternly trajectory but now as soft, white objects with no illumination.  They almost had the appearance of white party balloons but they moved like jellyfish. They appeared to be spinning, but not in a perfect circle, a very wobbly circle.We watched them until they passed us to the north and disappeared over the horizon to the east.We actually saw a very similar object moving the opposite direction (west from east) over our house just a weeks ago, but did not report it.  We live very close to Sky Harbor and are quite familiar with standard aircraft.  I am a musician and videographer, my girlfriend is a painter and graphic artist, and my sister is a recent graduate of U of A.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87040.html](http://www.nuforc.org/webreports/reports/087/S87040.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
