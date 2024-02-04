@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 22:00:34 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 23:00:31 on 4 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Reno (NV) reported seeing craft that fit the description of some 'Disk' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Green saucer sighted over Reno, Nevada.A green saucer was sighted over the Reno Convention Center.  It was moving extremely fast.  A photo was being taken of the moon and the saucer entered the frame and then left.((NUFORC Note:  We suspect that the object is a lens flare.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117163.html](http://www.nuforc.org/webreports/reports/117/S117163.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Bakersfield (CA) reported seeing craft that fit the description of some 'Cone' over a period of approximately 90.0 - 90.0 minutes.</sub><blockquote><sub>Very bizzarre hovering bright object displays laser-type light activity.I would like to hear any reports on this date's evening.  The object myself and passenger witnessed was EXTREMELY bizarre and unlike anything either of us have ever seen both in person or on a UFO tv documentary. Was a very bright white light in the sky that both moved about slowly in the sky 2 - 5,000 feet up and also hovered absolutely motionless above us for minutes at a time.  The object also displayed very peculiar behaivior as described:  Completely dissappeared for approx. 2 seconds at a time on 3 separate occassions (or at least turned off all lights), eminated Red 'spikes' or short lasers of light which were very defined and not diffused light.  These were arbitrarily 'turned off and on' at different points of the sighting.  These spikes appeared to be in somewhat of an X form around the object and defintely moved or spun about the object.  Additionally, a white spike or laser type light  that appeared to acutally be 2 parallel lights projected out from the object in a downward direction.  These extended about 5 times the size of the object but did not go any further and also would be arbitrarily turned off and back on at different points. We witnessed the object about 10-20 miles south of Baker, CA and pulled off the side of the road to observe it for about 15min. as it hovered motionless in movement, but displayed the active lighting characteristics of the 'spike lasers' as it hovered.  Estimated distance from us was maybe 10 miles or so.  The object had no regularly flashing beacon lights as a domestic craft almost always does and it was much brighter than any aircraft i have ever witnessed at night or brighter than any star or other objects in the sky.  Visibility was clear with a full sky of stars.  Partial moon i believe was out because we could see the horizon of the small mountains in the surrounding area. Please reply to let me know of any similar reports or findings on this date. Thank you. Sincerely, ((name deleted))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16369.html](http://www.nuforc.org/webreports/reports/016/S16369.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [254](http://www.nuforc.org/webreports/reports/162/S162087.html)
-- [253](http://www.nuforc.org/webreports/reports/161/S161906.html)
-- [252](http://www.nuforc.org/webreports/reports/161/S161960.html)
-- [251](http://www.nuforc.org/webreports/reports/161/S161909.html)
-- [250](http://www.nuforc.org/webreports/reports/161/S161911.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
