@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 09:00:39 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 10:00:35 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Bowling Green (KY) reported seeing craft that fit the description of some 'Other' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>ALIEN ENTITY SEEN IN MY HOUSEPlease understand that this amazing story is true and not a figment of my imagination.  I live in Bowling Green, Kentucky, in a very old and historic neighborhood in the city.  I have seen and heard many paranormal things throughout my impossible lifetime, but this one was different.  The time was approximately 2:30 AM in the early morning and I suddenly woke up and saw a very strange thing.  There was a short human man walking down my hallway, with a large big-headed Alien entity!  I know it sounds crazy, but I know what I saw!  I couldn't believe it at first!  This being was very tall, close to 9 feet tall, and it's head was large and massive.  I could only see the entity from behind, but I will never forget it's head being so big.  The ET's arms and legs were very small, like looking at sticks.  I tried to communicate with this thing with no luck.  The ET and the short man just went on walking down my hallway and seemed to walk through the wall.  I was fully awake at the time, and it was no dream.  I have seen many things in this haunted house I live in, but never an Alien!  Where it cam from I do not know, but I have seen many UFO's in my lifetime.  A true Story!  JLG</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138782.html](http://www.nuforc.org/webreports/reports/138/S138782.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2014, an anonymous witness in Monaca (PA) reported seeing craft that fit the description of some 'Unknown' over a period of approximately  -  minutes.</sub><blockquote><sub>Bright white ball light with orange orb flying from it fast.A bright white light hovering moving from left to right and back, then a orange object came flying from it across the skys.  I got video of both.((NUFORC Note:  We attempted to contact the source of the report, but his telephone outgoing message informs callers that he does not take messages.  Possible hoax?  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/107/S107121.html](http://www.nuforc.org/webreports/reports/107/S107121.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
