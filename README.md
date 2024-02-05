@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 18:00:33 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 19:00:40 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Yachats (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Looking to eastern Ridge up Yachats River canyon.  Viewed craft for approx 25 minutes before it faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138774.html](http://www.nuforc.org/webreports/reports/138/S138774.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped ufo in maple valey almost crasheswas driving on my way t work on wax road in maple valley, heading to kent. it was quite dark out but not dark enough to see the stars. i hd this sudden feeling to look up as i was drivingand when i looked up and out my wind shield their was a huge aircraft and it looked like it was going to crash on the street. i mean this thing was low at firsti thought a passenger plane was going to crash. the guy driving in front of me, and my self pulled over and thats when i realized it was not  jet it was a huge triangle shaped somthing. i wached as t slowed down almost to a hover but then took off so fast it was gone in about 15 seconds this thing was fast!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68498.html](http://www.nuforc.org/webreports/reports/068/S68498.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
