@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 13:00:34 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 14:00:42 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hart (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>my sister and i witnessed a ufo on the morning of feb. 5, 1998 </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03097.html](http://www.nuforc.org/webreports/reports/003/S03097.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Gallatin (TN) reported seeing craft that fit the description of some 'Oval' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Found strange object in the ground that took off.I dont really know how to report this, I found your site after we looked on the internet for info about what happened to us just to see if anyone else had experienced something similar.  Me and my cousin metal detect for old coins and civil war relics and such, we went detecting saturday morning like we have for years, we had a really good spot picked out where a old house had been torn down in Gallatin near my home in Hendersonville TN.  We were there for about half an hour digging your typical nails and trash no coins yet, then I got a signal on my detector sounded good so I dug out a plug nothing in the hole so I new it was bigger than a coin and deeper, I dug down about 12 inches or so and seen the target it was silver in color so I called for my cousin to come over and look cause I just new I dug somthing made of silver. I took the taget out of the hole it looked alot like a pool ball but more egg shaped it was very light not soiid feeling more hollow. It! had a clear area around the center looked like glass flush with the rest of the object. I had it in my hand rubbing the dirt off when my cousin noticed that the glass area had some color to it that looked like it was moving like liquid and changing from green to red, I rubbed the area with my fingers to get a better look and thats when this thing shot out of my hand and just sat there in the air about 5 feet away from us, we were both screaming like girls for a second but then just kinda like a reaction I swung my shovel at this thing like a baseball bat and it moved out of the way, by this time my cousin had already took off toward the car so I followed him leaving our detectors just laying there. I yelled at him saying I will get them, I ran toward the detectors and thats when this thing just took off straight up in the air so fast and high we could not even see it anymore, needless to say we thought about calling the cops but we thought they would not believe us and thi! nk we were crazy or something, anyway I have a son in high sch! ool and he does not need everyone in town thinking his dads a nut. So we thought we would report this here and see if this has happened to anyone else or you may have info on what this could be UFO or what ever, I dont know it was so small like I said about the size of a pool ball, could that be a UFO?   We are also worried we may have been exposed to somthing that will effect our health.  Any info from who ever would be helpful.((NUFORC Note:  Witness elects to remain totally anonymous; provides little contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79965.html](http://www.nuforc.org/webreports/reports/079/S79965.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
