@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 07:00:36 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 08:00:40 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cameron Park (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>My report yesterday was mistaken.  It appears the planet Venus was what I was observing and it fooled me as I can never recall it being so bright and appearing so close.  Ugh, I'm embarrassed.  ((NUFORC Note:  We express our gratitude to the witness for having corrected his original report.  We agree that he probably observed Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49027.html](http://www.nuforc.org/webreports/reports/049/S49027.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2011, an anonymous witness in Fayetteville (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 240.0 - 240.0 minutes.</sub><blockquote><sub>One white light moveing very fast and irraticly over hope mills/fayetteville for over 4 hoursat first we thought it was a falling star..it fell very fast, straight down..stopped for a few seconds then went left straight across.It then moved back up and to the right. it would disappear behind clouds for a little bit..then reappear. It moved very fast and was very irratetic.  We watched it for over 4 hours.  It moved around like a kite on a very windy day.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/079/S79979.html](http://www.nuforc.org/webreports/reports/079/S79979.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
