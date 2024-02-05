@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 03:00:37 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 04:00:38 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bellflower (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped object hovering above a house in Bellflower CA.Driving home at around 12:22am, I saw a triangular shaped object (more arrow head shaped) in the sky hovering about 50 to 75 feet above a house about doors down from my house.  It had a red light on one side and a white light on the other with a flashing red light.  Because of the flashing red light I thought it was a helicopter at first.  The shape and size (smaller then any helicopter I've ever seen) is what drew my attention.  It took off faster and smother then a helicopter would.  I thought maybe it was a remote control hover craft because of it's size.  I wish I hadn't been driving so I could hear if it was making noise.  As low as it was you would think I could hear it even in the car if it was a helicopter.  The flashing light makes me think it was something man made, but it was small and triangular shaped.  It didn't look like anything I'd ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87037.html](http://www.nuforc.org/webreports/reports/087/S87037.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Normal (IL) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>tonight 02/05/2012 at around 11:20 pm, I saw and called someone else out to see a light that seemed to be hovering, spinning, we could not see shape, it was white and the lights seemed to be blinking or flashing red and blue lights while it would spin...yes it was red white and blue.  it was in the east sky  a month or so previous (late dec/early january?)possibly around 8:30? we both saw -- a bizarre display of what i can only explain as 3D -- what appeared to be 3 stars and 2 of them moved as if they were flipping over -- changed position and stopped and stayed in that position.I am always looking at the sky, stargazing.  i would spend hours at night, over several years, in the south and never saw anything other than falling stars and meteors.  i cant believe we have seen these things in Illinois in such a close timeframe.((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87053.html](http://www.nuforc.org/webreports/reports/087/S87053.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
