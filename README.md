@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 06:00:31 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 07:00:36 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Lubbock (TX) reported seeing craft that fit the description of some 'Sphere' over a period of approximately 5.0 - 5.0 minutes.</sub><blockquote><sub>hovering glowing objects, strategically line up and travel west.About 21:15 my family and I came outside to leave to our respective homes and my brother started yelling to look up in the sky just above the house at 4 large glowing round shapes in the sky.  We all looked and saw theses objects.  They were as high up as a small plane or helicopter would fly but the lights were much much larger in comparison to actual plane or helicopter lights.  They were just hanging out in a V line for about a minute, then the point positioned object took off straight up in the sky, the remaing objects lined up and traveled from east to west at a fast speed then disappeared.  We had 3 iphones out video taping andtaking pictures as best we could.  We also had a friend that lives about 30 miles south call and tell us he saw a hovering object west of his home.  Then disappear.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87051.html](http://www.nuforc.org/webreports/reports/087/S87051.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2006, an anonymous witness in Cameron Park (CA) reported seeing craft that fit the description of some '' over a period of approximately  -  minutes.</sub><blockquote><sub>My report yesterday was mistaken.  It appears the planet Venus was what I was observing and it fooled me as I can never recall it being so bright and appearing so close.  Ugh, I'm embarrassed.  ((NUFORC Note:  We express our gratitude to the witness for having corrected his original report.  We agree that he probably observed Venus.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/049/S49027.html](http://www.nuforc.org/webreports/reports/049/S49027.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
