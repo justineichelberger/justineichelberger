@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 12:00:37 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 13:00:34 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2001, an anonymous witness in Adairville (KY) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 15.0 - 15.0 minutes.</sub><blockquote><sub>3 craft, triangular shaped with dome top with yellow light, red  light on one wing blue light on other.  No engine noise.I saw a total of three crafts over open farmland fields.  Two remained at a distance pf about a half a mile away from the roadway.  One was about 300 yards from my vehicle and was triangular in shape with a dome top with a yellow light on in the dome.It was perfectly still at approximately 50 feet from the ground.  It did not have any engine noise, perfectly quite.  On the tips of the triangular end, was a red light on one side and a blue light on the other.  It appeared to be as large as a medium sized aircraft but not the shape of any aircraft that I have ever seen including the Stealth.  The lights began dimming and the craft began crossing the road and headed west silently and then flew away very fast.  I have seen these several nights while driving home from work.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/016/S16324.html](http://www.nuforc.org/webreports/reports/016/S16324.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1998, an anonymous witness in Hart (MI) reported seeing craft that fit the description of some 'Fireball' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>my sister and i witnessed a ufo on the morning of feb. 5, 1998 </sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/003/S03097.html](http://www.nuforc.org/webreports/reports/003/S03097.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
