@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 02:10:11 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 03:00:37 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2010, an anonymous witness in Langley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 180.0 - 180.0 minutes.</sub><blockquote><sub>Triangles of colored lights, two fairly stationary slowly moving higher in the night sky, two darting about that sped off.Looking east at approximately 6:00 PM on 2/05/10 I saw a triangle of colored lights stationary in the air, barely above the tree tops. I then saw another to the right, higher and farther away. The first one was close enough to make out the shape and colors of it quite clearly: A distinct triangle of blue, red, green and yellow lights.It looked very much like a Christmas decoration, and if it were in a position to possibly be atop something I wouldn’t have questioned it. But when I saw the other, higher and farther away, also stationary, I was baffled.I went around to the front of our house to get a better angle above the tree tops and saw, to the west, two more triangles.  These were dancing in the air. Flitting about. Then they sped off.I went back to the back yard and the two triangles were still there but each higher in the sky and farther away.  So, not stationary, but I was unable to see them move because it was so gradual.  One hour later the two in the back were still visible but much farther away and higher in the sky.We live near an air force base and have witnessed Harrier jets come to complete stops in mid air.  I would love to have that be the answer.  I just question why they would be lit up like Christmas trees and stay floating high in the sky for hours.   Also the triangles were always facing me so if they were on the wings and the nose of a plane it would have to have spent all its time on its side to give that view.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/074/S74301.html](http://www.nuforc.org/webreports/reports/074/S74301.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2012, an anonymous witness in Bellflower (CA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 1.0 - 1.0 minutes.</sub><blockquote><sub>Triangular shaped object hovering above a house in Bellflower CA.Driving home at around 12:22am, I saw a triangular shaped object (more arrow head shaped) in the sky hovering about 50 to 75 feet above a house about doors down from my house.  It had a red light on one side and a white light on the other with a flashing red light.  Because of the flashing red light I thought it was a helicopter at first.  The shape and size (smaller then any helicopter I've ever seen) is what drew my attention.  It took off faster and smother then a helicopter would.  I thought maybe it was a remote control hover craft because of it's size.  I wish I hadn't been driving so I could hear if it was making noise.  As low as it was you would think I could hear it even in the car if it was a helicopter.  The flashing light makes me think it was something man made, but it was small and triangular shaped.  It didn't look like anything I'd ever seen before.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/087/S87037.html](http://www.nuforc.org/webreports/reports/087/S87037.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
