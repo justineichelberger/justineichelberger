@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 17:00:35 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 18:00:33 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2017, an anonymous witness in Bend (OR) reported seeing craft that fit the description of some 'Formation' over a period of approximately 30.0 - 30.0 minutes.</sub><blockquote><sub>27+ lights in formation quickly moving across sky synchronizedMy wife and I both saw over 27 lights, the size of stars or satellites, moving across the sky rapidly in V patterns.  One fleet would pass, and then another batch would come out of the clouds and pass.  It was mind boggling.  Even our 2 year old baby was pointing at them and saying "moon, moon, moon".</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/132/S132496.html](http://www.nuforc.org/webreports/reports/132/S132496.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2018, an anonymous witness in Yachats (OR) reported seeing craft that fit the description of some 'Changing' over a period of approximately 25.0 - 25.0 minutes.</sub><blockquote><sub>Looking to eastern Ridge up Yachats River canyon.  Viewed craft for approx 25 minutes before it faded out.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/138/S138774.html](http://www.nuforc.org/webreports/reports/138/S138774.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
