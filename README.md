@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 00:00:32 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 01:22:48 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 1990, an anonymous witness in Sleepy Creek (NC) reported seeing craft that fit the description of some 'Light' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Mystery light attracts Air Force attention in NC.Object was orbiting Seymour Johnson AFB.Flight pattern very irregular.Lots of latteral movement.Light alternated between red,orange and white.No sound detectable.We witnessed from approximatley 12 mi.Altitude varied between 1200 and 15000 ft. estimated.Very captivating experience.10 minutes after event massive amount of F-4 interceptor activity.AF seemed to patrol for at least an hr. after event.Helicopters deployed searching the ground w/ lights.I should have wrote down event but this is pretty much all I remember.((NUFORC Note:  Date is approximate.  Seymour Johnson AFB also reported a UFO on its periphery on the evening of November 17, 1995.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21785.html](http://www.nuforc.org/webreports/reports/021/S21785.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2002, an anonymous witness in Gaylord (MI) reported seeing craft that fit the description of some 'Rectangle' over a period of approximately 2.0 - 2.0 minutes.</sub><blockquote><sub>WOWDrivingnorthbound on 1-75 1/4 mile from mile marker 283 at 8:35pm on tuesday feb. 5, 2002.  My mother and I witnessed a rectangular shaped object gliding southbound in between the north and southbound lanes, it was a greyish white color that seemed illuminated.  It looked small, 2-4 feet wide, it glided at a maintained level out of sight.  It looked to be around 40-50 feet up in the air.  It was gliding against the wind without losing altitude.  I have never seen anythin like it...  It was no plane, It was no weather balloon, It was nothing blowing in the wind...  It glided at a maintained height, against the wind...</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/021/S21734.html](http://www.nuforc.org/webreports/reports/021/S21734.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
