@@ -212,9 +212,9 @@
 <h4><details open>
 <summary>&nbsp;&nbsp;&nbsp;anecdotes</summary><br>
 
-<sub>last updated at 19:00:40 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
+<sub>last updated at 20:00:35 on 5 February 2024 (UTC) and again in an hour hence with data from the <i><a href="https://nuforc-sightings-database-api.herokuapp.com/">nuforc-sightings-database-api</a></i></sub><br>
 
-![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2009, an anonymous witness in Maple Valley (WA) reported seeing craft that fit the description of some 'Triangle' over a period of approximately 3.0 - 3.0 minutes.</sub><blockquote><sub>Triangle shaped ufo in maple valey almost crasheswas driving on my way t work on wax road in maple valley, heading to kent. it was quite dark out but not dark enough to see the stars. i hd this sudden feeling to look up as i was drivingand when i looked up and out my wind shield their was a huge aircraft and it looked like it was going to crash on the street. i mean this thing was low at firsti thought a passenger plane was going to crash. the guy driving in front of me, and my self pulled over and thats when i realized it was not  jet it was a huge triangle shaped somthing. i wached as t slowed down almost to a hover but then took off so fast it was gone in about 15 seconds this thing was fast!!!((NUFORC Note:  Witness elects to remain totally anonymous; provides no contact information.  PD))</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/068/S68498.html](http://www.nuforc.org/webreports/reports/068/S68498.html)</i></sub></sub></sub><br>
+![neural-network-icon-16](./images/hud_cursor_01.gif "feature") <sub>On this day in 2015, an anonymous witness in Farmington (UT) reported seeing craft that fit the description of some 'Circle' over a period of approximately 0.16666666666666666 - 0.16666666666666666 minutes.</sub><blockquote><sub>Black orb moving across a bright patch of sky in the early morning.I was getting ready for the day, when I looked outside and saw a patch of sky on the western horizon that was bright as day, but the sun was still behind the mountains so it was dark everywhere else. Then I saw a black, perfectly round orb, about the size of a dime from my perspective move across the sky.  It was only visible for about 10 seconds.</sub></blockquote><sub><sub><i>source: [http://www.nuforc.org/webreports/reports/117/S117173.html](http://www.nuforc.org/webreports/reports/117/S117173.html)</i></sub></sub></sub><br>
 <h5><details open>
 <summary>&nbsp;&nbsp;&nbsp;aftermost anecdotes</summary><br>
 
@@ -222,11 +222,7 @@
   
 <sub>
 <!-- BLOG-POST-LIST:START -->
-- [269](http://www.nuforc.org/webreports/reports/161/S161897.html)
-- [268](http://www.nuforc.org/webreports/reports/161/S161930.html)
-- [267](http://www.nuforc.org/webreports/reports/161/S161947.html)
-- [266](http://www.nuforc.org/webreports/reports/161/S161956.html)
-- [265](http://www.nuforc.org/webreports/reports/161/S161929.html)
+
 <!-- BLOG-POST-LIST:END -->
 </sub><br><br>
 
